@@ -144,7 +144,7 @@ tasks:
         .openrefine/client project \
         --template "$(< config/template.txt)" \
         --mode=record-based \
-        --rowSeparator ""
+        --rowSeparator "" \
         --output "$(readlink -m output/project.txt)" \
         > >(tee -a .openrefine/log.txt) 2>&1
 
