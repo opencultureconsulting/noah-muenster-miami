@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_584d2710-9cfb-4651-9e8b-b7bd6295f806">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Prognose der jährlichen Leistungsentwicklung im Krankenhaus unter DRG-Bedingungen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140889213">
+                        <displayForm>Brüning, Kristina</displayForm>
+                        <namePart type="given">Kristina</namePart>
+                        <namePart type="family">Brüning</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124936911">
+                        <displayForm>Roeder, Norbert</displayForm>
+                        <namePart type="given">Norbert</namePart>
+                        <namePart type="family">Roeder</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-01-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-01-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Seit Einführung eines fallpauschalierten Vergütungssystems zur Abrechnung vollstationärer Leistungen im Krankenhaus gewinnt die Leistungsplanung im Krankenhaus bei den jährlichen Leistungs- und Entgeltverhandlungen mit den Kostenträgern immer mehr an Bedeutung; diese ist valide letztlich nur durch die enge Abstimmung zwischen den klinisch tätigen Ärzten und dem Krankenhausmanagement möglich. Bei der Leistungsplanung spielt die Prognose von Leistungen eine entscheidende Rolle. Im Rahmen dieser Arbeit erfolgte die Entwicklung eines Modells zur Prognose der Leistungsentwicklung im Krankenhaus auf Grundlage periodenbezogener Leistungsdaten (Casemix) des Universitätsklinikums Münster im Zeitraum Juli 2006 bis Juni 2008. Dabei wurden neben „fertigen Leistungen“, d.h. Behandlungsfällen, die bereits entlassen und abgerechnet wurden, auch „unfertige Leistungen“, d.h. Leistungen, die bereits erbracht, aber noch nicht abgerechnet werden konnten, da die Behandlungsfälle noch nicht aus dem Krankenhaus entlassen wurden, berücksichtigt.</abstract>
+                    <subject lang="ger">
+                        <topic>G-DRG-System</topic>
+                        <topic>unfertige Leistungen</topic>
+                        <topic>Leistungsentwicklung</topic>
+                        <topic>Prognose</topic>
+                        <topic>Prognosemodell</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98499407752</identifier>
+                    <identifier type="sys">HT016345581</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_584d2710-9cfb-4651-9e8b-b7bd6295f806</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_584d2710-9cfb-4651-9e8b-b7bd6295f806_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/584d2710-9cfb-4651-9e8b-b7bd6295f806/diss_bruening.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_584d2710-9cfb-4651-9e8b-b7bd6295f806" DMDID="DMD_584d2710-9cfb-4651-9e8b-b7bd6295f806">
+            <mets:fptr FILEID="FILE_584d2710-9cfb-4651-9e8b-b7bd6295f806_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

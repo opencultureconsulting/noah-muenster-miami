@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_80837801-4ae5-4d3f-b7f4-68def3aadfee">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einleitung</title>
+                        <subTitle>in: Rhetorik und Gender</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123456878">
+                        <displayForm>Bischoff, Doerte</displayForm>
+                        <namePart type="given">Doerte</namePart>
+                        <namePart type="family">Bischoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-01-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Bischoff, Doerte; Wagner-Egelhaaf, Martina (Hrsg.): Rhetorik und Gender (Rhetorik ; Bd. 29). Berlin ; New York : De Gruyter, 2010. ISBN 978-3-11-022325-5, S. VII-XV</note>
+                    <note type="ownership">Die Veröffentlichung erfolgt mit freundlicher Genehmigung des de Gruyter Verlages.</note>
+                    <subject lang="ger">
+                        <topic>Rhetorik</topic>
+                        <topic>Gender</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66129710836</identifier>
+                    <identifier type="doi">10.1515/9783110223262.0.VII</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_80837801-4ae5-4d3f-b7f4-68def3aadfee</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_80837801-4ae5-4d3f-b7f4-68def3aadfee_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/80837801-4ae5-4d3f-b7f4-68def3aadfee/wagner-egelhaaf_2010_einleitung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_80837801-4ae5-4d3f-b7f4-68def3aadfee" DMDID="DMD_80837801-4ae5-4d3f-b7f4-68def3aadfee">
+            <mets:fptr FILEID="FILE_80837801-4ae5-4d3f-b7f4-68def3aadfee_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_73bb5c62-2be9-4aaa-ab96-d44a42a2287f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biologie, Geschichte und die Zeit</title>
+                        <subTitle>zum &quot;Schülerwettbewerb Deutsche Geschichte um den Preis des Bundespräsidenten&quot; 2000/2001: Tiere in unserer Geschichte</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106971697">
+                        <displayForm>Hesse, Manfred</displayForm>
+                        <namePart type="given">Manfred</namePart>
+                        <namePart type="family">Hesse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124742904">
+                        <displayForm>Ewig, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Ewig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es werden die Wettbewerbsbedingungen des Schülerwettbewerbs &quot;Deutsche Geschichte...&quot; dargelegt und für den Jahrgang 2000/2001 kommentiert. Kriterien für die Auswahl der publizierten Kurzfassungen werden aufgezeigt und auf die Bedeutung des Wettbewerbs – auch bezüglich der Biologiedidaktik – eingegangen. Ein Abriss zur Tragweite der &quot;Zeit&quot; für biologische Phänomene im weitesten Sinne zeigt das Fächerübergreifende umfassend aus biologischer Perspektive auf.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Biologiedidaktik</topic>
+                        <topic>Körber-Stiftung</topic>
+                        <topic>Tiere</topic>
+                        <topic>Geschichte</topic>
+                        <topic>Schülerwettbewerb</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>5</start>
+                                <end>18</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659546514</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_73bb5c62-2be9-4aaa-ab96-d44a42a2287f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_73bb5c62-2be9-4aaa-ab96-d44a42a2287f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/73bb5c62-2be9-4aaa-ab96-d44a42a2287f/hesse.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_73bb5c62-2be9-4aaa-ab96-d44a42a2287f" DMDID="DMD_73bb5c62-2be9-4aaa-ab96-d44a42a2287f">
+            <mets:fptr FILEID="FILE_73bb5c62-2be9-4aaa-ab96-d44a42a2287f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dfea7c25-9fef-42a8-86a4-8f6f3007cc67">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Swapping, tempering and equi-energy sampling on a selection of models in statistical mechanics</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13618930X">
+                        <displayForm>Ebbers, Mirko</displayForm>
+                        <namePart type="given">Mirko</namePart>
+                        <namePart type="family">Ebbers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133460967">
+                        <displayForm>Löwe, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Löwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-02-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-01-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit werden drei Varianten des Metropolis-Hastings Algorithmus betrachtet. Simulated Tempering, Swapping und Equi-Energy Sampling sollen durch Hinzufügen eines Temperaturschritts die Konvergenzgeschwindigkeit dieser Algorithmen gegenüber dem zugrunde liegenden Metropolis-Hastings Algorithmus in Situationen verbessern, in denen dieser langsam gegen das gewünschte Wahrscheinlichkeitsmaß konvergiert. Es wird gezeigt, dass der Swapping Algorithmus im Generalized-Curie-Weiss Modell in polynomiell vielen Schritten konvergiert. Im Blume-Emery-Grifiths Modell ist die Konvergenz in einem Parameterbereich auch schnell, während sie in einem anderen Parameterbereich langsam ist. Auch für die Spingläser Random-Energy-Model und Generalized-Random-Energy-Model benötigen Simulated Tempering und Swapping exponentiell viele Schritte um nahe an die gewünschte Verteilung zu gelangen. Schließlich wird noch gezeigt, dass der Equi-Energy Algorithmus im Potts Modell langsam mischt.</abstract>
+                    <subject lang="ger">
+                        <topic>Energy Sampling</topic>
+                        <topic>Metropolis-Hastings Algorithmus</topic>
+                        <topic>Random-Energy-Model</topic>
+                        <topic>Generalized-Random-Energy-Model</topic>
+                        <topic>Blume-Emery-Grifiths Modell</topic>
+                        <topic>Generalized-Curie-Weiss Modell</topic>
+                        <topic>Potts Modell</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25429484071</identifier>
+                    <identifier type="sys">HT016758804</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dfea7c25-9fef-42a8-86a4-8f6f3007cc67</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dfea7c25-9fef-42a8-86a4-8f6f3007cc67_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dfea7c25-9fef-42a8-86a4-8f6f3007cc67/diss_ebbers.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dfea7c25-9fef-42a8-86a4-8f6f3007cc67" DMDID="DMD_dfea7c25-9fef-42a8-86a4-8f6f3007cc67">
+            <mets:fptr FILEID="FILE_dfea7c25-9fef-42a8-86a4-8f6f3007cc67_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

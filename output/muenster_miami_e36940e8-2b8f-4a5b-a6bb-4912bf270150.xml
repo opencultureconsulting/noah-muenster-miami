@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e36940e8-2b8f-4a5b-a6bb-4912bf270150">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fritz Horst, Zedau. Eine jungbronze- und eisenzeitliche Siedlung in der Altmark</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108081737">
+                        <displayForm>Jockenhövel, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Jockenhövel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1990</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-03-12</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-03-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Germania 68 (1990) 1, 269-274</note>
+                    <classification authority="ddc">930</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-31429445558</identifier>
+                    <identifier type="issn">0016-8874</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e36940e8-2b8f-4a5b-a6bb-4912bf270150</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e36940e8-2b8f-4a5b-a6bb-4912bf270150_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e36940e8-2b8f-4a5b-a6bb-4912bf270150/1990_jocke_jungb.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e36940e8-2b8f-4a5b-a6bb-4912bf270150" DMDID="DMD_e36940e8-2b8f-4a5b-a6bb-4912bf270150">
+            <mets:fptr FILEID="FILE_e36940e8-2b8f-4a5b-a6bb-4912bf270150_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

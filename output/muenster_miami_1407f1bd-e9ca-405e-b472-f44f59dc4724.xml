@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1407f1bd-e9ca-405e-b472-f44f59dc4724">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Non-negative matrix factorization for dynamic positron emission tomography</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1175136875">
+                        <displayForm>Engbers, Ralf</displayForm>
+                        <namePart type="given">Ralf</namePart>
+                        <namePart type="family">Engbers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-01-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-12-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Koronare Herzkrankheiten sind weltweit die häufigste Todesursache und nicht-invasive medizinische Bildgebungsverfahren wie Positronen-Emissions-Tomographie (PET) sind wichtig um bei der möglichst frühen Diagnose von Patienten zu helfen, die unter Atherosklerose leiden. Leider führt die Qualität der zur Blutflussuntersuchung genutzten dynamischen PET Daten basierend auf radioaktivem Wasser zu schwierigen Rekonstruktions- und Parameterschätzungsproblemen.Nicht-negative Matrix Faktorisierung (NMF) wird erfolgreich in vielen verschiedenen Bereichen als Datenanalysemethode angewandt. In dieser Arbeit werden wir die Anwendung von NMF auf dynamisches PET über passende Modelle motivieren und untersuchen die Ergebnisse verschiedener NMF Algorithmen anhand von dynamischen PET Messungen mit sehr schlechter Statistik.</abstract>
+                    <abstract lang="eng">Coronary heart disease is the most common cause of death in the world and non-invasive medical imaging techniques like positron emission tomography (PET) are important to help diagnose a patient suffering from atherosclerosis as early as possible. Unfortunately, dynamic PET measurements using radioactive water to examine blood flow create challenging image reconstruction and parameter estimation problems.Non-negative matrix factorization (NMF) has been successfully used as a data analysis tool for many different applications. In this thesis, we will motivate the use of NMF through model-based approaches to dynamic PET reconstruction and examine the results and performance of different NMF algorithms when applied to dynamic PET measurements with very poor statistics.</abstract>
+                    <subject lang="ger">
+                        <topic>Myokardialer Blutfluss</topic>
+                        <topic>dynamisches PET</topic>
+                        <topic>kinetische Modellierung</topic>
+                        <topic>modellbasierte Rekonstruktion</topic>
+                        <topic>nicht-negative Matrixfaktorisierung</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Myocardial blood flow</topic>
+                        <topic>dynamic PET</topic>
+                        <topic>kinetic modeling</topic>
+                        <topic>model-based reconstruction</topic>
+                        <topic>non-negative matrix factorization</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-36129686122</identifier>
+                    <identifier type="sys">HT019932313</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1407f1bd-e9ca-405e-b472-f44f59dc4724</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1407f1bd-e9ca-405e-b472-f44f59dc4724_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1407f1bd-e9ca-405e-b472-f44f59dc4724/diss_engbers.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1407f1bd-e9ca-405e-b472-f44f59dc4724" DMDID="DMD_1407f1bd-e9ca-405e-b472-f44f59dc4724">
+            <mets:fptr FILEID="FILE_1407f1bd-e9ca-405e-b472-f44f59dc4724_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

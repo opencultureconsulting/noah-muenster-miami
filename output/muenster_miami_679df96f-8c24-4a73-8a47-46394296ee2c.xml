@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_679df96f-8c24-4a73-8a47-46394296ee2c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ReSeqLIMS: Laborinformations- und Managementsystem für die Hochdurchsatz-Resequenzierung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024221733">
+                        <displayForm>Schmitz-Hübsch, David Johannes</displayForm>
+                        <namePart type="given">David Johannes</namePart>
+                        <namePart type="family">Schmitz-Hübsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024221733">
+                        <displayForm>Hübsch, David Johannes Schmitz-</displayForm>
+                        <namePart type="given">David Johannes Schmitz-</namePart>
+                        <namePart type="family">Hübsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112740553">
+                        <displayForm>Harmsen, Dag</displayForm>
+                        <namePart type="given">Dag</namePart>
+                        <namePart type="family">Harmsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-07-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-07-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die molekulare Typisierung von Mikroorganismen ist zur Erkennung von Infektionsausbrüchen und langfristiger evolutionärer Trends von immenser Bedeutung. Neben laborseitigen Anforderungen für die Hochdurchsatz-Resequenzierung stehen leistungsfähige Laborinformations- und Managementsysteme (LIMS) im Fokus. Die Webanwendung ReSeqLIMS wurde in einer Drei-Schichten-Architektur implementiert. Die Präsentationsschicht wurde mit Hilfe von JavaServerFaces (JSF), die Logikschicht mittels Java programmiert. Hibernate als Middleware garantiert Datenbankunabhängigkeit. Die Funktionalität kann in Module differenziert werden. Das Kundenmodul umfasst u.a. das Anwender- und Rechnungsmanagement. Die Integration der Arbeitsschritte in einen qualitätsüberwachten Workflow erfolgt im Labormodul. Gerätespezifische Parameter werden im Gerätemodul verwaltet. Das ReSeqLIMS ermöglicht die Steuerung des Datenflusses während der Laborprozesse und stellt die Resequenzierungsdaten für Downstream-Analysen bereit.</abstract>
+                    <subject lang="ger">
+                        <topic>LIMS</topic>
+                        <topic>Resequenzierung</topic>
+                        <topic>JavaServerFaces</topic>
+                        <topic>MLST</topic>
+                        <topic>Epidemiologie</topic>
+                        <topic>Webanwendung</topic>
+                        <topic>Drei-Schichten-Architektur</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20409565080</identifier>
+                    <identifier type="sys">HT017309942</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_679df96f-8c24-4a73-8a47-46394296ee2c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_679df96f-8c24-4a73-8a47-46394296ee2c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/679df96f-8c24-4a73-8a47-46394296ee2c/diss_schmitz-huebsch.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_679df96f-8c24-4a73-8a47-46394296ee2c" DMDID="DMD_679df96f-8c24-4a73-8a47-46394296ee2c">
+            <mets:fptr FILEID="FILE_679df96f-8c24-4a73-8a47-46394296ee2c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

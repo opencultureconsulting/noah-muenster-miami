@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_65756b93-fd77-48bb-8c85-6883468c4063">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Model reduction for parametric multi-scale problems</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1098152174">
+                        <displayForm>Schindler, Felix</displayForm>
+                        <namePart type="given">Felix</namePart>
+                        <namePart type="family">Schindler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1098152174">
+                        <displayForm>Albrecht, Felix</displayForm>
+                        <namePart type="given">Felix</namePart>
+                        <namePart type="family">Albrecht</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115010972">
+                        <displayForm>Ohlberger, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Ohlberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-04-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-10-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit behandelt elliptische parametrische mehrskalen Probleme, deren numerische Approximation sowohl durch ihren parametrischen als auch durch ihren mehrskalen Charakter erschwert wird. In diesem Zusammenhang stellen wir die lokalisierte reduzierte Basis mehrskalen Methode (LRBMS) zur exakten und effizienten Approximation dieser Probleme vor. Dazu kombinieren wir Lokalisierungsansätze aus numerischen mehrskalen Methoden mit Ansätzen der Modellreduktion aus dem Bereich der reduzierte Basis Methoden. Wir stellen einen neuen zuverlässigen und lokalisierbaren a posteriori Fehlerschätzer vor, um Diskretisierungs- und Modellreduktionsfehler effizient zu bewerten. Aufbauend darauf schlagen wir ein adaptives Verfahren vor, um die Lösung durch lokale Korrekturprobleme zu verbessern. Zusätzlich stellen wir ein generisches Diskretisierungs- und Modellreduktions-Frameworks vor und demonstrieren die Anwendbarkeit der LRBMS im Zusammenhang mit ein-Phasen Strömung in porösen Medien.</abstract>
+                    <abstract lang="eng">The present work deals with elliptic parametric multiscale problems, which inherit the computational challenges of both multiscale and parametric problems. We present the localized reduced basis multiscale method (LRBMS) for the efficient and accurate approximation of such problems. Therefore, the LRBMS combines localization ideas from numerical multiscale methods with model reduction techniques from reduced basis methods. We present a new reliable and localizable a posteriori error estimate, which allows to efficiently assess discretization and model reduction errors during all stages of the computational process. Based on this estimate, we propose an adaptive online enrichment procedure to improve the quality of the resulting approximation by solving local corrector problems. In addition, we present a generic discretization and model reduction software framework and demonstrate the applicability of the LRBMS, in particular in the context of single-phase flow in porous media.</abstract>
+                    <subject lang="ger">
+                        <topic>Numerische Analysis</topic>
+                        <topic>Partielle Differentialgleichungen</topic>
+                        <topic>Mehrskalen Probleme</topic>
+                        <topic>Modellreduktion</topic>
+                        <topic>Wissenschaftliches Rechnen</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>numerical analysis</topic>
+                        <topic>partial differential equations</topic>
+                        <topic>multiscale problems</topic>
+                        <topic>model reduction</topic>
+                        <topic>scientific computing</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66219639135</identifier>
+                    <identifier type="sys">HT018952411</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_65756b93-fd77-48bb-8c85-6883468c4063</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_65756b93-fd77-48bb-8c85-6883468c4063_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/65756b93-fd77-48bb-8c85-6883468c4063/diss_schindler_felix.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_65756b93-fd77-48bb-8c85-6883468c4063" DMDID="DMD_65756b93-fd77-48bb-8c85-6883468c4063">
+            <mets:fptr FILEID="FILE_65756b93-fd77-48bb-8c85-6883468c4063_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

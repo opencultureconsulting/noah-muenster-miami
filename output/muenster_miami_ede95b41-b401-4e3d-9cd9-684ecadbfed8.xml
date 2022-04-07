@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ede95b41-b401-4e3d-9cd9-684ecadbfed8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Computational Identification of Novel Genes: Current and Future Perspectives</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141863510">
+                        <displayForm>Klasberg, Steffen</displayForm>
+                        <namePart type="given">Steffen</namePart>
+                        <namePart type="family">Klasberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1121583997">
+                        <displayForm>Bitard-Feildel, Tristan</displayForm>
+                        <namePart type="given">Tristan</namePart>
+                        <namePart type="family">Bitard-Feildel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141863529">
+                        <displayForm>Mallet, Ludovic</displayForm>
+                        <namePart type="given">Ludovic</namePart>
+                        <namePart type="family">Mallet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-08-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-09-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="eng">While it has long been thought that all genomic novelties are derived from the existing material, many genes lacking homology to known genes were found in recent genome projects. Some of these novel genes were proposed to have evolved de novo, ie, out of noncoding sequences, whereas some have been shown to follow a duplication and divergence process. Their discovery called for an extension of the historical hypotheses about gene origination. Besides the theoretical breakthrough, increasing evidence accumulated that novel genes play important roles in evolutionary processes, including adaptation and speciation events. Different techniques are available to identify genes and classify them as novel. Their classification as novel is usually based on their similarity to known genes, or lack thereof, detected by comparative genomics or against databases. Computational approaches are further prime methods that can be based on existing models or leveraging biological evidences from experiments. Identification of novel genes remains however a challenging task. With the constant software and technologies updates, no gold standard, and no available benchmark, evaluation and characterization of genomic novelty is a vibrant field. In this review, the classical and state-of-the-art tools for gene prediction are introduced. The current methods for novel gene detection are presented; the methodological strategies and their limits are discussed along with perspective approaches for further studies.</abstract>
+                    <note type="citation/reference">Bioinformatics and Biology Insights 10 (2016), 121-131</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2015/2016 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>novel genes</topic>
+                        <topic>de novo genes</topic>
+                        <topic>novel domains</topic>
+                        <topic>gene detection</topic>
+                        <topic>evolutionary genomics</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64269449370</identifier>
+                    <identifier type="doi">10.4137/BBI.S39950</identifier>
+                    <identifier type="issn">1177-9322</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ede95b41-b401-4e3d-9cd9-684ecadbfed8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ede95b41-b401-4e3d-9cd9-684ecadbfed8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ede95b41-b401-4e3d-9cd9-684ecadbfed8/f_5810-BBI-Computational-Identification-of-Novel-Genes-Current-and-Future-Perspe.pdf_7721.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ede95b41-b401-4e3d-9cd9-684ecadbfed8" DMDID="DMD_ede95b41-b401-4e3d-9cd9-684ecadbfed8">
+            <mets:fptr FILEID="FILE_ede95b41-b401-4e3d-9cd9-684ecadbfed8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

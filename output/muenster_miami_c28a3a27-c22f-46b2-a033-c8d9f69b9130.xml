@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c28a3a27-c22f-46b2-a033-c8d9f69b9130">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur genotypischen Variabilität von Eikenella corrodens mittels ERIC2-PCR und Sequenzierung der 16S rDNA</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133590194">
+                        <displayForm>Swaneburg, Ruth Maria</displayForm>
+                        <namePart type="given">Ruth Maria</namePart>
+                        <namePart type="family">Swaneburg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133590194">
+                        <displayForm>Kaiser, Ruth Maria</displayForm>
+                        <namePart type="given">Ruth Maria</namePart>
+                        <namePart type="family">Kaiser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112740553">
+                        <displayForm>Harmsen, Dag</displayForm>
+                        <namePart type="given">Dag</namePart>
+                        <namePart type="family">Harmsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-10-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-09-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eikenella corrodens wird als Pathogen mit der Parodontitis assoziiert. Ziel der Arbeit war die Darstellung der genotypischen Variabilität mittels „ERIC2-PCR“ und „Sequenzierung des 16S rRNA-Gens“ sowie eine evtl. mögliche Subtypisierung hinsichtlich der Herkunft der Isolate. An 69 Isolaten wurde die ERIC2-PCR durchgeführt. Der Vergleich von Fragmentgrößen und –anzahl führte zur Bildung von 14 Hauptgruppen. Nach der Sequenzierung wurde auf Variabilitäten der Nukleotidabfolge untersucht, 8 Cluster wurden gebildet. Beide Verfahren lassen keinen Einfluss der Isolatherkunft auf Gruppen- oder Clusterbildung erkennen. Die Ergebnisse bestätigen die bekannte Heterogenität der Spezies. Die ERIC2-PCR ist durch die große Anzahl der entstehenden Gruppen, welche der Spezies nicht mehr eindeutig zugeordnet werden können, unpraktikabel. Die Sequenzierung erlaubt eine Zuordnung zur Hauptspezies, die prozentuale Heterogenität ist aber zu gering. Für die Subtypisierung sind die Verfahren unzureichend.</abstract>
+                    <subject lang="ger">
+                        <topic>Eikenella corrodens</topic>
+                        <topic>ERIC2-PCR</topic>
+                        <topic>Sequenzierung</topic>
+                        <topic>16S rDNA</topic>
+                        <topic>Genotypisierung</topic>
+                        <topic>Heterogenität</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-47529451203</identifier>
+                    <identifier type="sys">HT015362175</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c28a3a27-c22f-46b2-a033-c8d9f69b9130</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c28a3a27-c22f-46b2-a033-c8d9f69b9130_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c28a3a27-c22f-46b2-a033-c8d9f69b9130/diss_swaneburg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c28a3a27-c22f-46b2-a033-c8d9f69b9130" DMDID="DMD_c28a3a27-c22f-46b2-a033-c8d9f69b9130">
+            <mets:fptr FILEID="FILE_c28a3a27-c22f-46b2-a033-c8d9f69b9130_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

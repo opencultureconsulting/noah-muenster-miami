@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3403b0cd-05a0-4e6a-ab96-9be269f2f62d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum 30. Todestag des Staatsrechtlers Rudolf Smend</title>
+                        <subTitle>Würdigung und Ausblick</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135697786">
+                        <displayForm>Notthoff, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Notthoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-07-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-07-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Hinweis auf die politische Aktualität des Verfassungsverständnisses Rudolf Smends; Umriss eines Forschungsvorhabens</abstract>
+                    <subject lang="ger">
+                        <topic>Verfassung</topic>
+                        <topic>Wissenschaftsgeschichte</topic>
+                    </subject>
+                    <classification authority="ddc">320</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659519973</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3403b0cd-05a0-4e6a-ab96-9be269f2f62d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3403b0cd-05a0-4e6a-ab96-9be269f2f62d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3403b0cd-05a0-4e6a-ab96-9be269f2f62d/wuerdigung_smend.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3403b0cd-05a0-4e6a-ab96-9be269f2f62d" DMDID="DMD_3403b0cd-05a0-4e6a-ab96-9be269f2f62d">
+            <mets:fptr FILEID="FILE_3403b0cd-05a0-4e6a-ab96-9be269f2f62d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

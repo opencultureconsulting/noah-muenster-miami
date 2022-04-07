@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_30ca4af5-c45f-4d72-ad49-cf4e3a136a44">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>alte Morsche ist zusammengebrochen … Es lebe die deutsche Republik</title>
+                        <subTitle>Demokratisierung der Kommunalpolitik in Lüdinghausen von den Endjahren der Kaiserzeit bis zu den Anfangsjahren der Weimarer Republik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwarzenberg, Heribert</displayForm>
+                        <namePart type="given">Heribert</namePart>
+                        <namePart type="family">Schwarzenberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">StudyThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Demokratie</topic>
+                        <topic>Kaiserreich</topic>
+                        <topic>Weimarer Republik</topic>
+                        <topic>Bundesrepublik</topic>
+                        <topic>Forschendes Lernen</topic>
+                        <topic>Studium im Alter</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25019450097</identifier>
+                    <identifier type="sys">HT021281867</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_30ca4af5-c45f-4d72-ad49-cf4e3a136a44</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaStudyThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_30ca4af5-c45f-4d72-ad49-cf4e3a136a44_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/30ca4af5-c45f-4d72-ad49-cf4e3a136a44/demokratiegeschichten_04_schwarzenberg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_30ca4af5-c45f-4d72-ad49-cf4e3a136a44" DMDID="DMD_30ca4af5-c45f-4d72-ad49-cf4e3a136a44">
+            <mets:fptr FILEID="FILE_30ca4af5-c45f-4d72-ad49-cf4e3a136a44_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

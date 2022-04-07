@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_25810045-f2af-45e0-b554-cdf5ee46ce66">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Urheberrecht und Wissenschaft</title>
+                        <subTitle>am Beispiel der Bibliotheksfreiheit</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-06-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-06-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Kerres, Michael (Hrsg.): Hochschulen im digitalen Zeitalter : Innovationspotenziale und Strukturwandel. Münster : Waxmann, 2005, ISBN 3-8309-1538-1, S. 69-103</note>
+                    <subject lang="ger">
+                        <topic>Urheberrecht</topic>
+                        <topic>Wissenschaft</topic>
+                        <topic>Bibliotheksfreiheit</topic>
+                        <topic>2005</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-63349485204</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_25810045-f2af-45e0-b554-cdf5ee46ce66</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_25810045-f2af-45e0-b554-cdf5ee46ce66_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/25810045-f2af-45e0-b554-cdf5ee46ce66/Urheberrecht_und_Wissenschaft__BIB.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_25810045-f2af-45e0-b554-cdf5ee46ce66" DMDID="DMD_25810045-f2af-45e0-b554-cdf5ee46ce66">
+            <mets:fptr FILEID="FILE_25810045-f2af-45e0-b554-cdf5ee46ce66_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

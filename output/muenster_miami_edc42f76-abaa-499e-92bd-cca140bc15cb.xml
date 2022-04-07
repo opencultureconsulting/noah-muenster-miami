@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_edc42f76-abaa-499e-92bd-cca140bc15cb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Krebspest und Neozoenproblematik</title>
+                        <subTitle>Behandlung im Sachunterricht und Umsetzung in der Lehrerausbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121752747">
+                        <displayForm>Grümme, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Grümme</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-01-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-01-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Behandlung der Neozoenproblematik im Sachunterricht erhält gerade im Kontext mit dem Ziel der Agenda 21 „Erhaltung der biologischen Vielfalt“ und der von der Bund-Länder-Kommission geforderten „Gestaltungskompetenz“ eine fundamentale Bedeutung für Grundschüler. Die Krebspest ist eine Erkrankung durch Schlauchpilze, die zu einer starken Gefährdung des einheimischen Edelkrebses führt und durch in Zoohandlungen verkaufte nordamerikanische Flusskrebsarten übertragen wird. Im Sachunterricht und in der Lehrerausbildung sollen bei Behandlung dieser Themenproblematik weitestgehend Methoden angewendet werden, die eine selbstgesteuerte, tiefgehende Auseinandersetzung mit lebenden Flusskrebsen ermöglichen, wie beispielsweise das Experimentieren, das Untersuchen und das Halten und Pfl egen von Flusskrebsen.</abstract>
+                    <subject lang="ger">
+                        <topic>Neozoen</topic>
+                        <topic>Krebspest</topic>
+                        <topic>Sachunterricht</topic>
+                        <topic>Lehrerausbildung</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>19</start>
+                                <end>38</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659522813</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_edc42f76-abaa-499e-92bd-cca140bc15cb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_edc42f76-abaa-499e-92bd-cca140bc15cb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/edc42f76-abaa-499e-92bd-cca140bc15cb/idb12-19-38.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_edc42f76-abaa-499e-92bd-cca140bc15cb" DMDID="DMD_edc42f76-abaa-499e-92bd-cca140bc15cb">
+            <mets:fptr FILEID="FILE_edc42f76-abaa-499e-92bd-cca140bc15cb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

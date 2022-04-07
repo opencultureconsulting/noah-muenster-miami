@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b2280a3e-3a6f-4db4-8806-c68af4225d10">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Genetic analysis of polysaccharide deacetylase encoding genes in Bacillus licheniformis with respect to spore germination and biosafety</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1042852812">
+                        <displayForm>Dharma, Bodhi</displayForm>
+                        <namePart type="given">Bodhi</namePart>
+                        <namePart type="family">Dharma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109675975">
+                        <displayForm>Meinhardt, Friedhelm</displayForm>
+                        <namePart type="given">Friedhelm</namePart>
+                        <namePart type="family">Meinhardt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-10-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-09-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wegen der Kontaminationsgefahr durch bakterielle Endosporen werden für industrielle Zwecke Stämme präferiert, die sporulations- oder germinationsnegativ sind. Die vorliegende Arbeit fokussiert auf Polysaccharid-deacetylase (PDA) kodierende Gene, deren Produkte eine mögliche Rolle in der Sporenkeimung spielen. Von sieben in B. licheniformis identifizierten PDA-kodierenden Genen wurden sechs inaktiviert. Zwei Deletionen, vier Disruptionen und drei Doppelmutanten wurden generiert. Mutanten, bei denen yfjS betroffen war, waren in der Sporenkeimung reduziert. Bli02451 Mutanten zeigten eine vom Wildtyp abweichende Koloniemorphologie. Der Wuchs aller Mutanten in Komplex- und Minimalmedium wich nicht vom Wildtyp ab. Es gibt keine Anzeichen für eine Reduktion der extrazellulären Amylasen, Proteasen und Glucanasen. Wegen deutlich verringerter Sporenkeimung, bietet sich die yfjS Mutation für Produktionsstämme an.</abstract>
+                    <subject lang="ger">
+                        <topic>Bacillus licheniformis</topic>
+                        <topic>Polysaccharid-deacetylase</topic>
+                        <topic>Germination</topic>
+                        <topic>Endosporen</topic>
+                        <topic>Sporulation</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85349457874</identifier>
+                    <identifier type="sys">HT017796876</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b2280a3e-3a6f-4db4-8806-c68af4225d10</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b2280a3e-3a6f-4db4-8806-c68af4225d10_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b2280a3e-3a6f-4db4-8806-c68af4225d10/diss_dharma.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b2280a3e-3a6f-4db4-8806-c68af4225d10" DMDID="DMD_b2280a3e-3a6f-4db4-8806-c68af4225d10">
+            <mets:fptr FILEID="FILE_b2280a3e-3a6f-4db4-8806-c68af4225d10_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

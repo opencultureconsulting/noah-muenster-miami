@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f11a13f6-4ac5-466a-a695-faef6f559354">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Götterwelt von El Tajin, Mexiko</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118043714">
+                        <displayForm>Bertels, Ursula</displayForm>
+                        <namePart type="given">Ursula</namePart>
+                        <namePart type="family">Bertels</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-04-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausg. erschienen in: Lit, Münster, 1991, 3-88660-475-6, 251 S.</note>
+                    <classification authority="ddc">390</classification>
+                    <classification authority="ddc">300</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38429418741</identifier>
+                    <identifier type="isbn">3-88660-475-6</identifier>
+                    <identifier type="sys">HT017335711</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f11a13f6-4ac5-466a-a695-faef6f559354</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f11a13f6-4ac5-466a-a695-faef6f559354_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f11a13f6-4ac5-466a-a695-faef6f559354/1991_berte_goett.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f11a13f6-4ac5-466a-a695-faef6f559354" DMDID="DMD_f11a13f6-4ac5-466a-a695-faef6f559354">
+            <mets:fptr FILEID="FILE_f11a13f6-4ac5-466a-a695-faef6f559354_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

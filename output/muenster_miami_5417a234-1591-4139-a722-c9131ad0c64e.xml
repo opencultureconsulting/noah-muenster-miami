@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5417a234-1591-4139-a722-c9131ad0c64e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Multiple Autorschaft als digitales Paradigma und dessen Auswirkungen auf den Werkbegriff</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1144368685">
+                        <displayForm>Nantke, Julia</displayForm>
+                        <namePart type="given">Julia</namePart>
+                        <namePart type="family">Nantke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Vervielfältigung von Autorschaft bildet ein zentrales Paradigma digitaler Literaturproduktion in Opposition zu dem seit der Moderne tradierten Verhältnis von Autor und Werk. Der Beitrag differenziert verschiedene Formen der Multiplikation von Autorschaft in der digitalen Literatur und analysiert die dadurch erzeugten Verschiebungen im Verhältnis von Autor und Werk. Im Fokus stehen die Konsequenzen für die literaturwissenschaftliche Perspektivierung dieser Parameter. Alternative Konzepte der Kohärenzstiftung in digitalen Werken sowie ein gewandelter wissenschaftlicher Blick auf literarische Produktionsprozesse werden als wesentliche Auswirkungen der dargestellten Verschiebungen beschrieben.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77159516922</identifier>
+                    <identifier type="doi">10.17879/77159516645</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5417a234-1591-4139-a722-c9131ad0c64e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5417a234-1591-4139-a722-c9131ad0c64e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5417a234-1591-4139-a722-c9131ad0c64e/textpraxis_2018_s3_nantke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5417a234-1591-4139-a722-c9131ad0c64e" DMDID="DMD_5417a234-1591-4139-a722-c9131ad0c64e">
+            <mets:fptr FILEID="FILE_5417a234-1591-4139-a722-c9131ad0c64e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

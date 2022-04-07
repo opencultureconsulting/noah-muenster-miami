@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_50bc388b-0cd2-41d2-9da2-d4bb62cb7245">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>SpoT-Mediated Regulation and Amino Acid Prototrophy Are Essential for Pyocyanin Production During Parasitic Growth of Pseudomonas aeruginosa in a Co-culture Model System With Aeromonas hydrophila</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103734166X">
+                        <displayForm>Jagmann, Nina</displayForm>
+                        <namePart type="given">Nina</namePart>
+                        <namePart type="family">Jagmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121434435">
+                        <displayForm>Philipp, Bodo</displayForm>
+                        <namePart type="given">Bodo</namePart>
+                        <namePart type="family">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121434435">
+                        <displayForm>Philipp, Bodo U.</displayForm>
+                        <namePart type="given">Bodo U.</namePart>
+                        <namePart type="family">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-04-18</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-04-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The opportunistic pathogen Pseudomonas aeruginosa employs its complex quorum sensing (QS) network to regulate the expression of virulence factors such as pyocyanin. Besides cell density, QS in this bacterium is co-regulated by environmental cues. In this study, we employed a previously established co-culture model system to identify metabolic influences that are involved in the regulation of pyocyanin production in P. aeruginosa. In this co-culture consisting of P. aeruginosa and the chitinolytic bacterium Aeromonas hydrophila, parasitic growth of P. aeruginosa is strictly dependent on the production of pyocyanin. We could show that in this co-culture, pyocyanin production is likely induced by the stringent response mediated by SpoT in response to nutrient limitation. Pyocyanin production by stringent response mutants in the co-culture could not be complemented by overexpression of PqsE. Via transposon mutagenesis, several amino acid auxotrophic mutants were identified that were also unable to produce pyocyanin when PqsE was overexpressed or when complementing amino acids were present. The inability to produce pyocyanin even though PqsE was overexpressed was likely a general effect of amino acid auxotrophy. These results show the value of the co-culture approach to identify both extra- and intracellular metabolic influences on QS that might be important in infection processes as well.</abstract>
+                    <note type="citation/reference">Frontiers in Microbiology 9 (2018) 761, 1-12</note>
+                    <subject lang="eng">
+                        <topic>Pseudomonas aeruginosa</topic>
+                        <topic>Aeromonas hydrophila</topic>
+                        <topic>pyocyanin</topic>
+                        <topic>quorum sensing</topic>
+                        <topic>stringent response</topic>
+                        <topic>amino acids</topic>
+                        <topic>co-culture</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-78189505368</identifier>
+                    <identifier type="doi">10.3389/fmicb.2018.00761</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_50bc388b-0cd2-41d2-9da2-d4bb62cb7245</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_50bc388b-0cd2-41d2-9da2-d4bb62cb7245_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/50bc388b-0cd2-41d2-9da2-d4bb62cb7245/artikel_philipp_2018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_50bc388b-0cd2-41d2-9da2-d4bb62cb7245" DMDID="DMD_50bc388b-0cd2-41d2-9da2-d4bb62cb7245">
+            <mets:fptr FILEID="FILE_50bc388b-0cd2-41d2-9da2-d4bb62cb7245_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

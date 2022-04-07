@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_76807b75-1f1a-4243-bbe8-37da13e22e03">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Meine Tochter [...] soll alles lernen, was die weissen Mädchen lernen...&quot;</title>
+                        <subTitle>&quot;Schwarze&quot; Perspektiven auf Deutschland um 1900</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1142058212">
+                        <displayForm>Lampe, Josch</displayForm>
+                        <namePart type="given">Josch</namePart>
+                        <namePart type="family">Lampe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-11-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Artikel untersucht zwei gegensätzliche »schwarze« Perspektiven auf Deutschland um 1900. Ein Vergleich zwischen dem aus dem ehemaligen Deutsch-Südwestafrika stammenden Friedrich Maharero und dem Togolesen Nayo Bruce zeigt, inwiefern zwei unterschiedliche Standpunkte im kolonialen Kontext nicht nur die Umkehrperspektiven kolonialer Strukturen verdeutlichen, sondern in ihrer Verschiedenheit auch die Komplexität der Thematik darlegen.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67279677512</identifier>
+                    <identifier type="doi">10.17879/57289684532</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_76807b75-1f1a-4243-bbe8-37da13e22e03</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_76807b75-1f1a-4243-bbe8-37da13e22e03_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/76807b75-1f1a-4243-bbe8-37da13e22e03/textpraxis_2015_11_lampe.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_76807b75-1f1a-4243-bbe8-37da13e22e03" DMDID="DMD_76807b75-1f1a-4243-bbe8-37da13e22e03">
+            <mets:fptr FILEID="FILE_76807b75-1f1a-4243-bbe8-37da13e22e03_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

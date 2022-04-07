@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e9f8929b-5d5f-4bfc-bac2-d901998836c0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zivilrechtlicher Auskunftsanspruch gegenüber Access Providern</title>
+                        <subTitle>Verpflichtung zur Herausgabe der Nutzerdaten von Urheberrechtsverletzern unter Berücksichtigung der Enforcement-Richtlinie (RL 2004/48/EG)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kramer, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Kramer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-10-31</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Urheberrechtsverletzer treten im Internet nicht unter ihrem Namen und ihrer Anschrift auf, sondern unter einer von ihrem Zugangsanbieter (Access Provider) zugewiesenen IP-Adresse. Nur der Access Provider ist in der Lage, Auskunft darüber zu erteilen, welchem konkreten Nutzer die fragliche IP-Adresse zum Zeitpunkt der Verletzungshandlung zugeteilt war. Der Rechteinhaber ist auf diese Auskunft angewiesen, wenn er mit zivilrechtlichen Unterlassungs- oder Schadensersatzansprüchen gegen den Rechtsverletzer vorgehen will. Im Rahmen der Bearbeitung wird der Frage nachgegangen, ob den Access Provider bereits de lege lata oder zumindest de lege ferenda nach der Umsetzung der sog. Enforcement-Richtlinie (RL 2004/48/EG) – neben strafprozessualen Auskunftspflichten – auch gegenüber privaten Rechteinhabern eine Auskunftspflicht trifft, wenn dessen Dienste für Urhebeberrechtsverletzungen genutzt werden.</abstract>
+                    <note type="citation/reference">Verlag Dr. Kovac, ISBN 978-3-8300-2867-3</note>
+                    <subject lang="ger">
+                        <topic>Auskunftsanspruch</topic>
+                        <topic>Access Provider</topic>
+                        <topic>Haftung</topic>
+                        <topic>Urheberrecht</topic>
+                        <topic>Tauschbörsen</topic>
+                        <topic>Enforcement - Richtlinie</topic>
+                        <topic>Datenschutzrecht</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-89519408145</identifier>
+                    <identifier type="sys">HT015134563</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e9f8929b-5d5f-4bfc-bac2-d901998836c0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e9f8929b-5d5f-4bfc-bac2-d901998836c0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e9f8929b-5d5f-4bfc-bac2-d901998836c0/diss_kramer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e9f8929b-5d5f-4bfc-bac2-d901998836c0" DMDID="DMD_e9f8929b-5d5f-4bfc-bac2-d901998836c0">
+            <mets:fptr FILEID="FILE_e9f8929b-5d5f-4bfc-bac2-d901998836c0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

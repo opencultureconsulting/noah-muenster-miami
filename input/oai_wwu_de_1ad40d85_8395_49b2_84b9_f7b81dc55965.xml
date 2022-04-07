@@ -1,0 +1,164 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:1ad40d85-8395-49b2-84b9-f7b81dc55965" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:38:45">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_1ad40d85-8395-49b2-84b9-f7b81dc55965">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Electromagnetic effects in gyrokinetic simulations of plasma turbulence</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/138043353">
+                    <mods:namePart type="given">Moritz Johannes</mods:namePart>
+                    <mods:namePart type="family">Püschel</mods:namePart>
+                    <mods:namePart type="date">1981-</mods:namePart>
+                    <mods:displayForm>Püschel, Moritz Johannes</mods:displayForm>
+                    <mods:affiliation>FB 11: Physik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/120791951">
+                    <mods:namePart type="given">Frank</mods:namePart>
+                    <mods:namePart type="family">Jenko</mods:namePart>
+                    <mods:displayForm>Jenko, Frank</mods:displayForm>
+                    <mods:affiliation>FB 11: Physik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2009</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2009-03-12</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2009-03-31</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-04-25</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">In der vorliegenden Arbeit werden elektromagnetische Simulationen von Fusionsplasmen mit Cyclone-Base-Case-Parametern beschrieben: Linear wird das Verhalten von Kinetischen Ballooning-Moden (KBM) untersucht; auch Wechselwirkung und Transformation von Moden werden behandelt. Nichtlinear wird der zugängliche Wertebereich des Plasmadrucks stark erweitert, und erstmals werden Fälle von KBM-Turbulenz präsentiert. Verschiedene Transportanalysen werden eingesetzt, unter anderem quasilineare Modelle und Untersuchungen von Zonal Flows. Die oben erwähnten Simulationen werden zusätzlichen Analysen unterworfen, um ein Modell für den magnetischen Transport, den Einfluß von Magnetfeldfluktuationen auf die Magnetfeldstruktur sowie das Verhalten schneller Ionen in elektromagnetischen Feldern zu untersuchen. Zuletzt werden zwei astrophysikalische Szenarien untersucht. Es besteht die Möglichkeit, dass mikroturbulenter Transport einen signifikanten Einfluß auf verdampfende kalte, dichte Gaswolken hat. &lt;br/&gt;</mods:abstract>
+                  <mods:abstract lang="eng">This thesis presents advances in electromagnetic simulations of fusion &#13;
+plasmas with so-called Cyclone Base Case parameters: Linearly, the &#13;
+subdominant of Kinetic Ballooning Modes (KBMs) is studied, along with &#13;
+mode interactions and transformations. The nonlinearly accessible range &#13;
+of the plasma pressure is extended significantly, showing for the first &#13;
+time examples of KBM turbulence. Multiple analyses concerning the &#13;
+transport levels at high pressure are performed, including quasilinear &#13;
+models and zonal flow studies. The aforementioned simulations are &#13;
+analyzed to solidify a test particle based model for the magnetic &#13;
+transport, to investigate changes to the magnetic geometry due to &#13;
+fluctuations of the magnetic field, and to study fast ions as they are &#13;
+subjected to electromagnetic fields. Finally, two astrophysical &#13;
+scenarios are analyzed in the context of microturbulent heat transport &#13;
+levels. Such transport may have a significant impact on evaporating &#13;
+cold, dense gas clouds.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">Kernfusion; Plasma; Turbulenz; Gyrokinetik; Magnetfeld-Fluktuationen</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">530</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-32509554780</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/1ad40d85-8395-49b2-84b9-f7b81dc55965</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:1ad40d85-8395-49b2-84b9-f7b81dc55965</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_1ad40d85-8395-49b2-84b9-f7b81dc55965">
+            <mets:rightsMD ID="RIGHTSMD_1ad40d85-8395-49b2-84b9-f7b81dc55965">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_1ad40d85-8395-49b2-84b9-f7b81dc55965">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/1ad40d85-8395-49b2-84b9-f7b81dc55965</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="e6e5a30d8edce538edb87e1d16bb4c543b3b1a4afb791f9cba16bbe7b188a3d3" CREATED="2016-04-25T13:44:23" CHECKSUMTYPE="SHA-256" SIZE="14428019" ID="ID_FIL_thesis_pueschel.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1ad40d85-8395-49b2-84b9-f7b81dc55965/thesis_pueschel.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW1ad40d85-8395-49b2-84b9-f7b81dc55965">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/1ad40d85-8395-49b2-84b9-f7b81dc55965" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_1ad40d85-8395-49b2-84b9-f7b81dc55965" TYPE="physSequence">
+              <mets:div ID="ID_PHY_thesis_pueschel.pdf">
+                <mets:fptr FILEID="ID_FIL_thesis_pueschel.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_1ad40d85-8395-49b2-84b9-f7b81dc55965" DMDID="DMD_1ad40d85-8395-49b2-84b9-f7b81dc55965" ID="ID_LOG_1ad40d85-8395-49b2-84b9-f7b81dc55965" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_thesis_pueschel.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_1ad40d85-8395-49b2-84b9-f7b81dc55965" xlink:to="ID_PHY_1ad40d85-8395-49b2-84b9-f7b81dc55965"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_thesis_pueschel.pdf" xlink:to="ID_PHY_thesis_pueschel.pdf"/>
+          </mets:structLink>
+        </mets:mets>

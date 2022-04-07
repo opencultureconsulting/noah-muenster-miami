@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ed464c0f-58eb-48ad-9c47-33f9d0795390">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Joop van den Berg / Jan Vis, De eerste 150 jaar. Parlementaire geschiedenis van Nederland 1796-1946</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122237943">
+                        <displayForm>Wielenga, Friso</displayForm>
+                        <namePart type="given">Friso</namePart>
+                        <namePart type="family">Wielenga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">rev</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">review</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>169</start>
+                                <end>172</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37149636585</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ed464c0f-58eb-48ad-9c47-33f9d0795390</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>review</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ed464c0f-58eb-48ad-9c47-33f9d0795390_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ed464c0f-58eb-48ad-9c47-33f9d0795390/jahrbuch_zns_2012_23_169-172.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ed464c0f-58eb-48ad-9c47-33f9d0795390" DMDID="DMD_ed464c0f-58eb-48ad-9c47-33f9d0795390">
+            <mets:fptr FILEID="FILE_ed464c0f-58eb-48ad-9c47-33f9d0795390_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

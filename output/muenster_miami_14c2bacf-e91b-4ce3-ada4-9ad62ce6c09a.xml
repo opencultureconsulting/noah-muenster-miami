@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_14c2bacf-e91b-4ce3-ada4-9ad62ce6c09a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Deformationsbild der Baum-Connes-Vermutung für fast zusammenhängende Lie-Gruppen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133057607">
+                        <displayForm>Malow, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Malow</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112466982">
+                        <displayForm>Echterhoff, Siegfried</displayForm>
+                        <namePart type="given">Siegfried</namePart>
+                        <namePart type="family">Echterhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-05-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit wird das Deformationsbild der Baum-Connes-Vermutung auf den Fall fast zusammenhängender Lie-Gruppen und beliebiger Koeffizientenalgebren erweitert. Die Deformation einer solchen Gruppe G ist gegeben durch ein stetiges Gruppenbündel über [0,1], welches trivial außerhalb Null und dessen Nullfaser das semidirekte Produkt der maximal kompakten Untergruppe K mit dem Tangentialraum der Quotientenmannigfaltigkeit G/K ist. Das faserweise verschränkte Produkt mit einer G-C*-Algebra liefert ein oberhalb stetiges Feld von C*-Algebren, und durch Auswertung in Null und Eins wird das Deformationsbild definiert. Die Identifikation der Deformations- mit der Assembly-Abbildung erfolgt dann mithilfe eines Dirac-Elements der Deformation in LeGalls Gruppoid-äquivarianter KK-Theorie. Zusätzlich wird gezeigt, daß für jede fast zusammenhängende Gruppe die K-Theorie der reduzierten Gruppen-C*-Algebra eine freie Gruppe in höchstens abzählbar vielen Erzeugern ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Baum-Connes-Vermutung</topic>
+                        <topic>Lie-Gruppen</topic>
+                        <topic>KK-Theorie</topic>
+                        <topic>Gruppoide</topic>
+                        <topic>C*-Algebren</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68579549805</identifier>
+                    <identifier type="sys">HT015215898</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_14c2bacf-e91b-4ce3-ada4-9ad62ce6c09a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_14c2bacf-e91b-4ce3-ada4-9ad62ce6c09a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/14c2bacf-e91b-4ce3-ada4-9ad62ce6c09a/diss_malow.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_14c2bacf-e91b-4ce3-ada4-9ad62ce6c09a" DMDID="DMD_14c2bacf-e91b-4ce3-ada4-9ad62ce6c09a">
+            <mets:fptr FILEID="FILE_14c2bacf-e91b-4ce3-ada4-9ad62ce6c09a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

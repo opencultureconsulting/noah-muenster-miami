@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c855d301-9621-4a88-9d77-9a62b55f96e6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theorie-Praxis-Phasen im Jenaer Modell der Lehrerbildung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109143175">
+                        <displayForm>Lütgert, Will</displayForm>
+                        <namePart type="given">Will</namePart>
+                        <namePart type="family">Lütgert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120077833">
+                        <displayForm>Kleinespel, Karin</displayForm>
+                        <namePart type="given">Karin</namePart>
+                        <namePart type="family">Kleinespel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright bei den Autoren</note>
+                    <note type="citation/reference">Vortrag auf dem 1. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 12.-14. März 2007 in Münster</note>
+                    <subject lang="ger">
+                        <topic>Praxissemester</topic>
+                        <topic>Verzahnung der Ausbildungsphasen</topic>
+                        <topic>Theorie-Praxis-Veranstaltungen</topic>
+                        <topic>Standards der Lehrerausbildung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99519546292</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c855d301-9621-4a88-9d77-9a62b55f96e6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c855d301-9621-4a88-9d77-9a62b55f96e6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c855d301-9621-4a88-9d77-9a62b55f96e6/Jena.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c855d301-9621-4a88-9d77-9a62b55f96e6" DMDID="DMD_c855d301-9621-4a88-9d77-9a62b55f96e6">
+            <mets:fptr FILEID="FILE_c855d301-9621-4a88-9d77-9a62b55f96e6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

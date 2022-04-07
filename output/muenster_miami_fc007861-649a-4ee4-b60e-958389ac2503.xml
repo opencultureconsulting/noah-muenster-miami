@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fc007861-649a-4ee4-b60e-958389ac2503">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Christ Klep, Uruzgan ‒ Nederlandse militairen op missie, 2005‒2010</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136243886">
+                        <displayForm>Werner, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">rev</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">review</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>202</start>
+                                <end>205</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37149671174</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fc007861-649a-4ee4-b60e-958389ac2503</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>review</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fc007861-649a-4ee4-b60e-958389ac2503_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fc007861-649a-4ee4-b60e-958389ac2503/jahrbuch_zns_2011_22_202-205.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fc007861-649a-4ee4-b60e-958389ac2503" DMDID="DMD_fc007861-649a-4ee4-b60e-958389ac2503">
+            <mets:fptr FILEID="FILE_fc007861-649a-4ee4-b60e-958389ac2503_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

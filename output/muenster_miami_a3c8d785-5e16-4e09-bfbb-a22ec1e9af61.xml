@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a3c8d785-5e16-4e09-bfbb-a22ec1e9af61">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>p-adic Weyl algebras</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133993302">
+                        <displayForm>Pangalos, Alexis</displayForm>
+                        <namePart type="given">Alexis</namePart>
+                        <namePart type="family">Pangalos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1013768965">
+                        <displayForm>Schneider, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-02-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-01-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit werden Divisionstheoreme für p-adische Weyl-Algebren bewiesen. Es wird gezeigt, dass p-adische Weyl-Algebren noethersch sind, und dass sie einfach sind, wenn der zugrundeliegende Körper die Charakteristik Null hat. Für schiefe konvergente Potenzreihen wird ein Divisionssatz bewiesen, der den Weierstraß-Divisionssatz für Tate-Algebren verallgemeinert. Schließlich werden obere und untere Schranken für die Krull-Dimension und die globale Dimension p-adischer Weyl-Algebren angegeben.</abstract>
+                    <subject lang="ger">
+                        <topic>p-adische Weyl-Algebren</topic>
+                        <topic>schiefe konvergente Potenzreihen</topic>
+                        <topic>Divisionssatz</topic>
+                        <topic>Mikrolokalisierung</topic>
+                        <topic>Weierstraß-Division</topic>
+                        <topic>Krull-Dimension</topic>
+                        <topic>globale Dimension</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-56519665918</identifier>
+                    <identifier type="sys">HT015492599</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a3c8d785-5e16-4e09-bfbb-a22ec1e9af61</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a3c8d785-5e16-4e09-bfbb-a22ec1e9af61_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a3c8d785-5e16-4e09-bfbb-a22ec1e9af61/diss_pangalos.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a3c8d785-5e16-4e09-bfbb-a22ec1e9af61" DMDID="DMD_a3c8d785-5e16-4e09-bfbb-a22ec1e9af61">
+            <mets:fptr FILEID="FILE_a3c8d785-5e16-4e09-bfbb-a22ec1e9af61_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

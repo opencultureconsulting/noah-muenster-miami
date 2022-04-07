@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bdc7e326-d9e9-4c55-a848-4a7a28f5328e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>MRT-Kontrastmittel für das Knochenmark</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12856749X">
+                        <displayForm>Reinländer, Claudia</displayForm>
+                        <namePart type="given">Claudia</namePart>
+                        <namePart type="family">Reinländer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/125550022">
+                        <displayForm>Richter, Klaus Dieter Eugen</displayForm>
+                        <namePart type="given">Klaus Dieter Eugen</namePart>
+                        <namePart type="family">Richter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-11-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Vergleich von SPIO, USPIO und Gd-DOTA für die MR-tomographische Quantifizierung der Permeabilität der Knochenmark-Sinus und der Phagozytoseaktivität der RES-Zellen vor und nach Bestrahlung. 36 Kaninchen wurden MR-tomographisch vor und nach Injektion von SPIO, USPIO oder Gd-DOTA nach 4 Gy und 12 Gy Ganzkörperbestrahlung untersucht. Pulssequenzen umfaßten T1-und T2- SE- und TSE- sowie dynamische T1- FLASH-Sequenzen vor und nach Kontrastmittelinjektion. Änderungen der Signalintensitäten wurden als SI(%) quantifiziert und mit der Histopathologie verglichen. Radiogene Endothelschäden der Knochenmark-Sinus konnten mit der dynamischen USPIO-unterstützten MRT quantifiziert und für die verschiedenen Gruppen vor und nach Bestrahlung signifikant unterschieden werden. Die MR-tomographische Quantifizierung der Permeabilität der Knochenmark-Sinus und der RES-Phagozytoseaktivität des Knochenmarkes gelingt mit USPIO besser als mit SPIO oder Gd-DOTA.</abstract>
+                    <subject lang="ger">
+                        <topic>MR-Kontrastmittel</topic>
+                        <topic>USPIO</topic>
+                        <topic>SPIO</topic>
+                        <topic>Knochenmark</topic>
+                        <topic>Kaninchen</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659527539</identifier>
+                    <identifier type="sys">HT013898454</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bdc7e326-d9e9-4c55-a848-4a7a28f5328e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bdc7e326-d9e9-4c55-a848-4a7a28f5328e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bdc7e326-d9e9-4c55-a848-4a7a28f5328e/diss_creinlaender.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bdc7e326-d9e9-4c55-a848-4a7a28f5328e" DMDID="DMD_bdc7e326-d9e9-4c55-a848-4a7a28f5328e">
+            <mets:fptr FILEID="FILE_bdc7e326-d9e9-4c55-a848-4a7a28f5328e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8b9a613d-4871-45cc-b785-8c693257cfc9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Und Genealogia lacht...</title>
+                        <subTitle>Laudatio für Kathrin Schmidt zur Verleihung des Droste-Preises der Stadt Meersburg 2003</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Literatur in Westfalen : Beiträge zur Forschung 7 (2004), 297-303.</note>
+                    <note type="ownership">Druckausgabe 2004. Digitale Publikation mit Genehmigung des Aisthesis Verlages</note>
+                    <subject lang="ger">
+                        <topic>Laudatio Kathrin Schmidt</topic>
+                        <topic>Droste-Preis 2003</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24399442547</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8b9a613d-4871-45cc-b785-8c693257cfc9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8b9a613d-4871-45cc-b785-8c693257cfc9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8b9a613d-4871-45cc-b785-8c693257cfc9/Und_Genealogia_lacht.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8b9a613d-4871-45cc-b785-8c693257cfc9" DMDID="DMD_8b9a613d-4871-45cc-b785-8c693257cfc9">
+            <mets:fptr FILEID="FILE_8b9a613d-4871-45cc-b785-8c693257cfc9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

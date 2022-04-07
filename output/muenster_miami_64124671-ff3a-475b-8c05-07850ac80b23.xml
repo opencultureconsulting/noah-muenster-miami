@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_64124671-ff3a-475b-8c05-07850ac80b23">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Zukunft des Bundesstaates in der Dynamik europäischer Integration</title>
+                        <subTitle>Ein Beitrag aus wirtschaftswissenschaftlicher Perspektive</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129052051">
+                        <displayForm>Grossekettler, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grossekettler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-10-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Hrbek, Rudolf (Hrsg.): Europapolitik und Bundesstaatsprinzip. Baden-Baden : Nomos, 2000, S. 197-202</note>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94659644730</identifier>
+                    <identifier type="isbn">3-7890-6541-2</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_64124671-ff3a-475b-8c05-07850ac80b23</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_64124671-ff3a-475b-8c05-07850ac80b23_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/64124671-ff3a-475b-8c05-07850ac80b23/2000_Zukunft_des_Bundesstaates.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_64124671-ff3a-475b-8c05-07850ac80b23" DMDID="DMD_64124671-ff3a-475b-8c05-07850ac80b23">
+            <mets:fptr FILEID="FILE_64124671-ff3a-475b-8c05-07850ac80b23_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

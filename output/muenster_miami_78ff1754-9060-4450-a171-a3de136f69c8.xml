@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_78ff1754-9060-4450-a171-a3de136f69c8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Specification of management views in information warehouse projects</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">With respect to the major role information warehouses play for the management an approach for specifying management views within the requirements specification phase is presented. Based on a framework relating development phases and abstraction layers the roles of documents within development processes are organised. The importance of using management views as metadata and parameters in later development phases is elaborated. Formally the transformation of management views into logical data mart schemes and report queries is shown by means of algorithms. Development phases are integrated based on meta level relationships.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33569560113</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_78ff1754-9060-4450-a171-a3de136f69c8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_78ff1754-9060-4450-a171-a3de136f69c8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/78ff1754-9060-4450-a171-a3de136f69c8/087_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_78ff1754-9060-4450-a171-a3de136f69c8" DMDID="DMD_78ff1754-9060-4450-a171-a3de136f69c8">
+            <mets:fptr FILEID="FILE_78ff1754-9060-4450-a171-a3de136f69c8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

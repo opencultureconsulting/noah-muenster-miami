@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b450074c-04be-4b20-bd8c-2fd897009095">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Ich für meinen theil liebe von Herzen den Peters… Aber der Verleger soll mich in ruhe laßen.&quot;</title>
+                        <subTitle>Edition der Briefe des Cellisten und Komponisten Bernhard Romberg an seinen Verleger Carl Friedrich Peters (1815–1827)</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141863561">
+                        <displayForm>Thiemann, Maike</displayForm>
+                        <namePart type="given">Maike</namePart>
+                        <namePart type="family">Thiemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143525484">
+                        <displayForm>Schmitz, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schmitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Bernhard Romberg</topic>
+                        <topic>Carl Friedrich Peters</topic>
+                        <topic>Briefwechsel</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24209590094</identifier>
+                    <identifier type="sys">HT019548896</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/3.0/de/">CC BY-SA 3.0  DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b450074c-04be-4b20-bd8c-2fd897009095</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b450074c-04be-4b20-bd8c-2fd897009095_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b450074c-04be-4b20-bd8c-2fd897009095/bachelor_thiemann_2015.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b450074c-04be-4b20-bd8c-2fd897009095" DMDID="DMD_b450074c-04be-4b20-bd8c-2fd897009095">
+            <mets:fptr FILEID="FILE_b450074c-04be-4b20-bd8c-2fd897009095_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

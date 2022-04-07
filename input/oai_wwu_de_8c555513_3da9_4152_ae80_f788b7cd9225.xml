@@ -1,0 +1,296 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:8c555513-3da9-4152-ae80-f788b7cd9225" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:46:44">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_8c555513-3da9-4152-ae80-f788b7cd9225">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">The role of side information in steganography</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1105785491">
+                    <mods:namePart type="given">Pascal</mods:namePart>
+                    <mods:namePart type="family">Schöttle</mods:namePart>
+                    <mods:namePart type="date">1981-</mods:namePart>
+                    <mods:displayForm>Schöttle, Pascal</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/137231164">
+                    <mods:namePart type="given">Rainer</mods:namePart>
+                    <mods:namePart type="family">Böhme</mods:namePart>
+                    <mods:namePart type="date">1978-</mods:namePart>
+                    <mods:displayForm>Böhme, Rainer</mods:displayForm>
+                    <mods:affiliation>FB 04: Wirtschaftswissenschaftliche Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2016</mods:dateIssued>
+                    <mods:dateOther>2014-07-11</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2016-07-15</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-07-15</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Das Ziel digitaler Steganographie ist es, eine geheime Kommunikation in digitalen Medien zu verstecken. Der übliche Ansatz ist es, die Nachricht in einem empirischen Trägermedium zu verstecken. In dieser Arbeit definieren wir den Begriff der Steganographischen Seiteninformation (SSI). Diese Definition umfasst alle wichtigen Eigenschaften von SSI. Wir begründen die Definition informationstheoretisch und erklären den Einsatz von SSI. Alle neueren steganographischen Algorithmen nutzen SSI um die Nachricht einzubetten. Wir entwickeln einen Angriff auf adaptive Steganographie und zeigen anhand von weit verbreiteten SSI-Varianten, dass unser Angriff funktioniert. Wir folgern, dass adaptive Steganographie spieltheoretisch beschrieben werden muss. Wir entwickeln ein spieltheoretisches Modell für solch ein System und berechnen die spieltheoretisch optimalen Strategien. Wir schlussfolgern, dass ein Steganograph diesen Strategien folgen sollte. Zudem entwickeln wir eine neue spieltheoretisch optimale Strategie zur Einbettung, die sogenannten Ausgleichseinbettungsstrategien.</mods:abstract>
+                  <mods:abstract lang="eng">The  goal of digital steganography is to hide a secret communication in digital media. The common approach in steganography is to hide the secret messages in empirical cover objects. We are the first to define Steganographic Side Information (SSI). Our definition of SSI captures all relevant properties of SSI. We explain the common usage of SSI. All recent steganographic schemes use SSI to identify suitable areas fot the embedding change. We develop a targeted attack on four widely used variants of SSI, and show that our attack detects them almost perfectly. We argue that the steganographic competition must be framed with means of game theory. We present a game-theoretical framework that captures all relevant properties of such a steganographic system. We instantiate the framework with five different models and solve each of these models for game-theoretically optimal strategies. Inspired by our solutions, we give a new paradigm for secure adaptive steganography, the so-called equalizer embedding strategies.</mods:abstract>
+                  <mods:tableOfContents>Contents i&#13;
+List of Figures v&#13;
+List of Tables vii&#13;
+List of Definitions ix&#13;
+List of Acronyms xi&#13;
+List of Symbols xiii&#13;
+1 Introduction 1&#13;
+1.1 Background, Motivation, and Scope . . . . . . . . . . . . . . . . . . . . 1&#13;
+1.2 Outline and Contribution . . . . . . . . . . . . . . . . . . . . . . . . . . 3&#13;
+1.3 Notation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4&#13;
+2 Preliminaries 7&#13;
+2.1 Principles of Steganography . . . . . . . . . . . . . . . . . . . . . . . . . 10&#13;
+2.1.1 Set-Up of a Steganographic System . . . . . . . . . . . . . . . . . 10&#13;
+2.1.2 Embedding Operations . . . . . . . . . . . . . . . . . . . . . . . . 12&#13;
+2.1.2.1 LSB Replacement . . . . . . . . . . . . . . . . . . . . . 12&#13;
+2.1.2.2 LSB Matching . . . . . . . . . . . . . . . . . . . . . . . 13&#13;
+2.1.3 Embedding Strategies . . . . . . . . . . . . . . . . . . . . . . . . 13&#13;
+2.1.3.1 (Initial) Sequential Embedding . . . . . . . . . . . . . . 13&#13;
+2.1.3.2 Random Uniform Embedding . . . . . . . . . . . . . . . 14&#13;
+2.1.3.3 Side-Informed Embedding . . . . . . . . . . . . . . . . . 14&#13;
+2.2 Security in Steganographic Systems . . . . . . . . . . . . . . . . . . . . . 18&#13;
+2.2.1 The Prisoners' Problem . . . . . . . . . . . . . . . . . . . . . . . 18&#13;
+2.2.2 Theoretical Security Notions . . . . . . . . . . . . . . . . . . . . 19&#13;
+2.2.2.1 Information-Theoretic Approach . . . . . . . . . . . . . 19&#13;
+2.2.2.2 Complexity-Theoretic Approach . . . . . . . . . . . . . 20&#13;
+2.2.3 Empirical Security Notions . . . . . . . . . . . . . . . . . . . . . 21&#13;
+2.2.3.1 Receiver Operating Characteristic . . . . . . . . . . . . 22&#13;
+2.2.3.2 Single Number Measures . . . . . . . . . . . . . . . . . 22&#13;
+2.3 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23&#13;
+3 Exploiting Side Information in Steganalysis 25&#13;
+3.1 Side Information in Steganalysis . . . . . . . . . . . . . . . . . . . . . . 25&#13;
+3.1.1 Steganographic Side Information and Uncertainty . . . . . . . . 25&#13;
+3.1.1.1 Steganographic Side Information . . . . . . . . . . . . . 26&#13;
+3.1.1.2 Uncertainty . . . . . . . . . . . . . . . . . . . . . . . . . 28&#13;
+3.1.1.3 Common Use of Side Information in Steganography . . 29&#13;
+3.1.2 Initial Evidence . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30&#13;
+3.1.2.1 Targeted Attack on PSP Steganography . . . . . . . . . 30&#13;
+3.1.2.2 The Detectability Profile . . . . . . . . . . . . . . . . . 31&#13;
+3.1.3 Formalizing Adaptive Steganography and Steganalysis . . . . . . 32&#13;
+3.2 Powerful Steganalysis of LSB Replacement . . . . . . . . . . . . . . . . . 33&#13;
+3.2.1 Asymptotically Uniformly Most Powerful Test . . . . . . . . . . 33&#13;
+3.2.2 Weighted Stego-Image Steganalysis . . . . . . . . . . . . . . . . . 36&#13;
+3.2.2.1 WS Steganalysis for Sequential Embedding . . . . . . . 37&#13;
+3.2.2.2 WS Steganalysis for Naive Adaptive Embedding . . . . 37&#13;
+3.3 A Targeted Attack on Naive Adaptive Embedding . . . . . . . . . . . . 38&#13;
+3.3.1 Overview of Adaptivity Criteria . . . . . . . . . . . . . . . . . . 38&#13;
+3.3.2 Data and Set-up . . . . . . . . . . . . . . . . . . . . . . . . . . . 39&#13;
+3.3.3 Evaluation Strategy . . . . . . . . . . . . . . . . . . . . . . . . . 40&#13;
+3.3.4 Attacked Adaptivity Criteria . . . . . . . . . . . . . . . . . . . . 41&#13;
+3.3.4.1 Local Variance . . . . . . . . . . . . . . . . . . . . . . . 41&#13;
+3.3.4.2 Edges . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42&#13;
+3.3.4.3 Texture . . . . . . . . . . . . . . . . . . . . . . . . . . . 42&#13;
+3.3.4.4 NUGO (Not so Undetectable steGO) . . . . . . . . . . 42&#13;
+3.3.5 Recoverability of the Adaptivity Criteria . . . . . . . . . . . . . . 43&#13;
+3.3.6 Empirical Results { Detecting Naive Adaptive Embedding . . . . 44&#13;
+3.4 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45&#13;
+4 Game Theory and Steganography 53&#13;
+4.1 Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53&#13;
+4.2 Principles of Game Theory . . . . . . . . . . . . . . . . . . . . . . . . . 54&#13;
+4.2.1 Basic Definitions of Game Theory . . . . . . . . . . . . . . . . . 54&#13;
+4.2.2 Solution Concepts . . . . . . . . . . . . . . . . . . . . . . . . . . 56&#13;
+4.2.2.1 Dominant Strategy Equilibrium . . . . . . . . . . . . . 56&#13;
+4.2.2.2 Nash Equilibrium . . . . . . . . . . . . . . . . . . . . . 56&#13;
+4.2.2.3 Maxmin and Minmax Strategy . . . . . . . . . . . . . . 57&#13;
+4.2.2.4 Equalizer Strategies . . . . . . . . . . . . . . . . . . . . 57&#13;
+4.3 Game-Theoretical Approaches in Steganography . . . . . . . . . . . . . 58&#13;
+4.3.1 Game Theory and Capacity . . . . . . . . . . . . . . . . . . . . . 58&#13;
+4.3.2 Game Theory and Batch Steganography . . . . . . . . . . . . . . 59&#13;
+4.3.3 Game Theory and Detection Performance . . . . . . . . . . . . . 59&#13;
+4.3.4 Game Theory and Adaptive LSB Matching . . . . . . . . . . . . 60&#13;
+4.4 The Game-Theoretical Framework . . . . . . . . . . . . . . . . . . . . . 60&#13;
+4.4.1 Basic Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . 61&#13;
+4.4.2 Set-Up and Knowledge . . . . . . . . . . . . . . . . . . . . . . . . 62&#13;
+4.4.3 Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63&#13;
+4.5 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64&#13;
+5 Game-Theoretic Insights 67&#13;
+5.1 Cover Models with Binary Embedding Positions . . . . . . . . . . . . . 68&#13;
+5.1.1 Restricted Steganalyst Model . . . . . . . . . . . . . . . . . . . . 69&#13;
+5.1.1.1 Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . 70&#13;
+5.1.1.2 Payoff . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72&#13;
+5.1.1.3 Solving the Game . . . . . . . . . . . . . . . . . . . . . 73&#13;
+5.1.1.4 Numerical Illustration . . . . . . . . . . . . . . . . . . . 79&#13;
+5.1.2 Powerful Steganalyst and Fixed Net Embedding . . . . . . . . . 80&#13;
+5.1.2.1 Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . 81&#13;
+5.1.2.2 Embedding Impact . . . . . . . . . . . . . . . . . . . . 83&#13;
+5.1.2.3 Payoff . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83&#13;
+5.1.2.4 Solving the Game . . . . . . . . . . . . . . . . . . . . . 84&#13;
+5.1.2.5 Solution and Numerical Illustration for n = 2 and k = 1 87&#13;
+5.1.3 Powerful Steganalyst and Independent Embedding . . . . . . . . 91&#13;
+5.1.3.1 Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . 91&#13;
+5.1.3.2 Embedding Impact . . . . . . . . . . . . . . . . . . . . 91&#13;
+5.1.3.3 Payoff . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91&#13;
+5.1.3.4 Solving the Game . . . . . . . . . . . . . . . . . . . . . 92&#13;
+5.1.3.5 Solution and Numerical Illustration for n = 2 and k = 1 94&#13;
+5.1.4 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98&#13;
+5.2 Cover Models with Two Embedding Positions . . . . . . . . . . . . . . . 98&#13;
+5.2.1 Linear Increasing PMF . . . . . . . . . . . . . . . . . . . . . . . 99&#13;
+5.2.1.1 Cover Generation . . . . . . . . . . . . . . . . . . . . . 99&#13;
+5.2.1.2 Embedding Impact . . . . . . . . . . . . . . . . . . . . 101&#13;
+5.2.1.3 Eve's Decision: Optimal Local Detector . . . . . . . . . 102&#13;
+5.2.1.4 Error Rates and Payoff . . . . . . . . . . . . . . . . . . 103&#13;
+5.2.1.5 Solving the Game . . . . . . . . . . . . . . . . . . . . . 106&#13;
+5.2.2 Constant Ratio PMF . . . . . . . . . . . . . . . . . . . . . . . . . 109&#13;
+5.2.2.1 Cover Generation and Justification . . . . . . . . . . . . 109&#13;
+5.2.2.2 Embedding Impact . . . . . . . . . . . . . . . . . . . . 110&#13;
+5.2.2.3 Heterogeneity . . . . . . . . . . . . . . . . . . . . . . . 111&#13;
+5.2.2.4 Eve's Decision: Optimal Local Detector . . . . . . . . . 113&#13;
+5.2.2.5 Error Rates and Payoff . . . . . . . . . . . . . . . . . . 114&#13;
+5.2.2.6 Solving the Game . . . . . . . . . . . . . . . . . . . . . 117&#13;
+5.2.3 Imperfect Recoverability . . . . . . . . . . . . . . . . . . . . . . . 120&#13;
+5.2.3.1 Imperfect Recovery with Linear Increasing PMF . . . . 121&#13;
+5.2.3.2 Imperfect Recovery with Constant Ratio PMF . . . . . 123&#13;
+5.2.4 Numerical Illustrations . . . . . . . . . . . . . . . . . . . . . . . . 125&#13;
+5.2.4.1 Numerical Illustration for Linear Increasing PMF . . . 125&#13;
+5.2.4.2 Numerical Illustration for Constant Ratio PMF . . . . 126&#13;
+5.2.4.3 Comparison . . . . . . . . . . . . . . . . . . . . . . . . . 129&#13;
+5.2.5 Type of Game . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130&#13;
+5.2.6 Discussion and Summary . . . . . . . . . . . . . . . . . . . . . . 132&#13;
+5.3 Lessons Learned and Limitations . . . . . . . . . . . . . . . . . . . . . . 133&#13;
+5.3.1 Lessons Learned { Secure Adaptive Steganography . . . . . . . . 133&#13;
+5.3.2 Limitations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135&#13;
+6 Conclusion 139&#13;
+6.1 Summary of Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139&#13;
+6.1.1 Formalizing Side Information in Steganography . . . . . . . . . . 139&#13;
+6.1.2 Game-Theoretical Modeling of Steganography . . . . . . . . . . . 140&#13;
+6.2 Outlook and Future Research . . . . . . . . . . . . . . . . . . . . . . . . 141&#13;
+Bibliography 143&#13;
+A Information-Theoretic Derivations 151&#13;
+A.1 Derivation of Definition 3.2 . . . . . . . . . . . . . . . . . . . . . . . . . 151&#13;
+A.2 Derivation of Remark 3.9 . . . . . . . . . . . . . . . . . . . . . . . . . . 151&#13;
+B Game Theory in Related Fields 153&#13;
+B.1 Multimedia Forensics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153&#13;
+B.2 Digital Watermarking . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154&#13;
+B.3 Adversarial Classification . . . . . . . . . . . . . . . . . . . . . . . . . . 155&#13;
+C Omitted Proofs 157&#13;
+C.1 Proof of Lemma 5.11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157&#13;
+C.2 Proof of Lemma 5.12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157&#13;
+C.3 Proof of Lemma 5.13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159&#13;
+C.4 Proof of Lemma 5.14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159&#13;
+C.5 Proof of Lemma 5.15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161&#13;
+D Curriculum Vitae 163</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Steganographie; Seiteninformationen; Spieltheorie; Multimediasicherheit; Informationstheorie</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-55239653580</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/8c555513-3da9-4152-ae80-f788b7cd9225</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:8c555513-3da9-4152-ae80-f788b7cd9225</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_8c555513-3da9-4152-ae80-f788b7cd9225">
+            <mets:rightsMD ID="RIGHTSMD_8c555513-3da9-4152-ae80-f788b7cd9225">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_8c555513-3da9-4152-ae80-f788b7cd9225">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/8c555513-3da9-4152-ae80-f788b7cd9225</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="c30e68994405edb6ecea8b9efe5f688ffe09e9603956ee1b8352507f26039f3c" CREATED="2016-07-15T10:14:19" CHECKSUMTYPE="SHA-256" SIZE="4711110" ID="ID_FIL_diss_schoettle.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8c555513-3da9-4152-ae80-f788b7cd9225/diss_schoettle.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW8c555513-3da9-4152-ae80-f788b7cd9225">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/8c555513-3da9-4152-ae80-f788b7cd9225" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_8c555513-3da9-4152-ae80-f788b7cd9225" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_schoettle.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_schoettle.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_8c555513-3da9-4152-ae80-f788b7cd9225" DMDID="DMD_8c555513-3da9-4152-ae80-f788b7cd9225" ID="ID_LOG_8c555513-3da9-4152-ae80-f788b7cd9225" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_schoettle.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_8c555513-3da9-4152-ae80-f788b7cd9225" xlink:to="ID_PHY_8c555513-3da9-4152-ae80-f788b7cd9225"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_schoettle.pdf" xlink:to="ID_PHY_diss_schoettle.pdf"/>
+          </mets:structLink>
+        </mets:mets>

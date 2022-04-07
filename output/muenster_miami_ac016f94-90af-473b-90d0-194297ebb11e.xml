@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ac016f94-90af-473b-90d0-194297ebb11e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>theologische Bestand der Kloster-Bibliothek zu Gravenhorst</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118027581">
+                        <displayForm>Olschewski, Ursula</displayForm>
+                        <namePart type="given">Ursula</namePart>
+                        <namePart type="family">Olschewski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-02-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-09-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Unser Kreis : Jahrbuch für den Kreis Steinfurt 13 (2000) 137-142</note>
+                    <subject lang="ger">
+                        <topic>Kirchengeschichte</topic>
+                    </subject>
+                    <classification authority="ddc">230</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24319428006</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ac016f94-90af-473b-90d0-194297ebb11e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ac016f94-90af-473b-90d0-194297ebb11e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ac016f94-90af-473b-90d0-194297ebb11e/Olschewski%2C%20Ursula_Gravenhorst-2000.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ac016f94-90af-473b-90d0-194297ebb11e" DMDID="DMD_ac016f94-90af-473b-90d0-194297ebb11e">
+            <mets:fptr FILEID="FILE_ac016f94-90af-473b-90d0-194297ebb11e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

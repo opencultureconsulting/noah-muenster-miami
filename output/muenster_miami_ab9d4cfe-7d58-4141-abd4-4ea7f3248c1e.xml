@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ab9d4cfe-7d58-4141-abd4-4ea7f3248c1e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Data Warehouse für das Produktionscontrolling</title>
+                        <subTitle>Konzepte und Erfahrungen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1020721499">
+                        <displayForm>Eicker, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Eicker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110594991">
+                        <displayForm>Jung, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Jung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nietsch, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Nietsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Winter, Robert</displayForm>
+                        <namePart type="given">Robert</namePart>
+                        <namePart type="family">Winter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1996-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Aufgabe eines Data Warehouse ist die schnelle und flexible Bereitstellung entscheidungsrelevanter Daten. Es stellt damit - je nach Interpretation - eine Weiterentwicklung der Entscheidungsunterstützungssysteme oder eine auf Analyseaufgaben ausgerichtete Datenbank dar. Um seine Aufgabe erfüllen zu können, muß ein Data Warehouse heterogene Datenquellen zu einer stabilen, konsistenten Datenbasis zusammenführen, Detaildaten für die analytischen Auswertungen (vor-)verdichten sowie auch zeitraumbezogene Längsschnittanalysen unterstützen. Die Entwicklung eines Warehouse unterscheidet sich deshalb in vielen Punkten von der Entwicklung eines traditionellen, transaktionsorientierten Anwendungssystems. Der folgende Beitrag diskutiert, welche Aufgaben jeweils in den verschiedenen Phasen einer Data Wareouse-Entwicklung anfallen und wie diese Aufgaben durchgeführt werden können. Die vorgestellten Konzepte und Erfahrungen sind Ergebnisse eines Kooperationsprojekts zwischen dem Institut und einem großen Maschinenbauunternehmen.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03579636046</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ab9d4cfe-7d58-4141-abd4-4ea7f3248c1e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ab9d4cfe-7d58-4141-abd4-4ea7f3248c1e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ab9d4cfe-7d58-4141-abd4-4ea7f3248c1e/051_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ab9d4cfe-7d58-4141-abd4-4ea7f3248c1e" DMDID="DMD_ab9d4cfe-7d58-4141-abd4-4ea7f3248c1e">
+            <mets:fptr FILEID="FILE_ab9d4cfe-7d58-4141-abd4-4ea7f3248c1e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

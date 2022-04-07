@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a44e9bf3-93b9-4d2f-943e-40fdc29d5f08">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Corpus musicae ridiculum</title>
+                        <subTitle>Postfaktische Strukturanalyse eines unbekannten Manuskripts aus der Handbibliothek eines Münsteraner Rechtsgelehrten</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/187887896">
+                        <displayForm>Flavius, Gnaeus</displayForm>
+                        <namePart type="given">Gnaeus</namePart>
+                        <namePart type="family">Flavius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124682553">
+                        <displayForm>Jansen, Nils</displayForm>
+                        <namePart type="given">Nils</namePart>
+                        <namePart type="family">Jansen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">hnr</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dieser nicht ganz ernst gemeinte Beitrag aus der nur intern veröffentlichten Festschrift für einen Münsteraner Rechtsgelehrten beschäftigt sich mit der Frage, ob es ein Manuskript aus der Handbibliothek des besagten Rechtsgelehrten wirklich gegeben haben kann oder ob es sich nur um ein Hirngespinst des Autors handelt. Es spricht vieles für Letzteres, aber wer kann in Zeiten postfaktischer Tatsachen wirklich behaupten, dass etwas existiert oder nicht existiert?</abstract>
+                    <note type="citation/reference">Manuskriptfassung der Druckausgabe: Kästle-Lamparter, David; Boosfeld, Kristin; Kämper, Lukas (Hrsg.): Recht – Staat – Politik – Religion – Geschichte – Gesellschaft – Kultur – Autorität – Spiel – Struktur – System : Vorgestern, gestern, heute, morgen und übermorgen ; Festschrift für Nils Jansen zum 50. Geburtstag, 2017, S. 45-48</note>
+                    <note>Verfasser laut Vorlage: Gnaeus Flavius (=Andrea Ammendola)</note>
+                    <subject lang="ger">
+                        <topic>Strukturanalyse</topic>
+                        <topic>Lyrik</topic>
+                        <topic>Festschrift</topic>
+                        <topic>Münster</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10219608596</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a44e9bf3-93b9-4d2f-943e-40fdc29d5f08</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a44e9bf3-93b9-4d2f-943e-40fdc29d5f08_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a44e9bf3-93b9-4d2f-943e-40fdc29d5f08/flavius_2017_corpus.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a44e9bf3-93b9-4d2f-943e-40fdc29d5f08" DMDID="DMD_a44e9bf3-93b9-4d2f-943e-40fdc29d5f08">
+            <mets:fptr FILEID="FILE_a44e9bf3-93b9-4d2f-943e-40fdc29d5f08_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

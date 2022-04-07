@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_28d8877b-68e1-4136-9689-8c9bedd16975">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Néron-Modelle algebraischer Tori</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128783516">
+                        <displayForm>Brahm, Bernhard</displayForm>
+                        <namePart type="given">Bernhard</namePart>
+                        <namePart type="family">Brahm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bosch, Siegfried</displayForm>
+                        <namePart type="given">Siegfried</namePart>
+                        <namePart type="family">Bosch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Sei T ein algebraischer Torus über einem vollständig, nicht archimedisch bewerteten Körper K. Xarles kann die Komponentengruppe des N&apos;eron-Modells von T vollständig mit der Charaktergruppe X(T) und deren Galoismodulstruktur beschreiben, sofern der Restklassenkörper k von K perfekt ist. Wir zeigen, dass sich für beliebigen Restklassenkörper diese Beschreibung im Fall zahmer Verzweigung verallgemeinert, bei wilder Verzweigung jedoch nur für den zu p=Char(k) primen Anteil der Komponentengruppe. Wir geben Beispiele für das Verhalten des p-Torsionsanteils. Wir untersuchen insbesondere den Fall einer Weil-Restriktion eines Torus und den Fall eines Norm-Torus. Wir betrachten die N&apos;eron-Modelle sowohl als Schema als auch als glatte oder &apos;etale Garben. Ferner vergleichen wir integrale Modelle mit N&apos;eron Modellen und zeigen, dass lokale N&apos;eron-Modelle eine endlich erzeugte Komponentengruppe haben. Dies führt uns zu einer Verallgemeinerung des ft-N&apos;eron-Modells von Chai und Yu.</abstract>
+                    <subject lang="ger">
+                        <topic>Néron-Modell</topic>
+                        <topic>integrale Modelle</topic>
+                        <topic>algebraischer Torus</topic>
+                        <topic>Norm-Torus</topic>
+                        <topic>Komponentengruppe</topic>
+                        <topic>étale Topologie</topic>
+                        <topic>glatte Topologie</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525990</identifier>
+                    <identifier type="sys">HT013975942</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_28d8877b-68e1-4136-9689-8c9bedd16975</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_28d8877b-68e1-4136-9689-8c9bedd16975_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/28d8877b-68e1-4136-9689-8c9bedd16975/brahm.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_28d8877b-68e1-4136-9689-8c9bedd16975" DMDID="DMD_28d8877b-68e1-4136-9689-8c9bedd16975">
+            <mets:fptr FILEID="FILE_28d8877b-68e1-4136-9689-8c9bedd16975_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

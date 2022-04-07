@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_963dda24-4c7e-4dc8-86a7-1872511a9928">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Weak admissibility of Hodge-Pink lattices in terms of Geometric Invariant Theory</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1054827230">
+                        <displayForm>Schauch, Tim Konstantin</displayForm>
+                        <namePart type="given">Tim Konstantin</namePart>
+                        <namePart type="family">Schauch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hartl, Urs</displayForm>
+                        <namePart type="given">Urs</namePart>
+                        <namePart type="family">Hartl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-08-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-07-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ausgehend von einem analogen Ergebnis für filtrierte Isokristalle wird in dieser Arbeit ein Zusammenhang zwischen schwacher Zulässigkeit von Hodge-Pink Gittern und geometrischer Invariantentheorie hergestellt. Dazu wird ein Modulraum für Hodge-Pink Gitter, die durch ein Hodge-Pink Gewicht beschränkt sind, konstruiert. Auf diesem Modulraum operiert eine algebraische Gruppe, die aus der Automorphismengruppe des zugrundeliegenden z-Isokristalls entsteht. Desweiteren wird ein linearisiertes Geradenbündel fixiert, das man durch Einbettung in einen projektiven Raum erhält. Es stellt sich heraus, dass ein Hodge-Pink Gitter genau dann schwach zulässig ist, wenn es als Punkt des Modulraums das Hilbert-Mumford Kriterium für Semistabilität für gewissen 1-Parameter-Untergruppen der Automorphismengruppe des z-Isokristalls erfüllt. Zuletzt wird noch das funktorielle Verhalten bei zwei verschiedenen Hodge-Pink Gewichten untersucht.</abstract>
+                    <subject lang="ger">
+                        <topic>Hodge-Pink Gitter</topic>
+                        <topic>schwach zulässig</topic>
+                        <topic>geometrische Invariantentheorie</topic>
+                        <topic>Isokristalle</topic>
+                        <topic>Funktionenkörper Arithmetik</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12349573749</identifier>
+                    <identifier type="sys">HT018355141</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_963dda24-4c7e-4dc8-86a7-1872511a9928</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_963dda24-4c7e-4dc8-86a7-1872511a9928_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/963dda24-4c7e-4dc8-86a7-1872511a9928/diss_schauch.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_963dda24-4c7e-4dc8-86a7-1872511a9928" DMDID="DMD_963dda24-4c7e-4dc8-86a7-1872511a9928">
+            <mets:fptr FILEID="FILE_963dda24-4c7e-4dc8-86a7-1872511a9928_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

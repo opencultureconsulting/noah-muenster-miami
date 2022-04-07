@@ -1,0 +1,121 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:44:04">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="ger">
+                    <mods:title script="Latn">Ostkirchliche Information 2005-1</mods:title>
+                  </mods:titleInfo>
+                  <mods:genre>PeriodicalPart</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2005</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2014-01-15</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2014-01-15</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:relatedItem type="host">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">OKI-eMail</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="issue">
+                      <mods:detail>
+                        <mods:number>2005-1</mods:number>
+                      </mods:detail>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:3cbc7aaf-476c-4aa8-9b94-df267a1d57a9</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-94349393670</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90">
+            <mets:rightsMD ID="RIGHTSMD_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner/>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="text/html" CHECKSUM="92042d7d3f0379871800dcc9ccf0014a5e3fedddf9eeb4d126c76dafbb9b83d2" CREATED="2014-01-15T15:52:36" CHECKSUMTYPE="SHA-256" SIZE="88054" ID="ID_FIL_OKI_email-2005-1-1-.html_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90/OKI_email-2005-1%5B1%5D.html" LOCTYPE="URL"/>
+              </mets:file>
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="9aade1a953b48f09c36b77919c85eae82a0af4409a5c7b6a0501c1ee20de5c09" CREATED="2014-01-15T15:52:36" CHECKSUMTYPE="SHA-256" SIZE="246237" ID="ID_FIL_OKI_email-2005-1-1-.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90/OKI_email-2005-1%5B1%5D.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/zip" ID="DOWdb1cd86a-1f89-4f6b-89ec-0c0e3dd58b90">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90" TYPE="physSequence">
+              <mets:div ID="ID_PHY_OKI_email-2005-1-1-.html">
+                <mets:fptr FILEID="ID_FIL_OKI_email-2005-1-1-.html_DEFAULT"/>
+                <mets:fptr FILEID="ID_FIL_OKI_email-2005-1-1-.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90" DMDID="DMD_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90" ID="ID_LOG_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_OKI_email-2005-1-1-.html"/>
+              <mets:div ID="ID_LOG_ID_PHY_OKI_email-2005-1-1-.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90" xlink:to="ID_PHY_db1cd86a-1f89-4f6b-89ec-0c0e3dd58b90"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_OKI_email-2005-1-1-.html" xlink:to="ID_PHY_OKI_email-2005-1-1-.html"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_OKI_email-2005-1-1-.pdf" xlink:to="ID_PHY_OKI_email-2005-1-1-.pdf"/>
+          </mets:structLink>
+        </mets:mets>

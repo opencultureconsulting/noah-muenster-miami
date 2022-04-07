@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_518c9f84-0f09-4d6f-97ae-f63e7ce97ddf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bibliografie deutschsprachiger Literatur über Flandern und die Niederlande für das Jahr 2010</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mohr, Claudia</displayForm>
+                        <namePart type="given">Claudia</namePart>
+                        <namePart type="family">Mohr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jung, Claudia</displayForm>
+                        <namePart type="given">Claudia</namePart>
+                        <namePart type="family">Jung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>181</start>
+                                <end>189</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-07159639661</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_518c9f84-0f09-4d6f-97ae-f63e7ce97ddf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_518c9f84-0f09-4d6f-97ae-f63e7ce97ddf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/518c9f84-0f09-4d6f-97ae-f63e7ce97ddf/jahrbuch_zns_2010_21_181-189.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_518c9f84-0f09-4d6f-97ae-f63e7ce97ddf" DMDID="DMD_518c9f84-0f09-4d6f-97ae-f63e7ce97ddf">
+            <mets:fptr FILEID="FILE_518c9f84-0f09-4d6f-97ae-f63e7ce97ddf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

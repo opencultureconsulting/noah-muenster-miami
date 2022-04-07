@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_db0a6df7-20e7-47cd-ad35-2d2f1ac47457">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bibliografie deutschsprachiger Literatur über die Niederlande für die Jahre 2016 und 2017</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1151415855">
+                        <displayForm>Liemann, Bernhard</displayForm>
+                        <namePart type="given">Bernhard</namePart>
+                        <namePart type="family">Liemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124493297">
+                        <displayForm>Riek, Ilona</displayForm>
+                        <namePart type="given">Ilona</namePart>
+                        <namePart type="family">Riek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Unruhige Zeiten</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Unruhige Zeiten</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>233</start>
+                                <end>272</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27139631914</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_db0a6df7-20e7-47cd-ad35-2d2f1ac47457</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_db0a6df7-20e7-47cd-ad35-2d2f1ac47457_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/db0a6df7-20e7-47cd-ad35-2d2f1ac47457/nl-schriften_band-003_233-272.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_db0a6df7-20e7-47cd-ad35-2d2f1ac47457" DMDID="DMD_db0a6df7-20e7-47cd-ad35-2d2f1ac47457">
+            <mets:fptr FILEID="FILE_db0a6df7-20e7-47cd-ad35-2d2f1ac47457_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

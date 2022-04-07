@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b37cb2d7-6db8-4871-ac5e-4cfde6089a11">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Emanzipation und Agency</title>
+                        <subTitle>Das Computerspiel als exemplarische Neuverhandlung gesellschaftlicher Ordnung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1028841442">
+                        <displayForm>Unterhuber, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Unterhuber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-08-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract>Ausgehend von der Behauptung, dass ›die Frau‹ und Spiel in der Moderne den Mann in die Kultur bringen, ohne selbst Teil von Kultur zu sein, soll aufgezeigt werden, dass das Computerspiel sich nicht zufällig als Aushandlungsort von Gleichberechtigung und Emanzipation und damit als Ort des Kulturkampfes ergibt, sondern dies in seiner spezifischen Medialität begründet ist.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61269465719</identifier>
+                    <identifier type="doi">10.17879/61269464777</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b37cb2d7-6db8-4871-ac5e-4cfde6089a11</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b37cb2d7-6db8-4871-ac5e-4cfde6089a11_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b37cb2d7-6db8-4871-ac5e-4cfde6089a11/Textpraxis_2017_s2_unterhuber.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b37cb2d7-6db8-4871-ac5e-4cfde6089a11" DMDID="DMD_b37cb2d7-6db8-4871-ac5e-4cfde6089a11">
+            <mets:fptr FILEID="FILE_b37cb2d7-6db8-4871-ac5e-4cfde6089a11_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

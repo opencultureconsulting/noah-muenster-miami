@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9f96788d-7a16-4d76-a067-3912d3b11197">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Freiherrlich von Romberg&apos;sche Bibliothek auf Schloss Buldern</title>
+                        <subTitle>lückenhafter handschriftlicher systematischer Katalog in Auszügen</subTitle>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">Manuscript</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1955</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-08-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Bibliothek auf Schloss Buldern wurde im November 1955 von dem Erben von Gisbert von Romberg III. (1888-1852) an das Antiquariat Stenderhoff in Münster verkauft. Die Sammlung umfasste ca. 10.000 Bände größtenteils auf dem Zeitraum 1790-1830. 1956 erwarb die Universitäts- und Landesbibliothek Münster mit Vorkaufsrecht 225 handschriftliche und gedruckte Werke zur Ergänzung ihrer Westfalica und zum Ausgleich von Kriegsverlusten.</abstract>
+                    <note>Katalog ist lückenhaft. Erscheinungsjahr geschätzt.</note>
+                    <subject lang="ger">
+                        <topic>Verzeichnis</topic>
+                        <topic>Katalog</topic>
+                        <topic>Romberg, Familie</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Buldern</topic>
+                        <topic>Schlossbibliothek</topic>
+                        <topic>Geschichte 1790-1830</topic>
+                    </subject>
+                    <classification authority="ddc">010</classification>
+                    <classification authority="ddc">016</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74109495748</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9f96788d-7a16-4d76-a067-3912d3b11197</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>handwritten</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9f96788d-7a16-4d76-a067-3912d3b11197_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9f96788d-7a16-4d76-a067-3912d3b11197/katalog_romberg_1955.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9f96788d-7a16-4d76-a067-3912d3b11197" DMDID="DMD_9f96788d-7a16-4d76-a067-3912d3b11197">
+            <mets:fptr FILEID="FILE_9f96788d-7a16-4d76-a067-3912d3b11197_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

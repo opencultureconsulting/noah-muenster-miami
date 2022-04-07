@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4b572ffc-877d-44ac-b797-e932773378b5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Unified Software Framework for Empirical Gramians</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115358324">
+                        <displayForm>Himpe, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Himpe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115010972">
+                        <displayForm>Ohlberger, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Ohlberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-02-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A common approach in model reduction is balanced truncation, which is based on Gramian matrices classifying certain attributes of states or parameters of a given dynamic system. Initially restricted to linear systems, the empirical Gramians not only extended this concept to nonlinear systems but also provided a uniform computational method. This work introduces a unified software framework supplying routines for six types of empirical Gramians. The Gramian types will be discussed and applied in a model reduction framework for multiple-input multiple-output systems.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2013/2014 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">Himpe, Christian; Ohlberger, Mario: A Unified Software Framework for Empirical Gramians. Journal of Mathematics; 2013, Vol. 2013, 365909.
+http://dx.doi.org/doi:10.1155/2013/365909</note>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64319528070</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4b572ffc-877d-44ac-b797-e932773378b5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4b572ffc-877d-44ac-b797-e932773378b5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4b572ffc-877d-44ac-b797-e932773378b5/365909.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4b572ffc-877d-44ac-b797-e932773378b5" DMDID="DMD_4b572ffc-877d-44ac-b797-e932773378b5">
+            <mets:fptr FILEID="FILE_4b572ffc-877d-44ac-b797-e932773378b5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

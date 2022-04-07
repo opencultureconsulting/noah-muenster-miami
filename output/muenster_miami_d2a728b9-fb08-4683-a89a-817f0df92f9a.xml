@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d2a728b9-fb08-4683-a89a-817f0df92f9a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>,Ein Traum, gar seltsam schauerlich...’</title>
+                        <subTitle>Heines Traumbilder als Medium poetischer Selbstreflexion</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1983</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-01-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Heine-Jahrbuch 22. Hamburg : Hoffmann &amp; Campe, 1983, S. 179-187</note>
+                    <note type="ownership">Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Hoffmann &amp; Campe Verlages.</note>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66129672592</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d2a728b9-fb08-4683-a89a-817f0df92f9a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d2a728b9-fb08-4683-a89a-817f0df92f9a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d2a728b9-fb08-4683-a89a-817f0df92f9a/wagner-egelhaaf_1983_ein-traum.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d2a728b9-fb08-4683-a89a-817f0df92f9a" DMDID="DMD_d2a728b9-fb08-4683-a89a-817f0df92f9a">
+            <mets:fptr FILEID="FILE_d2a728b9-fb08-4683-a89a-817f0df92f9a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

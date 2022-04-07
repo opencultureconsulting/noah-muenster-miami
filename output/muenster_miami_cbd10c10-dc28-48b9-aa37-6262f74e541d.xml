@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cbd10c10-dc28-48b9-aa37-6262f74e541d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soziale Ungleichheit und soziale Probleme in der Bundesrepublik</title>
+                        <subTitle>Besteht denn wirklich Grund, die anempfohlene Zuversicht zu teilen? Literaturbericht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böttcher, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Böttcher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1988</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-05-26</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-05-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Die neue Gesellschaft 35 (1988) 2, 139-141</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17489499502</identifier>
+                    <identifier type="issn">0028-3177</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cbd10c10-dc28-48b9-aa37-6262f74e541d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cbd10c10-dc28-48b9-aa37-6262f74e541d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cbd10c10-dc28-48b9-aa37-6262f74e541d/1988_boett_sozia.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cbd10c10-dc28-48b9-aa37-6262f74e541d" DMDID="DMD_cbd10c10-dc28-48b9-aa37-6262f74e541d">
+            <mets:fptr FILEID="FILE_cbd10c10-dc28-48b9-aa37-6262f74e541d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

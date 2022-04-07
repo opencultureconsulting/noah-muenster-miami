@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e29f4111-7b57-4a0b-8ae7-16250a0f5c03">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Philipp-Scheidemann-Sammlung</title>
+                        <subTitle>II. Band. Erinnerungen eines [deutschen] Sozialdemokraten</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124766412">
+                        <displayForm>Gellinek, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Gellinek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-03-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Enthält die Memoiren des „einfachen“ Sozialdemokraten und Mitglieds des Reichstags, Philipp Scheidemann, aus der Sicht seiner gesamten politischen Erinnerungen bis 1927/28, verfasst in zwei Bänden in Berlin. Der gescant wiedergegebene Text richtet sich nach der unveränderten, gleich paginierten einbändigen „Volksausgabe“ des selben Verlags von 1930, und beträgt zusammen 886 S. Dadurch wird die Grundlage zu Vergleichen mit dem III. Band gelegt.</abstract>
+                    <abstract lang="eng">Contains the “Memoirs of a Social ´Democrat”, the former German chancellor, Philipp Scheidemann, written from the perspective of a member of the German Parliament in Berlin, treating his political life until 1927/28. The scanned text follows the two-volumes-in-one popular edition, called “Volksausgabe”, with identical pagination of 886 pages, which was issued by the same publishing house in Leipzig. Volume II lays the groundwork for comparisons with his subsequent revisions in volume III.</abstract>
+                    <subject lang="ger">
+                        <topic>Memoirenschriftsteller</topic>
+                        <topic>Mitglied des Reichstags Berlin (bis 1928)</topic>
+                        <topic>Reichsministerpräsident</topic>
+                        <topic>Internationale Solidarität</topic>
+                        <topic>Mitparteivorsitzender</topic>
+                        <topic>Volksbeauftragter</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">320</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98459516724</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e29f4111-7b57-4a0b-8ae7-16250a0f5c03</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e29f4111-7b57-4a0b-8ae7-16250a0f5c03_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e29f4111-7b57-4a0b-8ae7-16250a0f5c03/Band-2_Sammelmappe.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e29f4111-7b57-4a0b-8ae7-16250a0f5c03" DMDID="DMD_e29f4111-7b57-4a0b-8ae7-16250a0f5c03">
+            <mets:fptr FILEID="FILE_e29f4111-7b57-4a0b-8ae7-16250a0f5c03_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dd4e80ca-e20e-451d-bf43-f98c2267c8a2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Adenylylzyklasen vermittelte Signalgebung in thalamokortikalen Schaltneuronen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142366412">
+                        <displayForm>Ehling, Petra</displayForm>
+                        <namePart type="given">Petra</namePart>
+                        <namePart type="family">Ehling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122102282">
+                        <displayForm>Budde, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Budde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-06-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Thalamokortikale Netzwerke generieren sowohl normale als auch anomale Muster synchronisierter Aktivität, wie Schlafspindeln und epileptische Spitze-Welle-Entladungen. Tonische Aktivität hingegen herrscht in Phasen der sensorischen Informationsverarbeitung vor. Es wurde bereits gezeigt, dass der intrazelluläre Botenstoff cAMP Ionenkanäle moduliert, welche an der Generierung von thalamokortikaler Aktivität beteiligt sind. Mittels molekularbiologischen und patch clamp-Techniken beleuchtet diese Arbeit das Expressionsprofil von thalamischen Adenylylzyklasen (AC) und die funktionellen Konsequenzen ihrer Aktivierung im Tiermodell der humanen Absence Epilepsie. Es konnte gezeigt werden, dass ACs eine wichtige Funktion bei der Generierung thalamischer Aktivität erfüllen und eine Dysfunktion zur Epileptogenese beitragen kann. Nach AC Aktivierung unterstützt auch die Inhibition der BKCa Kanäle über eine verminderte Frequenzadaptation die 1:1-Weiterleitung von sensorischer Information zum Kortex.</abstract>
+                    <subject lang="ger">
+                        <topic>Adenylylzyklasen</topic>
+                        <topic>thalamokortikales Netzwerk</topic>
+                        <topic>Absence Epilepsie</topic>
+                        <topic>patch clamp-Technik</topic>
+                        <topic>Frequenzadaptation</topic>
+                        <topic>HVA Ca2+-Strom</topic>
+                        <topic>Ca2+-abhängiger K+-Strom</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87429479557</identifier>
+                    <identifier type="sys">HT016519995</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dd4e80ca-e20e-451d-bf43-f98c2267c8a2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dd4e80ca-e20e-451d-bf43-f98c2267c8a2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dd4e80ca-e20e-451d-bf43-f98c2267c8a2/diss_ehling.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dd4e80ca-e20e-451d-bf43-f98c2267c8a2" DMDID="DMD_dd4e80ca-e20e-451d-bf43-f98c2267c8a2">
+            <mets:fptr FILEID="FILE_dd4e80ca-e20e-451d-bf43-f98c2267c8a2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

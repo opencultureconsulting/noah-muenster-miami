@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5b040e65-5705-4d08-b43a-cacf99f02bfc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>medizinische Qualitätsbericht</title>
+                        <subTitle>Bewertung und Entwicklung von Qualitätsindikatoren</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130404543">
+                        <displayForm>Siebers, Ludwig</displayForm>
+                        <namePart type="given">Ludwig</namePart>
+                        <namePart type="family">Siebers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124936911">
+                        <displayForm>Roeder, Norbert</displayForm>
+                        <namePart type="given">Norbert</namePart>
+                        <namePart type="family">Roeder</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-09-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-09-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ab dem Jahr 2005 sind alle Krankenhäuser in Deutschland gesetzlich verpflichtet, einen Qualitätsbericht zu veröffentlichen. Am Beispiel des Qualitätsberichtes für das Universitätsklinikum Münster wurde untersucht, inwieweit ein solcher Bericht eine verlässliche Aussage zur Qualität machen kann. Weiterhin wurde dargestellt, welche Schritte nötig sind, um Qualitätsberichterstattung weiterzuentwickeln. Nationale und internationale Erfahrungen in der Darstellung von Qualität zeigen, dass auf die Erfassung von Daten zur Prozess- und Ergebnisqualität im Rahmen der Qualitätsberichterstattung nicht verzichtet werden darf. Es werden Möglichkeiten aufgezeigt, Qualitätsindikatoren zu entwickeln, die eine verlässliche und aussagekräftige Vergleichbarkeit von Kliniken ermöglichen. Dabei soll ein Konzept von Qualität zu Grunde gelegt werden, welches über komplikationslose Behandlung von Patienten hinausgeht und im Sinne eines modernen Qualitätsmanagements alle Bereiche eines Krankenhauses erfasst.</abstract>
+                    <subject lang="ger">
+                        <topic>Qualität</topic>
+                        <topic>Qualitätsbericht</topic>
+                        <topic>Qualitätsindikatoren</topic>
+                        <topic>Qualitätsmanagement</topic>
+                        <topic>§137 SGB V</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94699323358</identifier>
+                    <identifier type="sys">HT014538767</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5b040e65-5705-4d08-b43a-cacf99f02bfc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5b040e65-5705-4d08-b43a-cacf99f02bfc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5b040e65-5705-4d08-b43a-cacf99f02bfc/diss_siebers.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5b040e65-5705-4d08-b43a-cacf99f02bfc" DMDID="DMD_5b040e65-5705-4d08-b43a-cacf99f02bfc">
+            <mets:fptr FILEID="FILE_5b040e65-5705-4d08-b43a-cacf99f02bfc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

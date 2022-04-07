@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_da5c6538-250c-4c3f-9ee7-480433089bba">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grammateis und Mnamones</title>
+                        <subTitle>Schreiber und Rechtsbewahrer in archaischer und frühklassischer Zeit</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131441574">
+                        <displayForm>Reiche, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Reiche</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121405664">
+                        <displayForm>Funke, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Funke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-02-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Dissertation von Frank Reiche zeichnet die Ausdifferenzierung der Ämter der Mnamones (Rechtsbewahrer) und Grammateis (Schreiber) in archaischer und frühklassischer Zeit nach. Eingegangen wird auch auf die Folgewirkung dieser Entwicklung für den Prozess der Polisinstitutionalisierung. Quellengrundlage der Arbeit bilden vor allem inschriftliche Zeugnisse, die in den letzten Jahrzehnten neu gefunden und bisher nur wenig beachtet wurden.</abstract>
+                    <subject lang="ger">
+                        <topic>Archaisches Griechenland</topic>
+                        <topic>Polis</topic>
+                        <topic>Institutionen</topic>
+                        <topic>Schriftlichkeit</topic>
+                        <topic>Gesetzgebung</topic>
+                    </subject>
+                    <classification authority="ddc">930</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-83639529942</identifier>
+                    <identifier type="sys">HT014709775</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_da5c6538-250c-4c3f-9ee7-480433089bba</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_da5c6538-250c-4c3f-9ee7-480433089bba_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/da5c6538-250c-4c3f-9ee7-480433089bba/diss_reiche.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_da5c6538-250c-4c3f-9ee7-480433089bba" DMDID="DMD_da5c6538-250c-4c3f-9ee7-480433089bba">
+            <mets:fptr FILEID="FILE_da5c6538-250c-4c3f-9ee7-480433089bba_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

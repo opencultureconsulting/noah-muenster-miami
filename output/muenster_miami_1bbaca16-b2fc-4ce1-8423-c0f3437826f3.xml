@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1bbaca16-b2fc-4ce1-8423-c0f3437826f3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Interactions between HDL and NAD(P) oxidase</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129765023">
+                        <displayForm>Pawlak, Alicja</displayForm>
+                        <namePart type="given">Alicja</namePart>
+                        <namePart type="family">Pawlak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129765023">
+                        <displayForm>Pawlak, Alicja Joanna</displayForm>
+                        <namePart type="given">Alicja Joanna</namePart>
+                        <namePart type="family">Pawlak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/17299005X">
+                        <displayForm>Nofer, Jerzy-Roch</displayForm>
+                        <namePart type="given">Jerzy-Roch</namePart>
+                        <namePart type="family">Nofer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-02-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-01-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Dissertation zeigt den Einfluss von HDL und HDL-Lysosphingolipiden auf die Aktivierung der NAD(P)H Oxidase, die davon abhängige Produktion von ROS, die Aktivierung von p38MAPK und MMPs, sowie die Synthese von MCP-1. Die Experimente wurden an kultivierten glatten Muskelzellen von Ratten durchgeführt. Zur Analyse dienten Fluoreszensspektrometrie, ELISA, RT-PCR, Spektrophotometrie und Gelatine-Zymographie. Es konnte gezeigt werden, dass thrombininduzierte Aktivierung der NAD(P)H Oxidase, die Produktion von ROS, p38MAPK und die davon abhängige Produktion von MCP-1 durch HDL und HDL-Lysosphingolipiden inhibiert werden. Diese Ergebnisse verdeutlichen die hemmende Wirkung von HDL auf proatherogene Prozesse.</abstract>
+                    <subject lang="ger">
+                        <topic>HDL</topic>
+                        <topic>NAD(P)H Oxidase</topic>
+                        <topic>ROS</topic>
+                        <topic>MCP-1</topic>
+                        <topic>p38MAPK</topic>
+                        <topic>HDL-Lysosphingolipiden</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97619550346</identifier>
+                    <identifier type="sys">HT014319703</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1bbaca16-b2fc-4ce1-8423-c0f3437826f3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1bbaca16-b2fc-4ce1-8423-c0f3437826f3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1bbaca16-b2fc-4ce1-8423-c0f3437826f3/Dissertation_Alicja_Pawlak.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1bbaca16-b2fc-4ce1-8423-c0f3437826f3" DMDID="DMD_1bbaca16-b2fc-4ce1-8423-c0f3437826f3">
+            <mets:fptr FILEID="FILE_1bbaca16-b2fc-4ce1-8423-c0f3437826f3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

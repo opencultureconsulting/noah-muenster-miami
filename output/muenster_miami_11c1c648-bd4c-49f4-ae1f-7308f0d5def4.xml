@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_11c1c648-bd4c-49f4-ae1f-7308f0d5def4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Single-Shot-Spinalanästhesie in Abhängigkeit der Berufserfahrung des Anästhesisten und des individuellen Patientenhabitus in der täglichen Routine</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weiss, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Weiss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12361127X">
+                        <displayForm>Hahnenkamp, Klaus</displayForm>
+                        <namePart type="given">Klaus</namePart>
+                        <namePart type="family">Hahnenkamp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-12-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-11-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei 161 Patienten, die sich im St. Franziskus-Hospital Münster einem elektiven, operativen Eingriff an der unteren Extremität in geplanter Spinalanästhesie unterzogen, wurde prospektiv untersucht, wie stark sich die Berufserfahrung des Anästhesisten und der individuelle Wirbelsäulenhabitus des Patienten auf die Spinalanästhesie auswirkt. Ergebnisse: Bei unerfahrenen Ärzten wurden signifikant mehr Punktionsversuche, häufiger Segmentwechsel und mehr Zeit benötigt. Ein schwieriger Patientenhabitus verstärkte diese Tendenzen zusätzlich. Außerdem zeigte sich, dass sich ein schwieriger Wirbelsäulenhabitus auf die Komplikationen der Lumbalpunktion unabhängig von der Berufserfahrung auswirkte. Schlussfolgerung: Aufgrund unserer Ergebnisse erscheint es sinnvoll, die Spinalanästhesien bei schwierigem Habitus von erfahrenen Ärzten durchführen zu lassen, um den Stress für die Patienten zu verringern und eine Häufung frustrierender Erlebnisse für junge Mediziner zu vermeiden.</abstract>
+                    <subject lang="ger">
+                        <topic>Spinalanästhesie</topic>
+                        <topic>Lumbalpunktion</topic>
+                        <topic>Komplikationen</topic>
+                        <topic>Berufserfahrung</topic>
+                        <topic>Wirbelsäulenhabitus</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92409389355</identifier>
+                    <identifier type="sys">HT017083373</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_11c1c648-bd4c-49f4-ae1f-7308f0d5def4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_11c1c648-bd4c-49f4-ae1f-7308f0d5def4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/11c1c648-bd4c-49f4-ae1f-7308f0d5def4/diss_weiss_christian.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_11c1c648-bd4c-49f4-ae1f-7308f0d5def4" DMDID="DMD_11c1c648-bd4c-49f4-ae1f-7308f0d5def4">
+            <mets:fptr FILEID="FILE_11c1c648-bd4c-49f4-ae1f-7308f0d5def4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

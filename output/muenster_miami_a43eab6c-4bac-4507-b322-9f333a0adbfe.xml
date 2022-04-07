@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a43eab6c-4bac-4507-b322-9f333a0adbfe">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Geschichte der Universität Münster</title>
+                        <subTitle>Europa in Westfalen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118179918">
+                        <displayForm>Ribhegge, Wilhelm</displayForm>
+                        <namePart type="given">Wilhelm</namePart>
+                        <namePart type="family">Ribhegge</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1985</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-09-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Geschichte der Universität Münster enthält die folgenden Überschriften: Bildungsgeschichte Westfalens 1474-1780 - Katholische Aufklärung, Franz von Fürstenberg und der &quot;Kreis von Münster&quot; 1780-1802 - Auflösung des Fürstbistums, Streit, Preußen 1802-1840 - Naturwissenschaft, Fortschritt, Säkularisierung 1840-1880 - Bürgertum, Nation, Wohlstand 1880-1914 - Die Entstehung der modernen Universität 1914-1933 - Unter dem Nationalsozialismus 1933-1945 - Seit 1945</abstract>
+                    <note type="citation/reference">Ribhegge, Wilhelm: Geschichte der Universität Münster. Europa in Westfalen. Münster : Verlag Regensberg 1985, 251 Seiten. ISBN 3-7923-0529-1</note>
+                    <subject lang="ger">
+                        <topic>Universitätsgeschichte von Münster</topic>
+                        <topic>vom 18. bis in das 20. Jahrhundert</topic>
+                        <topic>deutsche und europäische Geschichte</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>History of the University of Münster</topic>
+                        <topic>from 18. to the 20. century</topic>
+                        <topic>German and European history</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-56049633181</identifier>
+                    <identifier type="isbn">3-7923-0529-1</identifier>
+                    <identifier type="sys">HT021111315</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a43eab6c-4bac-4507-b322-9f333a0adbfe</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a43eab6c-4bac-4507-b322-9f333a0adbfe_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a43eab6c-4bac-4507-b322-9f333a0adbfe/ribhegge_1985_3-7923-0529-1.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a43eab6c-4bac-4507-b322-9f333a0adbfe" DMDID="DMD_a43eab6c-4bac-4507-b322-9f333a0adbfe">
+            <mets:fptr FILEID="FILE_a43eab6c-4bac-4507-b322-9f333a0adbfe_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

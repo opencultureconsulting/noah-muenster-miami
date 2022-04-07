@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3e9a29ce-6b7c-49fc-908b-bf773214aa11">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Joca Monachorum als zentrale Quelle der deutschen Rätsel- und Scherzfragentradition vom Mittelalter bis in die frühe Neuzeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Domanowski, Anna</displayForm>
+                        <namePart type="given">Anna</namePart>
+                        <namePart type="family">Domanowski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110823656">
+                        <displayForm>Tomasek, Tomas</displayForm>
+                        <namePart type="given">Tomas</namePart>
+                        <namePart type="family">Tomasek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-03-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-07-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Untersuchung zeigt die Bedeutung der Joca Monachorum für die spätmittelalterliche/frühneuzeitliche Rätsel- und Scherzfragentradition auf. Als grundlegend für diesen Einfluss erweist sich, dass die Fragenreihen der Joca Monachorum keinesfalls starr oder eindimensional aufgebaut sind, sondern vielmehr durch eine besondere Komplexität und Wandelbarkeit charakterisiert werden. Denn schon die ersten Joca-Sammlungen beinhalten nicht nur Wissensfragen, sondern zudem auch Fragen mit rätsel- oder scherzfragenartigem Potenzial und jeder der versammelten Fragentypen kann als Quelle für spätere Traditionslinien deutscher Rätsel und Scherzfragen ausgemacht werden. Sowohl für die frühen handschriftlich und gedruckt überlieferten Rätselsammlungen (mit Scherzfragenanteilen) als auch für die Traditionen des Sangspruchs und der meisterlichen Liedkunst lassen sich Bezüge zu den Joca Monachorum ausmachen.</abstract>
+                    <subject lang="ger">
+                        <topic>Joca Monachorum</topic>
+                        <topic>Rätsel</topic>
+                        <topic>Scherzfragen</topic>
+                        <topic>Frage-Literatur</topic>
+                    </subject>
+                    <classification authority="ddc">430</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-69129596616</identifier>
+                    <identifier type="sys">HT019624388</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3e9a29ce-6b7c-49fc-908b-bf773214aa11</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3e9a29ce-6b7c-49fc-908b-bf773214aa11_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3e9a29ce-6b7c-49fc-908b-bf773214aa11/diss_domanowski.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3e9a29ce-6b7c-49fc-908b-bf773214aa11" DMDID="DMD_3e9a29ce-6b7c-49fc-908b-bf773214aa11">
+            <mets:fptr FILEID="FILE_3e9a29ce-6b7c-49fc-908b-bf773214aa11_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

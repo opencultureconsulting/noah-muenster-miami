@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7943edcb-bdb8-418f-92ba-00499ebedf2c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Totenscheinanalyse bei Plötzlichem Kindstod</title>
+                        <subTitle>Vergleich der offiziellen Statistik mit den Totenscheinen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1015166539">
+                        <displayForm>Haunerland, Luzia</displayForm>
+                        <namePart type="given">Luzia</namePart>
+                        <namePart type="family">Haunerland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027042813">
+                        <displayForm>Vennemann, Mechtild</displayForm>
+                        <namePart type="given">Mechtild</namePart>
+                        <namePart type="family">Vennemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-09-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-08-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die offizielle Statistik zum Plötzlichen Kindstod (SIDS) wurde an der Realität gemessen anhand der Durchsicht der Totenscheine aller verstorbenen Kinder im Alter zwischen acht Tagen und zwei Jahren in einer Region mit ca. 27.000 Lebendgeburten pro Jahr über einen Zeitraum von zwei Jahren. Nur durch Obduktion bestätigte SIDS-Fälle wurden in der Studie gezählt. In der offiziellen Statistik gab es 17, in der Studie 14 SIDS-Fälle. Alle Fälle wurden in Bezug auf Alter, Geschlecht, Ort und Jahr des Versterbens verglichen. Es wurde klar, dass vier Fälle nur in der Studie und nicht in der Statistik auftauchen. Viele Totenscheine wurden mangelhaft ausgefüllt. Nicht in allen nötigen Fällen wurde eine Obduktion veranlasst. In vier Fällen wurde nach Obduktion eine andere Diagnose gestellt, obwohl die Ergebnisse mit SIDS vereinbar waren. Die offizielle Todesursachenstatistik entspricht nicht der Realität und die tatsächliche Anzahl an SIDS-Fällen könnte höher liegen als die Statistik vermittelt.</abstract>
+                    <subject lang="ger">
+                        <topic>Plötzlicher Kindstod</topic>
+                        <topic>SIDS</topic>
+                        <topic>Totenscheinanalyse</topic>
+                        <topic>Totenscheine</topic>
+                        <topic>Obduktionen</topic>
+                        <topic>Todesursachenstatistik</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-73409404379</identifier>
+                    <identifier type="sys">HT016960824</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7943edcb-bdb8-418f-92ba-00499ebedf2c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7943edcb-bdb8-418f-92ba-00499ebedf2c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7943edcb-bdb8-418f-92ba-00499ebedf2c/diss_haunerland.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7943edcb-bdb8-418f-92ba-00499ebedf2c" DMDID="DMD_7943edcb-bdb8-418f-92ba-00499ebedf2c">
+            <mets:fptr FILEID="FILE_7943edcb-bdb8-418f-92ba-00499ebedf2c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_aca7cb08-b861-406c-b6df-59aaa8f39b7b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Freiräume in der Diktatur?</title>
+                        <subTitle>Die evangelischen Kirchen in der DDR</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136317618">
+                        <displayForm>Findeis, Hagen</displayForm>
+                        <namePart type="given">Hagen</namePart>
+                        <namePart type="family">Findeis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>57</start>
+                                <end>68</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87169528782</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_aca7cb08-b861-406c-b6df-59aaa8f39b7b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_aca7cb08-b861-406c-b6df-59aaa8f39b7b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/aca7cb08-b861-406c-b6df-59aaa8f39b7b/jahrbuch_zns_2002_13_57-68.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_aca7cb08-b861-406c-b6df-59aaa8f39b7b" DMDID="DMD_aca7cb08-b861-406c-b6df-59aaa8f39b7b">
+            <mets:fptr FILEID="FILE_aca7cb08-b861-406c-b6df-59aaa8f39b7b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6ca8e8b8-9b0a-4bf9-8c29-d857584a7663">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„So will ich dir Gruß aus weiter Ferne schicken.“</title>
+                        <subTitle>Feldpost des westfälischen Landsturmmanns Heinrich Echtermeyer, 1916–1918</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131717901">
+                        <displayForm>Kraus, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Kraus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Köster, Fabian</displayForm>
+                        <namePart type="given">Fabian</namePart>
+                        <namePart type="family">Köster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-03-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In diesem Band finden sich insgesamt 57 Feldpostbriefe und Postkarten, die Heinrich Echtermeyer, ein Landwirt aus dem westfälischen Halverde, von Juli 1916 bis November 1918 von der Ostfront an seinen Bruder Bernhard schickte. In ihnen reflektiert er seine eigene bescheidene Rolle in der Ausnahmesituation des Krieges und sein Fronterleben, lässt seiner fortschreitenden Desillusionierung und Kriegsmüdigkeit freien Lauf und schreibt von seiner Sehnsucht nach der Heimat, seiner Trauer, wenn ihn Verlustnachrichten aus eben dieser erreichten. Seiner Feldpost sind fünfzehn Kommentare an die Seite gestellt, die von Studierenden der Westfälischen-Wilhelms-Universität Münster erarbeitet wurden. In ihnen werden einzelne Aspekte der Feldpostbriefe Echtermeyers exemplarisch analysiert.</abstract>
+                    <note>Auch im Buchhandel erhältlich: „So will ich dir Gruß aus weiter Ferne schicken.“ : Feldpost des westfälischen Landsturmmanns Heinrich Echtermeyer, 1916–1918 / Alexander Kraus und Fabian Köster. – Dortmund : readbox unipress, 2021. – 166 S. (Wissenschaftliche Schriften der WWU Münster : Reihe X ; Bd. 33), ISBN 978-3-8405-0249-1, Preis: 18,90 EUR</note>
+                    <subject lang="ger">
+                        <topic>Feldpost</topic>
+                        <topic>Erster Weltkrieg</topic>
+                        <topic>Fronterleben</topic>
+                        <topic>Ostfront</topic>
+                        <topic>Kriegserfahrung</topic>
+                        <topic>Frontalltag</topic>
+                        <topic>Kriegsmüdigkeit</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">940</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09039401177</identifier>
+                    <identifier type="isbn">978-3-8405-0249-1</identifier>
+                    <identifier type="sys">HT020909792</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6ca8e8b8-9b0a-4bf9-8c29-d857584a7663</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6ca8e8b8-9b0a-4bf9-8c29-d857584a7663_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6ca8e8b8-9b0a-4bf9-8c29-d857584a7663/kraus_koester_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6ca8e8b8-9b0a-4bf9-8c29-d857584a7663" DMDID="DMD_6ca8e8b8-9b0a-4bf9-8c29-d857584a7663">
+            <mets:fptr FILEID="FILE_6ca8e8b8-9b0a-4bf9-8c29-d857584a7663_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

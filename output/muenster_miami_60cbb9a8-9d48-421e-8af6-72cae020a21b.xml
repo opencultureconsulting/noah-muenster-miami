@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_60cbb9a8-9d48-421e-8af6-72cae020a21b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Raum und Zeit - Gliederung der Bronzezeit</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108081737">
+                        <displayForm>Jockenhövel, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Jockenhövel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-05-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-05-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Jockenhövel, Albrecht (Hrsg.): Bronzezeit in Deutschland. Stuttgart : Theiss, 1994, S. 11-14</note>
+                    <classification authority="ddc">930</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20459604651</identifier>
+                    <identifier type="isbn">3-8062-1110-8</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_60cbb9a8-9d48-421e-8af6-72cae020a21b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_60cbb9a8-9d48-421e-8af6-72cae020a21b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/60cbb9a8-9d48-421e-8af6-72cae020a21b/1994_jocke_raumu.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_60cbb9a8-9d48-421e-8af6-72cae020a21b" DMDID="DMD_60cbb9a8-9d48-421e-8af6-72cae020a21b">
+            <mets:fptr FILEID="FILE_60cbb9a8-9d48-421e-8af6-72cae020a21b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

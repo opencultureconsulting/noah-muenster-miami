@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bb89e925-e7a3-42d8-b5aa-aa0a54d8b776">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>AEGIS</title>
+                        <subTitle>Agent oriEnted orGanISations</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1063138698">
+                        <displayForm>Unland, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Unland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13000006X">
+                        <displayForm>Kirn, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Kirn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wanka, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Wanka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1089441118">
+                        <displayForm>O&apos;Hare, Gregory M.P.</displayForm>
+                        <namePart type="given">Gregory M.P.</namePart>
+                        <namePart type="family">O&apos;Hare</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abbas, S.</displayForm>
+                        <namePart type="given">S.</namePart>
+                        <namePart type="family">Abbas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1995-02</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Today&apos;s enterprises are faced with highly dynamic, sometimes even hostile environments. This paper dicovers that the two most prominent organizational strategies addressing these challenges, namely that of widespread decentralization and of business process orientation, are inherently conflicting. We argue that cooperative knowledge processing technology can contribute to dissolve this conflict. For this purpose, we introduce the reader into the field of Distributed Artificial Intelligence. On that basis we then develop the concept of Agent oriEnted orGanISations (AEGIS), in order to support the flexible modeling and management of business processes in decentralized organizational settings. Applying to methods of Distributed Planning a set of process modeling and process interaction operators is defined. These operators also permit to automatically create and customize computerized configurations of business processes. The concepts are presented in the context of an application in private banking, namely that of a Credit Advisory System.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43599408896</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bb89e925-e7a3-42d8-b5aa-aa0a54d8b776</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bb89e925-e7a3-42d8-b5aa-aa0a54d8b776_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bb89e925-e7a3-42d8-b5aa-aa0a54d8b776/036_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bb89e925-e7a3-42d8-b5aa-aa0a54d8b776" DMDID="DMD_bb89e925-e7a3-42d8-b5aa-aa0a54d8b776">
+            <mets:fptr FILEID="FILE_bb89e925-e7a3-42d8-b5aa-aa0a54d8b776_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

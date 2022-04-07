@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2af675c2-594f-4e38-b206-aaf8e800c4d5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stochastische Modellierung komplexer Systeme</title>
+                        <subTitle>Von den theoretischen Grundlagen zur Simulation athmosphärischer Windfelder</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136307787">
+                        <displayForm>Kleinhans, David</displayForm>
+                        <namePart type="given">David</namePart>
+                        <namePart type="family">Kleinhans</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Friedrich, Rudolf</displayForm>
+                        <namePart type="given">Rudolf</namePart>
+                        <namePart type="family">Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-07-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-06-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ein erster Schwerpunkt dieser Arbeit liegt auf Methoden zur statistischen Analyse der Dynamik komplexer Systeme. Die Grundlage bildet hierbei ein von Friedrich und Peinke entwickeltes Verfahren zum Schätzen von Drift- und Diffusionsfunktionen aus Messdaten. Im Anschluss daran werden Continuous Time Random Walks (CTRWs) betrachtet, die die Modellierung von nicht-Markov-Prozessen, die im Ensemble anomales Diffusionsverhalten zeigen, ermöglichen. Insbesondere wird ein Algorithmus zur numerischen Simulation stetiger Trajektorien solcher Prozesse eingeführt. Auf der Basis von CTRWs wird schließlich ein Modell für atmosphärische Windfelder, die für eine bessere Charakterisierung von Windkraftanlagen in der atmosphärischen Grenzschicht benötigt werden, entwickelt, das einige intermittente Eigenschaften der atmosphärischen Turbulenz reproduzieren kann. Die Arbeit schließt mit ersten Ergebnissen von Tests dieses Windfeldmodells an aktuellen Windkraftanlagen.</abstract>
+                    <subject lang="ger">
+                        <topic>Dynamik komplexer Systeme</topic>
+                        <topic>Stochastische Prozess</topic>
+                        <topic>Markov-Prozesse</topic>
+                        <topic>Continous Time Random Walks (CTRWs)</topic>
+                        <topic>Windfeldsimulation</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44569467269</identifier>
+                    <identifier type="sys">HT015678624</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2af675c2-594f-4e38-b206-aaf8e800c4d5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2af675c2-594f-4e38-b206-aaf8e800c4d5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2af675c2-594f-4e38-b206-aaf8e800c4d5/diss_kleinhans.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2af675c2-594f-4e38-b206-aaf8e800c4d5" DMDID="DMD_2af675c2-594f-4e38-b206-aaf8e800c4d5">
+            <mets:fptr FILEID="FILE_2af675c2-594f-4e38-b206-aaf8e800c4d5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

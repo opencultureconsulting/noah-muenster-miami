@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ef9c6f45-df5a-406f-bf75-bdaf826abaa6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optische 3D-Messungen zur Analyse von Gesichtsoberflächenveränderungen orthognath-chirurgischer Patientenfälle</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122314026">
+                        <displayForm>Proll, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Proll</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172920604">
+                        <displayForm>Kleinheinz, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Kleinheinz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-06-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-05-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Orthognath-chirurgische Eingriffe führen zu dreidimensionalen Veränderungen der Gesichtsoberfläche, die mit Fernröntgenseitbildern (FRS) oder Fotos nicht erfasst werden können und mit mechanischen oder optischen 3-D Messverfahren bislang meistens nur qualitativ dargestellt wurden. Metrische Analysen derartiger Gesichtsveränderungen sind fast ausschließlich in der zweidimensionalen Ebene des FRS durchgeführt worden. Anhand von 15 exemplarisch ausgewählten Patientenfällen wurde die Einsatzfähigkeit eines an der Universität Münster entwickelten 3-D photogrammetrischen Systems zur qualitativen und quantitativen Analyse von orthognath bedingten Gesichtsveränderungen getestet. Die Ergebnisse zeigten, dass mit Hilfe dieses Messsystems derartige Veränderungen in Form von 3-D Modellen, Falschfarben- und Profilliniendarstellungen visualisiert und deren Beträge vermessen werden können. Aufgrund von einigen kleineren Fehlermöglichkeiten ist eine Weiterentwicklung des Systems notwendig.</abstract>
+                    <subject lang="ger">
+                        <topic>Orthognathe Chirurgie</topic>
+                        <topic>3D-Messsysteme</topic>
+                        <topic>Gesichtsveränderungen</topic>
+                        <topic>Photogrammetrie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-47459417232</identifier>
+                    <identifier type="sys">HT016484203</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ef9c6f45-df5a-406f-bf75-bdaf826abaa6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ef9c6f45-df5a-406f-bf75-bdaf826abaa6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ef9c6f45-df5a-406f-bf75-bdaf826abaa6/diss_proll.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ef9c6f45-df5a-406f-bf75-bdaf826abaa6" DMDID="DMD_ef9c6f45-df5a-406f-bf75-bdaf826abaa6">
+            <mets:fptr FILEID="FILE_ef9c6f45-df5a-406f-bf75-bdaf826abaa6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

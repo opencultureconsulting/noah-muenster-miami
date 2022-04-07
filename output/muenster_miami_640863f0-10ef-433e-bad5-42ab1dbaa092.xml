@@ -1,0 +1,96 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_640863f0-10ef-433e-bad5-42ab1dbaa092">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Evaluating Characteristics of De Novo Assembly Software on 454 Transcriptome Data: A Simulation Approach</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114760987X">
+                        <displayForm>Mundry, Marvin</displayForm>
+                        <namePart type="given">Marvin</namePart>
+                        <namePart type="family">Mundry</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bornberg-Bauer, Erich</displayForm>
+                        <namePart type="given">Erich</namePart>
+                        <namePart type="family">Bornberg-Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bornberg-Bauer, E.</displayForm>
+                        <namePart type="given">E.</namePart>
+                        <namePart type="family">Bornberg-Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bauer, Erich Bornberg-</displayForm>
+                        <namePart type="given">Erich Bornberg-</namePart>
+                        <namePart type="family">Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132161249">
+                        <displayForm>Sammeth, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Sammeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Feulner, Philine G. D.</displayForm>
+                        <namePart type="given">Philine G. D.</namePart>
+                        <namePart type="family">Feulner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-02-27</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-02-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-02-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: The quantity of transcriptome data is rapidly increasing for non-model organisms. As sequencing technology advances, focus shifts towards solving bioinformatic challenges, of which sequence read assembly is the first task. Recent studies have compared the performance of different software to establish a best practice for transcriptome assembly. Here, we adapted a simulation approach to evaluate specific features of assembly programs on 454 data. The novelty of our study is that the simulation allows us to calculate a model assembly as reference point for comparison. Findings: The simulation approach allows us to compare basic metrics of assemblies computed by different software applications (CAP3, MIRA, Newbler, and Oases) to a known optimal solution. We found MIRA and CAP3 are conservative in merging reads. This resulted in comparably high number of short contigs. In contrast, Newbler more readily merged reads into longer contigs, while Oases produced the overall shortest assembly. Due to the simulation approach, reads could be traced back to their correct placement within the transcriptome. Together with mapping reads onto the assembled contigs, we were able to evaluate ambiguity in the assemblies. This analysis further supported the conservative nature of MIRA and CAP3, which resulted in low proportions of chimeric contigs, but high redundancy. Newbler produced less redundancy, but the proportion of chimeric contigs was higher. Conclusion: Our evaluation of four assemblers suggested that MIRA and Newbler slightly outperformed the other programs, while showing contrasting characteristics. Oases did not perform very well on the 454 reads. Our evaluation indicated that the software was either conservative (MIRA) or liberal (Newbler) about merging reads into contigs. This suggested that in choosing an assembly program researchers should carefully consider their follow up analysis and consequences of the chosen approach to gain an assembly.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2011/2012 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">PLoS ONE 7 (2012) 2, e31410</note>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77379446593</identifier>
+                    <identifier type="doi">doi:10.1371/journal.pone.0031410</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/2.5/">CC BY 2.5</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_640863f0-10ef-433e-bad5-42ab1dbaa092</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_640863f0-10ef-433e-bad5-42ab1dbaa092_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/640863f0-10ef-433e-bad5-42ab1dbaa092/journal.pone.0031410.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_640863f0-10ef-433e-bad5-42ab1dbaa092" DMDID="DMD_640863f0-10ef-433e-bad5-42ab1dbaa092">
+            <mets:fptr FILEID="FILE_640863f0-10ef-433e-bad5-42ab1dbaa092_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

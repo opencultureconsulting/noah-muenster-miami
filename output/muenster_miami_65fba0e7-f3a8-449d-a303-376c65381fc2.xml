@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_65fba0e7-f3a8-449d-a303-376c65381fc2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wirtschaftlichkeitsfaktoren beim integrationsorientierten Reengineering</title>
+                        <subTitle>Verteilungsarchitektur und Integrationsschritte aus ökonomischer Sicht</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110594991">
+                        <displayForm>Jung, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Jung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1993-07</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen des integrationsorientierten Reengineering sollen in Betrieb befindliche und neu zu entwickelnde Softwaresysteme in ein integriertes verteiltes Anwendungssystem (IVAS) integriert werden. Zu diesem Zweck muß vor Beginn des Integrationsprozesses die Verteilungsarchitektur festgelegt werden. Anschließend können durch einzelne nacheinander erfolgende Integrationsschritte vorhandene bzw. neu entwickelte Softwaresysteme in das IVAS integriert werden. Der vorliegende Arbeitsbericht beschäftigt sich zum einen mit den Faktoren, die aus ökonomischer Sicht einen Einfluß auf die Wahl der Verteilungsarchitektur haben. Zum anderen wird untersucht, welche Faktoren einen Einfluß auf die Entscheidung haben, ob ein Altsystem einem Reengineering-Prozeß unterzogen oder ersetzt werden soll.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93599567349</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_65fba0e7-f3a8-449d-a303-376c65381fc2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_65fba0e7-f3a8-449d-a303-376c65381fc2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/65fba0e7-f3a8-449d-a303-376c65381fc2/016_arbeitsbereiche_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_65fba0e7-f3a8-449d-a303-376c65381fc2" DMDID="DMD_65fba0e7-f3a8-449d-a303-376c65381fc2">
+            <mets:fptr FILEID="FILE_65fba0e7-f3a8-449d-a303-376c65381fc2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

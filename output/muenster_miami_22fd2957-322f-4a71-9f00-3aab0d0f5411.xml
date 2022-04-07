@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_22fd2957-322f-4a71-9f00-3aab0d0f5411">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mehrschicht-Spiral-Computertomographie des Herzens</title>
+                        <subTitle>Abbildungsqualität der Koronararterien in Abhängigkeit von Herzfrequenz und Lage des Rekonstruktionsfensters</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129617016">
+                        <displayForm>Opitz, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Opitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113504152">
+                        <displayForm>Fischbach, Roman</displayForm>
+                        <namePart type="given">Roman</namePart>
+                        <namePart type="family">Fischbach</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-12-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-11-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die MSCT mit retrospektivem EKG-Gating ermöglicht eine CTA der Koronarien. Ziel dieser Arbeit war es, einen optimalen Zeitpunkt für die Bildberechnung zu finden und den Einfluss der Herzfrequenz auf die Bildqualität zu untersuchen. Aus Datensätzen von 27 Patienten wurden Bildserien erzeugt und die Bildqualität bewertet. Der RIVA ließ sich konstant gut visualisieren. Der RCX wurde meist bei schlechterer Bildqualität in demselben Rekonstruktionsfenster wie der RIVA erfasst. Die RCA war durch Bewegungsartefakte deutlich eingeschränkt. Bei niedrigen Herzfrequenzen konnten alle Koronararterien in einem diastolischen Fenster meist gut visualisiert werden. Bei Herzfrequenzen über 65/min nahm die Bildqualität deutlich ab. Ein allgemein gültiger optimaler Rekonstruktionszeitpunkt für alle Gefäßabschnitte ließ sich nicht festlegen. Eine niedrige Herzfrequenz ist Voraussetzung für eine qualitativ gute Koronararteriendarstellung. Der Einsatz von Beta-Rezeptorantagonisten ist zu empfehlen.</abstract>
+                    <subject lang="ger">
+                        <topic>Kardio-CT</topic>
+                        <topic>Spiral-CT</topic>
+                        <topic>Mehrschichtspiralcomputertomographie</topic>
+                        <topic>Herz</topic>
+                        <topic>EKG-Gating</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17689642247</identifier>
+                    <identifier type="sys">HT014259019</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_22fd2957-322f-4a71-9f00-3aab0d0f5411</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_22fd2957-322f-4a71-9f00-3aab0d0f5411_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/22fd2957-322f-4a71-9f00-3aab0d0f5411/diss_opitz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_22fd2957-322f-4a71-9f00-3aab0d0f5411" DMDID="DMD_22fd2957-322f-4a71-9f00-3aab0d0f5411">
+            <mets:fptr FILEID="FILE_22fd2957-322f-4a71-9f00-3aab0d0f5411_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

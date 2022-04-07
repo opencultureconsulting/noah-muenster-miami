@@ -1,0 +1,103 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_81b58144-0f6b-4628-aae7-9da2171fad43">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Detecting cancer clusters in a regional population with local cluster tests and Bayesian smoothing methods: a simulation study</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108238416X">
+                        <displayForm>Lemke, Dorothea</displayForm>
+                        <namePart type="given">Dorothea</namePart>
+                        <namePart type="family">Lemke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108238416X">
+                        <displayForm>Kirchner, Dorothea</displayForm>
+                        <namePart type="given">Dorothea</namePart>
+                        <namePart type="family">Kirchner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130377600">
+                        <displayForm>Mattauch, Volkmar Robert</displayForm>
+                        <namePart type="given">Volkmar Robert</namePart>
+                        <namePart type="family">Mattauch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172614945">
+                        <displayForm>Heidinger, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Heidinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136857736">
+                        <displayForm>Pebesma, Edzer J.</displayForm>
+                        <namePart type="given">Edzer J.</namePart>
+                        <namePart type="family">Pebesma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110928482">
+                        <displayForm>Hense, Hans-Werner</displayForm>
+                        <namePart type="given">Hans-Werner</namePart>
+                        <namePart type="family">Hense</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-07</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-02-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: There is a rising public and political demand for prospective cancer cluster monitoring. But there is little empirical evidence on the performance of established cluster detection tests under conditions of small and heterogeneous sample sizes and varying spatial scales, such as are the case for most existing population-based cancer registries. Therefore this simulation study aims to evaluate different cluster detection methods, implemented in the open soure environment R, in their ability to identify clusters of lung cancer using real-life data from an epidemiological cancer registry in Germany. Methods: Risk surfaces were constructed with two different spatial cluster types, representing a relative risk of RR = 2.0 or of RR = 4.0, in relation to the overall background incidence of lung cancer, separately for men and women. Lung cancer cases were sampled from this risk surface as geocodes using an inhomogeneous Poisson process. The realisations of the cancer cases were analysed within small spatial (census tracts, N = 1983) and within aggregated large spatial scales (communities, N = 78). Subsequently, they were submitted to the cluster detection methods. The test accuracy for cluster location was determined in terms of detection rates (DR), false-positive (FP) rates and positive predictive values. The Bayesian smoothing models were evaluated using ROC curves. Results: With moderate risk increase (RR = 2.0), local cluster tests showed better DR (for both spatial aggregation scales &gt; 0.90) and lower FP rates (both &lt; 0.05) than the Bayesian smoothing methods. When the cluster RR was raised four-fold, the local cluster tests showed better DR with lower FPs only for the small spatial scale. At a large spatial scale, the Bayesian smoothing methods, especially those implementing a spatial neighbourhood, showed a substantially lower FP rate than the cluster tests. However, the risk increases at this scale were mostly diluted by data aggregation. Conclusion: High resolution spatial scales seem more appropriate as data base for cancer cluster testing and monitoring than the commonly used aggregated scales. We suggest the development of a two-stage approach that combines methods with high detection rates as a first-line screening with methods of higher predictive ability at the second stage.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2013/2014 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">International Journal of Health Geographics 12 (2013) 54</note>
+                    <subject lang="eng">
+                        <topic>Spatial cancer cluster</topic>
+                        <topic>Local cluster tests, R</topic>
+                        <topic>DCluster</topic>
+                        <topic>Bayesian smoothing methods</topic>
+                        <topic>Simulation design</topic>
+                        <topic>Epidemiological cancer registry</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74309620837</identifier>
+                    <identifier type="doi">10.1186/1476-072X-12-54</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/2.0/">CC BY 2.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_81b58144-0f6b-4628-aae7-9da2171fad43</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_81b58144-0f6b-4628-aae7-9da2171fad43_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/81b58144-0f6b-4628-aae7-9da2171fad43/1476-072X-12-54.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_81b58144-0f6b-4628-aae7-9da2171fad43" DMDID="DMD_81b58144-0f6b-4628-aae7-9da2171fad43">
+            <mets:fptr FILEID="FILE_81b58144-0f6b-4628-aae7-9da2171fad43_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

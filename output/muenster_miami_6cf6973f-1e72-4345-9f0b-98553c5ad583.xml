@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6cf6973f-1e72-4345-9f0b-98553c5ad583">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the storage capacity of generalized Hopfield models</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1205670661">
+                        <displayForm>Upgang, Sven</displayForm>
+                        <namePart type="given">Sven</namePart>
+                        <namePart type="family">Upgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133460967">
+                        <displayForm>Löwe, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Löwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-03-02</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-02-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Hopfield Modell ist ein neuronales Netzwerk und kann als assoziativer Speicher genutzt werden. In dieser Dissertation wird die Dynamik des Hopfield Modells modifiziert, sodass eine höhere Speicherkapazität erreicht werden kann. Neben Mustern mit unabhängigen Einträgen werden auch Muster mit korrelierten Einträgen verwendet. Die Arbeit leitet Ergebnisse für eine polynomielle und für eine exponentielle Dynamik her. Des Weiteren wird ein inhomogenes Hopfield Modell definiert. Hierbei führt ein größerer Abstand zwischen Neuronen zu einer verminderten Signalstärke. In diesem Modell wird die Speicherkapazität für einen regulären Graphen, einen Gittergraphen sowie einen Galton-Watson Baum berechnet.</abstract>
+                    <note type="thesis statement">Zugl. Münster (Westfalen), Univ., Diss., 2020</note>
+                    <subject lang="ger">
+                        <topic>Neuronale Netzwerke</topic>
+                        <topic>Assoziativer Speicher</topic>
+                        <topic>Hopfield Modell</topic>
+                        <topic>Exponentielle Ungleichungen</topic>
+                        <topic>Wahrscheinlichkeitstheorie</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62109652885</identifier>
+                    <identifier type="sys">HT020383479</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc/4.0">CC BY-NC 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6cf6973f-1e72-4345-9f0b-98553c5ad583</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6cf6973f-1e72-4345-9f0b-98553c5ad583_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6cf6973f-1e72-4345-9f0b-98553c5ad583/diss_upgang.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6cf6973f-1e72-4345-9f0b-98553c5ad583" DMDID="DMD_6cf6973f-1e72-4345-9f0b-98553c5ad583">
+            <mets:fptr FILEID="FILE_6cf6973f-1e72-4345-9f0b-98553c5ad583_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f46ff3e7-6787-4bba-92ac-ca52bd94ff07">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Abformgenauigkeit mit elastomeren Abformmaterialien</title>
+                        <subTitle>Theoretische und experimentelle Untersuchungen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1043677615">
+                        <displayForm>Meiners, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Meiners</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1977</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-08-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Druckausgabe: Meiners, Hermann: Abformgenauigkeit mit elastomeren Abformmaterialien. München : Hanser, 1977, 124 S.</note>
+                    <note>Zugl.: Münster (Westfalen), Univ., Habil.-Schr., 1977</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-83429670487</identifier>
+                    <identifier type="isbn">3-446-12378-4</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f46ff3e7-6787-4bba-92ac-ca52bd94ff07</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f46ff3e7-6787-4bba-92ac-ca52bd94ff07_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f46ff3e7-6787-4bba-92ac-ca52bd94ff07/1977_meine_abfor.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f46ff3e7-6787-4bba-92ac-ca52bd94ff07" DMDID="DMD_f46ff3e7-6787-4bba-92ac-ca52bd94ff07">
+            <mets:fptr FILEID="FILE_f46ff3e7-6787-4bba-92ac-ca52bd94ff07_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

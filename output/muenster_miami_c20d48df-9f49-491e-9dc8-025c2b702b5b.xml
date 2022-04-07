@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c20d48df-9f49-491e-9dc8-025c2b702b5b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulare Analysen zur Oligosaccharidbildung in Actinoplanes sp.</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124478190">
+                        <displayForm>Lee, Jin-Sook</displayForm>
+                        <namePart type="given">Jin-Sook</namePart>
+                        <namePart type="family">Lee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pape, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Pape</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-01-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-12-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Während der Fermentation bildet Actinoplanes sp. Pseudooligosaccharide als Sekundärmetabolite, deren gemeinsame Core-Grundstruktur aus ungesättigten C7N-Cycliten (Valienamin) und einer 4,6-Didesoxy-D-glucopyranose besteht. Die beiden Moleküle sind dabei über (-1,4-N-glycodische Bindung verknüpft. Die als Acarviosin bezeichnete Core-Struktur ist essentiell für die Hemmwirkung. Bei der (-Glucosidase Inhibitor Acarbose ist Acarviosyl-Core mit einer Maltosyleinheit verbunden. Neben Acarbose konnten verschiedene Homologen der Acarbosereihe im Kulturfiltrat gefunden werden. Bei der Komponente C wird der Acarviosyl-Core mit Trehalose statt Maltose verknüpft. In Actinoplanes sp. wurde Trehalose durch drei verschiedenen Biosynthesewege synthetisiert; (1) die Trehalose-Bildung aus Maltooligosaccharid mittels der MTSase (TreY) zusammen mit der MTHase (TreZ), (2) die Umsetzung von Maltose zu Trehalose durch die TreSase (TreS), (3) die Trehalose-6-Phosphat-Biosynthese aus aktivierten Vorstufen wie UDP-Glucose und Glucose-6-Phosphat durch die Tps1ase (Tps1). Nach der Inkubation von Acarbose mit dem Enzym MTSase (TreY) wurde die in vitro-Bildung von Komponente C mittels HPLC nachgewiesen.</abstract>
+                    <subject lang="ger">
+                        <topic>Trehalose</topic>
+                        <topic>Streßmetabolit</topic>
+                        <topic>Komponente C</topic>
+                        <topic>Pseudooligosaccharid</topic>
+                        <topic>Actinoplanes</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659549989</identifier>
+                    <identifier type="sys">HT013586384</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c20d48df-9f49-491e-9dc8-025c2b702b5b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c20d48df-9f49-491e-9dc8-025c2b702b5b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c20d48df-9f49-491e-9dc8-025c2b702b5b/trehalose.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c20d48df-9f49-491e-9dc8-025c2b702b5b" DMDID="DMD_c20d48df-9f49-491e-9dc8-025c2b702b5b">
+            <mets:fptr FILEID="FILE_c20d48df-9f49-491e-9dc8-025c2b702b5b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

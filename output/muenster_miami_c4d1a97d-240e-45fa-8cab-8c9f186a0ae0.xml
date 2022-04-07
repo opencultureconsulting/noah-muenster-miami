@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c4d1a97d-240e-45fa-8cab-8c9f186a0ae0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Computer Assisted Learning (CAL) durch Berechnungsexperimente</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108445518">
+                        <displayForm>Grob, Heinz Lothar</displayForm>
+                        <namePart type="given">Heinz Lothar</namePart>
+                        <namePart type="family">Grob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Mittelpunkt von Computer Assisted Learning (CAL) steht der Arbeitsplatz eines Studierenden. Durch gezielte DV-Unterstützung soll der Studierende von Routinetätigkeiten entlastet und dazu ermuntert werden, sich vertieft auf theoretisches Neuland zu begeben. Das Spektrum der CAL-Varianten reicht dabei von einfachen Multiple-Choice-Programmen bis zu Multi-User-Produkten wie Planspielen. Realisierte Anwendungsgebiete aus dem wirtschaftswissenschaftlichen Bereich sind beispielsweise Teile der Produktions- und Kostentheorie, Preistheorie und Investitionstheorie (CAL SIMLAG, CAL PREIDI, CAL VOFI). Die technisch und inhaltlich anspruchsvollste Form von CAL für einzelne Nutzer ist die Durchführung von Berechnungsexperimenten. Während die Multiple-Choice-Programme eine totale Führung des Studenten und die erweiterten CAL-Formen mit Demonstrationsfällen und Fallstudien zumindest eine partielle Führung des Studenten durch den Lehrstoff implizieren, wird bei Berechnungsexperimenten der Freiraum durch Stellen von Fragen und selbständiger Wahl des Lösungsweges vergrößert. Die Techniken zur Realisierung sind vielfältig. Ein in der Literatur dokumentiertes BWL-Modell gilt als Ausgangspunkt. Die freie Parameterwahl ist implementiert. Als Experimentierrahmenwerden das CAL-Modell und Werkzeuge des Personal Computing zur Verfügung gestellt. Multimediale Techniken zur Ein- und Ausgabe optimieren den Benutzerkomfort. Methodische Hilfsmittel wie die hierarchische What-If-Analyse erleichtern die Interpretationsvorgänge und fördern grundlegende Denkprinzipien der Betriebswirtschaftslehre.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-83599548797</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c4d1a97d-240e-45fa-8cab-8c9f186a0ae0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c4d1a97d-240e-45fa-8cab-8c9f186a0ae0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c4d1a97d-240e-45fa-8cab-8c9f186a0ae0/026_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c4d1a97d-240e-45fa-8cab-8c9f186a0ae0" DMDID="DMD_c4d1a97d-240e-45fa-8cab-8c9f186a0ae0">
+            <mets:fptr FILEID="FILE_c4d1a97d-240e-45fa-8cab-8c9f186a0ae0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

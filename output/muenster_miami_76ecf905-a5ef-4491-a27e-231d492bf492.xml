@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_76ecf905-a5ef-4491-a27e-231d492bf492">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>How to recognize a 4-ball when you see one</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109567109X">
+                        <displayForm>Geiges, Hansjörg</displayForm>
+                        <namePart type="given">Hansjörg</namePart>
+                        <namePart type="family">Geiges</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140421173">
+                        <displayForm>Zehmisch, Kai</displayForm>
+                        <namePart type="given">Kai</namePart>
+                        <namePart type="family">Zehmisch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-05-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We apply the method of filling with holomorphic discs to a 4-dimensional symplectic cobordism with the standard contact 3-sphere as one convex boundary component. We establish the following dichotomy: either the cobordism is diffeomorphic to a ball, or there is a periodic Reeb orbit of quantifiably short period in the concave boundary of the cobordism. This allows us to give a unified treatment of various results concerning Reeb dynamics on contact 3-manifolds, symplectic fillability, the topology of symplectic cobordisms, symplectic nonsqueezing, and the nonexistence of exact Lagrangian surfaces in standard symplectic 4-space.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>525</start>
+                                <end>554</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55309457138</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_76ecf905-a5ef-4491-a27e-231d492bf492</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_76ecf905-a5ef-4491-a27e-231d492bf492_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/76ecf905-a5ef-4491-a27e-231d492bf492/MJM_2013_6_525-554.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_76ecf905-a5ef-4491-a27e-231d492bf492" DMDID="DMD_76ecf905-a5ef-4491-a27e-231d492bf492">
+            <mets:fptr FILEID="FILE_76ecf905-a5ef-4491-a27e-231d492bf492_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3834a379-fe21-486c-a4fe-8d7ac8640f20">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>braid group representation on intersection matrices and monodromy of singularities</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130546143">
+                        <displayForm>Dietz, Gunnar</displayForm>
+                        <namePart type="given">Gunnar</namePart>
+                        <namePart type="family">Dietz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1183169620">
+                        <displayForm>Hamm, Helmut A.</displayForm>
+                        <namePart type="given">Helmut A.</namePart>
+                        <namePart type="family">Hamm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-09-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es ist bekannt, dass die Monodromie der Milnor-Faserung einer isolierten Singularität quasiunipotent ist. Dies ist nicht länger der Fall, wenn man eine nicht-lokale Monodromie um mehrere Singularitäten betrachtet. Wir studieren hier den Fall von Familien von (endlich vielen) Morse-Singularitäten. Für den Fall, dass eine solche Familie eine Morsifikation einer isolierten Singularität ist, zeigen wir, dass sämtliche Monodromien, die zu einfachen Schleifen um eine Teilfamilie der zugehörigen kritischen Punkte gehören, schon dann quasiunipotent sind, wenn dies stets für Schleifen um nur zwei kritische Punkte gilt. Wir stellen die Vermutung auf, dass dies auch (aus rein kombinatorischen Gründen) im allgemeinen Fall gilt und beweisen eine abgeschwächte Form dieser Vermutung.</abstract>
+                    <abstract lang="eng">It is a well-known fact that the monodromy of the Milnor fibration of an isolated singularity is quasiunipotent. This holds no longer true if a non-local monodromy around several singularities is considered. Here the case of families of (finitely many) Morse singularities will be studied. For the case that such a family arises from a morsification of an isolated singularity it will be proven that all monodromies corresponding to simple loops around a subfamily of the corresponding critical values are already quasiunipotent if and only if this is always the case for simple loops around only two critical values. We conjecture that this is (for purely combinatorial reasons) also true for the general case and prove a weaker analogon of this conjecture.</abstract>
+                    <subject lang="eng">
+                        <topic>Coxeter-Dynkin diagrams</topic>
+                        <topic>Intersection matrices</topic>
+                        <topic>Braid group</topic>
+                        <topic>Monodromy</topic>
+                        <topic>Quasiunipotence</topic>
+                        <topic>Singularities</topic>
+                        <topic>Morsification</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94659505452</identifier>
+                    <identifier type="sys">HT014559548</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3834a379-fe21-486c-a4fe-8d7ac8640f20</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3834a379-fe21-486c-a4fe-8d7ac8640f20_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3834a379-fe21-486c-a4fe-8d7ac8640f20/diss_dietz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3834a379-fe21-486c-a4fe-8d7ac8640f20" DMDID="DMD_3834a379-fe21-486c-a4fe-8d7ac8640f20">
+            <mets:fptr FILEID="FILE_3834a379-fe21-486c-a4fe-8d7ac8640f20_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

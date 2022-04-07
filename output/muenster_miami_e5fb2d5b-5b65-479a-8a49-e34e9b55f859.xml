@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e5fb2d5b-5b65-479a-8a49-e34e9b55f859">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Pferd frisst keinen Gurkensalat</title>
+                        <subTitle>Überlegungen zur Internet Governance</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-05-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-05-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vom Brocke, Jan; Becker, Jörg (Hrsg.): Einfachheit in Wirtschaftsinformatik und Controlling : Festschrift für Heinz Lothar Grob. München : Vahlen, 2008, ISBN 978-3-8006-3570-2, S. 207-221</note>
+                    <subject lang="ger">
+                        <topic>Festschrift</topic>
+                        <topic>Internet Governance</topic>
+                        <topic>Heinz Lothar Grob</topic>
+                        <topic>2008</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03359608823</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e5fb2d5b-5b65-479a-8a49-e34e9b55f859</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e5fb2d5b-5b65-479a-8a49-e34e9b55f859_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e5fb2d5b-5b65-479a-8a49-e34e9b55f859/FS_Grob.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e5fb2d5b-5b65-479a-8a49-e34e9b55f859" DMDID="DMD_e5fb2d5b-5b65-479a-8a49-e34e9b55f859">
+            <mets:fptr FILEID="FILE_e5fb2d5b-5b65-479a-8a49-e34e9b55f859_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

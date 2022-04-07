@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a082dec7-516d-4108-acc9-5bfa9dee46cb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Etale (Phi, Gamma)-modules with values in linear algebraic groups</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1201696801">
+                        <displayForm>Kley, Marius</displayForm>
+                        <namePart type="given">Marius</namePart>
+                        <namePart type="family">Kley</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1013768965">
+                        <displayForm>Schneider, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-12-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-12-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir definieren eine Theorie von etalen (phi,Gamma)-Moduln mit Werten in einer linearen algebraischen Gruppe G über dem Ring der ganzen Zahlen eines p-adischen Körpers und zeigen, dass unter gewissen Voraussetzungen an G eine Abstraktion von Fontaines Methode für GL_n existiert, welches eine Korrespondenz zu der Theorie p-adischer Galoisdarstellungen mit Werten in G gibt.</abstract>
+                    <abstract lang="eng">We define a theory of etale (phi,Gamma)-modules with values in a linear algebraic group G over the ring of integers of a p-adic field and show that under certain conditions on G, there is an abstraction of Fontaine&apos;s method for GL_n, which gives rise to a correspondence to the theory of p-adic Galois representations with values in G.</abstract>
+                    <subject lang="ger">
+                        <topic>P-adische Hodge-Theorie</topic>
+                        <topic>Darstellungstheorie</topic>
+                        <topic>algebraische Gruppen</topic>
+                        <topic>Arithmetik</topic>
+                        <topic>Galoistheorie</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>P-adic Hodge theory</topic>
+                        <topic>representation theory</topic>
+                        <topic>algebraic groups</topic>
+                        <topic>arithmetic</topic>
+                        <topic>Galois theory</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-72179641784</identifier>
+                    <identifier type="sys">HT020319141</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a082dec7-516d-4108-acc9-5bfa9dee46cb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a082dec7-516d-4108-acc9-5bfa9dee46cb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a082dec7-516d-4108-acc9-5bfa9dee46cb/diss_kley.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a082dec7-516d-4108-acc9-5bfa9dee46cb" DMDID="DMD_a082dec7-516d-4108-acc9-5bfa9dee46cb">
+            <mets:fptr FILEID="FILE_a082dec7-516d-4108-acc9-5bfa9dee46cb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

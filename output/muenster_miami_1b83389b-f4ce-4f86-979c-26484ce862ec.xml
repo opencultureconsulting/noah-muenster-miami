@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1b83389b-f4ce-4f86-979c-26484ce862ec">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Datenparallele algorithmische Skelette</title>
+                        <subTitle>Erweiterungen und Anwendungen der Münster Skelettbibliothek Muesli</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140670769">
+                        <displayForm>Ciechanowicz, Philipp</displayForm>
+                        <namePart type="given">Philipp</namePart>
+                        <namePart type="family">Ciechanowicz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuchen, Herbert</displayForm>
+                        <namePart type="given">Herbert</namePart>
+                        <namePart type="family">Kuchen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-12-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-11-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit thematisiert den datenparallelen Bestandteil der Münster Skelettbibliothek Muesli und beschreibt neben einer Reihe implementierter Erweiterungen auch mit Muesli parallelisierte Anwendungen. Eine der wichtigsten Neuerungen ist die Unterstützung von Mehrkernprozessoren durch die Verwendung von OpenMP, infolgedessen mit Muesli entwickelte Programme auch auf Parallelrechnern mit hybrider Speicherarchitektur skalieren. Eine zusätzliche Erweiterung stellt die Neuentwicklung einer verteilten Datenstruktur für dünnbesetzte Matrizen dar. Letztere implementiert ein flexibles Designkonzept, was die Verwendung benutzerdefinierter Kompressions- sowie Lastverteilungsmechanismen ermöglicht. Darüber hinaus werden mit dem LM OSEM-Algorithmus und den ART 2-Netzen zwei Anwendungen vorgestellt, die mit Muesli parallelisiert wurden. Neben einer Beschreibung der Funktionsweise sowie der Eigenschaften und Konzepte von MPI und OpenMP wird darüber hinaus der aktuelle Forschungsstand skizziert.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Datenparallele algorithmische Skelette / von Philipp Ciechanowicz. - Münster : Monsenstein und Vannerdat, 2010. - XXIV, 313 S. (Wissenschaftliche Schriften der WWU Münster : Reihe IV ; Bd. 2), ISBN 978-3-8405-0029-9, Preis: 19,90 EUR</note>
+                    <subject lang="ger">
+                        <topic>algorithmische Skelette</topic>
+                        <topic>Datenparallelität</topic>
+                        <topic>Muesli</topic>
+                        <topic>MPI</topic>
+                        <topic>OAL</topic>
+                        <topic>OpenMP</topic>
+                        <topic>Skelettbibliothek</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-65489628556</identifier>
+                    <identifier type="isbn">978-3-8405-0029-9</identifier>
+                    <identifier type="sys">HT016697242</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1b83389b-f4ce-4f86-979c-26484ce862ec</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1b83389b-f4ce-4f86-979c-26484ce862ec_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1b83389b-f4ce-4f86-979c-26484ce862ec/diss_ciechanowicz_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1b83389b-f4ce-4f86-979c-26484ce862ec" DMDID="DMD_1b83389b-f4ce-4f86-979c-26484ce862ec">
+            <mets:fptr FILEID="FILE_1b83389b-f4ce-4f86-979c-26484ce862ec_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

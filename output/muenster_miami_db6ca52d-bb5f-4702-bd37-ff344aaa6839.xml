@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_db6ca52d-bb5f-4702-bd37-ff344aaa6839">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="fre">
+                        <title>A. Coffyn, J. Gomez et J.-P. Mohen, L´Apogée du Bronze atlantique. Le dépot de Vénat</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108081737">
+                        <displayForm>Jockenhövel, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Jockenhövel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1985</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-03-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-03-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+                    </language>
+                    <note type="citation/reference">Germania 63 (1985) 1, 197-202</note>
+                    <classification authority="ddc">930</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-41429627679</identifier>
+                    <identifier type="issn">0016-8874</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_db6ca52d-bb5f-4702-bd37-ff344aaa6839</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_db6ca52d-bb5f-4702-bd37-ff344aaa6839_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/db6ca52d-bb5f-4702-bd37-ff344aaa6839/1985_jocke_lapog.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_db6ca52d-bb5f-4702-bd37-ff344aaa6839" DMDID="DMD_db6ca52d-bb5f-4702-bd37-ff344aaa6839">
+            <mets:fptr FILEID="FILE_db6ca52d-bb5f-4702-bd37-ff344aaa6839_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

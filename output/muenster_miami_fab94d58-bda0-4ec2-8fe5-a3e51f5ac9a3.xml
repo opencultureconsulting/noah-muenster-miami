@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fab94d58-bda0-4ec2-8fe5-a3e51f5ac9a3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Phytochemische und biopharmazeutische Untersuchungen an Harpagophytum procumbens DC.</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124323154">
+                        <displayForm>Boje, Kerstin</displayForm>
+                        <namePart type="given">Kerstin</namePart>
+                        <namePart type="family">Boje</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108023273">
+                        <displayForm>Nahrstedt, Adolf</displayForm>
+                        <namePart type="given">Adolf</namePart>
+                        <namePart type="family">Nahrstedt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-11-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-09-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ein wässriger Extrakt der sekundären Speicherwurzel von der im Südwesten Afrikas beheimateten Teufelskralle (Harpagophytum procumbens DC., Pedaliaceae) wurde zur Isolierung und Identifizierung von Sekundärstoffen phytochemisch untersucht. Hierbei konnten 4 Iridoidglykoside, 3 Phenylethanoidglykoside, 2 Phenolcarbonsäuren und Pagosid, eine den Iridoiden ähnliche Verbindung, isoliert und die Struktur mittels spektroskopischer Methoden aufgeklärt werden. Der Extrakt und einige der Inhaltsstoffe wurden auf ihre antirheumatische Wirksamkeit im Elastase-Testsystem untersucht. In einem Zellkultursystem konnte weiterhin gezeigt werden, dass einige der Elastase-Inhibitoren die Darmepithelschicht passieren können. Untersuchungen des Transportweges ergaben einen passiven Mechanismus.</abstract>
+                    <subject lang="ger">
+                        <topic>Harpagophytum procumbens</topic>
+                        <topic>Pedaliaceae</topic>
+                        <topic>Iridoide</topic>
+                        <topic>Phenylethanoide</topic>
+                        <topic>Elastase</topic>
+                        <topic>Antirheumatisch</topic>
+                        <topic>Caco-2</topic>
+                        <topic>Transport</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659550198</identifier>
+                    <identifier type="sys">HT013583226</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fab94d58-bda0-4ec2-8fe5-a3e51f5ac9a3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fab94d58-bda0-4ec2-8fe5-a3e51f5ac9a3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fab94d58-bda0-4ec2-8fe5-a3e51f5ac9a3/dissertation.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fab94d58-bda0-4ec2-8fe5-a3e51f5ac9a3" DMDID="DMD_fab94d58-bda0-4ec2-8fe5-a3e51f5ac9a3">
+            <mets:fptr FILEID="FILE_fab94d58-bda0-4ec2-8fe5-a3e51f5ac9a3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

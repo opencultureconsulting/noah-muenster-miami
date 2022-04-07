@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b1c7825c-911a-463c-84e3-b5cb11ae89b1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Singularities and Quinn spectra</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139537740">
+                        <displayForm>Baas, Nils A.</displayForm>
+                        <namePart type="given">Nils A.</namePart>
+                        <namePart type="family">Baas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124580998">
+                        <displayForm>Laures, Gerd</displayForm>
+                        <namePart type="given">Gerd</namePart>
+                        <namePart type="family">Laures</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124580998">
+                        <displayForm>Laures, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Laures</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-03-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We introduce singularities to Quinn spectra. It enables us to talk about ads with prescribed singularities and to explicitly construct highly structured representatives for prominent spectra like Morava K-theories or for L-theory with singularities. We develop a spectral sequence for the computation of the associated bordism groups and investigate product structures in the presence of singularities.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>17</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33249465008</identifier>
+                    <identifier type="doi">10.17879/33249464015</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b1c7825c-911a-463c-84e3-b5cb11ae89b1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b1c7825c-911a-463c-84e3-b5cb11ae89b1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b1c7825c-911a-463c-84e3-b5cb11ae89b1/mjm_2017_10_01-17.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b1c7825c-911a-463c-84e3-b5cb11ae89b1" DMDID="DMD_b1c7825c-911a-463c-84e3-b5cb11ae89b1">
+            <mets:fptr FILEID="FILE_b1c7825c-911a-463c-84e3-b5cb11ae89b1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

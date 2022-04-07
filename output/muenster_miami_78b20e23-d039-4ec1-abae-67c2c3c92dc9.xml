@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_78b20e23-d039-4ec1-abae-67c2c3c92dc9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="dut">
+                        <title>Maaslands uit Boorsem</title>
+                        <subTitle>Maasmechelen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/184491681">
+                        <displayForm>Opdenacker, Mathieu</displayForm>
+                        <namePart type="given">Mathieu</namePart>
+                        <namePart type="family">Opdenacker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-08-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">dut</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Maasland &lt;Limburg</topic>
+                        <topic>Belgien&gt;</topic>
+                        <topic>Mundart</topic>
+                    </subject>
+                    <classification authority="ddc">439.31</classification>
+                    <classification authority="ddc">439</classification>
+                    <classification authority="ddc">439</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659543279</identifier>
+                    <identifier type="sys">HT013762707</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_78b20e23-d039-4ec1-abae-67c2c3c92dc9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_78b20e23-d039-4ec1-abae-67c2c3c92dc9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/78b20e23-d039-4ec1-abae-67c2c3c92dc9/maaslands.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_78b20e23-d039-4ec1-abae-67c2c3c92dc9" DMDID="DMD_78b20e23-d039-4ec1-abae-67c2c3c92dc9">
+            <mets:fptr FILEID="FILE_78b20e23-d039-4ec1-abae-67c2c3c92dc9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

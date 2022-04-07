@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1eab73ad-7e3e-4abf-99dc-ea4a4977adef">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>wichtige Stütze</title>
+                        <subTitle>Der Förderverein des Zentrums für Niederlande-Studien</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027042716">
+                        <displayForm>Arlinghaus, Heinrich Franz</displayForm>
+                        <namePart type="given">Heinrich Franz</namePart>
+                        <namePart type="family">Arlinghaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>17</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-07149638848</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1eab73ad-7e3e-4abf-99dc-ea4a4977adef</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1eab73ad-7e3e-4abf-99dc-ea4a4977adef_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1eab73ad-7e3e-4abf-99dc-ea4a4977adef/jahrbuch_zns_2014-2015_25-26_17-19.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1eab73ad-7e3e-4abf-99dc-ea4a4977adef" DMDID="DMD_1eab73ad-7e3e-4abf-99dc-ea4a4977adef">
+            <mets:fptr FILEID="FILE_1eab73ad-7e3e-4abf-99dc-ea4a4977adef_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

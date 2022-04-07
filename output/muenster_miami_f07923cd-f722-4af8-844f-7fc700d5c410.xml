@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f07923cd-f722-4af8-844f-7fc700d5c410">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>relationships of neurexins and voltage-gated calcium channel in neurotransmission</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1232347140">
+                        <displayForm>Sun, Miao</displayForm>
+                        <namePart type="given">Miao</namePart>
+                        <namePart type="family">Sun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113278535">
+                        <displayForm>Missler, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Missler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-04-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-02-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Neurexine sind Zelladhäsionsmoleküle an neuronalen Synapsen, die im Zusammenspiel mit spannungsabhängigen Kalziumkanälen (VGCCs) die Neurotransmission regulieren. Diese Regulation ist unter anderem abhängig vom Neuronentyp, der Neurexinvariante und dem VGCC Subtyp. Diese Arbeit untersucht die Interaktion zwischen Neurexin-1 und VGCCs, mit Fokus auf die Kalziumleitfähigkeit, Öffnungseigenschaft und Oberflächenexpression der N- und R-Kalziumkanaltypen. Elektrophysiologische Versuche an tsA-201 Zellen zeigten veränderte biophysikalische Eigenschaften des N-Typs durch Neurexin-1, insbesondere bei Co-Expression der α2δ3-Untereinheit. Neurexinαβ-defizitäre hippocampale Neurone hingegen wiesen verminderte exzitatorische und inhibitorische postsynaptische Ströme, sowie eine beeinträchtigte Spontanaktivität auf. Hier konnte erstmalig ein Zusammenhang zwischen der Neurexin-regulierten Spontanaktivität hippocampaler Neurone und dem R-Typ gezeigt werden.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Neuron</topic>
+                        <topic>VGCCs</topic>
+                        <topic>Neurexin</topic>
+                        <topic>Neurotransmission</topic>
+                        <topic>Elektrophysiologie</topic>
+                        <topic>HEK-Zellen</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-47089577462</identifier>
+                    <identifier type="sys">HT020909716</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f07923cd-f722-4af8-844f-7fc700d5c410</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f07923cd-f722-4af8-844f-7fc700d5c410_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f07923cd-f722-4af8-844f-7fc700d5c410/diss_sun_2021.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f07923cd-f722-4af8-844f-7fc700d5c410" DMDID="DMD_f07923cd-f722-4af8-844f-7fc700d5c410">
+            <mets:fptr FILEID="FILE_f07923cd-f722-4af8-844f-7fc700d5c410_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

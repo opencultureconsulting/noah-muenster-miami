@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dc33580f-5154-44db-af90-569098d1de2c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>historische Bibliothek</title>
+                        <subTitle>ein bibliophiles Juwel in unserer Gemeinde</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172073197">
+                        <displayForm>Feldmann, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Feldmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1996</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-04-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-06-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Heimatverein Milte e.V. (Hrsg.): 850 Jahre Milte. Milte, 1996, S. 26-28</note>
+                    <subject lang="ger">
+                        <topic>Pfarrbibliothek</topic>
+                        <topic>Milte</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-69289681914</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dc33580f-5154-44db-af90-569098d1de2c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dc33580f-5154-44db-af90-569098d1de2c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dc33580f-5154-44db-af90-569098d1de2c/feldmann_1996-milte.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dc33580f-5154-44db-af90-569098d1de2c" DMDID="DMD_dc33580f-5154-44db-af90-569098d1de2c">
+            <mets:fptr FILEID="FILE_dc33580f-5154-44db-af90-569098d1de2c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

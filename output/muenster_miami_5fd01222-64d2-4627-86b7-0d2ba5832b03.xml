@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5fd01222-64d2-4627-86b7-0d2ba5832b03">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Kirchen und das neue Bundesdatenschutzgesetz</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1993</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Neue Zeitschrift für Verwaltungsrecht (1993) 7, 650-653</note>
+                    <note>Zugleich eine kritische Erwiderung auf: Dammann, Ulrich: Die Anwendung des neuen Bundesdatenschutzgesetzes auf die öffentlichrechtlichen Religionsgesellschaften, Neue Zeitschrift für Verwaltungsrecht (1992) 12, 1147-1151</note>
+                    <subject lang="ger">
+                        <topic>Kirche</topic>
+                        <topic>Datenschutz</topic>
+                        <topic>BDSG</topic>
+                        <topic>Kirchenrecht</topic>
+                        <topic>EDV-Recht</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659540636</identifier>
+                    <identifier type="issn">0721-880X</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5fd01222-64d2-4627-86b7-0d2ba5832b03</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5fd01222-64d2-4627-86b7-0d2ba5832b03_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5fd01222-64d2-4627-86b7-0d2ba5832b03/068_kirchen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5fd01222-64d2-4627-86b7-0d2ba5832b03" DMDID="DMD_5fd01222-64d2-4627-86b7-0d2ba5832b03">
+            <mets:fptr FILEID="FILE_5fd01222-64d2-4627-86b7-0d2ba5832b03_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

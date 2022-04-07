@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ed1a6601-413c-4ab6-b0b5-629732a99379">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>partielle 16S rDNA- Gensequenzierung und Analyse des Genus Clostridium</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137002009">
+                        <displayForm>Siebeneck, Ruben</displayForm>
+                        <namePart type="given">Ruben</namePart>
+                        <namePart type="family">Siebeneck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112740553">
+                        <displayForm>Harmsen, Dag</displayForm>
+                        <namePart type="given">Dag</namePart>
+                        <namePart type="family">Harmsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-01-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-11-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wurden 86 Typstämme des Genus Clostridium kultiviert und eine 419 bis 468 bp große 16S rDNA- Sequenz erstellt. Die Sequenzen weiterer 63 Typstämmen des Genus Clostridium sind GenBank entnommen und auf Längen gekürzt worden, die durch die Start und Endsequenzen der selbst sequenzierten Keime definiert sind. Insgesamt konnten alle Typstämme auf Speziesebene anhand der 16S rDNA- Sequenz voneinander unterschieden werden. Mit den eigens sequenzierten 86 Clostridium- Typstämmen wurde eine GenBank- Suche (BLAST- Search) durchgeführt. 33 % (n=28) der Typstämme wurde mit 100 % Übereinstimmung richtig erkannt. 48 % (n=41) der Spezies wurden nicht mit 100 %iger Übereinstimmung erkannt. Falsch erkannt wurden 9 % der Fälle (n=8. Nicht in der Datenbank vorhanden war 1 % der Typstämme (n=1). Nicht eindeutig wurden 9 % (n=8) der Spezies erkannt. Öffentliche Datenbanken können daher eine Referenzfunktion nur bedingt wahrnehmen, da ungefähr jede fünfte Sequenz nicht eindeutig identifiziert wurde.</abstract>
+                    <subject lang="ger">
+                        <topic>Clostridium</topic>
+                        <topic>16S- rDNA</topic>
+                        <topic>Gensequenzierung</topic>
+                        <topic>Datenbank</topic>
+                        <topic>Identifizierung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92589535853</identifier>
+                    <identifier type="sys">HT015815657</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ed1a6601-413c-4ab6-b0b5-629732a99379</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ed1a6601-413c-4ab6-b0b5-629732a99379_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ed1a6601-413c-4ab6-b0b5-629732a99379/diss_siebeneck.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ed1a6601-413c-4ab6-b0b5-629732a99379" DMDID="DMD_ed1a6601-413c-4ab6-b0b5-629732a99379">
+            <mets:fptr FILEID="FILE_ed1a6601-413c-4ab6-b0b5-629732a99379_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e4b982fe-f72f-4ad5-acf4-af6a59037477">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Amilorid reduziert die Steifigkeit des endothelialen Kortex durch Blockade des EnNaC</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1084589702">
+                        <displayForm>Fischer, Felix</displayForm>
+                        <namePart type="given">Felix</namePart>
+                        <namePart type="family">Fischer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1135128758">
+                        <displayForm>Kusche-Vihrog, Kristina</displayForm>
+                        <namePart type="given">Kristina</namePart>
+                        <namePart type="family">Kusche-Vihrog</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-03-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-12-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der epitheliale Natrium Kanal (ENaC) wurde im Endothel nachgewiesen und als EnNaC bezeichnet. Er beeinflusst die mechanischen Eigenschaften der Endothelzellen und damit deren Funktion. Eine erhöhte Anzahl von EnNaC in der endothelialen Plasmamembran führt zur Versteifung des Zellkortex und damit zu endothelialer Dysfunktion. Im Gegensatz dazu wird durch Blockade des EnNaC die kortikale Steifigkeit der Endothelzellen verringert. Der zugrundeliegende Mechanismus wurde mittels Atomic Force Microscopy in dieser Arbeit untersucht. Die Reduktion der kortikalen Steifigkeit durch die Blockade des EnNaC beruht auf einem schnellen, nicht-genomischen Mechanismus. Dieser Effekt konnte durch Blockade der Aktin-Depolymerisation verhindert werden. Daher postulieren wir, dass der Einfluss des EnNaC auf die mechanischen Eigenschaften ü&#129;ber die Interaktion mit dem kortikalen Aktin-Skelett abläuft.</abstract>
+                    <subject lang="ger">
+                        <topic>ENaC</topic>
+                        <topic>EnNaC</topic>
+                        <topic>Amilorid</topic>
+                        <topic>Endothel</topic>
+                        <topic>AFM</topic>
+                        <topic>Kortex</topic>
+                        <topic>Aktin</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-86269630976</identifier>
+                    <identifier type="sys">HT018905577</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e4b982fe-f72f-4ad5-acf4-af6a59037477</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e4b982fe-f72f-4ad5-acf4-af6a59037477_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e4b982fe-f72f-4ad5-acf4-af6a59037477/diss_fischer_felix.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e4b982fe-f72f-4ad5-acf4-af6a59037477" DMDID="DMD_e4b982fe-f72f-4ad5-acf4-af6a59037477">
+            <mets:fptr FILEID="FILE_e4b982fe-f72f-4ad5-acf4-af6a59037477_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

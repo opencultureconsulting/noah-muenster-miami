@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b556e624-bb44-4494-90e4-ebdf18e482ef">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Localization techniques in circle-equivariant Kasparov theory</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341606">
+                        <displayForm>Emerson, Heath</displayForm>
+                        <namePart type="given">Heath</namePart>
+                        <namePart type="family">Emerson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-05-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>413</start>
+                                <end>444</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55309457652</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b556e624-bb44-4494-90e4-ebdf18e482ef</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b556e624-bb44-4494-90e4-ebdf18e482ef_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b556e624-bb44-4494-90e4-ebdf18e482ef/MJM_2013_6_413-444.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b556e624-bb44-4494-90e4-ebdf18e482ef" DMDID="DMD_b556e624-bb44-4494-90e4-ebdf18e482ef">
+            <mets:fptr FILEID="FILE_b556e624-bb44-4494-90e4-ebdf18e482ef_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

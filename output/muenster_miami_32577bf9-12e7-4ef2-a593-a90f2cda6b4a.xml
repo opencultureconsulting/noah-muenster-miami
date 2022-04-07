@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_32577bf9-12e7-4ef2-a593-a90f2cda6b4a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neutral: Die Niederlande und Belgien am Vorabend des Zweiten Weltkriegs</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143915614">
+                        <displayForm>Kersten, Albert E.</displayForm>
+                        <namePart type="given">Albert E.</namePart>
+                        <namePart type="family">Kersten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1992</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-06-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>53</start>
+                                <end>69</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58139540385</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_32577bf9-12e7-4ef2-a593-a90f2cda6b4a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_32577bf9-12e7-4ef2-a593-a90f2cda6b4a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/32577bf9-12e7-4ef2-a593-a90f2cda6b4a/jahrbuch_zns_1991_2_53-69.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_32577bf9-12e7-4ef2-a593-a90f2cda6b4a" DMDID="DMD_32577bf9-12e7-4ef2-a593-a90f2cda6b4a">
+            <mets:fptr FILEID="FILE_32577bf9-12e7-4ef2-a593-a90f2cda6b4a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bd6f848e-390a-47ec-a237-10457cf38c18">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selbstorganisierte Strukturen in planaren Gasentladungssystemen mit dielektrischer Barriere</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13273771X">
+                        <displayForm>Stollenwerk, Lars</displayForm>
+                        <namePart type="given">Lars</namePart>
+                        <namePart type="family">Stollenwerk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137377798">
+                        <displayForm>Purwins, H.-G.</displayForm>
+                        <namePart type="given">H.-G.</namePart>
+                        <namePart type="family">Purwins</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-03-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-02-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird ein planares, dielektrisches Barrierenentladungssystem untersucht, dessen laterale Ausdehnung groß gegenüber dem Entladungsabstand ist. In solchen Systemen wird eine laterale, selbstorganisierte Strukturierung der Stromdichte beobachtet. Der erste Teil der Arbeit gibt einen Überblick über die bisher gefundenen Strukturen. Die experimentellen Untersuchungen, die im zweiten Teil der Arbeit vorgestellt werden, befassen sich mit der Strukturierung des homogenen Entladungsgebietes, mit der Dynamik einzelner Filamente und mit Turing-artigen Bifurkationen. Außderdem werden ein Aufbau zur ortsaufgelösten Messung von Oberflächenladungen in der laufenden Entladung beschrieben und die erhaltenen Ergebnisse vorgestellt. Der dritte Teil der Arbeit zeigt numerischen Untersuchungen, die auf zwei- und dreidimensionalem Grundgebiet durchgeführt werden. Es können die Strukturierung der Entladung und der Mechanismus zur Stabilisierung eines Filamentes nachvollzogen werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Gasentladung</topic>
+                        <topic>Berrierenentladung</topic>
+                        <topic>Strukturierung</topic>
+                        <topic>Bifurkation</topic>
+                        <topic>Turing</topic>
+                        <topic>Filament</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09569665306</identifier>
+                    <identifier type="sys">HT015050488</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bd6f848e-390a-47ec-a237-10457cf38c18</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bd6f848e-390a-47ec-a237-10457cf38c18_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bd6f848e-390a-47ec-a237-10457cf38c18/diss_stollenwerk.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bd6f848e-390a-47ec-a237-10457cf38c18" DMDID="DMD_bd6f848e-390a-47ec-a237-10457cf38c18">
+            <mets:fptr FILEID="FILE_bd6f848e-390a-47ec-a237-10457cf38c18_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

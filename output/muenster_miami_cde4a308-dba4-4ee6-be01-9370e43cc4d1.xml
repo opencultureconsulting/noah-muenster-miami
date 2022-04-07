@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cde4a308-dba4-4ee6-be01-9370e43cc4d1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Statuten und Gesetze des Deutschen Ordens</title>
+                        <subTitle>Feingliederung ; mit historisch-textkritischen Ergänzungen und Verweisungen auf &quot;Perlbach&quot;</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1042020590">
+                        <displayForm>Löffler, Anette</displayForm>
+                        <namePart type="given">Anette</namePart>
+                        <namePart type="family">Löffler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-07-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Beschreibung der Handschrift &quot;Die Statuten und Gesetze des Deutschen Ordens&quot; [ca. 1347]. Individuelle Zusammenstellung der Statuten, Regeln und Gesetze, die einige zusätzliche Textstellen aufweisen. Herkunft der Handschrift wohl aus Köln-Koblenzer Raum mit Sonderfesten im Kalendarium.</abstract>
+                    <note>Digitalisierte Ausgabe der Handschrift &quot;Die Statuten und Gesetze des Deutschen Ordens&quot; unter http://nbn-resolving.de/urn:nbn:de:hbz:6:1-131162</note>
+                    <subject lang="ger">
+                        <topic>Handschriftenbeschreibung</topic>
+                        <topic>Deutscher Orden</topic>
+                        <topic>Statuten und Gesetzte, dt.</topic>
+                        <topic>Heiligenfeste</topic>
+                        <topic>Kalendarium</topic>
+                    </subject>
+                    <classification authority="ddc">091</classification>
+                    <classification authority="ddc">271</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98289446880</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/de/">CC BY 3.0 DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cde4a308-dba4-4ee6-be01-9370e43cc4d1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cde4a308-dba4-4ee6-be01-9370e43cc4d1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cde4a308-dba4-4ee6-be01-9370e43cc4d1/loeffler_statuten_feingliederung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cde4a308-dba4-4ee6-be01-9370e43cc4d1" DMDID="DMD_cde4a308-dba4-4ee6-be01-9370e43cc4d1">
+            <mets:fptr FILEID="FILE_cde4a308-dba4-4ee6-be01-9370e43cc4d1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

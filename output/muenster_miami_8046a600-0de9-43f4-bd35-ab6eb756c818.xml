@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8046a600-0de9-43f4-bd35-ab6eb756c818">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Persistence approximation property and controlled operator K-theory</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/184185882">
+                        <displayForm>Oyono-Oyono, Hervé</displayForm>
+                        <namePart type="given">Hervé</namePart>
+                        <namePart type="family">Oyono-Oyono</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1026997461">
+                        <displayForm>Yu, Guoliang</displayForm>
+                        <namePart type="given">Guoliang</namePart>
+                        <namePart type="family">Yu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-11-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In this paper, we introduce and study the persistence approximation property for quantitative K-theory of filtered C*-algebras. In the case of crossed product C*-algebras, the persistence approximation property follows from the Baum–Connes conjecture with coefficients. We also discuss some applications of the quantitative K-theory to the Novikov conjecture.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>201</start>
+                                <end>268</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33249446520</identifier>
+                    <identifier type="doi">10.17879/33249446204</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8046a600-0de9-43f4-bd35-ab6eb756c818</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8046a600-0de9-43f4-bd35-ab6eb756c818_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8046a600-0de9-43f4-bd35-ab6eb756c818/mjm_2017_10_201-268.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8046a600-0de9-43f4-bd35-ab6eb756c818" DMDID="DMD_8046a600-0de9-43f4-bd35-ab6eb756c818">
+            <mets:fptr FILEID="FILE_8046a600-0de9-43f4-bd35-ab6eb756c818_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

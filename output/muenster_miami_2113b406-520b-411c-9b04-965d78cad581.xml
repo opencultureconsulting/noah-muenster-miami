@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2113b406-520b-411c-9b04-965d78cad581">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Molecular and immunohistochemical characterisation of matched primary and metastatic Ewing sarcomas</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1023955105">
+                        <displayForm>Wentker, Dennis</displayForm>
+                        <namePart type="given">Dennis</namePart>
+                        <namePart type="family">Wentker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Köhler, Gabriele</displayForm>
+                        <namePart type="given">Gabriele</namePart>
+                        <namePart type="family">Köhler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-07-01</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-05-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Diagnostik von Ewing-Sarkomen (ES) basiert auf molekularpathologischen und immunhistochemischen Analysen. In einer früheren Arbeit wurde ein Patient mit zwei separaten ES beschrieben, in denen unterschiedliche EWSR1-Translokationen nachgewiesen wurden. Zur Differenzierung, ob es sich bei manchen Metastasen um eigenständige Tumoren handelt, wurden Primärtumoren und Metastasen von 39 Patienten auf ES-spezifische Translokationen untersucht. Zudem wurden an Primärtumoren und Metastasen immunhistochemische Färbungen zur Evaluation der Markerexpression durchgeführt. Primärtumoren und korrespondierende Metastasen wiesen alle den jeweils identischen Translokationstyp auf. AK16-, CD99- und FLI-1-Antikörper zeigten eine hohe Sensitivität sowie eine gute Konkordanz in der Expression zwischen Primärtumor und Metastase. Diese Antikörper können zur Diagnose von ES-Metastasen verwendet werden, falls der Nachweis einer EWSR1-Translokation molekularpathologisch nicht gelingt.</abstract>
+                    <subject lang="ger">
+                        <topic>Ewing Sarkom</topic>
+                        <topic>Molekularpathologie</topic>
+                        <topic>Immunhistochemie</topic>
+                        <topic>Metastasen</topic>
+                        <topic>EWSR1</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20419654583</identifier>
+                    <identifier type="sys">HT017296551</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2113b406-520b-411c-9b04-965d78cad581</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2113b406-520b-411c-9b04-965d78cad581_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2113b406-520b-411c-9b04-965d78cad581/diss_wentker.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2113b406-520b-411c-9b04-965d78cad581" DMDID="DMD_2113b406-520b-411c-9b04-965d78cad581">
+            <mets:fptr FILEID="FILE_2113b406-520b-411c-9b04-965d78cad581_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

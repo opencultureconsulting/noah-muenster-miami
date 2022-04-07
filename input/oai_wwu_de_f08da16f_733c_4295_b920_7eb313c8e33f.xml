@@ -1,0 +1,197 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:f08da16f-733c-4295-b920-7eb313c8e33f" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:40:11">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_f08da16f-733c-4295-b920-7eb313c8e33f">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Geospatial Metadata for Discovery in Scholarly Publishing</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Tom</mods:namePart>
+                    <mods:namePart type="family">Niers</mods:namePart>
+                    <mods:displayForm>Niers, Tom</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>masterThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2020</mods:dateIssued>
+                    <mods:dateOther>2020-10-13</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2020-12-07</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2020-12-07</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>42</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">Many scientific articles are related to specific regions of the Earth. The connection is often implicit, although geospatial metadata has been shown to have positive effects, such as detecting biases in research coverage or enhancing discovery of research. Scholarly communication platforms lack an explicit modeling of geospatial metadata. In this work, we report a novel approach to integrate well-defined geospatial metadata into Open Journal Systems (OJS). Authors can create complex geometries to represent the related location(s) or region(s) for their submission and define the relevant time period. They are assisted by an interactive map and a gazetteer to capture high quality coordinates as well as a matching textual description with high usability. The geospatial metadata is published within the article pages using semantic tags, integrated in standardized publication metadata, and shown on maps. Thereby, the geoOJS plugin facilitates indexing by search engines, can improve accessibility, and provides a foundation for more powerful map-based discovery of research articles across journals.</mods:abstract>
+                  <mods:abstract lang="ger">Eine Vielzahl von wissenschaftlichen Artikeln bezieht sich auf bestimmte Regionen der Erde. Die Verbindung ist oftmals implizit, obwohl raum-zeitliche Metadaten erwiesenermaßen positive Auswirkungen haben, wie z.B. das Aufdecken von Verzerrungen in der Forschungslandschaft, oder die Verbesserung der Suche nach Forschungsarbeiten. Wissenschaftlichen Kommunikationsplattformen fehlt eine explizite Modellerierung von raum-zeitlichen Metadaten. In dieser Arbeit, berichten wir über einen neuartigen Ansatz zur Integration wohldefinierter raum-zeitlicher Metadaten in Open Journal Systems (OJS). Autoren haben die Möglichkeit, komplexe geometrische Formen zu erstellen, um den/die entsprechenden Ort(e) oder Region(en) für ihre Einreichung darzustellen und den relevanten Zeitraum zu definieren. Sie werden durch eine interaktive Karte und einen Gazetteer unterstützt, um Koordinaten von hoher Qualität sowie eine passende textliche Beschreibung von hoher Nutzbarkeit zu erfassen. Die räum-zeitlichen Metadaten werden innerhalb der Artikelseite mittels semantischer Tags veröffentlicht, standarisiert in die Publikations Metadaten integriert und auf einer Karte dargestellt. Auf diese Weise erleichtert das geoOJS Plugin Indizierung durch Suchmaschienen, kann die Zugänglichkeit verbessern und bietet die Grundlage für eine leistungsfähigere kartenbasierte Suche nach wissenschaftlichen Artikeln Zeitschrift übergreifend.</mods:abstract>
+                  <mods:tableOfContents lang="eng">List of Abbreviations ..... IV&#13;
+List of Figures ..... V&#13;
+1 Introduction ..... 1&#13;
+2 Related Work ..... 2&#13;
+2.1 Existing Approaches to Integrate Geospatial Metadata for Discovery in Scholarly Publishing Outside of OJS ..... 2&#13;
+2.2 Existing Approaches to Integrate Geospatial Metadata for Discovery in OJS ..... 3&#13;
+3 Geospatial Metadata for Discovery in Scholarly Publishing ..... 4&#13;
+3.1 Potential of Integrating Geospatial Metadata in Scholarly Publishing ..... 4&#13;
+3.2 Collection of Geospatial Metadata for Scientific Articles ..... 5&#13;
+3.2.1 Achieving Geospatial Metadata by Analyzing the Scientific Article ..... 5&#13;
+3.2.2 Achieving Geospatial Metadata by an Author Input ..... 7&#13;
+3.3 Standardization of Geospatial Metadata for Scientific Articles in Scholarly Publishing ..... 9&#13;
+3.4 Storage of Geospatial Metadata in Scholarly Publishing ..... 11&#13;
+3.5 Validation of Geospatial Metadata in Scholarly Publishing ..... 12&#13;
+3.6 Accessibility of Geospatial Metadata in Scholarly Publishing .....12&#13;
+3.7 Requirements ..... 13&#13;
+3.7.1 Requirements Concerning the Potential of Integrating Geospatial Metadata in Scholarly Publishing ..... 13&#13;
+3.7.2 Requirements Concerning the Collection of Geospatial Metadata for Scientific Articles ..... 14&#13;
+3.7.3 Requirements Concerning the Standardization of Geospatial Metadata for Scientific Articles in Scholarly Publishing ..... 15&#13;
+3.7.4 Requirements Concerning the Storage of Geospatial Metadata in Scholarly Publishing ..... 16&#13;
+3.7.5 Requirements Concerning the Validation of Geospatial Metadata in Scholarly Publishing ..... 17&#13;
+3.7.6 Requirements Concerning the Accessibility of Geospatial Metadata in Scholarly Publishing ..... 17&#13;
+4 geoOJS – Well-Defined Geospatial Metadata for Discovery in OJS 18 4.1 Conceptual Approach of Requirements for geoOJS ..... 18&#13;
+4.1.1 Collection of Well-Defined Geospatial Metadata in OJS ..... 18&#13;
+4.1.2 Geospatial Metadata for Discovery of Scientific Articles in OJS ..... 21&#13;
+4.2 The geoOJS Plugin ..... 23&#13;
+4.2.1 Architecture of the geoOJS Plugin ..... 23&#13;
+4.2.2 Implementation of the geoOJS Plugin ..... 24&#13;
+4.2.3 Dependencies Used for the geoOJS Plugin ..... 27&#13;
+4.3 Evaluation of geoOJS Concerning the Requirements ..... 29&#13;
+5 Conclusion ..... 31&#13;
+References ..... 33&#13;
+Appendix ..... 34&#13;
+A Examples for Storage of Geospatial Metadata in the OJS Database ..... 34&#13;
+A.1 Example for the Temporal Properties in the OJS Database ..... 34&#13;
+A.2 Example for the Spatial Properties in the OJS Database ..... 34&#13;
+A.3 Example for the Coverage Information in the OJS Database ..... 38&#13;
+B Examples for Standardized Storage of Geospatial Metadata in the HTML Document Header of the OJS Article View ..... 39&#13;
+B.1 Example for a Geo Meta Tag in the HTML Document Header of the OJS Article View ..... 39&#13;
+B.2 Example for DCMI Box Encoding Scheme in the HTML Document Header of the OJS Article View ..... 39&#13;
+B.3 Example for ISO 19139 in the HTML Document Header of the OJS Article View ..... 39&#13;
+B.4 Example for ISO 8601 in the HTML Document Header of the OJS Article View ..... 39&#13;
+C Screenshots of geoOJS ..... 40&#13;
+C.1 Screenshot of geoOJS – Input of Geospatial Metadata ..... 40&#13;
+C.2 Screenshot of geoOJS – Geospatial Properties in the OJS Article View ..... 41&#13;
+Declaration of Academic Integrity ..... 42</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="eng">accessibility; scholarly publishing; discovery; geospatial; OJS; metadata</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="ger">Barrierefreiheit; wissenschaftliches Publizieren; raum-zeitliche Daten; OJS; Metadaten</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:classification authority="ddc">020</mods:classification>
+                  <mods:classification authority="ddc">500</mods:classification>
+                  <mods:classification authority="ddc">550</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-69029469735</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/f08da16f-733c-4295-b920-7eb313c8e33f</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/4.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:f08da16f-733c-4295-b920-7eb313c8e33f</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_f08da16f-733c-4295-b920-7eb313c8e33f">
+            <mets:rightsMD ID="RIGHTSMD_f08da16f-733c-4295-b920-7eb313c8e33f">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_f08da16f-733c-4295-b920-7eb313c8e33f">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/f08da16f-733c-4295-b920-7eb313c8e33f</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="e192247ef7af77ee94b28381394e747ab623cd3b108ccc4875c489a3b7e46794" CREATED="2020-12-07T14:43:46" CHECKSUMTYPE="SHA-256" SIZE="5463924" ID="ID_FIL_bachelor_niers_2020.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f08da16f-733c-4295-b920-7eb313c8e33f/bachelor_niers_2020.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWf08da16f-733c-4295-b920-7eb313c8e33f">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/f08da16f-733c-4295-b920-7eb313c8e33f" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_f08da16f-733c-4295-b920-7eb313c8e33f" TYPE="physSequence">
+              <mets:div ID="ID_PHY_bachelor_niers_2020.pdf">
+                <mets:fptr FILEID="ID_FIL_bachelor_niers_2020.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_f08da16f-733c-4295-b920-7eb313c8e33f" DMDID="DMD_f08da16f-733c-4295-b920-7eb313c8e33f" ID="ID_LOG_f08da16f-733c-4295-b920-7eb313c8e33f" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_bachelor_niers_2020.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_f08da16f-733c-4295-b920-7eb313c8e33f" xlink:to="ID_PHY_f08da16f-733c-4295-b920-7eb313c8e33f"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_bachelor_niers_2020.pdf" xlink:to="ID_PHY_bachelor_niers_2020.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b070bcdc-805c-45cd-a283-77ea26b15feb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie macht man&apos;s?</title>
+                        <subTitle>Formen und Methoden, Chancen und Grenzen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137783140">
+                        <displayForm>Heinen, Richard</displayForm>
+                        <namePart type="given">Richard</namePart>
+                        <namePart type="family">Heinen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-07-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-07-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">E-Learning bedeutet nicht, dass Lernende vorgefertigte Programme durchlaufen, die Lehrkraft nur zuschaut und am Ende eine Note gibt oder einen Schein ausstellt. Online-gestützte Lernszenarien beinhalten zwar Lernmodule zum selbstständigen Arbeiten. Der Lehrkraft fallen aber strukturierende, moderierende und beratenden Aufgaben zu. Am Beispiel der virtuellen Seminare, die Lehrer-Online 2004 zusammen mit Studienseminaren und Universitäten in NRW durchführte, werden die einzelnen Komponenten vorgestellt sowie ihre Potenziale und Herausforderungen beleuchtet.</abstract>
+                    <note type="citation/reference">PDF-File zur Powerpointpräsentation des Vortrag &quot;Wie macht man&apos;s? Formen und Methoden, Chancen und Grenzen&quot; während der &quot;Zukunftswerkstatt Lehrerbildung - Neues Lehren und Lernen durch E-Learning. Der didaktische Mehrwert von E-Learning-Konzepten in der Lehrerbildung.&quot; Münster 7. Juli 2005</note>
+                    <subject lang="ger">
+                        <topic>E-Learning</topic>
+                        <topic>Lernmodule</topic>
+                        <topic>Lernszenarien</topic>
+                        <topic>virtuelle Seminare</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659519930</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b070bcdc-805c-45cd-a283-77ea26b15feb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b070bcdc-805c-45cd-a283-77ea26b15feb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b070bcdc-805c-45cd-a283-77ea26b15feb/VortragHeinen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b070bcdc-805c-45cd-a283-77ea26b15feb" DMDID="DMD_b070bcdc-805c-45cd-a283-77ea26b15feb">
+            <mets:fptr FILEID="FILE_b070bcdc-805c-45cd-a283-77ea26b15feb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

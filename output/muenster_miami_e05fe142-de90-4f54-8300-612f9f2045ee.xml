@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e05fe142-de90-4f54-8300-612f9f2045ee">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selbstorganisierte Labyrinthe und Spiralen in einem nichtlinearen optischen System</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132880849">
+                        <displayForm>Schüttler, Jens</displayForm>
+                        <namePart type="given">Jens</namePart>
+                        <namePart type="family">Schüttler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172235391">
+                        <displayForm>Lange, Wulfhard</displayForm>
+                        <namePart type="given">Wulfhard</namePart>
+                        <namePart type="family">Lange</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-03-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit werden selbstorganisierte Labyrinthe und Spiralen mit experimentellen und theoretischen Methoden untersucht. Die Strukturen werden als Domänen unterschiedlicher Polarisation in der transversalen Feldverteilung eines Laserstrahls beobachtet, der ein optisch nichtlineares System durchläuft. Ein Schwerpunkt der Arbeit liegt in der Identifikation und Charakterisierung der Mechanismen, die zur Bildung der Labyrinthe beitragen. Es zeigt sich, dass ihre Entstehung auf die Dynamik von Fronten zurückzuführen ist, die zwei stabile, räumlich ausgedehnte Zustände des Systems verbinden. Abhängig von äußeren Parametern kontrahieren oder expandieren diese Fronten; im Falle expandierender Fronten entstehen aus kleinen Störungen ausgedehnte Labyrinthe. In einem benachbarten Parameterbereich entstehen aus einer Hopf-Instabilität raumzeitlich oszillierende Spiralen.</abstract>
+                    <subject lang="ger">
+                        <topic>Selbstorganisation</topic>
+                        <topic>Strukturbildung</topic>
+                        <topic>Frontdynamik</topic>
+                        <topic>Labyrinthe</topic>
+                        <topic>Spiralen</topic>
+                        <topic>nichtlineare Optik</topic>
+                        <topic>Einspiegelanordnung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59529372971</identifier>
+                    <identifier type="sys">HT015121377</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e05fe142-de90-4f54-8300-612f9f2045ee</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e05fe142-de90-4f54-8300-612f9f2045ee_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e05fe142-de90-4f54-8300-612f9f2045ee/diss_schuettler.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e05fe142-de90-4f54-8300-612f9f2045ee" DMDID="DMD_e05fe142-de90-4f54-8300-612f9f2045ee">
+            <mets:fptr FILEID="FILE_e05fe142-de90-4f54-8300-612f9f2045ee_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

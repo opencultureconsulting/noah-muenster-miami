@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_61565469-bc2d-4b6b-a141-3688f051240f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Münsteraner Fragebogen zur Evaluation von Vorlesungen (MFE-V)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143506412">
+                        <displayForm>Hirschfeld, Gerrit H. F.</displayForm>
+                        <namePart type="given">Gerrit H. F.</namePart>
+                        <namePart type="family">Hirschfeld</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14048471X">
+                        <displayForm>Thielsch, Meinald</displayForm>
+                        <namePart type="given">Meinald</namePart>
+                        <namePart type="family">Thielsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2010-02-02</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-02-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">In A. Glöckner-Rist (Hrsg.). Zusammenstellung sozialwissenschaftlicher Items und Skalen. ZIS Version 13.0. Bonn: GESIS</note>
+                    <subject lang="ger">
+                        <topic>Lehrevaluation</topic>
+                        <topic>Vorlesungen</topic>
+                        <topic>Fragebogen</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-48499650716</identifier>
+                    <identifier type="sys">HT019450472</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_61565469-bc2d-4b6b-a141-3688f051240f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_61565469-bc2d-4b6b-a141-3688f051240f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/61565469-bc2d-4b6b-a141-3688f051240f/MFE-V_Vorlesungsevaluation.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_61565469-bc2d-4b6b-a141-3688f051240f" DMDID="DMD_61565469-bc2d-4b6b-a141-3688f051240f">
+            <mets:fptr FILEID="FILE_61565469-bc2d-4b6b-a141-3688f051240f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_84833718-f67b-49c0-9c83-e8f9ad7a6b3e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theorie und Anwendung optimaler Multiprozesse mit Zustandsbeschränkungen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143805509">
+                        <displayForm>Christiansen, Bahne</displayForm>
+                        <namePart type="given">Bahne</namePart>
+                        <namePart type="family">Christiansen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131415158">
+                        <displayForm>Maurer, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Maurer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-01-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-01-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Doktorarbeit &quot;Theorie und Anwendung optimaler Multiprozesse mit Zustandsbeschränkungen&quot; von Bahne Christiansen beschäftigt sich mit optimalen Steuerprozessen, bei denen sich die Dynamik im zeitlichen Ablauf sprunghaft ändern kann. Die Schaltpunkte zwischen den verschiedenen Teilprozessen sind a priori nicht bekannt und werden als zusätzliche Optimierungsvariablen aufgefasst. Aufbauend auf der Theorie gewöhnlicher optimaler Steuerprozesse mit Zustandsbeschränkungen werden für solche Multiprozesse notwendige Optimalitätsbedingungen in Gestalt eines erweiterten Minimumprinzips hergeleitet und an verschiedenen praxisrelevanten Anwendungsmodellen aus den Gebieten der Robotik und der Mikrosystemtechnik überprüft. Zudem konnten die numerisch optimierten Daten im Testlabor unter realen Bedingungen experimentell validiert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Optimale Steuerung</topic>
+                        <topic>Optimierung</topic>
+                        <topic>Multiprozesse</topic>
+                        <topic>Zustandsbeschränkungen</topic>
+                        <topic>Minimumprinzip</topic>
+                        <topic>Voice-Coil-Motor</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25449443758</identifier>
+                    <identifier type="sys">HT016749928</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_84833718-f67b-49c0-9c83-e8f9ad7a6b3e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_84833718-f67b-49c0-9c83-e8f9ad7a6b3e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/84833718-f67b-49c0-9c83-e8f9ad7a6b3e/diss_christiansen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_84833718-f67b-49c0-9c83-e8f9ad7a6b3e" DMDID="DMD_84833718-f67b-49c0-9c83-e8f9ad7a6b3e">
+            <mets:fptr FILEID="FILE_84833718-f67b-49c0-9c83-e8f9ad7a6b3e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

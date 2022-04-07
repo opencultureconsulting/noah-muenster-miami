@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_02ae6735-3357-4fe2-950c-c8313a966149">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Information law towards the 21th century</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-12</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note type="citation/reference">Computer und Recht 7 (1991) 9, 569-570</note>
+                    <subject lang="ger">
+                        <topic>Information law</topic>
+                        <topic>Telekommunikationsrecht</topic>
+                        <topic>Medienrecht</topic>
+                        <topic>Europa</topic>
+                        <topic>Kongress</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659540918</identifier>
+                    <identifier type="issn">0179-1990</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_02ae6735-3357-4fe2-950c-c8313a966149</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_02ae6735-3357-4fe2-950c-c8313a966149_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/02ae6735-3357-4fe2-950c-c8313a966149/037_information.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_02ae6735-3357-4fe2-950c-c8313a966149" DMDID="DMD_02ae6735-3357-4fe2-950c-c8313a966149">
+            <mets:fptr FILEID="FILE_02ae6735-3357-4fe2-950c-c8313a966149_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

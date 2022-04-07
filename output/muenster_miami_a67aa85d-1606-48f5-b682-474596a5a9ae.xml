@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a67aa85d-1606-48f5-b682-474596a5a9ae">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anke Strüver, Stories of the &apos;boring border&apos;. The Dutch-German Borderscape in People&apos;s Minds</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1049728033">
+                        <displayForm>Mose, Jörg</displayForm>
+                        <namePart type="given">Jörg</namePart>
+                        <namePart type="family">Mose</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">rev</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">review</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>235</start>
+                                <end>237</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87159505508</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a67aa85d-1606-48f5-b682-474596a5a9ae</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>review</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a67aa85d-1606-48f5-b682-474596a5a9ae_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a67aa85d-1606-48f5-b682-474596a5a9ae/jahrbuch_zns_2005_16_235-237.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a67aa85d-1606-48f5-b682-474596a5a9ae" DMDID="DMD_a67aa85d-1606-48f5-b682-474596a5a9ae">
+            <mets:fptr FILEID="FILE_a67aa85d-1606-48f5-b682-474596a5a9ae_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

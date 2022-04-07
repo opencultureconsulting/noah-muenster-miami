@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c65dbdd5-161d-425c-811c-d670488d83d5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erstellung und Validierung eines Fragebogens zum Screening schlafbezogener Atmungsstörungen bei Erwachsenen mit neuromuskulären Erkrankungen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1198881631">
+                        <displayForm>Silwedel, Lisa</displayForm>
+                        <namePart type="given">Lisa</namePart>
+                        <namePart type="family">Silwedel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129499005">
+                        <displayForm>Boentert, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Boentert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-11-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-10-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Neuromuskuläre Erkrankungen (NME) gehen oft mit einer schlafbezogenen Atmungsstörung (SBAS) einher, welche einer frühen Therapie bedarf. Die Diagnostik im Schlaflabor ist jedoch oft nicht kurzfristig durchführbar. Ziel dieser Studie war daher die Entwicklung eines Fragebogens zur früheren Diagnostik. Hierfür wurde der &quot;Münsteraner Fragebogen für Schlafbezogene Atmungsstörungen&quot; mit 6 Items (MF-SBAS-6) generiert und validiert. An der Studie nahmen 43 Patienten mit gesicherter NME (davon 16 mit und 27 ohne SBAS), 30 Patienten mit einem obstruktiven Schlafapnoesyndrom und 32 neuromuskulär gesunde Patienten teil. Alle Patienten wurden mittels Spiromanometrie und Poly(somno)graphie untersucht, NME-Patienten auch mittels Kapnometrie. Der MF-SBAS-6 erzielte bei einem Cut-off-Wert von 6 vielversprechende Ergebnisse (Sensitivität 0,75, Spezifität 0,89, positiv prädiktiver Wert 0,80, negativ prädiktiver Wert 0,86), welche jedoch zunächst in einer größeren Kohorte reproduziert werden sollten.</abstract>
+                    <subject lang="ger">
+                        <topic>Neuromuskuläre Erkrankungen</topic>
+                        <topic>schlafbezogene Atmungsstörungen</topic>
+                        <topic>nächtliche Hypoventilation</topic>
+                        <topic>Zwerchfellschwäche</topic>
+                        <topic>obstruktives Schlafapnoe-Syndrom</topic>
+                        <topic>nicht-invasive Beatmung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53129663773</identifier>
+                    <identifier type="sys">HT020272821</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c65dbdd5-161d-425c-811c-d670488d83d5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c65dbdd5-161d-425c-811c-d670488d83d5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c65dbdd5-161d-425c-811c-d670488d83d5/diss_silwedel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c65dbdd5-161d-425c-811c-d670488d83d5" DMDID="DMD_c65dbdd5-161d-425c-811c-d670488d83d5">
+            <mets:fptr FILEID="FILE_c65dbdd5-161d-425c-811c-d670488d83d5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

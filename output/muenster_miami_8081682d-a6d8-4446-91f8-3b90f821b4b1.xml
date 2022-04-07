@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8081682d-a6d8-4446-91f8-3b90f821b4b1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Transfers in coarse homology</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112759181">
+                        <displayForm>Bunke, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Bunke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Engel, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Engel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1052818013">
+                        <displayForm>Kasprowski, Daniel</displayForm>
+                        <namePart type="given">Daniel</namePart>
+                        <namePart type="family">Kasprowski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1052958761">
+                        <displayForm>Winges, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Winges</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141391561">
+                        <displayForm>Deninger, Christopher</displayForm>
+                        <namePart type="given">Christopher</namePart>
+                        <namePart type="family">Deninger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">hnr</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We enlarge the category of bornological coarse spaces by adding transfer morphisms and introduce the notion of an equivariant coarse homology theory with transfers. We then show that equivariant coarse algebraic K-homology and equivariant coarse ordinary homology can be extended to equivariant coarse homology theories with transfers. In the case of a finite group, we observe that equivariant coarse homology theories with transfers provide Mackey functors. We express standard constructions with Mackey functors in terms of coarse geometry, and we demonstrate the usage of transfers in order to prove injectivity results about assembly maps.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>353</start>
+                                <end>424</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-90169657484</identifier>
+                    <identifier type="doi">10.17879/90169656968</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8081682d-a6d8-4446-91f8-3b90f821b4b1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8081682d-a6d8-4446-91f8-3b90f821b4b1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8081682d-a6d8-4446-91f8-3b90f821b4b1/mjm_2020_13_353-424.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8081682d-a6d8-4446-91f8-3b90f821b4b1" DMDID="DMD_8081682d-a6d8-4446-91f8-3b90f821b4b1">
+            <mets:fptr FILEID="FILE_8081682d-a6d8-4446-91f8-3b90f821b4b1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

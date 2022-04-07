@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8c555513-3da9-4152-ae80-f788b7cd9225">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>role of side information in steganography</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1105785491">
+                        <displayForm>Schöttle, Pascal</displayForm>
+                        <namePart type="given">Pascal</namePart>
+                        <namePart type="family">Schöttle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137231164">
+                        <displayForm>Böhme, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Böhme</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-07-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-07-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Ziel digitaler Steganographie ist es, eine geheime Kommunikation in digitalen Medien zu verstecken. Der übliche Ansatz ist es, die Nachricht in einem empirischen Trägermedium zu verstecken. In dieser Arbeit definieren wir den Begriff der Steganographischen Seiteninformation (SSI). Diese Definition umfasst alle wichtigen Eigenschaften von SSI. Wir begründen die Definition informationstheoretisch und erklären den Einsatz von SSI. Alle neueren steganographischen Algorithmen nutzen SSI um die Nachricht einzubetten. Wir entwickeln einen Angriff auf adaptive Steganographie und zeigen anhand von weit verbreiteten SSI-Varianten, dass unser Angriff funktioniert. Wir folgern, dass adaptive Steganographie spieltheoretisch beschrieben werden muss. Wir entwickeln ein spieltheoretisches Modell für solch ein System und berechnen die spieltheoretisch optimalen Strategien. Wir schlussfolgern, dass ein Steganograph diesen Strategien folgen sollte. Zudem entwickeln wir eine neue spieltheoretisch optimale Strategie zur Einbettung, die sogenannten Ausgleichseinbettungsstrategien.</abstract>
+                    <abstract lang="eng">The goal of digital steganography is to hide a secret communication in digital media. The common approach in steganography is to hide the secret messages in empirical cover objects. We are the first to define Steganographic Side Information (SSI). Our definition of SSI captures all relevant properties of SSI. We explain the common usage of SSI. All recent steganographic schemes use SSI to identify suitable areas fot the embedding change. We develop a targeted attack on four widely used variants of SSI, and show that our attack detects them almost perfectly. We argue that the steganographic competition must be framed with means of game theory. We present a game-theoretical framework that captures all relevant properties of such a steganographic system. We instantiate the framework with five different models and solve each of these models for game-theoretically optimal strategies. Inspired by our solutions, we give a new paradigm for secure adaptive steganography, the so-called equalizer embedding strategies.</abstract>
+                    <subject lang="ger">
+                        <topic>Steganographie</topic>
+                        <topic>Seiteninformationen</topic>
+                        <topic>Spieltheorie</topic>
+                        <topic>Multimediasicherheit</topic>
+                        <topic>Informationstheorie</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55239653580</identifier>
+                    <identifier type="sys">HT019028141</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8c555513-3da9-4152-ae80-f788b7cd9225</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8c555513-3da9-4152-ae80-f788b7cd9225_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8c555513-3da9-4152-ae80-f788b7cd9225/diss_schoettle.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8c555513-3da9-4152-ae80-f788b7cd9225" DMDID="DMD_8c555513-3da9-4152-ae80-f788b7cd9225">
+            <mets:fptr FILEID="FILE_8c555513-3da9-4152-ae80-f788b7cd9225_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

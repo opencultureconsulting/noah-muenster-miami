@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b86ef27b-e217-4b20-956d-3e32f431b23d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom TI-82 zum TI-84</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Gerd</displayForm>
+                        <namePart type="given">Gerd</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-02-12</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-02-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor, für unterrichtliche Zwecke freigegeben</note>
+                    <note type="citation/reference">PDF-Datei einer Powerpoint-Präsentation aus einem Workshop des Autors im Rahmen des Lehrerfortbildungsprojektes &quot;Teachers Teaching with Technology Deutschland&quot;, abgehalten am 2. Februar 2006</note>
+                    <subject lang="ger">
+                        <topic>grafischer Taschenrechner</topic>
+                        <topic>Mathematik</topic>
+                        <topic>neue Medien</topic>
+                        <topic>Didaktik</topic>
+                        <topic>Unterricht</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-83649643541</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b86ef27b-e217-4b20-956d-3e32f431b23d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b86ef27b-e217-4b20-956d-3e32f431b23d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b86ef27b-e217-4b20-956d-3e32f431b23d/Vom_TI82_zum_TI84.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b86ef27b-e217-4b20-956d-3e32f431b23d" DMDID="DMD_b86ef27b-e217-4b20-956d-3e32f431b23d">
+            <mets:fptr FILEID="FILE_b86ef27b-e217-4b20-956d-3e32f431b23d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

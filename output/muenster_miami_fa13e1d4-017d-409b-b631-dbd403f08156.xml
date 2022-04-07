@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fa13e1d4-017d-409b-b631-dbd403f08156">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Analysis on Riemannian foliations of bounded geometry</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1089688431">
+                        <displayForm>Alvarez López, Jesús A.</displayForm>
+                        <namePart type="given">Jesús A.</namePart>
+                        <namePart type="family">Alvarez López</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kordyukov, Yuri A.</displayForm>
+                        <namePart type="given">Yuri A.</namePart>
+                        <namePart type="family">Kordyukov</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1058160990">
+                        <displayForm>Leichtnam, Éric</displayForm>
+                        <namePart type="given">Éric</namePart>
+                        <namePart type="family">Leichtnam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141391561">
+                        <displayForm>Deninger, Christopher</displayForm>
+                        <namePart type="given">Christopher</namePart>
+                        <namePart type="family">Deninger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">hnr</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A leafwise Hodge decomposition was proved by Sanguiao for Riemannian foliations of bounded geometry. Its proof is explained again in terms of our study of bounded geometry for Riemannian foliations. It is used to associate smoothing operators to foliated flows, and describe their Schwartz kernels. All of this is extended to a leafwise version of the Novikov differential complex.</abstract>
+                    <note>The authors were partially supported by FEDER/Ministerio de Ciencia, Innovaci´on y Universidades/AEI/MTM2017-89686-P and MTM2014-56950-P, and Xunta de Galicia/2015 GPC GI-1574 and ED431C 2019/10. The second author is partially supported by the RFBR grant 16-01-00312.</note>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>221</start>
+                                <end>265</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-90169675858</identifier>
+                    <identifier type="doi">10.17879/90169672719</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fa13e1d4-017d-409b-b631-dbd403f08156</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fa13e1d4-017d-409b-b631-dbd403f08156_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fa13e1d4-017d-409b-b631-dbd403f08156/mjm_2020_13_221-265.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fa13e1d4-017d-409b-b631-dbd403f08156" DMDID="DMD_fa13e1d4-017d-409b-b631-dbd403f08156">
+            <mets:fptr FILEID="FILE_fa13e1d4-017d-409b-b631-dbd403f08156_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

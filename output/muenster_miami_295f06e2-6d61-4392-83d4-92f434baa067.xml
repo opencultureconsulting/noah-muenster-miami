@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_295f06e2-6d61-4392-83d4-92f434baa067">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>EC computer law</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141754827">
+                        <displayForm>Cowen, Tim</displayForm>
+                        <namePart type="given">Tim</namePart>
+                        <namePart type="family">Cowen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1990</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note type="citation/reference">Reed, Chris (Hrsg.): Computer law. London : Blackstone Press, 2. ed., 1990. ISBN 
+1-85431-227-8, S. 302-329</note>
+                    <subject lang="eng">
+                        <topic>computer law</topic>
+                        <topic>software protection</topic>
+                        <topic>EC</topic>
+                        <topic>European Community</topic>
+                        <topic>EDV-Recht</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541022</identifier>
+                    <identifier type="isbn">1-85431-037-2</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_295f06e2-6d61-4392-83d4-92f434baa067</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_295f06e2-6d61-4392-83d4-92f434baa067_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/295f06e2-6d61-4392-83d4-92f434baa067/026_eec.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_295f06e2-6d61-4392-83d4-92f434baa067" DMDID="DMD_295f06e2-6d61-4392-83d4-92f434baa067">
+            <mets:fptr FILEID="FILE_295f06e2-6d61-4392-83d4-92f434baa067_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

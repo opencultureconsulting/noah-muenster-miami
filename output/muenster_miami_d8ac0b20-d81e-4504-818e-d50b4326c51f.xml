@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d8ac0b20-d81e-4504-818e-d50b4326c51f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Markov renewal theory in the analysis of random strings and iterated function systems</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1213485290">
+                        <displayForm>Godland, Philipp</displayForm>
+                        <namePart type="given">Philipp</namePart>
+                        <namePart type="family">Godland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, Gerold</displayForm>
+                        <namePart type="given">Gerold</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-07-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-05-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit behandelt die Verwendung von Markov-Erneuerungstheorie in der Analyse von zufälligen Strings und verwandten Baumstrukturen, sowie iterierten Funktionensystemen. Die Modelle beinhalten Markov-Modulation durch eine positiv rekurrente diskrete Markov-Kette. Teil I untersucht Baumstrukturen, insbesondere Tries, die in der Analyse von Algorithmen auftreten und aus zufälligen Strings konstruiert werden. Ein String wird von einer Markov Source erzeugt, bildet also eine Markov-Kette und gleichzeitig die Steuerkette eines Markov-modulierten Hilfsprozesses. Wir bestimmen in der ersten Hälfte das Grenzverhalten charakteristischer Parameter wie Tiefe und Imbalance Factor, und entwickeln in der zweiten Hälfte ein Resultat für die Average-Case Analyse weiterer charakteristischer Parameter. Teil II untersucht iterierte Funktionensystem aus Markov-modulierten Lipschitz-stetigen Funktionen. Wir betten unser Modell ein in das stationäre Regime von Elton, und geben Bedingungen für polynomielle und geometrische Konvergenz.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2020</note>
+                    <subject lang="ger">
+                        <topic>Markov-Erneuerungstheorie</topic>
+                        <topic>Markov Random Walk</topic>
+                        <topic>Regenerative Methoden</topic>
+                        <topic>Tries</topic>
+                        <topic>Analyse von Algorithmen</topic>
+                        <topic>Iterierte Funktionensysteme</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-70179618340</identifier>
+                    <identifier type="sys">HT020524174</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d8ac0b20-d81e-4504-818e-d50b4326c51f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d8ac0b20-d81e-4504-818e-d50b4326c51f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d8ac0b20-d81e-4504-818e-d50b4326c51f/diss_godland.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d8ac0b20-d81e-4504-818e-d50b4326c51f" DMDID="DMD_d8ac0b20-d81e-4504-818e-d50b4326c51f">
+            <mets:fptr FILEID="FILE_d8ac0b20-d81e-4504-818e-d50b4326c51f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

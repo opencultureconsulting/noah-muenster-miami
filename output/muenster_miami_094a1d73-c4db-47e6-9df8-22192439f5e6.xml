@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_094a1d73-c4db-47e6-9df8-22192439f5e6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Two simple questions</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142326534">
+                        <displayForm>Döbber, Melanie</displayForm>
+                        <namePart type="given">Melanie</namePart>
+                        <namePart type="family">Döbber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122726642">
+                        <displayForm>Dziewas, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Dziewas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-06-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-06-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Hintergrund: 1994 veröffentlichten Lindley et al. „two simple questions“ zur Ermittlung des Outcome-Status bei Schlaganfallpatienten. Diese wurden bereits in großen internationalen Studien zur Datenerhebung angewendet. Bislang keine anerkannte deutsche Version, diese wird in dieser Arbeit präsentiert und mit Barthel Index und Rankin Scale als Goldstandard auf ihre Validität untersucht. Methode: Multizentrische Studie, Zusammenarbeit mit SA-Register Dortmund und Münster. Postalisch/Telefonische Nachbefragung 3 Monate nach Indexereignis. Statistisches Maß: einfach gewichteter kappa-Wert, Sensitivität, Spezifität und Übereinstimmung. Ergebnisse: Frage 1: beste Korrelation bei RS cutoff &gt;0/= 0 (Sens.: 84%, Spez.: 90%, kappa: 0,66). Frage 2 bei BI cutoff ≥95/&lt;95 (Sens.: 90%, Spez.: 83%, kappa: 0,71). Fazit: Ergebnisse decken sich mit Vorläuferstudien. Die Fragen können nun in deutschsprachigen Projekten für eine standardisierte Nachbefragung von Schlaganfallpatienten angewendet werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Schlaganfall</topic>
+                        <topic>Outcome</topic>
+                        <topic>simple questions</topic>
+                        <topic>barthel Index</topic>
+                        <topic>Rankin Scale</topic>
+                        <topic>Assessment</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67449435924</identifier>
+                    <identifier type="sys">HT016513616</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_094a1d73-c4db-47e6-9df8-22192439f5e6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_094a1d73-c4db-47e6-9df8-22192439f5e6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/094a1d73-c4db-47e6-9df8-22192439f5e6/diss_doebber.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_094a1d73-c4db-47e6-9df8-22192439f5e6" DMDID="DMD_094a1d73-c4db-47e6-9df8-22192439f5e6">
+            <mets:fptr FILEID="FILE_094a1d73-c4db-47e6-9df8-22192439f5e6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

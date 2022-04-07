@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_be903962-844e-491a-8bd0-fcd4a26ae079">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Formale Axiome als Attribute</title>
+                        <subTitle>Folgerungen aus einer unbeachteten Hilbert-These</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112177123">
+                        <displayForm>Hohelüchter, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Hohelüchter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-01-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-01-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In Reaktion auf die Grundlagenkrise entwickelte D. Hilbert neben der „inhaltlichen“ eine „formale“ Axiomatik. „Formale Axiome“ sind danach rein syntaktische „Formeln“. Erst eine Interpretation auf ein „Modell“ stellt einen Weltbezug her. Nach einer Kritik dieser Lösung stellen wir eine andere vor. Danach sind formale Axiome nicht Formeln, sondern Attribute: Inhaltliche Axiome der Mathematik sind singuläre Urteile über Relationen, formale Axiome die Attribute solcher Urteile, d.h. Relationsattribute. Die Formalisierung bezieht sich nicht auf Interpretation, sondern auf Attribution. So ist die Attributionstheorie auf Axiome anzuwenden und damit ein Kriterium für inhaltliche und formale Axiome zu gewinnen und die Widerspruchsfreiheit von Axiomensystemen auf die Kontrarietät von Attributen zurückzuführen. Inhalt der Mathematik sind nicht Formeln und deren Interpretation, sondern deren Voraussetzung, die Relationseigenschaften, die eine strukturerhaltende Interpretation ermöglichen. Die inhaltliche Mathematik untersucht die Strukturen einzelner Relationen und übergeht deren (gegenständliche) Argumente; die formale Mathematik untersucht den Aufbau und das Verhältnis der Strukturen und übergeht die sie tragenden Relationen.</abstract>
+                    <subject lang="ger">
+                        <topic>Grundlagenkrise</topic>
+                        <topic>formales Axiomensystem</topic>
+                        <topic>Attribution</topic>
+                        <topic>Relationseigenschaft</topic>
+                        <topic>Struktur</topic>
+                        <topic>Widerspruchsfreiheit</topic>
+                        <topic>Vollständigkeit</topic>
+                        <topic>formale Beweise</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10609661945</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_be903962-844e-491a-8bd0-fcd4a26ae079</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_be903962-844e-491a-8bd0-fcd4a26ae079_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/be903962-844e-491a-8bd0-fcd4a26ae079/formale_axiome_als_attribute_I_07.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_be903962-844e-491a-8bd0-fcd4a26ae079" DMDID="DMD_be903962-844e-491a-8bd0-fcd4a26ae079">
+            <mets:fptr FILEID="FILE_be903962-844e-491a-8bd0-fcd4a26ae079_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

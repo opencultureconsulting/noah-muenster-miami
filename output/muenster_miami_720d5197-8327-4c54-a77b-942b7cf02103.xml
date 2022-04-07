@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_720d5197-8327-4c54-a77b-942b7cf02103">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie hat mein Großvater den Ersten Weltkrieg erlebt?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138342351">
+                        <displayForm>Pettendrup, Gabriele</displayForm>
+                        <namePart type="given">Gabriele</namePart>
+                        <namePart type="family">Pettendrup</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit untersucht die Feldpost des Großvaters der Autorin, der von 1916 bis 1918 fast ausschließlich an der Westfront eingesetzt war und seinen Eltern und Geschwistern zahlreiche Postkarten, kürzere Briefe und vor allem Fotografien von seinen Erlebnissen an der Front und in der Etappe schickte. Der Großvater zweifelt zunehmend an der Sinnhaftigkeit des Kriegs und trägt schwer an seinen Erlebnissen. Lediglich sein Glaube und die Unterstützung seiner Familie geben ihm Kraft zum Durchhalten.</abstract>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Erster Weltkrieg</topic>
+                        <topic>Feldpostbriefe</topic>
+                        <topic>Kriegsfotografien</topic>
+                        <topic>Postkarten</topic>
+                        <topic>Familienleben</topic>
+                        <topic>Studium im Alter</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Westfalen im Ersten Weltkrieg</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Westfalen im Ersten Weltkrieg</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61329503958</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_720d5197-8327-4c54-a77b-942b7cf02103</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_720d5197-8327-4c54-a77b-942b7cf02103_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/720d5197-8327-4c54-a77b-942b7cf02103/wki_6_pettendrup_grossvater.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_720d5197-8327-4c54-a77b-942b7cf02103" DMDID="DMD_720d5197-8327-4c54-a77b-942b7cf02103">
+            <mets:fptr FILEID="FILE_720d5197-8327-4c54-a77b-942b7cf02103_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

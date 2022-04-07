@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_03c87efd-f4cf-4e9c-aeaa-a78da1abbd5b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Stationary set preserving L-forcings and the extender algebra</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14095399X">
+                        <displayForm>Doebler, Philipp</displayForm>
+                        <namePart type="given">Philipp</namePart>
+                        <namePart type="family">Doebler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120896591">
+                        <displayForm>Schindler, Ralf-Dieter</displayForm>
+                        <namePart type="given">Ralf-Dieter</namePart>
+                        <namePart type="family">Schindler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-03-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-02-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir konstruieren das Jensensche L-Forcing und nutzen dieses um die Pi_2 Konsequenzen der Theorie ZFC+BMM+&quot;das nichtstationäre Ideal auf omega_1 ist abschüssig&quot; zu studieren. Viele natürliche Konsequenzen der Theorie ZFC+MM folgen schon aus dieser schwächeren Theorie. Wir geben eine neue Charakterisierung des Axioms Dagger (&quot;Alle Forcings welche stationäre Teilmengen von omega_1 bewahren sind semiproper&quot;) in dem wir eine Klasse von L-Forcings isolieren deren Semiproperness äquivalent zu Dagger ist. Wir verallgemeinern ein Resultat von Todorcevic: wir zeigen, dass Rado&apos;s Conjecture Dagger impliziert. Des weiteren studieren wir Generizitätsiterationen im Kontext einer messbaren Woodinzahl. Mit diesem Werkzeug erhalten wir eine Verallgemeinerung des Woodinschen Sigma^2_1 Absolutheitstheorems.</abstract>
+                    <abstract lang="eng">We review the construction of Jensen&apos;s L-forcing which we apply to study the Pi_2 consequences of the theory ZFC + BMM + &quot;the nonstationary ideal on omega_1 is precipitous&quot;. Many natural consequences ZFC + MM follow from this weaker theory. We give a new characterization of the axiom dagger (&quot;All stationary set preserving forcings are semiproper&quot;) by isolating a class of stationary set preserving L-forcings whose semiproperness is equivalent to dagger. This characterization is used to generalize work of Todorcevic: we show that Rado&apos;s Conjecture implies dagger. Furthermore we study genericity iterations beginning with a measurable Woodin cardinal. We obtain a generalization of Woodin&apos;s Sigma^2_1 absoluteness theorem.</abstract>
+                    <subject lang="ger">
+                        <topic>L-Forcing</topic>
+                        <topic>beschränkte Forcingaxiome</topic>
+                        <topic>Extender-Algebra</topic>
+                        <topic>Generizitätsiterationen</topic>
+                        <topic>Chang&apos;s conjecture</topic>
+                        <topic>Rado&apos;s conjecture</topic>
+                        <topic>Woodin-Kardinalzahlen</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-18459428688</identifier>
+                    <identifier type="sys">HT016433054</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_03c87efd-f4cf-4e9c-aeaa-a78da1abbd5b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_03c87efd-f4cf-4e9c-aeaa-a78da1abbd5b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/03c87efd-f4cf-4e9c-aeaa-a78da1abbd5b/diss_doebler.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_03c87efd-f4cf-4e9c-aeaa-a78da1abbd5b" DMDID="DMD_03c87efd-f4cf-4e9c-aeaa-a78da1abbd5b">
+            <mets:fptr FILEID="FILE_03c87efd-f4cf-4e9c-aeaa-a78da1abbd5b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

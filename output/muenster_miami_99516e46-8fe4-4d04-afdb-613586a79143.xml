@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_99516e46-8fe4-4d04-afdb-613586a79143">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Boundary strata of nonnegatively curved Alexandrov spaces and a splitting theorem</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142580147">
+                        <displayForm>Wörner, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Wörner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilking, Burkhard</displayForm>
+                        <namePart type="given">Burkhard</namePart>
+                        <namePart type="family">Wilking</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Hauptresultat ist der folgende metrische Spaltungssatz: Gegeben sei ein kompakter Alexandrovraum M mit nichtnegativer Krümmung, dessen Rand mehrere Randstrata enthält mit leerem gemeinsamen Schnitt. Dann ist M isometrisch zu einem Produkt von Alexandrovräumen S und D mit nichtnegativer Krümmung. Hierbei ist ein Randstratum definiert als eine extremale Teilmenge von M der lokal konstanten Kodimension 1. Sind davon etwa k+1 derart gewählt, dass ihr gemeinsamer Schnitt leer ist, jeder k-fache Schnitt jedoch nichtleer, so ist der Faktor S von oben isometrisch zu jedem dieser k-fachen Schnitte und hat insbesondere die Dimension dim M - k. Sind weitere Randstrata in M vorhanden, induzieren sie Randstrata von S. Iterative Anwendung des Spaltungssatzes ergibt als Korollar, dass ein n-dimensionaler Alexandrovraum mit nichtnegativer Krümmung höchstens 2n Randstrata besitzt und Gleichheit genau für einen Euklidischen Quader gilt.</abstract>
+                    <subject lang="ger">
+                        <topic>Metrische Geometrie</topic>
+                        <topic>Alexandrovraum</topic>
+                        <topic>nichtnegative Krümmung</topic>
+                        <topic>Spaltungssatz</topic>
+                        <topic>Strata</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67429603642</identifier>
+                    <identifier type="sys">HT016554565</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_99516e46-8fe4-4d04-afdb-613586a79143</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_99516e46-8fe4-4d04-afdb-613586a79143_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/99516e46-8fe4-4d04-afdb-613586a79143/diss_woerner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_99516e46-8fe4-4d04-afdb-613586a79143" DMDID="DMD_99516e46-8fe4-4d04-afdb-613586a79143">
+            <mets:fptr FILEID="FILE_99516e46-8fe4-4d04-afdb-613586a79143_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

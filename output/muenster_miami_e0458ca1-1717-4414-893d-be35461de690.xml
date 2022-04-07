@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e0458ca1-1717-4414-893d-be35461de690">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of a high-repetition-rate intense ultrashort optical parametric chirped-pulse amplifier system with a global dispersion management</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1026900476">
+                        <displayForm>Kobayashi, Wataru</displayForm>
+                        <namePart type="given">Wataru</namePart>
+                        <namePart type="family">Kobayashi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zacharias, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Zacharias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-10-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-09-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit wird über die Entwicklung eines noncollinear optical parametric chirped-pulse amplification (NOPCPA) Lasers für few-cycle Pulse im nahen Infrarot mit hoher mittlerer Leistung berichtet. Ein neues Stretcher-Compressor Design ermöglicht eine Streckung des Pulses um einen Faktor &gt; 10 hoch 4 auf über 80 ps Pulsdauer in einer Bandbreite von 690 nm bis 1010 nm in einem kompakten Aufbau. Die Transmission durch den Kompressor beträgt dabei mehr als 90 %. Es werden Pulse mit einer Pulsenergie von 125 Mikrojoule bei einer Repetitionsrate von 20 kHz erzeugt und erfolgreich auf bis zu 9,6 fs mit dem acousto-optic programmable dispersive filter (AOPDF) komprimiert. Durch die Streckung auf diese Größenordnung, ist eine Energieskalierung mit Hilfe einer weiteren NOPCPA stufe mit entsprechende hoher Energie der Pumppulse prinzipiell machbar.</abstract>
+                    <subject lang="ger">
+                        <topic>NOPCPA</topic>
+                        <topic>hoher Repetitionsrate</topic>
+                        <topic>Dispersionsmanagement</topic>
+                        <topic>Grism stretcher</topic>
+                        <topic>MIIPS Technik</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-49319589046</identifier>
+                    <identifier type="sys">HT017420892</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e0458ca1-1717-4414-893d-be35461de690</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e0458ca1-1717-4414-893d-be35461de690_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e0458ca1-1717-4414-893d-be35461de690/diss_kobayashi.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e0458ca1-1717-4414-893d-be35461de690" DMDID="DMD_e0458ca1-1717-4414-893d-be35461de690">
+            <mets:fptr FILEID="FILE_e0458ca1-1717-4414-893d-be35461de690_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

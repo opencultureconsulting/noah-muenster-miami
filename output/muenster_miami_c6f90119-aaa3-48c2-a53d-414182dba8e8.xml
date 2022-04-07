@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c6f90119-aaa3-48c2-a53d-414182dba8e8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Phylogenetische Untersuchungen an Arten der Gräser-Gattung Aira L. anhand karyologischer und molekularbiologischer Methoden sowie In situ-Hybridisierungen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130823783">
+                        <displayForm>Heinrichsmeier, Nicole</displayForm>
+                        <namePart type="given">Nicole</namePart>
+                        <namePart type="family">Heinrichsmeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106831143">
+                        <displayForm>Albers, Focke</displayForm>
+                        <namePart type="given">Focke</namePart>
+                        <namePart type="family">Albers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-11-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-10-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Innerhalb der Poaceae stellt die Gattung Aira einen Polyploidie-Komplex aus diploiden und tetraploiden Arten dar. Dieser ist für phylogenetische Verwandtschaftsforschungen interessant, da bei den durch Hybridisierung entstandenen tetraploiden Arten z.T. Unkenntnis über die parentalen Genome herrscht. Die Systematik der Gattung und die phylogenetischen Beziehungen der Arten zueinander wurden durch den Einsatz verschiedener Methoden untersucht. Da die Gattung durch gemeinsame morphologische Merkmale sehr stabil ist, erfolgt eine klare Differenzierung primär anhand karyologischer Daten. Die Sequenzierung der cpDNA bzw. nrDNA zeigt aufgrund einer geringen Divergenz einen begrenzten taxonomischen Wert, was sich in einer schlechten interspezifischen Abgrenzbarkeit widerspiegelt und auf eine spät stattgefundene Abtrennung der Arten hinweist. Durch RAPDs und der GISH konnten bei zwei Arten der allopolyploide Ursprung nachgewiesen und die parentalen Genome detektiert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Poaceae</topic>
+                        <topic>Aira</topic>
+                        <topic>Phylogenie</topic>
+                        <topic>Chromosomenevolution</topic>
+                        <topic>RAPD</topic>
+                        <topic>Genomische in situ-Hybridisierung</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34649489497</identifier>
+                    <identifier type="sys">HT014555122</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c6f90119-aaa3-48c2-a53d-414182dba8e8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c6f90119-aaa3-48c2-a53d-414182dba8e8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c6f90119-aaa3-48c2-a53d-414182dba8e8/diss_heinrichsmeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c6f90119-aaa3-48c2-a53d-414182dba8e8" DMDID="DMD_c6f90119-aaa3-48c2-a53d-414182dba8e8">
+            <mets:fptr FILEID="FILE_c6f90119-aaa3-48c2-a53d-414182dba8e8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

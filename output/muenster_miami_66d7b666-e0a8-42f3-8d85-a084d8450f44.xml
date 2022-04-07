@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_66d7b666-e0a8-42f3-8d85-a084d8450f44">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Jetzt kommt wieder Leben in die historische Bibliothek</title>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2006-02-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-02-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Zeitungsverlag Westfalenpost GmbH</note>
+                    <subject lang="ger">
+                        <topic>Historische Bibliothek</topic>
+                        <topic>Arnsberg</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33659572750</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_66d7b666-e0a8-42f3-8d85-a084d8450f44</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_66d7b666-e0a8-42f3-8d85-a084d8450f44_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/66d7b666-e0a8-42f3-8d85-a084d8450f44/Westfalenpost_29.01.2006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_66d7b666-e0a8-42f3-8d85-a084d8450f44" DMDID="DMD_66d7b666-e0a8-42f3-8d85-a084d8450f44">
+            <mets:fptr FILEID="FILE_66d7b666-e0a8-42f3-8d85-a084d8450f44_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

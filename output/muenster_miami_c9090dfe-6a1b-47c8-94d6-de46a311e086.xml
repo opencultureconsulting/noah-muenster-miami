@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c9090dfe-6a1b-47c8-94d6-de46a311e086">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mirjam Bolle, Ik zal je beschrijven hoe een dag er hier uitziet. Dagboekbrieven uit Amsterdam, Westerbork en Bergen-Belsen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1076549829">
+                        <displayForm>Hájková, Anna</displayForm>
+                        <namePart type="given">Anna</namePart>
+                        <namePart type="family">Hájková</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">rev</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">review</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>229</start>
+                                <end>230</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87159529006</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c9090dfe-6a1b-47c8-94d6-de46a311e086</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>review</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c9090dfe-6a1b-47c8-94d6-de46a311e086_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c9090dfe-6a1b-47c8-94d6-de46a311e086/jahrbuch_zns_2005_16_229-230.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c9090dfe-6a1b-47c8-94d6-de46a311e086" DMDID="DMD_c9090dfe-6a1b-47c8-94d6-de46a311e086">
+            <mets:fptr FILEID="FILE_c9090dfe-6a1b-47c8-94d6-de46a311e086_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

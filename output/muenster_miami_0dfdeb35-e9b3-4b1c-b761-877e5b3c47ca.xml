@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0dfdeb35-e9b3-4b1c-b761-877e5b3c47ca">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Protokoll der Arbeitsgruppe Fort- und Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128568771">
+                        <displayForm>Winkel, Jens</displayForm>
+                        <namePart type="given">Jens</namePart>
+                        <namePart type="family">Winkel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1012198677">
+                        <displayForm>Vorspel, Luzia</displayForm>
+                        <namePart type="given">Luzia</namePart>
+                        <namePart type="family">Vorspel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-06-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note>2. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 3. und 4. März 2008 in Trier</note>
+                    <subject lang="ger">
+                        <topic>Lehrerbildung</topic>
+                        <topic>Lehrerfortbildung</topic>
+                        <topic>Zentrum für Lehrerbildung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84599395001</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0dfdeb35-e9b3-4b1c-b761-877e5b3c47ca</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0dfdeb35-e9b3-4b1c-b761-877e5b3c47ca_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0dfdeb35-e9b3-4b1c-b761-877e5b3c47ca/Protokoll-AG-Fortbildung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0dfdeb35-e9b3-4b1c-b761-877e5b3c47ca" DMDID="DMD_0dfdeb35-e9b3-4b1c-b761-877e5b3c47ca">
+            <mets:fptr FILEID="FILE_0dfdeb35-e9b3-4b1c-b761-877e5b3c47ca_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

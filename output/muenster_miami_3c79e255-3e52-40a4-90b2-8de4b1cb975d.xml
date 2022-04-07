@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3c79e255-3e52-40a4-90b2-8de4b1cb975d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwurf und wellenoptische Optimierung autostereoskopischer Anzeigen mit dynamischen Parallaxebarrieren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1174898852">
+                        <displayForm>Ewen, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Ewen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120038129">
+                        <displayForm>Denz, Cornelia</displayForm>
+                        <namePart type="given">Cornelia</namePart>
+                        <namePart type="family">Denz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-01-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-06-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit beschreibt die Entwicklung einer autostereoskopischen Anzeige für den Einsatz im Automobil. Im Kern galt es das inverse optische Problem zu lösen, die abbildenden Eigenschaften einer dynamischen Barrieremaske zu bestimmen, um am Ort des Betrachters eine Leuchtdichteverteilung zu erzeugen, die auch bei dynamischen Bewegungen eine störungsfreie Wahrnehmung ermöglicht. Es wird gezeigt, dass eine geometrisch-optische Betrachtung auf Grund von Beugung nicht ausreichend ist, weshalb ein entsprechendes wellen-optisches Modell entwickelt wurde. Dies ermöglichte durch Einbringen von Amplituden-verändernden und Phasen-verschiebenden Elementen die Leuchtdichteverteilung wellen-optisch zu optimieren. Zudem werden neue Methoden präsentiert, wie der Bereich der stereoskopischen Wahrnehmung durch diskrete Anpassung der Barriere auf variable Betrachtungsabstände adaptiert werden kann. Das Modell und die Adaptionsmethode wurden erfolgreich in einer prototypischen Anzeige umgesetzt.</abstract>
+                    <subject lang="ger">
+                        <topic>Autostereoskopie</topic>
+                        <topic>Automobil</topic>
+                        <topic>Abstandsadaption</topic>
+                        <topic>Wellenoptik</topic>
+                        <topic>Parallaxebarriere</topic>
+                        <topic>3D-Display</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66129708754</identifier>
+                    <identifier type="sys">HT019928126</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3c79e255-3e52-40a4-90b2-8de4b1cb975d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3c79e255-3e52-40a4-90b2-8de4b1cb975d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3c79e255-3e52-40a4-90b2-8de4b1cb975d/diss_ewen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3c79e255-3e52-40a4-90b2-8de4b1cb975d" DMDID="DMD_3c79e255-3e52-40a4-90b2-8de4b1cb975d">
+            <mets:fptr FILEID="FILE_3c79e255-3e52-40a4-90b2-8de4b1cb975d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

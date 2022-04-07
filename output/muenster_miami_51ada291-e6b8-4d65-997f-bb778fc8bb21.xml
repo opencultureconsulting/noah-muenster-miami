@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_51ada291-e6b8-4d65-997f-bb778fc8bb21">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Fabelzyklus in 1001 Nacht</title>
+                        <subTitle>Literatur- und textkritische Analyse</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130016446">
+                        <displayForm>Osigus, Anke</displayForm>
+                        <namePart type="given">Anke</namePart>
+                        <namePart type="family">Osigus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130452971">
+                        <displayForm>Grotzfeld, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grotzfeld</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">exp</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2000-06-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Primärer Untersuchungsgegenstand ist ein Block von Tierfabeln, der in den Drucken der jüngsten Rezension von 1001 Nacht die Nächte 146 bis 152 einnimmt. Die Erzählungen, die sich hinsichtlich ihrer Genrezugehörigkeit deutlich von anderen 1001 Nacht-Texten unterscheiden, lassen sich zum Teil als Adaptionen weit verbreiteter Erzähl¬typen und Motive, vor allem aus der indischen und persischen Literatur, nachweisen. Im Zentrum stehen die Aufarbeitung der partiell stark korrumpierten handschriftlichen Tradition und ihre Beziehungen zu zwei orientalischen Drucken, die als Grundlage der meisten Übersetzungen die westliche Rezeption von 1001 Nacht geprägt haben. Nach einer textkritischen Analyse und stemmatischen Rekonstruktion der Filiationsgeschichte werden aus¬gewählte Fabeln ediert und übersetzt. Die Edition dokumentiert die inhaltliche Vielgestaltigkeit und die „mittelarabische“ Sprachform eines volksliterarischen Textkorpus.</abstract>
+                    <subject lang="ger">
+                        <topic>1001 Nacht</topic>
+                        <topic>Arabisch</topic>
+                        <topic>Fabel</topic>
+                        <topic>Edition</topic>
+                        <topic>Textgeschichte</topic>
+                        <topic>Erzählliteratur</topic>
+                    </subject>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ddc">890</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87429402336</identifier>
+                    <identifier type="sys">HT016530373</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_51ada291-e6b8-4d65-997f-bb778fc8bb21</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_51ada291-e6b8-4d65-997f-bb778fc8bb21_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/51ada291-e6b8-4d65-997f-bb778fc8bb21/diss_osigus.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_51ada291-e6b8-4d65-997f-bb778fc8bb21" DMDID="DMD_51ada291-e6b8-4d65-997f-bb778fc8bb21">
+            <mets:fptr FILEID="FILE_51ada291-e6b8-4d65-997f-bb778fc8bb21_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

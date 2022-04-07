@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_161a26aa-81da-4b09-9f1f-2578d0252631">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Alle &quot;Feriengäste&quot; sind &quot;so gut wie stubenrein&quot;</title>
+                        <subTitle>Aprilscherze, Anteilnahme, unerfüllte Wünsche – Das Verhältnis der Münsteraner zu ihren Zootieren</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138340707">
+                        <displayForm>Hutten, Verena</displayForm>
+                        <namePart type="given">Verena</namePart>
+                        <namePart type="family">Hutten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138340715">
+                        <displayForm>Pierchalla, Greta</displayForm>
+                        <namePart type="given">Greta</namePart>
+                        <namePart type="family">Pierchalla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Riedel, Christine</displayForm>
+                        <namePart type="given">Christine</namePart>
+                        <namePart type="family">Riedel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-05-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Aprilscherz</topic>
+                        <topic>Brauchtum</topic>
+                        <topic>Zoo</topic>
+                        <topic>Umzug</topic>
+                        <topic>Zeitung</topic>
+                        <topic>Schülerarbeit</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>152</start>
+                                <end>155</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-89259506817</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_161a26aa-81da-4b09-9f1f-2578d0252631</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_161a26aa-81da-4b09-9f1f-2578d0252631_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/161a26aa-81da-4b09-9f1f-2578d0252631/idb_2001_suppl_1_152-155.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_161a26aa-81da-4b09-9f1f-2578d0252631" DMDID="DMD_161a26aa-81da-4b09-9f1f-2578d0252631">
+            <mets:fptr FILEID="FILE_161a26aa-81da-4b09-9f1f-2578d0252631_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

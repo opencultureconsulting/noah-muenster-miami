@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a396739a-ade2-4ccd-b86f-e57c6e9292d7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bewertung von Derivaten in zeitdiskreten Finanzmarktmodellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128735902">
+                        <displayForm>Wrede, Marcus</displayForm>
+                        <namePart type="given">Marcus</namePart>
+                        <namePart type="family">Wrede</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131492225">
+                        <displayForm>Schmitz, Norbert</displayForm>
+                        <namePart type="given">Norbert</namePart>
+                        <namePart type="family">Schmitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-01-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wird gezeigt, dass in zeitdiskreten Finanzmarktmodellen bereits unter sehr schwachen Voraussetzungen genau dann mindestens eine ?nicht-triviale? absicherbare Call- oder Put-Option existiert, wenn ein Binomialmodell vorliegt. I.A. ist die Bewertung von Derivaten durch Bildung eines Portfolioäquivalentes daher nicht möglich. Mit Hilfe der Balayage-Technik werden Schranken ermittelt, innerhalb derer sich Preise bei komponentenweise konvexen Auszahlungsfunktionen unter ökonomischen Aspekten in Modellen mit unabhängigen Faktoren bewegen sollten, und anhand der Theorie oberer und unterer Preise auf Modelle mit beliebigen Abhängigkeiten zwischen den Faktoren des Aktienpreisprozesses übertragen. Weiter werden hinreichende Bedingungen dafür angegeben, dass diese Schranken angenommen werden, wodurch man insbesondere konstruktive Beweise der upper and lower hedging duality erhält. Anwendungen finden sich bei bedingten Gaußschen Modellen und der Zeitdiskretisierung des Black-Scholes Modells.</abstract>
+                    <subject lang="ger">
+                        <topic>Arbitragegrenzen</topic>
+                        <topic>Balayage</topic>
+                        <topic>Binomialmodell</topic>
+                        <topic>Call und Put</topic>
+                        <topic>Hedgebarkeit</topic>
+                        <topic>oberer und unterer Preis</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526486</identifier>
+                    <identifier type="sys">HT013965262</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a396739a-ade2-4ccd-b86f-e57c6e9292d7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a396739a-ade2-4ccd-b86f-e57c6e9292d7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a396739a-ade2-4ccd-b86f-e57c6e9292d7/diss_wrede.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a396739a-ade2-4ccd-b86f-e57c6e9292d7" DMDID="DMD_a396739a-ade2-4ccd-b86f-e57c6e9292d7">
+            <mets:fptr FILEID="FILE_a396739a-ade2-4ccd-b86f-e57c6e9292d7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

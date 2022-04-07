@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cdbb6a58-f48a-44a5-992c-6c13c421cb79">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Bayesian inversion in biomedical imaging</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1066228213">
+                        <displayForm>Lucka, Felix</displayForm>
+                        <namePart type="given">Felix</namePart>
+                        <namePart type="family">Lucka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-02-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-01-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Biomedizinische Bildgebung ist zu einer Schlüsseltechnik geworden, Struktur oder Funktion lebender Organismen nicht-invasiv zu untersuchen. Relevante Informationen aus den gemessenen Daten zu rekonstruieren erfordert neben mathematischer Modellierung und numerischer Simulation das verlässliche Lösen schlecht gestellter inverser Probleme. Um dies zu erreichen müssen zusätzliche a-priori Informationen über die zu rekonstruierende Größe formuliert und in die algorithmischen Lösungsverfahren einbezogen werden. Bayesianische Invertierung ist eine spezielle mathematische Methodik dies zu tun. Die vorliegende Arbeit entwickelt eine aktuelle Übersicht Bayesianischer Invertierung und demonstriert die vorgestellten Konzepte und Algorithmen in verschiedenen numerischen Studien, darunter anspruchsvolle Anwendungen aus der biomedizinischen Bildgebung mit experimentellen Daten. Ein Schwerpunkt liegt dabei auf der Verwendung von Dünnbesetztheit/Sparsity als a-priori Information.</abstract>
+                    <abstract lang="eng">Biomedical imaging techniques became a key technology to assess the structure or function of living organisms in a non-invasive way. Besides innovations in the instrumentation, the development of new and improved methods for processing and analysis of the measured data has become a vital field of research. Building on traditional signal processing, this area nowadays also comprises mathematical modeling, numerical simulation and inverse problems. The latter describes the reconstruction of quantities of interest from measured data and a given generative model. Unfortunately, most inverse problems are ill-posed, which means that a robust and reliable reconstruction is not possible unless additional a-priori information on the quantity of interest is incorporated into the solution method. Bayesian inversion is a mathematical methodology to formulate and employ a-priori information in computational schemes to solve the inverse problem. This thesis develops a recent overview on Bayesian inversion and exemplifies the presented concepts and algorithms in various numerical studies including challenging biomedical imaging applications with experimental data. A particular focus is on using sparsity as a-priori information within the Bayesian framework.</abstract>
+                    <subject lang="ger">
+                        <topic>Bayesianische Statistik, Biomedizinische Bildgebung, inverse Probleme, Sparsity, Computertomographie, Elektroenzephalographie, Magnetoenzephalographie</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Bayesian inference</topic>
+                        <topic>biomedical imaging</topic>
+                        <topic>inverse problems</topic>
+                        <topic>sparsity</topic>
+                        <topic>computed tomography</topic>
+                        <topic>electroencephalography</topic>
+                        <topic>magnetoencephalography</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-80359613770</identifier>
+                    <identifier type="sys">HT018537098</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cdbb6a58-f48a-44a5-992c-6c13c421cb79</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cdbb6a58-f48a-44a5-992c-6c13c421cb79_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cdbb6a58-f48a-44a5-992c-6c13c421cb79/diss_lucka.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cdbb6a58-f48a-44a5-992c-6c13c421cb79" DMDID="DMD_cdbb6a58-f48a-44a5-992c-6c13c421cb79">
+            <mets:fptr FILEID="FILE_cdbb6a58-f48a-44a5-992c-6c13c421cb79_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

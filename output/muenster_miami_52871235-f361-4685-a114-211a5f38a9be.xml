@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_52871235-f361-4685-a114-211a5f38a9be">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Splitting polytopes</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137758677">
+                        <displayForm>Herrmann, Sven</displayForm>
+                        <namePart type="given">Sven</namePart>
+                        <namePart type="family">Herrmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135962013">
+                        <displayForm>Joswig, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Joswig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-11-30</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-01-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A split of a polytope P is a (regular) subdivision with exactly two maximal cells. It turns out that each weight function on the vertices of P admits a unique decomposition as a linear combination of weight functions corresponding to the splits of P (with a split prime remainder). This generalizes a result of Bandelt and Dress [Adv. Math. 92 (1992)] on the decomposition of finite metric spaces. Introducing the concept of compatibility of splits gives rise to a finite simplicial complex associated with any polytope P, the split complex of P. Complete descriptions of the split complexes of all hypersimplices are obtained. Moreover, it is shown that these complexes arise as subcomplexes of the tropical (pre-)Grassmannians of Speyer and Sturmfels [Adv. Geom. 4 (2004)].</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>109</start>
+                                <end>142</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43529463487</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_52871235-f361-4685-a114-211a5f38a9be</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_52871235-f361-4685-a114-211a5f38a9be_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/52871235-f361-4685-a114-211a5f38a9be/mjm_vol_1_05.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_52871235-f361-4685-a114-211a5f38a9be" DMDID="DMD_52871235-f361-4685-a114-211a5f38a9be">
+            <mets:fptr FILEID="FILE_52871235-f361-4685-a114-211a5f38a9be_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

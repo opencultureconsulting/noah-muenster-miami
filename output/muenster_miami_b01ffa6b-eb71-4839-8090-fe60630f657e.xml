@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b01ffa6b-eb71-4839-8090-fe60630f657e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Akute und postkonditionelle Effekte von Hypoxie, Azidose und Temperatur auf die Endothelzellfunktion</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1043561773">
+                        <displayForm>Rogge, Phillip</displayForm>
+                        <namePart type="given">Phillip</namePart>
+                        <namePart type="family">Rogge</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1117886956">
+                        <displayForm>Oberleithner, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Oberleithner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2013-11-08</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-10-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Endothelzellen sind für Blutgerinnung und Entzündungsmediation insbesondere durch die Exozytose der von-Willebrand-Faktor (vWF) enthaltenden Weibel-Palade-Körperchen essentiell. Anhand von humanen Nabelschnurvenenendothelzellen (HUVEC) konnte mittels vWF-ELISA, Rasterkraftmikroskopie und Immunfluoreszenz gezeigt werden, dass a) die vWF-Freisetzung stark temperaturabhängig (33¡C Ð25%, bei 41¡C +25% gegenüber 37¡C) ist und die Morphologie der entstehenden vWF-Netze auf der Zellmembran sich hin zu feineren, verzweigteren Netzen unter 41¡C bzw. plumperen Netzen unter 33¡C ändert. b) die bereits unter Hypoxie gezeigte Sekretionszunahme durch eine begleitenden Azidose verhindert wird, jedoch mit einer im Nachgang anhaltenden Sekretionssteigerung auf dem Niveau der azidosefreien Hypoxie, wobei sich das unter Azidose erhöhte Zellvolumen sich nach Realkalisierung schnell normalisiert. Darüber hinaus wurden technische Verbesserung zur Temperaturoptimierung bei Experimenten erreicht.</abstract>
+                    <subject lang="ger">
+                        <topic>Endothel</topic>
+                        <topic>Hypoxie</topic>
+                        <topic>Azidose</topic>
+                        <topic>Temperatur</topic>
+                        <topic>Exozytose</topic>
+                        <topic>von-Willebrand-Faktor</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85319455828</identifier>
+                    <identifier type="sys">HT017892351</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b01ffa6b-eb71-4839-8090-fe60630f657e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b01ffa6b-eb71-4839-8090-fe60630f657e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b01ffa6b-eb71-4839-8090-fe60630f657e/diss_rogge_phillip.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b01ffa6b-eb71-4839-8090-fe60630f657e" DMDID="DMD_b01ffa6b-eb71-4839-8090-fe60630f657e">
+            <mets:fptr FILEID="FILE_b01ffa6b-eb71-4839-8090-fe60630f657e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

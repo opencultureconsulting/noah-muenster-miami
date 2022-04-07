@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dfd9efc5-4bd7-476d-9217-dae3cbb164f3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bringt Bücher nach Brüssel – Überlegungen zur Informationskultur bei den Europäischen Institutionen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-23</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Neue Juristische Wochenschrift 53 (2000) 42, 3112-3113</note>
+                    <subject lang="ger">
+                        <topic>Information</topic>
+                        <topic>Brüssel</topic>
+                        <topic>Europa</topic>
+                        <topic>Bücher</topic>
+                        <topic>Literatur</topic>
+                        <topic>Zeitschriften</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44209632701</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dfd9efc5-4bd7-476d-9217-dae3cbb164f3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dfd9efc5-4bd7-476d-9217-dae3cbb164f3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dfd9efc5-4bd7-476d-9217-dae3cbb164f3/hoeren_2000_buecher.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dfd9efc5-4bd7-476d-9217-dae3cbb164f3" DMDID="DMD_dfd9efc5-4bd7-476d-9217-dae3cbb164f3">
+            <mets:fptr FILEID="FILE_dfd9efc5-4bd7-476d-9217-dae3cbb164f3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

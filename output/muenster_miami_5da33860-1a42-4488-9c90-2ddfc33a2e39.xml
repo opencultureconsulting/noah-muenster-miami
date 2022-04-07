@@ -1,0 +1,97 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5da33860-1a42-4488-9c90-2ddfc33a2e39">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Numerical methods for transportation networks</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1201167663">
+                        <displayForm>Dirks, Carolin Maria</displayForm>
+                        <namePart type="given">Carolin Maria</namePart>
+                        <namePart type="family">Dirks</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1201167663">
+                        <displayForm>Rossmanith, Carolin Maria</displayForm>
+                        <namePart type="given">Carolin Maria</namePart>
+                        <namePart type="family">Rossmanith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141840978">
+                        <displayForm>Wirth, Benedikt</displayForm>
+                        <namePart type="given">Benedikt</namePart>
+                        <namePart type="family">Wirth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141840978">
+                        <displayForm>Wirth, Benedikt Konstantin Josef</displayForm>
+                        <namePart type="given">Benedikt Konstantin Josef</namePart>
+                        <namePart type="family">Wirth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-12-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-10-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das optimale Transportnetzwerkproblem besteht in der Konstruktion eines möglichst kostengünstigen Transportpfades zwischen zwei gegebenen Masseverteilungen. Die Wahl des Kostenfunktionals bestimmt hierbei über den Grad der Verästelung des Netzwerks. Die resultierende Energie ist typischerweise nicht-konvex, was die numerische Bestimmung eines Minimierers erschwert. Diese Arbeit beschäftigt sich mit verschiedenen Ansätzen zur numerischen Simulation des Branched Transport und des Urban Planning Problems. Eine konvexe, höher-dimensionale Reformulierung des klassischen Transportnetzwerkproblems als ein Problem aus der Bildverarbeitung wird vorgestellt und im Anschluss mit Hilfe eines neu entwickelten adaptiven Finite-Elemente-Verfahrens gelöst. Als ein weiterer Ansatz, basierend auf der Idee von Ambrosio und Tortorelli, wird eine Phasenfeldapproximation zur Relaxierung des verallgemeinerten Urban Planning Problems verwendet.</abstract>
+                    <abstract lang="eng">The optimal transportation network problem consists in constructing a pathway interconnecting two measures to the lowest possible costs. The cost functional is chosen such that the optimal network admits branching structures, which causes the energy to become highly non-convex and as a consequence, the construction of a minimizer is a challenging task. This work deals with the numerical simulation of the branched transport and urban planning problem. We present and analyse two numerical treatments based on different formulations of the energies. The first one is based on a convex reformulation as a lifted image inpainting problem. The resulting optimization problem can be solved efficiently via an adaptive finite element approach. The second one exploits the ideas of Ambrosio and Tortorelli to formulate a phase field approximation of the generalized urban planning model featuring multiple phase fields and a diffuse component allowing transport outside of the desired network.</abstract>
+                    <subject lang="ger">
+                        <topic>Optimaler Transport</topic>
+                        <topic>branched transport</topic>
+                        <topic>urban planning</topic>
+                        <topic>Mumford-Shah</topic>
+                        <topic>functional lifting</topic>
+                        <topic>adaptive finite Elemente</topic>
+                        <topic>Phasenfeld</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Optimal transport</topic>
+                        <topic>branched transport</topic>
+                        <topic>urban planning</topic>
+                        <topic>Mumford-Shah</topic>
+                        <topic>functional lifting</topic>
+                        <topic>adaptive finite elements</topic>
+                        <topic>phase field</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12199707570</identifier>
+                    <identifier type="sys">HT020310736</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5da33860-1a42-4488-9c90-2ddfc33a2e39</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5da33860-1a42-4488-9c90-2ddfc33a2e39_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5da33860-1a42-4488-9c90-2ddfc33a2e39/diss_dirks.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5da33860-1a42-4488-9c90-2ddfc33a2e39" DMDID="DMD_5da33860-1a42-4488-9c90-2ddfc33a2e39">
+            <mets:fptr FILEID="FILE_5da33860-1a42-4488-9c90-2ddfc33a2e39_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

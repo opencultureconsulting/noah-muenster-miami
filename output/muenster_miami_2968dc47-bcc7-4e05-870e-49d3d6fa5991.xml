@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2968dc47-bcc7-4e05-870e-49d3d6fa5991">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Übersetzung der verletzungsbezogenen Kodes des XIX. Kapitels der ICD-10-GM 2008 in AIS 2005</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142834076">
+                        <displayForm>Nikolov, Boyan</displayForm>
+                        <namePart type="given">Boyan</namePart>
+                        <namePart type="family">Nikolov</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1194326692">
+                        <displayForm>Raschke, Michael J.</displayForm>
+                        <namePart type="given">Michael J.</namePart>
+                        <namePart type="family">Raschke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-10-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-08-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Ziel der vorliegenden Arbeit bestand darin, die verletzungsbezogenen Kodes des XIX. Kapitels der ICD-10-GM 2008 in AIS-2005-Schlüsselnummern zu übersetzen. Die inhaltlich am besten passenden Kodes aus den beiden Klassifikationen wurden miteinander verknüpft und in einer Mapping-Tabelle aufgenommen. Deren Funktion sowie die Möglichkeit, Injury Severity Scores (ISS) nach Übersetzung der ICD-10-GM-Kodes in AIS-2005-Schlüsselnummern zu berechnen, wurde mittels 81 Beispielfälle geprüft. Es konnte nachgewiesen werden, dass das XIX. Kapitel der ICD-10-GM 2008 in die AIS 2005 generell übersetzbar ist und dass nach der Übersetzung der verletzungsbezogenen ICD-10-GM-Kodes die entsprechenden ISS berechnet werden können. Mit der Erstellung der Umrechnungstabelle ist es in der Zukunft möglich, von den in der Klinik standardmäßig erhobenen ICD-10-GM Schlüsselnummern, die AIS- und ISS-Kodes zu generieren und damit die behandelten Verletzungsschweren automatisch zu klassifizieren.</abstract>
+                    <subject lang="ger">
+                        <topic>ICD-10-GM</topic>
+                        <topic>AIS 2005</topic>
+                        <topic>ISS</topic>
+                        <topic>Übersetzung</topic>
+                        <topic>Traumaregister</topic>
+                        <topic>Polytrauma</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-26449584718</identifier>
+                    <identifier type="sys">HT016590228</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2968dc47-bcc7-4e05-870e-49d3d6fa5991</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2968dc47-bcc7-4e05-870e-49d3d6fa5991_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2968dc47-bcc7-4e05-870e-49d3d6fa5991/diss_nikolov.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2968dc47-bcc7-4e05-870e-49d3d6fa5991" DMDID="DMD_2968dc47-bcc7-4e05-870e-49d3d6fa5991">
+            <mets:fptr FILEID="FILE_2968dc47-bcc7-4e05-870e-49d3d6fa5991_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8b6e4723-8d17-4298-847d-16064efa1445">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Acyclic chain complexes over the orbit category</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111803047">
+                        <displayForm>Hambleton, Ian</displayForm>
+                        <namePart type="given">Ian</namePart>
+                        <namePart type="family">Hambleton</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138154954">
+                        <displayForm>Yalçin, Ergün</displayForm>
+                        <namePart type="given">Ergün</namePart>
+                        <namePart type="family">Yalçin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-11-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="eng">Chain complexes of finitely generated free modules over orbit categories provide natural algebraic models for finite G-CW complexes with prescribed isotropy. We prove a p-hypoelementary Dress induction theorem for K-theory over the orbit category, and use it to re-interpret some results of Oliver and Kropholler-Wall on acyclic complexes.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>145</start>
+                                <end>162</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16409478691</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8b6e4723-8d17-4298-847d-16064efa1445</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8b6e4723-8d17-4298-847d-16064efa1445_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8b6e4723-8d17-4298-847d-16064efa1445/mjm_vol_3_08.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8b6e4723-8d17-4298-847d-16064efa1445" DMDID="DMD_8b6e4723-8d17-4298-847d-16064efa1445">
+            <mets:fptr FILEID="FILE_8b6e4723-8d17-4298-847d-16064efa1445_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

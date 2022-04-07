@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dc9015f8-976b-4e94-a2d0-e8966179651f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="spa">
+                        <title>Estructura de los valores y la religiosidad. Una investigación comparada realizada en México</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109237226">
+                        <displayForm>Bilsky, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Bilsky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Peters, Marlies</displayForm>
+                        <namePart type="given">Marlies</namePart>
+                        <namePart type="family">Peters</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1998</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-07-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">spa</languageTerm>
+                    </language>
+                    <abstract lang="spa">Este texto se dedica a la validez de la estructura de valores humanos en México según la teoría de Schwartz (1992) y la relación entre esta estructura y la religiosidad de los sujetos entrevistados. En resumen, nuestros datos muestran que en México, como en otros países castellano parlantes, se puede emplear la teoría de Schwartz para analizar y describir la estructura de valores. Además, su modelo resulta eficaz para predecir interrelaciones sistemáticas con la religiosidad.</abstract>
+                    <note>Berichte aus dem Psychologischen Institut IV</note>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34149514248</identifier>
+                    <identifier type="sys">HT020206934</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dc9015f8-976b-4e94-a2d0-e8966179651f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dc9015f8-976b-4e94-a2d0-e8966179651f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dc9015f8-976b-4e94-a2d0-e8966179651f/bericht_bpi-iv_1998_12.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dc9015f8-976b-4e94-a2d0-e8966179651f" DMDID="DMD_dc9015f8-976b-4e94-a2d0-e8966179651f">
+            <mets:fptr FILEID="FILE_dc9015f8-976b-4e94-a2d0-e8966179651f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

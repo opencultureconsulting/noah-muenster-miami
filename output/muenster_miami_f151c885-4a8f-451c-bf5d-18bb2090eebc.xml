@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f151c885-4a8f-451c-bf5d-18bb2090eebc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Aspects of p-adic operator algebras</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1164454803">
+                        <displayForm>Claußnitzer, Anton</displayForm>
+                        <namePart type="given">Anton</namePart>
+                        <namePart type="family">Claußnitzer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124890172">
+                        <displayForm>Thom, Andreas Berthold</displayForm>
+                        <namePart type="given">Andreas Berthold</namePart>
+                        <namePart type="family">Thom</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141391561">
+                        <displayForm>Deninger, Christopher</displayForm>
+                        <namePart type="given">Christopher</namePart>
+                        <namePart type="family">Deninger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">hnr</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In this article, we propose a p-adic analog of complex Hilbert space and consider generalizations of some well-known theorems from functional analysis and the basic study of operators on Hilbert spaces. We compute the K-theory of the analog of the algebra of compact operators and the algebra of all bounded operators. This article contains a survey on results from the thesis of the first author.</abstract>
+                    <note>This research was supported in part by the ERC Consolidator Grant No. 681207.</note>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>425</start>
+                                <end>444</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-90169651373</identifier>
+                    <identifier type="doi">10.17879/90169651061</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f151c885-4a8f-451c-bf5d-18bb2090eebc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f151c885-4a8f-451c-bf5d-18bb2090eebc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f151c885-4a8f-451c-bf5d-18bb2090eebc/mjm_2020_13_425-444.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f151c885-4a8f-451c-bf5d-18bb2090eebc" DMDID="DMD_f151c885-4a8f-451c-bf5d-18bb2090eebc">
+            <mets:fptr FILEID="FILE_f151c885-4a8f-451c-bf5d-18bb2090eebc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

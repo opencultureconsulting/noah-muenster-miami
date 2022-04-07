@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_30a941c2-69c8-4622-b810-94e2196c61d6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Land- und Stadtgericht Büren 1815–1849</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1048553639">
+                        <displayForm>Czeschick, Björn</displayForm>
+                        <namePart type="given">Björn</namePart>
+                        <namePart type="family">Czeschick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115667296">
+                        <displayForm>Oestmann, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Oestmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-01-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-06-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ein großer, ungünstig zugeschnittener Gerichtssprengel, beengte Räumlichkeiten und ein hoher Arbeitsanfall bestimmten den Alltag am Land- und Stadtgericht Büren im frühen 19. Jahrhundert. Das Buch zeigt anhand der überlieferten Akten die winterliche Reise eines Richters von Büren nach Wünnenberg, Beschwerden über schlecht ziehende Öfen und kalte Füße und Schriftverkehr mit der örtlichen Oberschicht. Es betrachtet Richterpersönlichkeiten, etwa den aus Hattingen stammenden Gerichtsdirektor Friedrich Rautert und seine Pläne, das Gericht nach Wünnenberg zu verlegen, weil man in Büren die Beamten als „Fremde“ ansehe, die „alles theurer“ bezahlen müssten als die Einheimischen. Und es handelt von sonstigem Gerichtspersonal, den sogenannten „Subalternen“. Viele kleine Geschichten, wie die eines Kanzleigehilfen, der sich den „schrecklichen Unfug“ erlaubt hatte, während der Dienststunden „Privatschreibereien“ zu erledigen, liefern einen faszinierenden Einblick in den Gerichtsalltag vor 200 Jahren.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Das Land- und Stadtgericht Büren 1815–1849 / Björn Czeschick. – Münster : Münsterscher Verlag für Wissenschaft, 2017. – VII, 251 S. (Wissenschaftliche Schriften der WWU Münster : Reihe III; Bd. 22), ISBN 978-3-8405-0164-7, Preis: 25,60 EUR</note>
+                    <subject lang="ger">
+                        <topic>Preußen</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Paderborn</topic>
+                        <topic>Büren</topic>
+                        <topic>19. Jahrhundert</topic>
+                        <topic>Justiz</topic>
+                        <topic>Rechtsgeschichte</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-31279756886</identifier>
+                    <identifier type="isbn">978-3-8405-0164-7</identifier>
+                    <identifier type="sys">HT019476722</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_30a941c2-69c8-4622-b810-94e2196c61d6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_30a941c2-69c8-4622-b810-94e2196c61d6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/30a941c2-69c8-4622-b810-94e2196c61d6/diss_czeschick_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_30a941c2-69c8-4622-b810-94e2196c61d6" DMDID="DMD_30a941c2-69c8-4622-b810-94e2196c61d6">
+            <mets:fptr FILEID="FILE_30a941c2-69c8-4622-b810-94e2196c61d6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

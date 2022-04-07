@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_232eca71-e954-4e1f-b80a-c2f2e8ae9486">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dissecting the OCT4-governed enhancer landscape in mouse embryonic stem cells</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1183816197">
+                        <displayForm>Tolen, Erik Adriaan</displayForm>
+                        <namePart type="given">Erik Adriaan</namePart>
+                        <namePart type="family">Tolen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112747973">
+                        <displayForm>Schöler, Hans Robert</displayForm>
+                        <namePart type="given">Hans Robert</namePart>
+                        <namePart type="family">Schöler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112747973">
+                        <displayForm>Schöler, Hans R.</displayForm>
+                        <namePart type="given">Hans R.</namePart>
+                        <namePart type="family">Schöler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-04-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-03-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das transkriptionelle Netzwerk in murinen embryonalen Stammzellen (mESC) wird durch drei Transkriptionsfaktoren (TF) OCT4, SOX2 und NANOG organisiert. Diese TF binden die DNA an sogenannten Enhancer Elementen. Viele Studien haben gezeigt an welchen Stellen OCT4 die DNA bindet, jedoch nicht wo genau OCT4 eine funktionelle Rolle spielt. Wir haben in einem OCT4 loss-of-function Model drei verschiedene genomische Techniken angewandt: Transient transcriptome seq zur Dokumentation der Transkriptionsprofile der mESC, Chromatin Immunoprecipitation seq zur Untersuchung der TF-Bindung an die DNA und Assay for transposase-accessibile chromatin seq zur Klärung der DNA-Zugänglichkeit. Wir haben in dem OCT4 loss-of-function Model eine Veränderung der Transkriptionsprofile, der TF-Bindung und der DNA-Zugänglichkeit dokumentiert. Wir konnten zeigen, dass bei Verlust von OCT4 an genomischen Stellen enger OCT4-SOX2 Kooperativität auch die Bindung von SOX2 und die DNA-Zugänglichkeit sinkt.</abstract>
+                    <subject lang="ger">
+                        <topic>Murine embryonale Stammzellen</topic>
+                        <topic>OCT4</topic>
+                        <topic>SOX2</topic>
+                        <topic>DNA Zugänglichkeit</topic>
+                        <topic>TF Kooperativität</topic>
+                        <topic>Transkriptionsprofile</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-75129713304</identifier>
+                    <identifier type="sys">HT020035540</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_232eca71-e954-4e1f-b80a-c2f2e8ae9486</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_232eca71-e954-4e1f-b80a-c2f2e8ae9486_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/232eca71-e954-4e1f-b80a-c2f2e8ae9486/diss_tolen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_232eca71-e954-4e1f-b80a-c2f2e8ae9486" DMDID="DMD_232eca71-e954-4e1f-b80a-c2f2e8ae9486">
+            <mets:fptr FILEID="FILE_232eca71-e954-4e1f-b80a-c2f2e8ae9486_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

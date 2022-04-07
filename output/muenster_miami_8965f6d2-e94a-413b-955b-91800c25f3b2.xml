@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8965f6d2-e94a-413b-955b-91800c25f3b2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Multifraktionierung des Hausmülls als abfallpolitisches Problem</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1990</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-04-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">DVBl Deutsches Verwaltungsblatt 105 (1990) 5, 231-235</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-08439416061</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8965f6d2-e94a-413b-955b-91800c25f3b2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8965f6d2-e94a-413b-955b-91800c25f3b2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8965f6d2-e94a-413b-955b-91800c25f3b2/1990_oebbe_multi.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8965f6d2-e94a-413b-955b-91800c25f3b2" DMDID="DMD_8965f6d2-e94a-413b-955b-91800c25f3b2">
+            <mets:fptr FILEID="FILE_8965f6d2-e94a-413b-955b-91800c25f3b2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_198c9242-3ff4-4942-b0a4-f3d274fd16da">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Multi-touch selection and interaction on and above the surface</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/107448214X">
+                        <displayForm>Strothoff, Sven</displayForm>
+                        <namePart type="given">Sven</namePart>
+                        <namePart type="family">Strothoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Klaus H.</displayForm>
+                        <namePart type="given">Klaus H.</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-07-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-07-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Multi-Touch-Eingaben sind der De-facto-Standard für die Interaktion mit mobilen Geräten. Durch die Verfügbarkeit von immer leistungsstärkeren mobilen Geräten führen die Benutzer auf diesen zunehmend komplexere Operationen durch. Hierdurch entsteht ein Bedarf für Interaktionstechniken und Benutzerschnittstellen die sowohl präzise als auch ausdrucksstark sind. Selektion ist eine der fundamentalen Operationen in graphischen Benutzeroberflächen. Durch eine Untersuchung existierender Selektionstechniken wird ein Überblick über bestehende Arbeiten zum Thema Selektion vermittelt. Der Großteil der Eingabetechniken für Multi-Touch-Eingabegeräte basiert auf traditionellen Selektionstechniken, die für mausbasierte Benutzerschnittstellen entwickelt wurden, und benutzen nur einen einzigen Touch. Die Verwendung von echter Multi-Touch-Eingabe gibt die Möglichkeit, aber auch eine Herausforderung, leistungsfähigere und ausdrucksstärkere Interaktionstechniken zu erstellen. Wir setzen die Möglichkeiten von mehreren Touches ein und stellen eine Selektionstechnik für beliebige Regionen und ein Interaktionskonzept zur Gruppierung von Objekten vor. Im zweiten Teil dieser Arbeit wird die Eingabe mit Multi-Touch kombiniert mit einer stereoskopischen Projektion um in die dritte Dimension, oberhalb der Bildschirmoberfläche, vorzudringen.</abstract>
+                    <abstract lang="eng">Multi-touch input is the de facto standard for interaction with mobile devices. As mobile devices become more powerful users perform increasingly complex computing tasks on them, necessitating interaction techniques and interfaces that are both precise and expressive. Selection is a fundamental operation in graphical user interfaces. In a survey of existing selection techniques an overview of previous work on selection is presented. Most techniques for touch input are based on traditional selection techniques that were developed for mouse-based interfaces and only use a single touch. Using true multi-touch input presents an opportunity, but also a challenge, to create more powerful and expressive interaction techniques. We present a selection technique for arbitrary regions and an interface for tagging and editing of complex groups facilitated by the capabilities of multiple touches. In the second part of this thesis multi-touch input is combined with a stereoscopic projection to access the third dimension above the surface.</abstract>
+                    <subject lang="ger">
+                        <topic>HCI</topic>
+                        <topic>3DUI</topic>
+                        <topic>Multi-Touch-Interaktion</topic>
+                        <topic>Selektion</topic>
+                        <topic>Tagging</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>HCI</topic>
+                        <topic>3DUI</topic>
+                        <topic>multi-touch interaction</topic>
+                        <topic>selection</topic>
+                        <topic>tagging</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-88289626435</identifier>
+                    <identifier type="sys">HT018712337</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_198c9242-3ff4-4942-b0a4-f3d274fd16da</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_198c9242-3ff4-4942-b0a4-f3d274fd16da_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/198c9242-3ff4-4942-b0a4-f3d274fd16da/diss_strothoff.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_198c9242-3ff4-4942-b0a4-f3d274fd16da" DMDID="DMD_198c9242-3ff4-4942-b0a4-f3d274fd16da">
+            <mets:fptr FILEID="FILE_198c9242-3ff4-4942-b0a4-f3d274fd16da_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

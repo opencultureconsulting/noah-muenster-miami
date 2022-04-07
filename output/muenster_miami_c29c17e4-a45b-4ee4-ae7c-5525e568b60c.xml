@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c29c17e4-a45b-4ee4-ae7c-5525e568b60c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spectrum of N=1 super yang mills theory on the lattice with a light gluino</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128759356">
+                        <displayForm>Peetz, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Peetz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, Gernot</displayForm>
+                        <namePart type="given">Gernot</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Dissertation wird das Spektrum einer N=1 supersymmetrischen Yang-Mills-Theorie numerisch mit den Methoden der Gittereichtheorie untersucht. Mittels Simulationen auf Supercomputern werden numerische die Massen der leichtesten Zustände bestimmt, die durch analytische Rechnungen mit effektiven Wirkungen vorhergesagt werden (Gluino-Glue-Zustände, Glue-Bälle, Gluino-Gluino-Zustände). Mit den gefundenen Massen der Teilchen und entsprechender Gliederung in Multiplets werden Aussagen über die Art und Stärke der Brechung von Supersymmtrie in der numerischen Simulation gewonnen. Diese werden durch die numerische Analyse supersymmetrischer Ward-Identitäten ergänzt. Als Nebenresultat werden zwei numerische Verfahren zur Matrixinversion, die sog. &quot;Volume Source Technique&quot; und &quot;Stochastic Estimators&quot; analytisch analysiert und numerisch verglichen.</abstract>
+                    <subject lang="ger">
+                        <topic>Gittereichtheorie</topic>
+                        <topic>Supersymmetrie</topic>
+                        <topic>Ward-Identitäten</topic>
+                        <topic>Massenspektrum</topic>
+                        <topic>Quantenfeldtheorie</topic>
+                        <topic>Monte-Carlo</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526310</identifier>
+                    <identifier type="sys">HT013965953</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c29c17e4-a45b-4ee4-ae7c-5525e568b60c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c29c17e4-a45b-4ee4-ae7c-5525e568b60c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c29c17e4-a45b-4ee4-ae7c-5525e568b60c/diss_peetz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c29c17e4-a45b-4ee4-ae7c-5525e568b60c" DMDID="DMD_c29c17e4-a45b-4ee4-ae7c-5525e568b60c">
+            <mets:fptr FILEID="FILE_c29c17e4-a45b-4ee4-ae7c-5525e568b60c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

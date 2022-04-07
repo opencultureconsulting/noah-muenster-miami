@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_553c3eed-ab9b-4da9-9213-053bd04c525d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Situation der Universitäten und deren Finanzierung aus professoraler Sicht</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>The professors’ perception of the situation of universities and their financing</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1073952304">
+                        <displayForm>Wendt, Björn</displayForm>
+                        <namePart type="given">Björn</namePart>
+                        <namePart type="family">Wendt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024515222">
+                        <displayForm>Brändle, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Brändle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Artikel fokussiert auf Basis der Studie &quot;Die Wahrnehmung des Bologna-Prozesses durch Professorinnen und Professoren&quot; die aktuelle Situation von Universitäten. Zu Beginn werden allgemein Problemeinschätzungen sowie potentielle Verbesserungen und Lösungsstrategien in den Blick genommen. Besondere Berücksichtigung finden an dieser Stelle Aspekte der Hochschulfinanzierung. Diese werden entlang der Befürwortung von Studiengebühren, der allgemeinen Finanzierung von Hochschuleinrichtungen und leistungsorientierten Bezahlungsmodellen diskutiert.</abstract>
+                    <abstract lang="eng">This article focuses the current situation of universities on the base of the study &quot;The professors’ perception of the Bologna Process&quot;. In the beginning we focus general problems, potential improvements and solution strategies. Particularly questions of financing of universities are discussed. These issues are debated along with enrollment fees, general questions of funding of higher education institutions’ and performance-oriented allocation of funds.</abstract>
+                    <subject lang="ger">
+                        <topic>Hochschulfinanzierung</topic>
+                        <topic>Studiengebühren</topic>
+                        <topic>Bezahlungsmodelle</topic>
+                        <topic>Hochschullehrer/innen</topic>
+                    </subject>
+                    <classification authority="ddc">300</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>IfS Working Papers</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>IfS Working Papers</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99019616479</identifier>
+                    <identifier type="doi">10.17879/99019617281</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_553c3eed-ab9b-4da9-9213-053bd04c525d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_553c3eed-ab9b-4da9-9213-053bd04c525d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/553c3eed-ab9b-4da9-9213-053bd04c525d/working_papers_ifs_2012_2.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_553c3eed-ab9b-4da9-9213-053bd04c525d" DMDID="DMD_553c3eed-ab9b-4da9-9213-053bd04c525d">
+            <mets:fptr FILEID="FILE_553c3eed-ab9b-4da9-9213-053bd04c525d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c2b93ec9-af9d-40c3-989f-4861be9da15f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Simulation von Zufallsversuchen mit dem TI-89/92</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böhm, Josef</displayForm>
+                        <namePart type="given">Josef</namePart>
+                        <namePart type="family">Böhm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111910293">
+                        <displayForm>Langlotz, Hubert</displayForm>
+                        <namePart type="given">Hubert</namePart>
+                        <namePart type="family">Langlotz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-29</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Materialien zur Lehrerfortbildung und zum Unterrichtseinsatz: es werden Zufallsversuche und deren Simulation auf Taschencomputern vorgestellt und mit Schülerergebnissen kombiniert.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, zu Unterrichtszwecken freigegeben</note>
+                    <note type="citation/reference">T³-Materialien Stochastik (ISBN 3-934064-34-5)</note>
+                    <subject lang="ger">
+                        <topic>Stochastik</topic>
+                        <topic>neue Medien</topic>
+                        <topic>Taschencomputer</topic>
+                        <topic>Zufallsversuche</topic>
+                        <topic>Simulation</topic>
+                        <topic>TI-89</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>Lehrerfortbildung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541712</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c2b93ec9-af9d-40c3-989f-4861be9da15f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c2b93ec9-af9d-40c3-989f-4861be9da15f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c2b93ec9-af9d-40c3-989f-4861be9da15f/Stochastik_3.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c2b93ec9-af9d-40c3-989f-4861be9da15f" DMDID="DMD_c2b93ec9-af9d-40c3-989f-4861be9da15f">
+            <mets:fptr FILEID="FILE_c2b93ec9-af9d-40c3-989f-4861be9da15f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fd783847-ce9d-41d2-a1a8-3cd1bff06b9a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Molecular characterization of IDA defects caused by mutations in genes encoding for the 96 nm axonemal ruler proteins CCDC39 and CCDC40 in human respiratory cilia</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1204143048">
+                        <displayForm>Wolter, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Wolter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114700427">
+                        <displayForm>Omran, Heymut</displayForm>
+                        <namePart type="given">Heymut</namePart>
+                        <namePart type="family">Omran</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-02-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-01-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Primäre ziliäre Dyskinesie wird durch Mutationen in Genen verursacht, welche für die Struktur des Ziliums von Bedeutung sind. Mutationen in CCDC39 und CCDC40 verursachen Defekte im &quot;96 nm axonemal ruler&quot;, welcher für die 96 nm Periodizität der inneren Dyneinarme (IDAs) in Zilien verantwortlich ist. Die Gruppe der IDAs lässt sich in einen doppelköpfigen Dyneinarm I1 sowie sechs einköpfige Dyneinarme unterteilen, welche wiederum je nach ihrer Assoziation mit DNALI1 oder Centrin den Gruppen I2 und I3 zugeordnet werden. Durch Immunfluoreszenzfärbungen mit je einem Antikörper gegen die schweren Dyneinketten DNAH1, DNAH6 und DNAH7 wird in dieser Arbeit gezeigt, dass Mutationen in CCDC39 und CCDC40 zu einem Defekt der IDAs der Gruppe I2 sowie der Gruppe I3 in menschlichen respiratorischen Zilien führen. Die durch vorangehende Untersuchungen bereits vermutete Betroffenheit der Gruppe I2 wird in dieser Arbeit bestätigt. Die Betroffenheit der Gruppe I3 wird erstmalig nachgewiesen.</abstract>
+                    <subject lang="ger">
+                        <topic>PCD</topic>
+                        <topic>CCDC39</topic>
+                        <topic>CCDC40</topic>
+                        <topic>axonemales Lineal</topic>
+                        <topic>innere Dyneinarme</topic>
+                        <topic>Gruppe I2</topic>
+                        <topic>Gruppe I3</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22139635399</identifier>
+                    <identifier type="sys">HT020357207</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fd783847-ce9d-41d2-a1a8-3cd1bff06b9a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fd783847-ce9d-41d2-a1a8-3cd1bff06b9a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fd783847-ce9d-41d2-a1a8-3cd1bff06b9a/diss_wolter.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fd783847-ce9d-41d2-a1a8-3cd1bff06b9a" DMDID="DMD_fd783847-ce9d-41d2-a1a8-3cd1bff06b9a">
+            <mets:fptr FILEID="FILE_fd783847-ce9d-41d2-a1a8-3cd1bff06b9a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

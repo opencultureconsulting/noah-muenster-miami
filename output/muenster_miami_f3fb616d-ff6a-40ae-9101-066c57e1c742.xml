@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f3fb616d-ff6a-40ae-9101-066c57e1c742">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gibt es ein &quot;affektives Priming&quot; im semantischen Gedächtnis?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130635014">
+                        <displayForm>Wentura, Dirk</displayForm>
+                        <namePart type="given">Dirk</namePart>
+                        <namePart type="family">Wentura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-07-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Berichte aus dem Psychologischen Institut IV</note>
+                    <subject lang="ger">
+                        <topic>Affektives Priming</topic>
+                        <topic>semantisches Priming</topic>
+                        <topic>semantisches Gedächtnis</topic>
+                        <topic>Bewertung</topic>
+                        <topic>automatische Prozesse</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34149682296</identifier>
+                    <identifier type="sys">HT020212157</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f3fb616d-ff6a-40ae-9101-066c57e1c742</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f3fb616d-ff6a-40ae-9101-066c57e1c742_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f3fb616d-ff6a-40ae-9101-066c57e1c742/bericht_bpi-iv_1994_01.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f3fb616d-ff6a-40ae-9101-066c57e1c742" DMDID="DMD_f3fb616d-ff6a-40ae-9101-066c57e1c742">
+            <mets:fptr FILEID="FILE_f3fb616d-ff6a-40ae-9101-066c57e1c742_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_11d336a8-be1e-4cd1-bba3-59d384fa6417">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modellierung der Bildung und Dynamik komplexer Muster in ZnS:Mn Dünnschicht-Strukturen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133259188">
+                        <displayForm>Meyer, Karsten</displayForm>
+                        <namePart type="given">Karsten</namePart>
+                        <namePart type="family">Meyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141203618">
+                        <displayForm>Kuhn, Tilmann E.</displayForm>
+                        <namePart type="given">Tilmann E.</namePart>
+                        <namePart type="family">Kuhn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-07-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-07-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird ein Modell des Ladungsträgertransports in Dünnschicht-Strukturen vom Typ der lumineszierenden MISIM-Bauelemente entwickelt, wobei die Verwendung von mit Mangandotierten Zinksulfid als Halbleiterschicht vorausgesetzt wird. Die wesentlichen Bestandteile dieses Modells sind der Tunnelprozess von Elektronen aus Grenzflächenzuständen in das Leitungsband des Halbleiters, die Ladungsträgermultiplikation durch Stoßionisation und der Aufbau einer Raumladungsdichte durch den Einfang freier Valenzbandlöcher in diskrete Energieniveaus innerhalb der Bandlücke. Eine numerische Auswertung des auf eine Raumdimension beschränkten Modells zeigt, dass dieses in einem bestimmten Parameterbereich ein bistabiles Verhalten aufweist, welches die Ursache für eine Hysterese in der Stromdichte-Spannungs-Kennlinie ist. In dreidimensionalen Simulationen konnten dagegen komplexe raum-zeitliche Stromdichtemuster wie Ringe und Spiralen gefunden werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Elektrolumineszenz</topic>
+                        <topic>ZnS:Mn</topic>
+                        <topic>Hysterese</topic>
+                        <topic>Musterbildung</topic>
+                        <topic>nichtlineare Dynamik</topic>
+                        <topic>parallele Algorithmen</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-88519585768</identifier>
+                    <identifier type="sys">HT015244072</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_11d336a8-be1e-4cd1-bba3-59d384fa6417</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_11d336a8-be1e-4cd1-bba3-59d384fa6417_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/11d336a8-be1e-4cd1-bba3-59d384fa6417/diss_meyer_karsten.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_11d336a8-be1e-4cd1-bba3-59d384fa6417" DMDID="DMD_11d336a8-be1e-4cd1-bba3-59d384fa6417">
+            <mets:fptr FILEID="FILE_11d336a8-be1e-4cd1-bba3-59d384fa6417_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

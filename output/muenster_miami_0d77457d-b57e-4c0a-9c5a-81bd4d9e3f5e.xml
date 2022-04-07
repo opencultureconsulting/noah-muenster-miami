@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0d77457d-b57e-4c0a-9c5a-81bd4d9e3f5e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Ich Thomas Murner bekenne mich und thu kund&quot;</title>
+                        <subTitle>Thomas Murner als Autor und Kontroverstheologe in Straßburg und Luzern</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1232336548">
+                        <displayForm>Henseleit, Kathrin Maria Elisabeth</displayForm>
+                        <namePart type="given">Kathrin Maria Elisabeth</namePart>
+                        <namePart type="family">Henseleit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111037344">
+                        <displayForm>Stollberg-Rilinger, Barbara</displayForm>
+                        <namePart type="given">Barbara</namePart>
+                        <namePart type="family">Stollberg-Rilinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111037344">
+                        <displayForm>Rilinger, Barbara Stollberg-</displayForm>
+                        <namePart type="given">Barbara Stollberg-</namePart>
+                        <namePart type="family">Rilinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-04-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-08-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Thomas Murner wandte sich früh mit seinen vorrangig volkssprachlichen kontroverstheologischen Schriften zunächst in Straßburg gegen die Reformation lutherischer Prägung und dann in Luzern gegen die Reformation zwinglischer Prägung. Neben dem öffentlich ausgetragenen theologischen Konflikt war ein zentraler Aspekt in diesen Schriften die Darstellung seiner eigenen Person, er inszenierte sich darin und ging damit über den bloßen Ausdruck seiner Opposition hinaus. Die Möglichkeiten, aus denen er dafür schöpfen konnte, gründeten in seiner Biographie und den jeweiligen Kontexten, in denen er sich äußerte. Insgesamt zeigen sich einige (häufig Überschneidungen aufweisende) wiederkehrende Muster und &quot;Rollen&quot;, die Murner für seine (Selbst-)Darstellung nutzte. Als übergeordnetes Ziel dieser wiederholt sowie nur situativ aufgegriffenen Aspekte lässt sich die Legitimation seines (publizistischen) Engagements gegen die Reformation ausmachen.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2019</note>
+                    <subject lang="ger">
+                        <topic>Thomas Murner</topic>
+                        <topic>1520er Jahre</topic>
+                        <topic>Flugschriften</topic>
+                        <topic>Kontroverstheologe</topic>
+                        <topic>Reformationsgeschichte</topic>
+                        <topic>Selbstdarstellung</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-47089667114</identifier>
+                    <identifier type="sys">HT020909338</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0d77457d-b57e-4c0a-9c5a-81bd4d9e3f5e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0d77457d-b57e-4c0a-9c5a-81bd4d9e3f5e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0d77457d-b57e-4c0a-9c5a-81bd4d9e3f5e/diss_henseleit.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0d77457d-b57e-4c0a-9c5a-81bd4d9e3f5e" DMDID="DMD_0d77457d-b57e-4c0a-9c5a-81bd4d9e3f5e">
+            <mets:fptr FILEID="FILE_0d77457d-b57e-4c0a-9c5a-81bd4d9e3f5e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

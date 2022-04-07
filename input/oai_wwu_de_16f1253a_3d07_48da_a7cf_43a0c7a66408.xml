@@ -1,0 +1,156 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:16f1253a-3d07-48da-a7cf-43a0c7a66408" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:45:40">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_16f1253a-3d07-48da-a7cf-43a0c7a66408">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Simplification orders in term rewriting</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/123801702">
+                    <mods:namePart type="given">Ingo</mods:namePart>
+                    <mods:namePart type="family">Lepper</mods:namePart>
+                    <mods:namePart type="date">1969-</mods:namePart>
+                    <mods:displayForm>Lepper, Ingo</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/112474306">
+                    <mods:namePart type="given">Andreas</mods:namePart>
+                    <mods:namePart type="family">Weiermann</mods:namePart>
+                    <mods:displayForm>Weiermann, Andreas</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2001</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2001-12-04</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2002-06-17</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-12-07</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Thema der Arbeit ist die Anwendung von Methoden der Beweistheorie&#13;
+auf Termersetzungssysteme, deren Termination mittels einer&#13;
+Simplifikationsordnung beweisbar ist. Es werden optimale&#13;
+Schranken für Herleitungslängen im allgemeinen Fall und im&#13;
+Fall der Termination mittels einer Knuth-Bendix-Ordnung (KBO)&#13;
+angegeben. Zudem werden die Ordnungstypen von KBOs vollständig&#13;
+klassifiziert und die unter KBO berechenbaren Funktionen&#13;
+vorgestellt. Einen weiteren Schwerpunkt bildet die Untersuchung&#13;
+der Löngen von Reduktionsketten, die bei einfach terminierenden&#13;
+Termersetzungssysteme auftreten und bestimmten Wachstumsbedingungen&#13;
+genügen.</mods:abstract>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-85659551103</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/16f1253a-3d07-48da-a7cf-43a0c7a66408</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:16f1253a-3d07-48da-a7cf-43a0c7a66408</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_16f1253a-3d07-48da-a7cf-43a0c7a66408">
+            <mets:rightsMD ID="RIGHTSMD_16f1253a-3d07-48da-a7cf-43a0c7a66408">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_16f1253a-3d07-48da-a7cf-43a0c7a66408">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/16f1253a-3d07-48da-a7cf-43a0c7a66408</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="487288547a7d95a39409c74ed333276510368fcae65c1a28b19583ec588015c6" CREATED="2015-12-07T14:38:53" CHECKSUMTYPE="SHA-256" SIZE="1908836" ID="ID_FIL_diss.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/16f1253a-3d07-48da-a7cf-43a0c7a66408/diss.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW16f1253a-3d07-48da-a7cf-43a0c7a66408">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/16f1253a-3d07-48da-a7cf-43a0c7a66408" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_16f1253a-3d07-48da-a7cf-43a0c7a66408" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss.pdf">
+                <mets:fptr FILEID="ID_FIL_diss.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_16f1253a-3d07-48da-a7cf-43a0c7a66408" DMDID="DMD_16f1253a-3d07-48da-a7cf-43a0c7a66408" ID="ID_LOG_16f1253a-3d07-48da-a7cf-43a0c7a66408" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_16f1253a-3d07-48da-a7cf-43a0c7a66408" xlink:to="ID_PHY_16f1253a-3d07-48da-a7cf-43a0c7a66408"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss.pdf" xlink:to="ID_PHY_diss.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_16dae10b-1fc5-48ff-8104-282b3648764f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Thin equivalence relations in L(R) and inner models</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlicht, Philipp</displayForm>
+                        <namePart type="given">Philipp</namePart>
+                        <namePart type="family">Schlicht</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120896591">
+                        <displayForm>Schindler, Ralf-Dieter</displayForm>
+                        <namePart type="given">Ralf-Dieter</namePart>
+                        <namePart type="family">Schindler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-11-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-10-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine Äquivalenzrelation auf den reellen Zahlen heißt dünn, falls jede perfekte Menge mehrere äquivalente Zahlen enthält. Wir untersuchen dünne Äquivalenzrelationen im konstruktiblen Universum über den reellen Zahlen mit Mitteln der inneren Modelltheorie unter Annahme der Existenz iterierbarer Modelle mit Woodin-Kardinalzahlen. Durch Verallgemeinerung eines Satzes von Hjorth beschreiben wir die inneren Modelle, die Repräsentanten in allen Äquivalenzklassen dünner Äquivalenzrelationen einer festen projektiven Komplexität haben. Mittels Techniken von Woodin können einige Ergebnisse von projektiven Äquivalenzrelationen auf solche, die über Anfangsstücken der konstruktiblen Hierarchie über den reellen Zahlen definiert sind, erweitert werden. Als Gegenstück zu inneren Modellen untersuchen wir generische Erweiterungen im Hinblick auf Liftings dünner projektiver Äquivalenzrelationen.</abstract>
+                    <subject lang="ger">
+                        <topic>deskriptive Mengenlehre</topic>
+                        <topic>definierbare Äquivalenzrelationen</topic>
+                        <topic>dünne Äquivalenzrelationen</topic>
+                        <topic>projektive Mengen</topic>
+                        <topic>innere Modelle</topic>
+                        <topic>Woodin-Kardinalzahlen</topic>
+                        <topic>Determiniertheit</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93529697133</identifier>
+                    <identifier type="sys">HT015808035</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_16dae10b-1fc5-48ff-8104-282b3648764f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_16dae10b-1fc5-48ff-8104-282b3648764f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/16dae10b-1fc5-48ff-8104-282b3648764f/diss_schlicht.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_16dae10b-1fc5-48ff-8104-282b3648764f" DMDID="DMD_16dae10b-1fc5-48ff-8104-282b3648764f">
+            <mets:fptr FILEID="FILE_16dae10b-1fc5-48ff-8104-282b3648764f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

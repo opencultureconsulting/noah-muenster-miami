@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4a73b204-96e6-4922-9d88-a640cd4ad191">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Background reduction by the inner wire electrode and set-up of the condensed krypton source at the neutrino mass experiment KATRIN</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1180409655">
+                        <displayForm>Dyba, Stephan</displayForm>
+                        <namePart type="given">Stephan</namePart>
+                        <namePart type="family">Dyba</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113543026">
+                        <displayForm>Weinheimer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Weinheimer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-04-03</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-01-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">KATRIN strebt eine Bestimmung der Neutrinomasse durch Vermessung des Tritium-Beta-Spektrums mit einer Sensitivität von 0.2 eV an. Das Experiment besteht aus einer Tritiumquelle, einer Transportstrecke, zwei Spektrometern des MAC-E Typs, in denen die Zerfallselektronen energetisch gefiltert werden, und einem Detektor. Das Hauptspektrometer ist mit einem doppellagigem Drahtelektrodensystem zur Untergrundunterdückung ausgestattet. Aufgrund von Kontaktproblemen der Drahtlagen wurden in der Arbeit die Untergrundcharakteristika bei ein- und zweilagigem Betrieb untersucht. Zudem wurde die Volumenabhängigkeit des Untergrunds untersucht und das Energiespektrum der Untergrundelektronen bestimmt. Desweiteren wird eine Krypton-Kalibrationsquelle (CKrS) vorgestellt, mit der die Transmissionseigenschaften des Experiments untersucht werden können. Hierfür wird der Aufbau und die Inbetriebnahme erörtert, sowie die Ergebnisse einer Messkampagne 2017 in Bezug auf ihre Leistungsfähigkeit vorgestellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Neutrinomasse</topic>
+                        <topic>Tritium</topic>
+                        <topic>KATRIN-Experiment</topic>
+                        <topic>Untergrund</topic>
+                        <topic>Drahtelektrode</topic>
+                        <topic>Kalibrationsquelle</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15149612886</identifier>
+                    <identifier type="sys">HT020022448</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4a73b204-96e6-4922-9d88-a640cd4ad191</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4a73b204-96e6-4922-9d88-a640cd4ad191_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4a73b204-96e6-4922-9d88-a640cd4ad191/diss_dyba.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4a73b204-96e6-4922-9d88-a640cd4ad191" DMDID="DMD_4a73b204-96e6-4922-9d88-a640cd4ad191">
+            <mets:fptr FILEID="FILE_4a73b204-96e6-4922-9d88-a640cd4ad191_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

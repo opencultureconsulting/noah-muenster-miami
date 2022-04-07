@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dc6a479f-71ab-4d20-bddf-847f0ff1064c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Kinetic theory of magnon Bose-Einstein condensation</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="alternative">
+                        <title>Kinetic theory of magnon Bose Einstein condensation</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1108112366">
+                        <displayForm>Hüser, Julian</displayForm>
+                        <namePart type="given">Julian</namePart>
+                        <namePart type="family">Hüser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141203618">
+                        <displayForm>Kuhn, Tilmann E.</displayForm>
+                        <namePart type="given">Tilmann E.</namePart>
+                        <namePart type="family">Kuhn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-07-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-07-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Arbeit stellt eine systematische theoretische Studie über die Dynamik und die Bose-Einstein Kondensation von Magnonen in Yttrium-Eisen-Granat (YIG) bei Raumtemperatur dar. Zu Beginn der Arbeit wird ein kinetisches Modell zur Simulation der zeitlichen Entwicklung des magnetischen Systems vorgestellt, das die wesentlichen Wechselwirkungen zwischen Magnonen untereinander und zwischen Magnonen und Phononen berücksichtigt. Ferner ist das Modell in der Lage, das Phänomen der Bose-Einstein Kondensation von Magnonen zu beschreiben, das bereits in zahlreichen Experimenten nachgewiesen wurde. Im darauffolgenden Teil der Arbeit werden die Relaxationsraten sowie die individuellen Relaxationsprozesse von anfänglichen Nichtgleichgewichtszuständen der einzelnen Wechselwirkungsprozesse untersucht. Der letzte Teil der Arbeit behandelt das komplette Modell mit allen Wechselwirkungen und thematisiert im Speziellen die Bose-Einstein Kondensation von Magnonen in verschiedenen Situationen.</abstract>
+                    <subject lang="ger">
+                        <topic>Magnetismus</topic>
+                        <topic>Bose-Einstein Kondensation</topic>
+                        <topic>Magnon</topic>
+                        <topic>Boltzmann Gleichung</topic>
+                        <topic>Thermalisierung</topic>
+                        <topic>Nichtgleichgewichts-Thermodynamik</topic>
+                        <topic>Yttrium-Eisen-Granat (YIG)</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55229633681</identifier>
+                    <identifier type="sys">HT019042045</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dc6a479f-71ab-4d20-bddf-847f0ff1064c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dc6a479f-71ab-4d20-bddf-847f0ff1064c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dc6a479f-71ab-4d20-bddf-847f0ff1064c/diss_hueser.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dc6a479f-71ab-4d20-bddf-847f0ff1064c" DMDID="DMD_dc6a479f-71ab-4d20-bddf-847f0ff1064c">
+            <mets:fptr FILEID="FILE_dc6a479f-71ab-4d20-bddf-847f0ff1064c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b7e763fc-89ad-423f-97de-1a7bf5d39020">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>deutsche und britische Wollgewerbe um die Mitte des 19. Jahrhunderts</title>
+                        <subTitle>Ein Beitrag zur quantitativ-komparativen Wirtschaftsgeschichte</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105401498">
+                        <displayForm>Teuteberg, Hans Jürgen</displayForm>
+                        <namePart type="given">Hans Jürgen</namePart>
+                        <namePart type="family">Teuteberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105401498">
+                        <displayForm>Teuteberg, Hans J.</displayForm>
+                        <namePart type="given">Hans J.</namePart>
+                        <namePart type="family">Teuteberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105401498">
+                        <displayForm>Teuteberg, Hans-Jürgen</displayForm>
+                        <namePart type="given">Hans-Jürgen</namePart>
+                        <namePart type="family">Teuteberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1975</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-09-28</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-09-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Winkel, Harald; Blaich, Fritz (Hrsg.): Vom Kleingewerbe zur Großindustrie. Berlin - Duncker &amp; Humblot, 1975, S. 9-103</note>
+                    <classification authority="ddc">300</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66459416486</identifier>
+                    <identifier type="isbn">3-428-03427-9</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b7e763fc-89ad-423f-97de-1a7bf5d39020</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b7e763fc-89ad-423f-97de-1a7bf5d39020_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b7e763fc-89ad-423f-97de-1a7bf5d39020/1975_teute_wollg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b7e763fc-89ad-423f-97de-1a7bf5d39020" DMDID="DMD_b7e763fc-89ad-423f-97de-1a7bf5d39020">
+            <mets:fptr FILEID="FILE_b7e763fc-89ad-423f-97de-1a7bf5d39020_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

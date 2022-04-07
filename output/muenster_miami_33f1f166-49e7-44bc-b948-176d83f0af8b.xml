@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_33f1f166-49e7-44bc-b948-176d83f0af8b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Landesherrschaft und Bergrecht in Südwestdeutschland zwischen 1450 und 1600</title>
+                        <subTitle>ein Vergleich</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143226282">
+                        <displayForm>Strelow, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Strelow</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12360432X">
+                        <displayForm>Johanek, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Johanek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-12-26</dateIssued>
+                        <dateOther encoding="w3cdtf">1998-02-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird am Beispiel des mittelalterlichen Bergrechts die Indienstnahme von Schriftlichkeit zur Verfestigung von Herrschaftsansprüchen untersucht. Untersuchungraum ist Südwestdeutschland im Spätmittelalter in der Zeitspanne von ca. 1450 bis 1600.</abstract>
+                    <subject lang="ger">
+                        <topic>mittelalterliche Geschichte</topic>
+                        <topic>Südwestdeutschland</topic>
+                        <topic>Verwaltung</topic>
+                        <topic>Territorien</topic>
+                        <topic>Schriftlichkeit</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-75469566329</identifier>
+                    <identifier type="sys">HT016655019</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_33f1f166-49e7-44bc-b948-176d83f0af8b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_33f1f166-49e7-44bc-b948-176d83f0af8b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/33f1f166-49e7-44bc-b948-176d83f0af8b/diss_strelow.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_33f1f166-49e7-44bc-b948-176d83f0af8b" DMDID="DMD_33f1f166-49e7-44bc-b948-176d83f0af8b">
+            <mets:fptr FILEID="FILE_33f1f166-49e7-44bc-b948-176d83f0af8b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

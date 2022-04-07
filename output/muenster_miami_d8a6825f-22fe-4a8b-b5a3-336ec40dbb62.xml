@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d8a6825f-22fe-4a8b-b5a3-336ec40dbb62">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Protokoll der Arbeitsgruppe Bachelor-Master-Studienreform, Studiengangsentwicklung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1062530454">
+                        <displayForm>Weyand, Birgit</displayForm>
+                        <namePart type="given">Birgit</namePart>
+                        <namePart type="family">Weyand</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1140833170">
+                        <displayForm>Jablonski, Maik</displayForm>
+                        <namePart type="given">Maik</namePart>
+                        <namePart type="family">Jablonski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-06-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note>2. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 3. und 4. März 2008 in Trier</note>
+                    <subject lang="ger">
+                        <topic>Bologna-Prozess</topic>
+                        <topic>Lehrerbildung</topic>
+                        <topic>Studienreform</topic>
+                        <topic>Zentrum für Lehrerbildung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84599392586</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d8a6825f-22fe-4a8b-b5a3-336ec40dbb62</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d8a6825f-22fe-4a8b-b5a3-336ec40dbb62_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d8a6825f-22fe-4a8b-b5a3-336ec40dbb62/Protokoll-AG-BaMa.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d8a6825f-22fe-4a8b-b5a3-336ec40dbb62" DMDID="DMD_d8a6825f-22fe-4a8b-b5a3-336ec40dbb62">
+            <mets:fptr FILEID="FILE_d8a6825f-22fe-4a8b-b5a3-336ec40dbb62_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

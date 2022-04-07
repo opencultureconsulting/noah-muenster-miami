@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fc1390c3-d942-4608-9f86-066b759fd946">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anspruchsvolles Fördern in der Grundschule</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132209233">
+                        <displayForm>Hanke, Petra</displayForm>
+                        <namePart type="given">Petra</namePart>
+                        <namePart type="family">Hanke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03-09</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Vortrag auf dem 6. Münsteraner Grundschulkolleg am 9. und 10. März 2007</note>
+                    <subject lang="ger">
+                        <topic>diagnostische Kompetenz</topic>
+                        <topic>diagnostische Methoden</topic>
+                        <topic>Heterogenität</topic>
+                        <topic>Differenzierung im Unterricht</topic>
+                        <topic>Gestaltung adaptiver Lerngelegenheiten</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39519568958</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fc1390c3-d942-4608-9f86-066b759fd946</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fc1390c3-d942-4608-9f86-066b759fd946_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fc1390c3-d942-4608-9f86-066b759fd946/Hanke_Grundschulkolleg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fc1390c3-d942-4608-9f86-066b759fd946" DMDID="DMD_fc1390c3-d942-4608-9f86-066b759fd946">
+            <mets:fptr FILEID="FILE_fc1390c3-d942-4608-9f86-066b759fd946_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

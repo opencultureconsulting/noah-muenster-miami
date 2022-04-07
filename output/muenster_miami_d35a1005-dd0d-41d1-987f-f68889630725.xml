@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d35a1005-dd0d-41d1-987f-f68889630725">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kriterien zur Auswahl konnektionistischer Verfahren für betriebliche Probleme</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172144019">
+                        <displayForm>Horster, Bettina</displayForm>
+                        <namePart type="given">Bettina</namePart>
+                        <namePart type="family">Horster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1037734505">
+                        <displayForm>Schneider, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Siedentopf, Jukka</displayForm>
+                        <namePart type="given">Jukka</namePart>
+                        <namePart type="family">Siedentopf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1993-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In einem von der Deutschen Forschungsgemeinschaft geförderten Forschungsvorhaben werden die Anwendbarkeit und die Qualität konnektionistischer Lösungsansätze für betriebswirtschaftliche Problemstellungen untersucht. Neben der Konzeption und Realisierung spezifischer Anwendungen stellt die Bereitstellung von Hilfsmitteln, die eine Zuordnung konnektionistischer Verfahren zu betrieblichen Problemen und umgekehrt erlauben, einen Arbeitsschwerpunkt dar. Zu diesem Zweck wird ein Ansatz zur Abbildung betrieblicher Problemstellungen auf neuronale Netze auf Basis einer mehrstufigen Klassifikation erarbeitet und beschrieben. Die Klassifikationskriterien werden gebräuchlichen Kategorisierungen betrieblicher Problemstellungen und neuronaler Netze entnommen. Zusätzlich werden in einer projektbegleitenden Literaturrecherche bereits existierende Anwendungen neuronaler Netzwerke analysiert und die Ergebnisse der Analyse zur Evaluierung der gewählten Kategorisierung herangezogen.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04509538148</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d35a1005-dd0d-41d1-987f-f68889630725</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d35a1005-dd0d-41d1-987f-f68889630725_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d35a1005-dd0d-41d1-987f-f68889630725/015_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d35a1005-dd0d-41d1-987f-f68889630725" DMDID="DMD_d35a1005-dd0d-41d1-987f-f68889630725">
+            <mets:fptr FILEID="FILE_d35a1005-dd0d-41d1-987f-f68889630725_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

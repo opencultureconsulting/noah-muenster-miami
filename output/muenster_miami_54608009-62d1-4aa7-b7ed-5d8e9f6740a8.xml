@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_54608009-62d1-4aa7-b7ed-5d8e9f6740a8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Saccadic Adaptation Is Associated with Starting Eye Position</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gremmler, Svenja</displayForm>
+                        <namePart type="given">Svenja</namePart>
+                        <namePart type="family">Gremmler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172579074">
+                        <displayForm>Lappe, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Lappe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-06-27</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-09-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Saccadic adaptation is the motor learning process that keeps saccade amplitudes on target. This process is eye position specific: amplitude adaptation that is induced for a saccade at one particular location in the visual field transfers incompletely to saccades at other locations. In our current study, we investigated wether this eye position signal corresponds to the initial or to the final eye position of the saccade. Each case would have different implications on the mechanisms of adaptation. The initial eye position is not directly available, when the adaptation driving post saccadic error signal is received. On the other hand the final eye position signal is not available, when the motor command for the saccade is calculated. In six human subjects we adapted a saccade of 15 degree amplitude that started at a constant position. We then measured the transfer of adaptation to test saccades of 10 and 20 degree amplitude. In each case we compared test saccades that matched the start position of the adapted saccade to those that matched the target of the adapted saccade. We found significantly more transfer of adaptation to test saccades with the same start position than to test saccades with the same target position. The results indicate that saccadic adaptation is specific to the initial eye position. This is consistent with a previously proposed effect of gain field modulated input from areas like the frontal eye field, the lateral intraparietal area and the superior colliculus into the cerebellar adaptation circuitry.</abstract>
+                    <note type="citation/reference">Frontiers in Human Neuroscience 10 (2016) 322, 1-8</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2015/2016 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>saccadicadaptation</topic>
+                        <topic>eyepositionsignal</topic>
+                        <topic>motorlearning</topic>
+                        <topic>oculomotorcontrol</topic>
+                        <topic>gainfields</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74269614794</identifier>
+                    <identifier type="doi">10.3389/fnhum.2016.00322</identifier>
+                    <identifier type="issn">1662-5161</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_54608009-62d1-4aa7-b7ed-5d8e9f6740a8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_54608009-62d1-4aa7-b7ed-5d8e9f6740a8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/54608009-62d1-4aa7-b7ed-5d8e9f6740a8/fnhum-10-00322.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_54608009-62d1-4aa7-b7ed-5d8e9f6740a8" DMDID="DMD_54608009-62d1-4aa7-b7ed-5d8e9f6740a8">
+            <mets:fptr FILEID="FILE_54608009-62d1-4aa7-b7ed-5d8e9f6740a8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

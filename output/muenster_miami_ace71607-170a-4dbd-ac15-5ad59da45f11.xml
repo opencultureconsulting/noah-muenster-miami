@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ace71607-170a-4dbd-ac15-5ad59da45f11">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Rigid-analytic L-Transforms</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1013768965">
+                        <displayForm>Schneider, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1984</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-12-05</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-12-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note type="citation/reference">Jager, Hendrik (Hrsg.): Number Theory, Noordwijkerhout 1983. Proceedings Of The Journees Arithmetiques Held At Noordwijkerhout, The Netherlands, July 11 - 15, 1983. Berlin : Springer, 1984, S. 216-230</note>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58359543865</identifier>
+                    <identifier type="isbn">3-540-13356-9</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ace71607-170a-4dbd-ac15-5ad59da45f11</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ace71607-170a-4dbd-ac15-5ad59da45f11_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ace71607-170a-4dbd-ac15-5ad59da45f11/1984_schne_rigid.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ace71607-170a-4dbd-ac15-5ad59da45f11" DMDID="DMD_ace71607-170a-4dbd-ac15-5ad59da45f11">
+            <mets:fptr FILEID="FILE_ace71607-170a-4dbd-ac15-5ad59da45f11_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

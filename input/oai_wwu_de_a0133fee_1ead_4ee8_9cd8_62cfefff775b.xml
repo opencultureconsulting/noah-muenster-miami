@@ -1,0 +1,200 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:a0133fee-1ead-4ee8-9cd8-62cfefff775b" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:39:39">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_a0133fee-1ead-4ee8-9cd8-62cfefff775b">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Fitted and unfitted finite element methods for solving the EEG forward problem</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1167567323">
+                    <mods:namePart type="given">Andreas</mods:namePart>
+                    <mods:namePart type="family">Nüßing</mods:namePart>
+                    <mods:namePart type="date">1987-</mods:namePart>
+                    <mods:displayForm>Nüßing, Andreas</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/139810196">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Engwer</mods:namePart>
+                    <mods:displayForm>Engwer, Christian</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2018</mods:dateIssued>
+                    <mods:dateOther>2018-07-09</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2018-09-21</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2018-10-05</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">&lt;p&gt;Das Ziel dieser Arbeit ist die Entwicklung, Analyse und Validierung akkurater und effizienter Strategien zur Lösung des Elektroenzephalographie (EEG) Vorwärtsproblems. Für an die Geometrie angepasste Methoden, wie etwa die konforme Finite-Elemente Methode oder die unstetige Galerkin Methode, werden verschiedene Diskretisierungen des dipolaren Quellterms hergeleitet, erweitert und evaluiert. Insbesondere wird ein neuer Subtraktionsansatz vorgestellt und analysiert. Im zweiten Teil der Arbeit werden zwei Geometrie-unabhängige Finite-Elemente Methoden für die Lösung des EEG Vorwärtsproblems eingeführt. Die Berücksichtigung der Geometrie erfolgt implizit durch Einsatz der Level-Set Methode und führt zu einer einfacheren Simulations-Pipeline. Die Validierung dieser Verfahren erfolgt in Kugelmodellen sowie unter Nutzung realistischer Kopfmodelle. Im letzten Abschnitt wird die Software Toolbox duneuro präsentiert, welche erweiterbare Schnittstellen zur Vorwärtsmodellierung in Neurowissenschaften basierend auf der Dune Bibliothek bereitstellt.&lt;/p&gt;</mods:abstract>
+                  <mods:abstract lang="eng">&lt;p&gt;The aim of this thesis is the development, analysis and validation of accurate and efficient strategies for solving the electroencephalography (EEG) forward problem. For fitted methods, such as the conforming finite element method of the discontinuous Galerkin method, various discretizations of the dipolar source term are derived, extended and evaluated. In particular a new subtraction approach is introduced and analyzed. In the second part of this thesis, two unfitted finite element methods are presented for solving the EEG forward problem. The geometry is taken into account implicitly using the level-set method, which leads to a simpler simulation pipeline. The validation of these methods is performed using sphere model studies as well as realistic head models. In the last part, the software toolbox duneuro is introduced, which offers extendible interfaces for forward modeling in neuroscience based on the Dune framework.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</mods:abstract>
+                  <mods:tableOfContents lang="eng">Notations and Abbreviations i&#13;
+List of Figures i&#13;
+List of Tables iii&#13;
+Introduction &#13;
+1.Physiological and Mathematical Background &#13;
+1.1 The EEG Forward Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5&#13;
+1.2 A Conforming Finite Element Method . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7&#13;
+1.3 A Discontinuous Galerkin Finite Element Method . . . . . . . . . . . . . . . . . . . . . 16&#13;
+1.4 A Mixed Finite Element Method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20&#13;
+1.5 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21&#13;
+2 Source Models for Modern Finite Element Methods&#13;
+2.1 Source Models Following the Principle of St. Venant . . . . . . . . . . . . . . . . . . . 23&#13;
+2.1.1 Validation Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29&#13;
+2.2 The St. Venant Source Model for Discontinuous Galerkin . . . . . . . . . . . . . . . . 37&#13;
+2.3 A Localization of the Subtraction Source Model . . . . . . . . . . . . . . . . . . . . . 40&#13;
+2.3.1 Validation Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47&#13;
+2.4 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56&#13;
+3 Unitted Finite Element Methods for Solving the EEG Forward Problem &#13;
+3.1 A Cut Finite Element Method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60&#13;
+3.2 An Unitted Discontinuous Galerkin Method . . . . . . . . . . . . . . . . . . . . . . . . 64&#13;
+3.3 Source Models for Cut-Cell Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66&#13;
+3.4 Validation Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67&#13;
+3.4.1 CutFEM Sphere Model Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67&#13;
+3.4.2 UDG Sphere Model Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75&#13;
+3.5 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94&#13;
+4 Implementational Aspects of Cut-Cell Methods &#13;
+4.1 Geometric Integration Over Implicitly Deined Domains . . . . . . . . . . . . . . . . . 97&#13;
+4.1.1 Validation Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105&#13;
+4.2 Algebraic Multigrid Preconditioner for Cut-Cell Methods . . . . . . . . . . . . . . . . 108&#13;
+4.2.1 Validation Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111&#13;
+4.3 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114&#13;
+5 duneuro - A Software Toolbox for Forward Modeling in Neuroscience &#13;
+5.1 Library Interfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118&#13;
+5.2 Element Localization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122&#13;
+5.3 Interface to Scripting Languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123&#13;
+5.4 Example: Source Analysis of Somatosensory Evoked Potentials . . . . . . . . . . . . 125&#13;
+5.5 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128&#13;
+6 Summary and Outlook &#13;
+A Appendix &#13;
+A.1 Parameters of Validation Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131&#13;
+A.2 Software Tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132&#13;
+Bibliography &#13;
+viii</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Elektroenzephalographie; Level-Set Methode; CutFEM; UDG; Subtraktionsansatz; Dune; duneuro</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">electroencephalography; level-set method; CutFEM; UDG; subtraction approach; Dune; duneuro</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-67139436770</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/a0133fee-1ead-4ee8-9cd8-62cfefff775b</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:a0133fee-1ead-4ee8-9cd8-62cfefff775b</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_a0133fee-1ead-4ee8-9cd8-62cfefff775b">
+            <mets:rightsMD ID="RIGHTSMD_a0133fee-1ead-4ee8-9cd8-62cfefff775b">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_a0133fee-1ead-4ee8-9cd8-62cfefff775b">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/a0133fee-1ead-4ee8-9cd8-62cfefff775b</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="ea4e0da99c0a4a6b1942aec20294cbcabd02fa40dd62e0fc7120f61139466fae" CREATED="2018-10-05T08:50:12" CHECKSUMTYPE="SHA-256" SIZE="14790360" ID="ID_FIL_diss_nuessing.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a0133fee-1ead-4ee8-9cd8-62cfefff775b/diss_nuessing.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWa0133fee-1ead-4ee8-9cd8-62cfefff775b">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/a0133fee-1ead-4ee8-9cd8-62cfefff775b" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_a0133fee-1ead-4ee8-9cd8-62cfefff775b" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_nuessing.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_nuessing.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_a0133fee-1ead-4ee8-9cd8-62cfefff775b" DMDID="DMD_a0133fee-1ead-4ee8-9cd8-62cfefff775b" ID="ID_LOG_a0133fee-1ead-4ee8-9cd8-62cfefff775b" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_nuessing.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_a0133fee-1ead-4ee8-9cd8-62cfefff775b" xlink:to="ID_PHY_a0133fee-1ead-4ee8-9cd8-62cfefff775b"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_nuessing.pdf" xlink:to="ID_PHY_diss_nuessing.pdf"/>
+          </mets:structLink>
+        </mets:mets>

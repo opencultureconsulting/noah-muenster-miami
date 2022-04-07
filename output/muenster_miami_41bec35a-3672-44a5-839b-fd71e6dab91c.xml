@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_41bec35a-3672-44a5-839b-fd71e6dab91c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>H-Milchtüte</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weller, Hubert</displayForm>
+                        <namePart type="given">Hubert</namePart>
+                        <namePart type="family">Weller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-08-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Problemstellung &quot;Getränkeverpackungen sind industrielle Massenprodukte, die nach Gebrauch entsorgt werden müssen. Läßt sich bei der Herstellung vielleicht Material sparen?&quot; wird in einer Unterrichtsequenz für den Taschencomputer vorgestellt.</abstract>
+                    <note type="ownership">Copyright by T³-Deutschland, für unterrichtliche Zwecke freigegeben</note>
+                    <subject lang="ger">
+                        <topic>Optimierung</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>Mathematik</topic>
+                        <topic>Didaktik</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25649609471</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_41bec35a-3672-44a5-839b-fd71e6dab91c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_41bec35a-3672-44a5-839b-fd71e6dab91c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/41bec35a-3672-44a5-839b-fd71e6dab91c/Hubert_Weller_Die_H-Milchtuete.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_41bec35a-3672-44a5-839b-fd71e6dab91c" DMDID="DMD_41bec35a-3672-44a5-839b-fd71e6dab91c">
+            <mets:fptr FILEID="FILE_41bec35a-3672-44a5-839b-fd71e6dab91c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

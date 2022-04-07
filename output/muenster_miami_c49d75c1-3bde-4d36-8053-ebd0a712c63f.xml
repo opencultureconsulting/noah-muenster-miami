@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c49d75c1-3bde-4d36-8053-ebd0a712c63f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erfahrungen aus dem Stadtarchiv Münster mit dem Wettbewerb Deutsche Geschichte um den Preis des Bundespräsidenten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1031410368">
+                        <displayForm>Link, Roswitha</displayForm>
+                        <namePart type="given">Roswitha</namePart>
+                        <namePart type="family">Link</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Schülerwettbewerb</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>19</start>
+                                <end>27</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659546539</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c49d75c1-3bde-4d36-8053-ebd0a712c63f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c49d75c1-3bde-4d36-8053-ebd0a712c63f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c49d75c1-3bde-4d36-8053-ebd0a712c63f/link.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c49d75c1-3bde-4d36-8053-ebd0a712c63f" DMDID="DMD_c49d75c1-3bde-4d36-8053-ebd0a712c63f">
+            <mets:fptr FILEID="FILE_c49d75c1-3bde-4d36-8053-ebd0a712c63f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

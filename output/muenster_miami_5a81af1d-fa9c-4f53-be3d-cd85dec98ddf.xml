@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5a81af1d-fa9c-4f53-be3d-cd85dec98ddf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Combination of multiple image segmentations</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142422665">
+                        <displayForm>Wattuya, Pakaket</displayForm>
+                        <namePart type="given">Pakaket</namePart>
+                        <namePart type="family">Wattuya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang, Xiaoyi</displayForm>
+                        <namePart type="given">Xiaoyi</namePart>
+                        <namePart type="family">Jiang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Xiaoyi, Jiang</displayForm>
+                        <namePart type="given">Jiang</namePart>
+                        <namePart type="family">Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang Xiaoyi</displayForm>
+                        <namePart type="family">Jiang Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit betrachtet die Kombination von mehreren Bildsegmentierungen im Bereich von contour detection und regionenbasierter Bildsegmentierung. Das Ziel ist die Kombination von mehreren Segmentierungen in eine verbesserte finale Segmentierung. Im Fall der regionenbasierten Kombination von Segmentierungen wird das generalized median Konzept verwendet, um automatisch die endgueltige Anzahl von Regionen zu bestimmen. Umfangreiche Experimente zeigen, dass die vorgeschlagene Kombinationsmethode bessere Ergebnisse erzielt als der Lernansatz unter Verwendung von Ground Truth Daten. Schliesslich untersuchen Experimente mit Evaluationsmassen fuer Segmentierungen das Verhalten sowie die Metrik-Eigenschaft der Masse. Die Studie soll als Leitlinie fuer die geeignete Wahl von Evaluationsmassen dienen.</abstract>
+                    <abstract lang="eng">The thesis concerns combination of multiple image segmentations in the domains of contour detection and region-based image segmentation. The goal is to combine multiple segmentations into a final improved result. In the case of region-based image segmentation combination, a generalized median concept is proposed to automatically determine the final number of regions. Extensive experiments demonstrate that our combination method outperforms the ground truth based training approach. In addition, experimental investigation of existing segmentation evaluation measures on the metric property and the evaluating behaviors is presented. This study is intended to be as a guideline for appropriately choosing the evaluation measures.</abstract>
+                    <subject lang="ger">
+                        <topic>Kombination von Bildsegmentierungen</topic>
+                        <topic>contour averaging</topic>
+                        <topic>generalized median Konzept</topic>
+                        <topic>Parameter-Auswahl</topic>
+                        <topic>Evaluationsmassen für Segmentierungen</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67429532246</identifier>
+                    <identifier type="sys">HT016528352</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5a81af1d-fa9c-4f53-be3d-cd85dec98ddf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5a81af1d-fa9c-4f53-be3d-cd85dec98ddf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5a81af1d-fa9c-4f53-be3d-cd85dec98ddf/diss_wattuya.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5a81af1d-fa9c-4f53-be3d-cd85dec98ddf" DMDID="DMD_5a81af1d-fa9c-4f53-be3d-cd85dec98ddf">
+            <mets:fptr FILEID="FILE_5a81af1d-fa9c-4f53-be3d-cd85dec98ddf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

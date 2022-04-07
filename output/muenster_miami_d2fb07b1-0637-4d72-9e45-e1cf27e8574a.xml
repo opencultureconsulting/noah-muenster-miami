@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d2fb07b1-0637-4d72-9e45-e1cf27e8574a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Descent properties of topological chiral homology</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114197584X">
+                        <displayForm>Matsuoka, Takuto</displayForm>
+                        <namePart type="given">Takuto</namePart>
+                        <namePart type="family">Matsuoka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-03-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We study descent properties of Jacob Lurie’s topological chiral homology. We prove that this homology theory satisfies descent for a factorizing cover, as defined by Kevin Costello and Owen Gwilliam. We also obtain a generalization of Lurie’s approach to this homology theory, which leads to a product formula for the infinity 1-category of factorization algebras, and its twisted generalization.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>83</start>
+                                <end>118</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33249451381</identifier>
+                    <identifier type="doi">10.17879/33249451102</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d2fb07b1-0637-4d72-9e45-e1cf27e8574a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d2fb07b1-0637-4d72-9e45-e1cf27e8574a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d2fb07b1-0637-4d72-9e45-e1cf27e8574a/mjm_2017_10_83-118.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d2fb07b1-0637-4d72-9e45-e1cf27e8574a" DMDID="DMD_d2fb07b1-0637-4d72-9e45-e1cf27e8574a">
+            <mets:fptr FILEID="FILE_d2fb07b1-0637-4d72-9e45-e1cf27e8574a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

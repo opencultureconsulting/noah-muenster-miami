@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cb70e506-52ce-44aa-a48f-f4917d0becea">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Equivariant correspondences and the Borel–Bott–Weil theorem</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341606">
+                        <displayForm>Emerson, Heath</displayForm>
+                        <namePart type="given">Heath</namePart>
+                        <namePart type="family">Emerson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1142057933">
+                        <displayForm>Yuncken, Robert</displayForm>
+                        <namePart type="given">Robert</namePart>
+                        <namePart type="family">Yuncken</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-03-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We prove an analog of the Borel–Bott–Weil theorem in equivariant KK-theory by constructing certain canonical equivariant correspondences between minimal flag varieties G/B, with G a complex semisimple Lie group.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>59</start>
+                                <end>74</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33249452996</identifier>
+                    <identifier type="doi">10.17879/33249452641</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cb70e506-52ce-44aa-a48f-f4917d0becea</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cb70e506-52ce-44aa-a48f-f4917d0becea_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cb70e506-52ce-44aa-a48f-f4917d0becea/mjm_2017_10_59-74.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cb70e506-52ce-44aa-a48f-f4917d0becea" DMDID="DMD_cb70e506-52ce-44aa-a48f-f4917d0becea">
+            <mets:fptr FILEID="FILE_cb70e506-52ce-44aa-a48f-f4917d0becea_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

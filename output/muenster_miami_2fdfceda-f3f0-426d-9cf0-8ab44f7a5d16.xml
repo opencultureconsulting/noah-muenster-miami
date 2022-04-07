@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2fdfceda-f3f0-426d-9cf0-8ab44f7a5d16">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wissensnetzwerk Controlling</title>
+                        <subTitle>Ein Referenzprojekt zur Gestaltung verteilter Lehr- und Lernumgebungen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108445518">
+                        <displayForm>Grob, Heinz Lothar</displayForm>
+                        <namePart type="given">Heinz Lothar</namePart>
+                        <namePart type="family">Grob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131743279">
+                        <displayForm>Vom Brocke, Jan</displayForm>
+                        <namePart type="given">Jan</namePart>
+                        <namePart type="family">Vom Brocke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-05-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-05-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659524727</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2fdfceda-f3f0-426d-9cf0-8ab44f7a5d16</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2fdfceda-f3f0-426d-9cf0-8ab44f7a5d16_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2fdfceda-f3f0-426d-9cf0-8ab44f7a5d16/CGC17.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2fdfceda-f3f0-426d-9cf0-8ab44f7a5d16" DMDID="DMD_2fdfceda-f3f0-426d-9cf0-8ab44f7a5d16">
+            <mets:fptr FILEID="FILE_2fdfceda-f3f0-426d-9cf0-8ab44f7a5d16_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

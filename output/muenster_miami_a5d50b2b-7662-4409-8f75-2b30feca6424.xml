@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a5d50b2b-7662-4409-8f75-2b30feca6424">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From Version 1.0 to Version 2.0</title>
+                        <subTitle>A Brief History of the Web</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, Gottfried</displayForm>
+                        <namePart type="given">Gottfried</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129691518">
+                        <displayForm>Hagemann, Stephan</displayForm>
+                        <namePart type="given">Stephan</namePart>
+                        <namePart type="family">Hagemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-08-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-08-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14529521182</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a5d50b2b-7662-4409-8f75-2b30feca6424</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a5d50b2b-7662-4409-8f75-2b30feca6424_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a5d50b2b-7662-4409-8f75-2b30feca6424/04_working_paper_ercis.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a5d50b2b-7662-4409-8f75-2b30feca6424" DMDID="DMD_a5d50b2b-7662-4409-8f75-2b30feca6424">
+            <mets:fptr FILEID="FILE_a5d50b2b-7662-4409-8f75-2b30feca6424_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

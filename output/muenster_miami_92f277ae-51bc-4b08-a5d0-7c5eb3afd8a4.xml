@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_92f277ae-51bc-4b08-a5d0-7c5eb3afd8a4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Ausbau ganztägiger Angebote</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böttcher, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Böttcher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1990</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-02-28</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-02-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Neue Deutsche Schule 42 (1990) 17, 18-19</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61439631792</identifier>
+                    <identifier type="issn">0344-6158</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_92f277ae-51bc-4b08-a5d0-7c5eb3afd8a4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_92f277ae-51bc-4b08-a5d0-7c5eb3afd8a4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/92f277ae-51bc-4b08-a5d0-7c5eb3afd8a4/1990_boett_schwe.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_92f277ae-51bc-4b08-a5d0-7c5eb3afd8a4" DMDID="DMD_92f277ae-51bc-4b08-a5d0-7c5eb3afd8a4">
+            <mets:fptr FILEID="FILE_92f277ae-51bc-4b08-a5d0-7c5eb3afd8a4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

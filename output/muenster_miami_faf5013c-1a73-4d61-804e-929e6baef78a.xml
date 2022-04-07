@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_faf5013c-1a73-4d61-804e-929e6baef78a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stiftung der Deutschen Wirtschaft</title>
+                        <subTitle>Wir fördern den Nachwuchs!</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110175816">
+                        <displayForm>Baer, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Baer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-03-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-06</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-04-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Vortrag auf dem 2. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 3. und 4. März 2008 in Trier</note>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-35599678070</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_faf5013c-1a73-4d61-804e-929e6baef78a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_faf5013c-1a73-4d61-804e-929e6baef78a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/faf5013c-1a73-4d61-804e-929e6baef78a/Baer_Praesentation_ZfL-Jahrestreffen_2008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_faf5013c-1a73-4d61-804e-929e6baef78a" DMDID="DMD_faf5013c-1a73-4d61-804e-929e6baef78a">
+            <mets:fptr FILEID="FILE_faf5013c-1a73-4d61-804e-929e6baef78a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

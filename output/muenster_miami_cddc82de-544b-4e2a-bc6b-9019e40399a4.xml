@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cddc82de-544b-4e2a-bc6b-9019e40399a4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Count Data Time Series Modelling in Julia—The CountTimeSeries.jl Package and Applications</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stapper, Manuel</displayForm>
+                        <namePart type="given">Manuel</namePart>
+                        <namePart type="family">Stapper</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-25</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A new software package for the Julia language, CountTimeSeries.jl, is under review, which provides likelihood based methods for integer-valued time series. The package’s functionalities are showcased in a simulation study on finite sample properties of Maximum Likelihood (ML) estimation and three real-life data applications. First, the number of newly infected COVID-19 patients is predicted. Then, previous findings on the need for overdispersion and zero inflation are reviewed in an application on animal submissions in New Zealand. Further, information criteria are used for model selection to investigate patterns in corporate insolvencies in Rhineland-Palatinate. Theoretical background and implementation details are described, and complete code for all applications is provided online. The CountTimeSeries package is available at the general Julia package registry.</abstract>
+                    <note type="citation/reference">Entropy 23 (2021) 6, 666, 1-22</note>
+                    <note>Supplementary Materials are available online at https://www.mdpi.com/article/10.3390/e23060666/s1, Julia and R code for all four applications.</note>
+                    <subject lang="eng">
+                        <topic>count data</topic>
+                        <topic>time series analysis</topic>
+                        <topic>Julia programming language</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">300</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37039752424</identifier>
+                    <identifier type="doi">10.3390/e23060666</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cddc82de-544b-4e2a-bc6b-9019e40399a4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cddc82de-544b-4e2a-bc6b-9019e40399a4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cddc82de-544b-4e2a-bc6b-9019e40399a4/10.3390_e23060666.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cddc82de-544b-4e2a-bc6b-9019e40399a4" DMDID="DMD_cddc82de-544b-4e2a-bc6b-9019e40399a4">
+            <mets:fptr FILEID="FILE_cddc82de-544b-4e2a-bc6b-9019e40399a4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

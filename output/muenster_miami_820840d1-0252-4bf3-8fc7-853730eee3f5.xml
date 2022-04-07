@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_820840d1-0252-4bf3-8fc7-853730eee3f5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An algebraic characterization of the Weyl curvature of Sm × Sm</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="alternative">
+                        <title>An algebraic characterization of the Weyl curvature of S m × S m</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1109808852">
+                        <displayForm>Jäger, Florian</displayForm>
+                        <namePart type="given">Florian</namePart>
+                        <namePart type="family">Jäger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böhm, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Böhm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-08-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-07-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit wird die Eigenwertgleichung W2+W#=θW, die in enger Beziehung zur Evolutionsgleichung von Krümmungsoperatoren unter dem Ricci Fluss steht, für Weyl Krümmungsoperatoren W untersucht. Es wird bewiesen, dass θ unter gewissen Bedingungen genau dann maximal ist, falls W die Weyl Krümmung von Sm×Sm ist. Desweitern werden unendliche Serien von neuen Lösungen dieser Eigenwertgleichung konstruiert.</abstract>
+                    <abstract lang="eng">In the present work, the eigenvalue equation W2+W#=θW, which is closely related to the evolution equation of a curvature operator under the Ricci flow, is analyzed for Weyl curvature operators W. A proof that under certain conditions θ is maximal if and only if W is the Weyl curvature of Sm×Sm is given. Moreover, infinite series of new solutions to this eigenvalue equation are constructed.</abstract>
+                    <subject lang="ger">
+                        <topic>Ricci Fluss</topic>
+                        <topic>Evolutionsgleichung</topic>
+                        <topic>Krümmungsoperator</topic>
+                        <topic>Weyl Krümmung</topic>
+                        <topic>Eigenwertgleichung</topic>
+                        <topic>Legendre Symbol</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Ricci flow</topic>
+                        <topic>evolution equation</topic>
+                        <topic>curvature operator</topic>
+                        <topic>Weyl curvature</topic>
+                        <topic>eigenvalue equation</topic>
+                        <topic>Legendre symbol</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45219527483</identifier>
+                    <identifier type="sys">HT019055064</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_820840d1-0252-4bf3-8fc7-853730eee3f5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_820840d1-0252-4bf3-8fc7-853730eee3f5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/820840d1-0252-4bf3-8fc7-853730eee3f5/diss_jaeger_florian.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_820840d1-0252-4bf3-8fc7-853730eee3f5" DMDID="DMD_820840d1-0252-4bf3-8fc7-853730eee3f5">
+            <mets:fptr FILEID="FILE_820840d1-0252-4bf3-8fc7-853730eee3f5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

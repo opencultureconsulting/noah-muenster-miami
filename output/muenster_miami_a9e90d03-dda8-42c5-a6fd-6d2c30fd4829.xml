@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a9e90d03-dda8-42c5-a6fd-6d2c30fd4829">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>MDAT- Aligning multiple domain arrangements</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1121584004">
+                        <displayForm>Kemena, Carsten</displayForm>
+                        <namePart type="given">Carsten</namePart>
+                        <namePart type="family">Kemena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1121583997">
+                        <displayForm>Bitard-Feildel, Tristan</displayForm>
+                        <namePart type="given">Tristan</namePart>
+                        <namePart type="family">Bitard-Feildel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bornberg-Bauer, Erich</displayForm>
+                        <namePart type="given">Erich</namePart>
+                        <namePart type="family">Bornberg-Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bornberg-Bauer, E.</displayForm>
+                        <namePart type="given">E.</namePart>
+                        <namePart type="family">Bornberg-Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bauer, Erich Bornberg-</displayForm>
+                        <namePart type="given">Erich Bornberg-</namePart>
+                        <namePart type="family">Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-01-28</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-05-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: Proteins are composed of domains, protein segments that fold independently from the rest of the protein and have a specific function. During evolution the arrangement of domains can change: domains are gained, lost or their order is rearranged. To facilitate the analysis of these changes we propose the use of multiple domain alignments. Results: We developed an alignment program, called MDAT, which aligns multiple domain arrangements. MDAT extends earlier programs which perform pairwise alignments of domain arrangements. MDAT uses a domain similarity matrix to score domain pairs and aligns the domain arrangements using a consistency supported progressive alignment method. Conclusion: MDAT will be useful for analysing changes in domain arrangements within and between protein families and will thus provide valuable insights into the evolution of proteins and their domains. MDAT is coded in C++, and the source code is freely available for download at http://www.bornberglab.org/pages/mdat</abstract>
+                    <note type="citation/reference">BMC Bioinformatics 16 (2015) 19, 1-7</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Domain arrangement</topic>
+                        <topic>Multiple alignment</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09259509297</identifier>
+                    <identifier type="doi">doi:10.1186/s12859-014-0442-7</identifier>
+                    <identifier type="issn">1471-2105</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a9e90d03-dda8-42c5-a6fd-6d2c30fd4829</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a9e90d03-dda8-42c5-a6fd-6d2c30fd4829_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a9e90d03-dda8-42c5-a6fd-6d2c30fd4829/s12859-014-0442-7.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a9e90d03-dda8-42c5-a6fd-6d2c30fd4829" DMDID="DMD_a9e90d03-dda8-42c5-a6fd-6d2c30fd4829">
+            <mets:fptr FILEID="FILE_a9e90d03-dda8-42c5-a6fd-6d2c30fd4829_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

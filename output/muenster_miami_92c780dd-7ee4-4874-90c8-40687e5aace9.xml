@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_92c780dd-7ee4-4874-90c8-40687e5aace9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Diagonal classes and the Bloch–Kato conjecture</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1216351805">
+                        <displayForm>Bertolini, Massimo</displayForm>
+                        <namePart type="given">Massimo</namePart>
+                        <namePart type="family">Bertolini</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seveso, Marco Adamo</displayForm>
+                        <namePart type="given">Marco Adamo</namePart>
+                        <namePart type="family">Seveso</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Venerucci, Rodolfo</displayForm>
+                        <namePart type="given">Rodolfo</namePart>
+                        <namePart type="family">Venerucci</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141391561">
+                        <displayForm>Deninger, Christopher</displayForm>
+                        <namePart type="given">Christopher</namePart>
+                        <namePart type="family">Deninger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">hnr</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>317</start>
+                                <end>352</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-90169661585</identifier>
+                    <identifier type="doi">10.17879/90169661145</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_92c780dd-7ee4-4874-90c8-40687e5aace9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_92c780dd-7ee4-4874-90c8-40687e5aace9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/92c780dd-7ee4-4874-90c8-40687e5aace9/mjm_2020_13_317-352.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_92c780dd-7ee4-4874-90c8-40687e5aace9" DMDID="DMD_92c780dd-7ee4-4874-90c8-40687e5aace9">
+            <mets:fptr FILEID="FILE_92c780dd-7ee4-4874-90c8-40687e5aace9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

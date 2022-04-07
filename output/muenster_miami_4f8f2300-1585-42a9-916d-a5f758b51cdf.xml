@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4f8f2300-1585-42a9-916d-a5f758b51cdf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reform der Lehrerbildung in den einzelnen Bundesländern</title>
+                        <subTitle>Stand: Januar 2008</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1140833189">
+                        <displayForm>Emmerich, Ellen</displayForm>
+                        <namePart type="given">Ellen</namePart>
+                        <namePart type="family">Emmerich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-06</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-02-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Artikel gibt einen tabellarischen Überblick über den Reformstand in der bundesdeutschen Lehrerausbildung. Dabei wird für jede Bundesland Grunddaten zu den folgenden Kategorien dargestellt: Bachelor (CP, Abschluss, Sonstiges), Master (CP, Abschluss, Sonstiges), Staatsexamen (Prüfungen, CP für Staatsprüfung, Notenanteil, Sonstiges), Vorbereitungsdienst, Umstellungstermin, Rechtsgrundlagen, Sonstiges</abstract>
+                    <note type="ownership">Copyright bei der Autorin</note>
+                    <subject lang="ger">
+                        <topic>Lehrerbildung</topic>
+                        <topic>Bologna-Prozess</topic>
+                        <topic>Bachelorstudiengänge</topic>
+                        <topic>Master of Education</topic>
+                        <topic>Staatsexamen</topic>
+                        <topic>Praxisphasen</topic>
+                        <topic>Praxissemester</topic>
+                        <topic>Vorbereitungsdienst</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-36559646400</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4f8f2300-1585-42a9-916d-a5f758b51cdf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4f8f2300-1585-42a9-916d-a5f758b51cdf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4f8f2300-1585-42a9-916d-a5f758b51cdf/Reformstand_Bund_2008_01.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4f8f2300-1585-42a9-916d-a5f758b51cdf" DMDID="DMD_4f8f2300-1585-42a9-916d-a5f758b51cdf">
+            <mets:fptr FILEID="FILE_4f8f2300-1585-42a9-916d-a5f758b51cdf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

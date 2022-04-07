@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_329d6959-eac2-4700-a4f7-0fa9ca7f9bd2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Retrospektive methodische Studie zum Vergleich von digitaler und manueller Modellanalyse in der Kieferorthopädie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142617792">
+                        <displayForm>Meyer, Svenja Irina Dorothea</displayForm>
+                        <namePart type="given">Svenja Irina Dorothea</namePart>
+                        <namePart type="family">Meyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Joos, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Joos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-08-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-08-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen einer retrospektiven Untersuchung wurden 132 Modelle vermessen. Die digitale Messung erfolgte einmal, die manuelle Messung wurde fünfmal wiederholt, wobei ein Messvorgang fünf Durchgänge beinhaltete. Die digitale Vermessung erfolgte mithilfe eines Computertomographen, der die digitalen Modelle erstellte und anschließend wurden die Modelle mit einer Analysesoftware ausgewertet. Die manuelle Messung der Modelle erfolgte mithilfe einer digitalen Schieblehre, einem Bernklaubesteck, einem Geometriedreieck und Lineal. Für die Modellanalyse wurden insgesamt 16 maxilläre und mandibuläre Parameter festgelegt. Die statistische Analyse der komplexen vermessenen Parameter ergibt zwischen der manuellen und digitalen Methode keinen statistisch signifikanten Unterschied. Die digitale Analyse zeigt insbesondere bei komplexen Vermessungen gegenüber dem manuellen Vorgehen Vorteile, sowohl hinsichtlich des Zeitaufwand, der verschiedenem Messgeräte und Dokumentation.</abstract>
+                    <subject lang="ger">
+                        <topic>Kieferorthopädie</topic>
+                        <topic>Modellanalyse</topic>
+                        <topic>manuell</topic>
+                        <topic>digital</topic>
+                        <topic>unilateraler Kreuzbiss</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-47409510228</identifier>
+                    <identifier type="sys">HT016560064</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_329d6959-eac2-4700-a4f7-0fa9ca7f9bd2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_329d6959-eac2-4700-a4f7-0fa9ca7f9bd2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/329d6959-eac2-4700-a4f7-0fa9ca7f9bd2/diss_meyer_svenja.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_329d6959-eac2-4700-a4f7-0fa9ca7f9bd2" DMDID="DMD_329d6959-eac2-4700-a4f7-0fa9ca7f9bd2">
+            <mets:fptr FILEID="FILE_329d6959-eac2-4700-a4f7-0fa9ca7f9bd2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

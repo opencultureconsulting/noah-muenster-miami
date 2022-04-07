@@ -1,0 +1,116 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2d447ee6-558a-440c-9a66-def8880e2f66">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Statistical Permutation-based Artery Mapping (SPAM): a novel approach to evaluate imaging signals in the vessel wall</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115441874X">
+                        <displayForm>Seifert, Robert</displayForm>
+                        <namePart type="given">Robert</namePart>
+                        <namePart type="family">Seifert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1159923523">
+                        <displayForm>Scherzinger, Aaron</displayForm>
+                        <namePart type="given">Aaron</namePart>
+                        <namePart type="family">Scherzinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kiefer, Friedemann</displayForm>
+                        <namePart type="given">Friedemann</namePart>
+                        <namePart type="family">Kiefer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14349676X">
+                        <displayForm>Hermann, Sven</displayForm>
+                        <namePart type="given">Sven</namePart>
+                        <namePart type="family">Hermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang, Xiaoyi</displayForm>
+                        <namePart type="given">Xiaoyi</namePart>
+                        <namePart type="family">Jiang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Xiaoyi, Jiang</displayForm>
+                        <namePart type="given">Jiang</namePart>
+                        <namePart type="family">Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang Xiaoyi</displayForm>
+                        <namePart type="family">Jiang Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114976449">
+                        <displayForm>Schäfers, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Schäfers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-05-26</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-01-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">BACKGROUNG: Cardiovascular diseases are the leading cause of death worldwide. A prominent cause of cardiovascular events is atherosclerosis, a chronic inflammation of the arterial wall that leads to the formation of so called atherosclerotic plaques. There is a strong clinical need to develop new, non-invasive vascular imaging techniques in order to identify high-risk plaques, which might escape detection using conventional methods based on the assessment of the luminal narrowing. In this context, molecular imaging strategies based on fluorescent tracers and fluorescence reflectance imaging (FRI) seem well suited to assess molecular and cellular activity. However, such an analysis demands a precise and standardized analysis method, which is orientated on reproducible anatomical landmarks, ensuring to compare equivalent regions across different subjects. METHODS: We propose a novel method, Statistical Permutation-based Artery Mapping (SPAM). Our approach is especially useful for the understanding of complex and heterogeneous regional processes during the course of atherosclerosis. Our method involves three steps, which are (I) standardisation with an additional intensity normalization, (II) permutation testing, and (III) cluster-enhancement. Although permutation testing and cluster enhancement are already well-established in functional magnetic resonance imaging, to the best of our knowledge these strategies have so far not been applied in cardiovascular molecular imaging. RESULTS: We tested our method using FRI images of murine aortic vessels in order to find recurring patterns in atherosclerotic plaques across multiple subjects. We demonstrate that our pixel-wise and cluster-enhanced testing approach is feasible and useful to analyse tracer distributions in FRI data sets of aortic vessels. CONCLUSIONS: We expect our method to be a useful tool within the field of molecular imaging of atherosclerotic plaques since cluster-enhanced permutation testing is a powerful approach for finding significant differences of tracer distributions in inflamed atherosclerotic vessels.</abstract>
+                    <note type="citation/reference">BMC Medical Imaging 17 (2017) 36, 1-11</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2017 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Atherosclerosis</topic>
+                        <topic>Molecular imaging</topic>
+                        <topic>Permutation testing</topic>
+                        <topic>Threshold free cluster enhancement (TFCE)</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16139483654</identifier>
+                    <identifier type="doi">10.1186/s12880-017-0207-7</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2d447ee6-558a-440c-9a66-def8880e2f66</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2d447ee6-558a-440c-9a66-def8880e2f66_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2d447ee6-558a-440c-9a66-def8880e2f66/artikel_seifert_2017.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2d447ee6-558a-440c-9a66-def8880e2f66" DMDID="DMD_2d447ee6-558a-440c-9a66-def8880e2f66">
+            <mets:fptr FILEID="FILE_2d447ee6-558a-440c-9a66-def8880e2f66_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,97 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2f437fdd-778f-4939-bca5-0788131240ae">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Verabschiedung von Dr. Roland Richter</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122237943">
+                        <displayForm>Wielenga, Friso</displayForm>
+                        <namePart type="given">Friso</namePart>
+                        <namePart type="family">Wielenga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dürrwald, Julius</displayForm>
+                        <namePart type="given">Julius</namePart>
+                        <namePart type="family">Dürrwald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Opitz, Lisa</displayForm>
+                        <namePart type="given">Lisa</namePart>
+                        <namePart type="family">Opitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zemisch, Nastasia</displayForm>
+                        <namePart type="given">Nastasia</namePart>
+                        <namePart type="family">Zemisch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1105505863">
+                        <displayForm>Richter, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Richter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">hnr</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>13</start>
+                                <end>16</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37149742475</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2f437fdd-778f-4939-bca5-0788131240ae</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2f437fdd-778f-4939-bca5-0788131240ae_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2f437fdd-778f-4939-bca5-0788131240ae/jahrbuch_zns_2011_22_13-16.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2f437fdd-778f-4939-bca5-0788131240ae" DMDID="DMD_2f437fdd-778f-4939-bca5-0788131240ae">
+            <mets:fptr FILEID="FILE_2f437fdd-778f-4939-bca5-0788131240ae_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

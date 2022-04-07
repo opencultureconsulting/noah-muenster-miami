@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7263eaa4-94e0-443b-bdda-d3695eb19bd3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>neue Niedrigfluss-Ionenquelle für die induktiv gekoppelte Plasma-Massenspektrometrie (ICP-MS)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142777919">
+                        <displayForm>Pfeifer, Thorben</displayForm>
+                        <namePart type="given">Thorben</namePart>
+                        <namePart type="family">Pfeifer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Karst, Uwe</displayForm>
+                        <namePart type="given">Uwe</namePart>
+                        <namePart type="family">Karst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-10-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-10-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Dissertation befasst sich mit der Entwicklung einer neuen Ionenquelle mit reduziertem Argonverbrauch fuer die ICP-MS. Der Ersatz des Kuehlgasflusses eines konventionellen ICP-MS durch Pressluft ermoeglicht dabei eine Reduktion des Argonverbrauches um ueber 90%. Die mit dem Austausch verbundenen Veraenderungen am Entladungszylinder des ICPs werden in ihrer Entwicklung beschrieben. Um die in der ICP-MS auftretenden Interferenzen zu reduzieren wird des Weiteren die Entwicklung eines komplett geschlossenen Systems gezeigt. Die Schliessung der Verbindung des Entladungszylinders zum Interface macht dabei eine Ueberarbeitung der Geometrie des Samplers notwendig. Zur Charakterisierung der neuen Ionenquelle erfolgt die Bestimmung der analytischen Leistungsparameter fuer die Ultraspurenanalytik. Das Potential der neu entwickelten Ionenquelle fuer den Einsatz in der Speziationsanalytik wird anhand der Kopplung mit der Fluessigchromatographie (LC) und der Gaschromatographie (GC) gezeigt.</abstract>
+                    <subject lang="ger">
+                        <topic>ICP-MS</topic>
+                        <topic>Argon</topic>
+                        <topic>Sampler</topic>
+                        <topic>Kopplung</topic>
+                        <topic>Niedrigfluss</topic>
+                        <topic>LC-ICP-MS</topic>
+                        <topic>GC-ICP-MS</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-46439598848</identifier>
+                    <identifier type="sys">HT016581768</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7263eaa4-94e0-443b-bdda-d3695eb19bd3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7263eaa4-94e0-443b-bdda-d3695eb19bd3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7263eaa4-94e0-443b-bdda-d3695eb19bd3/diss_pfeifer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7263eaa4-94e0-443b-bdda-d3695eb19bd3" DMDID="DMD_7263eaa4-94e0-443b-bdda-d3695eb19bd3">
+            <mets:fptr FILEID="FILE_7263eaa4-94e0-443b-bdda-d3695eb19bd3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

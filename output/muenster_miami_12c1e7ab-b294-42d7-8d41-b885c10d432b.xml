@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_12c1e7ab-b294-42d7-8d41-b885c10d432b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Melancholischer Diskurs und literaler Selbstmord</title>
+                        <subTitle>Der Fall Adam Bernd</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-12-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Signori, Gabriela (Hrsg.): Trauer, Verzweiflung und Anfechtung : Selbstmord und Selbstmordversuche in mittelalterlichen und frühneuzeitlichen Gesellschaften. Tübingen : Ed. Diskord, 1994, ISBN 3-89295-581-6, S. 282-310</note>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Verlages Edition Diskord</note>
+                    <subject lang="ger">
+                        <topic>Melancholischer Diskurs</topic>
+                        <topic>Moderne</topic>
+                        <topic>Adam Bernd</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14399483388</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_12c1e7ab-b294-42d7-8d41-b885c10d432b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_12c1e7ab-b294-42d7-8d41-b885c10d432b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/12c1e7ab-b294-42d7-8d41-b885c10d432b/Melancholischer_Diskurs_und_literaler_Selbstmord.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_12c1e7ab-b294-42d7-8d41-b885c10d432b" DMDID="DMD_12c1e7ab-b294-42d7-8d41-b885c10d432b">
+            <mets:fptr FILEID="FILE_12c1e7ab-b294-42d7-8d41-b885c10d432b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

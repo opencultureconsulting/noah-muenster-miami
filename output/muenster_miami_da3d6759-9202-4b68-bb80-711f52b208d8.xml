@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_da3d6759-9202-4b68-bb80-711f52b208d8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Energy calibration and stability monitoring of the KATRIN experiment</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1047463172">
+                        <displayForm>Bauer, Stephan</displayForm>
+                        <namePart type="given">Stephan</namePart>
+                        <namePart type="family">Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weinheimer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Weinheimer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014-02-13</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2014-01-31</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das KArlsruhe TRItium Neutrino Experiment (KATRIN) hat das Ziel die Neutrinomasse mit einer Senistivität von 200 meV (90% C.L.) zu messen. Um die hohe Sensitivität des KATRIN Experiments zu erreichen muss das Retardierungspotential von ?18.6 kV mit einer Genauigkeit von mindestens 60mV überwacht werden. In dieser Dissertation konnte die Funktionalität des redundanten Konzeptes zur Stabilitätsüberwachung mit den hochpräzisions KATRIN Spannungsteilern und den ionenimplantierten 83 Rb/ 83mKr Quellen am KATRIN Monitor Spektrometer demonstriert werden. Des Weiteren wurde eine neue Ellipsometrievariante für die kondensierte 83mKr Konversionselektronen Quelle in der KATRIN Strahllinie entwickelt. Das Zusammenspiel all dieser Methoden zur Energiekalibrierung und Stabilitätsüberwachung ist in der Lage, die geforderte Genauigkeit bereit zu stellen um die hohe Sensitivität des KATRIN Experiments zu erreichen.</abstract>
+                    <subject lang="ger">
+                        <topic>Neutrinomasse</topic>
+                        <topic>MAC-E Filter</topic>
+                        <topic>Energiekalibrierung</topic>
+                        <topic>Stabilitätsüberwachung</topic>
+                        <topic>Konversionselektronen</topic>
+                        <topic>Hochspannungsteiler</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Neutrino mass</topic>
+                        <topic>MAC-E filter</topic>
+                        <topic>energy calibration</topic>
+                        <topic>stability monitoring</topic>
+                        <topic>conversion electrons</topic>
+                        <topic>high voltage divider</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04329567654</identifier>
+                    <identifier type="sys">HT018167950</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_da3d6759-9202-4b68-bb80-711f52b208d8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_da3d6759-9202-4b68-bb80-711f52b208d8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/da3d6759-9202-4b68-bb80-711f52b208d8/diss_bauer_stephan.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_da3d6759-9202-4b68-bb80-711f52b208d8" DMDID="DMD_da3d6759-9202-4b68-bb80-711f52b208d8">
+            <mets:fptr FILEID="FILE_da3d6759-9202-4b68-bb80-711f52b208d8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

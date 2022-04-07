@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b4f489fa-a43c-4bd2-994e-cfdbc69cdc87">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Zusammenwirken von Verwaltungsbehörden beim Erlaß eines Verwaltungsaktes</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1109817487">
+                        <displayForm>Schlüter, Jörg</displayForm>
+                        <namePart type="given">Jörg</namePart>
+                        <namePart type="family">Schlüter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118769987">
+                        <displayForm>Wolff, Hans J.</displayForm>
+                        <namePart type="given">Hans J.</namePart>
+                        <namePart type="family">Wolff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1966</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-18</dateIssued>
+                        <dateOther encoding="w3cdtf">1966-05-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1966</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15589315001</identifier>
+                    <identifier type="sys">HT015482889</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b4f489fa-a43c-4bd2-994e-cfdbc69cdc87</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b4f489fa-a43c-4bd2-994e-cfdbc69cdc87_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b4f489fa-a43c-4bd2-994e-cfdbc69cdc87/diss_schlueter_1966.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b4f489fa-a43c-4bd2-994e-cfdbc69cdc87" DMDID="DMD_b4f489fa-a43c-4bd2-994e-cfdbc69cdc87">
+            <mets:fptr FILEID="FILE_b4f489fa-a43c-4bd2-994e-cfdbc69cdc87_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

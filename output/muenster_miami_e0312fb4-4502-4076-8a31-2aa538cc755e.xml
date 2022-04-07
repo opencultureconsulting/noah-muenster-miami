@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e0312fb4-4502-4076-8a31-2aa538cc755e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Archi-Textur</title>
+                        <subTitle>Poetologisch Metaphern bei Peter Handke</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1992</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Cassagnau, Laurent (Hrsg.): Partir – revenir : en route avec Peter Handke / Université de la Sorbonne Nouvelle. Asnières : Inst. d&apos;Allemand d&apos;Asnières, 1992, S. 93-110.</note>
+                    <note type="ownership">Druckausgabe 1992. Digitale Publikation mit Genehmigung von Presses Sorbonne Nouvelle</note>
+                    <subject lang="ger">
+                        <topic>Metapher</topic>
+                        <topic>Handke</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24399434106</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e0312fb4-4502-4076-8a31-2aa538cc755e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e0312fb4-4502-4076-8a31-2aa538cc755e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e0312fb4-4502-4076-8a31-2aa538cc755e/Archi_Textur.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e0312fb4-4502-4076-8a31-2aa538cc755e" DMDID="DMD_e0312fb4-4502-4076-8a31-2aa538cc755e">
+            <mets:fptr FILEID="FILE_e0312fb4-4502-4076-8a31-2aa538cc755e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

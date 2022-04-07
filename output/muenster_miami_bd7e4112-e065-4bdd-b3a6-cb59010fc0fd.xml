@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bd7e4112-e065-4bdd-b3a6-cb59010fc0fd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pseudo-MRM method for the selective detection of human HLA-G</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>König, Simone</displayForm>
+                        <namePart type="given">Simone</namePart>
+                        <namePart type="family">König</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1069886424">
+                        <displayForm>Spurny, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Spurny</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114648867">
+                        <displayForm>Rössig, Claudia</displayForm>
+                        <namePart type="given">Claudia</namePart>
+                        <namePart type="family">Rössig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-11-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A pseudo-MRM method using high-resolution mass spectrometry is presented for the specific detection of HLA-G against a background of homologous proteins. The method relies on three unique and two unspecific tryptic peptides. The latter are used to monitor the level of background proteins in comparison to the desired HLA-G. Instrument response is linear in the range from 30 to 200 fmol.</abstract>
+                    <abstract lang="ger">Eine pseudo-MRM-Methode mittels hochauflösender Massenspektrometrie für den spezifischen Nachweis von HLA-G in einem Untergrund von homologen Proteinen wird präsentiert. Die Methode nutzt drei eindeutige und zwei unspezifische tryptische Peptide. Letztere werden zur Einschätzung der Menge an homologen Proteinen verwendet. Die Messmethode ist linear im Bereich von 30-200 fmol.</abstract>
+                    <subject lang="eng">
+                        <topic>mass spectrometry</topic>
+                        <topic>protein quantification</topic>
+                        <topic>serum</topic>
+                        <topic>immune checkpoint molecule</topic>
+                        <topic>LC/MS</topic>
+                    </subject>
+                    <classification authority="ddc">572</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Mercator Journal of Biomolecular Analysis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Mercator Journal of Biomolecular Analysis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>12</start>
+                                <end>21</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-00269469431</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/3.0/de/">CC BY-SA 3.0  DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bd7e4112-e065-4bdd-b3a6-cb59010fc0fd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bd7e4112-e065-4bdd-b3a6-cb59010fc0fd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bd7e4112-e065-4bdd-b3a6-cb59010fc0fd/mercator-journal_2017_1_2_12-21.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bd7e4112-e065-4bdd-b3a6-cb59010fc0fd" DMDID="DMD_bd7e4112-e065-4bdd-b3a6-cb59010fc0fd">
+            <mets:fptr FILEID="FILE_bd7e4112-e065-4bdd-b3a6-cb59010fc0fd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

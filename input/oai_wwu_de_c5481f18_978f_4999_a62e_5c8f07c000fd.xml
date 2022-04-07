@@ -1,0 +1,236 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:c5481f18-978f-4999-a62e-5c8f07c000fd" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:36:20">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_c5481f18-978f-4999-a62e-5c8f07c000fd">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Data-aware methods for the simulation of glioblastoma multiforme</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1236310179">
+                    <mods:namePart type="given">Michael</mods:namePart>
+                    <mods:namePart type="family">Wenske</mods:namePart>
+                    <mods:namePart type="date">1989-</mods:namePart>
+                    <mods:displayForm>Wenske, Michael</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/139810196">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Engwer</mods:namePart>
+                    <mods:displayForm>Engwer, Christian</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2020</mods:dateIssued>
+                    <mods:dateOther>2021-03-22</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2021-06-30</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2021-06-30</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>xv, 124</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Diese Arbeit behandelt, wie mathematische Methoden bei der Vorhersage und der Behandlung von Glioblastoma Multiforme helfen könnten. Wir beschreiben ein Finite-Volumen-Verfahren mit Matrix-Hölder-Mittel (HFVM). Das Hölder Mittel erlaubt es Informationen über die zugrunde liegenden Materialeigenschaften direkt in die numerische Diskretisierung einfließen zu lassen. Die numerischen Tests legen nahe, dass ein Matrix-Hölder-Mittel mit einer Log-Euklidischen Matrix interpolation die besten Ergebnisse erzielt. Der zweite Beitrag ist ein approximativer Modellierungsansatz, welcher es erlaubt das Invasionsprofil der Tumorzelldichte stationär zu berechnen. Die Ergebnisse legen nahe, dass der Stationalisierungsansatz in Anbetracht der schwierigen Parametrisierung und Validierung der Vorwärtsmodelle einen wichtigen Beitrag leisten könnte. Die Ergebnisse der stationären Problemformulierung enthalten qualitative Informationen welche direkt für die medizinische Therapie verwendet werden können.</mods:abstract>
+                  <mods:abstract lang="eng">This work is about the how mathematics may help the treatment of malignant brain tumors called glioblastoma multiforme (GBM). We incorporated a matrix Hölder mean into a finite volume method. The optimal Hölder parameter for tumor simulation is found to be zero, resulting in a log-Euclidian matrix interpolation. The convergence of the method has been established numerically via inhomogeneous and anisotropic manufactured solutions. We also derived a nonlinear penalty term for the 1D Fisher-KPP equation which allows the formulation of a stationary PDE problem for the tumor invasion. This stationary formulation is aligned with datasets available at the time of diagnosis and makes quantifiable predictions that may aid medical treatment. The 3D results allow direct comparison of its predictions with the medical treatment planning volumes (GTV, PTV, CTV). The results show that the stationalization could provide medical practitioners with information for treatment radius delineation.</mods:abstract>
+                  <mods:tableOfContents lang="eng">Abstract iii&#13;
+Zusammenfassung v&#13;
+Acknowledgments vii&#13;
+List of Abbreviations xii&#13;
+List of Figures xiii&#13;
+List of Tables xv&#13;
+1 Introduction 1&#13;
+1.1 Medical perspective . . .  2&#13;
+1.1.1 Diagnostic techniques . . . 2&#13;
+1.1.2 Treatment techniques . . .  5&#13;
+1.2 Mathematical forward modeling of GBM . . . 8&#13;
+1.3 Problems and challenges of the PDE models . . .  12&#13;
+1.4 Stationary modeling of GBM . . . 16&#13;
+1.5 Existing numerical approaches . . .  16&#13;
+1.6 Outline . . .  18&#13;
+2 Preliminaries 19&#13;
+2.1 Notations . . .  19&#13;
+2.2 Fully anisotropic advection diffusion reaction equations . . .  20&#13;
+2.2.1 Péclet number . . .  21&#13;
+2.3 Variational formulation . . .  21&#13;
+2.4 Finite-dimensional space and grid . . . 22&#13;
+2.5 Matrix expressions . . . 28&#13;
+2.5.1 Matrix exponential and logarithm . . . 28&#13;
+2.5.2 Powers of a matrix . . . 28&#13;
+2.5.3 Artificial inhomogeneous diffusion . . . 29&#13;
+2.5.4 Fractional anisotropy . . . 29&#13;
+2.6 Manufactured solutions . . . 30&#13;
+2.6.1 Analytical solution . . .  31&#13;
+2.6.2 Analytical diffusivity field . . . 31&#13;
+2.6.3 Error definition . . .  32&#13;
+2.7 The MPFA-O method . . .  33&#13;
+3 The Hölder finite volume method 37&#13;
+3.1 Problem description . . .  38&#13;
+3.2 Diffusivity averaging . . .  40&#13;
+3.2.1 Scalar averaging in flux discretizations . . . 41&#13;
+3.2.2 Matrix Hölder mean . . .  43&#13;
+3.3 Hölder finite volume method . . . 47&#13;
+3.4 Numerical convergence results . . . 49&#13;
+3.4.1 Inhomogeneous isotropic case (eigenvalue) . . . 50&#13;
+3.4.2 Homogeneous anisotropic case . . .  51&#13;
+3.4.3 Inhomogeneus anisotropic case (rotation) . . . 53&#13;
+3.4.4 Inhomogeneus anisotropic case (combined) . . . 54&#13;
+3.5 Conclusion . . . 55&#13;
+4 Stationalization 57&#13;
+4.1 Forward tumor models . . .  58&#13;
+4.1.1 1D Fisher-Kolmogorov-Petrovsky-Piscounov equation . . .  58&#13;
+4.1.2 Myopic forward model . . . 60&#13;
+4.1.3 Haptotactic tumor model . . . 61&#13;
+4.2 Stationalization of Fisher-KPP equation in 1D . . .  63&#13;
+4.3 Stationalized tumor models . . . 66&#13;
+4.3.1 Notes on uniqueness . . . 68&#13;
+4.4 Numerical methods . . .  69&#13;
+4.5 Numerical results . . . 71&#13;
+4.5.1 1D homogeneous Fisher-KPP equation . . . 71&#13;
+4.5.2 1D myopic testcase . . . 73&#13;
+4.5.3 2D myopic diffusion model . . . 73&#13;
+4.5.4 Investigation of gradient statistics . . . 76&#13;
+4.5.5 3D comparison of forward and stationary solutions . . . 79&#13;
+5 Implementation: The DUNE-glio module 83&#13;
+5.1 Features of DUNE-glio . . . 83&#13;
+5.2 Software architecture . . . 84&#13;
+6 Application to real data sets 87&#13;
+6.1 The glioMath data set . . .  87&#13;
+6.1.1 Data preparation . . . 88&#13;
+6.2 Numerical results . . . 90&#13;
+6.3 Comparison via Péclet numbers . . .  94&#13;
+7 Discussion and outlook 97&#13;
+7.1 Hölder finite volume method . . . 97&#13;
+7.1.1 Discussion . . . 97&#13;
+7.1.2 Outlook . . . 99&#13;
+7.2 Stationalization . . . 100&#13;
+7.2.1 Discussion . . . 100&#13;
+7.2.2 Outlook . . . 102&#13;
+8 Bibliography 107&#13;
+Appendix 120&#13;
+A Appendix 121&#13;
+A.1 Reproduction of numerical results . . . 121</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="thesis">Münster (Westfalen), Univ., Diss., 2021</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="ger">Glioblastoma Multiforme; GBM; Tumormodellierung; Modellierung; Diffusions-reaktions-advections-gleichungen</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">glioblastoma multiforme; PDE modelling; diffusion-reaction-advection-equations; tumor modelling</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-17029490015</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/c5481f18-978f-4999-a62e-5c8f07c000fd</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/4.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:c5481f18-978f-4999-a62e-5c8f07c000fd</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_c5481f18-978f-4999-a62e-5c8f07c000fd">
+            <mets:rightsMD ID="RIGHTSMD_c5481f18-978f-4999-a62e-5c8f07c000fd">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_c5481f18-978f-4999-a62e-5c8f07c000fd">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/c5481f18-978f-4999-a62e-5c8f07c000fd</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="e4d0b910344ee90d30e535c967032bddd4c9fd5359b0bf84070a9a07378de9e1" CREATED="2021-06-30T14:09:59" CHECKSUMTYPE="SHA-256" SIZE="6719371" ID="ID_FIL_diss_wenske.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c5481f18-978f-4999-a62e-5c8f07c000fd/diss_wenske.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWc5481f18-978f-4999-a62e-5c8f07c000fd">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/c5481f18-978f-4999-a62e-5c8f07c000fd" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_c5481f18-978f-4999-a62e-5c8f07c000fd" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_wenske.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_wenske.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_c5481f18-978f-4999-a62e-5c8f07c000fd" DMDID="DMD_c5481f18-978f-4999-a62e-5c8f07c000fd" ID="ID_LOG_c5481f18-978f-4999-a62e-5c8f07c000fd" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_wenske.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_c5481f18-978f-4999-a62e-5c8f07c000fd" xlink:to="ID_PHY_c5481f18-978f-4999-a62e-5c8f07c000fd"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_wenske.pdf" xlink:to="ID_PHY_diss_wenske.pdf"/>
+          </mets:structLink>
+        </mets:mets>

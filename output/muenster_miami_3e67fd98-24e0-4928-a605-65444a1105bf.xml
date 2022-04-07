@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3e67fd98-24e0-4928-a605-65444a1105bf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Reise in die Vergangenheit?</title>
+                        <subTitle>Der Staatsbesuch von Bundespräsident Gustav Heinemann in den Niederlanden 1970</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130533378">
+                        <displayForm>Drögemöller, Marc</displayForm>
+                        <namePart type="given">Marc</namePart>
+                        <namePart type="family">Drögemöller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>121</start>
+                                <end>138</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17169611941</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3e67fd98-24e0-4928-a605-65444a1105bf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3e67fd98-24e0-4928-a605-65444a1105bf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3e67fd98-24e0-4928-a605-65444a1105bf/jahrbuch_zns_2003_14_121-138.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3e67fd98-24e0-4928-a605-65444a1105bf" DMDID="DMD_3e67fd98-24e0-4928-a605-65444a1105bf">
+            <mets:fptr FILEID="FILE_3e67fd98-24e0-4928-a605-65444a1105bf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

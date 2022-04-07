@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dc433204-89d4-4bd0-a7e2-cba1ba7205cf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Extracorporeal Life Support (ECLS) - Therapie bei Patienten mit kardiogenem Schock</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1163415804">
+                        <displayForm>Kracke, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Kracke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113505353">
+                        <displayForm>Hoffmeier, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Hoffmeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-07-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-07-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der kardiogene Schock ist eine akute Komplikation nach herzchirugischen Eingriffen oder im Rahmen kardiologischer Erkrankungen. Die Ultima Ratio der intensivmedizinischen Therapie besteht dabei in der Kreislaufunterstützung mittels Extracorporeal Life Support (ECLS). Ziele dieser Arbeit sind die Ermittlung der Überlebensraten von 111 Patienten, die am Universitätsklinikum Münster (UKM) im Zeitraum von 2011 bis 2013 wegen eines akuten kardiogenen Schocks mittels ECLS versorgt wurden, sowie die Auswirkungen bekannter und kontrovers diskutierter Risikofaktoren auf das Überleben. Die 30-Tage-Letalität aller Patienten betrug 55%. Als Risikofaktoren für eine erhöhte Letalität stellten sich ein erhöhter Kreatininwert nach ECLS-Implantation, eine kürzere Dauer der ECLS-Therapie sowie die arterio-venöse Kanülierung der Femoral- oder zentralen Gefäße heraus.</abstract>
+                    <subject lang="ger">
+                        <topic>Herzchirurgie</topic>
+                        <topic>ECLS</topic>
+                        <topic>ECMO</topic>
+                        <topic>kardiogener Schock</topic>
+                        <topic>Intensivmedizin</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37199520550</identifier>
+                    <identifier type="sys">HT019758713</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dc433204-89d4-4bd0-a7e2-cba1ba7205cf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dc433204-89d4-4bd0-a7e2-cba1ba7205cf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dc433204-89d4-4bd0-a7e2-cba1ba7205cf/diss_kracke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dc433204-89d4-4bd0-a7e2-cba1ba7205cf" DMDID="DMD_dc433204-89d4-4bd0-a7e2-cba1ba7205cf">
+            <mets:fptr FILEID="FILE_dc433204-89d4-4bd0-a7e2-cba1ba7205cf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

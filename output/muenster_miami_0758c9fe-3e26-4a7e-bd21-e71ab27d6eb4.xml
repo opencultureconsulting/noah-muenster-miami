@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0758c9fe-3e26-4a7e-bd21-e71ab27d6eb4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zum Wachstum von Mikroorganismen in Trinkwasseranlagen in Abhängigkeit von Temperatur und Leitungsmaterial</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141756764">
+                        <displayForm>Thoneick, Eddie Michael Alexander</displayForm>
+                        <namePart type="given">Eddie Michael Alexander</namePart>
+                        <namePart type="family">Thoneick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108469123">
+                        <displayForm>Mathys, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Mathys</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-04-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im praxisnahen Versuch wuchsen Mikroorganismen am schlechtesten auf Kupfer und Verbundrohr und am besten auf den organischen PVC Materialien wie dem Testmaterial Gartenschlauch und Gummischlauch weiss. Im Flaschenexperiment wuchsen die Legionellen in Abhängigkeit von Temperatur auf allen Materialien, wobei bei höherer Temperatur (36°C) das beste Wachstum zu verzeichnen war. Pseudomonaden wuchsen auf allen Materialien ausgenommen auf Gummi braun. In diesem Versuch konnte die Biofilmbildung auf keinem Material vermieden werden. Jedoch erwiesen sich Kupfer- und Verbundrohr im Vergleich zu den untersuchten organischen Rohrmaterialien am wenigsten Biofilmwachstum fördernd. PVC und Gummi förderten das Wachstum von Biofilm und Mikroorganismen teilweise extrem und sollten deshalb nicht im Bereich von Trinkwasseranlagen Verwendung finden.</abstract>
+                    <subject lang="ger">
+                        <topic>Pseudomonas aeruginosa</topic>
+                        <topic>Legionelle pneumophila</topic>
+                        <topic>Trinkwasserverunreinigung</topic>
+                        <topic>Bakterienaktivitätsbestimmung</topic>
+                        <topic>ATP-Messung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98409498020</identifier>
+                    <identifier type="sys">HT016438966</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0758c9fe-3e26-4a7e-bd21-e71ab27d6eb4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0758c9fe-3e26-4a7e-bd21-e71ab27d6eb4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0758c9fe-3e26-4a7e-bd21-e71ab27d6eb4/diss_thoneick.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0758c9fe-3e26-4a7e-bd21-e71ab27d6eb4" DMDID="DMD_0758c9fe-3e26-4a7e-bd21-e71ab27d6eb4">
+            <mets:fptr FILEID="FILE_0758c9fe-3e26-4a7e-bd21-e71ab27d6eb4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_50353ed9-4d69-489e-9c81-3723d557c299">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Kohlenstoffisotopenzusammensetzung von terrestrischem organischen Material des jüngeren Paläozoikums</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128736712">
+                        <displayForm>Peters-Kottig, Wolfgang H.</displayForm>
+                        <namePart type="given">Wolfgang H.</namePart>
+                        <namePart type="family">Peters-Kottig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128736712">
+                        <displayForm>Kottig, Wolfgang H. Peters-</displayForm>
+                        <namePart type="given">Wolfgang H. Peters-</namePart>
+                        <namePart type="family">Kottig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1043054081">
+                        <displayForm>Strauss, Harald</displayForm>
+                        <namePart type="given">Harald</namePart>
+                        <namePart type="family">Strauss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-01-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Aus der Kohlenstoffisotopenanalyse von Pflanzenfossilien kann für das Paläozoikum zwischen dem höheren Silur (425Ma) und der Perm-Trias Grenze (251Ma) eine neue, zusammenhängende d13CTOM-Kurve präsentiert werden. Aus den Daten geht ein Anstieg der d13CTOM-Werte von Werten um -25 im Silur und Devon auf Werte um -23 im Unterperm hervor. Darin spiegelt sich die vermehrte Ablagerung von isotopisch leichtem organischen Material wider. Es gibt keine signifikanten Hinweise auf diagenetische Alteration des organischen Materials. Unterschiede in den Absolutwerten des d13CTOM gehen auf eine unterschiedliche Zusammensetzung der Atmosphäre zurück. Aus berechneten Isotopenkurven geht hervor, dass die Isotopenfraktionierung D im Verlauf des Paläozoikums deutlich variierte. Ein Maximum im Permokarbon wird auf den physiologischen Einfluss der erhöhten O2-Konzentration zurückgeführt. Eine Berechung des O2/CO2-Verhältnisses in der paläozoischen Atmosphäre deutet auf ein Maximum im Permokarbon hin.</abstract>
+                    <subject lang="ger">
+                        <topic>13C</topic>
+                        <topic>Isotopenfraktionierung</topic>
+                        <topic>Landpflanzen</topic>
+                        <topic>Paläozoikum</topic>
+                        <topic>Kohlenstoffkreislauf</topic>
+                        <topic>Atmosphäre</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526513</identifier>
+                    <identifier type="sys">HT013955824</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_50353ed9-4d69-489e-9c81-3723d557c299</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_50353ed9-4d69-489e-9c81-3723d557c299_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/50353ed9-4d69-489e-9c81-3723d557c299/Peters_Kottig.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_50353ed9-4d69-489e-9c81-3723d557c299" DMDID="DMD_50353ed9-4d69-489e-9c81-3723d557c299">
+            <mets:fptr FILEID="FILE_50353ed9-4d69-489e-9c81-3723d557c299_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

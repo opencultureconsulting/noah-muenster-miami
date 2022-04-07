@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e10222bd-d6d1-4e5e-836b-b49903272025">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>historische Entwicklung des Landesoberbergamtes Nordrhein-Westfalen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/17442275X">
+                        <displayForm>Schelter, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Schelter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-06-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-02-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Bartels, Christoph; Feldmann, Reinhard; Oekentorp, Klemens (Hrsg.): Geologie und Bergbau. Bücher aus der historischen Bibliothek des Landesoberbergamtes Nordrhein-Westfalen in Dortmund. (Schriften der Universität und Landesbibliothek Münster, des Geologisch-Paläontologischen Museums der Universität Münster und des Deutschen Bergbau-Museums Bochum ; 11). Münster, 1994, S. 93-100</note>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-75279554761</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e10222bd-d6d1-4e5e-836b-b49903272025</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e10222bd-d6d1-4e5e-836b-b49903272025_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e10222bd-d6d1-4e5e-836b-b49903272025/schelter_historische-entwicklung-loba-nrw_1994.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e10222bd-d6d1-4e5e-836b-b49903272025" DMDID="DMD_e10222bd-d6d1-4e5e-836b-b49903272025">
+            <mets:fptr FILEID="FILE_e10222bd-d6d1-4e5e-836b-b49903272025_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

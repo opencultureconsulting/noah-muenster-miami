@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e11d82b4-53d2-403b-ab48-28dd23d79ee1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lokalisation von Proteinen in Kernmembranen mit der SDS-Gefrierbruch-Immunzytochemie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Becker, Claudia</displayForm>
+                        <namePart type="given">Claudia</namePart>
+                        <namePart type="family">Becker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172333563">
+                        <displayForm>Robenek, Horst</displayForm>
+                        <namePart type="given">Horst</namePart>
+                        <namePart type="family">Robenek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172333563">
+                        <displayForm>Robenek, H.</displayForm>
+                        <namePart type="given">H.</namePart>
+                        <namePart type="family">Robenek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-02-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit verfolgte das Ziel, mit Hilfe der Sodium Dodecyl Sulfat (SDS)-Gefrierbruch-Immunzytochemie neue Erkenntnisse über die Lokalisation von Proteinen (LAP2ß, Emerin, Caveolin-1, Adipophilin) in Kernmembranen zu gewinnen. Die Ergebnisse dieser Arbeit zeigen, dass mit der SDS-Gefrierbruch-Immunzytochemie Unterschiede in der Verteilung von Proteinen in den Kernmembranen präzise lokalisiert werden können. Ferner kann die spezifische Membranhälfte eindeutig identifiziert werden, in der ein Protein integriert ist. Am Beispiel von Adipophilin konnte gezeigt werden, dass seine Kopplung an GFP zu einer Umverteilung und einer Umorientierung in den Kernmembranen von transfizierten Zellen führen kann. Insgesamt kann festgestellt werden, dass die SDS-Gefrierbruch-Immunzytochemie bei der Darstellung von Membranen allen bisherigen Methoden überlegen ist und zur Zeit die Methode der Wahl bei der Lokalisation von Membran-Proteinen in situ darstellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Gefrierbruch</topic>
+                        <topic>Immunzytochemie</topic>
+                        <topic>Adipophilin</topic>
+                        <topic>Caveolin-1</topic>
+                        <topic>Emerin</topic>
+                        <topic>LAP2ß</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-75589654151</identifier>
+                    <identifier type="sys">HT015565340</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e11d82b4-53d2-403b-ab48-28dd23d79ee1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e11d82b4-53d2-403b-ab48-28dd23d79ee1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e11d82b4-53d2-403b-ab48-28dd23d79ee1/diss_becker.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e11d82b4-53d2-403b-ab48-28dd23d79ee1" DMDID="DMD_e11d82b4-53d2-403b-ab48-28dd23d79ee1">
+            <mets:fptr FILEID="FILE_e11d82b4-53d2-403b-ab48-28dd23d79ee1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

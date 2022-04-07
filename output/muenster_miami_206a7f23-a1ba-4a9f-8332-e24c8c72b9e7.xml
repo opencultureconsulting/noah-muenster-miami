@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_206a7f23-a1ba-4a9f-8332-e24c8c72b9e7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>gesperrte ›Werk‹?</title>
+                        <subTitle>Veröffentlichung und Werkwerdung am Beispiel von Max Frischs ›Berliner Journal‹</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/183754123">
+                        <displayForm>Kater, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Kater</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Trotz seiner bereits mehrfach konstatierten Relevanz für die Konstitution von Werken ist das Phänomen der Veröffentlichung aus literaturwissenschaftlicher Perspektive bislang kaum erforscht worden. Am Beispiel der Publikationsgeschichte von Max Frischs Aus dem Berliner Journal, das erst nach einer zwanzigjährigen Sperrfrist veröffentlicht wurde, werden im Beitrag die medialen, institutionellen und praxeologischen Faktoren, die an der Werkwerdung des Textes beteiligt sind, untersucht. Davon ausgehend wird eine allgemeine Differenzierung zwischen ›Veröffentlichung‹ im engeren und weiteren Sinne vorgeschlagen, die Werke als Ereignisse einer labilen Institutionalisierung von Texten zu begreifen erlaubt.</abstract>
+                    <note type="ownership">Hinweis zur Seite 11, Fußnote 67, dritter Satz: &quot;Vgl. Siegfried Unseld u. Burgel Zeeh: »Protokoll eines Gesprächs von Max Frisch, Hans Mayer und S.U. über eine ›Gesamtausgabe Max Frisch‹. Berzona, 29./30. Juni 1973, 4. Juli 1973«. In: MFA, S. 1–4, hier S. 3f. Die Rechte für dieses Zitat verbleiben beim Suhrkamp Verlag.&quot;</note>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77159503454</identifier>
+                    <identifier type="doi">10.17879/77159503153</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_206a7f23-a1ba-4a9f-8332-e24c8c72b9e7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_206a7f23-a1ba-4a9f-8332-e24c8c72b9e7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/206a7f23-a1ba-4a9f-8332-e24c8c72b9e7/textpraxis_2018_s3_kater.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_206a7f23-a1ba-4a9f-8332-e24c8c72b9e7" DMDID="DMD_206a7f23-a1ba-4a9f-8332-e24c8c72b9e7">
+            <mets:fptr FILEID="FILE_206a7f23-a1ba-4a9f-8332-e24c8c72b9e7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

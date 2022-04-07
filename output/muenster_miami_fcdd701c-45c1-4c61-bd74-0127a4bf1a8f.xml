@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fcdd701c-45c1-4c61-bd74-0127a4bf1a8f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur biologischen Rolle der Melanozyten in der humanen Talgdrüse</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14019343X">
+                        <displayForm>Tolk, Kai Michael</displayForm>
+                        <namePart type="given">Kai Michael</namePart>
+                        <namePart type="family">Tolk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böhm, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Böhm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-11-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-10-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Seit vielen Jahren ist bekannt, dass Melanozyten in exokrinen Drüsen (z.B. humane Talgdrüse) vorkommen. Diese Tatsache wurde durch Immnunfluoreszenzfärbungen bestätigt und bildete gleichzeitig die Grundlage für funktionelle Untersuchungen. Normale humane Melanozyten und SZ95-Zellen wurden in vitro kokultiviert. Konditioniertes Melanozytenmedium hemmte die Linolensäure-induzierte Lipidsynthese und unterdrückte die Apoptose von SZ95-Zellen. Eine Koinkubation von SZ95-Zellen mit konditioniertem Melanozytenmedium und einem gegen a-MSH gerichteten Antikörper, konnte den antiapoptotischen Effekt des konditionierten Melanozytenmediums blockieren. a-MSH hemmte die durch Serumdeprivation induzierte Apoptose von SZ95-Zellen, welches ein Hinweis auf die Präsenz von a-MSH in konditioniertem Melanozytenmedium sein könnte. Durch Mediatoren wie a-MSH, könnten seboglanduläre Melanozyten die Proliferationsrate, Apoptose und Lipidsynthese regulieren und so zur Homöostase in der Talgdrüse beitragen.</abstract>
+                    <subject lang="ger">
+                        <topic>Epidermis</topic>
+                        <topic>Talgdrüse</topic>
+                        <topic>Melanozyten</topic>
+                        <topic>Sebozyten</topic>
+                        <topic>Apoptose</topic>
+                        <topic>Lipidsynthese</topic>
+                        <topic>alpha-MSH</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79479552067</identifier>
+                    <identifier type="sys">HT016212965</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fcdd701c-45c1-4c61-bd74-0127a4bf1a8f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fcdd701c-45c1-4c61-bd74-0127a4bf1a8f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fcdd701c-45c1-4c61-bd74-0127a4bf1a8f/diss_tolk.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fcdd701c-45c1-4c61-bd74-0127a4bf1a8f" DMDID="DMD_fcdd701c-45c1-4c61-bd74-0127a4bf1a8f">
+            <mets:fptr FILEID="FILE_fcdd701c-45c1-4c61-bd74-0127a4bf1a8f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

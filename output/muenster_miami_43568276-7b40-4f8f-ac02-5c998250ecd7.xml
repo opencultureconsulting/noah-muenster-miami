@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_43568276-7b40-4f8f-ac02-5c998250ecd7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Arbeiten zur rechnergestützten Herstellung von Epithesen auf der Basis optischer phasenmessender Profilometrie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129629073">
+                        <displayForm>Thomas, Carsten</displayForm>
+                        <namePart type="given">Carsten</namePart>
+                        <namePart type="family">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10806218X">
+                        <displayForm>Bollmann, Friedhelm</displayForm>
+                        <namePart type="given">Friedhelm</namePart>
+                        <namePart type="family">Bollmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-12-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-11-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit werden im Rahmen der Entwicklung einer computergestützten Herstellung von Epithesen auf der Basis phasenmessender Profilometrie Untersuchungen bezüglich notwendiger Randbedingungen angestellt, die einen erfolgreichen Verfahrensablauf gewährleisten sollen. Neben der experimentellen Bestimmung der Systemparameter wird der Vorgang der Oberflächenvermessung und der Weiterverarbeitung der 3D-Koordinaten bis hin zur Erstellung der fertigen Epithese geschildert. Bei der Bestimmung geeigneter Systemparameter liegt ein besonderer Schwerpunkt auf experimentellen Untersuchungen bezüglich der Variation der erzielten Modulation und Punkteausbeute bei Beleuchtung mit verschiedenen Wellenlängenbereichen. Das entwickelte Messsystem bewährte sich in Hinblick auf die gestellten Anforderungen. Das Verfahren ist schneller und exakter als die herkömmlichen Abdruckverfahren, stellt für den Patienten keine Belastung dar und ermöglicht eine formgetreue Modellierung der Epithese am Rechner.</abstract>
+                    <subject lang="ger">
+                        <topic>Epithese</topic>
+                        <topic>phasenmessende Profilometrie</topic>
+                        <topic>3D-Koordinatenmesstechnik</topic>
+                        <topic>Defektprothetik</topic>
+                        <topic>Rapid Prototyping</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97679462584</identifier>
+                    <identifier type="sys">HT014298206</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_43568276-7b40-4f8f-ac02-5c998250ecd7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_43568276-7b40-4f8f-ac02-5c998250ecd7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/43568276-7b40-4f8f-ac02-5c998250ecd7/diss_thomas.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_43568276-7b40-4f8f-ac02-5c998250ecd7" DMDID="DMD_43568276-7b40-4f8f-ac02-5c998250ecd7">
+            <mets:fptr FILEID="FILE_43568276-7b40-4f8f-ac02-5c998250ecd7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

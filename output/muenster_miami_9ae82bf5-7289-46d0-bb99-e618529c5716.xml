@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9ae82bf5-7289-46d0-bb99-e618529c5716">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Equivariant K-theory of finite dimensional real vector spaces</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112466982">
+                        <displayForm>Echterhoff, Siegfried</displayForm>
+                        <namePart type="given">Siegfried</namePart>
+                        <namePart type="family">Echterhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/101910936X">
+                        <displayForm>Pfante, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Pfante</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/101910936X">
+                        <displayForm>Pfante, Oliver Alexander</displayForm>
+                        <namePart type="given">Oliver Alexander</namePart>
+                        <namePart type="family">Pfante</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-08-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-10-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>65</start>
+                                <end>94</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10569515211</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9ae82bf5-7289-46d0-bb99-e618529c5716</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9ae82bf5-7289-46d0-bb99-e618529c5716_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9ae82bf5-7289-46d0-bb99-e618529c5716/mjm_vol_2_05.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9ae82bf5-7289-46d0-bb99-e618529c5716" DMDID="DMD_9ae82bf5-7289-46d0-bb99-e618529c5716">
+            <mets:fptr FILEID="FILE_9ae82bf5-7289-46d0-bb99-e618529c5716_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

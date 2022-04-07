@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_281f543d-069c-459d-963b-888efe644cf6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Naive Aufklärung und resignative Entmündigung</title>
+                        <subTitle>das Subjekt zwischen Erkenntnis- und Gesellschaftstheorie</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120809303">
+                        <displayForm>Beer, Raphael</displayForm>
+                        <namePart type="given">Raphael</namePart>
+                        <namePart type="family">Beer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120809303">
+                        <displayForm>Beer, R.</displayForm>
+                        <namePart type="given">R.</namePart>
+                        <namePart type="family">Beer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Geschichte des neuzeitlichen Subjekts ist eine wechselvolle Geschichte. Galt es einst als autonome Gestalt, wurde es zwischenzeitlich für tot erklärt. Die Theorie des Subjekts pendelt zwischen Erkenntnis- und Gesellschaftstheorie. Der Beitrag fragt nach dem Zusammenspiel von Subjekt und Umwelt: Kann das Subjekt seine Umwelt gestalten oder wird es selbst durch diese gestaltet?</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34279534586</identifier>
+                    <identifier type="doi">10.17879/34279533972</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_281f543d-069c-459d-963b-888efe644cf6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_281f543d-069c-459d-963b-888efe644cf6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/281f543d-069c-459d-963b-888efe644cf6/textpraxis_2016_13_beer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_281f543d-069c-459d-963b-888efe644cf6" DMDID="DMD_281f543d-069c-459d-963b-888efe644cf6">
+            <mets:fptr FILEID="FILE_281f543d-069c-459d-963b-888efe644cf6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

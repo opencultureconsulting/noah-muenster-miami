@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3d2147da-26ac-4762-9d3b-a74135193909">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Optimizing the Iraqi Military</title>
+                        <subTitle>Recommendations for an integrated military reform and military integration</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1020048670">
+                        <displayForm>Felbert, Jessica von</displayForm>
+                        <namePart type="given">Jessica von</namePart>
+                        <namePart type="family">Felbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/107769182">
+                        <displayForm>Unterseher, Lutz</displayForm>
+                        <namePart type="given">Lutz</namePart>
+                        <namePart type="family">Unterseher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">StudyThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-01-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-01-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit beinhaltet im Kern einen Maßnahmenkatalog für eine umfassende Militärreform der irakischen Streitkräfte sowie Empfehlungen zur Verbesserung der militärischen Integration.</abstract>
+                    <subject lang="ger">
+                        <topic>Irak</topic>
+                        <topic>Militärreform</topic>
+                        <topic>Verteidigungsplanung</topic>
+                        <topic>Streitkräfte</topic>
+                        <topic>Terrorismus</topic>
+                        <topic>al-Qaida</topic>
+                    </subject>
+                    <classification authority="ddc">320</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38329487420</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3d2147da-26ac-4762-9d3b-a74135193909</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaStudyThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3d2147da-26ac-4762-9d3b-a74135193909_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3d2147da-26ac-4762-9d3b-a74135193909/seminararbeit_von_felbert.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3d2147da-26ac-4762-9d3b-a74135193909" DMDID="DMD_3d2147da-26ac-4762-9d3b-a74135193909">
+            <mets:fptr FILEID="FILE_3d2147da-26ac-4762-9d3b-a74135193909_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

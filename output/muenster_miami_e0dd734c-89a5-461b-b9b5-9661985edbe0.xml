@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e0dd734c-89a5-461b-b9b5-9661985edbe0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Veränderung kognitiver Strukturen: Mikroprozessuale Aspekte der Bewältigung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130635014">
+                        <displayForm>Wentura, Dirk</displayForm>
+                        <namePart type="given">Dirk</namePart>
+                        <namePart type="family">Wentura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1998</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-07-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Berichte aus dem Psychologischen Institut IV</note>
+                    <subject lang="ger">
+                        <topic>Bewältigung</topic>
+                        <topic>Assimilation</topic>
+                        <topic>Akkommodation</topic>
+                        <topic>Selbst-Immunisierung</topic>
+                        <topic>semantisches Gedächtnis</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34149513426</identifier>
+                    <identifier type="sys">HT020206787</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e0dd734c-89a5-461b-b9b5-9661985edbe0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e0dd734c-89a5-461b-b9b5-9661985edbe0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e0dd734c-89a5-461b-b9b5-9661985edbe0/bericht_bpi-iv_1998_13.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e0dd734c-89a5-461b-b9b5-9661985edbe0" DMDID="DMD_e0dd734c-89a5-461b-b9b5-9661985edbe0">
+            <mets:fptr FILEID="FILE_e0dd734c-89a5-461b-b9b5-9661985edbe0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9cae741b-c123-4187-af86-058e4db7156d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Amplified graph C*-algebras</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/156117851">
+                        <displayForm>Eilers, Søren</displayForm>
+                        <namePart type="given">Søren</namePart>
+                        <namePart type="family">Eilers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1060683849">
+                        <displayForm>Ariza Ruiz, Efrén Danilo</displayForm>
+                        <namePart type="given">Efrén Danilo</namePart>
+                        <namePart type="family">Ariza Ruiz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1060683849">
+                        <displayForm>Ariza, Efren Danilo</displayForm>
+                        <namePart type="given">Efren Danilo</namePart>
+                        <namePart type="family">Ariza</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138154873">
+                        <displayForm>Sørensen, Adam P. W.</displayForm>
+                        <namePart type="given">Adam P. W.</namePart>
+                        <namePart type="family">Sørensen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-10-23</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-03-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We provide a complete invariant for graph C*-algebras which are amplified in the sense that whenever there is an edge between two vertices, there are infinitely many. The invariant used is the standard primitive ideal space adorned with a map into {−1, 0, 1, 2,...}, and we prove that the classification result is strong in the sense that isomorphisms at the level of the invariant always lift. We extend the classification result to cover more graphs, and give a range result for the invariant (in the vein of Effros–Handelman–Shen) which is further used to prove that extensions of graph C*-algebras associated to amplified graphs are again graph C*-algebras of amplified graphs.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>121</start>
+                                <end>150</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-88399589618</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9cae741b-c123-4187-af86-058e4db7156d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9cae741b-c123-4187-af86-058e4db7156d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9cae741b-c123-4187-af86-058e4db7156d/mjm_vol_5_08.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9cae741b-c123-4187-af86-058e4db7156d" DMDID="DMD_9cae741b-c123-4187-af86-058e4db7156d">
+            <mets:fptr FILEID="FILE_9cae741b-c123-4187-af86-058e4db7156d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

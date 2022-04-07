@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_76de4fa2-77e9-43c8-8a89-fc9310fcc790">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>DN1p or the &quot;Fluffy&quot; Cerberus of Clock Outputs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lamaze, Angelique</displayForm>
+                        <namePart type="given">Angelique</namePart>
+                        <namePart type="family">Lamaze</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172687233">
+                        <displayForm>Stanewsky, Ralf</displayForm>
+                        <namePart type="given">Ralf</namePart>
+                        <namePart type="family">Stanewsky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-08</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-02-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Drosophila melanogaster is a powerful genetic model to study the circadian clock. Recently, three drosophilists received the Nobel Prize for their intensive past and current work on the molecular clockwork (Nobel Prize 2017). The Drosophila brain clock is composed of about 150 clock neurons distributed along the lateral and dorsal regions of the protocerebrum. These clock neurons control the timing of locomotor behaviors. In standard light–dark (LD) conditions (12–12 h and constant 25°C), flies present a bi-modal locomotor activity pattern controlled by the clock. Flies increase their movement just before the light-transitions, and these behaviors are therefore defined as anticipatory. Two neuronal oscillators control the morning and evening anticipation. Knowing that the molecular clock cycles in phase in all clock neurons in the brain in LD, how can we explain the presence of two behavioral activity peaks separated by 12 h? According to one model, the molecular clock cycles in phase in all clock neurons, but the neuronal activity cycles with a distinct phase in the morning and evening oscillators. An alternative model takes the environmental condition into consideration. One group of clock neurons, the dorso-posterior clock neurons DN1p, drive two peaks of locomotor activity in LD even though their neuronal activity cycles with the same phase (late night/early morning). Interestingly, the locomotor outputs they control differ in their sensitivity to light and temperature. Hence, they must drive outputs to different neuropil regions in the brain, which also receive different inputs. Since 2010 and the presentation of the first specific DN1p manipulations, many studies have been performed to understand the role of this group of neurons in controlling locomotor behaviors. Hence, we review what we know about this heterogeneous group of clock neurons and discuss the second model to explain how clock neurons that oscillate with the same phase can drive behaviors at different times of the day.</abstract>
+                    <note type="citation/reference">Frontiers in Physiology 10 (2020) 1540, 1-14</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster)</note>
+                    <subject lang="eng">
+                        <topic>Drosophila melanogaster</topic>
+                        <topic>circadian clock</topic>
+                        <topic>DN1p</topic>
+                        <topic>locomotor activity</topic>
+                        <topic>temperature response</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-28059548572</identifier>
+                    <identifier type="doi">10.3389/fphys.2019.01540</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_76de4fa2-77e9-43c8-8a89-fc9310fcc790</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_76de4fa2-77e9-43c8-8a89-fc9310fcc790_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/76de4fa2-77e9-43c8-8a89-fc9310fcc790/10.3389_fphys.2019.01540.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_76de4fa2-77e9-43c8-8a89-fc9310fcc790" DMDID="DMD_76de4fa2-77e9-43c8-8a89-fc9310fcc790">
+            <mets:fptr FILEID="FILE_76de4fa2-77e9-43c8-8a89-fc9310fcc790_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

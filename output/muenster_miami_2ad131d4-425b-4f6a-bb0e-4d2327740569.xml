@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2ad131d4-425b-4f6a-bb0e-4d2327740569">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Euler characteristic and congruences of elliptic curves</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Shekhar, Sudhanshu</displayForm>
+                        <namePart type="given">Sudhanshu</namePart>
+                        <namePart type="family">Shekhar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142776882">
+                        <displayForm>Sujatha, Ramdorai</displayForm>
+                        <namePart type="given">Ramdorai</namePart>
+                        <namePart type="family">Sujatha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-10-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Given two elliptic curves over Q that have good ordinary reduction at an odd prime p, and have equivalent, irreducible mod p Galois representations, we study congruences between the Euler characteristics and special L-values over certain noncommutative extensions of Q.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>327</start>
+                                <end>343</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22359592813</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2ad131d4-425b-4f6a-bb0e-4d2327740569</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2ad131d4-425b-4f6a-bb0e-4d2327740569_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2ad131d4-425b-4f6a-bb0e-4d2327740569/mjm_vol_7_13.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2ad131d4-425b-4f6a-bb0e-4d2327740569" DMDID="DMD_2ad131d4-425b-4f6a-bb0e-4d2327740569">
+            <mets:fptr FILEID="FILE_2ad131d4-425b-4f6a-bb0e-4d2327740569_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

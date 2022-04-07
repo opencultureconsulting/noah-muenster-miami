@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fe657dc3-8637-4e5c-97ba-3bd0d0e9bef9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Volkshochschulen nach der &quot;ökonomischen Wende&quot;?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132427745">
+                        <displayForm>Pehl, Klaus</displayForm>
+                        <namePart type="given">Klaus</namePart>
+                        <namePart type="family">Pehl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132427745">
+                        <displayForm>Pehl-Cramer, ...</displayForm>
+                        <namePart type="given">...</namePart>
+                        <namePart type="family">Pehl-Cramer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132427745">
+                        <displayForm>Pel&apos;, Klaus</displayForm>
+                        <namePart type="given">Klaus</namePart>
+                        <namePart type="family">Pel&apos;</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-07-13</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-07-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Dokument aus dem Internetservice DIE FAKTEN des Deutschen Instituts für Erwachsenenbildung, http://www.die-bonn.de/Weiterbildung/Literaturrecherche/Suchfunktion.aspx?Reihe=DIE+FAKTEN</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-71699448173</identifier>
+                    <identifier type="sys">HT014806601</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fe657dc3-8637-4e5c-97ba-3bd0d0e9bef9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fe657dc3-8637-4e5c-97ba-3bd0d0e9bef9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fe657dc3-8637-4e5c-97ba-3bd0d0e9bef9/volkshochschulen_wende.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fe657dc3-8637-4e5c-97ba-3bd0d0e9bef9" DMDID="DMD_fe657dc3-8637-4e5c-97ba-3bd0d0e9bef9">
+            <mets:fptr FILEID="FILE_fe657dc3-8637-4e5c-97ba-3bd0d0e9bef9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

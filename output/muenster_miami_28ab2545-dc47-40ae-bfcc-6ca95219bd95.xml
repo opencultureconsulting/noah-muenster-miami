@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_28ab2545-dc47-40ae-bfcc-6ca95219bd95">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spatial modelling of air pollution for open smart cities</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1191784940">
+                        <displayForm>Gupta, Shivam</displayForm>
+                        <namePart type="given">Shivam</namePart>
+                        <namePart type="family">Gupta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136857736">
+                        <displayForm>Pebesma, Edzer J.</displayForm>
+                        <namePart type="given">Edzer J.</namePart>
+                        <namePart type="family">Pebesma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-07-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-11-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Half of the world’s population already lives in cities, and by 2050 two-thirds of the world’s population are expected to further move into urban areas. This urban growth leads to various environmental, social and economic challenges in cities, hampering the Quality of Life (QoL). Although recent trends in technologies equip us with various tools and techniques that can help in improving quality of life, air pollution remains the ‘biggest environmental health risk’ for decades, impacting individuals’ quality of life and well-being according to World Health Organisation (WHO). Many efforts have been made to measure air quality, but the sparse arrangement of monitoring stations and the lack of data currently make it challenging to develop systems that can capture within-city air pollution variations. To solve this, flexible methods that allow air quality monitoring using easily accessible data sources at the city level are desirable. The present thesis seeks to widen the current knowledge concerning detailed air quality monitoring by developing approaches that can help in tackling existing gaps in the literature. The thesis also demonstrates the applicability of the five approaches developed for enabling air pollution monitoring at the city-scale under the broader framework of the open smart city and for urban health research.</abstract>
+                    <subject lang="eng">
+                        <topic>Air pollution modelling</topic>
+                        <topic>Smart city</topic>
+                        <topic>Sustainability</topic>
+                        <topic>Open data</topic>
+                        <topic>GeoHealth</topic>
+                        <topic>Environmental monitoring</topic>
+                        <topic>Land Use Regression</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34129602773</identifier>
+                    <identifier type="sys">HT020147123</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_28ab2545-dc47-40ae-bfcc-6ca95219bd95</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_28ab2545-dc47-40ae-bfcc-6ca95219bd95_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/28ab2545-dc47-40ae-bfcc-6ca95219bd95/diss_gupta.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_28ab2545-dc47-40ae-bfcc-6ca95219bd95" DMDID="DMD_28ab2545-dc47-40ae-bfcc-6ca95219bd95">
+            <mets:fptr FILEID="FILE_28ab2545-dc47-40ae-bfcc-6ca95219bd95_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

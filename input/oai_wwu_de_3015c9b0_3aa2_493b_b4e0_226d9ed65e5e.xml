@@ -1,0 +1,149 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:3015c9b0-3aa2-493b-b4e0-226d9ed65e5e" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:13">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="ger">
+                    <mods:title script="Latn">Modelle und Algorithmen für mobile Datenobjekte und Umgebungen</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/132340011">
+                    <mods:namePart type="given">Henrik</mods:namePart>
+                    <mods:namePart type="family">Blunck</mods:namePart>
+                    <mods:namePart type="date">1976-</mods:namePart>
+                    <mods:displayForm>Blunck, Henrik</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Klaus H.</mods:namePart>
+                    <mods:namePart type="family">Hinrichs</mods:namePart>
+                    <mods:displayForm>Hinrichs, Klaus H.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2006</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2006-10-27</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2006-11-05</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-03-04</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Im ersten Teil dieser Arbeit werden Anforderungen an die interne Repräsentation der Bewegungen mobiler Objekte beschrieben und eine Modellierung eines Rahmenwerks vorgestellt, das diverse Repräsentationskonzepte für Bewegungen integriert, um auch verschieden charakterisierte Bewegungen realistisch darstellen zu können; hierfür wurde eine umfassende, effiziente und verlässliche Anfragebearbeitung, die auf verschiedensten Bewegungsrepräsentationen operieren kann,  konzipiert. Im zweiten Teil dieser Arbeit wird die speichereffiziente Verarbeitung von geometrischen Daten betrachtet, wie sie in mobilen Umgebungen, in denen Datenverarbeitung von ressourcenbeschränkten Kleinstrechnern durchzuführen ist, von Nutzen sein kann. Konkret werden speicher- und laufzeiteffiziente Algorithmen zum Berechnen von Ausgleichsgeraden, die für die Aggregation von geometrischen und zeitvarianten Daten relevant sind, sowie für die Berechnung der Maximamengen und -schichten von Punktmengen, die für die prioritätsgesteuerte Datenselektion und -gruppierung eingesetzt werden können, präsentiert.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">Moving Objects Databases; Räumliche-temporale Datenbanken;  speichereffiziente Algorithmen;  Algorithmische Geometrie; mobile Informationssysteme</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-20689454101</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/3015c9b0-3aa2-493b-b4e0-226d9ed65e5e</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:3015c9b0-3aa2-493b-b4e0-226d9ed65e5e</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e">
+            <mets:rightsMD ID="RIGHTSMD_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/3015c9b0-3aa2-493b-b4e0-226d9ed65e5e</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="1c4955b8aa3de38be0080100633b814c2d69ce2aca830a0dc3332ed72596b102" CREATED="2016-03-04T11:17:31" CHECKSUMTYPE="SHA-256" SIZE="1329283" ID="ID_FIL_diss_blunck.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3015c9b0-3aa2-493b-b4e0-226d9ed65e5e/diss_blunck.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW3015c9b0-3aa2-493b-b4e0-226d9ed65e5e">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/3015c9b0-3aa2-493b-b4e0-226d9ed65e5e" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_blunck.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_blunck.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e" DMDID="DMD_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e" ID="ID_LOG_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_blunck.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e" xlink:to="ID_PHY_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_blunck.pdf" xlink:to="ID_PHY_diss_blunck.pdf"/>
+          </mets:structLink>
+        </mets:mets>

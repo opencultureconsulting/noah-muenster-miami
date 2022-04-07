@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4d1d7291-0a3e-44c2-b909-5c01ccbdff5a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pi 1 2 -comprehension and the property of Ramsey</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133993205">
+                        <displayForm>Heinatsch, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Heinatsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1089378688">
+                        <displayForm>Pohlers, Wolfram</displayForm>
+                        <namePart type="given">Wolfram</namePart>
+                        <namePart type="family">Pohlers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-02-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-02-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Eigenschaft von Ramsey wird in der reversen Mathematik genutzt, um die Stärke von Teilsystemen der Zahlentheorie der schwachen zweiten Stufe zu vergleichen. Wir zeigen, dass ein Teilsystem, dessen Stärke durch autonom iterierte Ramseyness bestimmt wird, beweistheoretisch äquivalent ist zu Pi-1-2-Komprehension.</abstract>
+                    <abstract lang="eng">The property of Ramsey is used in reverse mathematics to compare the strength of subsystems of second order arithmetic. We show that a subsystem defined by autonomous iterated Ramseyness is prooftheoretically equivalent to Pi-1-2-comprehension.</abstract>
+                    <subject lang="ger">
+                        <topic>reverse Mathematik</topic>
+                        <topic>Satz von Ramsey</topic>
+                        <topic>Zahlentheorie der schwachen zweiten Stufe</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-46519583323</identifier>
+                    <identifier type="sys">HT015513256</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4d1d7291-0a3e-44c2-b909-5c01ccbdff5a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4d1d7291-0a3e-44c2-b909-5c01ccbdff5a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4d1d7291-0a3e-44c2-b909-5c01ccbdff5a/diss_heinatsch.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4d1d7291-0a3e-44c2-b909-5c01ccbdff5a" DMDID="DMD_4d1d7291-0a3e-44c2-b909-5c01ccbdff5a">
+            <mets:fptr FILEID="FILE_4d1d7291-0a3e-44c2-b909-5c01ccbdff5a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,157 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:0bff80c7-aaf2-4a15-b9a2-42563da77e9f" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:34:36">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_0bff80c7-aaf2-4a15-b9a2-42563da77e9f">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="ger">
+                    <mods:title script="Latn">Anfragebearbeitung in einem Datenbank-Kernsystem für Geo-Anwendungen unter Verwendung einer generischen Komponente zur Anfrageoptimierung</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/129231428">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Breimann</mods:namePart>
+                    <mods:namePart type="date">1978-</mods:namePart>
+                    <mods:displayForm>Breimann, Christian</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Klaus H.</mods:namePart>
+                    <mods:namePart type="family">Hinrichs</mods:namePart>
+                    <mods:displayForm>Hinrichs, Klaus H.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2004</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2004-07-09</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2014-02-24</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-06-14</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/postscript</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">In erweiterbaren Datenbanksystemen müssen zur Berücksichtigung einer neuen Anwendungsdomäne neben neuen Datensätzen und benutzerdefinierten Datentypen auch neue Indexstrukturen zur Beschleunigung der Anfragebearbeitung, anwendungsbezogene Algorithmen und Operationen zur Erzeugung von Anfrageergebnissen sowie neue Schlüsselwörter für die Anfragesprache ergänzt werden können. Diese Arbeit beschreibt die in einem objektorientierten Datenbank-Kernsystems eingesetzten Konzepte zur Anfragebearbeitung und betont seine Erweiterbarkeit. Außerdem wird eine neue erweiterbare generische Komponente zur Anfrageoptimierung vorgestellt, die erstmals eine einfache Beschreibung sowohl der algebraischen  Transformationen als auch der Optimierungsstrategie durch textuelle Optimierungsregeln ermöglicht. Dadurch werden zum einen eine leichte Änderbarkeit der Optimierungsstrategie und zum anderen eine einfache Berücksichtigung von Erweiterungen des Systems im Rahmen des Optimierungsprozesses sichergestellt.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">Datenbanksysteme; Anfragebearbeitung; Anfrageoptimierung; erweiterbar; Geoinformationssysteme</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">database systems; query processing; query optimization</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:relatedItem type="otherFormat">
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:eb7dd166-06af-4615-b27c-a399996430bd</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-94309519687</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/0bff80c7-aaf2-4a15-b9a2-42563da77e9f</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:0bff80c7-aaf2-4a15-b9a2-42563da77e9f</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_0bff80c7-aaf2-4a15-b9a2-42563da77e9f">
+            <mets:rightsMD ID="RIGHTSMD_0bff80c7-aaf2-4a15-b9a2-42563da77e9f">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_0bff80c7-aaf2-4a15-b9a2-42563da77e9f">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/0bff80c7-aaf2-4a15-b9a2-42563da77e9f</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/postscript" CHECKSUM="83bd6ec019c5e6265be47214fcad9e143cb31fd269d2625632741f163106c073" CREATED="2016-06-14T14:29:35" CHECKSUMTYPE="SHA-256" SIZE="17250738" ID="ID_FIL_breimann.ps_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0bff80c7-aaf2-4a15-b9a2-42563da77e9f/breimann.ps" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/postscript" ID="DOW0bff80c7-aaf2-4a15-b9a2-42563da77e9f">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/0bff80c7-aaf2-4a15-b9a2-42563da77e9f" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_0bff80c7-aaf2-4a15-b9a2-42563da77e9f" TYPE="physSequence">
+              <mets:div ID="ID_PHY_breimann.ps">
+                <mets:fptr FILEID="ID_FIL_breimann.ps_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_0bff80c7-aaf2-4a15-b9a2-42563da77e9f" DMDID="DMD_0bff80c7-aaf2-4a15-b9a2-42563da77e9f" ID="ID_LOG_0bff80c7-aaf2-4a15-b9a2-42563da77e9f" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_breimann.ps"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_0bff80c7-aaf2-4a15-b9a2-42563da77e9f" xlink:to="ID_PHY_0bff80c7-aaf2-4a15-b9a2-42563da77e9f"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_breimann.ps" xlink:to="ID_PHY_breimann.ps"/>
+          </mets:structLink>
+        </mets:mets>

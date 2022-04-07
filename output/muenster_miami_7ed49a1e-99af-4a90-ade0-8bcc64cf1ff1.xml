@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7ed49a1e-99af-4a90-ade0-8bcc64cf1ff1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>numerical approach to harmonic non-commutative spectral field theory</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1017087903">
+                        <displayForm>Spisso, Bernardino</displayForm>
+                        <namePart type="given">Bernardino</namePart>
+                        <namePart type="family">Spisso</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118016326">
+                        <displayForm>Wulkenhaar, Raimar</displayForm>
+                        <namePart type="given">Raimar</namePart>
+                        <namePart type="family">Wulkenhaar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-10-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-10-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Gegenstand der Arbeit ist die numerische Untersuchung einer über das Spektralwirkungsprinzip definierten nichtkommutativen Feldtheorie. Ausgangspunkt dieser Konstruktion ist ein spektrales Tripel. Dabei ist A die 4-dimensionale nichtkommutative Moyal-Algebra und D ein selbstadjungierter (Dirac-)Operator auf dem Hilbert-Raum H. Für das Produkt aus dem Tripel (A,H,D) mit einem matrixwertigen spektralen Tripel wird analog zum Standardverfahren der nichtkommutativen Geometrie die Spektralwirkung berechnet. Die Renormierungstheorie assoziiert zur Spektralwirkung ein Wahrscheinlichkeitsmaß, Voraussetzung dafür ist die Kenntnis der Lösungen der Euler-Lagrange-Gleichungen. Für das betrachtete Modell erweist es sich als unmöglich, diese Lösungen zu gewinnen. Ein alternatives Verfahren besteht in der Diskretisierung aller Variablen und der numerischen Untersuchung des Verhaltens der Korrelationsfunktionen bei Verfeinerung der Diskretisierung. Durch Monte-Carlo-Simulationen werden wichtige Korrelationsfunktionen wie die Energiedichte, die spezifische Wärme sowie einige Ordnungsparameter untersucht. Dabei werden trotz der Komplexität der approximierten Spektralwirkung verläßliche numerische Resultate erzielt.</abstract>
+                    <abstract lang="eng">The object of this work is the numerical investigation of a non-commutative field theory defined via the spectral action principle. The Starting point is a spectral triple (A,H,D) referred to as harmonic. The construction of these data relies on an 8-dimensional Clifford algebra. The spectral action is computed for the product of the triple (A,H,D) with a matrix-valued spectral triple. Renormalization theory associates to the spectral action a probability measure. Its associated correlation functions define then a field theory. In the perturbative approach this measure is constructed as a formal power series. This requires explicit knowledge of the solutions of the Euler-Lagrange equations. For the model under consideration, it turns out impossible to obtain these solutions. An alternative approach consists in a discretization of all variables and a numerical investigation of the behavior of the correlation functions when the discretization becomes finer. Despite the complexity of the approximated spectral action, some reliable numerical results are obtained, showing that a numerical treatment of this kind of models in the Moyal matrix basis is possible.</abstract>
+                    <subject lang="ger">
+                        <topic>nichtkommutative Geometrie</topic>
+                        <topic>Spektralwirkung</topic>
+                        <topic>nichtkommutative Quantenfeldtheorie</topic>
+                        <topic>Yang-Mills-Higgs-Modelle</topic>
+                        <topic>numerische Simulation</topic>
+                        <topic>Phasenübergänge</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-42469488805</identifier>
+                    <identifier type="sys">HT017032404</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7ed49a1e-99af-4a90-ade0-8bcc64cf1ff1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7ed49a1e-99af-4a90-ade0-8bcc64cf1ff1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7ed49a1e-99af-4a90-ade0-8bcc64cf1ff1/diss_spisso.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7ed49a1e-99af-4a90-ade0-8bcc64cf1ff1" DMDID="DMD_7ed49a1e-99af-4a90-ade0-8bcc64cf1ff1">
+            <mets:fptr FILEID="FILE_7ed49a1e-99af-4a90-ade0-8bcc64cf1ff1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

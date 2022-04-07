@@ -1,0 +1,191 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:40b0fab1-32d6-49f6-a654-e715b1ea2155" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:42:20">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_40b0fab1-32d6-49f6-a654-e715b1ea2155">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="ger">
+                    <mods:title>KVD2 – Ein integriertes wissensbasiertes Modul zur Bemessung von Krankenhausverweildauern</mods:title>
+                    <mods:subTitle>Problemstellung, Konzeption und Realisierung</mods:subTitle>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/179212591">
+                    <mods:namePart type="given">Florian</mods:namePart>
+                    <mods:namePart type="family">Erkelenz</mods:namePart>
+                    <mods:displayForm>Erkelenz, Florian</mods:displayForm>
+                    <mods:affiliation>FB 04: Wirtschaftswissenschaftliche Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>workingPaper</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">1992-12</mods:dateIssued>
+                    <mods:dateOther keyDate="yes" encoding="w3cdtf">2008-09-16</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2008-09-15</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-01-27</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>23</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">In einem Kooperationsprojekt zwischen dem Institut für Wirtschaftsinformatik der Westfälischen Wilhelms-Universität Münster und der Betriebskrankenkasse der Hoesch AG, Dortmund, wurde ein operationales Expertensystem zur Entscheidungsunterstützung realisiert. Das System hat die Aufgabe, die Sachbearbeiter der Krankenkasse bei der Befristung von Krankenhausverweildauern zu unterstützen. Durch eine angemessene Begrenzung sollen die medizinisch nicht begründbaren Verweildaueranteile reduziert und auf diesem Weg eine Kostensenkung im Krankenhaussektor erzielt werden. Das Expertensystem wurde als Modul in das Informationssystem KINFOSH (KrankenkassenINFOrmationsSystem Hoesch) integriert. Die Systementwicklung erfolgte mit der Shell ESE (Expert System Environment). Zur Ergänzung der Wissensrepräsentationsmechanismen von ESE wurde das relationale Datenbanksystem DB2 eingesetzt. Das Anwendungssystem KINFOSH basiert auf dem hierarchischen Datenbanksystem IMS.&lt;br/&gt;</mods:abstract>
+                  <mods:tableOfContents lang="ger">1 Beschreibung der Problemstellung ..... 4&#13;
+1.1 Die Leistung Krankenhauspflege ..... 4&#13;
+1.2 Entscheidungsproblematik im administrativen Bereich ..... 5&#13;
+1.3 Einsatz eines wissensbasierten Systems ..... 5&#13;
+2 Grundsätzliche Anforderungen an das System ..... 5&#13;
+2.1 Medizinische Problemlösungsfähigkeit ..... 6&#13;
+2.2 Aufgabenorientierte Funktionalität ..... 6&#13;
+2.3 Organisatorische und DV-technische Integration ..... 7&#13;
+3 Organisation der Projektdurchführung ..... 7&#13;
+3.1 Ablaufmodell der Entwicklung von KVD2 ..... 7&#13;
+3.1.1 Explorationsphase ..... 9&#13;
+3.1.2 Entwicklungszyklus ..... 9&#13;
+3.2 Aufgabenverteilung ..... 10&#13;
+4 Phasen der Expertensystementwicklung ..... 11&#13;
+4.1 Wissenserhebung unter Berücksichtigung unterschiedlicher Wissensquellen und Akquisitionstechniken ..... 12&#13;
+4.1.1 Statistische Auswertung der Krankenhausfälle ..... 12&#13;
+4.1.2 Expertenbefragungen ..... 13&#13;
+4.2 Strukturierung des Wissens in einem Wissensmodell ..... 14&#13;
+4.3 Dokumentation des Wissensmodells ..... 16&#13;
+5 Entwurf der Wissensbasis ..... 17&#13;
+5.1 Anforderungen an eine problemgerechte Wissensrepräsentationsform ..... 17&#13;
+5.2 Repräsentation des Wissensmodells ..... 17&#13;
+5.2.1 Möglichkeiten der Wissensrepräsentation mit ESE ..... 17&#13;
+5.2.2 Berücksichtigung der Anforderungen an Flexibilität und Wartbarkeit ..... 17&#13;
+5.2.3 Repräsentation des Bereichswissens ..... 18&#13;
+6 Realisierung von KVD2 ..... 19&#13;
+6.1 Softwaretechnische Umgebung und Integrationskonzept ..... 19&#13;
+6.1.1 Spezifikation der Schnittstelle zwischen KVD2 und KINFOSH ..... 20&#13;
+6.1.2 Automatische Diagnoseverschlüsselung ..... 21&#13;
+6.2 Funktionale Integration des Expertensystems in KINFOSH ..... 22&#13;
+6.2.1 Neuaufnahme ..... 22&#13;
+6.2.2 Handhabung von Verlängerungsanträgen ..... 24&#13;
+6.2.3 Beendigung der Krankenhausbehandlung ..... 25&#13;
+6.3 Dokumentation ..... 26&#13;
+6.4 Stand der Realisierung ..... 26&#13;
+Anhang: Implementierte Krankheiten ..... 28</mods:tableOfContents>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:classification authority="ddc">330</mods:classification>
+                  <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Arbeitsberichte des Instituts für Wirtschaftsinformatik</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="volume" order="14">
+                      <mods:detail>
+                        <mods:number>14</mods:number>
+                      </mods:detail>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:a57d7c1d-0d16-4175-b01a-3d70239638dd</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-04509550189</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/40b0fab1-32d6-49f6-a654-e715b1ea2155</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:40b0fab1-32d6-49f6-a654-e715b1ea2155</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_40b0fab1-32d6-49f6-a654-e715b1ea2155">
+            <mets:rightsMD ID="RIGHTSMD_40b0fab1-32d6-49f6-a654-e715b1ea2155">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_40b0fab1-32d6-49f6-a654-e715b1ea2155">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/40b0fab1-32d6-49f6-a654-e715b1ea2155</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="e789c65336bf92c36c6ff3fc399cf23542dbc4adcc15aae743477692a33fe964" CREATED="2015-01-27T14:35:59" CHECKSUMTYPE="SHA-256" SIZE="65267" ID="ID_FIL_014_arbeitsberichte_wirtschaftsinformatik.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/40b0fab1-32d6-49f6-a654-e715b1ea2155/014_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW40b0fab1-32d6-49f6-a654-e715b1ea2155">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/40b0fab1-32d6-49f6-a654-e715b1ea2155" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_40b0fab1-32d6-49f6-a654-e715b1ea2155" TYPE="physSequence">
+              <mets:div ID="ID_PHY_014_arbeitsberichte_wirtschaftsinformatik.pdf">
+                <mets:fptr FILEID="ID_FIL_014_arbeitsberichte_wirtschaftsinformatik.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_40b0fab1-32d6-49f6-a654-e715b1ea2155" DMDID="DMD_40b0fab1-32d6-49f6-a654-e715b1ea2155" ID="ID_LOG_40b0fab1-32d6-49f6-a654-e715b1ea2155" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_014_arbeitsberichte_wirtschaftsinformatik.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_40b0fab1-32d6-49f6-a654-e715b1ea2155" xlink:to="ID_PHY_40b0fab1-32d6-49f6-a654-e715b1ea2155"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_014_arbeitsberichte_wirtschaftsinformatik.pdf" xlink:to="ID_PHY_014_arbeitsberichte_wirtschaftsinformatik.pdf"/>
+          </mets:structLink>
+        </mets:mets>

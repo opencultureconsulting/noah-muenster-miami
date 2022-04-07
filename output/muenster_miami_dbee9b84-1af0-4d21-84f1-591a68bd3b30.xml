@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dbee9b84-1af0-4d21-84f1-591a68bd3b30">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Towards Energy-Aware Ant Routing in Wireless Multi-Hop Networks</title>
+                        <subTitle>Technical Report</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/17162680X">
+                        <displayForm>Frey, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Frey</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128811412">
+                        <displayForm>Güneş, Mesut</displayForm>
+                        <namePart type="given">Mesut</namePart>
+                        <namePart type="family">Güneş</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grosse, Friedrich</displayForm>
+                        <namePart type="given">Friedrich</namePart>
+                        <namePart type="family">Grosse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-12-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ein drahtloses Multi-Hop-Netzwerk (engl., wireless multi-hop network, WMHN) zeichnet sich besonders durch zwei Eigenschaften aus: i) vollständig drahtloses Netzwerk und ii) Multi-Hop-Kommunikation. In der Literatur werden verschiedene Varianten von WMHNs behandelt, z.B., drahtlose Maschennetze (engl., wireless mesh network, WMN), drahtlose Sensornetze (engl., wireless sensor network, WSN) und mobile Ad-hoc-Netze (engl., mobile ad hoc network, MANET). Alle diese Varianten von WMHNs teilen die erwähnten Eigenschaften und können deshalb auf die gleiche Art und Weise untersucht werden. In diesem technischen Bericht werden zwei wichtige Faktoren dieser Netze studiert: Routing (Wegefindung) und die Berücksichtigung der Energie der Knoten im Netzwerk. Zunächst erfolgt eine Einführung in die Funktionsweise des Ant Routing Algorithmus (ARA). ARA ist ein hoch adaptives, effizientes und skalierbares Routing-Verfahren, welches auf Ameisenalgorithmen basiert. Darauf aufbauend werden verschiedene Ansätze zur Integration der verfügbaren Energie der Teilnehmer in das Routing diskutiert und die ARA Erweiterung, der Energy-Aware Ant Routing Algorithmus (EARA), vorgestellt. Ziel von EARA ist die Maximierung der Netzwerklebenszeit, welche durch die verfügbare Energie der Knoten begrenzt wird.</abstract>
+                    <abstract lang="eng">A wireless multi-hop network (WMHN) is particularly described by two properties: i) full radio networks and ii) multi-hop communication. There are several instances of WMHNs in literature like wireless mesh networks (WMNs), wireless sensor networks (WSNs), and mobile ad-hoc networks (MANETs). All these types of WMHNs share the aforementioned properties and thus researchers can study them in similar ways. In this study, we address two key issues in these networks: routing and energy awareness in the routing. For this we describe ant routing algorithm (ARA), a highly adaptive, efficient, and scalable routing protocol based on ant algorithms, which are a class of swarm intelligence algorithms. Furthermore, we discuss the integration of energy awareness in ARA and describe the resulting energy-aware ant routing algorithm (EARA). The goal of EARA is to maximize the network lifetime which is generally restricted by the limited energy available to nodes.</abstract>
+                    <subject lang="ger">
+                        <topic>Drahtlose Kommunikation</topic>
+                        <topic>Drahtlose Multi-hop-Netze</topic>
+                        <topic>Ad-Hoc-Netzwerke</topic>
+                        <topic>Ant Routing Algorithm</topic>
+                        <topic>Energy-Aware Ant Routing</topic>
+                        <topic>Selbstorganisation</topic>
+                        <topic>Natur-inspirierte Verfahren</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Energy-Aware Ant Routing</topic>
+                        <topic>Ant Routing Algorithm</topic>
+                        <topic>Ad Hoc Networks</topic>
+                        <topic>Wireless Multi-hop Networks</topic>
+                        <topic>Wireless Communication</topic>
+                        <topic>Self-Organization</topic>
+                        <topic>Bio-Inspired Networking Algorithms</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-41319656523</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nd/3.0/de/">CC BY-ND 3.0 DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dbee9b84-1af0-4d21-84f1-591a68bd3b30</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dbee9b84-1af0-4d21-84f1-591a68bd3b30_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dbee9b84-1af0-4d21-84f1-591a68bd3b30/report_frey_guenes_grosse_2014.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dbee9b84-1af0-4d21-84f1-591a68bd3b30" DMDID="DMD_dbee9b84-1af0-4d21-84f1-591a68bd3b30">
+            <mets:fptr FILEID="FILE_dbee9b84-1af0-4d21-84f1-591a68bd3b30_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

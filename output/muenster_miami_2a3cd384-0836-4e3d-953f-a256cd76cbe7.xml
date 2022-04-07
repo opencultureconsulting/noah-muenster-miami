@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2a3cd384-0836-4e3d-953f-a256cd76cbe7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Chemometric methods for microarray data analysis and their application to leukemia subtype identification</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129245569">
+                        <displayForm>Frauendorfer, Eric Andrés</displayForm>
+                        <namePart type="given">Eric Andrés</namePart>
+                        <namePart type="family">Frauendorfer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138580502">
+                        <displayForm>Cammann, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Cammann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-07-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-07-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Verschiedene chemometrische Methoden wurden entwickelt, die die komplette Datenverarbeitungskette bei der Analyse von Affymetrix U133 DNA Biosensoren umfassen. Ziel war es die Qualität der Daten zu erhöhen. Dafür wurden Indikatoren erstellt, mit deren Hilfe es möglich ist, Signale mangelnder Qualität zu detektieren, sowie Hintergrund und Artefakte zu entfernen. Diese Methoden können mit einem ebenfalls neu entwickeltes Datenbank-System verwendet werden, um bei der gesamten Datenverarbeitung die Qualität der Daten zu gewährleisten. Angewandt wurde dieses System bei der Diskriminierung von verschiedenen pädiatrischen Leukämie-Typen. Es wurden Indikator-Gene gefunden, mit deren Hilfe unbekannte Leukämie-Proben klassifiziert werden können.</abstract>
+                    <subject lang="ger">
+                        <topic>DNA-Chip</topic>
+                        <topic>Affymetrix</topic>
+                        <topic>Chemometrie</topic>
+                        <topic>Bioanalytik</topic>
+                        <topic>Krebsdiagnostik</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-69619526883</identifier>
+                    <identifier type="sys">HT014117376</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2a3cd384-0836-4e3d-953f-a256cd76cbe7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2a3cd384-0836-4e3d-953f-a256cd76cbe7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2a3cd384-0836-4e3d-953f-a256cd76cbe7/doctorarbeit_frauendorfer_ulb.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2a3cd384-0836-4e3d-953f-a256cd76cbe7" DMDID="DMD_2a3cd384-0836-4e3d-953f-a256cd76cbe7">
+            <mets:fptr FILEID="FILE_2a3cd384-0836-4e3d-953f-a256cd76cbe7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

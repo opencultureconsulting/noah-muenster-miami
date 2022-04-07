@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_05703d86-b03b-4218-a5bc-f670f42d7a83">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einfluss des Primärstoffwechsels auf die Stressantwort und Entwicklung in Nicotiana tabacum</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1074417259">
+                        <displayForm>Hassa, Sebastian</displayForm>
+                        <namePart type="given">Sebastian</namePart>
+                        <namePart type="family">Hassa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111933900">
+                        <displayForm>Schaewen, Antje</displayForm>
+                        <namePart type="given">Antje</namePart>
+                        <namePart type="family">Schaewen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-07-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-07-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Erhöhungen der pflanzlichen Stresstoleranz sind i.d.R. mit Ertragsverlusten verbunden, da viel Energie für die Stressantworten verwendet werden muss. Ziel der Arbeit war es durch gentechnische Veränderungen des Energie-produzierenden Primärstoffwechsels die generelle Stresstoleranz ohne einen Verlust an Biomasse/Ertrag zu erhöhen. Im Mittelpunkt standen Untersuchungen des oxidativen Pentosephosphatweges, welcher Energie in Form von Reduktionsequivalenten (NADPH) bereitstellt. Ein Isoenzymaustausch des Schlüsselenzyms Glucose-6-Phosphatdehydrogenase (G6PDH) im Cytosol mit einer plastidären Isoform mit verbesserten kinetischen Eigenschaften führte in verschiedenen Tabak-Kultivaren zu einer Erhöhung der generellen Stresstoleranz, ohne gleichzeitigen Ertragsverlust. Konstitutive Veränderungen von zahlreichen Metaboliten (Kohlenhydraten, Prolin, Lipide etc.) und die Zunahme der sogenannten sink-Stärke könnten dabei an der Erhöhung der Stresstoleranz in Blättern und Saatgut beteiligt sein.</abstract>
+                    <subject lang="ger">
+                        <topic>Glucose-6-Phosphatdehydrogenase (G6PDH)</topic>
+                        <topic>pflanzliche Stressresistenz</topic>
+                        <topic>oxidativer Pentosephosphatweg (OPP)</topic>
+                        <topic>Isoenzymaustausch</topic>
+                        <topic>sink-Stärke</topic>
+                        <topic>Biomasse</topic>
+                        <topic>NADPH</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98289710226</identifier>
+                    <identifier type="sys">HT018714142</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_05703d86-b03b-4218-a5bc-f670f42d7a83</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_05703d86-b03b-4218-a5bc-f670f42d7a83_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/05703d86-b03b-4218-a5bc-f670f42d7a83/diss_hassa.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_05703d86-b03b-4218-a5bc-f670f42d7a83" DMDID="DMD_05703d86-b03b-4218-a5bc-f670f42d7a83">
+            <mets:fptr FILEID="FILE_05703d86-b03b-4218-a5bc-f670f42d7a83_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

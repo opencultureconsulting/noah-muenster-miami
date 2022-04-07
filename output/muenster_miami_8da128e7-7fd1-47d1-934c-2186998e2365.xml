@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8da128e7-7fd1-47d1-934c-2186998e2365">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;So fürchtet euch denn nicht; ihr seid besser als viele Sperlinge&quot; – oder etwa nicht?</title>
+                        <subTitle>der Sperling zwischen Vogelmord und Vogelliebe</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1139942611">
+                        <displayForm>Reinhardt, Alexa</displayForm>
+                        <namePart type="given">Alexa</namePart>
+                        <namePart type="family">Reinhardt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt, Julia</displayForm>
+                        <namePart type="given">Julia</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hofmann, Carolin</displayForm>
+                        <namePart type="given">Carolin</namePart>
+                        <namePart type="family">Hofmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106971697">
+                        <displayForm>Hesse, Manfred</displayForm>
+                        <namePart type="given">Manfred</namePart>
+                        <namePart type="family">Hesse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">oth</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-12-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Die Publikation ist eine stark gekürzte Fassung der etwa 92-seitigen Arbeit (mit 13 Abb., 2 Tab., 11 Faksimiles und Anhang) im Rahmen des &quot;Schülerwettbewerbs Deutsche Geschichte um den Preis des Bundespräsidenten&quot;.</note>
+                    <note type="ownership">Veröffentlichung mit freundlicher Genehmigung der Körber-Stiftung, Hamburg</note>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Tiere</topic>
+                        <topic>Geschichte</topic>
+                        <topic>Schülerwettbewerb</topic>
+                        <topic>Sperling</topic>
+                        <topic>Vogelschutz</topic>
+                        <topic>Schülerarbeit</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>17</start>
+                                <end>40</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659546311</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8da128e7-7fd1-47d1-934c-2186998e2365</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8da128e7-7fd1-47d1-934c-2186998e2365_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8da128e7-7fd1-47d1-934c-2186998e2365/sperling.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8da128e7-7fd1-47d1-934c-2186998e2365" DMDID="DMD_8da128e7-7fd1-47d1-934c-2186998e2365">
+            <mets:fptr FILEID="FILE_8da128e7-7fd1-47d1-934c-2186998e2365_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

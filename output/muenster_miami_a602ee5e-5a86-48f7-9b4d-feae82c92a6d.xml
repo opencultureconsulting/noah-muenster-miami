@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a602ee5e-5a86-48f7-9b4d-feae82c92a6d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fahrstuhlfahrten und Einstiegsschwierigkeiten</title>
+                        <subTitle>Erschließungstechniken in Georges Perecs &quot;La Vie mode d’emploi&quot;</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1033495492">
+                        <displayForm>Mohs, Johanne</displayForm>
+                        <namePart type="given">Johanne</namePart>
+                        <namePart type="family">Mohs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-06-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Artikel ist eine produktionsästhetische Untersuchung zu Einstiegsschwierigkeiten in literarische Schreibprozesse und ihre Auflösung mithilfe räumlicher und sprachspielerischer Erschließungstechniken. Als Beispiel dient mir die Poetik des OuLiPo (»Ouvroir de littérature potentielle«) und hier insbesondere (die Genese von) Georges Perecs Roman »La vie mode d’emploi«. Genauer wird daran gezeigt, wie Perec eine blockierte Fahrstuhlfahrt als metaphorische Referenz auf seine anfängliche Schreibhemmung in den Roman einfügt und wie diese Referenz als Kommentar zur Erzählbarkeit komplexer Raum-Zeit-Gefüge im Gesellschaftsroman des 20. Jahrhunderts, insbesondere zu Marcel Prousts »Recherche«, verstanden werden kann.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93349431489</identifier>
+                    <identifier type="doi">10.17879/27289464053</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a602ee5e-5a86-48f7-9b4d-feae82c92a6d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a602ee5e-5a86-48f7-9b4d-feae82c92a6d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a602ee5e-5a86-48f7-9b4d-feae82c92a6d/Textpraxis_2014_8_1_mohs.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a602ee5e-5a86-48f7-9b4d-feae82c92a6d" DMDID="DMD_a602ee5e-5a86-48f7-9b4d-feae82c92a6d">
+            <mets:fptr FILEID="FILE_a602ee5e-5a86-48f7-9b4d-feae82c92a6d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

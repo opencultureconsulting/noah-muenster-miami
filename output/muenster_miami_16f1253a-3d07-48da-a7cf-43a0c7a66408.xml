@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_16f1253a-3d07-48da-a7cf-43a0c7a66408">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Simplification orders in term rewriting</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123801702">
+                        <displayForm>Lepper, Ingo</displayForm>
+                        <namePart type="given">Ingo</namePart>
+                        <namePart type="family">Lepper</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112474306">
+                        <displayForm>Weiermann, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Weiermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-06-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2001-12-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Thema der Arbeit ist die Anwendung von Methoden der Beweistheorie auf Termersetzungssysteme, deren Termination mittels einer Simplifikationsordnung beweisbar ist. Es werden optimale Schranken für Herleitungslängen im allgemeinen Fall und im Fall der Termination mittels einer Knuth-Bendix-Ordnung (KBO) angegeben. Zudem werden die Ordnungstypen von KBOs vollständig klassifiziert und die unter KBO berechenbaren Funktionen vorgestellt. Einen weiteren Schwerpunkt bildet die Untersuchung der Löngen von Reduktionsketten, die bei einfach terminierenden Termersetzungssysteme auftreten und bestimmten Wachstumsbedingungen genügen.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659551103</identifier>
+                    <identifier type="sys">HT013485794</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_16f1253a-3d07-48da-a7cf-43a0c7a66408</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_16f1253a-3d07-48da-a7cf-43a0c7a66408_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/16f1253a-3d07-48da-a7cf-43a0c7a66408/diss.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_16f1253a-3d07-48da-a7cf-43a0c7a66408" DMDID="DMD_16f1253a-3d07-48da-a7cf-43a0c7a66408">
+            <mets:fptr FILEID="FILE_16f1253a-3d07-48da-a7cf-43a0c7a66408_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

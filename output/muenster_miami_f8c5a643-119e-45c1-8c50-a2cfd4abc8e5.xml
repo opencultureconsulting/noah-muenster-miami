@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f8c5a643-119e-45c1-8c50-a2cfd4abc8e5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung von Z-Scheiben-Proteinen in quergestreiften Muskeln mittels 2-D-Elektrophorese</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1016384750">
+                        <displayForm>Klede, Stefanie</displayForm>
+                        <namePart type="given">Stefanie</namePart>
+                        <namePart type="family">Klede</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1026679397">
+                        <displayForm>Linke, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Linke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-09-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-09-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel dieser Arbeit war es, Faktoren bzw. Mechanismen zu identifizieren, die an der Regulation der MLP-abhängigen Signaltransduktion im Herzen beteiligt sind. Dafür wurde 1. das homozygote MLP knock-out (KO) Mausmodel bezüglich kardialer Proteomveränderungen untersucht und 2. posttranslationale Modifikationen in MLP identifiziert und charakterisiert. 2-D-DIGE-Analysen an ein, vier und 12 Wochen alten MLP KO und wt Herzen ergaben im MLP KO Veränderungen in 200 Proteinspots. Im kardialen MLP wurden zwei konservierte Phosphorylierungsstellen, an S95 und S46, identifiziert. PKC epsilon phosphoryliert MLP in vitro an S46. ERK1/2 phosphoryliert und Calcineurin (CnA) dephosphoryliert MLP an S95. Die MLP S95 Phosphorylierung wird durch den CnA- und MAPK-Signalweg reguliert. In hypertrophen Hundeherzen mit diastolischer Herzinsuffizienz war die S95 Phosphorylierung um 40% vermindert, was vermutlich auf eine verstärkte CnA-vermittelte Dephosphorylierung zurückzuführen ist.</abstract>
+                    <subject lang="ger">
+                        <topic>MLP</topic>
+                        <topic>CSRP3</topic>
+                        <topic>Calcineurin</topic>
+                        <topic>ERK1/2</topic>
+                        <topic>PKCepsilon</topic>
+                        <topic>Muskel LIM Protein</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92489651964</identifier>
+                    <identifier type="sys">HT017005221</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f8c5a643-119e-45c1-8c50-a2cfd4abc8e5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f8c5a643-119e-45c1-8c50-a2cfd4abc8e5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f8c5a643-119e-45c1-8c50-a2cfd4abc8e5/diss_klede.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f8c5a643-119e-45c1-8c50-a2cfd4abc8e5" DMDID="DMD_f8c5a643-119e-45c1-8c50-a2cfd4abc8e5">
+            <mets:fptr FILEID="FILE_f8c5a643-119e-45c1-8c50-a2cfd4abc8e5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

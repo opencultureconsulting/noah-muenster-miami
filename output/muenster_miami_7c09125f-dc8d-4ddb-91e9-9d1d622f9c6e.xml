@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7c09125f-dc8d-4ddb-91e9-9d1d622f9c6e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Numerische Methoden zur Erforschung einer N = 1 Super Yang-Mills-Theorie mit SU(2)c und SU(3)c Wilson Fermionen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138787557">
+                        <displayForm>Ferling, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Ferling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, Gernot</displayForm>
+                        <namePart type="given">Gernot</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-07-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-05-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Supersymmetrie ist eine Erweiterung des Standardmodells der Elementarteilchenphysik und vermag es, einige der dort vorkommenden Rätsel aufzulösen. Hierzu wird die zugrunde gelegte Poincare-Algebra durch eine Graduierung erweitert. Aufbauend auf dem Superraum-Formalismus lässt sich eine nichtabelsche supersymmetrische Feldtheorie formulieren, die die Super-Yang-Mills-Wirkung beinhaltet. Ziel der Arbeit war die numerische Untersuchung des Teilchenspektrums der Theorie. Hierzu wurde die gitter-diskretisierte Form der Wirkung nach dem Konzept von Wilson mit der Curci-Veneziano Fermionwirkung verwendet. Um bessere Symmetrieeigenschaften schon bei endlichen Gitterabständen erreichen zu können, eignen sich Tree-level Symanzik- und STOUT-verbesserte Wirkungen. Zur performanten Realisierung eines Update-Programms für Feldkonfigurationen wurde erstmals für dieses Model ein Hybrid Monte-Carlo Algorithmus mit einer polynomialen Approximation der Fermion-Matrix (PHMC) implementiert.</abstract>
+                    <subject lang="ger">
+                        <topic>PHMC</topic>
+                        <topic>Supersymmetrie</topic>
+                        <topic>numerische Simulation</topic>
+                        <topic>Wilson Fermionen</topic>
+                        <topic>verbesserte Wirkungen</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61509473007</identifier>
+                    <identifier type="sys">HT016203255</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7c09125f-dc8d-4ddb-91e9-9d1d622f9c6e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7c09125f-dc8d-4ddb-91e9-9d1d622f9c6e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7c09125f-dc8d-4ddb-91e9-9d1d622f9c6e/diss_ferling.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7c09125f-dc8d-4ddb-91e9-9d1d622f9c6e" DMDID="DMD_7c09125f-dc8d-4ddb-91e9-9d1d622f9c6e">
+            <mets:fptr FILEID="FILE_7c09125f-dc8d-4ddb-91e9-9d1d622f9c6e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

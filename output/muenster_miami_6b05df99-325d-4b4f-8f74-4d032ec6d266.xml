@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6b05df99-325d-4b4f-8f74-4d032ec6d266">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>4D imaging in tomography and optical nanoscopy</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142430625">
+                        <displayForm>Brune, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Brune</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Dissertation gehört zu den Gebieten mathematische Bildverarbeitung und inverse Probleme. Ein inverses Problem ist die Aufgabe, Modellparameter anhand von gemessenen Daten zu berechnen. Solche Probleme treten in zahlreichen Anwendungen in Wissenschaft und Technik auf, z.B. in medizinischer Bildgebung, Biophysik oder Astronomie. Wir betrachten Rekonstruktionsprobleme mit Poisson Rauschen in der Tomographie und optischen Nanoskopie. Bei letzterer gilt es Bilder ausgehend von verzerrten und verrauschten Messungen zu rekonstruieren, wohingegen in der Positronen-Emissions-Tomographie die Aufgabe in der Visualisierung physiologischer Prozesse eines Patienten besteht. Standardmethoden zur 3D Bildrekonstruktion berücksichtigen keine zeitabhängigen Informationen oder Dynamik, z.B. Herzschlag oder Atmung in der Tomographie oder Zellmigration in der Mikroskopie. Diese Dissertation behandelt Modelle, Analyse und effiziente Algorithmen für 3D und 4D zeitabhängige inverse Probleme.</abstract>
+                    <abstract lang="eng">This thesis contributes to the field of mathematical image processing and inverse problems. An inverse problem is a task, where the values of some model parameters must be computed from observed data. Such problems arise in a wide variety of applications in sciences and engineering, such as medical imaging, biophysics or astronomy. We mainly consider reconstruction problems with Poisson noise in tomography and optical nanoscopy. In the latter case, the task is to reconstruct images from blurred and noisy measurements, whereas in positron emission tomography the task is to visualize physiological processes of a patient. In 3D static image reconstruction standard methods do not incorporate time-dependent information or dynamics, e.g. heart beat or breathing in tomography or cell motion in microscopy. This thesis is a treatise on models, analysis and efficient algorithms to solve 3D and 4D time-dependent inverse problems.</abstract>
+                    <subject lang="ger">
+                        <topic>4D Bildrekonstruktion</topic>
+                        <topic>inverse Probleme</topic>
+                        <topic>Poisson Rauschen</topic>
+                        <topic>totale Variation</topic>
+                        <topic>Bregman Distanz</topic>
+                        <topic>optimaler Transport</topic>
+                        <topic>konvexe Splitting Methoden</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67429592028</identifier>
+                    <identifier type="sys">HT016529583</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6b05df99-325d-4b4f-8f74-4d032ec6d266</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6b05df99-325d-4b4f-8f74-4d032ec6d266_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6b05df99-325d-4b4f-8f74-4d032ec6d266/diss_brune.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6b05df99-325d-4b4f-8f74-4d032ec6d266" DMDID="DMD_6b05df99-325d-4b4f-8f74-4d032ec6d266">
+            <mets:fptr FILEID="FILE_6b05df99-325d-4b4f-8f74-4d032ec6d266_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

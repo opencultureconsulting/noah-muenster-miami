@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4e3f093b-406a-4cbc-9883-30fd0980dad4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Controlling cooperation and recovery in nested transactions</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/176623264">
+                        <displayForm>Meckenstock, Axel</displayForm>
+                        <namePart type="given">Axel</namePart>
+                        <namePart type="family">Meckenstock</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1063138698">
+                        <displayForm>Unland, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Unland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/11208754X">
+                        <displayForm>Zimmer, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Zimmer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Recovery is a hard problem in environments where transactions perform work in a cooperative style (e.g., design environments). We propose concepts to control cooperation and recovery within nested transaction hierarchies. By allowing different nodes to run different protocols, we can build so-called recovery spheres with well-defined properties. We characterize those properties and illustrate them by examples from design environments.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43599545328</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4e3f093b-406a-4cbc-9883-30fd0980dad4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4e3f093b-406a-4cbc-9883-30fd0980dad4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4e3f093b-406a-4cbc-9883-30fd0980dad4/032_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4e3f093b-406a-4cbc-9883-30fd0980dad4" DMDID="DMD_4e3f093b-406a-4cbc-9883-30fd0980dad4">
+            <mets:fptr FILEID="FILE_4e3f093b-406a-4cbc-9883-30fd0980dad4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

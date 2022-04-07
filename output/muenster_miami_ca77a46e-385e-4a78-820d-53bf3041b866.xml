@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ca77a46e-385e-4a78-820d-53bf3041b866">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Models of Poetics</title>
+                        <subTitle>A Response to Robert Matthias Erdbeer’s Poetik der Modelle</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1148625453">
+                        <displayForm>Tenev, Darin</displayForm>
+                        <namePart type="given">Darin</namePart>
+                        <namePart type="family">Tenev</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-12-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ausgehend von Robert Matthias Erdbeers Beitrag »Poetik der Modelle« aus Textpraxis # 11 reflektiert Darin Tenev den Terminus ›Eigensinn‹ als das emergente Potenzial eines literarischen Textes und dessen modellbildende Strukturen. Zudem stellt er den Gewinn von Erdbeers Ansatz für die Konstitution historischer und systematischer literarischer Modelle dar.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20259569507</identifier>
+                    <identifier type="doi">10.17879/20259569065</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ca77a46e-385e-4a78-820d-53bf3041b866</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ca77a46e-385e-4a78-820d-53bf3041b866_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ca77a46e-385e-4a78-820d-53bf3041b866/textpraxis_2017_14_tenev.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ca77a46e-385e-4a78-820d-53bf3041b866" DMDID="DMD_ca77a46e-385e-4a78-820d-53bf3041b866">
+            <mets:fptr FILEID="FILE_ca77a46e-385e-4a78-820d-53bf3041b866_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

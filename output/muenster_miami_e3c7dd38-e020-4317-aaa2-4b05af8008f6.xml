@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e3c7dd38-e020-4317-aaa2-4b05af8008f6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>verschlägt einem die Fremdsprache</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110046676">
+                        <displayForm>Valdueza, Rafael</displayForm>
+                        <namePart type="given">Rafael</namePart>
+                        <namePart type="family">Valdueza</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-06</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Autor macht anhand konkreter aber anonymer Fälle auf Missstände in der Lehre des Faches Deutsch an einer spanischen Universität aufmerksam. Dabei weist er unter anderem auf eklatante Unterschiede zu Prüfungen in den Sprachen Englisch und Französisch hin. Vor allem beklagt er, dass die Motivation der jungen Studenten auf diese Weise stark beeinträchtigt wird.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Papers in applied linguistics Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Papers in applied linguistics Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659547356</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e3c7dd38-e020-4317-aaa2-4b05af8008f6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e3c7dd38-e020-4317-aaa2-4b05af8008f6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e3c7dd38-e020-4317-aaa2-4b05af8008f6/2002_06.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e3c7dd38-e020-4317-aaa2-4b05af8008f6" DMDID="DMD_e3c7dd38-e020-4317-aaa2-4b05af8008f6">
+            <mets:fptr FILEID="FILE_e3c7dd38-e020-4317-aaa2-4b05af8008f6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

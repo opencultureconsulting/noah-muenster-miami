@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2a2e08bc-7876-4bcd-8cb4-28d49d6afed6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>HPV-induzierte Genmethylierung von Cyclin A1 bei malignen Tumoren des Rachens</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1199971936">
+                        <displayForm>Kovacic, Alina Isabel</displayForm>
+                        <namePart type="given">Alina Isabel</namePart>
+                        <namePart type="family">Kovacic</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weiss, Daniel</displayForm>
+                        <namePart type="given">Daniel</namePart>
+                        <namePart type="family">Weiss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-11-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-10-31</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit sind benigne Humane Orale Keratinozyten (HOK) mit HPV16 E6E7 immortalisiert und kultiviert worden. Die Expression von E6E7 in den HOK wurde mit einer PCR bestätigt. Mit einer methylierungsspezifischen PCR konnte keine Änderung der Methylierung von Cyclin A1 gezeigt werden. Mit einer reversen Transkriptase PCR konnte ebenfalls keine Änderung der Expression von Cyclin A1, aber eine erhöhte Expression der DNMT in den E6E7 positiven HOK nachgewiesen werden. Die relative Quantifizierung der PCR-Ergebnisse der DNMT ergab eine 6,8-fache Erhöhung der Expression von DNMT1, eine 2,75-fache der DNMT3b und eine 1,09-fache der DNMT3a. Dies lässt eine vermehrte Methylierung von Genen in diesen Zellen vermuten. Die dennoch fehlende Veränderung der Cyclin A1 Expression oder Methylierung deutet auf Prozesse in vivo hin, welche in diesem Modell nicht nachgestellt wurden. Zudem wurde eine für E6 bzw. E7 interferierende RNA (miRNA) für die weitere Forschung erstellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Cyclin A1</topic>
+                        <topic>HPV16 E6/E7</topic>
+                        <topic>DNMT</topic>
+                        <topic>Humane orale Keratinozyten</topic>
+                        <topic>HPV 16</topic>
+                        <topic>DNMT1</topic>
+                        <topic>DNMT3b</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-13119580690</identifier>
+                    <identifier type="sys">HT020287917</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2a2e08bc-7876-4bcd-8cb4-28d49d6afed6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2a2e08bc-7876-4bcd-8cb4-28d49d6afed6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2a2e08bc-7876-4bcd-8cb4-28d49d6afed6/diss_kovacic.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2a2e08bc-7876-4bcd-8cb4-28d49d6afed6" DMDID="DMD_2a2e08bc-7876-4bcd-8cb4-28d49d6afed6">
+            <mets:fptr FILEID="FILE_2a2e08bc-7876-4bcd-8cb4-28d49d6afed6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

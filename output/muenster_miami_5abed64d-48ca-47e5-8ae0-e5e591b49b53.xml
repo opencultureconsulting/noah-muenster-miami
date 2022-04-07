@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5abed64d-48ca-47e5-8ae0-e5e591b49b53">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Biochemical Characterization of the SPATE Members EspPα and EspI</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/104279216X">
+                        <displayForm>Weiss, André</displayForm>
+                        <namePart type="given">André</namePart>
+                        <namePart type="family">Weiss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113834088X">
+                        <displayForm>Kortemeier, David</displayForm>
+                        <namePart type="given">David</namePart>
+                        <namePart type="family">Kortemeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137498993">
+                        <displayForm>Brockmeyer, Jens</displayForm>
+                        <namePart type="given">Jens</namePart>
+                        <namePart type="family">Brockmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-09-16</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-12-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The activity of serine proteases is influenced by their substrate specificity as well as by the physicochemical conditions. Here, we present the characterization of key biochemical features of the two SPATE members EspPα and EspI from Shiga-toxin producing Escherichia coli (STEC) and enterohemorrhagic E. coli (EHEC). Both proteases show high activity at conditions mimicking the human blood stream. Optimal activities were observed at slightly alkaline pH and low millimolar concentrations of the divalent cations Ca2+ and Mg2+ at physiological temperatures indicating a function in the human host. Furthermore, we provide the first cleavage profile for EspI demonstrating pronounced specificity of this protease.</abstract>
+                    <note type="citation/reference">Toxins 6 (2014) 9, 2719-2731</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>EspPα</topic>
+                        <topic>EspI</topic>
+                        <topic>SPATE</topic>
+                        <topic>virulence factor</topic>
+                        <topic>EHEC</topic>
+                        <topic>STEC</topic>
+                        <topic>biochemical characterisation</topic>
+                        <topic>substrate specificity</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-91319380992</identifier>
+                    <identifier type="doi">doi:10.3390/toxins6092719</identifier>
+                    <identifier type="issn">2072-6651</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5abed64d-48ca-47e5-8ae0-e5e591b49b53</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5abed64d-48ca-47e5-8ae0-e5e591b49b53_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5abed64d-48ca-47e5-8ae0-e5e591b49b53/toxins-06-02719.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5abed64d-48ca-47e5-8ae0-e5e591b49b53" DMDID="DMD_5abed64d-48ca-47e5-8ae0-e5e591b49b53">
+            <mets:fptr FILEID="FILE_5abed64d-48ca-47e5-8ae0-e5e591b49b53_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,169 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:691f863a-0449-4b3a-97b2-d48790ad8d51" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:45:36">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_691f863a-0449-4b3a-97b2-d48790ad8d51">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Semantics-based locking</mods:title>
+                    <mods:subTitle>from isolation to cooperation</mods:subTitle>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1063138698">
+                    <mods:namePart type="given">Rainer</mods:namePart>
+                    <mods:namePart type="family">Unland</mods:namePart>
+                    <mods:displayForm>Unland, Rainer</mods:displayForm>
+                    <mods:affiliation>FB 04: Wirtschaftswissenschaftliche Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>workingPaper</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">1994-03</mods:dateIssued>
+                    <mods:dateOther keyDate="yes" encoding="w3cdtf">2008-09-22</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2008-09-21</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-01-27</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>37</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">'Advanced database applications', such as CAD/CAM, CASE, large AI applications or imageand voice processing, place demands on transaction management which differ substantially from those of traditional database applications. In particular, there is a need to support 'enriched' data models (which include, for example, complex objects or version and configuration management), 'synergistic' cooperative work, and application- or user-supported consistency. This paper deals with a subset of these problems. It develops a methodology for implementing semantics-based concurrency control on the basis of ordinary locking. More specifically, it will be shown how conventional locking can step by step be improved and refined to finally reach our initial goal, namely a comprehensive support of synergistic cooperative work by the exploitation of application-specific semantics. In addition to the 'conventional' binding of locks to transactions we consider the binding of locks to objects (object related) and subjects (subject related locks). Object related locks can define persistent and adaptable access restrictions on objects. This permits, among others, the modeling of different types of version models (time versions, version graphs) as well as library (standard) objects. Subject related locks are bound to subjects (user, application, etc.) and can be used among others to supervise or direct the transfer of objects between transactions.&lt;br/&gt;</mods:abstract>
+                  <mods:tableOfContents lang="eng">1 Introduction ..... 4&#13;
+2 Lock modes ..... 11&#13;
+2.1 Extended set of lock modes ..... 12&#13;
+2.2 The two effects of a lock ..... 13&#13;
+2.3 The Semantics of the Lock Modes ..... 16&#13;
+2.4 A short discussion of consistency aspects ..... 17&#13;
+2.5 Dynamic Assignment of an External Effect (Open Lock) ..... 17&#13;
+2.6 Upgrading a lock ..... 18&#13;
+3 Locks in the Context of Nested Transactions ..... 20&#13;
+4 Rules on Locks and Notification Services ..... 22&#13;
+5 Object-related Locks ..... 26&#13;
+6 Subject-related Locks ..... 29&#13;
+7 Conclusion ..... 32&#13;
+Literature ..... 32</mods:tableOfContents>
+                  <mods:classification authority="ddc">330</mods:classification>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Arbeitsberichte des Instituts für Wirtschaftsinformatik</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="volume" order="31">
+                      <mods:detail>
+                        <mods:number>31</mods:number>
+                      </mods:detail>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:a57d7c1d-0d16-4175-b01a-3d70239638dd</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-43599554344</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/691f863a-0449-4b3a-97b2-d48790ad8d51</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:691f863a-0449-4b3a-97b2-d48790ad8d51</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_691f863a-0449-4b3a-97b2-d48790ad8d51">
+            <mets:rightsMD ID="RIGHTSMD_691f863a-0449-4b3a-97b2-d48790ad8d51">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_691f863a-0449-4b3a-97b2-d48790ad8d51">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/691f863a-0449-4b3a-97b2-d48790ad8d51</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="bf8ec7bb20233e6f5b2ed9c7b59a451d60f542641abaf43d912e82d5396f12be" CREATED="2015-01-27T14:23:46" CHECKSUMTYPE="SHA-256" SIZE="325996" ID="ID_FIL_031_arbeitsberichte_wirtschaftsinformatik.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/691f863a-0449-4b3a-97b2-d48790ad8d51/031_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW691f863a-0449-4b3a-97b2-d48790ad8d51">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/691f863a-0449-4b3a-97b2-d48790ad8d51" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_691f863a-0449-4b3a-97b2-d48790ad8d51" TYPE="physSequence">
+              <mets:div ID="ID_PHY_031_arbeitsberichte_wirtschaftsinformatik.pdf">
+                <mets:fptr FILEID="ID_FIL_031_arbeitsberichte_wirtschaftsinformatik.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_691f863a-0449-4b3a-97b2-d48790ad8d51" DMDID="DMD_691f863a-0449-4b3a-97b2-d48790ad8d51" ID="ID_LOG_691f863a-0449-4b3a-97b2-d48790ad8d51" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_031_arbeitsberichte_wirtschaftsinformatik.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_691f863a-0449-4b3a-97b2-d48790ad8d51" xlink:to="ID_PHY_691f863a-0449-4b3a-97b2-d48790ad8d51"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_031_arbeitsberichte_wirtschaftsinformatik.pdf" xlink:to="ID_PHY_031_arbeitsberichte_wirtschaftsinformatik.pdf"/>
+          </mets:structLink>
+        </mets:mets>

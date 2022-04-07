@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bb6354fb-418b-4f4c-9ecc-93042120ac49">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Validierung einer neuen Messmethode zur Bestimmung von Formaldehyd in der Luft</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132268183">
+                        <displayForm>Mündelein, Ina Maria</displayForm>
+                        <namePart type="given">Ina Maria</namePart>
+                        <namePart type="family">Mündelein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Witting, Ute</displayForm>
+                        <namePart type="given">Ute</namePart>
+                        <namePart type="family">Witting</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-10-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-10-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die aktuellen Standardverfahren zur Bestimmung von Formaldehyd in der Luft basieren auf der Derivatisierung mit 2,4-Dinitrophenylhydrazin. Ziel dieser Arbeit war es, eine Messmethode mit einem neuen Derivatisierungsreagenz (4-Methoxy-6-(4-methoxy-1-naphthyl)-1,3,5,-triazin-2-hydrazin) zur quantitativen Erfassung von Formaldehyd zu entwickeln, mit dem etablierten Standardverfahren zu vergleichen und im Feldversuch zu erproben. Ein HPLC- Verfahren wurde entwickelt, mit dem das entstehende Hydrazon getrennt und sowohl UV- als auch fluoreszenzspektrometrisch detektiert werden kann. Beide Methoden waren vergleichbar valide und lieferten in der Feldstudie vergleichbare Ergebnisse. Vorteile der neuen Methode sind UV- und Fluoreszenzaktivität der Derivate sowie die identische UV-Absorptionswellenlänge der Derivate verschiedener Analyten.</abstract>
+                    <subject lang="ger">
+                        <topic>Formaldehyd</topic>
+                        <topic>2</topic>
+                        <topic>4-DNPH</topic>
+                        <topic>MMNTH</topic>
+                        <topic>Derivatisierung</topic>
+                        <topic>Luftanalyse</topic>
+                        <topic>Carbonylverbindungen</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-30699389952</identifier>
+                    <identifier type="sys">HT014888888</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bb6354fb-418b-4f4c-9ecc-93042120ac49</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bb6354fb-418b-4f4c-9ecc-93042120ac49_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bb6354fb-418b-4f4c-9ecc-93042120ac49/diss_muendelein_ina.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bb6354fb-418b-4f4c-9ecc-93042120ac49" DMDID="DMD_bb6354fb-418b-4f4c-9ecc-93042120ac49">
+            <mets:fptr FILEID="FILE_bb6354fb-418b-4f4c-9ecc-93042120ac49_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

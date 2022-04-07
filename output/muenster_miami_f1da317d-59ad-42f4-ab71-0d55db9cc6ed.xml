@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f1da317d-59ad-42f4-ab71-0d55db9cc6ed">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Simon Schama, Überfluß und schöner Schein. Zur Kultur der Niederlande im Goldenen Zeitalter</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115876464">
+                        <displayForm>Lademacher, Horst</displayForm>
+                        <namePart type="given">Horst</namePart>
+                        <namePart type="family">Lademacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">rev</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">review</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-06-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>169</start>
+                                <end>172</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58139606019</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f1da317d-59ad-42f4-ab71-0d55db9cc6ed</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>review</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f1da317d-59ad-42f4-ab71-0d55db9cc6ed_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f1da317d-59ad-42f4-ab71-0d55db9cc6ed/jahrbuch_zns_1990_1_169-172.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f1da317d-59ad-42f4-ab71-0d55db9cc6ed" DMDID="DMD_f1da317d-59ad-42f4-ab71-0d55db9cc6ed">
+            <mets:fptr FILEID="FILE_f1da317d-59ad-42f4-ab71-0d55db9cc6ed_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

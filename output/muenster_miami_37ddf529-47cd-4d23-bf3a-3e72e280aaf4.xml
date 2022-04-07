@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_37ddf529-47cd-4d23-bf3a-3e72e280aaf4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwei ungleiche Nachbarn?</title>
+                        <subTitle>Deutsch-niederländische Geschichtsschreibung zwischen Vergleich, Transfer und Verflechtung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141661909">
+                        <displayForm>Dam, Peter van</displayForm>
+                        <namePart type="given">Peter van</namePart>
+                        <namePart type="family">Dam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Dieser Beitrag kam im Rahmen des 3. Workshops des Arbeitskreises Deutsch-Niederländische Geschichte zustande, der am 29. und 30. September 2011 am Zentrum für Niederlande-Studien stattfand.</note>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>121</start>
+                                <end>136</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-07159643905</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_37ddf529-47cd-4d23-bf3a-3e72e280aaf4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_37ddf529-47cd-4d23-bf3a-3e72e280aaf4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/37ddf529-47cd-4d23-bf3a-3e72e280aaf4/jahrbuch_zns_2010_21_121-136.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_37ddf529-47cd-4d23-bf3a-3e72e280aaf4" DMDID="DMD_37ddf529-47cd-4d23-bf3a-3e72e280aaf4">
+            <mets:fptr FILEID="FILE_37ddf529-47cd-4d23-bf3a-3e72e280aaf4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

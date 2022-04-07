@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7fce7325-3d02-42be-af46-5cae7ec04d63">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>role of NADPH oxidase in the pathogenesis of systemic sclerosis</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108050334X">
+                        <displayForm>Dosoki, Heba</displayForm>
+                        <namePart type="given">Heba</namePart>
+                        <namePart type="family">Dosoki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108050334X">
+                        <displayForm>Dosoki, H.</displayForm>
+                        <namePart type="given">H.</namePart>
+                        <namePart type="family">Dosoki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böhm, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Böhm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-10-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-12-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen der vorliegenden Arbeit konnte nachgewiesen werden, dass die Rolle von NADPH-Oxidasen (Nox), speziell Nox4, bei der Fibroblastenaktivierung sowie der Fibrose der Haut eine Rolle spielt. Anhand von Expressionsanalysen auf RNA-und Proteinebene konnte gezeigt werden, dass der Nox4 komplex in gesunden dermalen Fibroblasten aber auch in dermalen Sklerodermie-Fibroblasten konstitutiv exprimiert wird. TGF-β1 unterdrückt die Nox4-Expression. Interessanterweise ist die TGF-β1-vermittelte Expression von Kollagen-Typ I Nox4-abhängig, da die pharmakologische Inhibition mit einem NADPH-Inhibitor (DPI) oder einer Nox4 siRNA die TGF-β1-Wirkung aufhebt. In Übereinstimmung damit hatte TGF-β1 in murinen Fibroblasten mit Nullmutation von Nox4 keinen Effekt auf die Expression von Kollagen. Im Bleomycin-Mausmodell der Sklerodermie unterdrückte eine pharmakologische Blockierung der Nox Aktivität durch DPI und Nox4 siRNA die Entwicklung einer Fibrose. Zusammengefasst deuten die Ergebnisse dieser Arbeit auf eine vielversprechende Strategie bei der zukünftigen Behandlung von fibrotischen Erkrankungen mit Nox4-Inhibitoren hin.</abstract>
+                    <subject lang="ger">
+                        <topic>NADPH-Oxidase</topic>
+                        <topic>Fibroblasten</topic>
+                        <topic>Systemische Sklerodermie</topic>
+                        <topic>Fibrose</topic>
+                        <topic>oxidativer Stress</topic>
+                        <topic>Mausmodell der Sklerodermie</topic>
+                        <topic>transforming growth factor (TGF-β1)</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04239758120</identifier>
+                    <identifier type="sys">HT018842922</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7fce7325-3d02-42be-af46-5cae7ec04d63</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7fce7325-3d02-42be-af46-5cae7ec04d63_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7fce7325-3d02-42be-af46-5cae7ec04d63/diss_dosoki.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7fce7325-3d02-42be-af46-5cae7ec04d63" DMDID="DMD_7fce7325-3d02-42be-af46-5cae7ec04d63">
+            <mets:fptr FILEID="FILE_7fce7325-3d02-42be-af46-5cae7ec04d63_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

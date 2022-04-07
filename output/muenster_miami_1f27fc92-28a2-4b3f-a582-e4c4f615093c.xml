@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1f27fc92-28a2-4b3f-a582-e4c4f615093c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Horospherical stacks</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1169242669">
+                        <displayForm>Javanpeykar, Ariyan</displayForm>
+                        <namePart type="given">Ariyan</namePart>
+                        <namePart type="family">Javanpeykar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1121003761">
+                        <displayForm>Langlois, Kevin</displayForm>
+                        <namePart type="given">Kevin</namePart>
+                        <namePart type="family">Langlois</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112100377X">
+                        <displayForm>Terpereau, Ronan</displayForm>
+                        <namePart type="given">Ronan</namePart>
+                        <namePart type="family">Terpereau</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We prove structure theorems for algebraic stacks with a reductive group action and a dense open substack isomorphic to a horospherical homogeneous space, and thereby obtain new examples of algebraic stacks which are global quotient stacks. Our results partially generalize the work of Iwanari, Fantechi, Mann and Nironi, and Geraschenko and Satriano for abstract toric stacks.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>29</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85169769857</identifier>
+                    <identifier type="doi">10.17879/85169767804</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1f27fc92-28a2-4b3f-a582-e4c4f615093c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1f27fc92-28a2-4b3f-a582-e4c4f615093c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1f27fc92-28a2-4b3f-a582-e4c4f615093c/mjm_2019_12_1-29.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1f27fc92-28a2-4b3f-a582-e4c4f615093c" DMDID="DMD_1f27fc92-28a2-4b3f-a582-e4c4f615093c">
+            <mets:fptr FILEID="FILE_1f27fc92-28a2-4b3f-a582-e4c4f615093c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

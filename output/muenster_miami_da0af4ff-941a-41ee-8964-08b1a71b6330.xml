@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_da0af4ff-941a-41ee-8964-08b1a71b6330">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Rasiermesser in Mitteleuropa</title>
+                        <subTitle>(Süddeutschland, Tschechoslowakei, Österreich, Schweiz)</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108081737">
+                        <displayForm>Jockenhövel, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Jockenhövel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1971</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-03-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausg. erschienen bei: C. H. Beck´sche Verlagsbuchhandlung, Prähistorische Bronzefunde, Abt. 8, Bd. 1, 282 S. und 82 Tafeln, München 1971, ISBN 3-406-00748-X</note>
+                    <classification authority="ddc">930</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-01439417972</identifier>
+                    <identifier type="sys">HT017332853</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_da0af4ff-941a-41ee-8964-08b1a71b6330</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_da0af4ff-941a-41ee-8964-08b1a71b6330_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/da0af4ff-941a-41ee-8964-08b1a71b6330/1971_jocke_rasie.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_da0af4ff-941a-41ee-8964-08b1a71b6330" DMDID="DMD_da0af4ff-941a-41ee-8964-08b1a71b6330">
+            <mets:fptr FILEID="FILE_da0af4ff-941a-41ee-8964-08b1a71b6330_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

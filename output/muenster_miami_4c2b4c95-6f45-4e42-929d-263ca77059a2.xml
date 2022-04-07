@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4c2b4c95-6f45-4e42-929d-263ca77059a2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kleine Schriften</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121309428">
+                        <displayForm>Schottmann, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Schottmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-06-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dieses Buch vereinigt literaturwissenschaftliche und linguistische Studien aus fast fünf Jahrzehnten. Das Schwergewicht liegt auf mittelalterlichen Erzähltexten: Mit welchen literarischen Mitteln wird eine das Faktische übersteigende Bedeutung aufgebaut und vermittelt (isländische Familiensagas, Snorri, Texte der Heldenepik sowie der mittelhochdeutsche Gregorius und die altsächsische Genesis). Die Arbeiten zur skandinavischen, vorzüglich isländischen Mariendichtung und die Christianisierung des Nordens charakterisieren die Bedeutung des Religionswechsels für Literatur, Gesellschaft, Sprache im Kontext der europäischen Tradition und klären Quellenfragen. Hadewijchs Lieder werden vor dem Hintergrund der Trouvères in ihrer Funktion analysiert, aus der neueren schwedischen Literatur die Verfahrensweise in Strindbergs Traumspielen und ihr Verhältnis zum deutschen Expressionismus, dazu die schwedische Ahasvertradition und der Dokumentarroman Legionärerna. Die Beiträge zur deutsch-schwedischen konfrontativen Linguistik beschäftigen sich mit der Terminologie der Interferenzlinguistik, Falschen Freunden und der Phraseologie.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Kleine Schriften / Hans Schottmann. - Münster : Monsenstein und Vannerdat, 2013. - 584 S. (Wissenschaftliche Schriften der WWU Münster : Reihe XII ; Bd. 6), ISBN 978-3-8405-0010-7, Preis: 28,00 EUR</note>
+                    <subject lang="ger">
+                        <topic>Sagaliteratur</topic>
+                        <topic>Norrönes Christentum</topic>
+                        <topic>Interferenzlinguistik</topic>
+                        <topic>Ahasver</topic>
+                        <topic>Strindbergs Traumspiele</topic>
+                        <topic>Hadewijch</topic>
+                        <topic>Enquist</topic>
+                        <topic>Gregorius</topic>
+                        <topic>Altsächsische Genesis</topic>
+                    </subject>
+                    <classification authority="ddc">439</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-56369322389</identifier>
+                    <identifier type="isbn">978-3-8405-0010-7</identifier>
+                    <identifier type="sys">HT017762488</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4c2b4c95-6f45-4e42-929d-263ca77059a2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4c2b4c95-6f45-4e42-929d-263ca77059a2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4c2b4c95-6f45-4e42-929d-263ca77059a2/schottmann_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4c2b4c95-6f45-4e42-929d-263ca77059a2" DMDID="DMD_4c2b4c95-6f45-4e42-929d-263ca77059a2">
+            <mets:fptr FILEID="FILE_4c2b4c95-6f45-4e42-929d-263ca77059a2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

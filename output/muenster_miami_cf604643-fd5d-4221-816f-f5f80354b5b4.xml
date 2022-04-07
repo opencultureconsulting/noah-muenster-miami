@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cf604643-fd5d-4221-816f-f5f80354b5b4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Baumsteckbriefe</title>
+                        <subTitle>Ein Exkursionsprojekt mit Studierenden</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173306918">
+                        <displayForm>Hombrecher, Katja</displayForm>
+                        <namePart type="given">Katja</namePart>
+                        <namePart type="family">Hombrecher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173306918">
+                        <displayForm>Schild, Katja</displayForm>
+                        <namePart type="given">Katja</namePart>
+                        <namePart type="family">Schild</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vogt, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Vogt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-02</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Anfertigen von Baumsteckbriefen wird als alternative Exkursionsform im Rahmen der botanischen Grundausbildung von Lehramtsstudierenden vorgestellt. Die Studienanfänger erarbeiten sich den Lernstoff unter Anleitung selbst und werden so nicht in die Rolle des Konsumenten gedrängt. Darüber hinaus bietet das Erfahrene direkte Möglichkeiten zur Übertragung in den Schulalltag.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Didaktik</topic>
+                        <topic>Lehramtsausbildung</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>55</start>
+                                <end>69</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541628</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cf604643-fd5d-4221-816f-f5f80354b5b4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cf604643-fd5d-4221-816f-f5f80354b5b4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cf604643-fd5d-4221-816f-f5f80354b5b4/Hombrecher64.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cf604643-fd5d-4221-816f-f5f80354b5b4" DMDID="DMD_cf604643-fd5d-4221-816f-f5f80354b5b4">
+            <mets:fptr FILEID="FILE_cf604643-fd5d-4221-816f-f5f80354b5b4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

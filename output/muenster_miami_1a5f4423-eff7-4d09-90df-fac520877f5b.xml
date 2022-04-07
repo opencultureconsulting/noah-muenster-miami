@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1a5f4423-eff7-4d09-90df-fac520877f5b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erstellung von Machine Learning-Modellen zur Prädiktion einzelner Krankheitscharakteristika der Depression in Abhängigkeit von der kognitiven Leistung und Gehirnstruktur</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/125084696X">
+                        <displayForm>Schmitt, Michael Andreas Dominik</displayForm>
+                        <namePart type="given">Michael Andreas Dominik</namePart>
+                        <namePart type="family">Schmitt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142093750">
+                        <displayForm>Hahn, Tim</displayForm>
+                        <namePart type="given">Tim</namePart>
+                        <namePart type="family">Hahn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-02-02</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-12-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei der Major Depressive Disorder ist das Verständnis des Verlaufs bezüglich der Therapieentscheidung besonders wichtig. Maschinelles Lernen bietet potenziell die Chance individueller Vorhersagen. In dieser Studie wird der kontrovers diskutierte Zusammenhang zwischen kognitiven Defiziten (neuropsychologische Testung) bzw. strukturellen Gehirnveränderungen (MRT) und Krankheitscharakteristika (Diagnose: MDD/Kontrolle; Schweregrad: HAMD, BDI; Verlauf: Hospitalisierung, Rezidive; Funktionsniveau: GAF, SF-36) erforscht. Die Stichprobe umfasste n = 746 bzw. 432 MDD-Patient(inn)en und n = 914 bzw. 615 Kontrollen (MRT-Daten bzw. neuropsych. Daten). Die Prädiktion der Diagnose gelang mit einer gewichteten Genauigkeit von 59.62 bzw. 55.34 %. Darüber hinaus konnten lediglich die SF 36-Werte prädiziert werden (Reduktion des mittleren absoluten Fehlers um ca. 9 bzw. 13 %, Pearson-Korrelation r = 0.24 bzw. 0.35). Dies könnte auf eine motivationale Komponente in der Genese der MDD hinweisen.</abstract>
+                    <note type="thesis statement">Münster, Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Machine Learning</topic>
+                        <topic>Personalisierte Medizin</topic>
+                        <topic>Prädiktive Modelle</topic>
+                        <topic>Depression</topic>
+                        <topic>Affektive Erkrankungen</topic>
+                        <topic>MRT</topic>
+                        <topic>Neuropsychologische Testung</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Machine learning</topic>
+                        <topic>personalized medicine</topic>
+                        <topic>predictive models</topic>
+                        <topic>depression</topic>
+                        <topic>affective disorders</topic>
+                        <topic>MRI</topic>
+                        <topic>neuropsychological assessment</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-35009654952</identifier>
+                    <identifier type="sys">HT021218032</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1a5f4423-eff7-4d09-90df-fac520877f5b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1a5f4423-eff7-4d09-90df-fac520877f5b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1a5f4423-eff7-4d09-90df-fac520877f5b/diss_schmitt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1a5f4423-eff7-4d09-90df-fac520877f5b" DMDID="DMD_1a5f4423-eff7-4d09-90df-fac520877f5b">
+            <mets:fptr FILEID="FILE_1a5f4423-eff7-4d09-90df-fac520877f5b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_39c17a94-7ee2-47b8-b162-deff1f4ecf44">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Variational methods for direct and indirect tracking in dynamic imaging</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1124932909">
+                        <displayForm>Frerking, Lena</displayForm>
+                        <namePart type="given">Lena</namePart>
+                        <namePart type="family">Frerking</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1124932909">
+                        <displayForm>Frerking, Lena Christina</displayForm>
+                        <namePart type="given">Lena Christina</namePart>
+                        <namePart type="family">Frerking</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-02-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-01-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Thema Tracking ist von großer Bedeutung für eine Vielzahl von Anwendungen. Wir analysieren Ansätze zur Bewegungsschätzung bei unterschiedlichen Anforderungen von Daten. Zunächst betrachten wir Modelle für direktes Tracking, bei denen Bewegungsschätzung ohne Vorverarbeitung möglich ist. Wir erweitern bekannte Modelle zum optischen Fluss um deren Performance bei komplexen Bewegungen zu verbessern. Wir analysieren und testen diese Modelle anhand synthetischer und realer Datensätze. Als Anwendung untersuchen wir Mikroskopie-Bilder von Zellen und erläutern die erforderlichen mathematischen Aufgaben. Für den zweiten Teil betrachten wir Daten, bei denen zunächst Bilder rekonstruiert werden müssen, um Bewegungen zu schätzen. Wir präsentieren ein Modell für gleichzeitige Rekonstruktion und Bewegungsschätzung. Dieses Modell wenden wir auf dynamische CT-Daten an. Hierbei betrachten wir sich bewegende Objekte unter Verwendung von nur einem oder zwei Messwinkeln pro Zeitschritt.</abstract>
+                    <abstract lang="eng">The topic of estimating motion is a major issue for a wide range of applications. We study techniques for tracking given different external requirements. We start by studying models for direct tracking where estimating motion is possible without preprocessing. We extend established optical flow models in order to improve their performance in connection with complex motion. We analyze these models and check their performance based on different synthetic and real data sets. As a specific example we study microscopy data of migrating cells and illustrate the required mathematical tasks. For the second theoretical part we consider types of data that require reconstruction in order to obtain images that are needed to estimate motion. We present a model for simultaneous reconstruction and motion estimation. We apply this model to dynamic X-ray tomography data. We consider moving objects measured from only one or two different angles per time step.</abstract>
+                    <subject lang="ger">
+                        <topic>Bildverarbeitung</topic>
+                        <topic>Inverse Probleme</topic>
+                        <topic>Optischer Fluss</topic>
+                        <topic>Variationsmethoden</topic>
+                        <topic>Zeitabhängige Rekonstruktion</topic>
+                        <topic>Gleichzeitige Bewegungsschätzung und Bildrekonstruktion</topic>
+                        <topic>Dynamische Computertomographie</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Image Processing</topic>
+                        <topic>Inverse Problems</topic>
+                        <topic>Optical Flow</topic>
+                        <topic>Variational Methods</topic>
+                        <topic>Time-Dependent Image Reconstruction</topic>
+                        <topic>Joint Motion Estimation and Image Reconstruction</topic>
+                        <topic>Dynamic X-Ray Tomography</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53219413125</identifier>
+                    <identifier type="sys">HT019250152</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_39c17a94-7ee2-47b8-b162-deff1f4ecf44</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_39c17a94-7ee2-47b8-b162-deff1f4ecf44_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/39c17a94-7ee2-47b8-b162-deff1f4ecf44/diss_frerking.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_39c17a94-7ee2-47b8-b162-deff1f4ecf44" DMDID="DMD_39c17a94-7ee2-47b8-b162-deff1f4ecf44">
+            <mets:fptr FILEID="FILE_39c17a94-7ee2-47b8-b162-deff1f4ecf44_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fcc9bf19-cb75-49d9-ad78-adc322d713d4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>E-Commerce - Eine Einführung in juristische Grundprobleme der Informationswirtschaft</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-26</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Ahlert, Dieter (Hg.): Internet &amp; Co. im Handel. Berlin : Springer, 2000, S. 203-221</note>
+                    <subject lang="ger">
+                        <topic>E-Commerce</topic>
+                        <topic>Internet</topic>
+                        <topic>Informationsrecht</topic>
+                        <topic>Verbraucherschutz</topic>
+                        <topic>Vertragsrecht</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659527660</identifier>
+                    <identifier type="isbn">3-540-66868-3</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fcc9bf19-cb75-49d9-ad78-adc322d713d4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fcc9bf19-cb75-49d9-ad78-adc322d713d4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fcc9bf19-cb75-49d9-ad78-adc322d713d4/162_commerce.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fcc9bf19-cb75-49d9-ad78-adc322d713d4" DMDID="DMD_fcc9bf19-cb75-49d9-ad78-adc322d713d4">
+            <mets:fptr FILEID="FILE_fcc9bf19-cb75-49d9-ad78-adc322d713d4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

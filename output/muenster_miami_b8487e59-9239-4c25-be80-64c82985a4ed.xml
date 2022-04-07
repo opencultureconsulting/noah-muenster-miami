@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b8487e59-9239-4c25-be80-64c82985a4ed">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pseudo-multiplicative unitaries and pseudo-Kac systems on C*-modules</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130409030">
+                        <displayForm>Timmermann, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Timmermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137444311">
+                        <displayForm>Cuntz, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Cuntz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-06-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Multiplikative Unitäre und Kac-Systeme auf Hilbert-Räumen wurden von S. Baaj und G. Skandalis eingeführt, um die Pontrjagin-Dualität und die Takesaki-Takai-Dualität von lokal-kompakten abelschen Gruppen auf Quantengruppen zu verallgemeinern. Zur Ausweitung ihrer Ergebnisse auf lokal-kompakte Gruppoide entwickeln wir eine Theorie von pseudo-multiplikativen Unitären und Pseudo-Kac-Systemen auf C*-Moduln. Dabei führt das interne Tensorprodukt von C*-Bimoduln zu Problemen, die durch die Beschränkung auf zerlegbare C*-Module - Gruppoide entspricht das der Einschränkung auf den r-diskreten Fall - und die Einführung der Kategorie von C*-Familien gelöst werden. Im Ergebnis können wir die Pontrjagin-Dualität zum Teil und die Takesaki-Takai-Dualität vollständig auf zerlegbare lokal-kompakte Quantengruppoide übertragen. Abschließend vergleichen wir die entstehende Theorie für Hausdorff-Gruppoide mit klassischen Begriffen und betrachten Gruppoide, die nicht Hausdorffsch sind.</abstract>
+                    <subject lang="ger">
+                        <topic>C*-algebra</topic>
+                        <topic>multiplicative unitary</topic>
+                        <topic>quantum group</topic>
+                        <topic>Hopf algebra</topic>
+                        <topic>duality</topic>
+                        <topic>locally compact groupoid</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55639513014</identifier>
+                    <identifier type="sys">HT014472325</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b8487e59-9239-4c25-be80-64c82985a4ed</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b8487e59-9239-4c25-be80-64c82985a4ed_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b8487e59-9239-4c25-be80-64c82985a4ed/diss_timmermann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b8487e59-9239-4c25-be80-64c82985a4ed" DMDID="DMD_b8487e59-9239-4c25-be80-64c82985a4ed">
+            <mets:fptr FILEID="FILE_b8487e59-9239-4c25-be80-64c82985a4ed_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

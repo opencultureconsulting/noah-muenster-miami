@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_840c21c7-33f3-4b0d-a14c-af34a8c179ce">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>lange Marsch zum &apos;Dritten Weg&apos;</title>
+                        <subTitle>Die niederländische Partei der Arbeit (PvdA) seit den 1970er Jahren</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172178622">
+                        <displayForm>Kalma, Paul</displayForm>
+                        <namePart type="given">Paul</namePart>
+                        <namePart type="family">Kalma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1111529930">
+                        <displayForm>Klinzmann, Annegret</displayForm>
+                        <namePart type="given">Annegret</namePart>
+                        <namePart type="family">Klinzmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Der Beitrag ist eine leicht überarbeitete Fassung eines Vortrags, den Paul Kalma während seines Aufenthaltes als Fellow am 24. Januar 2001 im Zentrum für Niederlande-Studien gehalten hat. Der Vortragsstil wurde für die Druckfassung beibehalten.</note>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>177</start>
+                                <end>189</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37179629318</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_840c21c7-33f3-4b0d-a14c-af34a8c179ce</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_840c21c7-33f3-4b0d-a14c-af34a8c179ce_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/840c21c7-33f3-4b0d-a14c-af34a8c179ce/jahrbuch_zns_2001_12_177-189.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_840c21c7-33f3-4b0d-a14c-af34a8c179ce" DMDID="DMD_840c21c7-33f3-4b0d-a14c-af34a8c179ce">
+            <mets:fptr FILEID="FILE_840c21c7-33f3-4b0d-a14c-af34a8c179ce_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e9b9df08-934a-4ba1-9c45-7f67871e30e3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>sogenannte Nichtigkeit verfassungswidriger Gesetze</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106107933">
+                        <displayForm>Böckenförde, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Böckenförde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118769987">
+                        <displayForm>Wolff, Hans J.</displayForm>
+                        <namePart type="given">Hans J.</namePart>
+                        <namePart type="family">Wolff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1966</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-01-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ.-Diss., 1965
+Verlag Duncker &amp; Humblot Berlin</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-06559390768</identifier>
+                    <identifier type="sys">HT015479320</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e9b9df08-934a-4ba1-9c45-7f67871e30e3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e9b9df08-934a-4ba1-9c45-7f67871e30e3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e9b9df08-934a-4ba1-9c45-7f67871e30e3/diss_boeckenfoerde_1965.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e9b9df08-934a-4ba1-9c45-7f67871e30e3" DMDID="DMD_e9b9df08-934a-4ba1-9c45-7f67871e30e3">
+            <mets:fptr FILEID="FILE_e9b9df08-934a-4ba1-9c45-7f67871e30e3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

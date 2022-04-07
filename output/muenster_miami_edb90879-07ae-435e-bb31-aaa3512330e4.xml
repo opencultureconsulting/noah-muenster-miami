@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_edb90879-07ae-435e-bb31-aaa3512330e4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Comparing the Incomparable? Performance Measures for National Libraries</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108551261">
+                        <displayForm>Poll, Roswitha</displayForm>
+                        <namePart type="given">Roswitha</namePart>
+                        <namePart type="family">Poll</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-10-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-10-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note type="citation/reference">Alexandria 20 (2008) 3, 163-170</note>
+                    <subject lang="ger">
+                        <topic>Nationalbibliotheken</topic>
+                        <topic>Leistungsmessung</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99499421981</identifier>
+                    <identifier type="issn">0955-7490</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_edb90879-07ae-435e-bb31-aaa3512330e4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_edb90879-07ae-435e-bb31-aaa3512330e4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/edb90879-07ae-435e-bb31-aaa3512330e4/poll_r_alexandria_2008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_edb90879-07ae-435e-bb31-aaa3512330e4" DMDID="DMD_edb90879-07ae-435e-bb31-aaa3512330e4">
+            <mets:fptr FILEID="FILE_edb90879-07ae-435e-bb31-aaa3512330e4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

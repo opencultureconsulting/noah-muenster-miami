@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9aef6e3f-2074-4cd1-b785-f3a31f83c603">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>A </nonSort>
+                        <title>dynamical core for topological directed graphs</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138154962">
+                        <displayForm>Brenken, Berndt</displayForm>
+                        <namePart type="given">Berndt</namePart>
+                        <namePart type="family">Brenken</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-11-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="eng">A topological graph, or quiver, is a directed graph where the edge and vertex spaces are topological spaces. The C*-algebra associated with the graph is a Cuntz-Pimsner algebra of an associated C*-correspondence over an abelian C*-algebra. For a given graph satisfying a properness hypothesis we construct and abstractly characterize a subgraph containing the iterative dynamical core of the original graph. The C*-algebra of this subgraph is a quotient of the C*-algebra of the graph, and under some additional assumptions is a crossed product C*-algebra by a shift endomorphism. This is accomplished using a composition product of topological graphs.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>111</start>
+                                <end>144</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16409479501</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9aef6e3f-2074-4cd1-b785-f3a31f83c603</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9aef6e3f-2074-4cd1-b785-f3a31f83c603_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9aef6e3f-2074-4cd1-b785-f3a31f83c603/mjm_vol_3_07.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9aef6e3f-2074-4cd1-b785-f3a31f83c603" DMDID="DMD_9aef6e3f-2074-4cd1-b785-f3a31f83c603">
+            <mets:fptr FILEID="FILE_9aef6e3f-2074-4cd1-b785-f3a31f83c603_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

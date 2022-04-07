@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ee471381-0ee9-4c6e-83f7-679e873cb920">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachweis und Datierung historischer Musikdrucke</title>
+                        <subTitle>Präsentation zum Vortrag auf dem ZBIW-Seminar „Katalogisierung alter Drucke“ am  18. April 2016 in Paderborn</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134827635">
+                        <displayForm>Rosenberger, Burkard</displayForm>
+                        <namePart type="given">Burkard</namePart>
+                        <namePart type="family">Rosenberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei (historischen) Musikdrucken lassen sich nicht immer alle zur Erschließung notwendigen Metadaten unmittelbar der Vorlage entnehmen. Insbesondere weisen Musikdrucke in der Regel kein Erscheinungsjahr auf. Musikbibliothekare stehen deshalb vor der Aufgabe, derartige Publikationen zu identifizieren und zeitlich einzuordnen. In diesem Vortrag werden die wichtigsten Hilfsmittel vorgestellt, die für diesen Zweck zu Rate gezogen werden können.</abstract>
+                    <subject lang="ger">
+                        <topic>Musikdruck</topic>
+                        <topic>Altbestand</topic>
+                        <topic>Nachweis</topic>
+                        <topic>Datierung</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-41299724844</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/de/">CC BY 3.0 DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ee471381-0ee9-4c6e-83f7-679e873cb920</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ee471381-0ee9-4c6e-83f7-679e873cb920_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ee471381-0ee9-4c6e-83f7-679e873cb920/rosenberger_historische-musikdrucke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ee471381-0ee9-4c6e-83f7-679e873cb920" DMDID="DMD_ee471381-0ee9-4c6e-83f7-679e873cb920">
+            <mets:fptr FILEID="FILE_ee471381-0ee9-4c6e-83f7-679e873cb920_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

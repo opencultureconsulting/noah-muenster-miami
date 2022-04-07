@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ff10a082-26f8-4488-a263-f26e9040fa89">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Heading perception from optic flow in the presence of biological motion</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1149078618">
+                        <displayForm>Riddell, Hugh</displayForm>
+                        <namePart type="given">Hugh</namePart>
+                        <namePart type="family">Riddell</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Li, Li</displayForm>
+                        <namePart type="given">Li</namePart>
+                        <namePart type="family">Li</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172579074">
+                        <displayForm>Lappe, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Lappe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-23</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-06-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We investigated whether biological motion biases heading estimation from optic flow in a similar manner to nonbiological moving objects. In two experiments, observers judged their heading from displays depicting linear translation over a random-dot ground with normal point light walkers, spatially scrambled point light walkers, or laterally moving objects composed of random dots. In Experiment 1, we found that both types of walkers biased heading estimates similarly to moving objects when they obscured the focus of expansion of the background flow. In Experiment 2, we also found that walkers biased heading estimates when they did not obscure the focus of expansion. These results show that both regular and scrambled biological motion affect heading estimation in a similar manner to simple moving objects, and suggest that biological motion is not preferentially processed for the perception of self-motion.</abstract>
+                    <note type="citation/reference">Journal of Vision 19 (2019) 14, 25, 1-14</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster)</note>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87029703925</identifier>
+                    <identifier type="doi">10.1167/19.14.25</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ff10a082-26f8-4488-a263-f26e9040fa89</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ff10a082-26f8-4488-a263-f26e9040fa89_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ff10a082-26f8-4488-a263-f26e9040fa89/10.1167_19.14.25.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ff10a082-26f8-4488-a263-f26e9040fa89" DMDID="DMD_ff10a082-26f8-4488-a263-f26e9040fa89">
+            <mets:fptr FILEID="FILE_ff10a082-26f8-4488-a263-f26e9040fa89_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_926b2f86-df1c-43d0-bea4-792ebd1f5eba">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Denkmalrekonstruktionen aus rechtlicher Sicht</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1989</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-04-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">DÖV - Die Öffentliche Verwaltung 42 (1989) 14, 605-611</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-08439423068</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_926b2f86-df1c-43d0-bea4-792ebd1f5eba</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_926b2f86-df1c-43d0-bea4-792ebd1f5eba_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/926b2f86-df1c-43d0-bea4-792ebd1f5eba/1989_oebbe_denkm.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_926b2f86-df1c-43d0-bea4-792ebd1f5eba" DMDID="DMD_926b2f86-df1c-43d0-bea4-792ebd1f5eba">
+            <mets:fptr FILEID="FILE_926b2f86-df1c-43d0-bea4-792ebd1f5eba_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

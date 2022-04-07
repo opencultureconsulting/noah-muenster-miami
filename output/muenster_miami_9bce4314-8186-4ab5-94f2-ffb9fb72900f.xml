@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9bce4314-8186-4ab5-94f2-ffb9fb72900f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“In vivtro” - a 3D cell culture system to analyze the impact of probiotic E.coli Nissle 1917 on epithelial cells</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1216269483">
+                        <displayForm>González, Jessyca</displayForm>
+                        <namePart type="given">Jessyca</namePart>
+                        <namePart type="family">González</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1216269483">
+                        <displayForm>González Martinez, Jessyca Alexandra</displayForm>
+                        <namePart type="given">Jessyca Alexandra</namePart>
+                        <namePart type="family">González Martinez</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121669874">
+                        <displayForm>Dobrindt, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Dobrindt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-10-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-07-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Infektionskrankheiten sind weltweit eine Haupttodesursache. Die Zunahme der Antibiotikaresistenz macht den dringenden Bedarf an neuen therapeutischer Strategien (z.B. vorbeugende Probiotika) deutlich. E. coli Nissle 1917 (EcN) verfügt über zahlreiche Fitnessfaktoren, die für die probiotische Natur von EcN wesentlich sind. Kolon- Zelllinien und das Bioreaktor Rotating Wall Vessel (RWV) System wurden zur Analyse eingesetzt. Des bietet dynamische Kulturbedingungen um die zelluläre Antwort von Wirts-Zellen auf Bakterien zu untersuchen. Der probiotische EcN stellte die epitheliale Barrierefunktion nach einer Schädigung durch EPEC wieder her. Die vorliegende Studie trägt zum Verständnis der Mechanismen bei, die die Wechselwirkungen zwischen Wirt und Probiotika steuern. Die Verwendung von Zellkulturmodellen, die das Darmepithel besser nachbilden, eröffnen den Weg für die Entwicklung neuer, besserer Strategien zur Kontrolle der Immunantworten des Wirtes durch Probiotika.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2020</note>
+                    <subject lang="ger">
+                        <topic>E. coli Nissle 1917</topic>
+                        <topic>Probiotika</topic>
+                        <topic>3D-Zellkultursystem</topic>
+                        <topic>EPEC</topic>
+                        <topic>Barrierefunktion</topic>
+                        <topic>immunomodulatorische Eigenschaften</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79089737739</identifier>
+                    <identifier type="sys">HT020558577</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9bce4314-8186-4ab5-94f2-ffb9fb72900f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9bce4314-8186-4ab5-94f2-ffb9fb72900f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9bce4314-8186-4ab5-94f2-ffb9fb72900f/diss_gonzalez.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9bce4314-8186-4ab5-94f2-ffb9fb72900f" DMDID="DMD_9bce4314-8186-4ab5-94f2-ffb9fb72900f">
+            <mets:fptr FILEID="FILE_9bce4314-8186-4ab5-94f2-ffb9fb72900f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

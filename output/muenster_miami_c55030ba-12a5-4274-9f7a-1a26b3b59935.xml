@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c55030ba-12a5-4274-9f7a-1a26b3b59935">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Einfluss von Testosteron auf die E1S-Sulfataseaktivität in nicht-malignen und malignen Brustzellen in vitro</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1074445791">
+                        <displayForm>Plöger, Sebastian</displayForm>
+                        <namePart type="given">Sebastian</namePart>
+                        <namePart type="family">Plöger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123075904">
+                        <displayForm>Stute, Petra</displayForm>
+                        <namePart type="given">Petra</namePart>
+                        <namePart type="family">Stute</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123075904">
+                        <displayForm>Stute, P.</displayForm>
+                        <namePart type="given">P.</namePart>
+                        <namePart type="family">Stute</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-08-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-05-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel war es, den Effekt von T auf die lokale Östrogensynthese zu messen. Es wurde die Sulfatase (STS) Expression und Aktivität in hormonabhängigen Brustkrebszellen (BT 474, MCF-7, HBL 100) ermittelt. Die Zellen wurden jeweils mit T inkubiert, und es erfolgte die direkte Messung oder nach 24 Stunden. Zusätzlich erfolgte die Inkubation der Zellen mit dem Aromataseinhibitor (A) alleine und in Kombination mit T. Die STS-Proteinexpression (dot-blot Analyse der Zelllysate), die STS mRNA Level (quantitative real time PCR) und die STS-Aktivität (Dünnschichtchromatographie mit radioaktivem markiertem Östronsulfat ([3H] E1S) wurden erfasst. Die STS Proteinexpression war signifikant höher war in den hochmalignen Zellen im Vergleich zu den anderen Zellen. Innerhalb der Zellreihen gab es keine Unterschiede. Unabhängig von der Zelllinie zeigte sich ein Absinken der STS Aktivität nach direkter und eine Steigerung nach 24 stündiger Inkubation, was zum Teil durch A abgemildert bzw. umgekehrt wurde.</abstract>
+                    <subject lang="ger">
+                        <topic>Testosteron</topic>
+                        <topic>Sulfatase</topic>
+                        <topic>Aromatase</topic>
+                        <topic>BT 474</topic>
+                        <topic>MCF-7</topic>
+                        <topic>HBL 100</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-18289434198</identifier>
+                    <identifier type="sys">HT018719282</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c55030ba-12a5-4274-9f7a-1a26b3b59935</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c55030ba-12a5-4274-9f7a-1a26b3b59935_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c55030ba-12a5-4274-9f7a-1a26b3b59935/diss_ploeger.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c55030ba-12a5-4274-9f7a-1a26b3b59935" DMDID="DMD_c55030ba-12a5-4274-9f7a-1a26b3b59935">
+            <mets:fptr FILEID="FILE_c55030ba-12a5-4274-9f7a-1a26b3b59935_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

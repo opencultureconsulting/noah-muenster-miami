@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8ebc6a5d-e740-4be3-a724-48878b12beea">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Evolutionär konservierte Gene aus Drosophila melanogaster in humanen Glioblastomen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132708124">
+                        <displayForm>Steidl, Corinna</displayForm>
+                        <namePart type="given">Corinna</namePart>
+                        <namePart type="family">Steidl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Paulus, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Paulus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-02-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-02-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Entstehung und Invasivität von Glioblastomen könnte auf evolutionär konservierten Prozessen beruhen. Auf Ebene der Genxpression wurde in humanen Glioblastomen mittels RT-PCR nach Hinweisen auf evolutionär konservierte Mechanismen bei glialer Proliferation und Invasion gesucht. Ausgangspunkt waren Erkenntnisse über das ZNS der Drosophila melanogaster, das aufgrund von strukturellen und molekularen Ähnlichkeiten als Modell für das Vertebraten ZNS herangezogen werden kann. Die Drosophila-Gene BREATHLESS, GLIOTACTIN, KÄSTCHEN, LOCO, NONSTOP, ROBO und SCHIZO führten über BLAST-Recherche zu den humanen Homologen FGFR1 und FGFR2, Neuroligin1, Neuroligin2 und Neuroligin3, LIV-1 und similar to KIAA 1265, RGS12 und RGS 14, USP22 und UBP41, Robo 1, Robo2 und Neogenin sowie EFA6B. Die meisten Gene wurden in Glioblastomen abweichend von normalem Hirngewebe exprimiert, so dass neoplastische Proliferation und Invasion auf evolutionär konservierten Mechanismen beruhen könnte.</abstract>
+                    <subject lang="ger">
+                        <topic>Evolutionär konservierte Gene</topic>
+                        <topic>Glioblastom</topic>
+                        <topic>Drosophila melanogaster</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99569455439</identifier>
+                    <identifier type="sys">HT015051565</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8ebc6a5d-e740-4be3-a724-48878b12beea</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8ebc6a5d-e740-4be3-a724-48878b12beea_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8ebc6a5d-e740-4be3-a724-48878b12beea/diss_steidl.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8ebc6a5d-e740-4be3-a724-48878b12beea" DMDID="DMD_8ebc6a5d-e740-4be3-a724-48878b12beea">
+            <mets:fptr FILEID="FILE_8ebc6a5d-e740-4be3-a724-48878b12beea_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

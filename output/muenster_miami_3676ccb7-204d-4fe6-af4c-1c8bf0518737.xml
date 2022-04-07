@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3676ccb7-204d-4fe6-af4c-1c8bf0518737">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Familienleben zwischen Front und Heimat</title>
+                        <subTitle>Wie erlebten meine Großeltern den Ersten Weltkrieg?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Boß, Paul</displayForm>
+                        <namePart type="given">Paul</namePart>
+                        <namePart type="family">Boß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit beschreibt anhand des Briefwechsels der Großeltern des Autors zwischen 1914 und 1916, wie sich das Familienleben zwischen Front und Heimat gestaltet. Sie zeigt, mit welchen Schwierigkeiten die Ehepartner jeweils an der Front und zu Hause zu kämpfen hatten, wie sie versuchten, ihre Ehe und ihr Familienleben durch den Briefwechsel lebendig zu halten, und wie sie nach anfänglicher Kriegsbegeisterung des Großvaters mit der Zeit immer mehr am Sinn des Kriegs zweifelten.</abstract>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Erster Weltkrieg</topic>
+                        <topic>Feldpostbriefe</topic>
+                        <topic>Heimatfron</topic>
+                        <topic>Kriegsbegeisterung</topic>
+                        <topic>Familienleben</topic>
+                        <topic>Studium im Alter</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Westfalen im Ersten Weltkrieg</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Westfalen im Ersten Weltkrieg</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61329505416</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3676ccb7-204d-4fe6-af4c-1c8bf0518737</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3676ccb7-204d-4fe6-af4c-1c8bf0518737_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3676ccb7-204d-4fe6-af4c-1c8bf0518737/wki_5_boss_familienleben.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3676ccb7-204d-4fe6-af4c-1c8bf0518737" DMDID="DMD_3676ccb7-204d-4fe6-af4c-1c8bf0518737">
+            <mets:fptr FILEID="FILE_3676ccb7-204d-4fe6-af4c-1c8bf0518737_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

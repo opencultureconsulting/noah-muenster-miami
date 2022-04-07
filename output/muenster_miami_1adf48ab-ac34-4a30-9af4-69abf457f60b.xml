@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1adf48ab-ac34-4a30-9af4-69abf457f60b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>In vitro–Untersuchungen zum Einfluss von Magnetfeldern und Interferenzströmen auf die Proliferation von Gefäßzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129674672">
+                        <displayForm>Berndt, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Berndt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sindermann, Jürgen</displayForm>
+                        <namePart type="given">Jürgen</namePart>
+                        <namePart type="family">Sindermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-08-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-08-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es soll gezeigt werden, dass das Wachstum von Gefäßzellen durch elektrische Ströme beziehungsweise elektromagnetische Felder induzierbar ist. Es wurde das Proliferationsverhalten von drei verschiedenen Zelltypen unter dem Einfluss von Magnetfeldern und Interferenzströmen untersucht - die Proliferation bei bereits teilungsaktiven Zellen konnte durch die Exposition mit elektromagnetischen Feldern signifikant gesteigert werden. Signifikante Steigerungen der Zellproliferation zeigten sich bei diesen Zellkulturexperimenten ausschließlich bei den glatten Muskelzellen. Im Gegensatz dazu führten in dieser Versuchsreihe Interferenzströme bei keinem der Experimente zu einer signifikanten Steigerung der Zellproliferation. Die Verknüpfung mit anderen Verfahren könnte ein interessanter Ansatz für die patientenschonende Induktion von Angiogenese sein.</abstract>
+                    <subject lang="ger">
+                        <topic>Magnetfeld</topic>
+                        <topic>Interferenzstrom</topic>
+                        <topic>Proliferation</topic>
+                        <topic>Gefäßzellen</topic>
+                        <topic>Angiogenese</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-21659458473</identifier>
+                    <identifier type="sys">HT014919039</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1adf48ab-ac34-4a30-9af4-69abf457f60b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1adf48ab-ac34-4a30-9af4-69abf457f60b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1adf48ab-ac34-4a30-9af4-69abf457f60b/diss_berndtandreas.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1adf48ab-ac34-4a30-9af4-69abf457f60b" DMDID="DMD_1adf48ab-ac34-4a30-9af4-69abf457f60b">
+            <mets:fptr FILEID="FILE_1adf48ab-ac34-4a30-9af4-69abf457f60b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

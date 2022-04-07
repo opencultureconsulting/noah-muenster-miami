@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dc85109d-64dc-4065-9b40-b2ecf9e4b6f0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Lehrfreiheit katholischer Theologen an den staatlichen Hochschulen in Deutschland</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129604062">
+                        <displayForm>Steinhauer, Eric W.</displayForm>
+                        <namePart type="given">Eric W.</namePart>
+                        <namePart type="family">Steinhauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130162884">
+                        <displayForm>Pieroth, Bodo</displayForm>
+                        <namePart type="given">Bodo</namePart>
+                        <namePart type="family">Pieroth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130162884">
+                        <displayForm>Pieroth-Schlink-Kniesel, ...</displayForm>
+                        <namePart type="given">...</namePart>
+                        <namePart type="family">Pieroth-Schlink-Kniesel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-08-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-02-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausg. erschienen im Verl. Monsenstein und Vannerdat, Münster, 2006. - ISBN 978-3-86582-334-2</note>
+                    <subject lang="ger">
+                        <topic>Katholischer Theologe</topic>
+                        <topic>Kirchliches Lehramt</topic>
+                        <topic>Lehrfreiheit</topic>
+                        <topic>Wissenschaftsfreiheit</topic>
+                        <topic>Hochschulschrift</topic>
+                    </subject>
+                    <classification authority="ddc">230</classification>
+                    <classification authority="ddc">340</classification>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-01659492190</identifier>
+                    <identifier type="sys">HT014833811</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dc85109d-64dc-4065-9b40-b2ecf9e4b6f0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dc85109d-64dc-4065-9b40-b2ecf9e4b6f0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dc85109d-64dc-4065-9b40-b2ecf9e4b6f0/diss_steinhauer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dc85109d-64dc-4065-9b40-b2ecf9e4b6f0" DMDID="DMD_dc85109d-64dc-4065-9b40-b2ecf9e4b6f0">
+            <mets:fptr FILEID="FILE_dc85109d-64dc-4065-9b40-b2ecf9e4b6f0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

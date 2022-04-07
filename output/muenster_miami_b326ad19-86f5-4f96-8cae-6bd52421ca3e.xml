@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b326ad19-86f5-4f96-8cae-6bd52421ca3e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Schülerwettbewerb Deutsche Geschichte um den Preis des Bundespräsidenten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108161420">
+                        <displayForm>Jacobmeyer, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Jacobmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108161420">
+                        <displayForm>Jacobmeyer, W.</displayForm>
+                        <namePart type="given">W.</namePart>
+                        <namePart type="family">Jacobmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Schülerwettbewerb</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>3</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659546524</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b326ad19-86f5-4f96-8cae-6bd52421ca3e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b326ad19-86f5-4f96-8cae-6bd52421ca3e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b326ad19-86f5-4f96-8cae-6bd52421ca3e/jacobmeyer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b326ad19-86f5-4f96-8cae-6bd52421ca3e" DMDID="DMD_b326ad19-86f5-4f96-8cae-6bd52421ca3e">
+            <mets:fptr FILEID="FILE_b326ad19-86f5-4f96-8cae-6bd52421ca3e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

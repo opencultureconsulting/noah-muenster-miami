@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5b622f65-685f-4c44-af21-8fbc9bf37c78">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Organisation und generationale Ordnung</title>
+                        <subTitle>zur Organisationsgeschichte der Gewerkschaftsjugend</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132648369">
+                        <displayForm>Bierhoff, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Bierhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123299039">
+                        <displayForm>Wienold, Hanns</displayForm>
+                        <namePart type="given">Hanns</namePart>
+                        <namePart type="family">Wienold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-02-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-02-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit rekonstruiert die Organisationsgeschichte der Gewerkschaftsjugend im 20. Jahrhundert und analysiert unter organisationstheoretischen Gesichtspunkten Form und Funktion gewerkschaftlicher Jugendorganisation. These ist, dass diese als Instrument kollektiven Handelns zur Vertretung jugendlicher Interessen nicht hinreichend beschrieben ist. Aus macht- und herrschaftstheoretischer Perspektive ist sie in ihrer hegemonialen Form zugleich als Kontroll- und Disziplinierungsinstrument, aber auch als Kräftefeld zu sehen, auf dem Auseinandersetzungen um die generationale Ordnung, die Form und Funktion gewerkschaftlicher Organisation stattfinden.</abstract>
+                    <subject lang="ger">
+                        <topic>Gewerkschaft</topic>
+                        <topic>Gewerkschaftsjugend</topic>
+                        <topic>Jugendverband</topic>
+                        <topic>Organisation</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">300</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79589443100</identifier>
+                    <identifier type="sys">HT014985708</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5b622f65-685f-4c44-af21-8fbc9bf37c78</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5b622f65-685f-4c44-af21-8fbc9bf37c78_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5b622f65-685f-4c44-af21-8fbc9bf37c78/diss_bierhoff.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5b622f65-685f-4c44-af21-8fbc9bf37c78" DMDID="DMD_5b622f65-685f-4c44-af21-8fbc9bf37c78">
+            <mets:fptr FILEID="FILE_5b622f65-685f-4c44-af21-8fbc9bf37c78_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

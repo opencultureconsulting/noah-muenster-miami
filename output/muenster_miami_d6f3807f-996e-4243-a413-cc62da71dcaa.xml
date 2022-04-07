@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d6f3807f-996e-4243-a413-cc62da71dcaa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Arbeitsgestaltung in der Softwareentwicklung</title>
+                        <subTitle>ein empirischer Vergleich subjektiver Arbeitsmerkmale in proprietären und Open-Source-Softwareprojekten</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142319333">
+                        <displayForm>Jendroska, Dirk</displayForm>
+                        <namePart type="given">Dirk</namePart>
+                        <namePart type="family">Jendroska</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122601718">
+                        <displayForm>Hertel, Guido</displayForm>
+                        <namePart type="given">Guido</namePart>
+                        <namePart type="family">Hertel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-09-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-08-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden empirischen Studie wurden mit den Methoden der Arbeits- und Organisationspsychologie die Arbeitsgestaltung bei zwei Arten von Tätigkeiten miteinander verglichen: zum einen die Arbeitsgestaltung in Open-Source-Softwareentwicklungsprojekten und zum anderen die Arbeitsgestaltung im proprietären Umfeld der Softwareentwicklung. Es zeigte sich, dass die Tätigkeitsmerkmale der Komplexität in der Open-Source-Softwareentwicklung höher ausgeprägt sind als in der proprietären Softwareentwicklung. Kein eindeutiger Unterschied konnte für die sozialen Aspekte der Tätigkeit nachgewiesen werden. Außerdem wurde der Wirkungszusammenhang zwischen Tätigkeitsmerkmalen und organisationalen Kriterien untersucht. Es konnte jedoch nicht gezeigt werden, dass dieser für beide Arten von Tätigkeiten identisch ist. Insgesamt geben die Ergebnisse erste Hinweise auf Verbesserungsansätze für die Gestaltung von Tätigkeiten in der Softwareentwicklung und anderen Berufen.</abstract>
+                    <subject lang="ger">
+                        <topic>Open-Source</topic>
+                        <topic>Softwareentwicklung</topic>
+                        <topic>Arbeitsgestaltung</topic>
+                        <topic>Tätigkeitsmerkmale</topic>
+                        <topic>Empirisch</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-76479397811</identifier>
+                    <identifier type="sys">HT016589604</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d6f3807f-996e-4243-a413-cc62da71dcaa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d6f3807f-996e-4243-a413-cc62da71dcaa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d6f3807f-996e-4243-a413-cc62da71dcaa/diss_jendroska.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d6f3807f-996e-4243-a413-cc62da71dcaa" DMDID="DMD_d6f3807f-996e-4243-a413-cc62da71dcaa">
+            <mets:fptr FILEID="FILE_d6f3807f-996e-4243-a413-cc62da71dcaa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

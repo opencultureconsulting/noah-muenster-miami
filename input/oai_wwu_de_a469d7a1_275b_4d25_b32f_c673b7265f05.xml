@@ -1,0 +1,181 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:a469d7a1-275b-4d25-b32f-c673b7265f05" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:44:42">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_a469d7a1-275b-4d25-b32f-c673b7265f05">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="ger">
+                    <mods:title script="Latn">PRK-Netze (positiv repräsentierende Klassifikationsnetze)</mods:title>
+                    <mods:subTitle>Die Entwicklung eines neuartigen Klassifikationsnetzes für ein überwachtes Training während der Klassifikation</mods:subTitle>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/13044703X">
+                    <mods:namePart type="given">Ulrich</mods:namePart>
+                    <mods:namePart type="family">Sprekelmeyer</mods:namePart>
+                    <mods:namePart type="date">1974-</mods:namePart>
+                    <mods:displayForm>Sprekelmeyer, Ulrich</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1045682977">
+                    <mods:namePart type="given">Wolfram-Manfred</mods:namePart>
+                    <mods:namePart type="family">Lippe</mods:namePart>
+                    <mods:displayForm>Lippe, Wolfram-Manfred</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2004</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2005-04-13</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2005-12-01</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-02-23</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">In dieser Arbeit zu künstlichen neuronalen Netzen werden mit den PRK-Netzen konnektionistische Netze für Klassifikationsprobleme mit überwachtem Lernalgorithmus vorgestellt. Die Klassifikation erfolgt über Repräsentanten, die positiv zu jeweils einer Kategorie klassifizieren, die aber auch fremde Kategorien hemmen können. Die Anzahl der &#13;
+Repräsentanten wächst bei Bedarf. Der Lernprozess findet online im Vorwärtsdurchlauf durch das Netz statt, so dass Trainings- und Testdaten prinzipiell gleichberechtigt behandelt werden. Sämtliche Neuronen einer Schicht arbeiten immer parallel. Die Ausgabe lässt mehrere Klassifizierungen gleichzeitig zu. In der Klassifikation ähneln diese Netze damit den RBF-Netzen, im Lernalgorithmus unterscheiden sie sich aber deutlich. Der Darstellung der Netze folgt eine theoretische Betrachtung, die einige Kennzeichen und Besonderheiten der PRK-Netze ergibt, und eine Untersuchung der praktischen Qualität der PRK-Netze mit Hilfe von bestehenden Benchmarktests.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">Neuronale Netze; Klassifikationsprobleme; Klassifikationsnetze; RBF-Netze; selbstlernende  Netze; selbstlernende Programme</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-24629544040</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/a469d7a1-275b-4d25-b32f-c673b7265f05</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:a469d7a1-275b-4d25-b32f-c673b7265f05</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_a469d7a1-275b-4d25-b32f-c673b7265f05">
+            <mets:rightsMD ID="RIGHTSMD_a469d7a1-275b-4d25-b32f-c673b7265f05">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_a469d7a1-275b-4d25-b32f-c673b7265f05">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/a469d7a1-275b-4d25-b32f-c673b7265f05</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="text/plain" CHECKSUM="ae848b73744a5b5b1a28655d3d7c6c268b354698b5273e9112a5e9c5ba462866" CREATED="2016-02-23T15:53:25" CHECKSUMTYPE="SHA-256" SIZE="9001" ID="ID_FIL_iriscr.dat_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a469d7a1-275b-4d25-b32f-c673b7265f05/iriscr.dat" LOCTYPE="URL"/>
+              </mets:file>
+              <mets:file MIMETYPE="application/x-msdownload" CHECKSUM="bb4a0e86a8c9a087b181602053787ce6691e13ebe6940e15bcd3564ded9c2ed7" CREATED="2016-02-23T15:53:25" CHECKSUMTYPE="SHA-256" SIZE="46592" ID="ID_FIL_n_prk1b.exe_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a469d7a1-275b-4d25-b32f-c673b7265f05/n_prk1b.exe" LOCTYPE="URL"/>
+              </mets:file>
+              <mets:file MIMETYPE="application/x-msdownload" CHECKSUM="c6d7df58f2ddce6c9127a599a5157789cbc18ec022bdb357771314088113150c" CREATED="2016-02-23T15:53:25" CHECKSUMTYPE="SHA-256" SIZE="46592" ID="ID_FIL_n_prk1a.exe_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a469d7a1-275b-4d25-b32f-c673b7265f05/n_prk1a.exe" LOCTYPE="URL"/>
+              </mets:file>
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="08bfbaa7b9456c98e4092b3ec9f38726e25fa6ac72a34b7b454c1c0cbe14fa12" CREATED="2016-02-23T15:53:25" CHECKSUMTYPE="SHA-256" SIZE="95050" ID="ID_FIL_02_diss_sprekelmeyer_anhang.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a469d7a1-275b-4d25-b32f-c673b7265f05/02_diss_sprekelmeyer_anhang.pdf" LOCTYPE="URL"/>
+              </mets:file>
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="1b5751f606a6850a13c70521d1c7522c236345bf86698a0771855d93894cf6ef" CREATED="2016-02-23T15:53:25" CHECKSUMTYPE="SHA-256" SIZE="1568673" ID="ID_FIL_01_diss_sprekelmeyer.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a469d7a1-275b-4d25-b32f-c673b7265f05/01_diss_sprekelmeyer.pdf" LOCTYPE="URL"/>
+              </mets:file>
+              <mets:file MIMETYPE="application/x-msdownload" CHECKSUM="a456ea0969b9e72cc6cc33dfa7846e41ea0adb641e77f58324e5ccddd849c17e" CREATED="2016-02-23T15:53:25" CHECKSUMTYPE="SHA-256" SIZE="46592" ID="ID_FIL_n_prk2.exe_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a469d7a1-275b-4d25-b32f-c673b7265f05/n_prk2.exe" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/zip" ID="DOWa469d7a1-275b-4d25-b32f-c673b7265f05">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/a469d7a1-275b-4d25-b32f-c673b7265f05" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_a469d7a1-275b-4d25-b32f-c673b7265f05" TYPE="physSequence">
+              <mets:div ID="ID_PHY_iriscr.dat">
+                <mets:fptr FILEID="ID_FIL_iriscr.dat_DEFAULT"/>
+                <mets:fptr FILEID="ID_FIL_n_prk1b.exe_DEFAULT"/>
+                <mets:fptr FILEID="ID_FIL_n_prk1a.exe_DEFAULT"/>
+                <mets:fptr FILEID="ID_FIL_02_diss_sprekelmeyer_anhang.pdf_DEFAULT"/>
+                <mets:fptr FILEID="ID_FIL_01_diss_sprekelmeyer.pdf_DEFAULT"/>
+                <mets:fptr FILEID="ID_FIL_n_prk2.exe_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_a469d7a1-275b-4d25-b32f-c673b7265f05" DMDID="DMD_a469d7a1-275b-4d25-b32f-c673b7265f05" ID="ID_LOG_a469d7a1-275b-4d25-b32f-c673b7265f05" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_iriscr.dat"/>
+              <mets:div ID="ID_LOG_ID_PHY_n_prk1b.exe"/>
+              <mets:div ID="ID_LOG_ID_PHY_n_prk1a.exe"/>
+              <mets:div ID="ID_LOG_ID_PHY_02_diss_sprekelmeyer_anhang.pdf"/>
+              <mets:div ID="ID_LOG_ID_PHY_01_diss_sprekelmeyer.pdf"/>
+              <mets:div ID="ID_LOG_ID_PHY_n_prk2.exe"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_a469d7a1-275b-4d25-b32f-c673b7265f05" xlink:to="ID_PHY_a469d7a1-275b-4d25-b32f-c673b7265f05"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_iriscr.dat" xlink:to="ID_PHY_iriscr.dat"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_02_diss_sprekelmeyer_anhang.pdf" xlink:to="ID_PHY_02_diss_sprekelmeyer_anhang.pdf"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_n_prk1b.exe" xlink:to="ID_PHY_n_prk1b.exe"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_n_prk1a.exe" xlink:to="ID_PHY_n_prk1a.exe"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_01_diss_sprekelmeyer.pdf" xlink:to="ID_PHY_01_diss_sprekelmeyer.pdf"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_n_prk2.exe" xlink:to="ID_PHY_n_prk2.exe"/>
+          </mets:structLink>
+        </mets:mets>

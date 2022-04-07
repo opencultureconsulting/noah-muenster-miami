@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_21083f6b-9fbb-4c6c-a8ab-609990379d40">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Meditatio mortis</title>
+                        <subTitle>Zur Ikonographie des heiligen Hieronymus mit dem Totenschädel unter Berücksichtigung des Lissaboner Gemäldes von Albrecht Dürer</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133331237">
+                        <displayForm>Jeon, Hanho</displayForm>
+                        <namePart type="given">Hanho</namePart>
+                        <namePart type="family">Jeon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133729621">
+                        <displayForm>Poeschke, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Poeschke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-08-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-12-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dürer malte 1521 während seiner niederländischen Reise den heiligen Hieronymus, der als Gelehrter über einen Totenschädel meditiert. Denkt man an andere Fassungen des gleichen Themas, tritt der Unterschied deutlich hervor. Hieronymus stand stellvertretend für die Askese oder Wissenschaft. Demgegenüber schafft Dürer im Lissaboner Bild einen Mischtypus, in dem er die beiden Bildinhalte der Buße und der theologischen Gelehrsamkeit miteinander verbindet. Anders als die Hieronymusbilder, die, an erzählerische Topoi gebunden, einen Kultbild-Charakter innehatten, stellt Dürer den Heiligen in Nahsicht als Halbfigur dar, wobei der Heilige die Kommunikation mit dem Betrachter evoziert, die schließlich zur Erkenntnis führt, das Wahrgenommene für sich in Anspruch zu nehmen. So soll das Bild nicht der bloßen Betrachtung der abgebildeten Gegenstände dienen. Es verlangt die Erkenntnis der eigenen Bedingtheit, nämlich, angesichts der Betrachtung des Totenschädels, der eigenen Sterblichkeit und Erlösungsbedürftigkeit</abstract>
+                    <subject lang="ger">
+                        <topic>Albrecht Dürer</topic>
+                        <topic>Hieronymus</topic>
+                        <topic>Ikonographie</topic>
+                        <topic>Totenschädel</topic>
+                        <topic>Humanismus</topic>
+                        <topic>Heiligenbild</topic>
+                        <topic>devotio moderna</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27599541713</identifier>
+                    <identifier type="sys">HT015286366</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_21083f6b-9fbb-4c6c-a8ab-609990379d40</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_21083f6b-9fbb-4c6c-a8ab-609990379d40_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/21083f6b-9fbb-4c6c-a8ab-609990379d40/diss_jeon.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_21083f6b-9fbb-4c6c-a8ab-609990379d40" DMDID="DMD_21083f6b-9fbb-4c6c-a8ab-609990379d40">
+            <mets:fptr FILEID="FILE_21083f6b-9fbb-4c6c-a8ab-609990379d40_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

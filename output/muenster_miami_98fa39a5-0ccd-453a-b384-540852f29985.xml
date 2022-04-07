@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_98fa39a5-0ccd-453a-b384-540852f29985">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Workflow Management mit kooperativen Softwaresystemen</title>
+                        <subTitle>State of the Art und Problemabriß</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13000006X">
+                        <displayForm>Kirn, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Kirn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1063138698">
+                        <displayForm>Unland, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Unland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ausgehend von den Forderungen nach Markt- und Kundenorientierung, organisatorischer Reaktionsschnelligkeit, Flexibilität und Anpassungsfähigkeit wird derzeit in Wissenschaft und Praxis mit Hochdruck an der Entwicklung neuer organisatorischer Konzepte gearbeitet.In diesem Zusammenhang ist auch häufig von Workflow-Management-Systemen die Rede. Diese sind angetreten, um Geschäftsprozesse in einer Organisation aktiv und durch den Einsatz von Rechnertechnologie zu unterstützen. In dieser Arbeit wird zunächst der aktuelle Stand der Kunst zur Modellierung von Geschäftsprozessen einer kritischen Betrachtung unterzogen. Dabei zeigt sich, daß die Strukturierbarkeit von Aufgaben und die Komplexität der Vorgangserzeugung zwei für den Entwurf von Workflow-Management-Systemen wesentliche, diesen jedoch in unterschiedlicher Weise beeinflussende Kriterien sind. Betrachtet man nun allerdings moderne dezentralisierte Organisationen, dann stellt man rasch fest, daß die dort gegebenen Anforderungen insbesondere an die Modellierung und Steuerung von Geschäftsprozessen weit über das hinausgehen, was Workflow-Management-Systeme konventioneller Technologie leisten können. Hier bieten jedoch die in der Verteilten Künstlichen Intelligenz entwickelten Konzepte erfolgversprechende Lösungsansätze. Die Arbeit zeigt auf, wie diese zur Koordination von Geschäftsprozessen genutzt und so zur Flexibilisierung der informationstechnischen Unterstützung von Geschäftsprozessen eingesetzt werden können.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43599582197</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_98fa39a5-0ccd-453a-b384-540852f29985</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_98fa39a5-0ccd-453a-b384-540852f29985_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/98fa39a5-0ccd-453a-b384-540852f29985/029_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_98fa39a5-0ccd-453a-b384-540852f29985" DMDID="DMD_98fa39a5-0ccd-453a-b384-540852f29985">
+            <mets:fptr FILEID="FILE_98fa39a5-0ccd-453a-b384-540852f29985_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c12f87a6-851b-40bd-a64c-e8463437c9a3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wirkungen von Trimethylantimondichlorid auf neuronale Glutamat- und GABA-gesteuerte Rezeptorkanäle</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135714621">
+                        <displayForm>Rösner, Dennis</displayForm>
+                        <namePart type="given">Dennis</namePart>
+                        <namePart type="family">Rösner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mußhoff, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Mußhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-05-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-04-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Untersuchung hatte das Ziel, die Auswirkungen von Trimethylantimondichlorid auf Glutamat- und GABA-gesteuerte-Rezeptorkanäle zu überprüfen. Dabei wurden die Glutamat-Subrezeptoren vom AMPA- und NMDA-Typ sowie der GABAA-Rezeptortyp untersucht. Mittels Injektion von Rattenhirn-mRNA in Oozyten von Xenopus laevis wurden die glutamatergen und GABAergen Ionenkanäle exprimiert. In der Voltage-clamp-Konfiguration wurden rezeptorvermittelte Ionenströme unter Einfluss der Konzentration von Antimon registriert. Es wurde in Konzentrationen zwischen 0,1 und 100 µmol/l Antimon gemessen. Aufgrund der vorliegenden Ergebnisse kann davon ausgegangen werden, dass Trimethylantimon einen Einfluss auf Glutamat- und GABA-Rezeptorkanäle ausübt und das Krankheitsbild von neuronalen Intoxikationen bewirken kann.</abstract>
+                    <subject lang="ger">
+                        <topic>Trimethylantimondichlorid</topic>
+                        <topic>Glutamat</topic>
+                        <topic>GABA</topic>
+                        <topic>Rezeptorkanal</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-05539426319</identifier>
+                    <identifier type="sys">HT015592500</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c12f87a6-851b-40bd-a64c-e8463437c9a3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c12f87a6-851b-40bd-a64c-e8463437c9a3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c12f87a6-851b-40bd-a64c-e8463437c9a3/diss_roesner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c12f87a6-851b-40bd-a64c-e8463437c9a3" DMDID="DMD_c12f87a6-851b-40bd-a64c-e8463437c9a3">
+            <mets:fptr FILEID="FILE_c12f87a6-851b-40bd-a64c-e8463437c9a3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

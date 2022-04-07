@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_53da6dcb-65d8-4865-b967-3256ab195d30">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cyclic and Hochschild homology of one relator algebras via the X complex of Cuntz and Quillen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129732125">
+                        <displayForm>Nekljudova, Valentina</displayForm>
+                        <namePart type="given">Valentina</namePart>
+                        <namePart type="family">Nekljudova</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137444311">
+                        <displayForm>Cuntz, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Cuntz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-01-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-12-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit benutzen wir den Zugang von Cuntz und Quillen, um die zyklische Homologie von Algebren mit einer einzigen definierenden Relation (1-R-Algebren) zu untersuchen. Wir zeigen für solche Algebren, dass die I-adische Filtrierung des X-Komplexes der dazugehörenden gemischten freien Erweiterung eine spezielle Form hat. Wir folgern daraus, dass in Dimensionen größer als 3 die zyklische Homologie solcher Algebren einfach periodisch ist. Für vier konkrete Beispiele (die irrationale Drehungsalgebra, die Weyl Algebra, ihre Modifikation mit einem invertierbaren Erzeuger und die Algebra der Laurent Polynome in zwei Variablen) bestimmen wir mit Hilfe des X-Komplexes vollständig die zyklische und Hochschildsche Homologie. Wir zeigen auch, dass jede 1-R-Algebra eine freie Auflösung der Länge 2 besitzt, und schreiben solche Auflösungen für konkrete Beispiele auf. Schließlich konstruieren wir einen 2-Zusammenhang auf der irrationalen Drehungsalgebra.</abstract>
+                    <subject lang="ger">
+                        <topic>zyklische Homologie</topic>
+                        <topic>hochschildsche Homologie</topic>
+                        <topic>X-Komplex</topic>
+                        <topic>Algebra</topic>
+                        <topic>definierende Relation</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17639652519</identifier>
+                    <identifier type="sys">HT014320953</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_53da6dcb-65d8-4865-b967-3256ab195d30</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_53da6dcb-65d8-4865-b967-3256ab195d30_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/53da6dcb-65d8-4865-b967-3256ab195d30/diss_nekljudova.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_53da6dcb-65d8-4865-b967-3256ab195d30" DMDID="DMD_53da6dcb-65d8-4865-b967-3256ab195d30">
+            <mets:fptr FILEID="FILE_53da6dcb-65d8-4865-b967-3256ab195d30_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

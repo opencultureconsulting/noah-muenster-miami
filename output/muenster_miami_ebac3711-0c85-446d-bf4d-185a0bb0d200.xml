@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ebac3711-0c85-446d-bf4d-185a0bb0d200">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>isomorphism problem for almost split Kac-Moody groups</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142660086">
+                        <displayForm>Hainke, Guntram</displayForm>
+                        <namePart type="given">Guntram</namePart>
+                        <namePart type="family">Hainke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1022191195">
+                        <displayForm>Tent, Katrin</displayForm>
+                        <namePart type="given">Katrin</namePart>
+                        <namePart type="family">Tent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1022191195">
+                        <displayForm>Tent, K.</displayForm>
+                        <namePart type="given">K.</namePart>
+                        <namePart type="family">Tent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-08-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zerfallende Kac-Moody-Gruppen wurden 1987 von Jacques Tits definiert, Bertrand Remy gab 1999 eine Definition von fast-zerfallenden Kac-Moody-Gruppen an, die mittels Galois-Abstieg von zerfallenden Kac-Moody-Gruppen konstruiert werden können. In der vorliegenden Arbeit wird das Isomorphieproblem für 2-sphärische fast-zerfallende Kac-Moody-Gruppen über Körpern der Charakteristik 0 gelöst. Wichtige Hilfsmittel dabei sind die Konstruktion von maximal zerfallenden Untergruppen und das detaillierte Studium von beschränkten Untergruppen. Die dabei erzielten Resultate verallgemeinern Ergebnisse von Armand Borel und Jacques Tits sowie Ergebnisse von Pierre-Emmanuel Caprace.</abstract>
+                    <subject lang="ger">
+                        <topic>Kac-Moody-Gruppe</topic>
+                        <topic>Galois-Abstieg</topic>
+                        <topic>algebraische Gruppe</topic>
+                        <topic>Gebäude</topic>
+                        <topic>Isomorphismus</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-86499481671</identifier>
+                    <identifier type="sys">HT016559889</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ebac3711-0c85-446d-bf4d-185a0bb0d200</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ebac3711-0c85-446d-bf4d-185a0bb0d200_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ebac3711-0c85-446d-bf4d-185a0bb0d200/diss_hainke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ebac3711-0c85-446d-bf4d-185a0bb0d200" DMDID="DMD_ebac3711-0c85-446d-bf4d-185a0bb0d200">
+            <mets:fptr FILEID="FILE_ebac3711-0c85-446d-bf4d-185a0bb0d200_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

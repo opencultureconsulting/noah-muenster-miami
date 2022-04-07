@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ec9788b8-491e-4302-95fd-08af34318168">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Farbkodierte Gewebedopplersonographie (Color- TDI) am fetalen Herzen</title>
+                        <subTitle>Möglichkeiten der kardialen Rhythmusanalyse im lateralen Vier-Kammer-Blick</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027043267">
+                        <displayForm>Keil, Johanna</displayForm>
+                        <namePart type="given">Johanna</namePart>
+                        <namePart type="family">Keil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110918193">
+                        <displayForm>Klockenbusch, Walter</displayForm>
+                        <namePart type="given">Walter</namePart>
+                        <namePart type="family">Klockenbusch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110918193">
+                        <displayForm>Klockenbusch, W.</displayForm>
+                        <namePart type="given">W.</namePart>
+                        <namePart type="family">Klockenbusch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-11-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-09-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mittels Color-TDI wurden erstmals im lateralen Vier-Kammer-Blick zeitliche, mechanische und kontraktile Parameter des Herzzyklus an 60 gesunden Feten (19. - 39. SSW) untersucht. Die Velocity-Parameter waren gut messbar und in einer der Erwachsenenkardiologie vergleichbaren Qualität darstellbar. Herzfrequenz, Systolen- und Diastolendauer entsprachen den mittels konventioneller Methoden erhobenen Daten. Unterschiede des E/A Quotienten zu etablierten Werten sind auf die angewandte Schnittführung zurückzuführen. Eine signifikante Zunahme der Vmax der IVC mit steigendem Schwangerschaftsalter wurde festgestellt. Weiter wurden mechanische Überleitungszeiten ermittelt, erstmalig Daten der IVR erhoben und das Auftreten von „extra-peaks“ in den Vorhöfen analysiert. Aufgrund der guten Darstellbarkeit systolischer sowie diastolischer Parameter und einer simultanen Analyse von Vorhof und Ventrikel bietet das TDI einen eindeutigen Zugewinn in der pränatalen Diagnostik von Herzrhythmusstörungen.</abstract>
+                    <subject lang="ger">
+                        <topic>Color-TDI</topic>
+                        <topic>fetale Echokardiographie</topic>
+                        <topic>fetale Herzrhythmusstörungen</topic>
+                        <topic>Velocity-Paramter</topic>
+                        <topic>IVC</topic>
+                        <topic>E/A Quotient</topic>
+                        <topic>IVR</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92449445019</identifier>
+                    <identifier type="sys">HT017038552</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ec9788b8-491e-4302-95fd-08af34318168</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ec9788b8-491e-4302-95fd-08af34318168_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ec9788b8-491e-4302-95fd-08af34318168/diss_keil.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ec9788b8-491e-4302-95fd-08af34318168" DMDID="DMD_ec9788b8-491e-4302-95fd-08af34318168">
+            <mets:fptr FILEID="FILE_ec9788b8-491e-4302-95fd-08af34318168_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_343edd3f-9fe8-44bb-bc05-5412d1563525">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An unfitted discontinuous Galerkin scheme for a phase-field approximation of pressurized fractures</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1201607159">
+                        <displayForm>Sommer, Liesel</displayForm>
+                        <namePart type="given">Liesel</namePart>
+                        <namePart type="family">Sommer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1201607159">
+                        <displayForm>Schumacher, Liesel</displayForm>
+                        <namePart type="given">Liesel</namePart>
+                        <namePart type="family">Schumacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139810196">
+                        <displayForm>Engwer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Engwer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-12-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-11-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei der Simulation von Rissen mit Hilfe von FEM muss das Gitter an propagierende Risse agepasst werden. Geometrieunabhängige Methoden wie UDG und X-FEM führen neue Basisfunktionen entlang von Rissen ein. Phasenfeldansätze stellen Risse implizit dar und regularisieren sie im Sinne der Gamma-Konvergenz. Das ermöglicht den Umgang mit Topologieveränderungen und die exakte Bestimmung der Ausbreitungsrichtung und -geschwindigkeit, benötigt aber eine feine Auflösung in der Umgebung von Rissen. Wir kombinieren ein Phasenfeld und die UDG Methode. Dabei wird die quasi-statische Entwicklung von flüssigkeitsgefüllten, unter Druck stehenden Rissen simuliert. Das Phasenfeld prognostiziert die Ausbreitung und behandelt topologische Änderungen. Eine explizite Darstellung der Risse wird als Skelett einer Niveaumenge des Phasenfeldes gewonnen. Die UDG Methode erlaubt Sprünge für die Verschiebung an Rissen. Wir zeigen Gamma-Konvergenz der Phasenfelddarstellung bei vorhandenen Drucktermen.</abstract>
+                    <abstract lang="eng">When simulating fracture propagation, FEMs need remeshing whenever fractures propagate. Unfitted methods such as UDG and X-FEM introduce new basis functions along the crack. Phase-field approaches describe the crack implicitly and regularize it in the sense of Gamma-convergence. They deal with changes of topology automatically and predict the direction and velocity of a propagating crack, but they need a high resolution in the proximity of cracks. We combine a phase-field approach with the UDG method. Quasi-static evolution of fluid-filled, pressurized fractures is considered. The implicit representation of cracks predicts propagation and handles changes in the crack topology. An explicit representation of the crack is reconstructed as skeleton of a level set of the phase field. Applying the UDG method allows for jumps of the displacement along the cracks. We prove Gamma-convergence of the approximating functionals in the presence of additional pressure terms.</abstract>
+                    <subject lang="ger">
+                        <topic>Rissausbreitung</topic>
+                        <topic>hydraulischer Druck</topic>
+                        <topic>Phasenfeldapproximation</topic>
+                        <topic>Gamma-Konvergenz</topic>
+                        <topic>Geometrieunabgängige unstetige Galerkinmethode</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Crack propagation</topic>
+                        <topic>Pressurized fractures</topic>
+                        <topic>Phase-field approximation</topic>
+                        <topic>Gamma-convergence</topic>
+                        <topic>Unfitted discontinuous Galerkin method</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-42189625541</identifier>
+                    <identifier type="sys">HT020317228</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_343edd3f-9fe8-44bb-bc05-5412d1563525</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_343edd3f-9fe8-44bb-bc05-5412d1563525_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/343edd3f-9fe8-44bb-bc05-5412d1563525/diss_sommer_liesel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_343edd3f-9fe8-44bb-bc05-5412d1563525" DMDID="DMD_343edd3f-9fe8-44bb-bc05-5412d1563525">
+            <mets:fptr FILEID="FILE_343edd3f-9fe8-44bb-bc05-5412d1563525_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

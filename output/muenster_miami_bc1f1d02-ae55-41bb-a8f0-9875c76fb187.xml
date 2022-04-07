@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bc1f1d02-ae55-41bb-a8f0-9875c76fb187">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schulprofil und Schulprogramm</title>
+                        <subTitle>Entwicklungsarbeit für eine Schule</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129402044">
+                        <displayForm>Kleine, Astrid</displayForm>
+                        <namePart type="given">Astrid</namePart>
+                        <namePart type="family">Kleine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vogt, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Vogt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Aufgrund einer verordneten Selbständigkeit soll sich jede Schule in Nordrhein-Westfalen bis zum Jahr 2000 ein Schulprogramm erstellen, um die Vergleichbarkeit der Schulen zu gewährleisten. Am Anfang dieser Schulentwicklungsarbeit steht eine umfassende Bestandsaufnahme aller schulischen Gegebenheiten. In diese sollten – neben den Lehrern – auch die Kinder und die Eltern einbezogen werden. Als sinnvoll für die Erhebungen haben sich Fragebögen erwiesen. Als mögliche Erhebungsform wurde in diesem Zusammenhang die Delphi- Studie gewählt, die unterschiedliche „Runden“ beinhaltet. Bestandsaufnahme, Reflexion und erste Innovationsansätze wurden an einer Grundschule erprobt. Dabei verdeutlichte sich nach der Analyse Positives und Negatives der untersuchten Schule. Es konnten Pläne für eine konstruktive Weiterarbeit der Schule aufgestellt werden. Die Ausführungen können anderen Schulen – auch in anderen Bundesländern – bei ihrer eigenen Entwicklungsarbeit bzw. der Fortentwicklung als Anhaltspunkt dienen oder Anregungen geben.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Didaktik</topic>
+                        <topic>Schulprofil</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>29</start>
+                                <end>42</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542120</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bc1f1d02-ae55-41bb-a8f0-9875c76fb187</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bc1f1d02-ae55-41bb-a8f0-9875c76fb187_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bc1f1d02-ae55-41bb-a8f0-9875c76fb187/KleineVo83.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bc1f1d02-ae55-41bb-a8f0-9875c76fb187" DMDID="DMD_bc1f1d02-ae55-41bb-a8f0-9875c76fb187">
+            <mets:fptr FILEID="FILE_bc1f1d02-ae55-41bb-a8f0-9875c76fb187_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

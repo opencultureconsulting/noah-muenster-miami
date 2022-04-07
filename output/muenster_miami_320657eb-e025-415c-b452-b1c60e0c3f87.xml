@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_320657eb-e025-415c-b452-b1c60e0c3f87">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>„Sammlung Kriegsberichte (1. Weltkrieg)“ der Kriegsnachrichten-Sammelstelle des VII. Armeekorps an der Universität Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137682779">
+                        <displayForm>Gieseke, Arnold</displayForm>
+                        <namePart type="given">Arnold</namePart>
+                        <namePart type="family">Gieseke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract>Die Arbeit untersucht Feldpostbriefe, die von der Kriegsnachrichten-Sammelstelle des VII Armeekorps am Historischen Seminar der Universität Münster für zukünftige (Wissenschaftler)-Generationen ausgewählt und archiviert wurden. Die Arbeit fragt einerseits nach den Kriegserlebnissen und Kriegsdeutungen der Briefeschreiber, andererseits aber auch nach dem Kriegsbild, das die Sammelstelle durch ihre Auswahl der Briefe der Nachwelt vermitteln wollte.</abstract>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Erster Weltkrieg</topic>
+                        <topic>Feldpostbriefe</topic>
+                        <topic>Kriegsnachrichten</topic>
+                        <topic>Sammelstelle</topic>
+                        <topic>Kriegserlebnisse</topic>
+                        <topic>Kriegsdeutungen</topic>
+                        <topic>Studium im Alter</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Westfalen im Ersten Weltkrieg</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Westfalen im Ersten Weltkrieg</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61329502824</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_320657eb-e025-415c-b452-b1c60e0c3f87</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_320657eb-e025-415c-b452-b1c60e0c3f87_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/320657eb-e025-415c-b452-b1c60e0c3f87/wki_7_gieseke_feldpostbriefe.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_320657eb-e025-415c-b452-b1c60e0c3f87" DMDID="DMD_320657eb-e025-415c-b452-b1c60e0c3f87">
+            <mets:fptr FILEID="FILE_320657eb-e025-415c-b452-b1c60e0c3f87_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

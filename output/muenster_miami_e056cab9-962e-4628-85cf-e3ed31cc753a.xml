@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e056cab9-962e-4628-85cf-e3ed31cc753a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>EKG-Verfahren zur Vitalitätsdiagnostik bei Patienten mit koronarer Herzerkrankung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131337769">
+                        <displayForm>Stolz, Philipp Johannes</displayForm>
+                        <namePart type="given">Philipp Johannes</namePart>
+                        <namePart type="family">Stolz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115697462">
+                        <displayForm>Wichter, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Wichter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-01-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-12-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Arbeit untersucht EKG-basierte Verfahren zur Vitalitätsdiagnostik bei Patienten mit koronarer Herzkrankheit, die sich einer Bypass-Operation unterzogen. Zum einen modifizierten wir einen bekannten Hibernation Score, mit dem, durch Differenzbildung von elektrokardiographisch berechneter Ejektionsfraktion (Selvester Score) und der nuklearkardiographisch respektive lävokardiographisch bestimmter Ejektionsfraktion, Erholung vorhergesagt wird. Wir bildeten die Differenz von elektrokardiographisch berechneten Ejektionsfraktion und echokardiographisch bestimmter Ejektionfraktion. Der so modifizierte Hibernation Index wurde an der echokardiographisch gemessenen Erholung nach Bypassoperation validiert. Zum anderen untersuchten wir Korrelationen von QRS-Parametern der Körperoberfläche (BSPM) mit QRS-Parametern der Herzoberfläche (Epikardiales Mapping) in den einzelnen Stromgebieten der drei Hauptkoronararterien beim Vorhandensein avitaler Myokardareale. BSPM ist zumindest in dieser retrospektiven Analyse in der Lage, nicht vitale Myokardregionen zu detektieren.</abstract>
+                    <subject lang="ger">
+                        <topic>EKG-Verfahren</topic>
+                        <topic>Vitalitätsdiagnostik</topic>
+                        <topic>Hibernation</topic>
+                        <topic>Hibernation-Index</topic>
+                        <topic>BSPM</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53679589793</identifier>
+                    <identifier type="sys">HT014658257</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e056cab9-962e-4628-85cf-e3ed31cc753a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e056cab9-962e-4628-85cf-e3ed31cc753a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e056cab9-962e-4628-85cf-e3ed31cc753a/diss_stolz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e056cab9-962e-4628-85cf-e3ed31cc753a" DMDID="DMD_e056cab9-962e-4628-85cf-e3ed31cc753a">
+            <mets:fptr FILEID="FILE_e056cab9-962e-4628-85cf-e3ed31cc753a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

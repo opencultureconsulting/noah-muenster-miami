@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b86f5a2e-8590-4dd0-9adc-d4918da7857e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Semi-formale Darstellung des Prozessmodells von VOFI</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108445518">
+                        <displayForm>Grob, Heinz Lothar</displayForm>
+                        <namePart type="given">Heinz Lothar</namePart>
+                        <namePart type="family">Grob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133220508">
+                        <displayForm>Austrup, Sascha</displayForm>
+                        <namePart type="given">Sascha</namePart>
+                        <namePart type="family">Austrup</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-05-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-05-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Der Arbeitsbericht stellt die erweiterte Fassung des Beitrags von Grob, H. L., Austrup, S.: Semiformale Darstellung des Prozessmodells von VOFI, in: WISU 32 (2003) 11, 1400-1407 dar.</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659524698</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b86f5a2e-8590-4dd0-9adc-d4918da7857e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b86f5a2e-8590-4dd0-9adc-d4918da7857e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b86f5a2e-8590-4dd0-9adc-d4918da7857e/CGC19.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b86f5a2e-8590-4dd0-9adc-d4918da7857e" DMDID="DMD_b86f5a2e-8590-4dd0-9adc-d4918da7857e">
+            <mets:fptr FILEID="FILE_b86f5a2e-8590-4dd0-9adc-d4918da7857e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

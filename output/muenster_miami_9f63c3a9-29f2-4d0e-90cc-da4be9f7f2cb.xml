@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9f63c3a9-29f2-4d0e-90cc-da4be9f7f2cb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Magnetoencephalographic investigations of human primary auditory cortex responses to multiple amplitude modulated tones</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128417978">
+                        <displayForm>Draganova, Rossitza</displayForm>
+                        <namePart type="given">Rossitza</namePart>
+                        <namePart type="family">Draganova</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113501161">
+                        <displayForm>Pantev, Christo</displayForm>
+                        <namePart type="given">Christo</namePart>
+                        <namePart type="family">Pantev</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-09-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der zeitlichen Verläufe von Sprach- oder Musikklängen enthalten Amplitudenuktuationen mit unterschiedlichen Rhythmen die Träger der Information sind. Unsere Studie liefert wertvolle neue Erkenntnisse darüber, wie und in welcher Hirnregion komplexe Töne verarbeitet werden und mit anderen Komponenten des zentralen auditorischen Kortex interagieren. Die 40 Hz SSR hat sich dabei als wertvoller Parameter bei der Erforschung von Sprachverarbeitung und Störungen des zentralen Kortex erwiesen. Ein reiner Ton, mit zwei Sinusschwingungen von 38 und 40 Hz moduliert, wird wahrgenommen als eine 2 Hz Schwankung der Lautheit und eine Rauhigkeit, die den Modulationsfrequenzen bei 40 Hz entspricht. Korrespondierende SSRs bei 2, 38 und 40 Hz wurden mit dem MEG erfasst, das die Lokalisation überlappender Quellen im primären auditorischen Kortex ermöglichte. Der allgemeinere Fall mehrfacher AM Töne mit verschiedenen Trägerfrequenzen zeigte, dass die Antwort auf einen AM Ton unterdrückt wird, wenn ein zweiter AM Stimulus gleichzeitig dargeboten wird. Die Ergebnisse lassen eine zentrale Generierung der 40 Hz SSR annehmen.</abstract>
+                    <subject lang="ger">
+                        <topic>MEG</topic>
+                        <topic>SSR</topic>
+                        <topic>auditorischen Kortex</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542403</identifier>
+                    <identifier type="sys">HT013866550</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9f63c3a9-29f2-4d0e-90cc-da4be9f7f2cb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9f63c3a9-29f2-4d0e-90cc-da4be9f7f2cb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9f63c3a9-29f2-4d0e-90cc-da4be9f7f2cb/thesis_d.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9f63c3a9-29f2-4d0e-90cc-da4be9f7f2cb" DMDID="DMD_9f63c3a9-29f2-4d0e-90cc-da4be9f7f2cb">
+            <mets:fptr FILEID="FILE_9f63c3a9-29f2-4d0e-90cc-da4be9f7f2cb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

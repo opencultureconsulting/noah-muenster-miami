@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4186abe9-405a-4c0d-8e2b-d65bd9923e19">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erfassung von Kleinsäugern durch Schüler</title>
+                        <subTitle>Ein Unterrichtsprojekt zum Erlernen biologischer Methoden-Kompetenzen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121752747">
+                        <displayForm>Grümme, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Grümme</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schröer, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Schröer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mit Schülern einer 9. Klasse der Werner-von-Siemens Realschule (Gladbeck) sind in dem Landschaftsschutzgebiet „Wittringer Wald“ bei Gladbeck die dort vorkommenden Kleinsäu- gerarten erfasst worden. Die Daten sind von landesweitem Interesse und dienen der Erstel- lung eines Verbreitungsatlasses einheimischer Säugetierarten. Bei dem Natur begegnenden Projekt konnten die Schüler neben der Erweiterung ihrer Artenkenntnis methodische Kompetenzen erlangen, die für exaktes biologisches Arbeiten unerlässlich sind.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Didaktik</topic>
+                        <topic>Sachunterricht</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>11</start>
+                                <end>26</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542215</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4186abe9-405a-4c0d-8e2b-d65bd9923e19</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4186abe9-405a-4c0d-8e2b-d65bd9923e19_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4186abe9-405a-4c0d-8e2b-d65bd9923e19/GrueSchroe92.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4186abe9-405a-4c0d-8e2b-d65bd9923e19" DMDID="DMD_4186abe9-405a-4c0d-8e2b-d65bd9923e19">
+            <mets:fptr FILEID="FILE_4186abe9-405a-4c0d-8e2b-d65bd9923e19_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9c8f0bc0-19e5-4a3a-a689-f541548463d5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Pfarrbibliothek Sankt Peter und Paul zu Straelen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172073197">
+                        <displayForm>Feldmann, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Feldmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111935024">
+                        <displayForm>Augst, Rüdiger</displayForm>
+                        <namePart type="given">Rüdiger</namePart>
+                        <namePart type="family">Augst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2005-06-14</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-06-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Erschienen in: Geldrischer Heimatkalender 1990 (1989), S. 153-161</note>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659520562</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9c8f0bc0-19e5-4a3a-a689-f541548463d5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9c8f0bc0-19e5-4a3a-a689-f541548463d5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9c8f0bc0-19e5-4a3a-a689-f541548463d5/feldmann_1989_peterpaul.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9c8f0bc0-19e5-4a3a-a689-f541548463d5" DMDID="DMD_9c8f0bc0-19e5-4a3a-a689-f541548463d5">
+            <mets:fptr FILEID="FILE_9c8f0bc0-19e5-4a3a-a689-f541548463d5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

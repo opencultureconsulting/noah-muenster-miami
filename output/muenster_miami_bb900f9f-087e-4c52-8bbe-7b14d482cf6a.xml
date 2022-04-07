@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bb900f9f-087e-4c52-8bbe-7b14d482cf6a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Epistemologische Aspekte der neuen Entwicklungen in der Physik</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, Gernot</displayForm>
+                        <namePart type="given">Gernot</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1990</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-19</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-04-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Philosophia Naturalis 27 (1990), S. 83-98</note>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-88419384563</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bb900f9f-087e-4c52-8bbe-7b14d482cf6a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bb900f9f-087e-4c52-8bbe-7b14d482cf6a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bb900f9f-087e-4c52-8bbe-7b14d482cf6a/1990_muens_epist.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bb900f9f-087e-4c52-8bbe-7b14d482cf6a" DMDID="DMD_bb900f9f-087e-4c52-8bbe-7b14d482cf6a">
+            <mets:fptr FILEID="FILE_bb900f9f-087e-4c52-8bbe-7b14d482cf6a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_410ac688-195a-422c-8e79-20fddd7ce55f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soziale Sicherung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129052051">
+                        <displayForm>Grossekettler, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grossekettler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Englische Fassung erschienen unter dem Titel: Grossekettler, Heinz: Social Insurance, in: Backhaus, Jürgen G. (Hrsg.): Handbook of Public Finance. Boston : Kluwer, 2004, S. 323–383</note>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Volkswirtschaftliche Diskussionsbeiträge</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Volkswirtschaftliche Diskussionsbeiträge</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525881</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_410ac688-195a-422c-8e79-20fddd7ce55f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_410ac688-195a-422c-8e79-20fddd7ce55f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/410ac688-195a-422c-8e79-20fddd7ce55f/DB349.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_410ac688-195a-422c-8e79-20fddd7ce55f" DMDID="DMD_410ac688-195a-422c-8e79-20fddd7ce55f">
+            <mets:fptr FILEID="FILE_410ac688-195a-422c-8e79-20fddd7ce55f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

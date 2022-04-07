@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d76aa7a8-1324-424a-8922-e9f9284f7f73">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Scaling laws for internally heated mantle convection</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140832920">
+                        <displayForm>Hüttig, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Hüttig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10942090X">
+                        <displayForm>Spohn, Tilman</displayForm>
+                        <namePart type="given">Tilman</namePart>
+                        <namePart type="family">Spohn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10942090X">
+                        <displayForm>Spohn, Tilmann</displayForm>
+                        <namePart type="given">Tilmann</namePart>
+                        <namePart type="family">Spohn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10942090X">
+                        <displayForm>Spohn, T.</displayForm>
+                        <namePart type="given">T.</namePart>
+                        <namePart type="family">Spohn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-01-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-07-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit stellt eine neue Methode vor, um Mantelkonvektion terrestrischer Planeten in einer 3D sphärischen Kugelschale zu simulieren. Die erforderlichen Differentialgleichungen werden dabei erstmalig mittels der Finiten -Volumen-Methode für irreguläre Voronoi-Gitter diskretisiert. Diese Diskretisierung (D) ist zweite Ordnung und voll implizit. Für mehr als 1000 CPUs ist die Simulation effizient parallelisiert. Damit wurde das Spiralgitter, eine neuartige Gitterstruktur mit lateral variierenden Auflösungen, untersucht. Weiterhin wurde ein bikonjugiertes Gradientenverfahren angewandt um das resultierende Gleichungssystem zu lösen. Die D. des Spannungstensors erlaubt eine Zell-Zell Variation der Viskosität von 8 und systemweit von 45 Größenordnungen. Um die Anwendbarkeit dieser neuen Methode zu demonstrieren, wurde eine Parameterstudie mit 88 Fällen gewählt, wobei Skalierungsgesetze für Wärmetransport, Grenzschichtendicken und Strukturkomplexität für planetare Mäntel ermittelt wurden.</abstract>
+                    <abstract lang="eng">This work presents a new method to simulate mantle convection in a 3D spherical shell with fully spatially varying viscosities. The formulation of the governing equations is based on the finite-volume (FV) method for fully irregular grids using Voronoi-cells. The simulation code is efficiently parallelized for more than 1000 CPUs. A new irregular grid with varying lateral resolution, the spiral grid, was investigated. The discretization method is second-order accurate in space and time. The Krylov-subspace solver BiCGS with a Jacobi preconditioner is employed to solve the resulting system of equations. The discretization of the stress tensor can handle viscosity variations of up to 8 orders of magnitude from cell-to-cell and up to 45 orders of magnitude system wide. As an application to purely internally heated mantle convection in a spherical shell, a parameter study of 88 cases is carried out to derive scaling laws for heat transport, stagnant-lid thickness and structural complexity.</abstract>
+                    <subject lang="ger">
+                        <topic>Konvektion</topic>
+                        <topic>Mantelkonvektion</topic>
+                        <topic>Finite-Volumen</topic>
+                        <topic>Voronoi</topic>
+                        <topic>Gitter</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39409599789</identifier>
+                    <identifier type="sys">HT016329305</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d76aa7a8-1324-424a-8922-e9f9284f7f73</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d76aa7a8-1324-424a-8922-e9f9284f7f73_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d76aa7a8-1324-424a-8922-e9f9284f7f73/diss_huettig.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d76aa7a8-1324-424a-8922-e9f9284f7f73" DMDID="DMD_d76aa7a8-1324-424a-8922-e9f9284f7f73">
+            <mets:fptr FILEID="FILE_d76aa7a8-1324-424a-8922-e9f9284f7f73_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

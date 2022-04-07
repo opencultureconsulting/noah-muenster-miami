@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_76dbdebe-dc42-458b-88d7-b61ec3e9d532">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Digitale Literaturwissenschaft: Perspektiven, Probleme und Potentiale der Philologien im ‚digital turn‘</title>
+                        <subTitle>Vortrag auf Einladung der Arbeitsgruppe ‚Digital Humanities‘ der Graduate School ‚Practices of Literature‘ in Münster am 17.07.2013</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1018151974">
+                        <displayForm>Richards, Earl Jeffrey</displayForm>
+                        <namePart type="given">Earl Jeffrey</namePart>
+                        <namePart type="family">Richards</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-03-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In einem Vortrag auf Einladung der Arbeitsgruppe ›Digital Humanities‹ (Münster, 17.07.2013) erörtert Earl Jeffrey Richards die Möglichkeiten der digitalen Philologie. In seiner historischen Spurensuche stößt er dabei auf Hypertext-Verfahren, die bereits vor mehreren Jahrhunderten in der Theologie und Editionsphilologie zum Einsatz kamen. Er zeichnet nach, dass digitale philologische Arbeitsweisen sich als optimale Lösungen nicht nur bei Editionen und Vergleichsprojekten erweisen, sondern auch eine De-Hierarchisierung der Kanonbildung ermöglichen.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-88399570698</identifier>
+                    <identifier type="doi">10.17879/27289469503</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_76dbdebe-dc42-458b-88d7-b61ec3e9d532</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_76dbdebe-dc42-458b-88d7-b61ec3e9d532_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/76dbdebe-dc42-458b-88d7-b61ec3e9d532/earl-jeffrey-richards-digitale-literaturwissenschaft.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_76dbdebe-dc42-458b-88d7-b61ec3e9d532" DMDID="DMD_76dbdebe-dc42-458b-88d7-b61ec3e9d532">
+            <mets:fptr FILEID="FILE_76dbdebe-dc42-458b-88d7-b61ec3e9d532_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

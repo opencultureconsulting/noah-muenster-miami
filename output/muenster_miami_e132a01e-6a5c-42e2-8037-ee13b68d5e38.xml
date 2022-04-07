@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e132a01e-6a5c-42e2-8037-ee13b68d5e38">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Obstructions to stably fibering manifolds</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142052809">
+                        <displayForm>Steimle, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Steimle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133867072">
+                        <displayForm>Lück, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Lück</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ist eine gegebene Abbildung zwischen kompakten topologischen Mannigfaltigkeiten homotop zur Projektion eines lokal-trivialen Faserbündels? In dieser Dissertation wird algebraische K-Theorie von Räumen verwendet, um Hindernisse für diese Frage zu konstruieren; deren Verschwinden ist hinreichend dafür, dass die Abbildung stabil fasert. Weitere Resultate sind eine Klassifikation der stabilen Faserbündel in der gegebenen Homotopieklasse sowie die Ausdehnung der Theorie auf das Fasern von Hilbert Q-Mannigfaltigkeiten.</abstract>
+                    <abstract lang="eng">IIs a given map between compact topological manifolds homotopic to the projection map of a locally trivial fiber bundle? In this PhD thesis obstructions to this question are constructed using algebraic K-theory of spaces; their vanishing is a sufficient condition for the given map to fiber stably. Further results are a classification of the stable fiber bundle projections in the given homotopy class and an extension of the theory to the fibering of Hilbert Q-manifolds.</abstract>
+                    <subject lang="ger">
+                        <topic>Faserbündel</topic>
+                        <topic>algebraische K-Theorie von Räumen</topic>
+                        <topic>Whitehead-Torsion</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>fiber bundles</topic>
+                        <topic>algebraic K-theory of spaces</topic>
+                        <topic>Whitehead torsion</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67429598955</identifier>
+                    <identifier type="sys">HT016555620</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e132a01e-6a5c-42e2-8037-ee13b68d5e38</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e132a01e-6a5c-42e2-8037-ee13b68d5e38_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e132a01e-6a5c-42e2-8037-ee13b68d5e38/diss_steimle.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e132a01e-6a5c-42e2-8037-ee13b68d5e38" DMDID="DMD_e132a01e-6a5c-42e2-8037-ee13b68d5e38">
+            <mets:fptr FILEID="FILE_e132a01e-6a5c-42e2-8037-ee13b68d5e38_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

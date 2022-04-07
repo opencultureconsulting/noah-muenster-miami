@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a0f4fa81-00ca-42f9-9ece-82be98e954b6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Geschlechterspezifische Unterschiede bei Patient(inn)en mit Charcot-Marie-Tooth(CMT)-Neuropathie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1170179169">
+                        <displayForm>Wozniak, Magdalena</displayForm>
+                        <namePart type="given">Magdalena</namePart>
+                        <namePart type="family">Wozniak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1123303657">
+                        <displayForm>Young, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Young</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-10-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-08-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Patient(inn)en mit hereditären Neuropathien sind ein bislang wenig erforschtes Kollektiv. Wir untersuchten, ob es einen Unterschied zwischen betroffenen Männern und Frauen mit CMT1A-Neuropathie gibt und ob Patienten dadurch individueller beraten werden könnten. Hierzu verglichen wir klinische Angaben sowie etablierte Scores wie den CMTNS, Nervenleitgeschwindigkeits- und Kraftmessungen in einer Kohorte aus 84 Patient(inn)en, die wir im Rahmen des CMT-Registers in unsere Klinik rekrutierten. Es konnten nur wenige signifikante Unterschiede bei oben genannten Parametern festgestellt werden, sodass wir in Zusammenschau aller Befunde davon ausgehen müssen, dass kein Geschlechterunterschied in unserer Kohorte besteht. Unsere Ergebnisse decken sich mit der bisherigen Literatur, wobei wir auf den Aspekt der Lebensqualität nicht eingegangen sind.</abstract>
+                    <subject lang="ger">
+                        <topic>CMT</topic>
+                        <topic>Neuropathie</topic>
+                        <topic>Geschlecht</topic>
+                        <topic>Vergleich</topic>
+                        <topic>CMTNS</topic>
+                        <topic>Register</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-76199629203</identifier>
+                    <identifier type="sys">HT019853460</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a0f4fa81-00ca-42f9-9ece-82be98e954b6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a0f4fa81-00ca-42f9-9ece-82be98e954b6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a0f4fa81-00ca-42f9-9ece-82be98e954b6/diss_wozniak.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a0f4fa81-00ca-42f9-9ece-82be98e954b6" DMDID="DMD_a0f4fa81-00ca-42f9-9ece-82be98e954b6">
+            <mets:fptr FILEID="FILE_a0f4fa81-00ca-42f9-9ece-82be98e954b6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

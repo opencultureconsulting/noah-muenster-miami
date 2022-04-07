@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_643b8bfe-464d-4edf-a897-0656bd41ced8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>E-Learning-Strategien deutscher Universitäten</title>
+                        <subTitle>Fallbeispiele aus der Hochschulpraxis</subTitle>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-07-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-07-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Hannover: Hochschul-Informations-System, 2005</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-71689594993</identifier>
+                    <identifier type="sys">HT014806705</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_643b8bfe-464d-4edf-a897-0656bd41ced8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_643b8bfe-464d-4edf-a897-0656bd41ced8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/643b8bfe-464d-4edf-a897-0656bd41ced8/kib200504.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_643b8bfe-464d-4edf-a897-0656bd41ced8" DMDID="DMD_643b8bfe-464d-4edf-a897-0656bd41ced8">
+            <mets:fptr FILEID="FILE_643b8bfe-464d-4edf-a897-0656bd41ced8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

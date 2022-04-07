@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_78282af7-3296-4707-adec-1ecb77e914e9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Führungsinformationssysteme</title>
+                        <subTitle>historische Entwicklung und Konzeption</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173294561">
+                        <displayForm>Knackstedt, Ralf</displayForm>
+                        <namePart type="given">Ralf</namePart>
+                        <namePart type="family">Knackstedt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997-10</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Führungsinformationssysteme gelten als Instrumente zur erforderlichen Verkürzung von Managemententscheidungen zur Bewätligung von kürzer werdenden Reaktionszeiten. Sie werden begrifflich eingeordnet und entsprechend im fortschreitenden Entwicklungsprozeß der Informations- und Kommunikationstechnologien positioniert. Zur Konzeption von Führungsinformationssystemen werden mittels eines Vorgehensmodells verschiedene Aspekte herausgearbeitet, die schließlich zur Herleitung einer FIS-Architektur verwendet werden. Beispielhaft werden einige FIS-Generatoren, die der Umsetzung der vorgestellten Konzepte dienen können, skizziert.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03579586077</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_78282af7-3296-4707-adec-1ecb77e914e9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_78282af7-3296-4707-adec-1ecb77e914e9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/78282af7-3296-4707-adec-1ecb77e914e9/055_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_78282af7-3296-4707-adec-1ecb77e914e9" DMDID="DMD_78282af7-3296-4707-adec-1ecb77e914e9">
+            <mets:fptr FILEID="FILE_78282af7-3296-4707-adec-1ecb77e914e9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

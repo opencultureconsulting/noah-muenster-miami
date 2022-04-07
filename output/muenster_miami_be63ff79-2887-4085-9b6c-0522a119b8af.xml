@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_be63ff79-2887-4085-9b6c-0522a119b8af">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>mikrobielle Analyse von Gallenflüssigkeit und Stuhl lebertransplantierter Patienten</title>
+                        <subTitle>Spektrum, Resistenzlage und klinische Relevanz</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1078453039">
+                        <displayForm>Heitschmidt, Laura</displayForm>
+                        <namePart type="given">Laura</namePart>
+                        <namePart type="family">Heitschmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1078453039">
+                        <displayForm>Heitschmidt, Laura Johanna Katharina</displayForm>
+                        <namePart type="given">Laura Johanna Katharina</namePart>
+                        <namePart type="family">Heitschmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130514535">
+                        <displayForm>Schmidt, Hartmut</displayForm>
+                        <namePart type="given">Hartmut</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-11-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-10-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei 38 Patienten wurden Galleproben entnommen, auf mikrobielles Wachstum untersucht und mit Stuhlproben der jeweiligen Patienten verglichen. 86,6% der Galleproben zeigten mikrobielles Wachstum. 64,2% der Mikroorganismen waren Gram-positive Bakterien, 22,2% Gram-negative und 13,6% Hefen. Am häufigsten waren Enterokokken. Es zeigten sich niedrige Sensibilitätsraten für die üblichen Prophylaxeantibiotika (Ciprofloxacin 55,6%, Piperacillin/Tazobactam 54,0%, Imipinem 60,3%). Hohe Sensibilitätsraten wurden für Linezolid (72,9%) und Vancomycin (72,6%) nachgewiesen. Häufig stimmten die Isolate aus Galle- und entsprechender Stuhlprobe überein. Schlussfolgerung: Die Gallenflüssigkeit lebertransplantierter Patienten weist ein mikrobielles Spektrum auf. Bei ERCP sollten routinemäßig Galleproben entnommen werden, um im Falle von septischen Komplikationen umgehend eine Erregeranzucht und Resistenztestungen durchführen zu können. Die antibiotische Therapie sollte Linezolid oder Vancomycin beinhalten.</abstract>
+                    <subject lang="ger">
+                        <topic>Lebertransplantation</topic>
+                        <topic>Gallenflüssigkeit</topic>
+                        <topic>ERCP</topic>
+                        <topic>Cholangitis</topic>
+                        <topic>biliäre Komplikationen</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-57289607258</identifier>
+                    <identifier type="sys">HT018800969</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_be63ff79-2887-4085-9b6c-0522a119b8af</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_be63ff79-2887-4085-9b6c-0522a119b8af_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/be63ff79-2887-4085-9b6c-0522a119b8af/diss_heitschmidt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_be63ff79-2887-4085-9b6c-0522a119b8af" DMDID="DMD_be63ff79-2887-4085-9b6c-0522a119b8af">
+            <mets:fptr FILEID="FILE_be63ff79-2887-4085-9b6c-0522a119b8af_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

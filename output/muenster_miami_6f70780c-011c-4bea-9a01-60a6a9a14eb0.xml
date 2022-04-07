@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6f70780c-011c-4bea-9a01-60a6a9a14eb0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On crystalline representations and filtered isocrystals with rational Hodge-Tate weights</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/117816988X">
+                        <displayForm>Wulkau, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Wulkau</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1013768965">
+                        <displayForm>Schneider, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-02-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-11-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Basierend auf Resultaten von Breuil und Schneider führen wir kristalline Darstellungen einer Erweiterung der absoluten Galoisgruppe eines lokalen Körpers in gemischter Charakteristik um eine endliche zyklische Gruppe einerseits sowie schwach zulässig filtrierte Isokristalle mit rationalen Hodge-Tate Gewichten andererseits ein. Wir studieren die funktorielle Beziehung zwischen den Kategorien bestehend aus diesen Objekten in Anlehnung an Resultate von Colmez und Fontaine. Auf Seite der Isokristalle übertragen wir darüberhinaus ein allgemeines Resultat von Hellmann über die algebraische Natur geometrischer Parameterräume für schwach zulässig ganzzahlig filtrierte Isokristalle nach Vorgabe des charakteristischen Polynoms einer gewissen Potenz des Frobenius sowie des Filtrierungstyps in den Kontext von Filtrierungen mit rationalen Gewichten.</abstract>
+                    <subject lang="ger">
+                        <topic>p-adische Hodgetheorie</topic>
+                        <topic>Isokristalle</topic>
+                        <topic>Frobenius</topic>
+                        <topic>Filtrierungen</topic>
+                        <topic>p-adische Galoisdarstellungen</topic>
+                        <topic>zyklotomischer Charakter</topic>
+                        <topic>rationale Hodge-Tate Gewichte</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55189691489</identifier>
+                    <identifier type="sys">HT019973557</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6f70780c-011c-4bea-9a01-60a6a9a14eb0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6f70780c-011c-4bea-9a01-60a6a9a14eb0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6f70780c-011c-4bea-9a01-60a6a9a14eb0/diss_wulkau.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6f70780c-011c-4bea-9a01-60a6a9a14eb0" DMDID="DMD_6f70780c-011c-4bea-9a01-60a6a9a14eb0">
+            <mets:fptr FILEID="FILE_6f70780c-011c-4bea-9a01-60a6a9a14eb0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

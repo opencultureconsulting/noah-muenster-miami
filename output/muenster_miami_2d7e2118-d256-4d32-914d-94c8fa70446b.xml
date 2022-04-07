@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2d7e2118-d256-4d32-914d-94c8fa70446b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theoretische und experimentelle Entwicklung eines optischen Wasserstoffsensors</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123407540">
+                        <displayForm>Morjan, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Morjan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138580502">
+                        <displayForm>Cammann, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Cammann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-05-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2001-10-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen der vorliegenden Arbeit wurden die Grundlagen für einen optischen Wasserstoffsensor für Konzentrationen im Bereich der unteren Explosionsgrenze von 4 Vol. % auf Basis der Oberflächen-Plasmawellen-Resonanz-Spektroskopie entwickelt. Hierbei wurde gezielt der Einfluss von Wasserstoff auf die Anregung von Plasmawellen in Palladium ausgenutzt. Die Entwicklung der Sensoren erfolgte in zwei Schritten. Zuerst wurden durch theoretische Berechnungen mögliche Sensordesigns zur Anregung von Plasmawellen in Palladium in Kretschmann- und Otto-Konfiguration erarbeitet und die Sensoraufbauten mit Hilfe eines Simulationsprogramms bezüglich der Schichtparameter optimiert. Anschließend erfolgte die Herstellung und eine experimentelle Charakterisierung der Sensoren. Die hierbei gewonnen experimentellen Daten wurden mit den berechneten Ergebnissen verglichen. Es konnte gezeigt werden, dass mit dem entwickelten Sensor Wasserstoffkonzentrationen im Bereich der unteren Explosionsgrenze mit einer Auflösung von (0,4 Vol. % detektiert werden können. Darüber hinaus konnten auftretende Temperatureffekte erfolgreich kompensiert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Chemischer Sensor</topic>
+                        <topic>optischer Sensor</topic>
+                        <topic>Wasserstoff</topic>
+                        <topic>optische Schicht</topic>
+                        <topic>Palladium</topic>
+                        <topic>Plasmawelle</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659551351</identifier>
+                    <identifier type="sys">HT013213907</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2d7e2118-d256-4d32-914d-94c8fa70446b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2d7e2118-d256-4d32-914d-94c8fa70446b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2d7e2118-d256-4d32-914d-94c8fa70446b/DissMorjan.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2d7e2118-d256-4d32-914d-94c8fa70446b" DMDID="DMD_2d7e2118-d256-4d32-914d-94c8fa70446b">
+            <mets:fptr FILEID="FILE_2d7e2118-d256-4d32-914d-94c8fa70446b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

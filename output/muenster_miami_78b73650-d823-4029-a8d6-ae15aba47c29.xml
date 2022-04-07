@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_78b73650-d823-4029-a8d6-ae15aba47c29">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Far field boundary conditions and perfectly matched layer for some wave propagation problems</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133139913">
+                        <displayForm>Amro, Tareq</displayForm>
+                        <namePart type="given">Tareq</namePart>
+                        <namePart type="family">Amro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Arnold, Anton</displayForm>
+                        <namePart type="given">Anton</namePart>
+                        <namePart type="family">Arnold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-06-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-06-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit werden Fernbereichsrandbedingungen fuer hyperbolische Systeme erster Ordnung untersucht. Ein Schwerpunkt liegt in der Betrachtung der “perfect matched layer (PML)”-Methode. Hiermit wird ein Verfahren zur numerischen Loesung nicht-linearer Klein-Gordon Gleichungen hergeleitet. Weiterhin werden durch die PML-Methode Verfahren zur Loesung der zweidimensionalen nicht-linearen kompressiblen zeitabhaengigen Euler Gleichungen fuer Fluessigkeitsdynamiken vorgestellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Absorbierende Randbedingungen</topic>
+                        <topic>hyperbolische Systeme</topic>
+                        <topic>perfectly matched layer</topic>
+                        <topic>Klein-Gordon Gleichung</topic>
+                        <topic>Euler Gleichungen</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98549581460</identifier>
+                    <identifier type="sys">HT015237025</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_78b73650-d823-4029-a8d6-ae15aba47c29</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_78b73650-d823-4029-a8d6-ae15aba47c29_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/78b73650-d823-4029-a8d6-ae15aba47c29/diss_amro.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_78b73650-d823-4029-a8d6-ae15aba47c29" DMDID="DMD_78b73650-d823-4029-a8d6-ae15aba47c29">
+            <mets:fptr FILEID="FILE_78b73650-d823-4029-a8d6-ae15aba47c29_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

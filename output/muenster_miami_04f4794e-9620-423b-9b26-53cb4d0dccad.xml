@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_04f4794e-9620-423b-9b26-53cb4d0dccad">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Grundlagen der Organisation der Metropole</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wolff, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Wolff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1925</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-08-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Auszüge der Dissertation, Universität Göttingen, 1925</abstract>
+                    <note type="ownership">Publikation mit freundlicher Genehmigung der Familie</note>
+                    <note type="citation/reference">Druckausgabe: Auszüge aus Doktor-Dissertationen der Rechts- und Staatswissenschafltichen Fakultät der Georg August-Universität Göttingen ; 1925</note>
+                    <classification authority="ddc">300</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659523827</identifier>
+                    <identifier type="sys">HT014108405</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_04f4794e-9620-423b-9b26-53cb4d0dccad</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_04f4794e-9620-423b-9b26-53cb4d0dccad_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/04f4794e-9620-423b-9b26-53cb4d0dccad/disswolff.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_04f4794e-9620-423b-9b26-53cb4d0dccad" DMDID="DMD_04f4794e-9620-423b-9b26-53cb4d0dccad">
+            <mets:fptr FILEID="FILE_04f4794e-9620-423b-9b26-53cb4d0dccad_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

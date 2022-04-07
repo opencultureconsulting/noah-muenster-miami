@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_99efa5f0-6061-49c0-b29b-07f2cc589ec9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur plume-Expansionsdynamik bei der Matrix-unterstützten Laserdesorption/Ionisation aus Glycerol mit Infrarot-Lasern</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128754419">
+                        <displayForm>Leisner, Arne</displayForm>
+                        <namePart type="given">Arne</namePart>
+                        <namePart type="family">Leisner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fuchs, Harald</displayForm>
+                        <namePart type="given">Harald</namePart>
+                        <namePart type="family">Fuchs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Desorptionsteilchenwolke (plume), die sich bei der IR-MALDI-MS mit der Matrix Glycerol ausbildet, wird mit zwei unterschiedlichen Techniken untersucht. Zum einen werden Hochgeschwindigkeitsaufnahmen mit einem grün-emittierenden Laser als Blitzlichtquelle (fast flash photo) und einer digitalen CMOS-Kamera gemacht. Zum anderen wird der mit einem IR-MALDI-Aufbau erzeugte plume durch einen zweiten IR-Laser bestrahlt, um Neutralteilchen nachzuionisieren (IRPI). Mit dem Nachionisationslaser kann der plume abgerastert werden und Aufschluß über die räumliche Ausbreitung des plumes zu verschiedenen Zeiten nach dem primären Desorptionsereignis geben. Beide Meßverfahren zeigen, daß die Materialablation mehrere zehn Mikrosekunden anhält und die plume-Charakteristik signifikant von der Impulsdauer des primären Desorptionslasers abhängt. Darüber hinaus kann nachgewiesen werden, daß das IRPI-Verfahren in der Lage ist, Biomakromoleküle (Proteine, DNA) mit Massen von über 1e5u intakt zu analysieren.</abstract>
+                    <subject lang="ger">
+                        <topic>MALDI</topic>
+                        <topic>infrarot</topic>
+                        <topic>Laser</topic>
+                        <topic>plume Desorption</topic>
+                        <topic>Nachionisation</topic>
+                        <topic>IRPI</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526437</identifier>
+                    <identifier type="sys">HT013965643</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_99efa5f0-6061-49c0-b29b-07f2cc589ec9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_99efa5f0-6061-49c0-b29b-07f2cc589ec9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/99efa5f0-6061-49c0-b29b-07f2cc589ec9/leisner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_99efa5f0-6061-49c0-b29b-07f2cc589ec9" DMDID="DMD_99efa5f0-6061-49c0-b29b-07f2cc589ec9">
+            <mets:fptr FILEID="FILE_99efa5f0-6061-49c0-b29b-07f2cc589ec9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dd223ddb-1048-413d-a40f-13732721c618">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>alte August – Elefant im Zoo</title>
+                        <subTitle>oder: Wer den Zoo kennt, kennt auch Fräulein August</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341029">
+                        <displayForm>Hasgül, Eda</displayForm>
+                        <namePart type="given">Eda</namePart>
+                        <namePart type="family">Hasgül</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ohms, Miriam</displayForm>
+                        <namePart type="given">Miriam</namePart>
+                        <namePart type="family">Ohms</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341045">
+                        <displayForm>Scharnowski, Ruth</displayForm>
+                        <namePart type="given">Ruth</namePart>
+                        <namePart type="family">Scharnowski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-05-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Allwetterzoo</topic>
+                        <topic>Elefanten</topic>
+                        <topic>Tierpfleger</topic>
+                        <topic>Plakate</topic>
+                        <topic>Schülerarbeit</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>144</start>
+                                <end>147</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99259550537</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dd223ddb-1048-413d-a40f-13732721c618</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dd223ddb-1048-413d-a40f-13732721c618_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dd223ddb-1048-413d-a40f-13732721c618/idb_2001_suppl_1_144-147.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dd223ddb-1048-413d-a40f-13732721c618" DMDID="DMD_dd223ddb-1048-413d-a40f-13732721c618">
+            <mets:fptr FILEID="FILE_dd223ddb-1048-413d-a40f-13732721c618_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

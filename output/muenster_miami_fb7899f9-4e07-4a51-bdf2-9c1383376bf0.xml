@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fb7899f9-4e07-4a51-bdf2-9c1383376bf0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vergleichende Untersuchungen von Pathogenitätsfaktoren in Escherichia coli aus unterschiedlichen Umwelthabitaten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134061306">
+                        <displayForm>Böning, Heiko</displayForm>
+                        <namePart type="given">Heiko</namePart>
+                        <namePart type="family">Böning</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110186516">
+                        <displayForm>Karch, Helge</displayForm>
+                        <namePart type="given">Helge</namePart>
+                        <namePart type="family">Karch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-02-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-02-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit berichtet über den Nachweis potentieller Virulenzfaktoren der als ECOR (E. coli Reference Collection) und DEC (Diarrheagenic E. coli Collection) bezeichneten internationalen Referenzsammlungen, mittels molekularbiologischer Methoden. Das alpha-hly-Gen wurde in 10 der 72 ECOR- und in 9 der 78 DEC-Stämme identifiziert. Das EHEC-hlyA-Gen konnte in keinem der ECOR- aber in 11 der DEC-Stämme detektiert werden. Alle Stämme mit enterohämolytischer bzw. alpha-hämolytischer Phänotypausprägung besitzen auch das entsprechende Strukturgen. Das stx-Gen wurde in 1 ECOR- und in 17 DEC-Isolaten, das eae-Gen, in 3 ECOR- und in 55 DEC-Stämmen identifiziert. Das Markergen ureC tauchte in keinem der ECOR-, jedoch in 17 DEC-Stämmen auf. Die Ergebnisse zeigen, dass potentielle Virulenzgene darmpathogener E. coli, wie eae und stx, in den bisher als apathogen angesehenen ECOR-Stämmen vorkommen. Die als positiv befundenen ECOR-Stämme stellen somit ein generelles Risikopotential dar.</abstract>
+                    <subject lang="ger">
+                        <topic>Escherichia coli</topic>
+                        <topic>Pathogenitätsfaktoren</topic>
+                        <topic>EHEC-Hämolysin</topic>
+                        <topic>alpha-Hämolysin</topic>
+                        <topic>ECOR</topic>
+                        <topic>DEC</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16509545284</identifier>
+                    <identifier type="sys">HT015511451</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fb7899f9-4e07-4a51-bdf2-9c1383376bf0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fb7899f9-4e07-4a51-bdf2-9c1383376bf0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fb7899f9-4e07-4a51-bdf2-9c1383376bf0/diss_boening.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fb7899f9-4e07-4a51-bdf2-9c1383376bf0" DMDID="DMD_fb7899f9-4e07-4a51-bdf2-9c1383376bf0">
+            <mets:fptr FILEID="FILE_fb7899f9-4e07-4a51-bdf2-9c1383376bf0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

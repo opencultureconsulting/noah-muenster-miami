@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0be42ca6-c5b3-49c8-8f6f-27da9cc15108">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Echokardiographie bei fetaler Rechtsherzbelastung</title>
+                        <subTitle>Vergleich des Tissue Doppler Imaging mit dem konventionellen M-Mode und dem Color-M-Mode</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1167553144">
+                        <displayForm>Lindpere, Katharina</displayForm>
+                        <namePart type="given">Katharina</namePart>
+                        <namePart type="family">Lindpere</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kehl, Hans Gerd</displayForm>
+                        <namePart type="given">Hans Gerd</namePart>
+                        <namePart type="family">Kehl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">exp</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-08-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wurden Velocity-, Displacement-, M-Mode- und Color-M-Mode-Kurven erstellt und Zeitparameter, Herzfrequenz, intraventrikuläre Synchronizität und Auslenkung analysiert und statistisch ausgewertet. Es eigte sich eine niedrigere Messbarkeit im M-Mode. Die Messbarkeit war in beiden Ventrikeln gleich gut. Für die Systole, die Diastole und für die Herzfrequenz zeigten sich vergleichbare Werte im Color-Mode und im Tissue-Doppler Imaging. Im Vergleich der Ventrikel fanden sich keine signifikanten Unterschiede. Das Tissue Doppler Imaging ist auch für die pränatale Diagnostik anwendbar. Die Offline-Analyse bietet einen zusätzlichen Informationsgewinn bei der Beurteilung der fetalen Herzfunktion. Zur routinemäßigen Anwendung fehlen noch Referenzwerte zur Differenzierung zwischen kranken und gesunden Feten, die durch Studien mit größeren Fallzahlen erarbeitet werden könnten. Eine Weiterentwicklung könnte das Tissue Doppler Imaging zukünftig noch einfacher und praktikabler machen.</abstract>
+                    <subject lang="ger">
+                        <topic>Echokardiographie</topic>
+                        <topic>Tissue Doppler Imaging</topic>
+                        <topic>Rechtsherzbelastung</topic>
+                        <topic>Feten</topic>
+                        <topic>MMode</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67139564988</identifier>
+                    <identifier type="sys">HT019815876</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0be42ca6-c5b3-49c8-8f6f-27da9cc15108</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0be42ca6-c5b3-49c8-8f6f-27da9cc15108_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0be42ca6-c5b3-49c8-8f6f-27da9cc15108/diss_lindpere.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0be42ca6-c5b3-49c8-8f6f-27da9cc15108" DMDID="DMD_0be42ca6-c5b3-49c8-8f6f-27da9cc15108">
+            <mets:fptr FILEID="FILE_0be42ca6-c5b3-49c8-8f6f-27da9cc15108_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

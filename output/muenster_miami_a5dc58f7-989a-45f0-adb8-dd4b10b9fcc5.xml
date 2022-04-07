@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a5dc58f7-989a-45f0-adb8-dd4b10b9fcc5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dynamische Massenerzeugung und Symmetriebrechung im Rahmen einer systematisch erweiterten Störungstheorie im elektroschwachen Sektor</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128771461">
+                        <displayForm>Ewering, André</displayForm>
+                        <namePart type="given">André</namePart>
+                        <namePart type="family">Ewering</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172885493">
+                        <displayForm>Stingl, Manfred</displayForm>
+                        <namePart type="given">Manfred</namePart>
+                        <namePart type="family">Stingl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird anhand einer SU(2)-Eichtheorie untersucht, inwieweit sich Teilchenmassen und Symmetriebrechungen bei elektroschwachen Wechselwirkungen als nichtperturbative Effekte verstehen lassen. Zu diesem Zweck werden die Dyson-Schwinger-Gleichungen, d.h. die Bewegungsgleichungen für die Korrelationsfunktionen, für die Propagatoren und Vertexfunktionen analytisch ausgewertet. Dies geschieht mit Hilfe einer systematisch erweiterten Störungstheorie, die durch die Operatorproduktentwicklung und die Theorie der resurgenten Funktionen motiviert wird. Die erweiterte Theorie gestattet eine Entwicklung der Korrelationsfunktionen nicht nur im Kopplungsparameter, sondern auch in der spontanen Lambda-Skala. Die numerische Analyse des resultierenden Gleichungssystems zeigt, dass Bosonmassen ohne die Verwendung von Skalarfeldern (Higgs-Bosonen) auf niedrigster Approximationsstufe dynamisch erzeugt werden können. Fermionmassen bilden sich bereits auf dem nächst höherem Niveau aus.</abstract>
+                    <subject lang="ger">
+                        <topic>Quantenfeldtheorie</topic>
+                        <topic>Eichtheorie</topic>
+                        <topic>schwache Wechselwirkung</topic>
+                        <topic>nicht störungstheoretisch</topic>
+                        <topic>resurgentes Symbol</topic>
+                        <topic>Operatorproduktentwicklung</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526149</identifier>
+                    <identifier type="sys">HT013975640</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a5dc58f7-989a-45f0-adb8-dd4b10b9fcc5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a5dc58f7-989a-45f0-adb8-dd4b10b9fcc5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a5dc58f7-989a-45f0-adb8-dd4b10b9fcc5/ewering_diss.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a5dc58f7-989a-45f0-adb8-dd4b10b9fcc5" DMDID="DMD_a5dc58f7-989a-45f0-adb8-dd4b10b9fcc5">
+            <mets:fptr FILEID="FILE_a5dc58f7-989a-45f0-adb8-dd4b10b9fcc5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

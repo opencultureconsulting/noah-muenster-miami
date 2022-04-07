@@ -1,0 +1,220 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:fe363718-8bb2-4ed5-ad65-557c7ec56c41" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:47:30">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_fe363718-8bb2-4ed5-ad65-557c7ec56c41">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Using advanced illumination techniques to enhance realism and perception of volume visualizations</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1047924463">
+                    <mods:namePart type="given">Florian</mods:namePart>
+                    <mods:namePart type="family">Lindemann</mods:namePart>
+                    <mods:namePart type="date">1983-</mods:namePart>
+                    <mods:displayForm>Lindemann, Florian</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Klaus H.</mods:namePart>
+                    <mods:namePart type="family">Hinrichs</mods:namePart>
+                    <mods:displayForm>Hinrichs, Klaus H.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateOther keyDate="yes">2014-01-21</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2014-03-04</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2014-03-04</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Die Nutzung volumetrischer Daten ist in vergangenen Jahren immer häufiger geworden. Die Erzeugung von aussagekräfigen und verständlichen Bildern aus diesen Daten ist daher wichtiger denn je. Die Simulation von Beleuchtungsphänomenen ist eine Möglichkeit, die Wahrnehmung und den Realismus solcher Bilder zu verbessern. Diese Dissertation beschäftigt sich mit der Effektivität von existierenden Modellen zur Volumenillumination und präsentiert einige neue Techniken und Anwendungen für diesen Bereich der Computergrafik. Es werden Methoden vorgestellt, um die Interaktion von Licht und Material im Kontext von Volumendaten zu simulieren. Weiterhin wird eine umfangreichen&lt;br&gt;Nutzerstudie präsentiert, deren Ziel es war, den Einfluss von verschiedenen existierenden Modellen zur Volumenillumination auf den Betrachter zu untersuchen. Abschließend wird eine Anwendung zur Darstellung und visuellen Analyse von Hirndaten präsentiert, in der Volumenillumination neben weiteren neuartigen Visualisierungen zum Einsatz kommt.&lt;br&gt;&lt;br&gt;&lt;br&gt;</mods:abstract>
+                  <mods:tableOfContents lang="eng">Preface ix&#13;
+1 Introduction 1&#13;
+2 Concepts of Volume Rendering 5&#13;
+2.1 Basics of Direct Volume Rendering . . . . . . . . . . . . . . . . . . . . . 6&#13;
+2.1.1 The Volume Rendering Integral . . . . . . . . . . . . . . . . . . 6&#13;
+2.1.2 Discretization of the Volume Rendering Integral . . . . . . . . . 7&#13;
+2.2 Direct Volume Rendering Techniques . . . . . . . . . . . . . . . . . . . 9&#13;
+2.2.1 Volume Rendering Pipeline . . . . . . . . . . . . . . . . . . . . . 9&#13;
+2.2.2 Slice-Based Rendering . . . . . . . . . . . . . . . . . . . . . . . . 11&#13;
+2.2.3 Ray Casting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12&#13;
+3 Illumination Models for Direct Volume Rendering 15&#13;
+3.1 Classification of Volume Illumination Models . . . . . . . . . . . . . . 15&#13;
+3.2 Slice-Based Techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21&#13;
+3.2.1 Half Angle Slicing . . . . . . . . . . . . . . . . . . . . . . . . . . 21&#13;
+3.2.2 Directional and Multidirectional Occlusion Slicing . . . . . . . 22&#13;
+3.3 General Techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24&#13;
+3.3.1 Phong Lighting . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24&#13;
+3.3.2 Shadow Volume Propagation . . . . . . . . . . . . . . . . . . . . 25&#13;
+3.3.3 Spherical Harmonic Lighting . . . . . . . . . . . . . . . . . . . . 26&#13;
+3.3.4 Dynamic Ambient Occlusion . . . . . . . . . . . . . . . . . . . . 29&#13;
+3.4 Techniques Based on Screen Space . . . . . . . . . . . . . . . . . . . . . 30&#13;
+3.5 Further Techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32&#13;
+4 Voreen - The Volume Rendering Engine 35&#13;
+4.1 Concepts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35&#13;
+4.2 Integration of Volume Illumination Techniques . . . . . . . . . . . . . . 37&#13;
+4.2.1 Integration of Illumination Techniques Based on Ray Casting . 38&#13;
+4.2.2 Integration of Slice-Based Illumination Techniques . . . . . . . 39&#13;
+4.2.3 Integration of Screen Space Illumination Techniques . . . . . . 41&#13;
+5 Advanced Light Material Interaction for Direct Volume Rendering 43&#13;
+5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43&#13;
+5.2 Related Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45&#13;
+5.3 Light Material Interaction . . . . . . . . . . . . . . . . . . . . . . . . . . 46&#13;
+5.4 Realizing Advanced Material Effects . . . . . . . . . . . . . . . . . . . . 47&#13;
+5.4.1 Color Bleeding Effects . . . . . . . . . . . . . . . . . . . . . . . . 49&#13;
+5.4.2 Scattering Effects . . . . . . . . . . . . . . . . . . . . . . . . . . . 50&#13;
+5.4.3 Local Material Effects . . . . . . . . . . . . . . . . . . . . . . . . 53&#13;
+5.5 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55&#13;
+5.6 Performance Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56&#13;
+5.7 Conclusions and Future Work . . . . . . . . . . . . . . . . . . . . . . . . 57&#13;
+6 About the Influence of Illumination Models on Image Comprehension&#13;
+in Direct Volume Rendering 59&#13;
+6.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59&#13;
+6.2 Related Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62&#13;
+6.3 Evaluated Volumetric Illumination Models . . . . . . . . . . . . . . . . 63&#13;
+6.3.1 Selection Process . . . . . . . . . . . . . . . . . . . . . . . . . . . 63&#13;
+6.3.2 Comparing Techniques . . . . . . . . . . . . . . . . . . . . . . . 64&#13;
+6.4 User Study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66&#13;
+6.4.1 Relative Depth Perception . . . . . . . . . . . . . . . . . . . . . . 67&#13;
+6.4.2 Absolute Depth Perception . . . . . . . . . . . . . . . . . . . . . 70&#13;
+6.4.3 Relative Size Perception . . . . . . . . . . . . . . . . . . . . . . . 73&#13;
+6.4.4 Subjective Evaluation . . . . . . . . . . . . . . . . . . . . . . . . 76&#13;
+6.5 Results and Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79&#13;
+6.6 Conclusions and Future Work . . . . . . . . . . . . . . . . . . . . . . . . 81&#13;
+7 Interactive Comparative Visualization of Multimodal Brain Tumor Segmentation&#13;
+Data 85&#13;
+7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85&#13;
+7.2 Related Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87&#13;
+7.3 3D Visualization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88&#13;
+7.3.1 Surface Shading and Illumination Model . . . . . . . . . . . . . 89&#13;
+7.3.2 Tumor Context View . . . . . . . . . . . . . . . . . . . . . . . . . 90&#13;
+7.3.3 Tumor Intersection Closeup in Single Time Step Mode . . . . . 91&#13;
+7.3.4 Tumor Surface Closeup in Consecutive Time Steps . . . . . . . 92&#13;
+7.4 2D Visualization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95&#13;
+7.5 Tumor Overlap Diagram . . . . . . . . . . . . . . . . . . . . . . . . . . . 95&#13;
+7.6 Tumor Ellipsoid Diagram . . . . . . . . . . . . . . . . . . . . . . . . . . 97&#13;
+7.7 Domain Expert Feedback . . . . . . . . . . . . . . . . . . . . . . . . . . 98&#13;
+7.8 Implementation and Performance . . . . . . . . . . . . . . . . . . . . . 99&#13;
+7.9 Conclusion and Future Work . . . . . . . . . . . . . . . . . . . . . . . . 101&#13;
+8 Conclusions 103&#13;
+Bibliography 107&#13;
+Acronyms 117</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Computergrafik; wissenschaftliche Visualisierung; Volumenrendering; Volumenbeleuchtung; medizinische Anwendungen</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-14309548523</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/fe363718-8bb2-4ed5-ad65-557c7ec56c41</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:fe363718-8bb2-4ed5-ad65-557c7ec56c41</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_fe363718-8bb2-4ed5-ad65-557c7ec56c41">
+            <mets:rightsMD ID="RIGHTSMD_fe363718-8bb2-4ed5-ad65-557c7ec56c41">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_fe363718-8bb2-4ed5-ad65-557c7ec56c41">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/fe363718-8bb2-4ed5-ad65-557c7ec56c41</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="85872eb10556aaf2a41e35489b2356cfdd547e61d72ec9850d129e9c1766a0ee" CREATED="2014-03-04T15:52:22" CHECKSUMTYPE="SHA-256" SIZE="10953409" ID="ID_FIL_diss_lindemann_florian.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fe363718-8bb2-4ed5-ad65-557c7ec56c41/diss_lindemann_florian.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWfe363718-8bb2-4ed5-ad65-557c7ec56c41">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/fe363718-8bb2-4ed5-ad65-557c7ec56c41" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_fe363718-8bb2-4ed5-ad65-557c7ec56c41" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_lindemann_florian.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_lindemann_florian.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_fe363718-8bb2-4ed5-ad65-557c7ec56c41" DMDID="DMD_fe363718-8bb2-4ed5-ad65-557c7ec56c41" ID="ID_LOG_fe363718-8bb2-4ed5-ad65-557c7ec56c41" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_lindemann_florian.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_fe363718-8bb2-4ed5-ad65-557c7ec56c41" xlink:to="ID_PHY_fe363718-8bb2-4ed5-ad65-557c7ec56c41"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_lindemann_florian.pdf" xlink:to="ID_PHY_diss_lindemann_florian.pdf"/>
+          </mets:structLink>
+        </mets:mets>

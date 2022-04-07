@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5abb3f10-4ae5-4a93-9af4-0be30c3ec97f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Richter, Revolutionär und Krimischreiber</title>
+                        <subTitle>Zum 200. Geburtstag von Jodokus Temme</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103730960X">
+                        <displayForm>Peitz, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Peitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2005-06-23</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-06-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659520125</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5abb3f10-4ae5-4a93-9af4-0be30c3ec97f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5abb3f10-4ae5-4a93-9af4-0be30c3ec97f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5abb3f10-4ae5-4a93-9af4-0be30c3ec97f/peitz_oj-richter.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5abb3f10-4ae5-4a93-9af4-0be30c3ec97f" DMDID="DMD_5abb3f10-4ae5-4a93-9af4-0be30c3ec97f">
+            <mets:fptr FILEID="FILE_5abb3f10-4ae5-4a93-9af4-0be30c3ec97f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

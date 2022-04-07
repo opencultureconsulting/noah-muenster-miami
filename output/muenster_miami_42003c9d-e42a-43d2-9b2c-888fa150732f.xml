@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_42003c9d-e42a-43d2-9b2c-888fa150732f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Veränderung</title>
+                        <subTitle>Zur Konstruktion dynamischer Begriffe</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112177123">
+                        <displayForm>Hohelüchter, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Hohelüchter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-30</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Starre Begriffe scheinen zwar für eine statische Welt angemessen, für eine dynamische aber unbrauchbar zu sein. Für sie ergibt sich das Problem der Veränderung, die scheinbare Unvereinbarkeit von bestimmter Existenz und stetem Fließen. In dieser Arbeit zeigen wir, wie auch die Dynamik mittels starrer Begriffe erfaßbar ist. Dazu führen wir zunächst Eigenzeiten einzelner Items ein. Auf ihnen liegt eine lineare metrische Ordnung. Diese ist dann auf den Verhalten des Items zu induzieren, und so sind Veränderungen, Zustände, Ereignisse, Prozesse u.ä. an die-sem Item zu erfassen. Die Kontinuität eines Items folgt aus der Kontinuumsstruktur seiner Eigenzeit. Damit sind dann dynamische Begriffe wie das Wachsen mit der Veränderung statischer Begriffe wie der Länge zu verbinden. Schließlich ist so das Verhältnis von Meta- und Objektzeit, d.h. von Thematisieren und Vollziehen zu be-greifen und das Problem der Existenz während der Veränderung zu lösen.</abstract>
+                    <subject lang="ger">
+                        <topic>statische und dynamische Begriffe</topic>
+                        <topic>Eigenzeit</topic>
+                        <topic>Kontinuität</topic>
+                        <topic>Zustand</topic>
+                        <topic>Ereignis</topic>
+                        <topic>Prozeß.</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53589498693</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_42003c9d-e42a-43d2-9b2c-888fa150732f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_42003c9d-e42a-43d2-9b2c-888fa150732f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/42003c9d-e42a-43d2-9b2c-888fa150732f/veraenderung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_42003c9d-e42a-43d2-9b2c-888fa150732f" DMDID="DMD_42003c9d-e42a-43d2-9b2c-888fa150732f">
+            <mets:fptr FILEID="FILE_42003c9d-e42a-43d2-9b2c-888fa150732f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

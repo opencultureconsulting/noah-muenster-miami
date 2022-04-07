@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_06d4d1aa-3576-4da3-a657-e846706e7101">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Negative Regulation der Chondrozytenreifung</title>
+                        <subTitle>differentielle Genexpression verschiedener Chondrozytenpopulationen des embryonalen Hühnersternums</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129493368">
+                        <displayForm>Auge, Astrid</displayForm>
+                        <namePart type="given">Astrid</namePart>
+                        <namePart type="family">Auge</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129966304">
+                        <displayForm>Stoecker, Walter</displayForm>
+                        <namePart type="given">Walter</namePart>
+                        <namePart type="family">Stoecker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-10-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-10-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im embryonalen Hühnersternum sind verschiedene Chondrozytenpopulationen vorhanden, die sich vor allem in ihrer Propagierbarkeit der Spätdifferenzierung unterscheiden, so dass sie sich zur Analyse der enchondralen Ossifikation eignen. In serumfreien Agarosekulturen hemmen kaudale Chondrozyten ihre eigene Hypertrophie sowie diejenige der kranialen Zellen, wenn diese durch Insulin stimuliert wurde. Zur Analyse dieser Blockade wurde eine subtraktive cDNA-Bank erstellt und 53 in kaudalen Zellen hochregulierte Klonsequenzen identifiziert. 13 Klone zeigten Homologien zum Transkriptionsfaktor NF-I/A, so dass der Faktor in primären kranialen Chondrozyten überexprimiert wurde, was zur Repression der Insulin-stimulierten Hypertrophie der Zellen führte. Weiterhin wurden 6 verschiedene EST-Sequenzen sowie 25 nicht näher klassifizierte Gene identifiziert, die für noch unbekannte Proteine kodieren, welche bei der Blockierung der Hypertrophie von Chondrozyten eine Rolle spielen.</abstract>
+                    <subject lang="ger">
+                        <topic>Chondrozyten</topic>
+                        <topic>Spätdifferenzierung</topic>
+                        <topic>enchondrale Ossifikation</topic>
+                        <topic>Agarosekulturen</topic>
+                        <topic>Hypertrophie</topic>
+                        <topic>NF-I/A</topic>
+                        <topic>subtraktive cDNA-Bank</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58629470140</identifier>
+                    <identifier type="sys">HT014225004</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_06d4d1aa-3576-4da3-a657-e846706e7101</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_06d4d1aa-3576-4da3-a657-e846706e7101_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/06d4d1aa-3576-4da3-a657-e846706e7101/diss_auge.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_06d4d1aa-3576-4da3-a657-e846706e7101" DMDID="DMD_06d4d1aa-3576-4da3-a657-e846706e7101">
+            <mets:fptr FILEID="FILE_06d4d1aa-3576-4da3-a657-e846706e7101_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

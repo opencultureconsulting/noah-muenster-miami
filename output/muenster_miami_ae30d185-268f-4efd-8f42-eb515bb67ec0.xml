@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ae30d185-268f-4efd-8f42-eb515bb67ec0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Leistungs- und Kostenrechnung in der Datenverarbeitung</title>
+                        <subTitle>Am Beispiel der Hochschulrechenzentren in NRW</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137554495">
+                        <displayForm>Münch, J. W.</displayForm>
+                        <namePart type="given">J. W.</namePart>
+                        <namePart type="family">Münch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Held, Wilhelm</displayForm>
+                        <namePart type="given">Wilhelm</namePart>
+                        <namePart type="family">Held</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137554517">
+                        <displayForm>Nelißen, M.</displayForm>
+                        <namePart type="given">M.</namePart>
+                        <namePart type="family">Nelißen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klein, J.</displayForm>
+                        <namePart type="given">J.</namePart>
+                        <namePart type="family">Klein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-09-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-08-31</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-09-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Für Hochschulrechenzentren wird eine Leistungs- und Kostenrechnung vorgeschlagen, die Dienstleistungen und ihre Qualitätsmerkmale neben eine Prozeßkostenrechnung stellt. Mit der Prozeßkostenrechnung entstehen Steuerungs- und Vergleichsmöglichkeiten in und zwischen Hochschulrechenzentren. Über &quot;Kostentreiber&quot; werden die Leistungen weitgehend mengenabhängig. Eine Zuordnung der Kosten zu ihren Verursachern wird möglich. Die Prozesse werden für ein Hochschulrechenzentrum definiert, die einzelnen Kostenfaktoren erläutert und zusammengestellt. Es wird ein Berechnungsschema vorgeschlagen, Ausführungshinweise werden gegeben und die Ergebnisse diskutiert. Als Fallstudien werden die Prozeßkosten eines kleinen und eines großen Rechenzentrums angesprochen.</abstract>
+                    <subject lang="ger">
+                        <topic>Zielsetzungen</topic>
+                        <topic>Prozeßkostenrechnung</topic>
+                        <topic>Dienstleistungen</topic>
+                        <topic>Qualitätsmerkmale</topic>
+                        <topic>Hauptprozess</topic>
+                        <topic>Teilprozess</topic>
+                        <topic>Kostentreiber</topic>
+                        <topic>Fallstudien</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659523682</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ae30d185-268f-4efd-8f42-eb515bb67ec0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ae30d185-268f-4efd-8f42-eb515bb67ec0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ae30d185-268f-4efd-8f42-eb515bb67ec0/leistungsundkostenrechnung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ae30d185-268f-4efd-8f42-eb515bb67ec0" DMDID="DMD_ae30d185-268f-4efd-8f42-eb515bb67ec0">
+            <mets:fptr FILEID="FILE_ae30d185-268f-4efd-8f42-eb515bb67ec0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

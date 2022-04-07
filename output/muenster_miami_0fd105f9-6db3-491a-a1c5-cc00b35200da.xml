@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0fd105f9-6db3-491a-a1c5-cc00b35200da">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestandsaufnahme aktueller deutschsprachiger Lehrbücher zum Informationsmanagement</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141771275">
+                        <displayForm>Teubner, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Teubner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141771275">
+                        <displayForm>Teubner, Rolf Alexander</displayForm>
+                        <namePart type="given">Rolf Alexander</namePart>
+                        <namePart type="family">Teubner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141771275">
+                        <displayForm>Teubner, A.</displayForm>
+                        <namePart type="given">A.</namePart>
+                        <namePart type="family">Teubner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123075661">
+                        <displayForm>Klein, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Klein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33569566312</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0fd105f9-6db3-491a-a1c5-cc00b35200da</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0fd105f9-6db3-491a-a1c5-cc00b35200da_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0fd105f9-6db3-491a-a1c5-cc00b35200da/086_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0fd105f9-6db3-491a-a1c5-cc00b35200da" DMDID="DMD_0fd105f9-6db3-491a-a1c5-cc00b35200da">
+            <mets:fptr FILEID="FILE_0fd105f9-6db3-491a-a1c5-cc00b35200da_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

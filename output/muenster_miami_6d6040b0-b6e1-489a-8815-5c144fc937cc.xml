@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6d6040b0-b6e1-489a-8815-5c144fc937cc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Policy shifts and Markov-switching in financial markets</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135997127">
+                        <displayForm>Reher, Gerrit</displayForm>
+                        <namePart type="given">Gerrit</namePart>
+                        <namePart type="family">Reher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/171245350">
+                        <displayForm>Wilfling, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Wilfling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/171245350">
+                        <displayForm>Wilfling, B.</displayForm>
+                        <namePart type="given">B.</namePart>
+                        <namePart type="family">Wilfling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-12-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-11-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Veränderungen der Rahmenbedingungen auf Finanzmärkten müssen von ökonomischen und ökonometrischen Modellen sinnvoll erfasst werden. Diese Dissertation beschäftigt sich mit der Zinsdynamik im Vorfeld einer Währungsunion. Auf diese Dynamik aufbauend werden Optionen auf Nullkuponanleihen bewertet. Wird die veränderte Dynamik nicht beachtet kann es zum Teil zu erheblichen Fehlbewertungen kommen wie in einer Monte-Carlo Studie gezeigt wird. Ferner wird ein Markov-Switching GARCH-Modell entwickelt, welches verschiedene GARCH Variationen in den einzelnen Regimen zulässt. So sind erstmals auch Wechsel der Spezifikation in den einzelnen Regimen, wie z.B. EGARCH-GARCH Modelle möglich. Diese neue Modellklasse wird genutzt, um die Auswirkungen des Verbots ungedeckter Leerverkäufe auf ausgewählte Aktien zu untersuchen.</abstract>
+                    <subject lang="ger">
+                        <topic>Markov-Switching</topic>
+                        <topic>Währungsunion</topic>
+                        <topic>Leerverkaufsrestriktion</topic>
+                        <topic>Optionen</topic>
+                        <topic>Monte-Carlo</topic>
+                        <topic>GARCH</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55489423918</identifier>
+                    <identifier type="sys">HT016725584</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6d6040b0-b6e1-489a-8815-5c144fc937cc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6d6040b0-b6e1-489a-8815-5c144fc937cc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6d6040b0-b6e1-489a-8815-5c144fc937cc/diss_reher.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6d6040b0-b6e1-489a-8815-5c144fc937cc" DMDID="DMD_6d6040b0-b6e1-489a-8815-5c144fc937cc">
+            <mets:fptr FILEID="FILE_6d6040b0-b6e1-489a-8815-5c144fc937cc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

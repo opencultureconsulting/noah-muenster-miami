@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0e507e66-1436-440d-9170-66ef2835a916">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Eröffnungsansprache zur Tagung &quot;Schule kooperativ gestalten&quot; am 25. März 2010</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113382367">
+                        <displayForm>Berntzen, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Berntzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-03-25</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-03-26</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-03-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Eröffnungsansprache zur Tagung &quot;Schule kooperativ gestalten&quot; am 25. und 26. März 2010 im Vom-Stein-Haus, Hindenburgplatz, Münster, zum Gedenken an Norm Green.</note>
+                    <subject lang="ger">
+                        <topic>kooperatives Lernen</topic>
+                        <topic>Norm Green</topic>
+                        <topic>Schulentwicklung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-28449530219</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0e507e66-1436-440d-9170-66ef2835a916</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0e507e66-1436-440d-9170-66ef2835a916_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0e507e66-1436-440d-9170-66ef2835a916/Eroeffnung-Tagung-25-03-2010-Schule-kooperativ-gestalten.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0e507e66-1436-440d-9170-66ef2835a916" DMDID="DMD_0e507e66-1436-440d-9170-66ef2835a916">
+            <mets:fptr FILEID="FILE_0e507e66-1436-440d-9170-66ef2835a916_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

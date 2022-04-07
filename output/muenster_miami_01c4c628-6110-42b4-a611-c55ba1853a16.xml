@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_01c4c628-6110-42b4-a611-c55ba1853a16">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modellgetriebene Entwicklung daten- und prozessbasierter Webapplikationen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1022577255">
+                        <displayForm>Wolffgang, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Wolffgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuchen, Herbert</displayForm>
+                        <namePart type="given">Herbert</namePart>
+                        <namePart type="family">Kuchen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-05-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-05-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die modellgetriebene Softwareentwicklung zielt auf die Generierung von Softwaresystemen aus Modellen ab. Die Arbeit stellt in diesem Kontext zwei Generatorframeworks zur automatisierten Erzeugung daten- und prozessbasierter Webapplikationen vor. Die Frameworks sind konform zu den Prinzipien der MDA, indem basierend auf MDA-Standards Transformationsdefinitionen von berechnungsunabhängigen Modellen (CIM) zu plattformunabhängigen Modellen (PIM), und von diesen zu plattformspezifischen Modellen (PSM) bereitgestellt werden. Der Ansatz basiert auf plattformspezifischen Modellierungssprachen, welche eine präzise Repräsentation von Plattform- und Frameworkkonzepten ermöglichen. Gegenwärtig werden für datenbasierte Webapplikationen die Plattformen Java EE, PHP und Python, sowie für prozessbasierte Webapplikationen die BPMN-Plattformen Activiti und jBPM unterstützt.</abstract>
+                    <subject lang="ger">
+                        <topic>WASL</topic>
+                        <topic>TaskUI</topic>
+                        <topic>Metagen</topic>
+                        <topic>MDSD</topic>
+                        <topic>MDA</topic>
+                        <topic>MDWE</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-40459358770</identifier>
+                    <identifier type="sys">HT017226432</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_01c4c628-6110-42b4-a611-c55ba1853a16</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_01c4c628-6110-42b4-a611-c55ba1853a16_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/01c4c628-6110-42b4-a611-c55ba1853a16/diss_wolffgang.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_01c4c628-6110-42b4-a611-c55ba1853a16" DMDID="DMD_01c4c628-6110-42b4-a611-c55ba1853a16">
+            <mets:fptr FILEID="FILE_01c4c628-6110-42b4-a611-c55ba1853a16_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

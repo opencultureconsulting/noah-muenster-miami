@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6102fb1c-a3a1-44f5-94ae-c72c805813d0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>G-Protein-vermittelte Signalwege in der akuten myeloischen Leukämie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124909426">
+                        <displayForm>Rudat, Annika</displayForm>
+                        <namePart type="given">Annika</namePart>
+                        <namePart type="family">Rudat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1169095399">
+                        <displayForm>Serve, Hubert</displayForm>
+                        <namePart type="given">Hubert</namePart>
+                        <namePart type="family">Serve</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-08-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-08-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mittels quantitativer PCR wurde die Expression der G-Proteine Galpha12 und Galpha13 und RGS-Proteine RGS2, RGS16 und p115Rho-GEF im Knochenmark von Patienten mit AML untersucht. Dabei zeigte sich in den Patientenproben eine signifikant erniedrigte RGS2-Expression und erhöhte Galpha12- und Galpha13-Expression. Für vier der untersuchten Gene konnte eine Korrelation der Genexpresssion mit dem FAB-Typ gezeigt werden. Beim Vergleich der Genexpressionshöhe zwischen Patienten mit und ohne ITD-Mutationen von Flt3 zeigte sich in der Gruppe mit Mutationen eine signifikant erniedrigte RGS2-Expression. Die Höhe der RGS2- und der RGS16-Expression korrelierte mit der Prognose: Patienten mit hoher RGS2-Expression zeigten ein vermindertes Gesamtüberleben, Patienten mit hoher RGS16-Expression ein vermindertes rezidivfreies Überleben. Diese Ergebnisse zeigen, dass G-Proteine und RGS-Proteine, über deren Rolle in der Hämatopoese bislang wenig bekannt war, in Leukämien vielfältig reguliert sind.</abstract>
+                    <subject lang="ger">
+                        <topic>G-Proteine</topic>
+                        <topic>RGS-Proteine</topic>
+                        <topic>AML</topic>
+                        <topic>ITD-Mutationen</topic>
+                        <topic>Prognose</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659543537</identifier>
+                    <identifier type="sys">HT013821641</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6102fb1c-a3a1-44f5-94ae-c72c805813d0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6102fb1c-a3a1-44f5-94ae-c72c805813d0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6102fb1c-a3a1-44f5-94ae-c72c805813d0/annika_rudat.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6102fb1c-a3a1-44f5-94ae-c72c805813d0" DMDID="DMD_6102fb1c-a3a1-44f5-94ae-c72c805813d0">
+            <mets:fptr FILEID="FILE_6102fb1c-a3a1-44f5-94ae-c72c805813d0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

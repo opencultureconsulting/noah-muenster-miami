@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_508a1d4c-3543-494f-9f15-b6d4058c1df7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Accuracy and Precision of Position and Orientation Tracking in the HTC Vive Virtual Reality System for Scientific Research</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Niehorster, Diederick C.</displayForm>
+                        <namePart type="given">Diederick C.</namePart>
+                        <namePart type="family">Niehorster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Li, Li</displayForm>
+                        <namePart type="given">Li</namePart>
+                        <namePart type="family">Li</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172579074">
+                        <displayForm>Lappe, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Lappe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-05-18</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-05-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The advent of inexpensive consumer virtual reality equipment enables many more researchers to study perception with naturally moving observers. One such system, the HTC Vive, offers a large field-of-view, high-resolution head mounted display together with a room-scale tracking system for less than a thousand U.S. dollars. If the position and orientation tracking of this system is of sufficient accuracy and precision, it could be suitable for much research that is currently done with far more expensive systems. Here we present a quantitative test of the HTC Vive’s position and orientation tracking as well as its end-to-end system latency. We report that while the precision of the Vive’s tracking measurements is high and its system latency (22 ms) is low, its position and orientation measurements are provided in a coordinate system that is tilted with respect to the physical ground plane. Because large changes in offset were found whenever tracking was briefly lost, it cannot be corrected for with a one-time calibration procedure. We conclude that the varying offset between the virtual and the physical tracking space makes the HTC Vive at present unsuitable for scientific experiments that require accurate visual stimulation of self-motion through a virtual world. It may however be suited for other experiments that do not have this requirement.</abstract>
+                    <note type="citation/reference">i-Perception 8 (2017) 3, 1–23</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2017 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>virtual reality</topic>
+                        <topic>head mounted display</topic>
+                        <topic>position tracking</topic>
+                        <topic>data quality</topic>
+                        <topic>natural vision</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68179551127</identifier>
+                    <identifier type="doi">10.1177/2041669517708205</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_508a1d4c-3543-494f-9f15-b6d4058c1df7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_508a1d4c-3543-494f-9f15-b6d4058c1df7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/508a1d4c-3543-494f-9f15-b6d4058c1df7/2041669517708205.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_508a1d4c-3543-494f-9f15-b6d4058c1df7" DMDID="DMD_508a1d4c-3543-494f-9f15-b6d4058c1df7">
+            <mets:fptr FILEID="FILE_508a1d4c-3543-494f-9f15-b6d4058c1df7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

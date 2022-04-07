@@ -1,0 +1,271 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:36:53">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Designing privacy preserving personalized public display systems</mods:title>
+                  </mods:titleInfo>
+                  <mods:titleInfo type="alternative" lang="eng">
+                    <mods:title script="Latn">Designing privacy-preserving personalized public display systems</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1080501975">
+                    <mods:namePart type="given">Morin</mods:namePart>
+                    <mods:namePart type="family">Ostkamp</mods:namePart>
+                    <mods:namePart type="date">1985-</mods:namePart>
+                    <mods:displayForm>Ostkamp, Morin</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/12044285X">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Kray</mods:namePart>
+                    <mods:displayForm>Kray, Christian</mods:displayForm>
+                    <mods:affiliation>FB 14: Geowissenschaften</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2015</mods:dateIssued>
+                    <mods:dateOther>2015-11-27</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2015-12-21</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-12-21</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Public Displays sind heute ein allgegenwärtiges Kommunikationsmedium. Benutzern relevante Inhalte zu präsentieren ist zweifelsohne wichtig. Persönliche Inhalte sind meist relevant, erfordern jedoch besondere Datenschutzmaßnahmen. Diese Arbeit konzentriert sich auf den Entwurf personalisierter Public Displays, die die Privatsphäre schützen. Sie untersucht drei Forschungsfragen: (1) Was sind die größten Gefahren für die Privatsphäre auf Public Displays? (2) Welche Gegenmaßnahmen existieren für diese Gefahren? (3) Wie kann der Entwurf von Public Displays unterstützt werden?&lt;br&gt;Drei konkrete Beiträge widmen sich je einer Forschungsfrage: (1) Ein Gefahren-Modell, (2) eine Liste samt Klassifizierung von Gegenmaßnahmen, und (3) eine neue Methodik für die Entwicklung von Public Displays. Designer und Forscher können diese Ergebnisse nutzen, um Systeme zu erstellen, die die Privatsphäre der Benutzer schützen. Zusammenfassend kann diese Arbeit dazu beitragen, die Entwicklung solcher personalisierter Public Displays zu vereinfachen und zu beschleunigen.</mods:abstract>
+                  <mods:abstract lang="eng">Digital public displays are a popular means of communication nowadays. Showing users content that is relevant to them is an important issue. Personal content is often regarded as relevant, but that calls for certain means of privacy in turn. This thesis focuses on designing privacy-preserving personalized public display systems. It addresses three research questions: (1) What are main privacy threats on public displays? (2) What are countermeasures to those privacy threats? (3) How to support the design process of public displays?&lt;br&gt;Three tangible contributions address each research question: (1) a privacy threat model for public displays, (2) a list and classification of countermeasures, and (3) a novel methodology to design, prototype, and evaluate public display systems. Designers and researchers can use these contributions to create public displays, that do not pose a threat to the user's privacy. In conclusion, this thesis can thus contribute towards simplifying and accelerating the development of privacy-preserving personalized public display systems.</mods:abstract>
+                  <mods:tableOfContents lang="eng">Acknowledgements i&#13;
+Abstract iii&#13;
+List of Publications xv&#13;
+List of Figures xvii&#13;
+List of Tables xxi&#13;
+Remarks xxv&#13;
+I. Introduction 1&#13;
+1. Overview 3&#13;
+2. The Evolution of Public Displays 13&#13;
+2.1. Ubiquitous Proliferation . . . . . . . . . . . . . . . . . . . . 14&#13;
+2.2. Display Blindness . . . . . . . . . . . . . . . . . . . . . . . . 16&#13;
+2.2.1. Operator’s Point of View . . . . . . . . . . . . . . . 16&#13;
+2.2.2. User’s Point View . . . . . . . . . . . . . . . . . . . . 18&#13;
+3. Motivation 21&#13;
+3.1. Addressing Display Blindness with Personalization . . . 22&#13;
+3.2. Preserving Privacy During Personalization . . . . . . . . 25&#13;
+4. Objectives 29&#13;
+4.1. Research Questions . . . . . . . . . . . . . . . . . . . . . . . 30&#13;
+4.2. Scientific Contributions . . . . . . . . . . . . . . . . . . . . 31&#13;
+4.3. Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34&#13;
+4.4. Thesis Outline . . . . . . . . . . . . . . . . . . . . . . . . . . . 35&#13;
+II. Methodology, Key Concepts, and RelatedWork 37&#13;
+5. ResearchMethodology 39&#13;
+6. Key Concepts in Public Display Systems 43&#13;
+6.1. Context . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44&#13;
+6.2. Privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47&#13;
+6.3. Personalization . . . . . . . . . . . . . . . . . . . . . . . . . . 53&#13;
+6.4. Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54&#13;
+6.5. Threats, Threat Models, and Countermeasures . . . . . 57&#13;
+7. RelatedWork on Public Display Systems 65&#13;
+7.1. Context . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66&#13;
+7.2. Privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68&#13;
+7.3. Personalization . . . . . . . . . . . . . . . . . . . . . . . . . . 77&#13;
+7.4. Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79&#13;
+7.5. Threats, Threat Models, and Countermeasures . . . . . 89&#13;
+7.5.1. Literature Survey . . . . . . . . . . . . . . . . . . . . 90&#13;
+7.5.2. Visualization of the SurveyedWork . . . . . . . . 92&#13;
+7.5.3. Outcomes and Discussion . . . . . . . . . . . . . . 97&#13;
+7.5.4. Limitations . . . . . . . . . . . . . . . . . . . . . . . . 118&#13;
+7.5.5. Summary . . . . . . . . . . . . . . . . . . . . . . . . . 119&#13;
+7.6. Toolkits and Frameworks . . . . . . . . . . . . . . . . . . . 120&#13;
+7.6.1. Design . . . . . . . . . . . . . . . . . . . . . . . . . . . 123&#13;
+7.6.2. Content . . . . . . . . . . . . . . . . . . . . . . . . . . 126&#13;
+7.6.3. Interaction . . . . . . . . . . . . . . . . . . . . . . . . 129&#13;
+7.6.4. Social Connections . . . . . . . . . . . . . . . . . . . 132&#13;
+8. Summary 137&#13;
+III. Designing Privacy-Preserving Personalized PDS 141&#13;
+9. Challenges 143&#13;
+9.1. Situatedness . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144&#13;
+9.2. Form Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . 146&#13;
+9.3. Fixed Environmental Factors . . . . . . . . . . . . . . . . . 148&#13;
+9.4. Dynamic Environmental Factors . . . . . . . . . . . . . . 150&#13;
+9.5. Mobile Devices . . . . . . . . . . . . . . . . . . . . . . . . . . 152&#13;
+9.6. Multi-Display Networks . . . . . . . . . . . . . . . . . . . . 154&#13;
+9.7. Acceptance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156&#13;
+9.8. Legal Constraints . . . . . . . . . . . . . . . . . . . . . . . . . 158&#13;
+10. Approaches 161&#13;
+10.1. Privacy Threat Model . . . . . . . . . . . . . . . . . . . . . . 162&#13;
+10.1.1. Deriving a Theoretical Grounding . . . . . . . . . 162&#13;
+10.1.2. Derived Design . . . . . . . . . . . . . . . . . . . . . 181&#13;
+10.2. Countermeasures . . . . . . . . . . . . . . . . . . . . . . . . 203&#13;
+10.2.1. Visual Multiplexing . . . . . . . . . . . . . . . . . . 205&#13;
+10.2.2. Visual Highlighting . . . . . . . . . . . . . . . . . . . 218&#13;
+10.2.3. Visual Interaction . . . . . . . . . . . . . . . . . . . . 233&#13;
+10.3. Process Integration . . . . . . . . . . . . . . . . . . . . . . . 242&#13;
+10.3.1. Immersive Public Display Evaluation and&#13;
+Design Toolkit . . . . . . . . . . . . . . . . . . . . . . 243&#13;
+10.3.2. Immersive Video Environment . . . . . . . . . . . 256&#13;
+11. Prototypes 261&#13;
+11.1. Privacy Threat Model . . . . . . . . . . . . . . . . . . . . . . 261&#13;
+11.2. Countermeasures . . . . . . . . . . . . . . . . . . . . . . . . 265&#13;
+11.2.1. Visual Multiplexing . . . . . . . . . . . . . . . . . . 265&#13;
+11.2.2. Visual Highlighting . . . . . . . . . . . . . . . . . . . 278&#13;
+11.2.3. Visual Interaction . . . . . . . . . . . . . . . . . . . . 282&#13;
+11.3. Process Integration . . . . . . . . . . . . . . . . . . . . . . . 285&#13;
+11.3.1. Immersive Public Display Evaluation and&#13;
+Design Toolkit . . . . . . . . . . . . . . . . . . . . . . 285&#13;
+11.3.2. Immersive Video Environment . . . . . . . . . . . 303&#13;
+12. Evaluation 309&#13;
+12.1. Privacy Threat Model . . . . . . . . . . . . . . . . . . . . . . 310&#13;
+12.2. Countermeasures . . . . . . . . . . . . . . . . . . . . . . . . 321&#13;
+12.2.1. Visual Multiplexing . . . . . . . . . . . . . . . . . . 321&#13;
+12.2.2. Visual Highlighting . . . . . . . . . . . . . . . . . . . 331&#13;
+12.2.3. Visual Interaction . . . . . . . . . . . . . . . . . . . . 346&#13;
+12.3. Process Integration . . . . . . . . . . . . . . . . . . . . . . . 350&#13;
+12.3.1. Immersive Public Display Evaluation and&#13;
+Design Toolkit . . . . . . . . . . . . . . . . . . . . . . 350&#13;
+12.3.2. Immersive Video Environment . . . . . . . . . . . 354&#13;
+13. Summary 359&#13;
+IV. Reflections 361&#13;
+14. Discussion 363&#13;
+14.1. Privacy Threat Model . . . . . . . . . . . . . . . . . . . . . . 364&#13;
+14.2. Countermeasures . . . . . . . . . . . . . . . . . . . . . . . . 367&#13;
+14.2.1. Visual Multiplexing . . . . . . . . . . . . . . . . . . 367&#13;
+14.2.2. Visual Highlighting . . . . . . . . . . . . . . . . . . . 375&#13;
+14.2.3. Visual Interaction . . . . . . . . . . . . . . . . . . . . 381&#13;
+14.3. Process Integration . . . . . . . . . . . . . . . . . . . . . . . 386&#13;
+14.3.1. Immersive Public Display Evaluation and&#13;
+Design Toolkit . . . . . . . . . . . . . . . . . . . . . . 387&#13;
+14.3.2. Immersive Video Environment . . . . . . . . . . . 392&#13;
+14.4. Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 395&#13;
+15. Conclusion 401&#13;
+15.1. Contributions . . . . . . . . . . . . . . . . . . . . . . . . . . . 401&#13;
+15.2. FutureWork . . . . . . . . . . . . . . . . . . . . . . . . . . . . 408&#13;
+V. Appendix 411&#13;
+Bibliography 413&#13;
+Supplementary Material 443&#13;
+Student Theses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 443&#13;
+Privacy Threat Model Relations . . . . . . . . . . . . . . . . . . . 444&#13;
+Cover Letter for the Qualitative Evaluation of C1 . . . . . . . . 451&#13;
+Curriculum Vitae . . . . . . . . . . . . . . . . . . . . . . . . . . . . 453</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Public Display; Privatsphäre; Personalisierung; Design; Gefahren-Modell; Gegenmaßnahme</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">public display; privacy; personalization; design; threat model; countermeasure</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">550</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-37249498353</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb">
+            <mets:rightsMD ID="RIGHTSMD_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="43277f9793635fb19fbf9f5999a905ba97ad86f6ef1a9e403209e110d8b82c82" CREATED="2015-12-21T13:56:04" CHECKSUMTYPE="SHA-256" SIZE="16343247" ID="ID_FIL_diss_ostkamp.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb/diss_ostkamp.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_ostkamp.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_ostkamp.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb" DMDID="DMD_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb" ID="ID_LOG_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_ostkamp.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb" xlink:to="ID_PHY_5c6db1f6-6a09-41d1-9fbd-c15ca8bb3fcb"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_ostkamp.pdf" xlink:to="ID_PHY_diss_ostkamp.pdf"/>
+          </mets:structLink>
+        </mets:mets>

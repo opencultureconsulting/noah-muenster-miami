@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1ad40d85-8395-49b2-84b9-f7b81dc55965">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Electromagnetic effects in gyrokinetic simulations of plasma turbulence</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138043353">
+                        <displayForm>Püschel, Moritz Johannes</displayForm>
+                        <namePart type="given">Moritz Johannes</namePart>
+                        <namePart type="family">Püschel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120791951">
+                        <displayForm>Jenko, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Jenko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-03-31</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-03-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit werden elektromagnetische Simulationen von Fusionsplasmen mit Cyclone-Base-Case-Parametern beschrieben: Linear wird das Verhalten von Kinetischen Ballooning-Moden (KBM) untersucht; auch Wechselwirkung und Transformation von Moden werden behandelt. Nichtlinear wird der zugängliche Wertebereich des Plasmadrucks stark erweitert, und erstmals werden Fälle von KBM-Turbulenz präsentiert. Verschiedene Transportanalysen werden eingesetzt, unter anderem quasilineare Modelle und Untersuchungen von Zonal Flows. Die oben erwähnten Simulationen werden zusätzlichen Analysen unterworfen, um ein Modell für den magnetischen Transport, den Einfluß von Magnetfeldfluktuationen auf die Magnetfeldstruktur sowie das Verhalten schneller Ionen in elektromagnetischen Feldern zu untersuchen. Zuletzt werden zwei astrophysikalische Szenarien untersucht. Es besteht die Möglichkeit, dass mikroturbulenter Transport einen signifikanten Einfluß auf verdampfende kalte, dichte Gaswolken hat.</abstract>
+                    <abstract lang="eng">This thesis presents advances in electromagnetic simulations of fusion plasmas with so-called Cyclone Base Case parameters: Linearly, the subdominant of Kinetic Ballooning Modes (KBMs) is studied, along with mode interactions and transformations. The nonlinearly accessible range of the plasma pressure is extended significantly, showing for the first time examples of KBM turbulence. Multiple analyses concerning the transport levels at high pressure are performed, including quasilinear models and zonal flow studies. The aforementioned simulations are analyzed to solidify a test particle based model for the magnetic transport, to investigate changes to the magnetic geometry due to fluctuations of the magnetic field, and to study fast ions as they are subjected to electromagnetic fields. Finally, two astrophysical scenarios are analyzed in the context of microturbulent heat transport levels. Such transport may have a significant impact on evaporating cold, dense gas clouds.</abstract>
+                    <subject lang="ger">
+                        <topic>Kernfusion</topic>
+                        <topic>Plasma</topic>
+                        <topic>Turbulenz</topic>
+                        <topic>Gyrokinetik</topic>
+                        <topic>Magnetfeld-Fluktuationen</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-32509554780</identifier>
+                    <identifier type="sys">HT015928858</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1ad40d85-8395-49b2-84b9-f7b81dc55965</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1ad40d85-8395-49b2-84b9-f7b81dc55965_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1ad40d85-8395-49b2-84b9-f7b81dc55965/thesis_pueschel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1ad40d85-8395-49b2-84b9-f7b81dc55965" DMDID="DMD_1ad40d85-8395-49b2-84b9-f7b81dc55965">
+            <mets:fptr FILEID="FILE_1ad40d85-8395-49b2-84b9-f7b81dc55965_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

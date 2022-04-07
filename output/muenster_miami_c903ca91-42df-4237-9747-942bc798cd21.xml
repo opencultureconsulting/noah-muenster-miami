@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c903ca91-42df-4237-9747-942bc798cd21">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On moduli of vector bundles on p-adic curves and attached representations</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1054880956">
+                        <displayForm>Wegner, Dimitri</displayForm>
+                        <namePart type="given">Dimitri</namePart>
+                        <namePart type="family">Wegner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141391561">
+                        <displayForm>Deninger, Christopher</displayForm>
+                        <namePart type="given">Christopher</namePart>
+                        <namePart type="family">Deninger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-08-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-06-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit wird das von Deninger/Werner entwickelte p-adische Analogon der klassischen Narasimhan-Seshadri Theorie hinsichtlich der Formulierbarkeit in den Termen der Moduli von Vektorbündeln und entsprechenden Darstellungen untersucht. Sei X eine glatte, projektive und zusammenhängende Kurve über QpBar. Einem Vektorbündel E mit stark semistabiler Reduktion auf X_Cp ordnet das étale Paralleltransport unter anderem eine stetige endlich-dimensionale Darstellung der étalen Fundamentalgruppe von X zu. Andererseits ist jedes Vektorbündel mit stark semistabiler Reduktion ebenfalls semistabil, induziert also einen Cp-wertigen Punkt in dem Modulraum M_X, der semistabile Vektorbündel von entsprechendem Rang und Grad parametrisiert. Es wird gezeigt, dass die Klasse der Vektorbündel auf X_Cp (von festem Rang und Grad), die stark semistabile Reduktion über ZpBar haben, im p-adischen Sinne eine offene Teilmenge in M_X(QpBar) induziert. Desweiteren beschreiben wir die obige Zuordnung der Darstellungen in den Termen der Moduli von Vektorbündeln sowie zugeordneten Darstellungen. Wir zeigen, dass diese unter einer technischen Voraussetzung stetig ist.</abstract>
+                    <subject lang="eng">
+                        <topic>Moduli</topic>
+                        <topic>vector bundles</topic>
+                        <topic>p-adic curves</topic>
+                        <topic>p-adic representations</topic>
+                        <topic>p-adic Narasimhan-Seshadri correspondence</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12349557808</identifier>
+                    <identifier type="sys">HT018355439</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c903ca91-42df-4237-9747-942bc798cd21</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c903ca91-42df-4237-9747-942bc798cd21_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c903ca91-42df-4237-9747-942bc798cd21/diss_wegner_dimitri.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c903ca91-42df-4237-9747-942bc798cd21" DMDID="DMD_c903ca91-42df-4237-9747-942bc798cd21">
+            <mets:fptr FILEID="FILE_c903ca91-42df-4237-9747-942bc798cd21_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

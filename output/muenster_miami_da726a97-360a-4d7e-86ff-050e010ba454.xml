@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_da726a97-360a-4d7e-86ff-050e010ba454">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>bond-valence deficiency model</title>
+                        <subTitle>a new application to describe mineral surface reactions</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133220273">
+                        <displayForm>Mutter, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Mutter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/152009558">
+                        <displayForm>Putnis, Andrew</displayForm>
+                        <namePart type="given">Andrew</namePart>
+                        <namePart type="family">Putnis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-07-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-04-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Bindungsvalenz-Theorie ist eine unter Mineralogen bekannte Methodik, mittels derer es möglich ist, Kristallstrukturen auf ihre Vollständigkeit zu überprüfen. Durch die Arbeiten z.B. von BROWN (1981, 2002) wurde der Anwendungsbereich dieser Theorie erweitert. Neuere Ansätze (z.B. Schindler et al. 2004 a,b) ermöglichen es nun Strukturen und Eigenschaften von Mineraloberflächen unter Berücksichtigung der Bindungsvalenz-Theorie neu zu interpretieren. Während ältere Theorien zum Kristallwachstum in der Mehrzahl interne Faktoren berücksichtigen (Bravais, Donnay &amp; Harker, Hartman &amp; Perdok), hat sich in jüngerer Zeit das Gewicht der Interpretation von Kristallformen auf die Untersuchung des Einflusses von externen Faktoren verlagert. Die in dieser Arbeit vorgestellte Herangehensweise (Bindungsvalenz-Defizit Model), erlaubt es nun beide Sichtweisen zu vereinheitlichen, so dass sowohl interne als auch externe Einflüsse auf das Kristallwachstum gleichermaßen berücksichtigt werden können.</abstract>
+                    <subject lang="ger">
+                        <topic>Bindungsvalenzen</topic>
+                        <topic>Mineraloberflächen</topic>
+                        <topic>Oberflächenstrukturen</topic>
+                        <topic>Kristallmorphologie</topic>
+                        <topic>Oberflächenreaktionen</topic>
+                        <topic>Kristallstrukturen</topic>
+                        <topic>Bindungsvalenz-Defizit</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98539587759</identifier>
+                    <identifier type="sys">HT015235581</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_da726a97-360a-4d7e-86ff-050e010ba454</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_da726a97-360a-4d7e-86ff-050e010ba454_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/da726a97-360a-4d7e-86ff-050e010ba454/diss_mutter.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_da726a97-360a-4d7e-86ff-050e010ba454" DMDID="DMD_da726a97-360a-4d7e-86ff-050e010ba454">
+            <mets:fptr FILEID="FILE_da726a97-360a-4d7e-86ff-050e010ba454_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

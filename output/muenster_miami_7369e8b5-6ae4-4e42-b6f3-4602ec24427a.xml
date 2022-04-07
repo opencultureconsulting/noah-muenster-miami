@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7369e8b5-6ae4-4e42-b6f3-4602ec24427a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Madsen-Tillmann-Weiss spectra and a signature problem for manifolds</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="alternative">
+                        <title>Madsen Tillmann Weiss spectra and a signature problem for manifolds</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1124787216">
+                        <displayForm>Gollinger, William</displayForm>
+                        <namePart type="given">William</namePart>
+                        <namePart type="family">Gollinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137817320">
+                        <displayForm>Ebert, Johannes Felix</displayForm>
+                        <namePart type="given">Johannes Felix</namePart>
+                        <namePart type="family">Ebert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-02-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-11-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit beschäftigt sich mit Madsen-Tillmann-Weiss-Spektren und ihren Homotopie-Gruppen. Da sie Thom-Spektren sind, lassen ihre Homotopie-Gruppen Interpretationen als bestimmte Bordismengruppen zu. Für eine beliebige tangentiale Struktur gibt es eine assoziierte Kofaser-Sequenz von Spektren, und nach Interpretation der induzierten Abbildungen auf Homotopie-Gruppen werden einige explizite Berechnungen dieser Gruppen durchgeführt. In dem speziellen Fall, in dem die tangentiale Struktur Orientierung ist, sind Mannigfaltigkeiten, die Elemente dieser Bordismusgruppen repräsentieren, orientiert und so werden ihre Signaturen definiert. Dies führt zu einem Signatur Problem: &quot;Was sind die möglichen Signaturen von Elementen dieser Gruppen?&apos;&apos; Dieses Problem ist für bestimmte kleine Grade gelöst.</abstract>
+                    <subject lang="ger">
+                        <topic>Topologie</topic>
+                        <topic>Algebraische Topologie</topic>
+                        <topic>Euler-Klasse</topic>
+                        <topic>Bordismus</topic>
+                        <topic>Madsen-Weiss</topic>
+                        <topic>Signatur</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93229630152</identifier>
+                    <identifier type="sys">HT019231841</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7369e8b5-6ae4-4e42-b6f3-4602ec24427a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7369e8b5-6ae4-4e42-b6f3-4602ec24427a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7369e8b5-6ae4-4e42-b6f3-4602ec24427a/diss_gollinger.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7369e8b5-6ae4-4e42-b6f3-4602ec24427a" DMDID="DMD_7369e8b5-6ae4-4e42-b6f3-4602ec24427a">
+            <mets:fptr FILEID="FILE_7369e8b5-6ae4-4e42-b6f3-4602ec24427a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

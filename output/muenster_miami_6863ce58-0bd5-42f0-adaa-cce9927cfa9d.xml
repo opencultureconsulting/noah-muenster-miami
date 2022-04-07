@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6863ce58-0bd5-42f0-adaa-cce9927cfa9d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Deutsches Künstlerverzeichnis ab 1800</title>
+                        <subTitle>und Nachtrag: Künstler/innen aus Westfalen-Lippe, mit neuen Daten und neuen Künstlern</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/104986387">
+                        <displayForm>Ebert, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Ebert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-01-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das &quot;Deutsche Künstlerverzeichnis&quot; ist ein aus einer privaten Künstlerkartei eintstandenes Verzeichnis von Deutschen Bildenden Künstlern seit 1800 sowie ausländischen Künstlern, die in Deutschland lebten oder leben. Verzeichnet sind biographische Daten sowie Angaben zu Literatur und Ausstellungen über die Künstler.</abstract>
+                    <note>Aufzeichnungen: 1.8.2006–18.3.2011</note>
+                    <subject lang="ger">
+                        <topic>Deutschland</topic>
+                        <topic>Künstler</topic>
+                        <topic>Geschichte 1800–2006</topic>
+                        <topic>Biographie</topic>
+                        <topic>Bibliographie</topic>
+                    </subject>
+                    <classification authority="ddc">700</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-40619583473</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6863ce58-0bd5-42f0-adaa-cce9927cfa9d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6863ce58-0bd5-42f0-adaa-cce9927cfa9d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6863ce58-0bd5-42f0-adaa-cce9927cfa9d/kuenstlerverzeichnis-ebert.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6863ce58-0bd5-42f0-adaa-cce9927cfa9d" DMDID="DMD_6863ce58-0bd5-42f0-adaa-cce9927cfa9d">
+            <mets:fptr FILEID="FILE_6863ce58-0bd5-42f0-adaa-cce9927cfa9d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d79b97b2-3d57-4371-8de1-89aca64aa44c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Kaczmarz-Verfahren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137261242">
+                        <displayForm>Geyer, Heinz Rainer</displayForm>
+                        <namePart type="given">Heinz Rainer</namePart>
+                        <namePart type="family">Geyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2003-11-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Autor stellt ein Lösungsverfahren für lineare Gleichungssysteme - aufbereitet für den Unterricht - vor. Dabei kommen neue Medien in Form von Taschencomputern mit Computeralgebrasystemen zum Einsatz.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland. Für Unterrichtszwecke freigegeben.</note>
+                    <note type="citation/reference">T³-Materialien Lineare Algebra. (ISBN 3-934064-32-9)</note>
+                    <subject lang="ger">
+                        <topic>Mathematik</topic>
+                        <topic>lineare Algebra</topic>
+                        <topic>Didaktik</topic>
+                        <topic>neue Medien</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>Kaczmarz-Verfahren</topic>
+                        <topic>lineare Gleichungssysteme</topic>
+                        <topic>Lösungsverfahren</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541665</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d79b97b2-3d57-4371-8de1-89aca64aa44c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d79b97b2-3d57-4371-8de1-89aca64aa44c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d79b97b2-3d57-4371-8de1-89aca64aa44c/Kaczmarz-Verfahren.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d79b97b2-3d57-4371-8de1-89aca64aa44c" DMDID="DMD_d79b97b2-3d57-4371-8de1-89aca64aa44c">
+            <mets:fptr FILEID="FILE_d79b97b2-3d57-4371-8de1-89aca64aa44c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

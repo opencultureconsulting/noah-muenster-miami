@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d6d67967-3d0f-4b4a-b971-726f1be8cb07">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Katja Happe, Viele falsche Hoffnungen. Judenverfolgung in den Niederlanden 1940–1945</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1069804282">
+                        <displayForm>Lak, Martijn</displayForm>
+                        <namePart type="given">Martijn</namePart>
+                        <namePart type="family">Lak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">rev</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">review</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Unruhige Zeiten</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Unruhige Zeiten</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>220</start>
+                                <end>223</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27139637165</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d6d67967-3d0f-4b4a-b971-726f1be8cb07</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>review</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d6d67967-3d0f-4b4a-b971-726f1be8cb07_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d6d67967-3d0f-4b4a-b971-726f1be8cb07/nl-schriften_band-003_220-223.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d6d67967-3d0f-4b4a-b971-726f1be8cb07" DMDID="DMD_d6d67967-3d0f-4b4a-b971-726f1be8cb07">
+            <mets:fptr FILEID="FILE_d6d67967-3d0f-4b4a-b971-726f1be8cb07_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

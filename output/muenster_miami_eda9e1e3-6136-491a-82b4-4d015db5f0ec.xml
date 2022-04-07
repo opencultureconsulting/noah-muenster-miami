@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_eda9e1e3-6136-491a-82b4-4d015db5f0ec">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kasuistiken zur Morphologie und Individualisierung von Blutspuren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132006375">
+                        <displayForm>Niedergassel, Tim Alexander</displayForm>
+                        <namePart type="given">Tim Alexander</namePart>
+                        <namePart type="family">Niedergassel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brinkmann, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Brinkmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-07-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-07-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziele. Sammlung von Informationen über die Erkenntnisse aus der Analyse von Morphologie und Individualisierung von Blutspuren anhand von Fallbeispielen. Material und Methoden. In den Spurenakten- und Leichenöffnungsprotokollarchiven des Instituts für Rechtsmedizin wurde systematisch nach Fällen mit herausragenden Spureneigenschaften gesucht. Für die ausgewaehlten Fälle wurden die Akten der jeweils zustaendigen Staatsanwaltschaften angefordert und ausgewertet. Ergebnisse. Durch eine Analyse der morphologischen Aspekte von Blutspuren konnten detaillierte Tatrekonstruktionen durchgeführt werden. Schluesse. Die im Vergleich zur Individualisierung mittels DNA-Analyse in den Hintergrund getretenen Analyse der Morphologie von Blutspuren ermoeglicht oftmals eine Rekonstruktion des Entstehungsablaufs und kann auch die Rekonstruktion komplexer Entstehungsmechanismen moeglich machen.</abstract>
+                    <abstract lang="eng">Objective. A collection of information about the insight gained by blood stain morphology analysis and individualization on the basis of case reports. Methods. The archives of trace files and autopsy reports were systematically searched for outstanding blood stain evidence. In the selected cases files were ordered from the competent Public Attorney?s Offices and evaluated. Results. By analyzing morphological aspects of blood stains detailed reconstructions of actions partly enabling an expedient individualization partly requiring an individualization were allowed. Conclusion. The recent possibilities of individualization by DNA analysis have eclipsed the analysis of the morphology of blood stain patterns. But the morphological analysis often allows a reconstruction of the formation and in combination with an individualization complex developments can be reconstructed in detail.</abstract>
+                    <subject lang="ger">
+                        <topic>Spur</topic>
+                        <topic>Blutspur</topic>
+                        <topic>Rekonstruktion</topic>
+                        <topic>Morphologie</topic>
+                        <topic>Individualisierung</topic>
+                        <topic>DNA</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-42609565601</identifier>
+                    <identifier type="sys">HT014834814</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_eda9e1e3-6136-491a-82b4-4d015db5f0ec</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_eda9e1e3-6136-491a-82b4-4d015db5f0ec_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/eda9e1e3-6136-491a-82b4-4d015db5f0ec/diss_niedergassel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_eda9e1e3-6136-491a-82b4-4d015db5f0ec" DMDID="DMD_eda9e1e3-6136-491a-82b4-4d015db5f0ec">
+            <mets:fptr FILEID="FILE_eda9e1e3-6136-491a-82b4-4d015db5f0ec_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

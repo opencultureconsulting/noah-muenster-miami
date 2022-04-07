@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8bb903e3-2cba-4db2-b5d0-97aabf21d3fa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur klinischen Relevanz von Staphylococcus aureus Small Colony Variants bei Patienten mit Osteomyelitis</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132366347">
+                        <displayForm>Mönninghoff, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Mönninghoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111732360">
+                        <displayForm>Eiff, Christof von</displayForm>
+                        <namePart type="given">Christof von</namePart>
+                        <namePart type="family">Eiff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-12-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-10-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Staphylococcus aureus Small Colony Variants repräsentieren eine Elektronentransport-defiziente Subpopulation von S. aureus, die mit rezidivierenden Infektionen assoziiert ist. Ihr Einfluss auf den Erkrankungsverlauf der Osteomyelitis wurde in einer Fall-Kontroll-Studie an 63 Patienten mit S. aureus-positiver Osteomyelitis untersucht. S. aureus SCVs wurden bei 21 von 63 Osteomyelitis-Patienten isoliert. Mit SCVs kolonisierte Patienten hatten eine 2,7-fach längere, mediane Erkrankungsdauer und signifikant mehr Exazerbationen als solche Patienten, die nur den normalen Phänotyp von S. aureus beherbergten. Im Vergleich zu klonal identischen Stämmen des normalen Phänotyps zeigten die SCV-Stämme eine bis zu 23-fach niedrigere Gentamicin-Empfindlichkeit, eine reduzierte Kohlenhydratfermentation und einen Auxotrophismus für Hämin bzw. Menadion.</abstract>
+                    <subject lang="ger">
+                        <topic>Staphylococcus aureus</topic>
+                        <topic>Small Colony Variants</topic>
+                        <topic>Osteomyelitis</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10659582457</identifier>
+                    <identifier type="sys">HT014983990</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8bb903e3-2cba-4db2-b5d0-97aabf21d3fa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8bb903e3-2cba-4db2-b5d0-97aabf21d3fa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8bb903e3-2cba-4db2-b5d0-97aabf21d3fa/diss_moenninghoff.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8bb903e3-2cba-4db2-b5d0-97aabf21d3fa" DMDID="DMD_8bb903e3-2cba-4db2-b5d0-97aabf21d3fa">
+            <mets:fptr FILEID="FILE_8bb903e3-2cba-4db2-b5d0-97aabf21d3fa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

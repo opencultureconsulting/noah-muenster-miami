@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fd32a67b-70d0-4b21-b74c-00329d3a066c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>genetische Fingerabdruck</title>
+                        <subTitle>Lehrerinformation</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1139247700">
+                        <displayForm>Nunes, Eva Désirée</displayForm>
+                        <namePart type="given">Eva Désirée</namePart>
+                        <namePart type="family">Nunes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-04-06</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der genetische Fingerabdruck bietet sich als ein mögliches Thema für den Oberstufenunterricht an. Da das Thema inhaltlich ohne vorherige Kenntnisse anspruchsvoll und praktisch schwierig umzusetzen ist, soll mit diesem Beitrag versucht werden, zunächst einen Einblick in die relevanten fachlichen Inhalte zu geben. In einem weiteren Beitrag wird dann näher auf die Unterrichtsumsetzung eingegangen werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Genetischer Fingerabdruck</topic>
+                        <topic>Genetik</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>103</start>
+                                <end>120</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659522488</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fd32a67b-70d0-4b21-b74c-00329d3a066c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fd32a67b-70d0-4b21-b74c-00329d3a066c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fd32a67b-70d0-4b21-b74c-00329d3a066c/idb13_103-120.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fd32a67b-70d0-4b21-b74c-00329d3a066c" DMDID="DMD_fd32a67b-70d0-4b21-b74c-00329d3a066c">
+            <mets:fptr FILEID="FILE_fd32a67b-70d0-4b21-b74c-00329d3a066c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

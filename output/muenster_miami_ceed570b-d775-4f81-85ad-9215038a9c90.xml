@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ceed570b-d775-4f81-85ad-9215038a9c90">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Universal properties of self-organized localized structures</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133015661">
+                        <displayForm>Bödeker, Hendrik Ulrich</displayForm>
+                        <namePart type="given">Hendrik Ulrich</namePart>
+                        <namePart type="family">Bödeker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137377798">
+                        <displayForm>Purwins, H.-G.</displayForm>
+                        <namePart type="given">H.-G.</namePart>
+                        <namePart type="family">Purwins</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-05-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel dieser Arbeit ist es, einen Beitrag zur Aufklärung der universellen teilchenartigen Eigenschaften von selbstorganisierten lokalisierten Strukturen in unterschiedlichen räumlich ausgedehnten Systemen zu leisten. Untersucht werden zunächst Mechanismen der Bildung, Dynamik und Wechselwirkung in Prototyp-Modellsystemen wie Reaktions-Diffusions-, Ginzburg-Landau- und Swift-Hohenberg-Gleichungen. Mittels adiabatischer Eliminationsmethoden kann die Feldbeschreibung in vielen Fällen auf gewöhnliche Differentialgleichungen von einheitlicher Form reduziert werden. So kann auch das Verhalten großer Ensembles lokalisierter Strukturen analytisch und numerisch analysiert werden. Hier ergeben sich zahlreiche neue Phänomene ohne klassisches Analogon. Zuletzt ist die Dynamik von biologischen teilchenartigen Strukturen in Form von Dictyostelium-Zellen von Interesse, die experimentell in mikrofluidischen Aufbauten erforscht wird.</abstract>
+                    <abstract lang="eng">This work tries to contribute to explaining the universal particle-like behavior of self-organized localized structures in different spatially extended systems. First, mechanisms of generation, dynamics and interaction in prototype systems like reaction-diffusion, Ginzburg-Landau or Swift-Hohenberg equations are investigated. Using methods of adiabatic elimination, in many cases the field description can be reduced to ordinary differential equations of uniform structure. In this way, one may also explore the behavior of large particle ensembles analytically and numerically. Here, many new phenomena without classical analogue arise. Finally, an experimental analysis of biological particle-like structures in the form of Dictyostelium cells is carried out using microfluidic devices.</abstract>
+                    <subject lang="ger">
+                        <topic>Strukturbildung</topic>
+                        <topic>Solitonen</topic>
+                        <topic>Vielteilchensysteme</topic>
+                        <topic>reduzierte Gleichungen</topic>
+                        <topic>Zelldynamik</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68579565596</identifier>
+                    <identifier type="sys">HT015216448</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ceed570b-d775-4f81-85ad-9215038a9c90</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ceed570b-d775-4f81-85ad-9215038a9c90_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ceed570b-d775-4f81-85ad-9215038a9c90/diss_boedeker.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ceed570b-d775-4f81-85ad-9215038a9c90" DMDID="DMD_ceed570b-d775-4f81-85ad-9215038a9c90">
+            <mets:fptr FILEID="FILE_ceed570b-d775-4f81-85ad-9215038a9c90_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

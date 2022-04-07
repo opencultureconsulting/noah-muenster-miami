@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b20431ce-f366-4568-a250-86f11c0bc446">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einführung in EXCEL anhand der Zinsrechnung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grasse, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Grasse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-05-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-05-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Workshopbeitrag zur 3. T³-Regionaltagung &quot;Computer im Mathematikunterricht. Wie verändert neue Technologie den Unterricht?&quot; an der Universität Mainz (3./4. März 2006)</note>
+                    <subject lang="ger">
+                        <topic>Tabellenkalkulation</topic>
+                        <topic>Excel</topic>
+                        <topic>Prozentrechnung</topic>
+                        <topic>Funktionsplotter</topic>
+                        <topic>Schieberegler</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-72649578948</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b20431ce-f366-4568-a250-86f11c0bc446</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b20431ce-f366-4568-a250-86f11c0bc446_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b20431ce-f366-4568-a250-86f11c0bc446/Grasse_Tabellenkalkulation.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b20431ce-f366-4568-a250-86f11c0bc446" DMDID="DMD_b20431ce-f366-4568-a250-86f11c0bc446">
+            <mets:fptr FILEID="FILE_b20431ce-f366-4568-a250-86f11c0bc446_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

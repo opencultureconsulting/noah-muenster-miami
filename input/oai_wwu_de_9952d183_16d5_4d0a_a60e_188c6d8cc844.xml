@@ -1,0 +1,255 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:9952d183-16d5-4d0a-a60e-188c6d8cc844" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:14">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_9952d183-16d5-4d0a-a60e-188c6d8cc844">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Model reduction for kinetic equations: moment approximations and hierarchical approximate proper orthogonal decomposition</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1130666093">
+                    <mods:namePart type="given">Tobias</mods:namePart>
+                    <mods:namePart type="family">Leibner</mods:namePart>
+                    <mods:namePart type="date">1990-</mods:namePart>
+                    <mods:displayForm>Leibner, Tobias</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1115010972">
+                    <mods:namePart type="given">Mario</mods:namePart>
+                    <mods:namePart type="family">Ohlberger</mods:namePart>
+                    <mods:displayForm>Ohlberger, Mario</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2021</mods:dateIssued>
+                    <mods:dateOther>2021-04-13</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2022-01-18</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2022-01-18</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>xi, 199</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Momentenmodelle sind eine Klasse von spezialisierten approximativen Modellen für kinetische Transportgleichungen. Diese Modelle wandeln die kinetische Gleichung in ein geschwindigkeitsunabhängiges Gleichungssystem für die gewichteten Mittelwerte (Momente) der Lösung um. Je nachdem, welche Gewichtsfunktionen für die Mittelwerte verwendet werden und auf welche Art das Gleichungssystem geschlossen wird, unterscheiden sich die entstehenden Modelle in ihren Eigenschaften. Wird ein linearer Ansatz gewählt, so sind auch die zugehörigen Momentenmodelle linear und mit vergleichsweise geringem Aufwand zu lösen, dafür ist die Lösung aber nicht unbedingt physikalisch sinnvoll und kann zum Beispiel negative Dichten enthalten. Modelle, die auf Entropie-Minimierung beruhen, erhalten hingegen viele der grundlegenden physikalischen Eigenschaften der Lösungen. Dafür liegt der für die Lösung benötigte Rechenaufwand deutlich höher, da ein nichtlineares Optimierungsproblem in jeder Zelle des Zeit-Raum-Gitters gelöst werden muss. Darüber hinaus sind die Optimierungsprobleme nur wohlgestellt, solange die Momente innerhalb eines bestimmten Teilgebiets des Koordinatenraums (der sogenannten Realisierbarkeitsmenge) liegen, was die Entwicklung von numerischen Methoden, insbesondere solcher höherer Ordnung, deutlich erschwert.&#13;
+In dieser Arbeit untersuchen wir deshalb mehrere Ansätze, um die Implementierung und Lösung von (insbesondere Entropie-basierten) Momentenmodellen für lineare kinetische Gleichungen zu vereinfachen. Als erstes konzentrieren wir uns auf die Basisfunktionen (die Gewichtsfunktionen für die Momente). Oft werden diese als Polynome auf dem kompletten Geschwindigkeitsraum gewählt, wohingegen wir uns hier mit stückweise linearen Basisfunktionen beschäftigen. Wir zeigen, dass die entstehenden Modelle für nicht-glatte Lösungen ähnlich gute Approximationseigenschaften haben wie die Standardmodelle, während die Realisierbarkeitsbedingungen sehr viel einfacher und die Rechnungen deutlich schneller sind. Zudem stellen wir ein realisierbarkeitserhaltendes Finite-Volumen-Verfahren zweiter Ordnung vor und zeigen, dass die Implementierung durch die einfachere Struktur der neuen Modelle deutlich weniger komplex ist.&#13;
+Als zweiten Ansatz präsentieren wir ein neues numerisches Verfahren für die Entropie-basierten Momentenmodelle. Durch eine Variablentransformation müssen in dem neuen Verfahren anstelle der nichtlinearen Optimierungsprobleme nur noch positiv definite Matrizen invertiert werden, wodurch die Realisierbarkeitsbedingungen wegfallen und die Lösungen oft deutlich schneller ermittelt werden können als mit Standardverfahren.&#13;
+Schließlich beschäftigen wir uns mit der Möglichkeit einer zusätzlichen Modellreduktion für parameterabhängige Momentenmodelle. Hierzu nutzen wir die Reduzierte-Basis-Methode und berechnen mit der Hauptkomponentenanalyse (Proper Orthogonal Decomposition, POD) ein reduziertes Modell. Wir stellen die hierarchische approximative POD (HAPOD) vor, ein universelles und einfach zu implementierendes Verfahren um eine approximative POD zu berechnen. Die HAPOD nutzt eine fast beliebig an die verfügbaren Ressourcen anpassbare Baumstruktur, so dass jeder Rechenknoten nur die POD einer relativ kleinen Teilmenge der Eingangsvektoren berechnen muss. Wir führen eine ausführliche theoretische Analyse der HAPOD durch und zeigen die Anwendbarkeit auf lineare Momentenmodelle&#13;
+sowie eine gegenüber der POD deutlich verbesserte Effizienz.</mods:abstract>
+                  <mods:abstract lang="eng">Moment models are a class of specialized approximate models for kinetic transport equations. These models transform the kinetic equation to a system of equations for weighted velocity averages of the solution, called moments, thereby removing the velocity dependency. The properties of the resulting models depend on the chosen weight functions for the moments and on the approach used to close the equations. Closing the system by specifying a linear ansatz function results in linear models that are comparatively easy to solve but may show non-physical behaviour. Minimum-entropy moment closures, on the other hand, conserve many of the fundamental physical properties but require the solution of a non-linear optimization problem for every cell in the space-time grid. In addition, these models are only well-defined if the moments can be kept within a particular subset of the real coordinate space, the so-called realizable set, which is particularly challenging for higher-order numerical solvers.&#13;
+In this thesis, we investigate several approaches to increase usability of (minimum-entropy) moment approximations to linear kinetic equations. First, we focus on the basis functions, i.e. the weight functions for the velocity averages. Typically, these are chosen as polynomials on the whole velocity space. Here, as an alternative, we analyse models based on continuous and discontinuous piecewise linear basis functions. We show that, for non-smooth solutions, approximation quality is comparable while realizability conditions are much simpler and the computations are considerably faster. In addition, we provide second-order finite volume schemes and show that realizability preservation and thus overall implementation is significantly less complex for the new models.&#13;
+Second, we suggest a new numerical method for the minimum-entropy models that is based on a transformation of the moment vectors. This new method replaces the non-linear optimization problems by inversions of positive definite matrices. As a result, it avoids the realizability-related problems and is often several times faster than the standard optimization-based scheme.&#13;
+Finally, we investigate the possibility to further accelerate computations for parameter-dependent moment models by building a reduced model via the reduced basis method utilizing proper orthogonal decomposition (POD). We present the hierarchical approximate POD (HAPOD), a general, easy-to-implement approach to compute an approximate POD based on arbitrary tree hierarchies of worker nodes, where each worker computes a POD of only a small number of input vectors. The tree hierarchy can be freely adapted to optimally suit the available computational resources. We provide rigorous theoretical results and show applicability and performance by applying the HAPOD to a large linear moment model.</mods:abstract>
+                  <mods:tableOfContents lang="eng">Abstract i&#13;
+List of Figures ..... ix&#13;
+1 Introduction ..... 1&#13;
+1.1 Collaborations and previous publications ..... 3&#13;
+1.2 Notation ..... 4&#13;
+1.3 Kinetic equations ..... 6&#13;
+1.3.1 General kinetic transport equations ..... 6&#13;
+1.3.2 Radiative transfer ..... 8&#13;
+1.4 Moment models ..... 9&#13;
+1.4.1 Linear closure ..... 11&#13;
+1.4.2 Minimum-entropy closures ..... 12&#13;
+2 First-order finite element moment models ..... 15&#13;
+2.1 Angular bases in slab geometry ..... 16&#13;
+2.1.1 Full moments ..... 16&#13;
+2.1.2 Continuous piecewise linear angular basis (hat functions) ..... 17&#13;
+2.1.3 Partial moments (discontinuous-Galerkin ansatz) ..... 18&#13;
+2.2 Angular bases in three dimensions ..... 19&#13;
+2.2.1 Barycentric-coordinate basis functions (hat functions) ..... 20&#13;
+2.2.2 Partial moments on the unit sphere ..... 21&#13;
+2.3 Realizability ..... 22&#13;
+2.3.1 Structure of the realizable sets ..... 23&#13;
+2.3.2 Slab geometry (one dimension) ..... 26&#13;
+2.3.3 Three dimensions ..... 30&#13;
+2.3.4 Numerically realizable set ..... 31&#13;
+2.4 Numerical results ..... 34&#13;
+2.4.1 Slab geometry (one dimension) ..... 35&#13;
+2.4.2 Three dimensions ..... 39&#13;
+2.4.3 Computational complexity ..... 41&#13;
+3 Realizability-preserving finite volume schemes ..... 47&#13;
+3.1 First-order realizability-preserving finite volume scheme ..... 48&#13;
+3.1.1 Finite volume grid ..... 48&#13;
+3.1.2 Finite volume scheme ..... 49&#13;
+3.2 Second-order realizability-preserving splitting scheme ..... 53&#13;
+3.2.1 Source system ..... 53&#13;
+3.2.2 Flux system ..... 54&#13;
+3.2.3 Time step restriction ..... 56&#13;
+3.3 Implementation details ..... 59&#13;
+3.3.1 Solving the optimization problem ..... 59&#13;
+3.3.2 Solving the eigenvalue problems ..... 65&#13;
+3.3.3 Realizability limiting ..... 66&#13;
+3.3.4 Implementation of quadrature rules ..... 70&#13;
+3.4 Numerical results ..... 71&#13;
+3.4.1 Slab geometry (one dimension) ..... 72&#13;
+3.4.2 Three dimensions ..... 76&#13;
+3.4.3 Quadrature sensitivity ..... 89&#13;
+3.4.4 Timings ..... 94&#13;
+4 New numerical scheme based on variable transformation ..... 97&#13;
+4.1 New scheme in transformed variables ..... 97&#13;
+4.2 Numerical results ..... 100&#13;
+4.2.1 Convergence ..... 101&#13;
+4.2.2 Performance ..... 104&#13;
+4.2.3 Parallel scaling ..... 111&#13;
+4.2.4 Masslumping ..... 113&#13;
+5 Hierarchical approximate proper orthogonal decomposition ..... 117&#13;
+5.1 Related work ..... 118&#13;
+5.2 Reduced basis methods ..... 119&#13;
+5.2.1 General setting ..... 120&#13;
+5.2.2 Reduced basis method for moment models ..... 121&#13;
+5.3 Proper orthogonal decomposition ..... 123&#13;
+5.4 Definition of the HAPOD ..... 126&#13;
+5.5 Special cases: distributed and incremental HAPOD ..... 127&#13;
+5.6 Main theorems ..... 128&#13;
+5.7 Algorithmic benefits ..... 130&#13;
+5.8 Proofs of main theorems ..... 131&#13;
+5.9 Reduction of a large linear moment model ..... 136&#13;
+6 Conclusion and Outlook ..... 143&#13;
+6.1 First-order finite element-based moment models ..... 143&#13;
+6.2 Transformed numerical scheme ..... 145&#13;
+6.3 Reduced-basis methods for moment models ..... 145&#13;
+A Appendix ..... 151&#13;
+A.1 Explicit formulas for integrals ..... 151&#13;
+A.1.1 Mass and flux matrices ..... 151&#13;
+A.1.2 Source-beam boundary values ..... 158&#13;
+A.1.3 Minimum-entropy models in slab geometry ..... 160&#13;
+A.2 Additional figures and data for the variable-transformed scheme ..... 171&#13;
+Bibliography ..... 179&#13;
+Glossaries ..... 191&#13;
+List of Symbols ..... 191&#13;
+List of Acronyms ..... 197</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="thesis">Zugl.: Münster (Westfalen), Univ., Diss., 2021</mods:note>
+                  <mods:note xml:lang="de" type="funding">Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 390685587</mods:note>
+                  <mods:note xml:lang="en" type="funding">Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 390685587</mods:note>
+                  <mods:note xml:lang="de" type="funding">Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 194347757</mods:note>
+                  <mods:note xml:lang="en" type="funding">Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 194347757</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="ger">Momentenmodelle; Modellreduktion; HAPOD; lineare kinetische Gleichungen; Realisierbarkeit; Entropieminimierung; Finite-Volumen-Verfahren</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">moment models; model reduction; HAPOD; linear kinetic equations; realizability; minimum entropy closure; finite volume methods</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:relatedItem otherType="HasPart" otherTypeAuth="datacite">
+                    <mods:identifier type="doi">10.1051/m2an/2021065</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:relatedItem otherType="HasPart" otherTypeAuth="datacite">
+                    <mods:identifier type="doi">10.1016/j.jcp.2020.109547</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-85019477402</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/9952d183-16d5-4d0a-a60e-188c6d8cc844</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:9952d183-16d5-4d0a-a60e-188c6d8cc844</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_9952d183-16d5-4d0a-a60e-188c6d8cc844">
+            <mets:rightsMD ID="RIGHTSMD_9952d183-16d5-4d0a-a60e-188c6d8cc844">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_9952d183-16d5-4d0a-a60e-188c6d8cc844">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/9952d183-16d5-4d0a-a60e-188c6d8cc844</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="c990883cbbf9f66dca5f10d2096821a5d27ec415b5ccfd549f1ce3afbdc18888" CREATED="2022-01-18T14:33:48" CHECKSUMTYPE="SHA-256" SIZE="36615217" ID="ID_FIL_diss_leibner_2021.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9952d183-16d5-4d0a-a60e-188c6d8cc844/diss_leibner_2021.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW9952d183-16d5-4d0a-a60e-188c6d8cc844">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/9952d183-16d5-4d0a-a60e-188c6d8cc844" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_9952d183-16d5-4d0a-a60e-188c6d8cc844" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_leibner_2021.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_leibner_2021.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_9952d183-16d5-4d0a-a60e-188c6d8cc844" DMDID="DMD_9952d183-16d5-4d0a-a60e-188c6d8cc844" ID="ID_LOG_9952d183-16d5-4d0a-a60e-188c6d8cc844" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_leibner_2021.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_9952d183-16d5-4d0a-a60e-188c6d8cc844" xlink:to="ID_PHY_9952d183-16d5-4d0a-a60e-188c6d8cc844"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_leibner_2021.pdf" xlink:to="ID_PHY_diss_leibner_2021.pdf"/>
+          </mets:structLink>
+        </mets:mets>

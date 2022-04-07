@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_54d2ce7d-cb4e-4595-937f-f233ed7809ba">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Symbolic Java Virtual Machine for Test Case Generation</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128698632">
+                        <displayForm>Müller, Roger A.</displayForm>
+                        <namePart type="given">Roger A.</namePart>
+                        <namePart type="family">Müller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128698659">
+                        <displayForm>Lembeck, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Lembeck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuchen, Herbert</displayForm>
+                        <namePart type="given">Herbert</namePart>
+                        <namePart type="family">Kuchen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-02</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-08-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-08-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Quality management is becoming a more and more important part of the software development process. As software testing is currently understood as the core function of the quality managment, developers start using software testing tools to facilitate their work. However most existing tools just manage given sets of test cases and check them against pre-defined testing criteria. The necessary test case discovery is usually up to user, who has to generate the test cases in an ad-hoc approach with only minimal support from the software. GlassTT, the tool we present in this paper, faces this problem by creating the needed test cases for a given criterion for a Java class file. It uses a symbolic Java virtual machine to generate constraints representing the conditions for the control flow under consideration. The system can employ a parameterizeable test criterion such as data-flow coverage. The constraint solvers embedded in the tool are capable of solving linear and non-linear constraints, which is sufficient for almost all constraints encountered in the execution of Java programs. They are encapsulated in an incremental constraint solver manager, which dynamically chooses an appropriate constraint solver and enables the efficient communication between constraint solvers and symbolical virtual machine.</abstract>
+                    <subject lang="eng">
+                        <topic>Software Testing</topic>
+                        <topic>Structural Testing</topic>
+                        <topic>Symbolic Virtual Machine</topic>
+                        <topic>Java</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659523868</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_54d2ce7d-cb4e-4595-937f-f233ed7809ba</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_54d2ce7d-cb4e-4595-937f-f233ed7809ba_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/54d2ce7d-cb4e-4595-937f-f233ed7809ba/muleku_iasted2004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_54d2ce7d-cb4e-4595-937f-f233ed7809ba" DMDID="DMD_54d2ce7d-cb4e-4595-937f-f233ed7809ba">
+            <mets:fptr FILEID="FILE_54d2ce7d-cb4e-4595-937f-f233ed7809ba_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

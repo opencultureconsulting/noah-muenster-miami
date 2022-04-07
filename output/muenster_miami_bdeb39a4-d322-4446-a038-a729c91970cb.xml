@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bdeb39a4-d322-4446-a038-a729c91970cb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimale Steuerprozesse unter partiellen Differentialgleichungs-Restriktionen mit linear eingehender Steuerfunktion</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132087235">
+                        <displayForm>Theißen, Karsten</displayForm>
+                        <namePart type="given">Karsten</namePart>
+                        <namePart type="family">Theißen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131415158">
+                        <displayForm>Maurer, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Maurer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-11-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-06-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird die optimale Steuerung von Prozessen behandelt, die durch partielle Differentialgleichungen beschrieben werden. Vor allem die Naturwissenschaften Physik, Chemie, Biologie sowie die Ingenieurwissenschaften liefern eine große Zahl an Problemen, die durch partielle Differentialgleichungen modelliert werden. Ein Schwerpunkt wird dabei auf Prozesse gelegt, deren Steuerfunktion linear auftritt. Die theoretische sowie numerische Berechnung dieser Funktionen unter semilinearen elliptischen bzw. parabolischen Restriktionen führt auf interessante bang-bang und singuläre Steuerungen. Ein wichtiges Anwendungsgebiet für optimale Steuerprozesse mit linear eingehender Steuerfunktion liegt in der Ansteuerung stationärer Zustände von nichtlinearen Evolutionsgleichungen. In der Arbeit wird dies anhand von Aktivator-Inhibitor-Systemen veranschaulicht. Zudem wurde anhand einer lokalen Optimierungsmethode die optimale Vorschubgeschwindigkeit eines Wasserstrahlschneiders bestimmt.</abstract>
+                    <subject lang="ger">
+                        <topic>Optimale Steuerprozesse</topic>
+                        <topic>Instantane Kontrolle</topic>
+                        <topic>bang-bang singulär</topic>
+                        <topic>partielle DGL</topic>
+                        <topic>Aktivator-Inhibitor-Systeme</topic>
+                        <topic>Abrasiv-Wasserstrahlschneiden</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20689394178</identifier>
+                    <identifier type="sys">HT014920375</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bdeb39a4-d322-4446-a038-a729c91970cb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bdeb39a4-d322-4446-a038-a729c91970cb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bdeb39a4-d322-4446-a038-a729c91970cb/diss_theissen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bdeb39a4-d322-4446-a038-a729c91970cb" DMDID="DMD_bdeb39a4-d322-4446-a038-a729c91970cb">
+            <mets:fptr FILEID="FILE_bdeb39a4-d322-4446-a038-a729c91970cb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

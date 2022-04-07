@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_52f447fd-b28f-4d8e-9909-5b5c357dd9d3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Workshop &quot;c3m-II&quot; cHL-hybrid, MIRO, MOVE &amp; MIAMI</title>
+                        <subTitle>Auswahl und Einführung eines Universitätsportals</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/186139985">
+                        <displayForm>Przibytzin, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Przibytzin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-06-28</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-07-08</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, gehalten auf dem 2. gemeinsamen Workshop cHL-hybrid, MIRO, MOVE, MIAMI (c3m II) am 28.06.2006 an der Westfälischen Wilhelms-Universität Münster</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68539538850</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_52f447fd-b28f-4d8e-9909-5b5c357dd9d3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_52f447fd-b28f-4d8e-9909-5b5c357dd9d3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/52f447fd-b28f-4d8e-9909-5b5c357dd9d3/2006-06-28_c3m-II_UniPortal.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_52f447fd-b28f-4d8e-9909-5b5c357dd9d3" DMDID="DMD_52f447fd-b28f-4d8e-9909-5b5c357dd9d3">
+            <mets:fptr FILEID="FILE_52f447fd-b28f-4d8e-9909-5b5c357dd9d3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

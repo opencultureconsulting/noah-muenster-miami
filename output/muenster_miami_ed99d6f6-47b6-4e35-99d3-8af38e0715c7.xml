@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ed99d6f6-47b6-4e35-99d3-8af38e0715c7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konstruktion eines äußeren Längenmaßes auf  Banachräumen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134827635">
+                        <displayForm>Rosenberger, Burkard</displayForm>
+                        <namePart type="given">Burkard</namePart>
+                        <namePart type="family">Rosenberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-01-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-01-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zur Längenmessung in R bedient man sich des äußeren Lebesgue-Maßes. Möchte man dieses Konzept der Längenmessung auf einen beliebigen Banachraum übertragen, so ergeben sich begriffliche Schwierigkeiten, denn intuitiv ist zunächst unklar, was man unter der &quot;Länge&quot; einer mehrdimensionalen Menge verstehen soll. Nach der ausführlichen Diskussion von Anforderungen, die an ein äußeres Maß auf einem Banachraum gestellt werden sollen, damit es als geeignetes Instrument zur Längenmessung angesehen werden kann, ist das Ziel der Arbeit die Konstruktion eines äußeren Maßes, das möglichst vielen dieser Anforderungen genügt. Diese Konstruktion geschieht dabei unabhängig von der speziellen Wahl des Banachraumes. MSC 2000: 28A12, 28A75, 28A78</abstract>
+                    <note type="citation/reference">Durchgesehene, inhaltlich unveränderte Neuausgabe der Originalausgabe (Wissenschaftliche Hausarbeit zur Prüfung für das höhere Lehramt an Gymnasien, Kiel, 1994), Münster, 2004.</note>
+                    <subject lang="ger">
+                        <topic>Längenmessung</topic>
+                        <topic>Banachraum</topic>
+                        <topic>Lebesgue-Maß</topic>
+                        <topic>Hausdorff-Maß</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659522903</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ed99d6f6-47b6-4e35-99d3-8af38e0715c7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ed99d6f6-47b6-4e35-99d3-8af38e0715c7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ed99d6f6-47b6-4e35-99d3-8af38e0715c7/aeusseres-laengenmass.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ed99d6f6-47b6-4e35-99d3-8af38e0715c7" DMDID="DMD_ed99d6f6-47b6-4e35-99d3-8af38e0715c7">
+            <mets:fptr FILEID="FILE_ed99d6f6-47b6-4e35-99d3-8af38e0715c7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

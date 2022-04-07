@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7acef5b1-4bf3-4f33-812c-2ce57e66ca33">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Geschichte der Anatomischen Sammlung des Institutes für Anatomie in Münster mit besonderer Berücksichtigung ihrer historischen Modelle und Präparate</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143092723">
+                        <displayForm>Barbian, Birte</displayForm>
+                        <namePart type="given">Birte</namePart>
+                        <namePart type="family">Barbian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Filler, Timm</displayForm>
+                        <namePart type="given">Timm</namePart>
+                        <namePart type="family">Filler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-01-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-12-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Arbeit stellt die Geschichte der Anatomischen Sammlung dar, die wegen der Zerstörung des Anatomischen Institutes im 2. Weltkrieg bisher nur bedingt nachvollziehbar war. Bis heute enthält die Sammlung des Institutes für Anatomie eine Reihe von historisch wertvollen Exponaten, die während des Direktorats von Emil Ballowitz (1859 - 1936) zwischen 1905 und 1927 angeschafft wurden. Hierbei handelt es sich um Objekte der Firmen Tramond, Steger und Ziegler, die zu den historisch bedeutendsten Herstellern anatomischer Modelle und Präparate im 19. und 20. Jahrhundert zählten. Die historischen Modelle und Präparate wurden inventarisiert, beschrieben und fotografisch dokumentiert. Eine innovative, zukunftsorientierte Überführung der Anatomischen Sammlung in das 21. Jahrhundert soll angestrebt werden, um diese wieder zu einem Raum der Auseinandersetzung und Begegnung mit dem menschlichen Körper werden zu lassen.</abstract>
+                    <subject lang="ger">
+                        <topic>Anatomische Sammlung</topic>
+                        <topic>historische Modelle</topic>
+                        <topic>Emil Ballowitz</topic>
+                        <topic>Tramond</topic>
+                        <topic>Steger</topic>
+                        <topic>Ziegler</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15459554486</identifier>
+                    <identifier type="sys">HT016737396</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7acef5b1-4bf3-4f33-812c-2ce57e66ca33</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7acef5b1-4bf3-4f33-812c-2ce57e66ca33_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7acef5b1-4bf3-4f33-812c-2ce57e66ca33/diss_barbian.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7acef5b1-4bf3-4f33-812c-2ce57e66ca33" DMDID="DMD_7acef5b1-4bf3-4f33-812c-2ce57e66ca33">
+            <mets:fptr FILEID="FILE_7acef5b1-4bf3-4f33-812c-2ce57e66ca33_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

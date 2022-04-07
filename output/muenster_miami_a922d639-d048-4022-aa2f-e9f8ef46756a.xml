@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a922d639-d048-4022-aa2f-e9f8ef46756a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Immunologische Untersuchungen am Bronchialsystem</title>
+                        <subTitle>Reaktion auf Lipopolysaccharide, intrazelluläre Signalkaskaden sowie Einflüsse von Ingwer-Inhaltsstoffen und Asymmetrischem Dimethylarginin</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143714716">
+                        <displayForm>Podlogar, Julia Anna</displayForm>
+                        <namePart type="given">Julia Anna</namePart>
+                        <namePart type="family">Podlogar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143714716">
+                        <displayForm>Timmel, Julia Anna</displayForm>
+                        <namePart type="given">Julia Anna</namePart>
+                        <namePart type="family">Timmel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110848276">
+                        <displayForm>Verspohl, Eugen J.</displayForm>
+                        <namePart type="given">Eugen J.</namePart>
+                        <namePart type="family">Verspohl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-01-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-12-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der LPS-Rezeptor CD14 ist auf BEAS-2B-Bronchialepithelzellen vorhanden und wird zudem als lösliche Form sezerniert. Lipopolysaccharide führen an diesen Zellen zu verstärkter Proliferation, Aktivierung von NFkB und MAP-Kinasen sowie vermehrter Sekretion von Interleukin-8 und RANTES. Die zugrundeliegenden Signalkaskaden beinhalten bei der erhöhten Proliferation p38- und JNK-MAPK, Tyrosin- und PI3-Kinasen, bei der IL-8-Sekretion zusätzlich ERK1/2-MAPK, IRAK, NFkB sowie den IL-8-Rezeptor. Das Bronchialepithel leistet durch die Reaktion auf LPS einen wichtigen Beitrag zur angeborenen Immunität. Die LPS-induzierte Interleukin-8-Sekretion kann durch verschiedene Komponenten von Zingiber officinale (Ingwer) gehemmt werden, sodass diese eventuell für die Behandlung entzündlicher Atemwegserkrankungen in Frage kommen. Asymmetrisches Dimethylarginin hat weder auf die Zytokinsekretion von Bronchialepithelzellen noch auf die Zilienschlagfrequenz oder Kontraktion der Rattentrachea einen Einfluss.</abstract>
+                    <subject lang="ger">
+                        <topic>CD14</topic>
+                        <topic>LPS</topic>
+                        <topic>Bronchialepithel</topic>
+                        <topic>Interleukin-8</topic>
+                        <topic>ADMA</topic>
+                        <topic>Ingwer</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15459459038</identifier>
+                    <identifier type="sys">HT016735181</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a922d639-d048-4022-aa2f-e9f8ef46756a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a922d639-d048-4022-aa2f-e9f8ef46756a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a922d639-d048-4022-aa2f-e9f8ef46756a/diss_podlogar.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a922d639-d048-4022-aa2f-e9f8ef46756a" DMDID="DMD_a922d639-d048-4022-aa2f-e9f8ef46756a">
+            <mets:fptr FILEID="FILE_a922d639-d048-4022-aa2f-e9f8ef46756a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

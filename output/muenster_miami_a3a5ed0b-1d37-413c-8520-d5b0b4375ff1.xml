@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a3a5ed0b-1d37-413c-8520-d5b0b4375ff1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>staatliche Mitwirkung an gesetzesabwendenden Vereinbarungen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1986-08-15</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-10-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-10-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Deutsches Verwaltungsblatt 101 (1986) 16, 793–799</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-02479473996</identifier>
+                    <identifier type="issn">0012-1363</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a3a5ed0b-1d37-413c-8520-d5b0b4375ff1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a3a5ed0b-1d37-413c-8520-d5b0b4375ff1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a3a5ed0b-1d37-413c-8520-d5b0b4375ff1/1986_oebbe_staat.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a3a5ed0b-1d37-413c-8520-d5b0b4375ff1" DMDID="DMD_a3a5ed0b-1d37-413c-8520-d5b0b4375ff1">
+            <mets:fptr FILEID="FILE_a3a5ed0b-1d37-413c-8520-d5b0b4375ff1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

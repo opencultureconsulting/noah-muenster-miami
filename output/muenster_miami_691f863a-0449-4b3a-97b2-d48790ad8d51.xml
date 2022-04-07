@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_691f863a-0449-4b3a-97b2-d48790ad8d51">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Semantics-based locking</title>
+                        <subTitle>from isolation to cooperation</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1063138698">
+                        <displayForm>Unland, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Unland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">&apos;Advanced database applications&apos;, such as CAD/CAM, CASE, large AI applications or imageand voice processing, place demands on transaction management which differ substantially from those of traditional database applications. In particular, there is a need to support &apos;enriched&apos; data models (which include, for example, complex objects or version and configuration management), &apos;synergistic&apos; cooperative work, and application- or user-supported consistency. This paper deals with a subset of these problems. It develops a methodology for implementing semantics-based concurrency control on the basis of ordinary locking. More specifically, it will be shown how conventional locking can step by step be improved and refined to finally reach our initial goal, namely a comprehensive support of synergistic cooperative work by the exploitation of application-specific semantics. In addition to the &apos;conventional&apos; binding of locks to transactions we consider the binding of locks to objects (object related) and subjects (subject related locks). Object related locks can define persistent and adaptable access restrictions on objects. This permits, among others, the modeling of different types of version models (time versions, version graphs) as well as library (standard) objects. Subject related locks are bound to subjects (user, application, etc.) and can be used among others to supervise or direct the transfer of objects between transactions.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43599554344</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_691f863a-0449-4b3a-97b2-d48790ad8d51</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_691f863a-0449-4b3a-97b2-d48790ad8d51_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/691f863a-0449-4b3a-97b2-d48790ad8d51/031_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_691f863a-0449-4b3a-97b2-d48790ad8d51" DMDID="DMD_691f863a-0449-4b3a-97b2-d48790ad8d51">
+            <mets:fptr FILEID="FILE_691f863a-0449-4b3a-97b2-d48790ad8d51_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5b1039f5-daef-446c-8b6c-fc065dc27525">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ergebnisse der Befragungen auditierter Unternehmen und Institutionen</title>
+                        <subTitle>Kurzfassung und Ergänzung zum FFP-Arbeitspapier Nr. 3</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140166874">
+                        <displayForm>Gerlach, Irene</displayForm>
+                        <namePart type="given">Irene</namePart>
+                        <namePart type="family">Gerlach</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132890356">
+                        <displayForm>Schneider, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-10-30</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-12-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>FFP</topic>
+                    </subject>
+                    <classification authority="ddc">320</classification>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Arbeitspapier – Forschungszentrum familienbewusster Personalpolitik</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Arbeitspapier – Forschungszentrum familienbewusster Personalpolitik</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27529646767</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5b1039f5-daef-446c-8b6c-fc065dc27525</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5b1039f5-daef-446c-8b6c-fc065dc27525_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5b1039f5-daef-446c-8b6c-fc065dc27525/3_2007_ffp-arbeitspapier_kurzfassung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5b1039f5-daef-446c-8b6c-fc065dc27525" DMDID="DMD_5b1039f5-daef-446c-8b6c-fc065dc27525">
+            <mets:fptr FILEID="FILE_5b1039f5-daef-446c-8b6c-fc065dc27525_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

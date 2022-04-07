@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_321eb330-a6b5-4508-a0a9-814b24303cd3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Prevalence, Biogenesis, and Functionality of the Serine Protease Autotransporter EspP</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/104279216X">
+                        <displayForm>Weiss, André</displayForm>
+                        <namePart type="given">André</namePart>
+                        <namePart type="family">Weiss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137498993">
+                        <displayForm>Brockmeyer, Jens</displayForm>
+                        <namePart type="given">Jens</namePart>
+                        <namePart type="family">Brockmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-12-28</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-02-27</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-02-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Enterohemorrhagic E. coli (EHEC) causes severe diseases in humans worldwide. One of its virulence factors is EspP, which belongs to the serine protease autotransporters of Enterobacteriaceae (SPATE) family. In this review we recapitulate the current data on prevalence, biogenesis, structural properties and functionality. EspP has been used to investigate mechanistic details of autotransport, and recent studies indicate that this transport mechanism is not autonomous but rather dependent on additional factors. Currently, five subtypes have been identified (EspPα-EspPε), with EspPα being associated with highly virulent EHEC serotypes and isolates from patients with severe disease. EspPα has been shown to degrade major proteins of the complement cascade, namely C3 and C5 and probably interferes with hemostasis by cleavage of coagulation factor V. Furthermore, EspPα is believed to contribute to biofilm formation perhaps by polymerization to rope-like structures. Together with the proteolytic activity, EspPα might ameliorate host colonization and interfere with host response.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2012/2013 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">Toxins 5 (2013) 1, 25-48</note>
+                    <subject lang="ger">
+                        <topic>EspP</topic>
+                        <topic>EHEC</topic>
+                        <topic>virulence factor</topic>
+                        <topic>SPATE</topic>
+                        <topic>autotransporter</topic>
+                        <topic>serine protease</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17379538914</identifier>
+                    <identifier type="doi">10.3390/toxins5010025</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_321eb330-a6b5-4508-a0a9-814b24303cd3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_321eb330-a6b5-4508-a0a9-814b24303cd3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/321eb330-a6b5-4508-a0a9-814b24303cd3/toxins-05-00025.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_321eb330-a6b5-4508-a0a9-814b24303cd3" DMDID="DMD_321eb330-a6b5-4508-a0a9-814b24303cd3">
+            <mets:fptr FILEID="FILE_321eb330-a6b5-4508-a0a9-814b24303cd3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

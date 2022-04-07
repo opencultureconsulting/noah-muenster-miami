@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_85344a63-9ad9-475e-ab81-f2783a43569a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wann nützt ein Handbuch?</title>
+                        <subTitle>Eine handlungsorientierte, empirische Analyse und ihre Ergebnisse</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/17205091X">
+                        <displayForm>Dutke, Stephan</displayForm>
+                        <namePart type="given">Stephan</namePart>
+                        <namePart type="family">Dutke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1987</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-04-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Berichte des German Chapter of the ACM 29 (1987), 398-407</note>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68419460006</identifier>
+                    <identifier type="issn">0724-9764</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_85344a63-9ad9-475e-ab81-f2783a43569a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_85344a63-9ad9-475e-ab81-f2783a43569a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/85344a63-9ad9-475e-ab81-f2783a43569a/1987_dutke_handb.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_85344a63-9ad9-475e-ab81-f2783a43569a" DMDID="DMD_85344a63-9ad9-475e-ab81-f2783a43569a">
+            <mets:fptr FILEID="FILE_85344a63-9ad9-475e-ab81-f2783a43569a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

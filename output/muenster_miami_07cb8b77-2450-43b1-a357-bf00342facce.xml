@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_07cb8b77-2450-43b1-a357-bf00342facce">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Elektrokardiographische Erkennung des Therapieerfolges bei kardialer Resynchronisationstherapie mittels Body Surface Potential Mapping</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1067699252">
+                        <displayForm>Terhorst, Rabea</displayForm>
+                        <namePart type="given">Rabea</namePart>
+                        <namePart type="family">Terhorst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vahlhaus, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Vahlhaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-02-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-02-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Rate der Non-Responder bei der Kardialen Resynchronisationstherapie liegt immer noch bei etwa 30%. Ziel dieser Arbeit war es, die Frage zu klären, ob bisher nicht untersuchte elektrokardiographische Parameter aus Ableitungsorten außerhalb der herkömmlichen 12-Kanal-Registrierung mit dem CRT-Erfolg korrelieren. Untersucht wurden 20 Herzinsuffizienz- Patienten mit folgenden Charakteristika: 13 männlich, NYHA III, Alter 65±11 Jahre. Ein Anstieg der Ejektionsfraktion um mindestens 25% in der Untersuchung 6 Monate nach Implantation wurde als Response gewertet. Alle Patienten erhielten 6 Monate nach Implantation ein BSPM mit 120 Ableitelektroden, die über den kompletten Oberkörper verteilt angebracht wurden. Die R-Amplitude wurde in allen Ableitungen bestimmt. Die Responder zeigten signifikant niedrigere R-Amplituden in einer 12 cm lateral der V6-Ableitung am Rücken gelegenen Ableitung als Non-Responder (Responder: 0,18±0,10 mV, Non-Responder: 0,46±0,26 mV, p = 0,002). Bei einem cut-off-Wert von 0,24 mV zeigte sich in der ROC-Analyse eine Sensitivität von 100% und eine Spezifität von 88% für die Erkennung der CRT-Response (Fläche unter der Kurve: 0,95±0,05, p = 0,006). Schlussfolgerungen: Der Therapieerfolg der Resynchronisationstherapie korreliert mit der R-Amplitude in EKG-Ableitungen jenseits der konventionellen Elektrodenpositionen.</abstract>
+                    <subject lang="ger">
+                        <topic>Body Surface Potential Mapping</topic>
+                        <topic>Kardiale Resynchronisationstherapie (CRT)</topic>
+                        <topic>Herzinsuffizienz</topic>
+                        <topic>Elektrokardiographie</topic>
+                        <topic>R-Amplitude</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-00349411241</identifier>
+                    <identifier type="sys">HT018557937</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_07cb8b77-2450-43b1-a357-bf00342facce</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_07cb8b77-2450-43b1-a357-bf00342facce_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/07cb8b77-2450-43b1-a357-bf00342facce/diss_terhorst.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_07cb8b77-2450-43b1-a357-bf00342facce" DMDID="DMD_07cb8b77-2450-43b1-a357-bf00342facce">
+            <mets:fptr FILEID="FILE_07cb8b77-2450-43b1-a357-bf00342facce_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

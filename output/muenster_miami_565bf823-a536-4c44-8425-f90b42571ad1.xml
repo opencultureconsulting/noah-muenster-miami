@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_565bf823-a536-4c44-8425-f90b42571ad1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Equivariant homology theories for totally disconnected groups</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12437977X">
+                        <displayForm>Sauer, Juliane</displayForm>
+                        <namePart type="given">Juliane</namePart>
+                        <namePart type="family">Sauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133867072">
+                        <displayForm>Lück, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Lück</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-12-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-08-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Begriff der äquivarianten Familie von Spektren steht in Korrespondenz zu dem der äquivarianten Homologietheorie, wie er von W. Lück benutzt wird. Wir entwickeln ein allgemeines Prinzip, um äquivariante Familien von Spektren zu konstruieren. Diese Maschine kann dazu benutzt werden, viele interessante Beispiele zu definieren. Die Hauptbeispiele sind algebraische K- und L-Theorie für diskrete Gruppen, topologische K-Theorie, Hochschild Homologie, Zyklische Homologie und Periodische Homologie für total unzusammenhängende, lokalkompakte Gruppen. Im Anhang betrachten wir äquivariante K-Theorie (Kohomologie) für propere Aktionen total unzusammenhängender Gruppen. Wir zeigen, dass diese im allgemeinen nicht, wie für diskrete Gruppen, mit Hilfe von endlich-dimensionalen äquivarianten Vektorraumbündeln definiert werden können, weil Ausschneidung nicht erfüllt ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Equivariant homology theory</topic>
+                        <topic>Spaces and spectra over a category</topic>
+                        <topic>Chern character</topic>
+                        <topic>Algebraic K- and L-theory</topic>
+                        <topic>Hochschild homology</topic>
+                        <topic>Topological K-Theory</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659550053</identifier>
+                    <identifier type="sys">HT013611968</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_565bf823-a536-4c44-8425-f90b42571ad1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_565bf823-a536-4c44-8425-f90b42571ad1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/565bf823-a536-4c44-8425-f90b42571ad1/sauer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_565bf823-a536-4c44-8425-f90b42571ad1" DMDID="DMD_565bf823-a536-4c44-8425-f90b42571ad1">
+            <mets:fptr FILEID="FILE_565bf823-a536-4c44-8425-f90b42571ad1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

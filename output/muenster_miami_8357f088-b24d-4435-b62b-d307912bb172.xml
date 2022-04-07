@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8357f088-b24d-4435-b62b-d307912bb172">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the Classifying Space for the Family of Virtually Cyclic Subgroups</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132600412">
+                        <displayForm>Weiermann, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Weiermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133867072">
+                        <displayForm>Lück, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Lück</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-01-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-01-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Sei VC die Familie der virtuell zyklischen Untergruppen einer Gruppe. In der vorliegenden Arbeit werden für bestimmte Klassen diskreter Gruppen G (etwa für worthyperbolische und kristallographische) explizite Modelle des klassifizierenden Raums E_VC(G) konstruiert. Unter anderem wird die minimale Dimension abgeschätzt, die solche Modelle haben können, und es wird gezeigt, wie sich die Homologiegruppen H_n(E_VC(G);KR) einfacher berechnen lassen, die laut Farrell-Jones-Vermutung gerade die algebraische K-Theorie des Gruppenrings RG sein sollten. Im abschließenden Teil der Arbeit werden mittelbare Operationen diskreter Gruppen untersucht. Dabei wird gezeigt, dass die G-Operation auf einem G-CW-Komplex bereits dann mittelbar ist, wenn alle Isotropiegruppen ein invariantes Mittel zulassen.</abstract>
+                    <abstract lang="eng">Let VC denote the family of all virtually cyclic subgroups of a group. In this thesis, we construct explicit models for the classifying space E_VC(G) when G belongs to a certain class of discrete groups including, for example, word-hyperbolic or crystallographic groups. Among other things, we present bounds for the minimal dimension these models can have. Furthermore, we show how the homology groups H_n(E_VC(G);KR) simplify, which are, according to the Farrell-Jones conjecture, just the algebraic K-theory of the group ring RG. In the last chapter, we discuss amenable actions of discrete groups. It is proved that the G-action on a G-CW-complex is amenable provided that all isotropy groups admit an invariant mean.</abstract>
+                    <subject lang="ger">
+                        <topic>klassifizierender Raum</topic>
+                        <topic>Familie der virtuell zyklischen Untergruppen</topic>
+                        <topic>G-CW-Komplex</topic>
+                        <topic>Farrell-Jones-Vermutung</topic>
+                        <topic>äquivariante Homologietheorie</topic>
+                        <topic>mittelbare Gruppenoperation</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79599466299</identifier>
+                    <identifier type="sys">HT015021641</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8357f088-b24d-4435-b62b-d307912bb172</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8357f088-b24d-4435-b62b-d307912bb172_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8357f088-b24d-4435-b62b-d307912bb172/diss_weiermann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8357f088-b24d-4435-b62b-d307912bb172" DMDID="DMD_8357f088-b24d-4435-b62b-d307912bb172">
+            <mets:fptr FILEID="FILE_8357f088-b24d-4435-b62b-d307912bb172_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

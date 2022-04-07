@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_95e5b61d-1b41-4275-a56a-28a816b4cb97">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>HDL und HDL-assoziierte Lysosphingolipide als Regulatoren der Expression von Zelladhäsionsmolekülen in humanen vaskulären Endothelzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130674834">
+                        <displayForm>Geigenmüller, Sven</displayForm>
+                        <namePart type="given">Sven</namePart>
+                        <namePart type="family">Geigenmüller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt, Annette</displayForm>
+                        <namePart type="given">Annette</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-12-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-11-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Bindung mononukleärer Zellen und ihre transendotheliale Migration sind Merkmale der Arteriosklerose. Die Ergebnisse zeigen, dass HDL und die HDL-assoziierten Lysosphingolipide SPC und LSF die Fähigkeit besitzen, die Expression von Adhäsionsmolekülen zu unterdrücken. HDL, SPC und LSF agieren als Liganden des EDG-Rezeptors, über den die PI-3Kinase und Akt phosphoryliert werden. Dies führt zur reduzierten Translokation des Nekrosefaktors (NF) in den Zellkern und damit zur verminderten Expression von E-Selektin, ICAM-1 und VCAM-1. Diese Suppression des NF und der Adhäsionsmoleküle lassen sich durch Inhibitoren des EDG-Rezeptor und der PI-3K aufheben. Die Ergebnisse lassen den Schluss zu, dass der antiinflammatorische Effekt der HDL über eine EDG-Rezeptor ausgelöste Signalkaskade via PI-3K ? Akt ? NF verläuft und dass der antiinflammatorische Effekt von einer Kompetition der EDG-Rezeptor-induzierten Hemmung und der TNF-induzierten Stimulation der nukleären Translokation von NF abhängt.</abstract>
+                    <subject lang="ger">
+                        <topic>HDL</topic>
+                        <topic>Lysosphingolipide</topic>
+                        <topic>Adhäsionsmoleküle</topic>
+                        <topic>Nekrosefaktor</topic>
+                        <topic>PI-3 Kinase</topic>
+                        <topic>Endothelzellen</topic>
+                        <topic>Arteriosklerose</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-54619709356</identifier>
+                    <identifier type="sys">HT014593875</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_95e5b61d-1b41-4275-a56a-28a816b4cb97</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_95e5b61d-1b41-4275-a56a-28a816b4cb97_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/95e5b61d-1b41-4275-a56a-28a816b4cb97/diss_geigenmueller.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_95e5b61d-1b41-4275-a56a-28a816b4cb97" DMDID="DMD_95e5b61d-1b41-4275-a56a-28a816b4cb97">
+            <mets:fptr FILEID="FILE_95e5b61d-1b41-4275-a56a-28a816b4cb97_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

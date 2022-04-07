@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cfa0d7ef-f60f-43ee-aec7-30cc1ba0404a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Proceedings of the 1st Interdisciplinary Conference on Applied Soft-Computing</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/107805147X">
+                        <displayForm>Hauke, Sascha</displayForm>
+                        <namePart type="given">Sascha</namePart>
+                        <namePart type="family">Hauke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heider, Dominik</displayForm>
+                        <namePart type="given">Dominik</namePart>
+                        <namePart type="family">Heider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pyka, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Pyka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-30</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-03-31</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">The ICASC aim to offer a presentation and networking platform for people who apply soft computing techniques (e.g. neural networks, genetic algorithms, genetic programming, agent simulations, fuzzy systems) to solve computational problems that are either concerned with real life problems or with scientific questions about the organisation of complex structures (like the organisation of natural, emergent or artifical networks).</abstract>
+                    <subject lang="ger">
+                        <topic>Proceedings</topic>
+                        <topic>Conference</topic>
+                        <topic>Soft-Computing</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95569646375</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cfa0d7ef-f60f-43ee-aec7-30cc1ba0404a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cfa0d7ef-f60f-43ee-aec7-30cc1ba0404a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cfa0d7ef-f60f-43ee-aec7-30cc1ba0404a/01_2008_icasc_conference.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cfa0d7ef-f60f-43ee-aec7-30cc1ba0404a" DMDID="DMD_cfa0d7ef-f60f-43ee-aec7-30cc1ba0404a">
+            <mets:fptr FILEID="FILE_cfa0d7ef-f60f-43ee-aec7-30cc1ba0404a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b016b012-76f2-4b9d-ae85-021c3441b8c1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Suche nach differentiell exprimierten Genen in der frühen Augenanlage des Hühnchenembryos</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1029275718">
+                        <displayForm>Stoll, Silke</displayForm>
+                        <namePart type="given">Silke</namePart>
+                        <namePart type="family">Stoll</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klämbt, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Klämbt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-04-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mit dieser Arbeit sollten differentiell exprimierte Gene in der frühen Augenanlage des Hühnchenembryos identifiziert werden. Dafür wurde die Technik des Differential Display im Labor etabliert, welche einen parallelen systematischen Vergleich verschiedener Proben mit sehr wenig Ausgangsmaterial ermöglicht. Dadurch können neue und bisher nicht annotierte Gene oder ESTs anhand limitierter Materialmengen bei relativ geringem Kostenfaktor, im Vergleich zur &#132;Gene-Chip&#147; Technologie, gefunden werden. Die aus der Differential Display Analyse resultierenden Kandidatengene wurden sequenziert und durch &#132;whole mount&#147; in situ Hybridisierung wurde deren gewebsspezifisches Expressionsmuster charakterisiert. Zunächst gemachte Vermutungen bezüglich einer differentiellen Expression konnten nicht bestätigt werden. Aufgrund einer seit Januar 2003 zugänglichen Hühnchen EST-Datenbank konnten die verschiedenen Proben jedoch reellen Hühnchen-m-RNAs zugeordnet werden. Das ermöglicht weitere Untersuchungen, z. B. mit der &#132;Real-time-PCR&#147;.</abstract>
+                    <subject lang="ger">
+                        <topic>Differential display</topic>
+                        <topic>In situ Hybridisierung</topic>
+                        <topic>Augenanlage</topic>
+                        <topic>Hühnchen</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659547119</identifier>
+                    <identifier type="sys">HT013756071</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b016b012-76f2-4b9d-ae85-021c3441b8c1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b016b012-76f2-4b9d-ae85-021c3441b8c1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b016b012-76f2-4b9d-ae85-021c3441b8c1/diss_silke_stoll.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b016b012-76f2-4b9d-ae85-021c3441b8c1" DMDID="DMD_b016b012-76f2-4b9d-ae85-021c3441b8c1">
+            <mets:fptr FILEID="FILE_b016b012-76f2-4b9d-ae85-021c3441b8c1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3b7fcbb5-c62c-459f-9453-7d84066cb6bc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kurze Geschichte des Universitätsarchivs Münster</title>
+                        <subTitle>Vortrag anlässlich des Festaktes zum 100-jährigen Jubiläum des Universitätsarchivs Münster am 5. September 2012</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121158705">
+                        <displayForm>Happ, Sabine</displayForm>
+                        <namePart type="given">Sabine</namePart>
+                        <namePart type="family">Happ</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-11-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Vortrag behandelt im Überblick die Geschichte des Universitätsarchivs Münster von seiner Entstehung durch Senatsbeschluss vom 12. Juni 1912 bis in die Gegenwart. Die verschiedenen Universitätsarchivare und Geschäftsführer sowie ihr Wirken für das Archiv werden vorgestellt. Neben der personellen Ausstattung ist die räumliche Unterbringung, nicht zuletzt vor dem Hintergrund der Kriegseinwirkungen, ein wichtiger Gesichtspunkt. Daneben werden die Bestandsgröße, die rechtlichen Grundlagen, die mit dem Archiv befassten Gremien, die Beziehungen zu den anderen Universitätseinrichtungen und den übrigen Archiven Münsters sowie die derzeitige Situation und aktuelle Entwicklungen thematisiert.</abstract>
+                    <subject lang="ger">
+                        <topic>Münster &lt;Westfalen&gt;</topic>
+                        <topic>Universität</topic>
+                        <topic>Universitätsarchiv Münster</topic>
+                        <topic>Geschichte 1912-2012</topic>
+                        <topic>Jubiläum</topic>
+                        <topic>Vortrag</topic>
+                    </subject>
+                    <classification authority="ddc">606</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45309557013</identifier>
+                    <identifier type="sys">HT019454488</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3b7fcbb5-c62c-459f-9453-7d84066cb6bc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3b7fcbb5-c62c-459f-9453-7d84066cb6bc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3b7fcbb5-c62c-459f-9453-7d84066cb6bc/geschichte_ua_muenster_happ.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3b7fcbb5-c62c-459f-9453-7d84066cb6bc" DMDID="DMD_3b7fcbb5-c62c-459f-9453-7d84066cb6bc">
+            <mets:fptr FILEID="FILE_3b7fcbb5-c62c-459f-9453-7d84066cb6bc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

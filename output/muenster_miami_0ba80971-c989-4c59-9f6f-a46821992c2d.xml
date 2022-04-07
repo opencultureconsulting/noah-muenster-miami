@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0ba80971-c989-4c59-9f6f-a46821992c2d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An ample geometry of finite rank</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1154797309">
+                        <displayForm>Müller, Isabel</displayForm>
+                        <namePart type="given">Isabel</namePart>
+                        <namePart type="family">Müller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1022191195">
+                        <displayForm>Tent, Katrin</displayForm>
+                        <namePart type="given">Katrin</namePart>
+                        <namePart type="family">Tent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1022191195">
+                        <displayForm>Tent, K.</displayForm>
+                        <namePart type="given">K.</namePart>
+                        <namePart type="family">Tent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-03-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-09-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zil&apos;bers berühmte Trichotomie-Vermutung besagt, dass jede streng minimale Theorie entweder trivial, vektorraumartig oder körperartig ist. Hrushovski widerlegte diese Vermutung und aufbauend darauf definierte Pillay mit Korrekturen durch Evans eine ganze Hierarchie neuer Geometrien. Unlängst haben Baudisch, Pizarro und Ziegler, und unabhängig Tent, Beispiele konstruiert, die beweisen, dass diese Hierarchy strikt ist. Während diese Beispiele unendlichen Morleyrang haben, blieb die Frage ob man streng minimale Theorien von endlichem Morleyrang in der Hierarchie finden kann, die weder vektorraumartig sind, noch einen unendlichen Körper interpretieren, für mehr als fünfzehn Jahre offen. In dieser Dissertation unter Betreuung von Katrin Tent stellen wir eine solche streng minimale Theorie vor. Wir zeigen weiter, dass keine unendlichen Gruppen in deren Theorie definierbar sind und dass deren Automorphismengruppe einfach ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Modelltheorie</topic>
+                        <topic>Zil&apos;bers Trichotomie Vermutung</topic>
+                        <topic>üppige Hierarchie</topic>
+                        <topic>Hrushovski-Konstruktionen</topic>
+                        <topic>streng minimale Theorien</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-19129622790</identifier>
+                    <identifier type="sys">HT019628581</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0ba80971-c989-4c59-9f6f-a46821992c2d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0ba80971-c989-4c59-9f6f-a46821992c2d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0ba80971-c989-4c59-9f6f-a46821992c2d/diss_mueller_isabel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0ba80971-c989-4c59-9f6f-a46821992c2d" DMDID="DMD_0ba80971-c989-4c59-9f6f-a46821992c2d">
+            <mets:fptr FILEID="FILE_0ba80971-c989-4c59-9f6f-a46821992c2d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

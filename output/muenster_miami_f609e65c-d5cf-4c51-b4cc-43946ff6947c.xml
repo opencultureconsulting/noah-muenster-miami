@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f609e65c-d5cf-4c51-b4cc-43946ff6947c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Studies on CBL-interacting protein kinases with a focus on phosphorylation events</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="alternative">
+                        <title>Studies on CBL interacting protein kinases with a focus on phosphorylation events</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1112209220">
+                        <displayForm>Becker, Katia</displayForm>
+                        <namePart type="given">Katia</namePart>
+                        <namePart type="family">Becker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1199570133">
+                        <displayForm>Kudla, Jörg</displayForm>
+                        <namePart type="given">Jörg</namePart>
+                        <namePart type="family">Kudla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-08-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-07-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">CBL-interagierende Proteinkinasen (CIPKs) spielen eine Rolle in abiotischen Stressantworten in Pflanzen. Diese Arbeit beschäftigt sich mit Funktionen und Regulation von CIPKs aus der Modellpflanze Arabidopsis thaliana. Vergleichende Untersuchungen von Phosphorylierungsereignissen in Arabidopsis und in heterolog exprimierten CIPKs zeigten, dass diese Kinasefamilie in allen bekannten funktionalen Domänen und sowohl an konservierten als auch nicht-konservierten Aminosäuren phosphoryliert wird. Mittels molekularbiologischer Methoden wurden mögliche Funktionen der identifizierten Phosphorylierungsstellen in CIPK24 untersucht. Um zudem Informationen über bisher unbekannte Funktionen von CIPKs in vivo zu erlangen, wurden Mehrfach-Funktionsverlust-Mutanten verschiedener CIPKs generiert und eine Vierfach-Mutante initial charakterisiert. Des Weiteren wurde die Funktion von CIPK15 bei der Regulation des stressregulierten Transkriptionsfaktors ATHB6 mittels Phosphorylierung untersucht.</abstract>
+                    <subject lang="ger">
+                        <topic>Proteinkinase</topic>
+                        <topic>Phosphorylierung</topic>
+                        <topic>CIPK</topic>
+                        <topic>abiotischer Stress</topic>
+                        <topic>Arabidopsis</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-54299719082</identifier>
+                    <identifier type="sys">HT019071371</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f609e65c-d5cf-4c51-b4cc-43946ff6947c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f609e65c-d5cf-4c51-b4cc-43946ff6947c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f609e65c-d5cf-4c51-b4cc-43946ff6947c/diss_becker_katia.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f609e65c-d5cf-4c51-b4cc-43946ff6947c" DMDID="DMD_f609e65c-d5cf-4c51-b4cc-43946ff6947c">
+            <mets:fptr FILEID="FILE_f609e65c-d5cf-4c51-b4cc-43946ff6947c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

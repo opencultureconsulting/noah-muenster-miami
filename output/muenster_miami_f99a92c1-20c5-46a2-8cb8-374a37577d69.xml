@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f99a92c1-20c5-46a2-8cb8-374a37577d69">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Olympischen Spiele von Antiochia: Zur Geschichte eines Agons im spätantiken Imperium</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122202643">
+                        <displayForm>Hahn, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Hahn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-04-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Gutsfeld, Andreas (Hrsg.): Der gymnische Agon in der Spätantike. Gutenberg : Computus-Dr., Satz &amp; Verl., 2013, S. 75-92. (Pietas ; 6), ISBN 978-3-940598-18-9</note>
+                    <note type="ownership">Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Verlages Computus.</note>
+                    <subject lang="ger">
+                        <topic>Olympia</topic>
+                        <topic>Antiochia</topic>
+                        <topic>Spätantike</topic>
+                        <topic>Christianisierung</topic>
+                        <topic>Tempel</topic>
+                        <topic>Fest</topic>
+                        <topic>Exzellenzcluster Religion und Politik</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Olympia</topic>
+                        <topic>Antioch</topic>
+                        <topic>Late Antiquity</topic>
+                        <topic>Christianisation</topic>
+                        <topic>Temple</topic>
+                        <topic>Festival</topic>
+                        <topic>Cluster of Excellence Religion and Politics</topic>
+                    </subject>
+                    <classification authority="ddc">930</classification>
+                    <classification authority="ddc">306</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12279435110</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f99a92c1-20c5-46a2-8cb8-374a37577d69</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f99a92c1-20c5-46a2-8cb8-374a37577d69_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f99a92c1-20c5-46a2-8cb8-374a37577d69/hahn_2013_olymp-spiele.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f99a92c1-20c5-46a2-8cb8-374a37577d69" DMDID="DMD_f99a92c1-20c5-46a2-8cb8-374a37577d69">
+            <mets:fptr FILEID="FILE_f99a92c1-20c5-46a2-8cb8-374a37577d69_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d6ff8a55-f229-4581-8684-922d890ca73b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zentren für Lehrerbildung – wissenschaftliche Einrichtungen mit Profil</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gabler, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Gabler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114493057">
+                        <displayForm>Hilligus, Annegret Helen</displayForm>
+                        <namePart type="given">Annegret Helen</namePart>
+                        <namePart type="family">Hilligus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115635661">
+                        <displayForm>Pitton, Anja</displayForm>
+                        <namePart type="given">Anja</namePart>
+                        <namePart type="family">Pitton</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-05-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright bei den Autoren</note>
+                    <note type="citation/reference">Vortrag auf dem 1. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 12.-14. März 2007 in Münster</note>
+                    <subject lang="ger">
+                        <topic>Institutionalisierung der Zentren für Lehrerbildung</topic>
+                        <topic>standortspezifische Aufgabenprofile</topic>
+                        <topic>Entwicklungsagentur</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99519550927</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d6ff8a55-f229-4581-8684-922d890ca73b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d6ff8a55-f229-4581-8684-922d890ca73b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d6ff8a55-f229-4581-8684-922d890ca73b/Gabler-Hilligus-Pitton.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d6ff8a55-f229-4581-8684-922d890ca73b" DMDID="DMD_d6ff8a55-f229-4581-8684-922d890ca73b">
+            <mets:fptr FILEID="FILE_d6ff8a55-f229-4581-8684-922d890ca73b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

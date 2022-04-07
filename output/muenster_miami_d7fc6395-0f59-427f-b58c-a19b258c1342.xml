@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d7fc6395-0f59-427f-b58c-a19b258c1342">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulare Epidemiologie des sfpG-Gens in Escherichia coli</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136507778">
+                        <displayForm>Pfüller, Annette Christina</displayForm>
+                        <namePart type="given">Annette Christina</namePart>
+                        <namePart type="family">Pfüller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110186516">
+                        <displayForm>Karch, Helge</displayForm>
+                        <namePart type="given">Helge</namePart>
+                        <namePart type="family">Karch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-09-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Sorbitol-fermentierenden (SF) enterohämorrhagischen E. coli (EHEC) O157:H- werden in Deutschland als zweithäufigstes Serovar bei Patienten mit hämolytisch-urämischem Syndrom (HUS) nachgewiesen. Als genetische Besonderheit weisen SF EHEC O157 das sfp-Operon auf, das nach derzeitigem Kenntnisstand für Fimbrien (sfpA) und ein Hämagglutinin (sfpG) kodiert. In der vorliegenden Arbeit wurde erstmals die molekulare Epidemiologie des sfpG analysiert. Hierzu wurden 365 E. coli-Isolate verschiedener Herkunft untersucht. Zunächst wurde eine PCR-Strategie entwickelt, um die sfp-Gene nachzuweisen. Die Spezifität der PCR wurde mittels DNA-Sequenzierung verifiziert. Auf Grund der hohen Spezifität bietet die neu etablierte Methode die Möglichkeit für den diagnostischen Nachweis von SF EHEC O157:H- und ermöglicht eine eindeutige Differenzierung gegenüber E. coli O157:H7 und anderen Serovaren innerhalb der Spezies E. coli.</abstract>
+                    <subject lang="ger">
+                        <topic>Molekular</topic>
+                        <topic>Epidemiologie</topic>
+                        <topic>sfpG-Gen</topic>
+                        <topic>Escherichia coli</topic>
+                        <topic>EHEC</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33569646820</identifier>
+                    <identifier type="sys">HT015772645</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d7fc6395-0f59-427f-b58c-a19b258c1342</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d7fc6395-0f59-427f-b58c-a19b258c1342_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d7fc6395-0f59-427f-b58c-a19b258c1342/diss_pfueller.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d7fc6395-0f59-427f-b58c-a19b258c1342" DMDID="DMD_d7fc6395-0f59-427f-b58c-a19b258c1342">
+            <mets:fptr FILEID="FILE_d7fc6395-0f59-427f-b58c-a19b258c1342_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

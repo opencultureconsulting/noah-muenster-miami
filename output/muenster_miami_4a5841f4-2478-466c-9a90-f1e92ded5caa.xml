@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4a5841f4-2478-466c-9a90-f1e92ded5caa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bedeutung der Aminosäuremutationen C322S und C451M für die Substrataffinität und Regulation des organischen Kationentransporters Typ 1 der Ratte</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1095489690">
+                        <displayForm>Grummich, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Grummich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121484874">
+                        <displayForm>Ciarimboli, Giuliano</displayForm>
+                        <namePart type="given">Giuliano</namePart>
+                        <namePart type="family">Ciarimboli</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-04-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-03-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Für den Transport organischer Kationen durch die Zellmembran sind org. Kationentransporter von Bedeutung. Die Auswirkung der Substitution des Cysteins in der Aminosäurekettenposition 322 (C322S) und/oder 451 (C451M) mit Serin bzw. Methionin auf die Funktion und Regulation des org. Kationentransporters Typ 1 der Ratte (rOCT1) wurde untersucht. Dazu maßen wir die Aktivität des rOCT1, nach seiner stabilen Transfektion in HEK293-Zellen, über die Geschwindigkeit der zellulären Aufnahme seines fluoreszierenden Substrates ASP+ mittels Fluoreszenzmikroskopie. Wir konnten nachweisen, dass sich die Affinität des rOCT1 für die Kationen ASP+, TEA+ und TPA+ durch die Doppelmutation (C322S/C451M) nicht ändert während eine Inhibition des zellulären Calmodulins seine apparente Affinität für das organische Kation TPA+ verringert. Desweiteren hebt die Mutation des C322, nicht hingegen die des C451, die Regulation des rOCT1 durch die PKC auf, während weder C322 noch C451 einen Einfluss auf seine Regulation durch die p56lck-Tyrosinkinase, Calmodulin und MMTS zu haben scheinen.</abstract>
+                    <subject lang="ger">
+                        <topic>rOCT1</topic>
+                        <topic>Cystein</topic>
+                        <topic>ASP+</topic>
+                        <topic>Calmodulin</topic>
+                        <topic>PKC</topic>
+                        <topic>MMTS</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-76239678838</identifier>
+                    <identifier type="sys">HT018930324</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4a5841f4-2478-466c-9a90-f1e92ded5caa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4a5841f4-2478-466c-9a90-f1e92ded5caa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4a5841f4-2478-466c-9a90-f1e92ded5caa/diss_grummich.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4a5841f4-2478-466c-9a90-f1e92ded5caa" DMDID="DMD_4a5841f4-2478-466c-9a90-f1e92ded5caa">
+            <mets:fptr FILEID="FILE_4a5841f4-2478-466c-9a90-f1e92ded5caa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

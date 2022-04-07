@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e7102faa-3f13-49cf-a521-9f3814327a08">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Liste der gebotenen Titel im Beitrag: &quot;Vielfalt aus Westfalen – Pflichtexemplare der ULB Münster&quot;</title>
+                        <subTitle>[Teil 1]</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-07-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Der Beitrag &quot;Vielfalt aus Westfalen – Pflichtexemplare der ULB Münster&quot; ist erschienen in: ProLibris 21.2016, Heft 2, S. 68-72, Onlineausgabe unter http://nbn-resolving.de/urn:nbn:de:hbz:6-91209500874.</note>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-65289473489</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e7102faa-3f13-49cf-a521-9f3814327a08</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e7102faa-3f13-49cf-a521-9f3814327a08_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e7102faa-3f13-49cf-a521-9f3814327a08/flachmann_titel_pflichtex_2016.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e7102faa-3f13-49cf-a521-9f3814327a08" DMDID="DMD_e7102faa-3f13-49cf-a521-9f3814327a08">
+            <mets:fptr FILEID="FILE_e7102faa-3f13-49cf-a521-9f3814327a08_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_00ad8d69-3218-48c8-9912-7419c4f4358f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Lehrerschaft der evangelischen Südschule in Hamm/Westfalen im Jahr 1919</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113382367">
+                        <displayForm>Berntzen, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Berntzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Lehrerschaft der evangelischen Südschule in Hamm/Westfalen aus dem Jahr 1919 wird berufsbiografisch beschrieben (Geburtsdaten, Ausbildungsorte, berufliche Tätigkeit vor und nach dem Stichjahr).</abstract>
+                    <note type="ownership">Copyright liegt beim Autor</note>
+                    <subject lang="ger">
+                        <topic>Lehrerbiografien</topic>
+                        <topic>berufsbiografische Forschung</topic>
+                        <topic>Schulgeschichte</topic>
+                        <topic>Hamm</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29539675674</identifier>
+                    <identifier type="sys">HT019467027</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_00ad8d69-3218-48c8-9912-7419c4f4358f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_00ad8d69-3218-48c8-9912-7419c4f4358f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/00ad8d69-3218-48c8-9912-7419c4f4358f/Die_Lehrerschaft_der_evangelischen_Suedschule_in_Hamm_im_Jahr_1919.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_00ad8d69-3218-48c8-9912-7419c4f4358f" DMDID="DMD_00ad8d69-3218-48c8-9912-7419c4f4358f">
+            <mets:fptr FILEID="FILE_00ad8d69-3218-48c8-9912-7419c4f4358f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

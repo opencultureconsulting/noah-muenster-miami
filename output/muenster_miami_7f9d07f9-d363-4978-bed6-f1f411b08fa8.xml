@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7f9d07f9-d363-4978-bed6-f1f411b08fa8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einfluss des Pertussis-Toxins auf die Migration zerebraler Endothelzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143869345">
+                        <displayForm>Schulte, Jessica</displayForm>
+                        <namePart type="given">Jessica</namePart>
+                        <namePart type="family">Schulte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1102872350">
+                        <displayForm>Schmidt, M. Alexander</displayForm>
+                        <namePart type="given">M. Alexander</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-02-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-01-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Pertussis Toxin (PT) ist der Hauptvirulenzfaktor des Bakteriums Bordetella pertussis und verfügt über eine enzymatisch aktive A Untereinheit und ein Rezeptorstrukturen bindendes B-Oligomer. Manuelle Migrationsversuche und automatisierte Echtzeitmessungen zeigten eine konzentrationsabhängige Hemmung der Migration der Hirnendothelzellen durch das Toxin. Eine PT vermittelte Reduktion der Migration konnte bei Hirnendothel-, Gliom- sowie Epithelzellen festgestellt werden, so dass ein zelltypspezifischer Effekt ausgeschlossen werden kann. Bei der Herunterregulierung der Expression von Claudin-1, Occludin, PKCα, PKC, Gαi-2, Gαi-3, PAR-3, PAR-6, MMP-2 und MMP-9 können für alle Proteine inhibierende Effekte auf die Migration festgestellt werden, was eine mögliche Beteiligung an den Regulationsmechanismen des Migrationsprozesses anzeigt. Ein Effekt des Pertussis Toxins auf die Proliferation von HBMEC kann in automatisierten Echtzeitmessungen ausgeschlossen werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Bordetella pertussis</topic>
+                        <topic>Pertussis Toxin</topic>
+                        <topic>Hirnendothelzellen</topic>
+                        <topic>Migration</topic>
+                        <topic>Wundheilung</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-75409676455</identifier>
+                    <identifier type="sys">HT016758750</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7f9d07f9-d363-4978-bed6-f1f411b08fa8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7f9d07f9-d363-4978-bed6-f1f411b08fa8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7f9d07f9-d363-4978-bed6-f1f411b08fa8/diss_schulte_jessica.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7f9d07f9-d363-4978-bed6-f1f411b08fa8" DMDID="DMD_7f9d07f9-d363-4978-bed6-f1f411b08fa8">
+            <mets:fptr FILEID="FILE_7f9d07f9-d363-4978-bed6-f1f411b08fa8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

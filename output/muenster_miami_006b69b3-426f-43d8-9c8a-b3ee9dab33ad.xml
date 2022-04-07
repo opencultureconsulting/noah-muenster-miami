@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_006b69b3-426f-43d8-9c8a-b3ee9dab33ad">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulargenetische Untersuchungen zum Abbau pflanzlicher Zellwände durch den phytopathogenen Pilz &quot;Fusarium graminearum&quot;</title>
+                        <subTitle>Cellulasen und ihre Regulation</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129287148">
+                        <displayForm>Bauknecht, Heiko</displayForm>
+                        <namePart type="given">Heiko</namePart>
+                        <namePart type="family">Bauknecht</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1214769772">
+                        <displayForm>Moerschbacher, Bruno</displayForm>
+                        <namePart type="given">Bruno</namePart>
+                        <namePart type="family">Moerschbacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-08-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-07-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Genom des phytopathogenen Pilzes Fusarium graminearum konnten 24 Gene identifiziert werden, deren Proteinprodukte Homologien zu Cellulasen aufweisen. Die Transkription von zwei Exo- (cel6 und cel7A) und zwei Endocellulasegenen (cel7B und cel45) war über Cellulose und Weizenzellwand induzierbar, während Glukose in der Regel zu keiner Induktion führte. Die Transkription von drei der vier untersuchten Gene konnte auch während der Infektion von Weizenpflanzen nachgewiesen werden (cel6, cel7A und cel45). Eine Beteiligung dieser Cellulasen am Infektionsprozess ist daher wahrscheinlich. Der Transkriptionsfaktor ACEI ist an der Regulation von Cellulasegenen beteiligt. Das Gen dieses Faktors wurde im Genom von F. graminearum identifiziert, sequenziert und charakterisiert. Das Ausschalten des konstitutiv transkribierten Gens des Transkriptionsfaktors ACEI in F. graminearum führte auf Weizenpflanzen zu einer erhöhten Virulenz der Mutante im Vergleich zum Wildtyp.</abstract>
+                    <subject lang="ger">
+                        <topic>Fusarium graminearum</topic>
+                        <topic>Cellulase</topic>
+                        <topic>ace1</topic>
+                        <topic>Zellwand</topic>
+                        <topic>Phytopathogen</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29609546356</identifier>
+                    <identifier type="sys">HT014127717</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_006b69b3-426f-43d8-9c8a-b3ee9dab33ad</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_006b69b3-426f-43d8-9c8a-b3ee9dab33ad_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/006b69b3-426f-43d8-9c8a-b3ee9dab33ad/bauknecht2004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_006b69b3-426f-43d8-9c8a-b3ee9dab33ad" DMDID="DMD_006b69b3-426f-43d8-9c8a-b3ee9dab33ad">
+            <mets:fptr FILEID="FILE_006b69b3-426f-43d8-9c8a-b3ee9dab33ad_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3dc5f5b9-91b2-4aef-8da3-bc309b1763ff">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>QT-Syndrom vom Typ 2</title>
+                        <subTitle>Genotyp und Phänotyp</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135601932">
+                        <displayForm>Beideck, Jochen</displayForm>
+                        <namePart type="given">Jochen</namePart>
+                        <namePart type="family">Beideck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120248107">
+                        <displayForm>Schulze-Bahr, Eric</displayForm>
+                        <namePart type="given">Eric</namePart>
+                        <namePart type="family">Schulze-Bahr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120248107">
+                        <displayForm>Bahr, Eric Schulze-</displayForm>
+                        <namePart type="given">Eric Schulze-</namePart>
+                        <namePart type="family">Bahr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-04-02</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-03-31</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In diese Studie wurden 127 Patienten mit molekulargenetisch bestätigtem LQT2-Syndrom eingeschlossen. Anamnestisch wurde erfasst, ob und wann es erstmals zu Symptomen gekommen war und welche Anfallstrigger für Kammertachykardien sich zeigten. An Hand von EKGs wurden die QTc-Zeiten und die T-Wellen-Morphologien ermittelt. Aus den gewonnenen Daten wurden zudem Schwartz-Scores errechnet. Die Daten wurden unter Berücksichtigung von Alter und Geschlecht ausgewertet. Symptomatische Verläufe waren bei weiblichen Patienten und mit länger werdenden QTc-Zeiten signifikant häufiger. Signifikant längere QTc-Zeiten und höhere Schwartz-Scores hatten weibliche und symptomatische Patienten. Das ereignisfreie Überleben unterschied sich signifikant bezüglich der QTc-Zeiten und der Anfallstrigger. Wir fanden 19 LQT2-Patienten mit QTc-Zeiten unter 440ms1/2, von denen 63% einen Schwartz-Score von bis zu 1,5 aufwiesen und deren Diagnose damit ohne molekulargenetische Untersuchung nicht gestellt worden wäre.</abstract>
+                    <subject lang="ger">
+                        <topic>LQT-Syndrom</topic>
+                        <topic>Molekulargenetik</topic>
+                        <topic>ventrikuläre Arrhythmien</topic>
+                        <topic>Diagnosekriterien</topic>
+                        <topic>torsade de pointes</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-65569466267</identifier>
+                    <identifier type="sys">HT015563066</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3dc5f5b9-91b2-4aef-8da3-bc309b1763ff</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3dc5f5b9-91b2-4aef-8da3-bc309b1763ff_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3dc5f5b9-91b2-4aef-8da3-bc309b1763ff/diss_beideck.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3dc5f5b9-91b2-4aef-8da3-bc309b1763ff" DMDID="DMD_3dc5f5b9-91b2-4aef-8da3-bc309b1763ff">
+            <mets:fptr FILEID="FILE_3dc5f5b9-91b2-4aef-8da3-bc309b1763ff_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

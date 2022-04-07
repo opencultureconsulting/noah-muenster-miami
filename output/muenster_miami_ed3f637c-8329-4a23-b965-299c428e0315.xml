@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ed3f637c-8329-4a23-b965-299c428e0315">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gelderse Poort: Ziele, Probleme und Bewertungen eines grenzüberschreitenden niederländisch-deutschen Naturentwicklungsprojektes</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137082479">
+                        <displayForm>Mayr, Alois</displayForm>
+                        <namePart type="given">Alois</namePart>
+                        <namePart type="family">Mayr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123535484">
+                        <displayForm>Miggelbrink, Judith</displayForm>
+                        <namePart type="given">Judith</namePart>
+                        <namePart type="family">Miggelbrink</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1016277288">
+                        <displayForm>Smit, Jan G.</displayForm>
+                        <namePart type="given">Jan G.</namePart>
+                        <namePart type="family">Smit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-07-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Der vorliegende Beitrag ist die erweiterte Fassung eines Kolloquiumsvortrags
+am 30.10.1995 im Zentrum für Niederlande-Studien in Münster.</note>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>93</start>
+                                <end>126</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37199520686</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ed3f637c-8329-4a23-b965-299c428e0315</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ed3f637c-8329-4a23-b965-299c428e0315_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ed3f637c-8329-4a23-b965-299c428e0315/jahrbuch_zns_1996-1997_7-8_93-126.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ed3f637c-8329-4a23-b965-299c428e0315" DMDID="DMD_ed3f637c-8329-4a23-b965-299c428e0315">
+            <mets:fptr FILEID="FILE_ed3f637c-8329-4a23-b965-299c428e0315_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,224 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:3a97dd31-1490-4d04-8d3b-d77ce226ccfc" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:34:18">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_3a97dd31-1490-4d04-8d3b-d77ce226ccfc">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">A duality transform for realizing convex polytopes with small integer coordinates</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1084651831">
+                    <mods:namePart type="given">Alexander</mods:namePart>
+                    <mods:namePart type="family">Igamberdiev</mods:namePart>
+                    <mods:namePart type="date">1989-</mods:namePart>
+                    <mods:displayForm>Igamberdiev, Alexander</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/136261604">
+                    <mods:namePart type="given">André</mods:namePart>
+                    <mods:namePart type="family">Schulz</mods:namePart>
+                    <mods:namePart type="date">1977-</mods:namePart>
+                    <mods:displayForm>Schulz, André</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2016</mods:dateIssued>
+                    <mods:dateOther>2016-02-11</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2016-03-01</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-03-01</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Wir entwickeln eine Dualitätstransformation für Polyeder, die eine Einbettung auf dem polynomiellen Gitter berechnet, wenn das ursprüngliche Polyeder auf einem polynomiellen  Gitter gegeben ist. Die Konstruktion erfordert einen beschränkten Knotengrad des Polytop-Graphen, funktioniert aber im allgemeinen Fall für die Klasse der Stapelpolytope. Als Konsequenz können wir zeigen, dass sich die "Truncated Polytopes" auf einem polynomiellen Gitter realisieren lassen. Dieses Ergebnis gilt für jede (feste) Dimension.</mods:abstract>
+                  <mods:abstract lang="eng">We study realizations of convex polytopes with small integer coordinates. We develop an efficient duality transform, that allows us to go from an efficient realization of a convex polytope to an efficient realization of its dual.Our methods prove to be especially efficient for realizing the class of polytopes dual to stacked polytopes, known as truncated polytopes. We show that every 3d truncated polytope with n vertices can be realized on an integer grid of size O(n^(9lg(6)+1)), and in R^d the required grid size is n^(O(d^2*lg(d))). The class of truncated polytopes is only the second nontrivial class of polytopes, the first being the class of stacked polytopes, for which realizations on a polynomial size integer grid are known to exists.</mods:abstract>
+                  <mods:tableOfContents lang="eng">Introduction 1&#13;
+Main results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3&#13;
+Main tool and further results . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4&#13;
+Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8&#13;
+1 Methods for realizing planar graphs: overview 11&#13;
+2 Efficient duality transforms in R3 17&#13;
+2.1 Preliminaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17&#13;
+2.1.1 Graphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17&#13;
+2.1.2 Convex polytopes and polytopal surfaces . . . . . . . . . . . . . . . . . 18&#13;
+2.2 Equilibrium stresses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21&#13;
+2.2.1 Maxwell–Cremona lifting and the canonical equilibrium stress . . . . . . 21&#13;
+2.2.2 Wheel-decomposition for equilibrium stresses . . . . . . . . . . . . . . . 23&#13;
+2.2.3 An efficient reverse of the Maxwell–Cremona lifting . . . . . . . . . . . . 25&#13;
+2.3 Braced stresses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27&#13;
+2.3.1 Definition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27&#13;
+2.3.2 Canonical braced stresses . . . . . . . . . . . . . . . . . . . . . . . . . . 28&#13;
+2.3.3 Braced stresses and equilibrium stresses: flat embeddings . . . . . . . . 28&#13;
+2.3.4 Braced stresses and stresses of braced graphs . . . . . . . . . . . . . . . 29&#13;
+2.3.5 Scalability of braced stresses . . . . . . . . . . . . . . . . . . . . . . . . 30&#13;
+2.3.6 Projective equivalence with equilibrium stresses . . . . . . . . . . . . . . 31&#13;
+2.3.7 Free lunch: wheel-decomposition for braced stresses . . . . . . . . . . . 32&#13;
+2.3.8 Free lunch: projective properties of equilibrium stresses . . . . . . . . . 34&#13;
+2.3.9 Canonical braced stresses as Hessians of volume . . . . . . . . . . . . . . 36&#13;
+2.3.10 Orthogonal projection of the canonical braced stresses . . . . . . . . . . 37&#13;
+2.4 Lov´asz lifting procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43&#13;
+2.4.1 Lov´asz dual transform . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43&#13;
+2.4.2 Lov´asz lifting procedure: convex case . . . . . . . . . . . . . . . . . . . . 44&#13;
+2.4.3 Lov´asz lifting procedure: general case . . . . . . . . . . . . . . . . . . . 45&#13;
+2.4.4 Geometry of the wheel-decomposition . . . . . . . . . . . . . . . . . . . 46&#13;
+2.4.5 Geometry of the wheel-decomposition: equilibrium stresses . . . . . . . 49&#13;
+2.5 Duality transforms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53&#13;
+2.5.1 High level description . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53&#13;
+2.5.2 The stacking approach . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54&#13;
+2.5.3 A duality transform for general simplicial polytopes . . . . . . . . . . . 59&#13;
+3 Prismatoid 63&#13;
+3.0.1 Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63&#13;
+3.0.2 Realization of the (k,m)-prismatoid . . . . . . . . . . . . . . . . . . . . 64&#13;
+4 Efficient duality transforms in Rd 73&#13;
+4.1 Preliminaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73&#13;
+4.1.1 Combinatorics and notation of d-polytopes: overview . . . . . . . . . . . 73&#13;
+4.1.2 Conventions on orientations . . . . . . . . . . . . . . . . . . . . . . . . . 76&#13;
+4.1.3 Orientation on faces of a polytope . . . . . . . . . . . . . . . . . . . . . 78&#13;
+4.1.4 Volumes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78&#13;
+4.1.5 Realizations of polytopes . . . . . . . . . . . . . . . . . . . . . . . . . . 79&#13;
+4.2 Approaches to stresses in higher dimensions . . . . . . . . . . . . . . . . . . . . 82&#13;
+4.2.1 Equilibrium stress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82&#13;
+4.2.2 Braced stress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83&#13;
+4.2.3 From equilibrium stresses to braced stresses and back . . . . . . . . . . 88&#13;
+4.2.4 Scalability of braced stresses . . . . . . . . . . . . . . . . . . . . . . . . 89&#13;
+4.2.5 Canonical braced stress . . . . . . . . . . . . . . . . . . . . . . . . . . . 90&#13;
+4.3 Maxwell–Cremona lifting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92&#13;
+4.3.1 Maxwell–Cremona lifting . . . . . . . . . . . . . . . . . . . . . . . . . . 93&#13;
+4.3.2 Canonical equilibrium stress . . . . . . . . . . . . . . . . . . . . . . . . . 95&#13;
+4.3.3 Full version of Maxwell–Cremona lifting theorem . . . . . . . . . . . . . 96&#13;
+4.3.4 Creasing formula for canonical equilibrium stress . . . . . . . . . . . . . 97&#13;
+4.4 Lov´asz construction in Rd . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101&#13;
+4.5 Realizations of truncated polytopes . . . . . . . . . . . . . . . . . . . . . . . . . 102&#13;
+4.5.1 Truncated and stacked polytopes . . . . . . . . . . . . . . . . . . . . . . 102&#13;
+4.5.2 High level description of the algorithm . . . . . . . . . . . . . . . . . . . 103&#13;
+4.5.3 Step 1: Realizations of stacked polytopes . . . . . . . . . . . . . . . . . 103&#13;
+4.5.4 Step 2: Stacking of the missing vertex . . . . . . . . . . . . . . . . . . . 108&#13;
+4.5.5 Step 3: Realizing truncated polytopes . . . . . . . . . . . . . . . . . . . 109&#13;
+4.6 Duality transform for general simplicial polytopes . . . . . . . . . . . . . . . . . 111&#13;
+4.6.1 Wheel-decomposition theorem . . . . . . . . . . . . . . . . . . . . . . . 111&#13;
+4.6.2 Duality transform for general simplicial polytopes . . . . . . . . . . . . 116&#13;
+Conclusion 119</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Diskrete Geometrie; Polytope; Gitter-Einbettungen; Dualität; Gleichgewichts-Stresse</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Discrete Geometry; Polytopes; Grid Embeddings; Duality; Equilibrium Stresses; Quantitative Steinitz Theorem</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-16279528400</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/3a97dd31-1490-4d04-8d3b-d77ce226ccfc</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:3a97dd31-1490-4d04-8d3b-d77ce226ccfc</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_3a97dd31-1490-4d04-8d3b-d77ce226ccfc">
+            <mets:rightsMD ID="RIGHTSMD_3a97dd31-1490-4d04-8d3b-d77ce226ccfc">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_3a97dd31-1490-4d04-8d3b-d77ce226ccfc">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/3a97dd31-1490-4d04-8d3b-d77ce226ccfc</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="807e46f8207f310595714de75a2e6ab09fdb8b075136d2a1c087b1a4b8900349" CREATED="2016-03-01T13:05:58" CHECKSUMTYPE="SHA-256" SIZE="1241751" ID="ID_FIL_diss_igamberdiev.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3a97dd31-1490-4d04-8d3b-d77ce226ccfc/diss_igamberdiev.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW3a97dd31-1490-4d04-8d3b-d77ce226ccfc">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/3a97dd31-1490-4d04-8d3b-d77ce226ccfc" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_3a97dd31-1490-4d04-8d3b-d77ce226ccfc" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_igamberdiev.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_igamberdiev.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_3a97dd31-1490-4d04-8d3b-d77ce226ccfc" DMDID="DMD_3a97dd31-1490-4d04-8d3b-d77ce226ccfc" ID="ID_LOG_3a97dd31-1490-4d04-8d3b-d77ce226ccfc" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_igamberdiev.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_3a97dd31-1490-4d04-8d3b-d77ce226ccfc" xlink:to="ID_PHY_3a97dd31-1490-4d04-8d3b-d77ce226ccfc"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_igamberdiev.pdf" xlink:to="ID_PHY_diss_igamberdiev.pdf"/>
+          </mets:structLink>
+        </mets:mets>

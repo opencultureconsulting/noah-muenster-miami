@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4157c22b-a45c-4242-bb18-edac9b35b2a9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grenz-Rede. Annette von Droste-Hülshoffs &quot;Klänge im Orient&quot;</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1998</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-12-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausgabe: Ribbat, Ernst (Hrsg.): Dialoge mit der Droste. Kolloquium zum 200. Geburtstag von Annette von Droste Hülshoff. Paderborn : Schöningh, 1998, ISBN 3-506-77209-0, S. 147-164</note>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Schöningh Verlages</note>
+                    <subject lang="ger">
+                        <topic>Annette von Droste Hülshoff</topic>
+                        <topic>Rede</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14399483690</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4157c22b-a45c-4242-bb18-edac9b35b2a9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4157c22b-a45c-4242-bb18-edac9b35b2a9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4157c22b-a45c-4242-bb18-edac9b35b2a9/Grenz-Rede.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4157c22b-a45c-4242-bb18-edac9b35b2a9" DMDID="DMD_4157c22b-a45c-4242-bb18-edac9b35b2a9">
+            <mets:fptr FILEID="FILE_4157c22b-a45c-4242-bb18-edac9b35b2a9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_46c0de49-81b9-44a1-8d3c-a0162f5fb909">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konzeption und prototypische Realisierung eines Informationssystems für das Prozeßmonitoring und -controlling</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/171210387">
+                        <displayForm>Rosemann, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Rosemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/186417314">
+                        <displayForm>Denecke, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Denecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/186417322">
+                        <displayForm>Püttmann, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Püttmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1996-09</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-13</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Durch die Überwachung der aktuellen Prozeßstatus (Prozeßmonitoring) sowie die Verdichtung und Gegenüberstellung dieser Istdaten mit Solldaten (Prozeßcontrolling) wird die Bewertung der Prozeßqualität möglich. Zur informationstechnischen Unterstützung dieser Aufgaben dienen Prozeßinformationssysteme. In diesem Arbeitsbericht werden nach einer Einordnung dieser Aufgaben in einem Vorgehensmodell des Prozeßmanagements Intention und Aufbau von Prozeßinformationssystemen beschrieben. Konkretisiert werden die Ausführungen durch die Vorstellung des Prototypen PISA, dessen Architektur und Funktionalität erläutert werden.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23579530487</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_46c0de49-81b9-44a1-8d3c-a0162f5fb909</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_46c0de49-81b9-44a1-8d3c-a0162f5fb909_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/46c0de49-81b9-44a1-8d3c-a0162f5fb909/049_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_46c0de49-81b9-44a1-8d3c-a0162f5fb909" DMDID="DMD_46c0de49-81b9-44a1-8d3c-a0162f5fb909">
+            <mets:fptr FILEID="FILE_46c0de49-81b9-44a1-8d3c-a0162f5fb909_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

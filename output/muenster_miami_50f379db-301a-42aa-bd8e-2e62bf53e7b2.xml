@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_50f379db-301a-42aa-bd8e-2e62bf53e7b2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Rolle mechanosensitiver Ionenkanäle für die Aktivierung pankreatischer Sternzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1202519997">
+                        <displayForm>Kuntze, Anna</displayForm>
+                        <namePart type="given">Anna</namePart>
+                        <namePart type="family">Kuntze</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1216198209">
+                        <displayForm>Schwab, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Schwab</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-01-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-12-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das pankreatische duktale Adenokarzinom (PDAC) ist charakterisiert durch einen hohen Gewebsdruck bei exzessiver Fibrose, welcher zu einer Chemoresistenz beiträgt. Pankreatische Sternzellen (PSCs) sind die Produzenten dieses desmoplastischen Gewebes. Sie werden durch den hohen Gewebsdruck aktiviert und fördern die Tumorprogression. Die in murinen PSCs exprimierten mechanosensitiven Ionenkanäle Piezo1 und TRPV4 sind Druck-sensitiv. Ihre Funktion im Rahmen des PDAC ist bisher unklar. In meinen Experimenten führt die Piezo1- und TRPV4-Aktivierung mit Yoda1 bzw. GSK106790A in murinen PSCs zu einem intrazellulären Calcium-Einstrom und zu einem erhöhten Phosphorylierungsgrad der regulatorischen Myosin-Leichtkette 9. Yoda1 erhöht zudem die zielgerichtete PSC-Migration, das Invasionsverhalten von PSCs in Sphäroiden sowie die Interaktion mit der extrazellulären Matrix. Diese Ergebnisse sind mit einer Beteiligung des Piezo1- und des TRPV4-Kanals an der druckabhängigen Aktivierung von PSCs im PDAC vereinbar.</abstract>
+                    <subject lang="ger">
+                        <topic>Pankreatisches duktales Adenokarzinom</topic>
+                        <topic>Pankreatische Sternzellen</topic>
+                        <topic>TRPV4</topic>
+                        <topic>Piezo1</topic>
+                        <topic>mechanosensitive Ionenkanäle</topic>
+                        <topic>Sphäroide</topic>
+                        <topic>Zellmigration</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-02169591310</identifier>
+                    <identifier type="sys">HT020330538</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_50f379db-301a-42aa-bd8e-2e62bf53e7b2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_50f379db-301a-42aa-bd8e-2e62bf53e7b2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/50f379db-301a-42aa-bd8e-2e62bf53e7b2/diss_kuntze.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_50f379db-301a-42aa-bd8e-2e62bf53e7b2" DMDID="DMD_50f379db-301a-42aa-bd8e-2e62bf53e7b2">
+            <mets:fptr FILEID="FILE_50f379db-301a-42aa-bd8e-2e62bf53e7b2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

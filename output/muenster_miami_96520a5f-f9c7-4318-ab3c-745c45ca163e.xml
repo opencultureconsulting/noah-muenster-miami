@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_96520a5f-f9c7-4318-ab3c-745c45ca163e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Retrospektive Untersuchung zur intellektuellen und schulischen Entwicklung 10-18-jähriger ehemaliger PatientInnen mit einer Fieberkrampfanamnese</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131932055">
+                        <displayForm>Pälmke, Meike</displayForm>
+                        <namePart type="given">Meike</namePart>
+                        <namePart type="family">Pälmke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/107303361">
+                        <displayForm>Kammerer, Emil</displayForm>
+                        <namePart type="given">Emil</namePart>
+                        <namePart type="family">Kammerer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-05-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-04-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die retrospektive klinisch-basierte Studie untersucht die kognitive Entwicklung von N=70 heute 10-18-jährigen ehemaligen PatientInnen. Der Fieberkrampf(FK) wurde nach seiner Art(einfach vs. kompliziert) und dem Alter, in dem der 1.FK auftrat(vor Ende des 1.Lebensjahres=früh, resp. danach) unterteilt. Für diese beiden Aspekte wurde eine Interaktion(IA) angenommen. Für die klinische Population wurden für komplizierte FK und für frühe FK die schlechtesten Ergebnisse im Intelligenztest CFT20 und bei der Häufigkeit des Gymnasiumsbesuches erwartet. Statistische Modellbildungen fanden mit der ANCOVA und der binären logistischen Regression statt. Kinder mit frühen komplizierten FK erreichten den höchsten IQ von 118(p=.04); IA(p=.08). Kinder mit FK besuchten signifikant häufiger das Gymnasium als die Norm(p=.03). Die Ergebnisse zeigen durch die signifikante IA der FKparameter, dass FK sich auf die Intelligenzentwicklung eher positiv auswirken. Erklärend ist neuronale Plastizität heranzuziehen.</abstract>
+                    <subject lang="ger">
+                        <topic>Fieberkrämpfe</topic>
+                        <topic>Intelligenzentwicklung</topic>
+                        <topic>schulische Entwicklung</topic>
+                        <topic>statistische Modellbildung</topic>
+                        <topic>neuronale Plastizität</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62659600145</identifier>
+                    <identifier type="sys">HT014750540</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_96520a5f-f9c7-4318-ab3c-745c45ca163e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_96520a5f-f9c7-4318-ab3c-745c45ca163e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/96520a5f-f9c7-4318-ab3c-745c45ca163e/diss_paelmke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_96520a5f-f9c7-4318-ab3c-745c45ca163e" DMDID="DMD_96520a5f-f9c7-4318-ab3c-745c45ca163e">
+            <mets:fptr FILEID="FILE_96520a5f-f9c7-4318-ab3c-745c45ca163e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2c1997c2-2eae-469c-b288-bb6ecd963d44">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>economics of mandatory security breach reporting to authorities</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1149936886">
+                        <displayForm>Laube, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Laube</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137231164">
+                        <displayForm>Böhme, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Böhme</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-22</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-02-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Legislators in many countries enact security breach notification regulation to address a lack of information security. The laws designate authorities to collect breach reports and advise firms. We devise a principal–agent model to analyze the economic effect of mandatory security breach reporting to authorities. The model assumes that firms (agents) have few incentives to unilaterally report breaches. To enforce the law, regulators (principals) can introduce security audits and sanction noncompliance. However, audits cannot differentiate between concealment and nescience of the agents. Even under optimistic assumptions regarding the effectiveness of mandatory security breach reporting to authorities in reducing individual losses, our model predicts that it may be difficult to adjust the sanction level such that breach notification laws generate social benefit.</abstract>
+                    <note type="citation/reference">Journal of Cybersecurity 2 (2016) 1, 29-41</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2015/2016 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53229502051</identifier>
+                    <identifier type="doi">10.1093/cybsec/tyw002</identifier>
+                    <identifier type="issn">2057-2093</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc/4.0">CC BY-NC 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2c1997c2-2eae-469c-b288-bb6ecd963d44</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2c1997c2-2eae-469c-b288-bb6ecd963d44_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2c1997c2-2eae-469c-b288-bb6ecd963d44/tyw002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2c1997c2-2eae-469c-b288-bb6ecd963d44" DMDID="DMD_2c1997c2-2eae-469c-b288-bb6ecd963d44">
+            <mets:fptr FILEID="FILE_2c1997c2-2eae-469c-b288-bb6ecd963d44_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_370b0950-440d-47e7-a20a-67e2e197d006">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Zuordnung der Nebeneinkünfte (§ 34 Abs. 4 S. 2 Ziff. 1 EStG) und die Möglichkeit einer Antragsbeschränkung in § 34 Abs. 4 EstG</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108583945">
+                        <displayForm>Treptow, Harald</displayForm>
+                        <namePart type="given">Harald</namePart>
+                        <namePart type="family">Treptow</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118562894">
+                        <displayForm>Klein, Friedrich</displayForm>
+                        <namePart type="given">Friedrich</namePart>
+                        <namePart type="family">Klein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1973</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-11-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-11-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1973</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97509431505</identifier>
+                    <identifier type="sys">HT015365412</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_370b0950-440d-47e7-a20a-67e2e197d006</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_370b0950-440d-47e7-a20a-67e2e197d006_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/370b0950-440d-47e7-a20a-67e2e197d006/diss_treptow_1973.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_370b0950-440d-47e7-a20a-67e2e197d006" DMDID="DMD_370b0950-440d-47e7-a20a-67e2e197d006">
+            <mets:fptr FILEID="FILE_370b0950-440d-47e7-a20a-67e2e197d006_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

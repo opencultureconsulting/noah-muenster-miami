@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3639ba40-c7a4-4d16-95d8-517f6df8bef0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ehemalige Stifts- und Dechaneibibliothek Freckenhorst</title>
+                        <subTitle>systematischer Katalog – alphabetischer Katalog</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neuhaus, Natalie</displayForm>
+                        <namePart type="given">Natalie</namePart>
+                        <namePart type="family">Neuhaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">oth</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/183907604">
+                        <displayForm>Malaschinsky, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Malaschinsky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172073197">
+                        <displayForm>Feldmann, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Feldmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Rund 280 Titel umfasst die ehemalige Stifts- und Dechaneibibliothek Freckenhorst, etwa 125 Ausgaben stammen aus der Zeit bis 1800. Solche alten Drucke aus der vorindustriellen Epoche der Buchproduktion zeichnen sich durch eine hohe materielle Qualität aus und finden bei Wissenschaftlern zunehmendes Interesse. Der Freckenhorster Buchbestand wurde nun gemäß aktuellen Standards erschlossen. Der vorliegende Katalog ermöglicht einen systematischen und alphabetischen Einstieg für die Recherche in einer kleinen, aber interessanten Sammlung. Exemplarbezogene Anmerkungen vervollständigen die Katalogeinträge und liefern nützliche Informationen für die bibliotheks- und regionalgeschichtliche Forschung. Einige Bücher gehörten ehemals Freckenhorster Dechanten. Kaum ein Buch lässt sich jedoch anhand von Besitzvermerken mit den Stiftsdamen in Verbindung bringen. Ein thematischer Schwerpunkt des Bestandes liegt bei Werken zu Predigt und Liturgie. Der älteste Band stammt von 1515.</abstract>
+                    <subject lang="ger">
+                        <topic>Freckenhorst Stiftsbibliothek</topic>
+                    </subject>
+                    <classification authority="ddc">230</classification>
+                    <classification authority="ddc">020</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97439508029</identifier>
+                    <identifier type="sys">HT019509391</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3639ba40-c7a4-4d16-95d8-517f6df8bef0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3639ba40-c7a4-4d16-95d8-517f6df8bef0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3639ba40-c7a4-4d16-95d8-517f6df8bef0/katalog_freckenhorst.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3639ba40-c7a4-4d16-95d8-517f6df8bef0" DMDID="DMD_3639ba40-c7a4-4d16-95d8-517f6df8bef0">
+            <mets:fptr FILEID="FILE_3639ba40-c7a4-4d16-95d8-517f6df8bef0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6170f8c5-d13b-4436-8c1d-703a1d5cc12d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Informatik in der Grundschule</title>
+                        <subTitle>Voraussetzungen, Ziele, Erfahrungen, Erkenntnisse</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1225945429">
+                        <displayForm>Best, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Best</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1109072783">
+                        <displayForm>Thomas, Marco</displayForm>
+                        <namePart type="given">Marco</namePart>
+                        <namePart type="family">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-11-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Arbeitsbereich Didaktik der Informatik der WWU Münster forscht und lehrt seit mehreren Jahren zu einer informatischen Bildung im Primarbereich. Es werden Erfahrungen sowie Erkenntnisse an Grundschulen bei der Zusammenarbeit mit Lehrern und der Erprobung von Unterrichtsmaterialien gewonnen. Erforscht werden bei Grundschullehrern existierende Vorstellungen zur Informatik und zum Informatikunterricht sowie informatikbezogene Vorerfahrungen und -kenntnisse von Grundschullehramtsstudenten des Fachs Mathematik. Erste Anteile einer informatischen Bildung konnten erfolgreich in das Grundschullehramtsstudium integriert werden.</abstract>
+                    <note type="citation/reference">MNU Journal (2019) 3, 183–188</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Klaus Seeberger Verlag.</note>
+                    <subject lang="ger">
+                        <topic>Informatik in der Grundschule</topic>
+                        <topic>Kryptologie</topic>
+                        <topic>Scratch</topic>
+                        <topic>Bee-Bot</topic>
+                        <topic>Lehrervorstellungen</topic>
+                        <topic>Hochschullehre</topic>
+                        <topic>Teachers&apos; beliefs</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ddc">371</classification>
+                    <classification authority="ddc">372</classification>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09069712717</identifier>
+                    <identifier type="issn">0025-5866</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6170f8c5-d13b-4436-8c1d-703a1d5cc12d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6170f8c5-d13b-4436-8c1d-703a1d5cc12d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6170f8c5-d13b-4436-8c1d-703a1d5cc12d/mnu_2019_3_183-188.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6170f8c5-d13b-4436-8c1d-703a1d5cc12d" DMDID="DMD_6170f8c5-d13b-4436-8c1d-703a1d5cc12d">
+            <mets:fptr FILEID="FILE_6170f8c5-d13b-4436-8c1d-703a1d5cc12d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

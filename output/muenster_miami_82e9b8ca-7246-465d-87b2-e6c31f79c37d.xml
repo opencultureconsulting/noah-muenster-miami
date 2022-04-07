@@ -1,0 +1,100 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_82e9b8ca-7246-465d-87b2-e6c31f79c37d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>geschichtliche Entwicklung der Fischerei am Oberrhein</title>
+                        <subTitle>Veränderungen, Ursachen und Auswirkungen am Beispiel von Mainz</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1139942468">
+                        <displayForm>Karabulut, Ebru</displayForm>
+                        <namePart type="given">Ebru</namePart>
+                        <namePart type="family">Karabulut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1139942476">
+                        <displayForm>Schäfers, Eva-Marlene</displayForm>
+                        <namePart type="given">Eva-Marlene</namePart>
+                        <namePart type="family">Schäfers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121752747">
+                        <displayForm>Grümme, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Grümme</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">oth</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Die Publikation ist eine stark gekürzte Fassung der etwa 100seitigen Arbeit (mit 49 Abb., 4 Tab. und 2 Faksimiles) im Rahmen des „Schülerwettbewerbs Deutsche Geschichte um den Preis des Bundespräsidenten“</note>
+                    <note type="ownership">Veröffentlichung mit freundlicher Genehmigung der Körber-Stiftung,
+Hamburg</note>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Tiere</topic>
+                        <topic>Geschichte</topic>
+                        <topic>Schülerwettbewerb</topic>
+                        <topic>Fischerei</topic>
+                        <topic>Lachs</topic>
+                        <topic>Zünfte</topic>
+                        <topic>Oberrhein</topic>
+                        <topic>Mainz</topic>
+                        <topic>Schülerarbeit</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>147</start>
+                                <end>166</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659546219</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_82e9b8ca-7246-465d-87b2-e6c31f79c37d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_82e9b8ca-7246-465d-87b2-e6c31f79c37d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/82e9b8ca-7246-465d-87b2-e6c31f79c37d/karabulu.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_82e9b8ca-7246-465d-87b2-e6c31f79c37d" DMDID="DMD_82e9b8ca-7246-465d-87b2-e6c31f79c37d">
+            <mets:fptr FILEID="FILE_82e9b8ca-7246-465d-87b2-e6c31f79c37d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e05f4f45-4b17-4ed6-b8ba-70bd1e18a09f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Medien&quot;</title>
+                        <subTitle>Mittler beim Lernen und Lehren: nur Bedrohung oder auch Segen?</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124031935">
+                        <displayForm>Barzel, Bärbel</displayForm>
+                        <namePart type="given">Bärbel</namePart>
+                        <namePart type="family">Barzel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124031935">
+                        <displayForm>Barzel, B.</displayForm>
+                        <namePart type="given">B.</namePart>
+                        <namePart type="family">Barzel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-11-19</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-11-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-11-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright by T³ Deutschland, zur unterrichtlichen Nutzung freigegeben</note>
+                    <note type="citation/reference">Vortrag auf der T³-Regionaltagung &quot;Kernlehrpläne und Zentralabitur - neue Herausforderungen für den Mathematikunterricht&quot; am 19.11.2005 an der Universität Dortmund</note>
+                    <subject lang="ger">
+                        <topic>Mathemtik</topic>
+                        <topic>Unterrichtskultur</topic>
+                        <topic>neue Medien</topic>
+                        <topic>Kompetenzen</topic>
+                        <topic>Werkzeugkompetenz</topic>
+                        <topic>Kernlehrpläne</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14639561840</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e05f4f45-4b17-4ed6-b8ba-70bd1e18a09f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e05f4f45-4b17-4ed6-b8ba-70bd1e18a09f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e05f4f45-4b17-4ed6-b8ba-70bd1e18a09f/Medien_als_Mittler.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e05f4f45-4b17-4ed6-b8ba-70bd1e18a09f" DMDID="DMD_e05f4f45-4b17-4ed6-b8ba-70bd1e18a09f">
+            <mets:fptr FILEID="FILE_e05f4f45-4b17-4ed6-b8ba-70bd1e18a09f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_65cddfb5-a176-4c53-aae5-9cbefbb4ecab">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Waveguide-integrated superconducting nanowire single-photon detectors</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1124213082">
+                        <displayForm>Pernice, Wolfram H. P.</displayForm>
+                        <namePart type="given">Wolfram H. P.</namePart>
+                        <namePart type="family">Pernice</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129404799">
+                        <displayForm>Ferrari, Simone</displayForm>
+                        <namePart type="given">Simone</namePart>
+                        <namePart type="family">Ferrari</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schuck, Carsten</displayForm>
+                        <namePart type="given">Carsten</namePart>
+                        <namePart type="family">Schuck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-20</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-05-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Integration of superconducting nanowire single-photon detectors with nanophotonic waveguides is a key technological step that enables a broad range of classical and quantum technologies on chip-scale platforms. The excellent detection efficiency, timing and noise performance of these detectors have sparked growing interest over the last decade and have found use in diverse applications. Almost 10 years after the first waveguide-coupled superconducting detectors were proposed, here, we review the performance metrics of these devices, compare both superconducting and dielectric waveguide material systems and present prominent emerging applications.</abstract>
+                    <note type="citation/reference">Nanophotonics 7 (2018) 11, 1725–1758</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2018 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>integrated optics</topic>
+                        <topic>single photon detection</topic>
+                        <topic>superconducting devices</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14199522781</identifier>
+                    <identifier type="doi">10.1515/nanoph-2018-0059</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_65cddfb5-a176-4c53-aae5-9cbefbb4ecab</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_65cddfb5-a176-4c53-aae5-9cbefbb4ecab_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/65cddfb5-a176-4c53-aae5-9cbefbb4ecab/artikel_pernice_2018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_65cddfb5-a176-4c53-aae5-9cbefbb4ecab" DMDID="DMD_65cddfb5-a176-4c53-aae5-9cbefbb4ecab">
+            <mets:fptr FILEID="FILE_65cddfb5-a176-4c53-aae5-9cbefbb4ecab_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

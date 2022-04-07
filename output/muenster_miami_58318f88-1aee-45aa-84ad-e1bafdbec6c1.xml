@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_58318f88-1aee-45aa-84ad-e1bafdbec6c1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Notfallplanung für das Universitätsarchiv Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121158705">
+                        <displayForm>Happ, Sabine</displayForm>
+                        <namePart type="given">Sabine</namePart>
+                        <namePart type="family">Happ</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-03-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-03-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Universitätsarchiv Münster verwahrt die Überlieferung der Westfälischen Wilhelms-Universität Münster und ihrer Vorgängereinrichtungen. Es ist seit Mitte der 1990er-Jahre in einem Gebäude auf dem Leonardo-Campus untergebracht, das nicht als Archivgebäude, sondern als Stallung der ehemaligen Von-Einem-Kaserne errichtet wurde. Die vorliegende praxisorientierte Arbeit liefert nach einer Beschreibung der Literatur und der rechtlichen Grundlagen und Zuständigkeiten eine Risikoanalyse im Hinblick auf den Eintritt möglicher Notfälle, wie Brand, Wasser, Einbruch und Vandalismus, und beschreibt die Maßnahmen, die ergriffen werden können, um das Risiko eines Schadenseintritts zu minimieren. Soweit möglich wurden diese Maßnahmen durchgeführt oder wenigstens eingeleitet.</abstract>
+                    <note type="citation/reference">aktualisierte Fassung der Diplomarbeit Potsdam 2009, Münster 2010</note>
+                    <subject lang="ger">
+                        <topic>Notfallplanung</topic>
+                        <topic>Bestandserhaltung</topic>
+                        <topic>Archivgut</topic>
+                        <topic>Brandschutz</topic>
+                        <topic>Risikomanagement</topic>
+                        <topic>Überlieferungssicherung</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-88459573199</identifier>
+                    <identifier type="sys">HT019568025</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_58318f88-1aee-45aa-84ad-e1bafdbec6c1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_58318f88-1aee-45aa-84ad-e1bafdbec6c1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/58318f88-1aee-45aa-84ad-e1bafdbec6c1/diplomarbeit_happ.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_58318f88-1aee-45aa-84ad-e1bafdbec6c1" DMDID="DMD_58318f88-1aee-45aa-84ad-e1bafdbec6c1">
+            <mets:fptr FILEID="FILE_58318f88-1aee-45aa-84ad-e1bafdbec6c1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

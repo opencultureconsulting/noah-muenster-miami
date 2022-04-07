@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_184cbea8-c06a-4f86-a2c0-47b65374cfdb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zum Einfluss des Epidermal Growth Factor Receptors auf die Reifung bestimmter mikro-RNAs als zelluläre Strahlenantwort</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1149931612">
+                        <displayForm>Wischmann, Franz-Josef</displayForm>
+                        <namePart type="given">Franz-Josef</namePart>
+                        <namePart type="family">Wischmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Greve, Burkhard</displayForm>
+                        <namePart type="given">Burkhard</namePart>
+                        <namePart type="family">Greve</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-01-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-11-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit konnte gezeigt werden, dass der Epidermal Growth Factor Receptor, ein Mitglied der Rezeptor-Tyrosinkinase Familie und Argonaut2, ein an der RNA-Interferenz beteiligtes Protein, die zelluläre Strahlenantwort auf der Ebene der mikro-RNA Reifung beeinflussen. Mikro-RNAs sind kleine 20-25 Nukleotide lange RNA Moleküle, die Einfluss auf die posttranskriptionale Genregulation nehmen. Es konnte gezeigt werden, dass die mikro-RNAs miR-15a, miR-19a, miR-21, miR-100, miR-106b und miR-218 dem Regulierungssystem aus Epidermal Growth Factor Receptor und Argonaut2 unterliegen. Darüber hinaus konnte die Tumorsuppressorfunktion von miR-218 gezeigt werden, die neben EGFR auch Birc5, Birc6, Decorin, Notch2, Robo1, Tenascin C und Tob1 reguliert und damit Einfluss auf die Invasivität, Motilität, das Zellwachstum sowie das Zellteilungsverhalten nimmt. Die vorliegenden Daten sprechen für eine Feinregulierung der Strahlenantwort von EGFR durch miR-218.</abstract>
+                    <subject lang="ger">
+                        <topic>mikro-RNA</topic>
+                        <topic>AGO2</topic>
+                        <topic>EGFR</topic>
+                        <topic>Bestrahlung</topic>
+                        <topic>miR-Reifung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59199471676</identifier>
+                    <identifier type="sys">HT019553898</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_184cbea8-c06a-4f86-a2c0-47b65374cfdb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_184cbea8-c06a-4f86-a2c0-47b65374cfdb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/184cbea8-c06a-4f86-a2c0-47b65374cfdb/diss_wischmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_184cbea8-c06a-4f86-a2c0-47b65374cfdb" DMDID="DMD_184cbea8-c06a-4f86-a2c0-47b65374cfdb">
+            <mets:fptr FILEID="FILE_184cbea8-c06a-4f86-a2c0-47b65374cfdb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

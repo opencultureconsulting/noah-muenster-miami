@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6c16d4f8-2f42-42b5-bc9e-006e26a1f3b1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Intrusion-Detection und Prevention – Erfahrungsbericht aus Münster</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ossendorf, Cornelia</displayForm>
+                        <namePart type="given">Cornelia</namePart>
+                        <namePart type="family">Ossendorf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-10-24</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-02-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-02-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, Münster, 24.10. 2006</note>
+                    <subject lang="ger">
+                        <topic>Informationsmanagement</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79589454894</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6c16d4f8-2f42-42b5-bc9e-006e26a1f3b1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6c16d4f8-2f42-42b5-bc9e-006e26a1f3b1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6c16d4f8-2f42-42b5-bc9e-006e26a1f3b1/ipserfa241006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6c16d4f8-2f42-42b5-bc9e-006e26a1f3b1" DMDID="DMD_6c16d4f8-2f42-42b5-bc9e-006e26a1f3b1">
+            <mets:fptr FILEID="FILE_6c16d4f8-2f42-42b5-bc9e-006e26a1f3b1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

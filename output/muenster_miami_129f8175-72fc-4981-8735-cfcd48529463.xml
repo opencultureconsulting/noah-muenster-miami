@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_129f8175-72fc-4981-8735-cfcd48529463">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Orale Immunisierung mit rekombinanten &quot;Escherichia coli&quot; NISSLE 1917</title>
+                        <subTitle>Charakterisierung der humoralen Immunantwort gegen Oberflächenexprimierte heterologe Antigene aus &quot;Borrelia burgdorferi&quot; und &quot;Listeria monocytogenes&quot;</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129968692">
+                        <displayForm>Buddenborg, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Buddenborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1102872350">
+                        <displayForm>Schmidt, M. Alexander</displayForm>
+                        <namePart type="given">M. Alexander</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-04-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-04-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen dieser Arbeit wurde ein Lebendvektor-System zur oralen Immunisierung entwickelt, das aus dem apathogenen, probiotischen E. coli Stamm NISSLE 1917 besteht. Mit Hilfe des AIDA-Autotransporters wurden die äußeren Membranproteine OspA und OspG aus Borrelia burgdorferi bzw. p60 aus Listeria monocytogenes auf der Oberfläche von E. coli NISSLE 1917 präsentiert. Nach oraler Immunisierung der Versuchstiere wurden die spezifischen humoralen Immunantworten gegen die verwendeten Antigene in Serum und Speichel mit Hilfe eines Endpunkt-ELISA analysiert. Die Immunisierung mit rekombinanten Bakterien, die OspA bzw. OspG auf ihrer Oberfläche präsentierten, führte zu einer Erhöhung der Antigen-spezifischen Antikörpertiter im Serum. Auch konnten spezifische Antikörper gegen OspG im Speichel der immunisierten Versuchstiere nachgewiesen werden. Eine Immunsierung mit p60-präsentierenden E. coli NISSLE 1917 führte zu keiner spezifischen Immunantwort gegen dieses Protein.</abstract>
+                    <subject lang="ger">
+                        <topic>Lebendvektor</topic>
+                        <topic>E. coli NISSLE 1917</topic>
+                        <topic>orale Immunisierung</topic>
+                        <topic>Borrelia burgdorferi</topic>
+                        <topic>OspA/OspG</topic>
+                        <topic>Listeria monocytogenes</topic>
+                        <topic>p60</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16649478495</identifier>
+                    <identifier type="sys">HT014419336</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_129f8175-72fc-4981-8735-cfcd48529463</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_129f8175-72fc-4981-8735-cfcd48529463_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/129f8175-72fc-4981-8735-cfcd48529463/diss_buddenborg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_129f8175-72fc-4981-8735-cfcd48529463" DMDID="DMD_129f8175-72fc-4981-8735-cfcd48529463">
+            <mets:fptr FILEID="FILE_129f8175-72fc-4981-8735-cfcd48529463_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

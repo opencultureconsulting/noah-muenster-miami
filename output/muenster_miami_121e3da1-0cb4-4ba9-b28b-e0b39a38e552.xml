@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_121e3da1-0cb4-4ba9-b28b-e0b39a38e552">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Elektronische Medien</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-05-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-05-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Willoweit, Dietmar (Hrsg.): Rechtswissenschaft und Rechtsliteratur im 20. Jahrhundert : mit Beiträgen zur Entwicklung des Verlages C. H. Beck. München : Beck, 2007, ISBN 978-3-406-55820-7, S. 1173-1190</note>
+                    <subject lang="ger">
+                        <topic>Prof. Dr. Dietmar Willoweit</topic>
+                        <topic>Rechtswissenschaft</topic>
+                        <topic>Rechtsliteratur</topic>
+                        <topic>Elektronische Medien</topic>
+                        <topic></topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03359526555</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_121e3da1-0cb4-4ba9-b28b-e0b39a38e552</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_121e3da1-0cb4-4ba9-b28b-e0b39a38e552_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/121e3da1-0cb4-4ba9-b28b-e0b39a38e552/Elektronische_Medien.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_121e3da1-0cb4-4ba9-b28b-e0b39a38e552" DMDID="DMD_121e3da1-0cb4-4ba9-b28b-e0b39a38e552">
+            <mets:fptr FILEID="FILE_121e3da1-0cb4-4ba9-b28b-e0b39a38e552_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

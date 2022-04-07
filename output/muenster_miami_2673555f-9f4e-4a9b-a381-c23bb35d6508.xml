@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2673555f-9f4e-4a9b-a381-c23bb35d6508">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>In-silico comparison of two induction regimens (7 + 3 vs 7 + 3 plus additional bone marrow evaluation) in acute myeloid leukemia treatment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Banck, Jan Christoph</displayForm>
+                        <namePart type="given">Jan Christoph</namePart>
+                        <namePart type="family">Banck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103514381X">
+                        <displayForm>Görlich, Dennis</displayForm>
+                        <namePart type="given">Dennis</namePart>
+                        <namePart type="family">Görlich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-31</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-04-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">BACKGROUND: Clinical integration of systems biology approaches is gaining in importance in the course of digital revolution in modern medicine. We present our results of the analysis of an extended mathematical model describing abnormal human hematopoiesis. The model is able to describe the course of an acute myeloid leukemia including its treatment. In first-line treatment of acute myeloid leukemia, the induction chemotherapy aims for a rapid leukemic cell reduction. We consider combinations of cytarabine and anthracycline-like chemotherapy. Both substances are widely used as standard treatment to achieve first remission. In particular, we compare two scenarios: a single-induction course with 7 days cytarabine and 3 day of anthracycline-like treatment (7 + 3) with a 7 + 3 course and a bone marrow evaluation that leads, in case of insufficient leukemic cell reduction, to the provision of a second chemotherapy course. Three scenarios, based on the leukemias growth kinetics (slow, intermediate, fast), were analyzed. We simulated different intensity combinations for both therapy schemata (7 + 3 and 7 + 3 + evaluation). RESULTS: Our model shows that within the 7 + 3 regimen a wider range of intensity combinations result in a complete remission (CR), compared to 7 + 3 + evaluation (fast: 64.3% vs 46.4%; intermediate: 63.7% vs 46.7%; slow: 0% vs 0%). Additionally, the number of simulations resulting in a prolonged CR was higher within the standard regimen (fast: 59.8% vs 40.1%; intermediate: 48.6% vs 31.0%; slow: 0% vs 0%). On the contrary, the 7 + 3 + evaluation regimen allows CR and prolonged CR by lower chemotherapy intensities compared to 7 + 3. Leukemic pace has a strong impact on treatment response and especially on specific effective doses. As a result, faster leukemias are characterized by superior treatment outcomes and can be treated effectively with lower treatment intensities. CONCLUSIONS: We could show that 7 + 3 treatment has considerable more chemotherapy combinations leading to a first CR. However, the 7 + 3 + evaluation regimen leads to CR for lower therapy intensity and presumably less side effects. An additional evaluation can be considered beneficial to control therapy success, especially in low dose settings. The treatment success is dependent on leukemia growth dynamics. The determination of leukemic pace should be a relevant part of a personalized medicine.</abstract>
+                    <note type="citation/reference">BMC Systems Biology 13 (2019) 18; 1-14</note>
+                    <subject lang="eng">
+                        <topic>Acute leukemia</topic>
+                        <topic>Mathematical model</topic>
+                        <topic>Systems medicine</topic>
+                        <topic>First line induction therapy</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15149402906</identifier>
+                    <identifier type="doi">10.1186/s12918-019-0684-0</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2673555f-9f4e-4a9b-a381-c23bb35d6508</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2673555f-9f4e-4a9b-a381-c23bb35d6508_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2673555f-9f4e-4a9b-a381-c23bb35d6508/artikel_goerlich_2019.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2673555f-9f4e-4a9b-a381-c23bb35d6508" DMDID="DMD_2673555f-9f4e-4a9b-a381-c23bb35d6508">
+            <mets:fptr FILEID="FILE_2673555f-9f4e-4a9b-a381-c23bb35d6508_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

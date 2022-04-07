@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1ba4985f-2d2a-4aae-adba-edc41aaec0a5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>niederländische Mission in Uruzgan</title>
+                        <subTitle>Politische und militärische Lehren</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133444279">
+                        <displayForm>Jansen-de Graaf, Beatrice</displayForm>
+                        <namePart type="given">Beatrice</namePart>
+                        <namePart type="family">Jansen-de Graaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dimitriu, George</displayForm>
+                        <namePart type="given">George</namePart>
+                        <namePart type="family">Dimitriu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142964719">
+                        <displayForm>Fliegner, Angelika</displayForm>
+                        <namePart type="given">Angelika</namePart>
+                        <namePart type="family">Fliegner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>31</start>
+                                <end>49</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17159497080</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1ba4985f-2d2a-4aae-adba-edc41aaec0a5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1ba4985f-2d2a-4aae-adba-edc41aaec0a5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1ba4985f-2d2a-4aae-adba-edc41aaec0a5/jahrbuch_zns_2009_20_31-49.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1ba4985f-2d2a-4aae-adba-edc41aaec0a5" DMDID="DMD_1ba4985f-2d2a-4aae-adba-edc41aaec0a5">
+            <mets:fptr FILEID="FILE_1ba4985f-2d2a-4aae-adba-edc41aaec0a5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_17ffc5fa-e8e3-4a09-9fd6-74d84f630249">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>EUNIS 2017 – Shaping the Digital Future of Universities</title>
+                        <subTitle>Book of Proceedings, EUNIS 23rd Annual Congress</subTitle>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-07-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">EUNIS, the European University Information Systems Organization, aims to contribute to the development of high quality information systems in Europe’s Higher Education. For those responsible for information technology at universities or research organisations, the yearly congress is a perfect opportunity to establish relationships, exchange experiences and discuss contemporary issues.</abstract>
+                    <note>23. EUNIS-Konferenz, 7.-9. Juni 2017, Westfälische Wilhelms-Universität Münster</note>
+                    <subject lang="ger">
+                        <topic>Kongress</topic>
+                        <topic>Informationssysteme</topic>
+                        <topic>Universität</topic>
+                        <topic>Forschung</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-21299723526</identifier>
+                    <identifier type="doi">10.17879/21299722960</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_17ffc5fa-e8e3-4a09-9fd6-74d84f630249</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_17ffc5fa-e8e3-4a09-9fd6-74d84f630249_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/17ffc5fa-e8e3-4a09-9fd6-74d84f630249/eunis_2017_23.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_17ffc5fa-e8e3-4a09-9fd6-74d84f630249" DMDID="DMD_17ffc5fa-e8e3-4a09-9fd6-74d84f630249">
+            <mets:fptr FILEID="FILE_17ffc5fa-e8e3-4a09-9fd6-74d84f630249_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

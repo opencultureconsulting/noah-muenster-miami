@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2accee9e-21fc-49b9-a407-a3443ac1dcf9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Nuclear norms in the context of dynamic MRI</title>
+                        <subTitle>regularization techniques and asymptotic analysis</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1252505027">
+                        <displayForm>Kinzel, Meike</displayForm>
+                        <namePart type="given">Meike</namePart>
+                        <namePart type="family">Kinzel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-02-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-11-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit wirft neues Licht auf die Rekonstruktion dynamischer MR-Daten mittels Variationsverfahren, die mit Nuklearnormen regularisieren. Zunächst widmen wir uns der klassischen Nuklearnorm und diskutieren ihre Vorteile im Zusammenhang mit der Rekonstruktion von dynamischen Reihen, die aus stark korrelierenden Einzelbildern bestehen. Anschließend betrachten wir die Nuklearnorm in einem weiteren Sinne. Indem wir uns auf lineare Abbildungen zwischen nicht euklidischen Vektorräumen konzentrieren, leiten wir eine verallgemeinerte Version ab. Mithilfe dieser entwickeln wir einen Ansatz, der a-priori-Wissen über das Auftreten von glatter Dynamik in den Rekonstruktionsprozess dynamischer MR-Daten einbezieht. In einem zweiten Teil betrachten wir die oben genannten Ansätze aus theoretischer Sicht und untersuchen ihre Gamma-Konvergenz. Dabei zeigen wir, dass die betrachteten diskreten Nuklearnormen gegen ihre natürlichen kontinuierlichen Entsprechungen Gamma-konvergieren.</abstract>
+                    <abstract lang="eng">This thesis sheds new light on the reconstruction of dynamic MR data via variational methods that regularize with nuclear norms. On the one hand, we devote ourselves to the classical nuclear norm and discuss its benefits in connection with the reconstruction of dynamic series that are presumed to consist of highly correlated frames. On the other hand, we consider the nuclear norm in a broader sense. Concentrating on linear mappings between non-euclidean vector spaces, we derive a generalized version. Focusing on the tasks in dynamic MRI, we use this more general framework to deduce an approach which incorporates a-priori knowledge on the occurence of smooth dynamics into the process of reconstruction. In a second part we then contemplate the above mentioned approaches from a theoretical point of view and address the study of their Gamma-convergence. In doing so, we show that the considered discrete nuclear norms Gamma-converge toward their natural continuous counterparts.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Bildverarbeitung</topic>
+                        <topic>Variationsmethoden</topic>
+                        <topic>MRT-Rekonstruktion</topic>
+                        <topic>Nuklearnorm</topic>
+                        <topic>Singulärwertzerlegung</topic>
+                        <topic>Sparsity</topic>
+                        <topic>Gamma-Konvergenz</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Image Processing</topic>
+                        <topic>Variational Methods</topic>
+                        <topic>MRI Reconstruction</topic>
+                        <topic>Nuclear Norm</topic>
+                        <topic>Singular Value Decomposition</topic>
+                        <topic>Sparsity</topic>
+                        <topic>Gamma-Convergence</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14089414885</identifier>
+                    <identifier type="sys">HT021259964</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2accee9e-21fc-49b9-a407-a3443ac1dcf9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2accee9e-21fc-49b9-a407-a3443ac1dcf9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2accee9e-21fc-49b9-a407-a3443ac1dcf9/diss_kinzel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2accee9e-21fc-49b9-a407-a3443ac1dcf9" DMDID="DMD_2accee9e-21fc-49b9-a407-a3443ac1dcf9">
+            <mets:fptr FILEID="FILE_2accee9e-21fc-49b9-a407-a3443ac1dcf9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

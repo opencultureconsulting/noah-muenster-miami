@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e772ca29-ec16-48f9-a6e1-c4134a855bc9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beuys&apos; Hut</title>
+                        <subTitle>Performance und Autofiktion</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137527803">
+                        <displayForm>Schoene, Janneke</displayForm>
+                        <namePart type="given">Janneke</namePart>
+                        <namePart type="family">Schoene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-04-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-10-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die exegetische Rezeption um Joseph Beuys geht davon aus, dass Beuys ein ‚authentischer‘ Künstler ist, dessen Performance sich durch eine besondere Unmittelbarkeit auszeichnet. Die Studie zeigt anhand einer Untersuchung der Tatarenlegende als Erzählung, einiger autobiographischer Schriftstücke, Performances bzw. Medialisierungen und der Beuys-Retrospektive im New Yorker Guggenheim Museum 1979 als Bühne der Künstlerschaft, dass Beuys eine autofiktionale Figur ist, die ihre Künstlichkeit, Konstruiertheit und Fiktionalität selbst ausstellt. So wird ersichtlich, dass die Beuys’sche Inszenierung als ironischer Kommentar des Stellenwerts und der Rolle des Künstlers zu sehen ist, die er zugleich so offensiv einnahm.</abstract>
+                    <subject lang="ger">
+                        <topic>Kunst</topic>
+                        <topic>Künstlerschaft</topic>
+                        <topic>Autorschaft</topic>
+                        <topic>Autobiographie</topic>
+                        <topic>Künstlerinszenierung</topic>
+                        <topic>Selbstdarstellung</topic>
+                    </subject>
+                    <classification authority="ddc">700</classification>
+                    <classification authority="ddc">800</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38189478114</identifier>
+                    <identifier type="sys">HT019666740</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e772ca29-ec16-48f9-a6e1-c4134a855bc9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e772ca29-ec16-48f9-a6e1-c4134a855bc9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e772ca29-ec16-48f9-a6e1-c4134a855bc9/diss_schoene.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e772ca29-ec16-48f9-a6e1-c4134a855bc9" DMDID="DMD_e772ca29-ec16-48f9-a6e1-c4134a855bc9">
+            <mets:fptr FILEID="FILE_e772ca29-ec16-48f9-a6e1-c4134a855bc9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_504e5f1d-ef34-4b45-9a8d-b49e8796934c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Tractatus germanico-informaticus</title>
+                        <subTitle>Some fragmentary ideas on DRM and information law</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-06-10</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-06-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note type="citation/reference">Lodder, Arno R. (Hrsg.): IT law : the global future. Den Haag : NVvIR, 2006, ISBN 978-90-5901-394-0, S. 149-160</note>
+                    <subject lang="ger">
+                        <topic>germanico-informaticus</topic>
+                        <topic>DRM</topic>
+                        <topic>information law</topic>
+                        <topic>2006</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-63349499603</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_504e5f1d-ef34-4b45-9a8d-b49e8796934c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_504e5f1d-ef34-4b45-9a8d-b49e8796934c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/504e5f1d-ef34-4b45-9a8d-b49e8796934c/tractatus_germanico.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_504e5f1d-ef34-4b45-9a8d-b49e8796934c" DMDID="DMD_504e5f1d-ef34-4b45-9a8d-b49e8796934c">
+            <mets:fptr FILEID="FILE_504e5f1d-ef34-4b45-9a8d-b49e8796934c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

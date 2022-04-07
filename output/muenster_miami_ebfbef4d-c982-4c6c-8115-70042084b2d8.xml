@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ebfbef4d-c982-4c6c-8115-70042084b2d8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Untersuchung von Cluster-Jet-Targets höchster Dichte</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1030378827">
+                        <displayForm>Täschner, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Täschner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172987245">
+                        <displayForm>Khoukaz, Alfons</displayForm>
+                        <namePart type="given">Alfons</namePart>
+                        <namePart type="family">Khoukaz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-01-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-01-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel dieser Arbeit war der Aufbau und die Untersuchung eines Cluster-Jet-Targets das in Geometrie und Dichte den Anforderungen moderner Speicherring-Experimente entspricht. Im Rahmen dieser Arbeit wurde hierzu eine Cluster-Quelle, das MCT2, konstruiert, aufgebaut und betrieben, die als Prototyp für das Cluster-Jet-Target des zukünftigen PANDA-Experiments des Beschleunigerkomplexes FAIR in Darmstadt dient. Mit diesem Target konnte eine Targetdichte von nahezu 1e15 Atome/cm³ in einer Entfernung von 2 m hinter der Cluster-Quelle erreicht werden. Zudem wurden die Eigenschaften der erzeugten Cluster näher untersucht. Von besonderem Interesse ist hier die Verteilung der Clustergeschwindigkeiten die im Rahmen dieser Arbeit gemessen wurden. Des Weiteren konnte durch ein quasi-eindimensionales Modell der Düsenströmung unter Verwendung der Zustandsgleichung nach Van-der-Waals die mittlere Clustergeschwindigkeit reproduziert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Cluster-Jet-Target</topic>
+                        <topic>Cluster</topic>
+                        <topic>Laval-Düse</topic>
+                        <topic>Flugzeitmessung</topic>
+                        <topic>Quasi-eindimensionale Strömung</topic>
+                        <topic>Van-der-Waals-Gas</topic>
+                        <topic>PANDA-Experiment</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97399649132</identifier>
+                    <identifier type="sys">HT017529136</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ebfbef4d-c982-4c6c-8115-70042084b2d8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ebfbef4d-c982-4c6c-8115-70042084b2d8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ebfbef4d-c982-4c6c-8115-70042084b2d8/diss_taeschner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ebfbef4d-c982-4c6c-8115-70042084b2d8" DMDID="DMD_ebfbef4d-c982-4c6c-8115-70042084b2d8">
+            <mets:fptr FILEID="FILE_ebfbef4d-c982-4c6c-8115-70042084b2d8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4402a027-5413-4518-aeda-78ad2247cc6f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ionenleitende Borat- und Silikatglasschichten</title>
+                        <subTitle>Strukturelle und Elektrische Charakterisierung mit Hilfe von TEM und Impedanzspektroskopie</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133935574">
+                        <displayForm>Berkemeier, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Berkemeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1028370857">
+                        <displayForm>Schmitz, Guido</displayForm>
+                        <namePart type="given">Guido</namePart>
+                        <namePart type="family">Schmitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-11-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die strukturellen und elektrischen Eigenschaften sputterdeponierter ionenleitender Borat- und Silikatgläser mit einer Dicke zwischen 10 und 1000 nm werden mit Hilfe von Transmissionselektronenmikroskopie und Impedanzspektroskopie experimentell charakterisiert. Dabei bestätigen sich die amorphe Struktur der Schichten und ihre stöchiometrische Übereinstimmung mit dem Targetmaterial; Ihre spezifische Ionenleitfähigkeit liegt jedoch bis zu zwei Zehnerpotenzen oberhalb der Leitfähigkeit des entsprechenden Massivglases, was auf eine Änderung der Bindungsverhältnisse der Glasmatrix durch den Sputterprozess zurückgeführt wird. Weiterhin beobachtet man, dass die spezifische Leitfähigkeit der Glasschichten unterhalb einer Dicke von 100 nm um bis zu drei Zehnerpotenzen ansteigt. Numerische Computersimulationen auf Basis der Perkolationstheorie zeigen daraufhin, dass dieser Leitfähigkeitsanstieg durch eine räumlich inhomogene Leitfähigkeitsverteilung quantitativ erklärt werden kann.</abstract>
+                    <subject lang="ger">
+                        <topic>Netzwerkgläser</topic>
+                        <topic>Lithiumborat</topic>
+                        <topic>Lithiumsilikat</topic>
+                        <topic>Sputterdeposition</topic>
+                        <topic>Elektronenmikroskopie</topic>
+                        <topic>Impedanzspektroskopie</topic>
+                        <topic>Perkolationstheorie</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-26539532666</identifier>
+                    <identifier type="sys">HT015493482</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4402a027-5413-4518-aeda-78ad2247cc6f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4402a027-5413-4518-aeda-78ad2247cc6f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4402a027-5413-4518-aeda-78ad2247cc6f/diss_berkemeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4402a027-5413-4518-aeda-78ad2247cc6f" DMDID="DMD_4402a027-5413-4518-aeda-78ad2247cc6f">
+            <mets:fptr FILEID="FILE_4402a027-5413-4518-aeda-78ad2247cc6f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

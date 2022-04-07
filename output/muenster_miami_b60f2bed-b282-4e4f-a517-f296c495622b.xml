@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b60f2bed-b282-4e4f-a517-f296c495622b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grenzen kommunaler Wettbewerbsteilnahme</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131339168">
+                        <displayForm>Kluth, Winfried</displayForm>
+                        <namePart type="given">Winfried</namePart>
+                        <namePart type="family">Kluth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106211943">
+                        <displayForm>Erichsen, Hans-Uwe</displayForm>
+                        <namePart type="given">Hans-Uwe</namePart>
+                        <namePart type="family">Erichsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106211943">
+                        <displayForm>Erichsen, Hans Uwe</displayForm>
+                        <namePart type="given">Hans Uwe</namePart>
+                        <namePart type="family">Erichsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1988</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-03-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1987</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15589330574</identifier>
+                    <identifier type="sys">HT015481924</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b60f2bed-b282-4e4f-a517-f296c495622b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b60f2bed-b282-4e4f-a517-f296c495622b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b60f2bed-b282-4e4f-a517-f296c495622b/diss_kluth_1987.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b60f2bed-b282-4e4f-a517-f296c495622b" DMDID="DMD_b60f2bed-b282-4e4f-a517-f296c495622b">
+            <mets:fptr FILEID="FILE_b60f2bed-b282-4e4f-a517-f296c495622b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_15be38b1-6e82-483e-befc-64734b28213b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>New finite element methods for solving the MEG and the combined MEG/EEG forward problem</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1193503256">
+                        <displayForm>Piastra, Maria Carla</displayForm>
+                        <namePart type="given">Maria Carla</namePart>
+                        <namePart type="family">Piastra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139810196">
+                        <displayForm>Engwer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Engwer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-08-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-03-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit umfasst zwei Hauptthemen. (1) Das Studium neuer Finite-Elemente-Methoden (FEMs), d.h. einer kontinuierlichen (CG-) und diskontinuierlichen (DG-) Galerkin-FEM, zur Lösung des Vorwärtsproblemes der Magnetoenzephalographie (MEG) und der Kombination von MEG und Elektroenzephalographie (EEG). Für die MEG/EEG-Quellenanalyse bietet DG-FEM eine interessante neue Alternative zur CG-FEM. (2) Die Analyse der MEG- und EEG-Sensitivität für kortikale und subkortikale Quellen durch Berechnung von Signal-Rausch-Verhältnis (SNR)-Mappings basierend auf der FEM. Unsere Ergebnisse zeigen, dass MEG für kortikale Quellen höhere SNR-Werte erreicht als EEG. Die MEG-SNR-Werte variieren allerdings stark mit der Ausrichtung. Tiefe tangentiale Quellen können sowohl vom MEG als auch vom EEG erkannt werden. Die neuen Methoden wurden in der Toolbox duneuro implementiert. Diese Promotion ist Teil des ChildBrain-Projekts: einer Horizon2020 Marie Skłodowska-Curie Action.</abstract>
+                    <abstract lang="eng">This thesis covers two main topics. (1) The study of new finite element methods (FEMs), i.e., a continuous (CG-) and discontinuous (DG-) Galerkin FEM, to solve the magnetoencephalography(MEG) and the combined MEG/electroencephalography(EEG) forward problem, by validating them in both spherical and realistically shaped head models. For (combined) MEG/EEG source analysis, DG-FEM offers an interesting new alternative to CG-FEM. (2) The application of FEM to analyze MEG and EEG sensitivity to cortical and subcortical sources by computing signal-to-noise ratio (SNR) mappings. We conclude that: MEG SNR values are higher than the EEG ones for cortical sources; only MEG SNR values strongly vary with the orientation; deep tangential sources can be detected by both MEG/EEG. The newly implemented methods are in the duneuro toolbox. Finally, the PhD training is part of the ChildBrain project, a Horizon2020 Marie Skłodowska-Curie Action, and special emphasis was given to dissemination.</abstract>
+                    <subject lang="ger">
+                        <topic>Elektroenzephalographie</topic>
+                        <topic>Magnetoenzephalographie</topic>
+                        <topic>Vorwärtsproblem</topic>
+                        <topic>diskontinuierliche Galerkin Finite-Elemente-Methode</topic>
+                        <topic>Finite-Elemente-Methode</topic>
+                        <topic>Ladungserhaltung</topic>
+                        <topic>Quellmodell</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Electroencephalography</topic>
+                        <topic>magnetoencephalography</topic>
+                        <topic>forward problem</topic>
+                        <topic>discontinuous Galerkin finite element method</topic>
+                        <topic>finite element methods</topic>
+                        <topic>conservative flux</topic>
+                        <topic>source model</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53199662090</identifier>
+                    <identifier type="sys">HT020170271</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_15be38b1-6e82-483e-befc-64734b28213b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_15be38b1-6e82-483e-befc-64734b28213b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/15be38b1-6e82-483e-befc-64734b28213b/diss_piastra.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_15be38b1-6e82-483e-befc-64734b28213b" DMDID="DMD_15be38b1-6e82-483e-befc-64734b28213b">
+            <mets:fptr FILEID="FILE_15be38b1-6e82-483e-befc-64734b28213b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

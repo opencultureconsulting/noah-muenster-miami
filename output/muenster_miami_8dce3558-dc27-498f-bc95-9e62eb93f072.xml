@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8dce3558-dc27-498f-bc95-9e62eb93f072">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen kombinierter DNA-Protein-Transduktion zur Optimierung nicht-viralen Gentransfers</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohla, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Bohla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112167985">
+                        <displayForm>Weber, Wolf-Michael</displayForm>
+                        <namePart type="given">Wolf-Michael</namePart>
+                        <namePart type="family">Weber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-04-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-04-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zur Etablierung eines rekombinanten phiC31-TAT-Systems für den nicht-viralen Gentransfer wurden verschiedene phiC31-Integrase-Konstrukte in E. coli BL21 Bakterien rekombinant exprimiert, chromatographisch aufgereinigt und sowohl im Reagenzglas als auch in renalen, alveolären und T-Zelllinien auf Funktionalität getestet. Zur Transduktion dieser Integrase-Plasmid-Komplexe in unterschiedliche Zelltypen wurden verschiedene Transduktionsmethoden verwendet. Stellvertretend für Lunge, Niere und Lymphozyten wurden A549-, 293- und Jurkat-T-Zellen mit Komplexen aus rekombinanter Integrase und einem Luziferase-attB-Plasmid behandelt und über einen Zeitraum von einem Monat auf Luziferaseexpression getestet. Der kombinierte phiC31-Integraseprotein-Plasmid-Transfer ist eine vielversprechende Anwendung für den nicht-viralen Gentransfer, was insbesondere durch die Vermittlung stabiler Langzeittransgenexpression in verschiedenen Zelltypen gezeigt werden konnte.</abstract>
+                    <subject lang="ger">
+                        <topic>phiC31</topic>
+                        <topic>Integrase</topic>
+                        <topic>Gentransfer</topic>
+                        <topic>nichtviral</topic>
+                        <topic>Rekombinase</topic>
+                        <topic>Expression</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-54469533561</identifier>
+                    <identifier type="sys">HT016780121</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8dce3558-dc27-498f-bc95-9e62eb93f072</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8dce3558-dc27-498f-bc95-9e62eb93f072_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8dce3558-dc27-498f-bc95-9e62eb93f072/diss_bohla.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8dce3558-dc27-498f-bc95-9e62eb93f072" DMDID="DMD_8dce3558-dc27-498f-bc95-9e62eb93f072">
+            <mets:fptr FILEID="FILE_8dce3558-dc27-498f-bc95-9e62eb93f072_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

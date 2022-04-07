@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4f9faa6d-cbad-4c96-aade-2306f76bb642">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Medical-Data-Models.org</title>
+                        <subTitle>A collection of freely available forms (September 2016)</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1131361393">
+                        <displayForm>Dugas, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Dugas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">oth</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">ResearchData</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-19</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-10-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">MDM-Portal (Medical Data-Models) is a meta-data repository for creating, analysing, sharing and reusing medical forms, developed by the Institute of Medical Informatics, University of Muenster in Germany. Electronic forms for documentation of patient data are an integral part within the workflow of physicians. A huge amount of data is collected either through routine documentation forms (EHRs) for electronic health records or as case report forms (CRFs) for clinical trials. This raises major scientific challenges for health care, since different health information systems are not necessarily compatible with each other and thus information exchange of structured data is hampered. Software vendors provide a variety of individual documentation forms according to their standard contracts, which function as isolated applications. Furthermore, free availability of those forms is rarely the case. Currently less than 5 % of medical forms are freely accessible. Based on this lack of transparency harmonization of data models in health care is extremely cumbersome, thus work and know-how of completed clinical trials and routine documentation in hospitals are hard to be re-used. The MDM-Portal serves as an infrastructure for academic (non-commercial) medical research to contribute a solution to this problem. It already contains more than 4,000 system-independent forms (CDISC ODM Format, www.cdisc.org, Operational Data Model) with more than 380,000 dataelements. This enables researchers to view, discuss, download and export forms in most common technical formats such as PDF, CSV, Excel, SQL, SPSS, R, etc. A growing user community will lead to a growing database of medical forms. In this matter, we would like to encourage all medical researchers to register and add forms and discuss existing forms.</abstract>
+                    <note>Stand: September 2016</note>
+                    <subject lang="ger">
+                        <topic>Medizinische Daten-Modelle</topic>
+                        <topic>Klinische Studien</topic>
+                        <topic>Medizinische Dokumentationsformulare</topic>
+                        <topic>Patientenakte</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Medical Data Model</topic>
+                        <topic>Clinical studies</topic>
+                        <topic>Electronic Health Records (EHR)</topic>
+                        <topic>CDISC ODM</topic>
+                        <topic>HL7 CDA</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Medical-Data-Models.org</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Medical-Data-Models.org</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64249693781</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-sa/3.0/de/">CC BY-NC-SA 3.0  DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4f9faa6d-cbad-4c96-aade-2306f76bb642</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>research_data</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4f9faa6d-cbad-4c96-aade-2306f76bb642_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4f9faa6d-cbad-4c96-aade-2306f76bb642/mdm-archiv-2016.09.19.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4f9faa6d-cbad-4c96-aade-2306f76bb642" DMDID="DMD_4f9faa6d-cbad-4c96-aade-2306f76bb642">
+            <mets:fptr FILEID="FILE_4f9faa6d-cbad-4c96-aade-2306f76bb642_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

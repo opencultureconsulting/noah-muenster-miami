@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_180ed407-bdce-4386-a571-d9424cd3fd46">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reform der Lehrerbildung in Hamburg</title>
+                        <subTitle>Arbeitsstand im März 2007</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120942127">
+                        <displayForm>Lehberger, Reiner</displayForm>
+                        <namePart type="given">Reiner</namePart>
+                        <namePart type="family">Lehberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Vortrag auf dem 1. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 12.-14. März 2007 in Münster</note>
+                    <subject lang="ger">
+                        <topic>Bologna-Prozeß</topic>
+                        <topic>gestufte Lehrerausbildung</topic>
+                        <topic>Sozietäten</topic>
+                        <topic>Praxisphasen</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-19519597218</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_180ed407-bdce-4386-a571-d9424cd3fd46</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_180ed407-bdce-4386-a571-d9424cd3fd46_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/180ed407-bdce-4386-a571-d9424cd3fd46/Lehberger_Reform_der_Lehrerbildung_in_Hamburg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_180ed407-bdce-4386-a571-d9424cd3fd46" DMDID="DMD_180ed407-bdce-4386-a571-d9424cd3fd46">
+            <mets:fptr FILEID="FILE_180ed407-bdce-4386-a571-d9424cd3fd46_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

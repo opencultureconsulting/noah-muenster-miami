@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_51b08ad1-0a7d-4a3d-805e-64e0b4f4d766">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On rigidity of locally symmetric spaces</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1036575527">
+                        <displayForm>Peters, Chris</displayForm>
+                        <namePart type="given">Chris</namePart>
+                        <namePart type="family">Peters</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-11-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In this note I generalize the classical results of Calabi–Vesentini [3] (cp. also [2]) to certain noncompact locally symmetric domains, namely those that are quotients of a hermitian symmetric domain by a neat arithmetic subgroup of the group of its holomorphic automorphisms.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>277</start>
+                                <end>286</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-80299607370</identifier>
+                    <identifier type="doi">10.17879/80299606895</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_51b08ad1-0a7d-4a3d-805e-64e0b4f4d766</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_51b08ad1-0a7d-4a3d-805e-64e0b4f4d766_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/51b08ad1-0a7d-4a3d-805e-64e0b4f4d766/mjm_2017_10_277-286.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_51b08ad1-0a7d-4a3d-805e-64e0b4f4d766" DMDID="DMD_51b08ad1-0a7d-4a3d-805e-64e0b4f4d766">
+            <mets:fptr FILEID="FILE_51b08ad1-0a7d-4a3d-805e-64e0b4f4d766_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

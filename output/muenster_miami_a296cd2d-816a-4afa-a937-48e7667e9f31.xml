@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a296cd2d-816a-4afa-a937-48e7667e9f31">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>How Does the Past of a Soccer Match Influence Its Future? Concepts and Statistical Analysis</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1026658160">
+                        <displayForm>Heuer, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Heuer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121371441">
+                        <displayForm>Rubner, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Rubner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-30</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-02-26</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-02-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Scoring goals in a soccer match can be interpreted as a stochastic process. In the most simple description of a soccer match one assumes that scoring goals follows from independent rate processes of both teams. This would imply simple Poissonian and Markovian behavior. Deviations from this behavior would imply that the previous course of the match has an impact on the present match behavior. Here a general framework for the identification of deviations from this behavior is presented. For this endeavor it is essential to formulate an a priori estimate of the expected number of goals per team in a specific match. This can be done based on our previous work on the estimation of team strengths. Furthermore, the well-known general increase of the number of the goals in the course of a soccer match has to be removed by appropriate normalization. In general, three different types of deviations from a simple rate process can exist. First, the goal rate may depend on the exact time of the previous goals. Second, it may be influenced by the time passed since the previous goal and, third, it may reflect the present score. We show that the Poissonian scenario is fulfilled quite well for the German Bundesliga. However, a detailed analysis reveals significant deviations for the second and third aspect. Dramatic effects are observed if the away team leads by one or two goals in the final part of the match. This analysis allows one to identify generic features about soccer matches and to learn about the hidden complexities behind scoring goals. Among others the reason for the fact that the number of draws is larger than statistically expected can be identified.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2012/2013 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">PLOS ONE 7 (2012) 11, e47678</note>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27379574995</identifier>
+                    <identifier type="doi">doi:10.1371/journal.pone.0047678</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/2.5/">CC BY 2.5</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a296cd2d-816a-4afa-a937-48e7667e9f31</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a296cd2d-816a-4afa-a937-48e7667e9f31_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a296cd2d-816a-4afa-a937-48e7667e9f31/journal.pone.0047678.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a296cd2d-816a-4afa-a937-48e7667e9f31" DMDID="DMD_a296cd2d-816a-4afa-a937-48e7667e9f31">
+            <mets:fptr FILEID="FILE_a296cd2d-816a-4afa-a937-48e7667e9f31_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

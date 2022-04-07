@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_10c29f50-066e-4b5e-83fb-581f10e025db">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Transporter-Eigenschaften von ABCC 1 in vitro und in silicio</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129813249">
+                        <displayForm>Schröder, Björn</displayForm>
+                        <namePart type="given">Björn</namePart>
+                        <namePart type="family">Schröder</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1145392083">
+                        <displayForm>Galla, Hans-Joachim</displayForm>
+                        <namePart type="given">Hans-Joachim</namePart>
+                        <namePart type="family">Galla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-02-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-11-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wurde ein homologie-basiertes Modell für die derzeit unbekannte dreidimensionale Struktur der C-terminalen ATP-Bindungsdomäne erstellt. Dabei wurde sowohl ein Modell im Komplex mit ATP erstellt sowie eine nukleotidfreie Struktur modelliert und diskutiert. Eine Hydrolyse von ATP erfolgt auf Grundlage diese Modells wahrscheinlich aus der Interaktion mit der N-terminalen ATP-Bindungsdomäne. Die Unterschiede der Modelle mit und ohne ATP lassen auf eine Modulation der alpha-helikalen Domänenuntereinheit schließen. Die ATP-Abhängigkeit des in Milligram-Maßstab funktionell rekonstituierten Transportes wurde mit Hilfe von radioaktiven Substraten demonstriert. In dieser Arbeit konnten darüber hinaus weitere Indizien für die in der Literatur seit kurzer Zeit intensiv diskutierte subzelluläre Verteilung von MRP1 gewonnen werden, die die Möglichkeit eines vesikulären Transportes unter Beteiligung von MRP1 nicht ausschließen.</abstract>
+                    <subject lang="ger">
+                        <topic>MRP1</topic>
+                        <topic>ABCC1</topic>
+                        <topic>ATP-Bindungsdomäne</topic>
+                        <topic>Homologie Modelling</topic>
+                        <topic>Struktur</topic>
+                        <topic>CLSM</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-96699596266</identifier>
+                    <identifier type="sys">HT014326870</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_10c29f50-066e-4b5e-83fb-581f10e025db</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_10c29f50-066e-4b5e-83fb-581f10e025db_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/10c29f50-066e-4b5e-83fb-581f10e025db/diss_schroeder__doktorarbeit.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_10c29f50-066e-4b5e-83fb-581f10e025db" DMDID="DMD_10c29f50-066e-4b5e-83fb-581f10e025db">
+            <mets:fptr FILEID="FILE_10c29f50-066e-4b5e-83fb-581f10e025db_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

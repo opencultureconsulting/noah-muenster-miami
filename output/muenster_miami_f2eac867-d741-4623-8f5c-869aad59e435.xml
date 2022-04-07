@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f2eac867-d741-4623-8f5c-869aad59e435">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Design for Logistics</title>
+                        <subTitle>ein Beispiel für die logistikgerechte Gestaltung des Computer Integrated Manufacturing</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124360211">
+                        <displayForm>Becker, Jörg</displayForm>
+                        <namePart type="given">Jörg</namePart>
+                        <namePart type="family">Becker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/171210387">
+                        <displayForm>Rosemann, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Rosemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1993-07</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Einer rasch ansteigende Anzahl an Beiträgen widmet sich der zwischen Logistik und CIM bestehenden Beziehung. Zumeist besteht das Ergebnis dabei in der Identifikation einer Schnittmenge, in der sich beide Integrationsansätze treffen. Eine solche Schnittmengendefinition ist aber ohne unmittelbaren Nutzen. Dieser Arbeitsbericht zeigt an einem Beispiel auf, daß die Interdependenz zwischen beiden Konzepten - der Verbundenheit von Material- und Informationsflüssen entsprechend vielschichtiger ist, als die bisher ermittelten Berührungspunkte von Logistik und CIM vermuten lassen. Exemplarisch für den Blickwinkel CIM aus Sicht der Logistik wird die logistikgerechte Gestaltung der Konstruktion ausgeführt. Damit wird innerhalb des Produktentstehungsprozesses die Phase mit maximaler Gestaltungswirkung auf die Logistik untersucht. Im folgenden wird einerseits dargestellt, wie die Konstruktion Einfluß auf logistische Prozesse nehmen kann. Andererseits wird aufgezeigt,wodurch die Freiheitsgrade einer logistikgerechten Konstruktion abgesteckt werden. Anhand einer Beschreibung der Möglichkeiten der informatorischen Unterstützung des Konstrukteurs werden die datentechnischen Konsequenzen einer höheren Logistikorientierung im Konstruktionsprozeß deutlich. Der Arbeitsbericht endet mit einer Skizzierung der Schwierigkeiten bei der praktischen Umsetzung der aufgestellten Forderungen.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93599561052</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f2eac867-d741-4623-8f5c-869aad59e435</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f2eac867-d741-4623-8f5c-869aad59e435_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f2eac867-d741-4623-8f5c-869aad59e435/018_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f2eac867-d741-4623-8f5c-869aad59e435" DMDID="DMD_f2eac867-d741-4623-8f5c-869aad59e435">
+            <mets:fptr FILEID="FILE_f2eac867-d741-4623-8f5c-869aad59e435_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

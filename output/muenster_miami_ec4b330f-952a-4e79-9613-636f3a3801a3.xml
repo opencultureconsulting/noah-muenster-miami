@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ec4b330f-952a-4e79-9613-636f3a3801a3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fettelimination im Rahmen der Autotransfusion</title>
+                        <subTitle>eine In-vitro-Untersuchung verschiedener Filtersysteme</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132247895">
+                        <displayForm>Vagt, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Vagt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113352913">
+                        <displayForm>Bone, Hans-Georg</displayForm>
+                        <namePart type="given">Hans-Georg</namePart>
+                        <namePart type="family">Bone</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-10-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-09-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen der Autotransfusion intraoperativ angesaugten Blutes gilt es zur Vermeidung von Komplikationen wie dem Fettsäureemboliesyndrom oder ARDS darin enthaltene Fettpartikel vollständig zu eliminieren. In dieser Studie werden 3 verschiedene Transfusionsfilter u.a. auf ihre Fetteliminationseigenschaften untersucht. Keiner der genannten Filter erreicht eine annähernd vollständige Fettelimination. Selbst nach vorheriger Aufbereitung des Wundblutes mittels Cell Saver auf Glockenzentrifugenbasis werden maximal 91% des enthaltenen Öles zurückgehalten, können bei weiterer Verwendung des Filters jedoch z. T. erneut ausgewaschen werden. Um eine möglichst 100%ige Fettelimination zu garantieren, kann kein auf dem Markt befindlicher Transfusionsfilter empfohlen werden, sondern es empfielt sich zur Vermeidung fettinduzierter Transfusionskomplikationen die Verwendung eines Cell Savers der kontinuierlich aufbereitenden Generation.</abstract>
+                    <subject lang="ger">
+                        <topic>Autotransfusion</topic>
+                        <topic>Fettelimination</topic>
+                        <topic>Transfusionsfilter</topic>
+                        <topic>Cell-Saver</topic>
+                        <topic>Fettemboliesyndrom</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-71609584309</identifier>
+                    <identifier type="sys">HT014903764</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ec4b330f-952a-4e79-9613-636f3a3801a3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ec4b330f-952a-4e79-9613-636f3a3801a3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ec4b330f-952a-4e79-9613-636f3a3801a3/diss_vagt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ec4b330f-952a-4e79-9613-636f3a3801a3" DMDID="DMD_ec4b330f-952a-4e79-9613-636f3a3801a3">
+            <mets:fptr FILEID="FILE_ec4b330f-952a-4e79-9613-636f3a3801a3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

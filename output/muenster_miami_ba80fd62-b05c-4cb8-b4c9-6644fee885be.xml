@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ba80fd62-b05c-4cb8-b4c9-6644fee885be">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse der Lokalisation und Protein, Proteininteraktionen der kleinen GTPase rab1b</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128632135">
+                        <displayForm>Köster, Miriam</displayForm>
+                        <namePart type="given">Miriam</namePart>
+                        <namePart type="family">Köster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108605949">
+                        <displayForm>Barnekow, Angelika</displayForm>
+                        <namePart type="given">Angelika</namePart>
+                        <namePart type="family">Barnekow</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-12-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-12-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die rab Proteine gehören zur Familie der kleinen GTPasen und stellen molekulare Schalter in der Zelle dar, die in den intrazellulären Vesikel- und Membrantransport involviert sind. Für ihre Funktion ist neben ihrer korrekten Lokalisation auch die Interaktion mit anderen Proteinen wichtig. Deshalb sollte im Rahmen dieser Arbeit untersucht werden, welchen Einfluss einzelne Strukturmotive des rab1b Proteins auf dessen Lokalisation und seine Interaktion mit dem Protein PRA1 haben. Bei PRA1 scheint es sich um ein membrangebundenes Protein zu handeln, das bevorzugt mit GTPasen in der aktiven Konformation interagiert. Die Ergebnisse zeigen, dass der N-Terminus des rab1b Proteins nur zusammen mit dem C-Terminus desselben Proteins eine funktionelle Oberfläche für die korrekte Lokalisation sowie für die Bindung des Interaktionspartners PRA1 zu bilden scheint.</abstract>
+                    <subject lang="ger">
+                        <topic>GTPasen</topic>
+                        <topic>rab1b</topic>
+                        <topic>Struktur</topic>
+                        <topic>PRA1</topic>
+                        <topic>Proteininteraktion</topic>
+                        <topic>Lokalisation</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659527265</identifier>
+                    <identifier type="sys">HT013930731</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ba80fd62-b05c-4cb8-b4c9-6644fee885be</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ba80fd62-b05c-4cb8-b4c9-6644fee885be_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ba80fd62-b05c-4cb8-b4c9-6644fee885be/diss_mkoester.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ba80fd62-b05c-4cb8-b4c9-6644fee885be" DMDID="DMD_ba80fd62-b05c-4cb8-b4c9-6644fee885be">
+            <mets:fptr FILEID="FILE_ba80fd62-b05c-4cb8-b4c9-6644fee885be_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

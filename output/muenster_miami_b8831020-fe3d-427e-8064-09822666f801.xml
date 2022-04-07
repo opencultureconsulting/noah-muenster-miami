@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b8831020-fe3d-427e-8064-09822666f801">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mutation im ATRX-Gen als mögliche genetische Ursache männlicher Infertilität aufgrund eines Meiose-Arrestes in den männlichen Keimzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1250041899">
+                        <displayForm>Gleim, Greta</displayForm>
+                        <namePart type="given">Greta</namePart>
+                        <namePart type="family">Gleim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132149842">
+                        <displayForm>Tüttelmann, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Tüttelmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-01-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-11-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das ATRX-Gen kann bei Sequenzveränderungen zum ATRX-Syndrom führen, welches neben starken geistigen und körperlichen Beeinträchtigungen auch das Symptom der männlichen Infertilität beinhaltet. Die Hypothese der milden Mutation des ATRX-Gens wurde an einem Patientenkollektiv von 27 Patienten mit beidseitigem vollständigen Meiosearrest versucht zu bestätigen. Insgesamt befanden sich drei Sequenzveränderungen innerhalb der Exone, wovon keines mithilfe der computergestützten Analyse mit einer Infertilität in Zusammenhang gebracht werden konnte. Die 16 weiteren Sequenzveränderungen befanden sich alle außerhalb des kodierenden Bereiches mit keinerlei Einfluss auf den Spleißprozess. Der Vergleich der detektierten Häufigkeiten mit der Kontrollgruppe und der gnomAD Datenbank erbrachte keine Auffälligkeiten. Ein Zusammenhang zwischen Sequenzveränderungen im ATRX-Gen mit Folge eines vollständigen Meiosearrestes konnte damit nicht bestätigt werden oder nur in seltenen Fällen.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>ATRX</topic>
+                        <topic>Meiosearrest</topic>
+                        <topic>Infertilität</topic>
+                        <topic>Azoospermie</topic>
+                        <topic>Sequenzveränderung</topic>
+                        <topic>Spermatogenese</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55019464584</identifier>
+                    <identifier type="sys">HT021207473</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b8831020-fe3d-427e-8064-09822666f801</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b8831020-fe3d-427e-8064-09822666f801_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b8831020-fe3d-427e-8064-09822666f801/diss_gleim.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b8831020-fe3d-427e-8064-09822666f801" DMDID="DMD_b8831020-fe3d-427e-8064-09822666f801">
+            <mets:fptr FILEID="FILE_b8831020-fe3d-427e-8064-09822666f801_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

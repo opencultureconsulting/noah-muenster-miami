@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_96784f67-e855-4e91-9c44-f90f11c113ea">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Über die Historische Bibliothek der Propstei St. Petrus und Andreas in Brilon</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137611480">
+                        <displayForm>Bange, Franz-Josef</displayForm>
+                        <namePart type="given">Franz-Josef</namePart>
+                        <namePart type="family">Bange</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-10-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64669526747</identifier>
+                    <identifier type="sys">HT019453273</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_96784f67-e855-4e91-9c44-f90f11c113ea</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_96784f67-e855-4e91-9c44-f90f11c113ea_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/96784f67-e855-4e91-9c44-f90f11c113ea/Bange_Hist-Bib_Brilon.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_96784f67-e855-4e91-9c44-f90f11c113ea" DMDID="DMD_96784f67-e855-4e91-9c44-f90f11c113ea">
+            <mets:fptr FILEID="FILE_96784f67-e855-4e91-9c44-f90f11c113ea_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

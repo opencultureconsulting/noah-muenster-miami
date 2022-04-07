@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_16cff531-0319-4357-88d9-b9aba8d3d626">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Volle verschränkte Produkte für Quantengruppen und äquivariante KK-Theorie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128734205">
+                        <displayForm>Fischer, Robert</displayForm>
+                        <namePart type="given">Robert</namePart>
+                        <namePart type="family">Fischer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112466982">
+                        <displayForm>Echterhoff, Siegfried</displayForm>
+                        <namePart type="given">Siegfried</namePart>
+                        <namePart type="family">Echterhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-03</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Verschränkte Produkte sind unentbehrlich für das Studium C*-dynamischer Systeme. Es gibt stets ein volles verschränktes Produkt und eine konkret dargestellte reduzierte Version. In der äquivarianten KK-Theorie entsprechen diese dem äquivarianten Abstieg. Wir konstruieren das volle verschränkte Produkt bzw. den vollen Abstieg für Hopf-C*-Algebren. Für Quantengruppen erhalten wir deren reduzierte Varianten als Komposition der vollen mit einem Normalisierungs-Funktor. Die Frage nach voller Dualität führt zu dem Konzept der Maximalisierung. Wir erhalten ein Kriterium für Maximalisierbarkeit und daraus viele Beispiele, darunter auch eine reguläre Quantengruppe, welche weder mittelbar noch ko-mittelbar ist. In der KK-Theorie sehen wir, daß der volle Abstieg nicht immer bijektiv sein kann. Bei Gruppen besteht vielmehr ein enger Zusammenhang mit der K-Mittelbarkeit: Für eine derartige Gruppe ist der volle Abstieg stets ein Isomorphismus.</abstract>
+                    <subject lang="ger">
+                        <topic>Verschränkte Produkte</topic>
+                        <topic>Quantengruppen</topic>
+                        <topic>äquivariante KK-Theorie</topic>
+                        <topic>nichtkommutative Geometrie</topic>
+                        <topic>Dualitätstheorie</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526538</identifier>
+                    <identifier type="sys">HT013955694</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_16cff531-0319-4357-88d9-b9aba8d3d626</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_16cff531-0319-4357-88d9-b9aba8d3d626_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/16cff531-0319-4357-88d9-b9aba8d3d626/Dissertation.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_16cff531-0319-4357-88d9-b9aba8d3d626" DMDID="DMD_16cff531-0319-4357-88d9-b9aba8d3d626">
+            <mets:fptr FILEID="FILE_16cff531-0319-4357-88d9-b9aba8d3d626_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

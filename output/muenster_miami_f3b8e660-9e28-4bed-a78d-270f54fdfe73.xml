@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f3b8e660-9e28-4bed-a78d-270f54fdfe73">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Web-Wide Application Customization</title>
+                        <subTitle>The Case of Mashups</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129691518">
+                        <displayForm>Hagemann, Stephan</displayForm>
+                        <namePart type="given">Stephan</namePart>
+                        <namePart type="family">Hagemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, Gottfried</displayForm>
+                        <namePart type="given">Gottfried</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-08-29</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-08-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Application development of is commonly a balancing of interests, as the question of what should actually be implemented is answered differently by different stakeholders. This paper considers mashups, which are a way of allowing an application to grow beyond the capabilities of the original developers. First, it introduces several approaches to integrate mashups into the services, or Web pages, that they are based upon. These approaches commonly implement ways to determine which mashups are potentially relevant for display in a certain Web page context. One approach, ActiveTags, enables users to create reliable mashups based on tags, which effectively, leads to customized views of Web pages with tagged content. A scenario that demonstrates the potential benefits of this approach is presented. Second, a formalization of the approaches is presented which uses a relational analog to show their commonalities. The abstraction from implementation specifics opens the range of vision for fundamental capabilities and gives a clear picture of future work.</abstract>
+                    <subject lang="eng">
+                        <topic>Application customization</topic>
+                        <topic>mashups</topic>
+                        <topic>social tagging</topic>
+                        <topic>meta-programming</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39359467862</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f3b8e660-9e28-4bed-a78d-270f54fdfe73</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f3b8e660-9e28-4bed-a78d-270f54fdfe73_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f3b8e660-9e28-4bed-a78d-270f54fdfe73/ercis_wp_no_8.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f3b8e660-9e28-4bed-a78d-270f54fdfe73" DMDID="DMD_f3b8e660-9e28-4bed-a78d-270f54fdfe73">
+            <mets:fptr FILEID="FILE_f3b8e660-9e28-4bed-a78d-270f54fdfe73_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

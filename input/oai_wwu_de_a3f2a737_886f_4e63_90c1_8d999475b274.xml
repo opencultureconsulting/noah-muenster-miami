@@ -1,0 +1,201 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:a3f2a737-886f-4e63-90c1-8d999475b274" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:40">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_a3f2a737-886f-4e63-90c1-8d999475b274">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Nice Complete Sets of Pairwise Quasi-Orthogonal Masas</mods:title>
+                    <mods:subTitle>From the Basics to a Unique Encoding</mods:subTitle>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/106391583X">
+                    <mods:namePart type="given">Sebastian</mods:namePart>
+                    <mods:namePart type="family">Krusekamp</mods:namePart>
+                    <mods:namePart type="date">1978-</mods:namePart>
+                    <mods:displayForm>Krusekamp, Sebastian</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/137444311">
+                    <mods:namePart type="given">Joachim</mods:namePart>
+                    <mods:namePart type="family">Cuntz</mods:namePart>
+                    <mods:namePart type="date">1948-</mods:namePart>
+                    <mods:displayForm>Cuntz, Joachim</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2014</mods:dateIssued>
+                    <mods:dateOther>2014-08-14</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2014-12-16</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-07-27</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">In der Quantenphysik hat der Begriff der "Mutually unbiased bases", im folgenden kurz als MUBs bezeichnet, in den letzten 25 Jahren zunehmende Bedeutung erlangt. Die vorliegende Arbeit behandelt paarweise quasi-orthogonale maximale *-Unteralgebren (Masas) von &lt;br&gt;Matrixalgebren, die als algebraisches Gegenstück von MUBs verstanden werden können. Neben den Grundlagen dieses Themenkomplexes werden die bekanntesten Konstruktionsverfahren sog. vollständiger Familien von MUBs vorgestellt. Standardpaare von Masas werden besonders fokussiert, zudem zu sog. "normalen Paaren" verallgemeinert. Diese passen insoweit zum bekannten Konzept der "schönen Masa-Familien" von Aschbacher et al., als dass ein normales Paar stets auch eine schöne Familie ist. Das Hauptergebnis dieser Arbeit besagt, dass alle vollständigen schönen Masa-Familien auf eine einzige Weise codiert werden können. Ein äquivalentes Ergebnis findet sich schon bei Calderbank et al.; anders als dort wird es jedoch in der vorliegenden Arbeit mithilfe elementarer Matrixalgebra hergeleitet.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</mods:abstract>
+                  <mods:abstract lang="eng">Mutually unbiased bases (MUBs) have gained considerable importance in quantum physics over the past 25 years. The present thesis centres on pairwise quasi-orthogonal maximal abelian ∗-subalgebras (masas) of matrix algebras, which are an algebraic counterpart of MUBs. Starting from the basics, we first discuss the connections between equivalent pictures of MUBs, and then illustrate the most famous constructions of so-called complete sets of MUBs in prime power dimensions. We attach special importance on standard pairs of masas, and generalise this notion to pairs we call normal. Our concept of normal masa pairs is compatible with nice masa families defined by Aschbacher et al., in the sense that each normal masa pair is a nice family of length two. As the main result of this thesis, we prove that one unique method permits to encode all nice complete families. Calderbank et al. had established an equivalent result earlier; by contrast to their technique, the one presented here is based on elementary matrix algebra.&lt;br&gt;&lt;br&gt;&lt;br&gt;</mods:abstract>
+                  <mods:tableOfContents lang="eng">Introduction 1
+Motivation and subject classification . . . . . . . . . . . . . . . . . . . . . . . . 1
+Content and organisation of the present thesis . . . . . . . . . . . . . . . . . . 2
+Notations and conventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1 Maximal abelian *-subalgebras (masas) in the complex d×d-matrices 9
+1.1 Motivation: Finite dimensional quantum systems and maximal abelian
+*-subalgebras . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1.2 Masas in the complex d×d-matrices, and associated orthonormal bases
+and unitaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+1.3 Complex Hadamard matrices . . . . . . . . . . . . . . . . . . . . . . . . . 17
+1.4 Unitary Hilbert-Schmidt orthonormal bases of masas . . . . . . . . . . . 21
+2 Quasi-orthogonality of masas 27
+2.1 Motivation: Pairs of mutually unbiased bases in quantum physics . . . . 27
+2.2 Quasi-orthogonal masas, unbiased bases and unbiased unitaries . . . . . 29
+2.3 Measures of quasi-orthogonality . . . . . . . . . . . . . . . . . . . . . . . 41
+2.4 Equivalent, standard, and non-standard pairs of quasi-orthogonal masas 53
+2.5 Excursion: Standard pairs of masas and crossed products . . . . . . . . . 63
+3 Families of pairwise quasi-orthogonal masas 71
+3.1 Motivation: Optimal state-determination of quantum systems . . . . . . . 71
+3.2 Maximal and complete families of pairwise quasi-orthogonal masas and
+the MUB-Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+3.3 Constructions of complete quasi-orthogonal families of masas in prime
+power dimensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+3.4 A construction of quasi-orthogonal masa families in square dimensions 100
+3.5 Excursion: Mutually unbiased bases and design theory . . . . . . . . . . 104
+4 Nice masa families and the generalised Clifford algebra 115
+4.1 Nice unitary error bases . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+4.2 Normal pairs of quasi-orthogonal masas . . . . . . . . . . . . . . . . . . . 124
+4.3 Nice families of pairwise quasi-orthogonal masas . . . . . . . . . . . . . 134
+4.4 Nice complete masa families in the generalised Clifford algebra . . . . . 142
+4.5 Excursion: Concatenated normal pairs of masas . . . . . . . . . . . . . . . 154
+5 Smid families 161
+5.1 Equivalence classes of smid families and nice sets of masas . . . . . . . . 162
+5.2 Complete linear smid families in the matrix algebras M2(Fp) . . . . . . . 182
+5.3 Smid families in M2(Fp), permutation polynomials, and Latin squares . 190
+5.4 Smid families in small dimensions—some computer algebraic results . . 204
+Conclusion 209
+Appendix 211
+Bibliography 235
+List of figures 245
+List of symbols 247
+Index 251</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">mutually unbiased bases; MUBs; quasi-orthogonale Masas; vollständige Familie von MUBs; schöne Familie von MUBs; MUB-Problem; schöne Fehlerbasis</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Mutually unbiased bases; MUBs; Quasi-orthogonal masas; Complete set of MUBs; Nice set of MUBs; MUB-Problem; Nice error basis</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-41319449335</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/a3f2a737-886f-4e63-90c1-8d999475b274</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:a3f2a737-886f-4e63-90c1-8d999475b274</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_a3f2a737-886f-4e63-90c1-8d999475b274">
+            <mets:rightsMD ID="RIGHTSMD_a3f2a737-886f-4e63-90c1-8d999475b274">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_a3f2a737-886f-4e63-90c1-8d999475b274">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/a3f2a737-886f-4e63-90c1-8d999475b274</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="bff9169c106df209f6d865024be801978534cc540b39254821b25e5adb7eddff" CREATED="2015-07-27T07:23:18" CHECKSUMTYPE="SHA-256" SIZE="3010803" ID="ID_FIL_diss_krusekamp.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a3f2a737-886f-4e63-90c1-8d999475b274/diss_krusekamp.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWa3f2a737-886f-4e63-90c1-8d999475b274">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/a3f2a737-886f-4e63-90c1-8d999475b274" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_a3f2a737-886f-4e63-90c1-8d999475b274" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_krusekamp.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_krusekamp.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_a3f2a737-886f-4e63-90c1-8d999475b274" DMDID="DMD_a3f2a737-886f-4e63-90c1-8d999475b274" ID="ID_LOG_a3f2a737-886f-4e63-90c1-8d999475b274" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_krusekamp.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_a3f2a737-886f-4e63-90c1-8d999475b274" xlink:to="ID_PHY_a3f2a737-886f-4e63-90c1-8d999475b274"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_krusekamp.pdf" xlink:to="ID_PHY_diss_krusekamp.pdf"/>
+          </mets:structLink>
+        </mets:mets>

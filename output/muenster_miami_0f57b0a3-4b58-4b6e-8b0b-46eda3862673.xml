@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0f57b0a3-4b58-4b6e-8b0b-46eda3862673">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Renormierungsgruppenflussgleichungen und hydrodynamische Turbulenz</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132606755">
+                        <displayForm>Homeier, Dirk</displayForm>
+                        <namePart type="given">Dirk</namePart>
+                        <namePart type="family">Homeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, Gernot</displayForm>
+                        <namePart type="given">Gernot</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-02-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-01-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit wurde die nichtkanonische Statistik turbulenter Fluide mittels Methoden der Quantenfeldtheorie, insbesondere der exakten Renormierungsgruppe nach Wilson, untersucht. Zunächst wurde dafür ein erzeugendes Funktional der inkompressiblen Navier-Stokes-Gleichung, gefolgt von einer RG-Gleichung mit vom Autor eingeführten Cutoff hergeleitet. Die nach Approximation entstehenden Gleichungen wurden numerisch simuliert.</abstract>
+                    <subject lang="ger">
+                        <topic>Renormierungsgruppe</topic>
+                        <topic>Turbulenz</topic>
+                        <topic>K41</topic>
+                        <topic>Statistik</topic>
+                        <topic>Inkompressibilität</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09599536654</identifier>
+                    <identifier type="sys">HT015306526</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0f57b0a3-4b58-4b6e-8b0b-46eda3862673</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0f57b0a3-4b58-4b6e-8b0b-46eda3862673_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0f57b0a3-4b58-4b6e-8b0b-46eda3862673/diss_homeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0f57b0a3-4b58-4b6e-8b0b-46eda3862673" DMDID="DMD_0f57b0a3-4b58-4b6e-8b0b-46eda3862673">
+            <mets:fptr FILEID="FILE_0f57b0a3-4b58-4b6e-8b0b-46eda3862673_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4bcdcf89-a7cf-489d-ac02-96badf2f8ff4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Veränderung von Nahschusszeichen bei Verwendung von schalldämpfenden Laufvorsätzen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142787027">
+                        <displayForm>Wacker, Albrecht Ferdinand</displayForm>
+                        <namePart type="given">Albrecht Ferdinand</namePart>
+                        <namePart type="family">Wacker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Karger, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Karger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-11-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-10-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Schmauchbilder von Selbstladepistolen werden bis zu einer Schußentfernung von 150 cm mit freier Mündung und mit Schalldämpfern untersucht in den Kalibern .22 lfB, 7.65, 9 mm Parabellum und .45 ACP, 15 Laborierungen von 10 Herstellern, 17 Schalldämpfer mit 7 verschiedenen Dämpfungssystemen, insgesamt 682 Schuß mit 10 Pistolen und 2 Gewehren. Durch Verwendung eines Hohlkörpers als Mündungsvorsatz reduzieren sich Menge und Intensität von Schmauch und Auswurf. Primitivdämpfer sind an einem atypischem Schmauch- und Auswurfbild zu identifizieren. Anhaltspunkte für einen Dämpfergebrauch sind: auffallend geringe Schmauch- und Auswurfspuren, unsymetrisches Schmauch- und Auswurfbild bei Dämpfern mit Durchschussblenden und bei Pet-Flaschen, asymetrisch eingeschlagene Geschosse durch Blendenkontakt im Dämpfer, Kunstoff-, Gummi-, Aluminium-, Stahl- oder z.B. Pet-Partikel in und um die Eintrittwunde, Prallmarken bis hin zu massiven Läsionen durch ausgebrochene Dämpferinnenteile.</abstract>
+                    <subject lang="ger">
+                        <topic>Schalldämpfer</topic>
+                        <topic>Schusszeichen</topic>
+                        <topic>Schmauch</topic>
+                        <topic>Waffenschalldämpfer</topic>
+                        <topic>PET-Flasche</topic>
+                        <topic>Schussentfernung</topic>
+                        <topic>Nahschusszeichen</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-96419492477</identifier>
+                    <identifier type="sys">HT016583023</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4bcdcf89-a7cf-489d-ac02-96badf2f8ff4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4bcdcf89-a7cf-489d-ac02-96badf2f8ff4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4bcdcf89-a7cf-489d-ac02-96badf2f8ff4/diss_wacker.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4bcdcf89-a7cf-489d-ac02-96badf2f8ff4" DMDID="DMD_4bcdcf89-a7cf-489d-ac02-96badf2f8ff4">
+            <mets:fptr FILEID="FILE_4bcdcf89-a7cf-489d-ac02-96badf2f8ff4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

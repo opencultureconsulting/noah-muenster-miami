@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_43d176c8-f321-49fe-9312-78cb4d5468e0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="spa">
+                        <title>El invento en el Siglo de Oro español</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Ch.</displayForm>
+                        <namePart type="given">Ch.</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzky, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-11-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">spa</languageTerm>
+                    </language>
+                    <note type="citation/reference">Funes, Leonardo (Hrsg.): Hispanismos del mundo. Diálogos y debates en (y desde) el Sur. Asociación Internacional de hispanistas, Congreso. Buenos Aires : Miño y Dávila, 2016, S. 53-74</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Miño y Dávila Verlages.</note>
+                    <classification authority="ddc">860</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-50249501898</identifier>
+                    <identifier type="isbn">9788416467198</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_43d176c8-f321-49fe-9312-78cb4d5468e0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_43d176c8-f321-49fe-9312-78cb4d5468e0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/43d176c8-f321-49fe-9312-78cb4d5468e0/strosetzki_2016_invento.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_43d176c8-f321-49fe-9312-78cb4d5468e0" DMDID="DMD_43d176c8-f321-49fe-9312-78cb4d5468e0">
+            <mets:fptr FILEID="FILE_43d176c8-f321-49fe-9312-78cb4d5468e0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

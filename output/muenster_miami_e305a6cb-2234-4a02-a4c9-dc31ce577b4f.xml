@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e305a6cb-2234-4a02-a4c9-dc31ce577b4f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>AI meets DA</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120896028">
+                        <displayForm>Grießhaber, Wilhelm</displayForm>
+                        <namePart type="given">Wilhelm</namePart>
+                        <namePart type="family">Grießhaber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-06-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-06</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Beitrag beschäftigt sich mit der Diskursmodellierung im Rahmen des Forschungsverbundprojekts Verbmobil, das industrielle und universitäre Forschungseinrichtungen zur Entwicklung eines mobilen Dolmetschcomputers zusammenführte. Dabei wird aufgezeigt, daß sich die Informatik schwer tat, die Erfahrungen der funktionalen Pragmatik einzubinden. Der Nutzen der Diskursanalyse im Rahmen der Pragmatik für die Informatik wird in drei Punkten gesehen: (a) aus einem zweckbezogenen Verständnis sprachlichen Handelns berücksichtigt die DA über die unmittelbar sichtbaren sprachlichen Handlungen auch die gesellschaftlichen Voraussetzungen und Rahmenbedingungen des Handelns und die erschließbaren mentalen Dimensionen (&quot;Einbettung&quot;, &quot;Motivierung&quot;, &quot;Authentizität&quot; usw.); (b) aus einer funktional-zweckbezogenen Sicht auf die sprachlichen Mittel und ihre Verwendung beim sprachlichen Handeln folgt eine Modellierung des Handelns im Handlungsmuster, das eine adäquatere Diskursmodellierung und Klassifizierung sprachlicher Mittel erlaubt als die in der KI verwendeten flachen Modellierungsverfahren; (c) durch Verwendung computergestützter Werkzeuge, z.B. von Petri-Netzen, werden dynamische Modellierungen möglich, die die statischen Musterdiagramme einerseits abstrakt modellieren, andererseits mit eingegebenen Daten konkrete Musterdurchläufe simulieren; damit werden auch die Grenzen zwischen qualitativen und quantitativen Forschungsmethoden überwindbar.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Papers in applied linguistics Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Papers in applied linguistics Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659547453</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e305a6cb-2234-4a02-a4c9-dc31ce577b4f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e305a6cb-2234-4a02-a4c9-dc31ce577b4f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e305a6cb-2234-4a02-a4c9-dc31ce577b4f/1999_02.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e305a6cb-2234-4a02-a4c9-dc31ce577b4f" DMDID="DMD_e305a6cb-2234-4a02-a4c9-dc31ce577b4f">
+            <mets:fptr FILEID="FILE_e305a6cb-2234-4a02-a4c9-dc31ce577b4f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

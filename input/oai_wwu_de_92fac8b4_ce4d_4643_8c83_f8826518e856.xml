@@ -1,0 +1,188 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:92fac8b4-ce4d-4643-8c83-f8826518e856" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:47:03">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_92fac8b4-ce4d-4643-8c83-f8826518e856">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="ger">
+                    <mods:title script="Latn">Über den Shor-Algorithmus und Quantencomputer</mods:title>
+                  </mods:titleInfo>
+                  <mods:titleInfo type="translated" lang="eng">
+                    <mods:title script="Latn">About Shor's algorithm and quantum computers</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1142153177">
+                    <mods:namePart type="given">Jan</mods:namePart>
+                    <mods:namePart type="family">Mandrysch</mods:namePart>
+                    <mods:displayForm>Mandrysch, Jan</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/118016326">
+                    <mods:namePart type="given">Raimar</mods:namePart>
+                    <mods:namePart type="family">Wulkenhaar</mods:namePart>
+                    <mods:namePart type="date">1970-</mods:namePart>
+                    <mods:displayForm>Wulkenhaar, Raimar</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>masterThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2016-08-13</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2017-05-12</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2017-05-12</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>54</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Diese Bachelorarbeit dient der Erläuterung des Shor-Algorithmus mit besonderem Augenmerk auf seine nicht-klassischen Bestandteile. Sie beinhaltet einen einführenden Teil zu theoretischer Informatik und Quantum Computing, eine detaillierte Darstellung des Algorithmus mit seinen Konstituenten wie Quantenphasenschätzung und Quantenfouriertransformation sowie eine Herleitung einer Abschätzung für die Laufzeitkomplexität des Algorithmus und einem kurzen Teil über die Schwierigkeiten bei der praktischen Umsetzung des Algorithmus, das heißt der Konstruktion von Quantencomputern.</mods:abstract>
+                  <mods:abstract lang="eng">This Bachelor’s thesis focuses on the explanation of Shor’s algorithm, especially the quantum part. It encompasses an introductory part on theoretical computer science and quantum computing giving the necessary knowledge for understanding Shor’s algorithm, a detailed presentation of the algorithm itself with its constituent parts like quantum phase approximation and the quantum fourier transform, as well as a derivation of the algorithm’s running time complexity and a short part on the difficulties of constructing quantum computers that could implement Shor’s algorithm.</mods:abstract>
+                  <mods:tableOfContents lang="ger">1 Der Shor-Algorithmus und seine Motivation ..... 3&#13;
+1.1 RSA-Verschlüsselung ..... 5&#13;
+2 Theoretische Grundlagen ..... 7&#13;
+2.1 Endliche Gruppen- und Zahlentheorie ..... 8&#13;
+2.2 Theoretische Informatik ..... 9&#13;
+2.2.1 Algorithmen und Komplexitätstheorie ..... 9&#13;
+2.2.2 Rechnermodelle ..... 10&#13;
+2.2.3 Quantenalgorithmen ..... 12&#13;
+2.3 Quantenmechanische Zustände und Messprozesse ..... 13&#13;
+2.4 Quantum Computation - Qubits und Quantenregister ..... 16&#13;
+2.5 Quantum Computation - Quantengatter ..... 18&#13;
+2.5.1 Elementare Gatter für ein Qubit ..... 18&#13;
+2.5.2 Anwendung von 1-Qubit-Gattern auf Multi-Qubits ..... 19&#13;
+2.5.3 Kontrollierte Gatter ..... 20&#13;
+2.5.4 Universelle Quantengatter ..... 21&#13;
+3 Detaillierte Erläuterung des Algorithmus ..... 23&#13;
+3.1 Reduktion des Faktorisierungsproblems ..... 24&#13;
+3.2 Das Ordnungsbestimmungsproblem ..... 26&#13;
+3.3 Quantenfouriertransformation ..... 26&#13;
+3.4 Quantenphasenschätzung ..... 27&#13;
+3.5 Ordnungsbestimmung mittels Quantenphasenschätzung ..... 33&#13;
+3.6 Kettenbruchentwicklung zur Ordnungsbestimmung ..... 35&#13;
+3.7 Vorschlag zur Verbesserung des Algorithmus ..... 37&#13;
+3.8 Zusammenfassung des vollständigen Algorithmus ..... 39&#13;
+3.9 Beispielhafte Durchführung des Algorithmus für N = 21 ..... 40&#13;
+4 Abschätzung des Aufwandes ..... 42&#13;
+5 Schwierigkeiten bei der Umsetzung - Konstruktion von Quantencomputern ..... 49</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Shor-Algorithmus; Primfaktorzerlegung; Laufzeitkomplexität; Quantenalgorithmus; Quantencomputer; Quantenphasenschätzung; Quantenfouriertransformation</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Shor's algorithm; prime factorization; time complexity; quantum algorithm; quantum computer; quantum phase approximation; quantum Fourier transform</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">539</mods:classification>
+                  <mods:classification authority="ddc">530</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-42239542367</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/92fac8b4-ce4d-4643-8c83-f8826518e856</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY-SA 3.0  DE</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by-sa/3.0/de/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:92fac8b4-ce4d-4643-8c83-f8826518e856</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_92fac8b4-ce4d-4643-8c83-f8826518e856">
+            <mets:rightsMD ID="RIGHTSMD_92fac8b4-ce4d-4643-8c83-f8826518e856">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_92fac8b4-ce4d-4643-8c83-f8826518e856">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/92fac8b4-ce4d-4643-8c83-f8826518e856</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d344862a28ec42cddd52f7a7f25b219bc55dcc8246ea8435ef71fd7bd2f9f17c" CREATED="2017-05-12T12:42:41" CHECKSUMTYPE="SHA-256" SIZE="452600" ID="ID_FIL_bachelor_mandrysch_2017.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/92fac8b4-ce4d-4643-8c83-f8826518e856/bachelor_mandrysch_2017.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW92fac8b4-ce4d-4643-8c83-f8826518e856">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/92fac8b4-ce4d-4643-8c83-f8826518e856" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_92fac8b4-ce4d-4643-8c83-f8826518e856" TYPE="physSequence">
+              <mets:div ID="ID_PHY_bachelor_mandrysch_2017.pdf">
+                <mets:fptr FILEID="ID_FIL_bachelor_mandrysch_2017.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_92fac8b4-ce4d-4643-8c83-f8826518e856" DMDID="DMD_92fac8b4-ce4d-4643-8c83-f8826518e856" ID="ID_LOG_92fac8b4-ce4d-4643-8c83-f8826518e856" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_bachelor_mandrysch_2017.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_92fac8b4-ce4d-4643-8c83-f8826518e856" xlink:to="ID_PHY_92fac8b4-ce4d-4643-8c83-f8826518e856"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_bachelor_mandrysch_2017.pdf" xlink:to="ID_PHY_bachelor_mandrysch_2017.pdf"/>
+          </mets:structLink>
+        </mets:mets>

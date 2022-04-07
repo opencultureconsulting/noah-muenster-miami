@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_441c707c-c659-424e-9ec0-f6adf5200a21">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Sustainability in Uncertainty?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gosalia, Apurva</displayForm>
+                        <namePart type="given">Apurva</namePart>
+                        <namePart type="family">Gosalia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note>Section &quot;Commentary&quot;</note>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Journal of Business Chemistry</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Journal of Business Chemistry</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>44</start>
+                                <end>48</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27069429918</identifier>
+                    <identifier type="doi">10.17879/27069428886</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_441c707c-c659-424e-9ec0-f6adf5200a21</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_441c707c-c659-424e-9ec0-f6adf5200a21_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/441c707c-c659-424e-9ec0-f6adf5200a21/jbc_2021_18_2_44-48.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_441c707c-c659-424e-9ec0-f6adf5200a21" DMDID="DMD_441c707c-c659-424e-9ec0-f6adf5200a21">
+            <mets:fptr FILEID="FILE_441c707c-c659-424e-9ec0-f6adf5200a21_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

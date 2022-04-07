@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dda9a16b-3830-4190-b0fe-45ccf4d7f5fc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Anwendung von in vivo Methoden zur Untersuchung der Protein-S-Acylierung am Tonoplasten in Arabidopsis thaliana</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="alternative">
+                        <title>Entwicklung und Anwendung von In-vivo-Methoden zur Untersuchung der Protein-S-Acylierung am Tonoplasten in Arabidopsis thaliana</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1117918211">
+                        <displayForm>Beckmann, Linda</displayForm>
+                        <namePart type="given">Linda</namePart>
+                        <namePart type="family">Beckmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1199570133">
+                        <displayForm>Kudla, Jörg</displayForm>
+                        <namePart type="given">Jörg</namePart>
+                        <namePart type="family">Kudla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-09-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In Arabidopsis thaliana wurden 24 Protein-S-Acyltransferasen (PATs) und 600 S-acylierte Proteine identifiziert. Über die physiologischen Funktionen der pflanzlichen PATs und die Identität ihrer Substrate ist jedoch nicht viel bekannt. In dieser Arbeit wurden neue Methoden entwickelt, mit denen funktionale PAT-Substrat Module in vivo ermittelt werden können. Diese Methoden wurden angewendet, um die Lipidmodifikation von Calcineurin B-ähnlichen Proteinen aus A. thaliana durch verschiedene pflanzliche PATs zu identifizieren und weiter zu charakterisieren. Darüber hinaus wurde ein Protein der pflanzlichen hypersensitiven Antwort (HIR1) durch Anwendung der neu etablierten Methoden als S-Acylierungssubstrat identifiziert. Die in dieser Arbeit erzielten Ergebnisse zeigen die Anwendbarkeit der neuen Methoden zur Untersuchung der Protein-S-Acylierung, sowie deren Mechanismen und Funktionen.</abstract>
+                    <subject lang="ger">
+                        <topic>Protein-S-Acylierung</topic>
+                        <topic>Lipidmodifikationen</topic>
+                        <topic>Tonoplast</topic>
+                        <topic>Protein-S-Acyltransferasen (PATs)</topic>
+                        <topic>Calcineurin B-ähnliche Proteine (CBLs)</topic>
+                        <topic>Proteine der pflanzlichen hypersensitiven Antwort (HIR)</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34229507186</identifier>
+                    <identifier type="sys">HT019142753</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dda9a16b-3830-4190-b0fe-45ccf4d7f5fc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dda9a16b-3830-4190-b0fe-45ccf4d7f5fc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dda9a16b-3830-4190-b0fe-45ccf4d7f5fc/diss_beckmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dda9a16b-3830-4190-b0fe-45ccf4d7f5fc" DMDID="DMD_dda9a16b-3830-4190-b0fe-45ccf4d7f5fc">
+            <mets:fptr FILEID="FILE_dda9a16b-3830-4190-b0fe-45ccf4d7f5fc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

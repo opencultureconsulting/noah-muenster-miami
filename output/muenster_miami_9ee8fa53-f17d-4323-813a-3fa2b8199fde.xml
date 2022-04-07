@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9ee8fa53-f17d-4323-813a-3fa2b8199fde">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grußwort zum PBS-Treffen am 2. März 2005</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113382367">
+                        <displayForm>Berntzen, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Berntzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-02-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Grußwort zum PBS-Treffen am 2. März 2005 im Alexander-von-Humboldt-Haus (PBS = Praktikum im Berufsfeld Schule; Infos zum PBS unter www.zfl.uni-muenster.de)</abstract>
+                    <subject lang="ger">
+                        <topic>Grußwort</topic>
+                        <topic>PBS</topic>
+                        <topic>Praktikum im Berufsfeld Schule</topic>
+                        <topic>Praxisphasen</topic>
+                        <topic>Studienreform</topic>
+                        <topic>Lehrerbildung</topic>
+                        <topic>Lehrerausbildung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64329617411</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9ee8fa53-f17d-4323-813a-3fa2b8199fde</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9ee8fa53-f17d-4323-813a-3fa2b8199fde_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9ee8fa53-f17d-4323-813a-3fa2b8199fde/GRUSSWORT_PBS-TREFFEN_02_03_2005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9ee8fa53-f17d-4323-813a-3fa2b8199fde" DMDID="DMD_9ee8fa53-f17d-4323-813a-3fa2b8199fde">
+            <mets:fptr FILEID="FILE_9ee8fa53-f17d-4323-813a-3fa2b8199fde_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

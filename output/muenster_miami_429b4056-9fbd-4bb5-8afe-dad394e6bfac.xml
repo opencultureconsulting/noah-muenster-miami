@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_429b4056-9fbd-4bb5-8afe-dad394e6bfac">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kontrastmittelunterstützte MRT zur Gewebedarstellung des RES unter Verwendung von SHU 555 A und dreier Derivate</title>
+                        <subTitle>Ergebnisse einer tierexperimentellen Studie</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129448605">
+                        <displayForm>Bärmig, Jörg</displayForm>
+                        <namePart type="given">Jörg</namePart>
+                        <namePart type="family">Bärmig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Reimer, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Reimer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-10-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-09-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Einfluß der Partikelgröße u. Dosierung auf die Aufnahme des KM SHU555A (Partikelgröße 65nm) u. 3 Derivate (22nm, 33nm, 46nm)in RES-haltige Organe am MRT wurde untersucht. Besonderes Interesse galt der ultrakleinen Eisenoxidpartikel. Die KM wurden Kaninchen in Dosierungen von 10, 20, oder 40 µmol Fe/ kg i.v. appliziert u. Aufnahmen vor, 2h+24h nach KM-Gabe, sowie ex-vivo mit T1w SE- und T2w TSE-Sequenzen gefertigt. Das Signalverhalten von Leber, Milz u. Knochen war nahezu identisch. Jede Dosierung u. Partikelgröße ergab eine signifikante Signalbeeinflussung, als auch eine klare Dosis-Wirk-Beziehung nach 2h und 24 h. Reduzierung der Partikelgröße ergab einen verminderten Signalabfall. In Lymphknoten wurde ex-vivo noch mittels Massenspektrometrie eine signifikante Aufnahme des KM noch eine Kontrastierung gesehen. Höher dosierte ultrakleine Eisenoxidpartikel könnten für die KM-Darstellung von Leber, Milz, Knochenmark u. zur gleichzeitigen Anwendung in MR-Angiographien eingesetzt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>MRT</topic>
+                        <topic>RES</topic>
+                        <topic>SHU 555 A</topic>
+                        <topic>Eisenoxidpartikel</topic>
+                        <topic>Resovist</topic>
+                        <topic>SPIO</topic>
+                        <topic>USPIO</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38649439975</identifier>
+                    <identifier type="sys">HT014168523</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_429b4056-9fbd-4bb5-8afe-dad394e6bfac</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_429b4056-9fbd-4bb5-8afe-dad394e6bfac_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/429b4056-9fbd-4bb5-8afe-dad394e6bfac/diss_baermig.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_429b4056-9fbd-4bb5-8afe-dad394e6bfac" DMDID="DMD_429b4056-9fbd-4bb5-8afe-dad394e6bfac">
+            <mets:fptr FILEID="FILE_429b4056-9fbd-4bb5-8afe-dad394e6bfac_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

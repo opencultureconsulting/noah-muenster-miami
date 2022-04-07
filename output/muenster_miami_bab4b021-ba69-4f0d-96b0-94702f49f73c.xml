@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bab4b021-ba69-4f0d-96b0-94702f49f73c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reductions, resolutions and the copolarity of isometric group actions</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135736293">
+                        <displayForm>Magata, Frederick</displayForm>
+                        <namePart type="given">Frederick</namePart>
+                        <namePart type="family">Magata</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172812445">
+                        <displayForm>Kramer, Linus</displayForm>
+                        <namePart type="given">Linus</namePart>
+                        <namePart type="family">Kramer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-05-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-05-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir verallgemeinern Strukturresultate für Reduktionen und die Kopolarität beliebiger isometrischer Gruppenwirkungen, die von Gorodski, Olmos und Tojeiro für orthogonale Darstellungen gezeigt wurden. Ferner beweisen wir eine Integrationsformel für isometrische Gruppenwirkungen, konstruieren globale Auflösungen isometrischer Gruppenwirkungen bezüglich dicker Schnitte, und zeigen, wie Reduktionen benutzt werden können um variationelle Vollständigkeit zu untersuchen. Wir berechnen auch detailliert Reduktionen von speziellen isometrischen Gruppenwirkungen.</abstract>
+                    <abstract lang="eng">We generalize structural results on reductions and the copolarity of arbitrary isometric group actions, which were established by Gorodski, Olmos and Tojeiro in the case of orthogonal representations. Furthermore, we prove an integration formula for isometric group actions, construct global resolutions of isometric actions with respect to fat sections, and show how reductions can be used to study variational completeness. We also compute in detail reductions of special isometric actions.</abstract>
+                    <subject lang="ger">
+                        <topic>Isometrische Gruppenwirkungen</topic>
+                        <topic>Integrationsformeln</topic>
+                        <topic>variationelle Vollständigkeit</topic>
+                        <topic>polare Wirkungen</topic>
+                        <topic>Auflösungen</topic>
+                        <topic>Reduktionen</topic>
+                        <topic>Kopolarität</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-65529654082</identifier>
+                    <identifier type="sys">HT015592543</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bab4b021-ba69-4f0d-96b0-94702f49f73c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bab4b021-ba69-4f0d-96b0-94702f49f73c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bab4b021-ba69-4f0d-96b0-94702f49f73c/diss_magata.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bab4b021-ba69-4f0d-96b0-94702f49f73c" DMDID="DMD_bab4b021-ba69-4f0d-96b0-94702f49f73c">
+            <mets:fptr FILEID="FILE_bab4b021-ba69-4f0d-96b0-94702f49f73c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

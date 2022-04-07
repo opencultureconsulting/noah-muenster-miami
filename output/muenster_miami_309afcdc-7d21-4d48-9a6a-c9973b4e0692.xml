@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_309afcdc-7d21-4d48-9a6a-c9973b4e0692">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>behavior of Nil-groups under localization</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130670863">
+                        <displayForm>Grunewald, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Grunewald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133867072">
+                        <displayForm>Lück, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Lück</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-12-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-11-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Doktorarbeit befasst sich mit dem Verhalten von Nil-Gruppen unter Lokalisierung. Es wird bewiesen, dass die Nil-Gruppen von dem lokalisierten Ring isomorph zu einem Kolimes über die Nil-Gruppen des Ringes sind. Desweiteren wird gezeigt, dass einige Nil-Gruppen Moduln über dem Ring der Witt-Vektoren sind. Kombiniert man diese beiden Resultate erhält man die Aussage, dass Lokalisieren und Nil-Gruppen nehmen kommutiert. Dies impliziert dass Nil-Gruppen von endlichen Gruppen Torsions-Gruppen sind. Hieraus folgt, dass die Farrell-Jones Vermutung aussagt, dass rational die Bausteine der K-theorie von Gruppen die K-theorie endlicher Gruppen ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Nil-Gruppen</topic>
+                        <topic>Lokalisierung</topic>
+                        <topic>Witt-Vektoren</topic>
+                        <topic>Farrell-Jones-Vermutung</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14619578867</identifier>
+                    <identifier type="sys">HT014594771</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_309afcdc-7d21-4d48-9a6a-c9973b4e0692</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_309afcdc-7d21-4d48-9a6a-c9973b4e0692_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/309afcdc-7d21-4d48-9a6a-c9973b4e0692/diss_Grunewald.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_309afcdc-7d21-4d48-9a6a-c9973b4e0692" DMDID="DMD_309afcdc-7d21-4d48-9a6a-c9973b4e0692">
+            <mets:fptr FILEID="FILE_309afcdc-7d21-4d48-9a6a-c9973b4e0692_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

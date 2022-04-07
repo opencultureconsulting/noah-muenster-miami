@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e8c95a7b-da3c-462c-81b1-db07974e1c71">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Non-commutative twisted Euler characteristic</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Shekhar, Sudhanshu</displayForm>
+                        <namePart type="given">Sudhanshu</namePart>
+                        <namePart type="family">Shekhar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jha, Somnath</displayForm>
+                        <namePart type="given">Somnath</namePart>
+                        <namePart type="family">Jha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-10-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>12</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87109585526</identifier>
+                    <identifier type="doi">10.17879/87109581450</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e8c95a7b-da3c-462c-81b1-db07974e1c71</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e8c95a7b-da3c-462c-81b1-db07974e1c71_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e8c95a7b-da3c-462c-81b1-db07974e1c71/mjm_2018_11_01-12.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e8c95a7b-da3c-462c-81b1-db07974e1c71" DMDID="DMD_e8c95a7b-da3c-462c-81b1-db07974e1c71">
+            <mets:fptr FILEID="FILE_e8c95a7b-da3c-462c-81b1-db07974e1c71_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

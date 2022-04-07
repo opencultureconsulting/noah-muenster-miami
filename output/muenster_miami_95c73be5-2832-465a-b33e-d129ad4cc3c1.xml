@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_95c73be5-2832-465a-b33e-d129ad4cc3c1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gender, mood, and working-memory</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137189877">
+                        <displayForm>Schöning, Sonja</displayForm>
+                        <namePart type="given">Sonja</namePart>
+                        <namePart type="family">Schöning</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1017677212">
+                        <displayForm>Zwitserlood, Catharina</displayForm>
+                        <namePart type="given">Catharina</namePart>
+                        <namePart type="family">Zwitserlood</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-02-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-08-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Dissertation untersucht in zwei Studien mittels fMRT a) den Einfluss von Geschlecht und Sexualhormonen auf die Fähigkeit, mental Objekte im visuell-räumlichen Arbeitsgedächtnis zu rotieren und b) die Bedeutung klinisch relevanter Depression für eine verbale Arbeitsgedächtnisaufgabe. Die erste Studie zeigt, dass die neuronalen Netzwerke für die mentale Rotationsaufgabe bei Frauen und Männern zwar qualitativ sehr ähnlich ausgeprägt sind, es jedoch innerhalb dieses Netzwerkes signifikante Unterschiede zwischen Männern und Frauen in Abhängigkeit von der Zyklusphase gibt. Die zweite Studie findet bei remittierten, unipolar depressiven Patienten auch nach Abklingen der affektiven Symptomatik eine abnorme Aktivierung des cingulären Cortex. Zusammenfassend wird gezeigt, dass kognitive Funktionsbereiche, insbesondere das verbale und visuell-räumliche Arbeitsgedächtnis, durch Faktoren wie Geschlecht und hormonelle Einflüsse sowie durch affektive Erkrankungen beeinflusst werden können.</abstract>
+                    <subject lang="ger">
+                        <topic>Arbeitsgedächtnis</topic>
+                        <topic>Bildgebung</topic>
+                        <topic>fMRT</topic>
+                        <topic>mentale Rotation</topic>
+                        <topic>N-Back</topic>
+                        <topic>Geschlechtsunterschiede</topic>
+                        <topic>Depression</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-72559446482</identifier>
+                    <identifier type="sys">HT015861452</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_95c73be5-2832-465a-b33e-d129ad4cc3c1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_95c73be5-2832-465a-b33e-d129ad4cc3c1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/95c73be5-2832-465a-b33e-d129ad4cc3c1/diss_schoening.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_95c73be5-2832-465a-b33e-d129ad4cc3c1" DMDID="DMD_95c73be5-2832-465a-b33e-d129ad4cc3c1">
+            <mets:fptr FILEID="FILE_95c73be5-2832-465a-b33e-d129ad4cc3c1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

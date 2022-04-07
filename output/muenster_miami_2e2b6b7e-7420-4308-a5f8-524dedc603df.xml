@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2e2b6b7e-7420-4308-a5f8-524dedc603df">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Septin-assoziierte RhoGEF</title>
+                        <subTitle>Ein neuer Interaktionspartner des Zellpolaritäts- und Gerüstproteins PATJ</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1011643197">
+                        <displayForm>Dlugos, Christopher Philipp Gerhard</displayForm>
+                        <namePart type="given">Christopher Philipp Gerhard</namePart>
+                        <namePart type="family">Dlugos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1110900899">
+                        <displayForm>Pavenstädt, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Pavenstädt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-05-01</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-03-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zellpolarität ist für alle eukaryoten Zellen eine fundamentale Eigenschaft und für Zelldifferenzierung, Zellmigration sowie Morphogenese entscheidend. Für ein besseres Verständnis von Zellpolarität in Podozyten wurde mit dem Zellpolaritäts- und Gerüstprotein PATJ mittels eines Hefesystems nach neuen Interaktionspartnern gescreent. Es wurde SA-RhoGEF als besonders interessanter Interaktionspartner aufgrund des engen Zusammenhangs zwischen Zellpolarität und Aktinzystoskelett identifiziert und die Interaktion mit PATJ verifiziert. Es konnte gezeigt werden, dass für die Interaktion die PDZ 2-Domäne von PATJ und das PDZ-Bindungsmotiv von SA-RhoGEF mitverantwortlich sind. Zudem wurde SA-RhoGEF in verschiedenen tubulären und podozytären Strukturen der Niere identifiziert. Die Ergebnisse deuten daraufhin, dass PATJ SA-RhoGEF zur Vermittlung lokaler GTPase- Aktivität rekrutiert, was Veränderungen im Aktinzytoskelett bewirkt und zum Aufbau von Zellpolarität beiträgt.</abstract>
+                    <subject lang="ger">
+                        <topic>SA-RhoGEF</topic>
+                        <topic>PATJ</topic>
+                        <topic>Podozyt</topic>
+                        <topic>Zellpolarität</topic>
+                        <topic>Aktinzytoskelett</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04449427617</identifier>
+                    <identifier type="sys">HT016808354</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2e2b6b7e-7420-4308-a5f8-524dedc603df</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2e2b6b7e-7420-4308-a5f8-524dedc603df_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2e2b6b7e-7420-4308-a5f8-524dedc603df/diss_dlugos.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2e2b6b7e-7420-4308-a5f8-524dedc603df" DMDID="DMD_2e2b6b7e-7420-4308-a5f8-524dedc603df">
+            <mets:fptr FILEID="FILE_2e2b6b7e-7420-4308-a5f8-524dedc603df_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

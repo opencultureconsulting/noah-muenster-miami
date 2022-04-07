@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5d07f687-8e33-4081-97c3-1b72403b3805">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kriegsgefangene im Ersten Weltkrieg im Münsterland am Beispiel der Arbeitskommandos der Bodenverbesserungsgesellschaften Hohesfeld Gemen-Weseke und Wexter Mark Nienborg</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bringmann, Hartmut</displayForm>
+                        <namePart type="given">Hartmut</namePart>
+                        <namePart type="family">Bringmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit recherchiert das Schicksal der vor allem russischen Kriegsgefangenen, die seit 1915 im Kreis Borken in mehreren Außenlagern des Münsteraner Stammlagers Haus Spital gefangen gehalten wurden. Sie beschreibt nicht nur, wie der Alltag der Kriegsgefangenen aussah, sondern überlegt vor allem, ob es sich bei der Arbeit, die die Gefangenen teils in der Landwirtschaft, teils bei der Trockenlegung von Mooren leisten mussten, um Zwangsarbeit handelt.</abstract>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Erster Weltkrieg</topic>
+                        <topic>Kreis Borken</topic>
+                        <topic>Kriegsgefangene</topic>
+                        <topic>Arbeitslager</topic>
+                        <topic>Zwangsarbeit</topic>
+                        <topic>Studium im Alter</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Westfalen im Ersten Weltkrieg</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Westfalen im Ersten Weltkrieg</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61329508703</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5d07f687-8e33-4081-97c3-1b72403b3805</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5d07f687-8e33-4081-97c3-1b72403b3805_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5d07f687-8e33-4081-97c3-1b72403b3805/wki_3_bringmann_zwangsarbeit.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5d07f687-8e33-4081-97c3-1b72403b3805" DMDID="DMD_5d07f687-8e33-4081-97c3-1b72403b3805">
+            <mets:fptr FILEID="FILE_5d07f687-8e33-4081-97c3-1b72403b3805_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

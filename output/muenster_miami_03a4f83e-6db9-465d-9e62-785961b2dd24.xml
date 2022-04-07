@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_03a4f83e-6db9-465d-9e62-785961b2dd24">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Verteilung der unterschiedlichen BRCA1-Haplotypen in Brustkrebspatientinnen und Kontrollpersonen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133678482">
+                        <displayForm>Acar, Nurgül</displayForm>
+                        <namePart type="given">Nurgül</namePart>
+                        <namePart type="family">Acar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Horst, Jürgen</displayForm>
+                        <namePart type="given">Jürgen</namePart>
+                        <namePart type="family">Horst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-11-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-10-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Durch Amplifikation und Heteroduplexanalyse von Exonabschnitt 11.12 im BRCA1-Gen wurde die Allelhäufigkeit und Verteilung für das Nukleotid 3667 bestimmt. Durch eine Änderung des Nukleotid 3667 von Adenin nach Guanin entstehen zwei Protein-Isoformen, 1183-Lys und 1183-Arg. Das Vorliegen dieser zwei BRCA1-Haplotypen wurde durch die Restriktionsanalyse bestätigt. Die Verteilung der beiden BRCA1-Hyplotypen in der Gruppe familiärer Brustkrebs (n= 153) und in der Gruppe sporadischer Brustkrebs (n= 29) wurde mit der Kontrollgruppe (n= 386) verglichen. Die Allelverteilung in der Gruppe sporadischer Brustkrebs zeigte keinen signifikanten Unterschied zur Kontrollgruppe (X²=0,12). Die seltenere BRCA1-Isoform kam jedoch in der Gruppe der Risikofamilien signifikant häufiger vor (X²=12,37). Demnach korreliert die seltenere Isoform mit einem erhöhten Brustkrebsrisiko. Dies könnte auf einen funktionellen Unterschied der Protein-Isoformen hinweisen und müsste genauer in weiteren Studien untersucht werden.</abstract>
+                    <subject lang="ger">
+                        <topic>BRCA1</topic>
+                        <topic>BRCA1-Haplotypen</topic>
+                        <topic>familiärer Brustkrebs</topic>
+                        <topic>Heteroduplexanalyse</topic>
+                        <topic>Restriktionsanalyse</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87509401602</identifier>
+                    <identifier type="sys">HT015403171</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_03a4f83e-6db9-465d-9e62-785961b2dd24</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_03a4f83e-6db9-465d-9e62-785961b2dd24_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/03a4f83e-6db9-465d-9e62-785961b2dd24/diss_acar.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_03a4f83e-6db9-465d-9e62-785961b2dd24" DMDID="DMD_03a4f83e-6db9-465d-9e62-785961b2dd24">
+            <mets:fptr FILEID="FILE_03a4f83e-6db9-465d-9e62-785961b2dd24_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

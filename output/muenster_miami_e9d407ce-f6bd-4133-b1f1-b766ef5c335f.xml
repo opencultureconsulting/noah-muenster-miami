@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e9d407ce-f6bd-4133-b1f1-b766ef5c335f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Webapplikation zur universitätsübergreifenden Administration von Prüfungsfragen für modulare Studiengänge der Medizin</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133057690">
+                        <displayForm>Urich, Wolfram</displayForm>
+                        <namePart type="given">Wolfram</namePart>
+                        <namePart type="family">Urich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173580181">
+                        <displayForm>Ückert, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Ückert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-05-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das in dieser Arbeit beschriebene System mit Namen „Elektronisches Prüfungsmanagement in der Medizin“, kurz EPM, bietet ein elektronisch gestütztes Prozessmanagement zum Erheben von Multiple-Choice-Prüfungsfragen für modulare Studiengänge der Medizin. Außerdem speichert das System die Prüfungsleistungen der Studierenden und wertet sie aus. Es ist ausgelegt, um Fragen verschiedener Universitäten aufnehmen und einen interuniversitären Fragenpool aufbauen zu können. Die Arbeit enthält den Workflow für ein fakultätsinternes bzw. –übergreifendes Reviewverfahren, das fachspezifisch oder fächerübergreifend eingesetzt werden kann.</abstract>
+                    <subject lang="ger">
+                        <topic>Prüfungssystem</topic>
+                        <topic>Prüfungsmanagement</topic>
+                        <topic>Prüfungsverwaltung</topic>
+                        <topic>Reviewsystem</topic>
+                        <topic>Review</topic>
+                        <topic>Multiple-Choice</topic>
+                        <topic>Studienordnung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58579448811</identifier>
+                    <identifier type="sys">HT015230396</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e9d407ce-f6bd-4133-b1f1-b766ef5c335f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e9d407ce-f6bd-4133-b1f1-b766ef5c335f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e9d407ce-f6bd-4133-b1f1-b766ef5c335f/diss_urich.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e9d407ce-f6bd-4133-b1f1-b766ef5c335f" DMDID="DMD_e9d407ce-f6bd-4133-b1f1-b766ef5c335f">
+            <mets:fptr FILEID="FILE_e9d407ce-f6bd-4133-b1f1-b766ef5c335f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

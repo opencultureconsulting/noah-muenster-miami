@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a4e31761-d3eb-44a1-ae69-d8aed481042f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Engelkonzert Mathias Grünewalds in der Symphonie Mathis der Maler</title>
+                        <subTitle>Betrachtungen zur künstlerischen Autonomie Paul Hindemiths</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103375661X">
+                        <displayForm>Lotzmann, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Lotzmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103972617">
+                        <displayForm>Dorfmüller, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Dorfmüller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-04-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-02-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Komponist Paul Hindemith sieht sich zu Beginn der 1930er Jahre mit dem ideologischen Anspruch einer politischen Instrumentalisierung der Künste konfrontiert. Die spezifische Ausprägung der Symphonie Mathis der Maler (1934) dokumentiert in ihrer interdisziplinären Affinität zur bildlichen Kunst des Isenheimer Altars den Anspruch einer Autonomie des schaffenden Künstlers und seines Werkes gegenüber einer jeglichen teleologischen Geschichts- und Kunstauffassung. In dieser klingenden künstlerischen Autonomie, die eine politische Widerständigkeit nicht unmittelbar erkennen lässt, fußt zugleich aber der Ansatz einer ethischen Gesinnung, die sich von der herrschenden Ästhetik des Totalitarismus radikal absetzt. Hindemith setzt sich über die Ausbildung kompositorischer Analogien zur Bildsprache Mathias Grünewalds in seiner Musik mit einem Werk auseinander, welches für die kulturgeschichtliche Dynamik in Deutschland von zentraler Bedeutung war.</abstract>
+                    <subject lang="ger">
+                        <topic>Paul Hindemith</topic>
+                        <topic>Mathias Grünewald</topic>
+                        <topic>Künstlerische Autonomie</topic>
+                        <topic>Isenheimer Altar</topic>
+                        <topic>Mathis der Maler</topic>
+                        <topic>20. Jahrhundert</topic>
+                        <topic>Engelkonzert</topic>
+                    </subject>
+                    <classification authority="ddc">750</classification>
+                    <classification authority="ddc">780</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87329405943</identifier>
+                    <identifier type="sys">HT017617939</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a4e31761-d3eb-44a1-ae69-d8aed481042f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a4e31761-d3eb-44a1-ae69-d8aed481042f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a4e31761-d3eb-44a1-ae69-d8aed481042f/diss_lotzmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a4e31761-d3eb-44a1-ae69-d8aed481042f" DMDID="DMD_a4e31761-d3eb-44a1-ae69-d8aed481042f">
+            <mets:fptr FILEID="FILE_a4e31761-d3eb-44a1-ae69-d8aed481042f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

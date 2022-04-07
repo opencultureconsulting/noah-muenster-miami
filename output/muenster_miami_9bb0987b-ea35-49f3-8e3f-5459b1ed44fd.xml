@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9bb0987b-ea35-49f3-8e3f-5459b1ed44fd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Function of ion transport proteins in pancreatic stellate cells (PSCs)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1072789973">
+                        <displayForm>Nielsen, Nikolaj</displayForm>
+                        <namePart type="given">Nikolaj</namePart>
+                        <namePart type="family">Nielsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwab, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Schwab</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-06-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-05-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Pankreaskarzinom ist durch ein fibrotisches und hypoxisches Tumormikromilieu gekennzeichnet. Daran sind vor allen pankreatische Sternzellen beteiligt. Sternzellen und Krebszellen aktivieren sich gegenseitig parakrin. Das führt auch zur Stimulation der Migration von Sternzellen, was Voraussetzung für die effiziente Kommunikation mit den Krebszellen ist. Transient receptor potential (TRP) Kanäle wirken dabei als Sensoren und Modifikatoren des (Tumor)Mikromilieus. Sie sind gleichzeitig wesentliche Komponenten der Transduktion und Effektormechanismen, die den zellulären Antworten auf das Mikromilieu wie z.b Hypoxie zugrunde liegen. Diese Studie zeigt zum ersten Mal, dass die Ca2+-permeablen TRPC1- und TRPC6-Kanäle für die Reaktion der Sternzellen auf Hypoxie erforderlich sind.</abstract>
+                    <abstract lang="eng">Pancreatic cancer is characterized by the presence of a highly fibrotic and hypoxic tumour microenvironment, primarily formed by pancreatic stellate cells (PSCs). This activates both PSCs and cancer cells to secrete various stimulants attracting more PSCs to the tumour area. Thus, the ability of PSCs to migrate is recognized as a consequence of their activated state and as a requirement for efficient communication with cancer cells. Evidence supports a role of the transient receptor potential (TRP) channels as sensors and modifiers of the (tumour) microenvironment, together with being essential components of the transduction and effector mechanisms underlying cellular responses to microenvironmental cues such as hypoxia. This study shows for the first time that the Ca2+-permeable TRPC1- and TRPC6-channels are important for the response of PSCs to hypoxia through a sensor, modifier and/or transduction/effector mechanism thereby affecting their migratory behavior.</abstract>
+                    <subject lang="ger">
+                        <topic>Pankreatische Sternzellen</topic>
+                        <topic>TRP Kanäle</topic>
+                        <topic>Migration</topic>
+                        <topic>Tumormilieu</topic>
+                        <topic>Mikromilieu- sensor/Modifikator/Effektor</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>PSC</topic>
+                        <topic>TRP channels</topic>
+                        <topic>migration</topic>
+                        <topic>tumour microenvironment</topic>
+                        <topic>microenvironmental sensors/modifiers/effectors</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29229486062</identifier>
+                    <identifier type="sys">HT018679521</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9bb0987b-ea35-49f3-8e3f-5459b1ed44fd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9bb0987b-ea35-49f3-8e3f-5459b1ed44fd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9bb0987b-ea35-49f3-8e3f-5459b1ed44fd/diss_nielsen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9bb0987b-ea35-49f3-8e3f-5459b1ed44fd" DMDID="DMD_9bb0987b-ea35-49f3-8e3f-5459b1ed44fd">
+            <mets:fptr FILEID="FILE_9bb0987b-ea35-49f3-8e3f-5459b1ed44fd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

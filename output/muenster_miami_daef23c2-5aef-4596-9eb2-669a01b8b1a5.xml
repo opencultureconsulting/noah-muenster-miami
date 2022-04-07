@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_daef23c2-5aef-4596-9eb2-669a01b8b1a5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung über den Fluorid- und Boratgehalt des Trinkwassers aus privaten Wasserversorgungsanlagen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129459585">
+                        <displayForm>Driessen, Maren</displayForm>
+                        <namePart type="given">Maren</namePart>
+                        <namePart type="family">Driessen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108469123">
+                        <displayForm>Mathys, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Mathys</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-10-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-10-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wurden Proben aus 96 privaten Kleinwasserversorgungsanlagen im Bereich des Emschermergels im südöstlichen Münsterland auf F-, Ca2+, N+, Mg+, K+, SO4, Borat sowie µS und pH-Wert analysiert, die Besitzer über Lage, Alter, Tiefe, Art des Brunnens und Aufbereitung befragt. Zusätzlich wurden bei 5 Familien Proben über ca. 3 Monate entnommen. Eine kommunale Wasserversorgung ist nicht vorhanden. Die Einzelmessungen ergaben in 16 % der Proben über 0,7 mg F-/l. 5 % lagen zwischen 3,00 und 3,88 mg F-/l, 64 % unter 0,3 mg F-/l. Im Durchschnitt lagen die Werte mit 0,49 mg F-/l doppelt so hoch wie in der Literatur angegeben. Die Richtwerte von 1,5 mg F-/l und 1 mg Borat/l werden bei 20 % der Proben überschritten. Die Reihenuntersuchungen ergaben mit einer Ausnahme starke Schwankungen in F-- und Boratgehalt. Unbedenkliche F--Konzentrationen lagen in einer Familie vor. Weitere flächendeckende Analysen sollten erfolgen. Schwankungsprofile sollten erstellt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Brunnenwasser</topic>
+                        <topic>Fluorid</topic>
+                        <topic>Borat</topic>
+                        <topic>Emschermergel</topic>
+                        <topic>Fluorose</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-78639650160</identifier>
+                    <identifier type="sys">HT014181632</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_daef23c2-5aef-4596-9eb2-669a01b8b1a5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_daef23c2-5aef-4596-9eb2-669a01b8b1a5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/daef23c2-5aef-4596-9eb2-669a01b8b1a5/endgueltige_Version.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_daef23c2-5aef-4596-9eb2-669a01b8b1a5" DMDID="DMD_daef23c2-5aef-4596-9eb2-669a01b8b1a5">
+            <mets:fptr FILEID="FILE_daef23c2-5aef-4596-9eb2-669a01b8b1a5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

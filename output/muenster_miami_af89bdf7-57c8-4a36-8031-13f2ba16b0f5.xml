@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_af89bdf7-57c8-4a36-8031-13f2ba16b0f5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Nordrhein-Westfälische Bibliographie (NWBib)</title>
+                        <subTitle>als Netzausgabe und mit modernisierter landesbibliographischer Recherche</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der von den Universitäts- und Landesbibliotheken (ULB) in Nordrhein-Westfalen (NRW) seit 1983 erstellte laufende Nachweis der Publikationen über NRW in der Nordrhein-Westfälischen Bibliographie (NWBib) ist seit 2016 nicht mehr nur im Verbundkatalog des NRW-Hochschulbibliothekszentrums (hbz) verfügbar. Zusätzlich wurde in Zusammenarbeit der Landesbibliotheken und des hbz eine direkt im World Wide Web (WWW) verfügbare moderne Netzausgabe der NWBib entwickelt: https://nwbib.de/. Die vorliegende Publikation behandelt die Web-Ausgabe insbesondere aus Sicht ihrer Nutzbarkeit, rückt also die landesbibliographische Recherche im digitalen Werk mit seinen Ende 2016 mehr als 380.000 verzeichneten Titeln ins Zentrum. Schwerpunktmäßig werden Neuerungen bei Funktionalitäten und auch sprachlicher Präsentation dargestellt. Im Vordergrund stehen hierbei die sachliche Literatursuche, die Möglichkeiten, gefundene Titel durch Facetten aspektierend einzugrenzen, der Zugang zu ermittelter Literatur im Bestand der Landes- und der weiteren Verbundbibliotheken oder per NWBib-Direktzugriff auf frei verfügbare digitale Publikationen sowie die Vernetzung per Link mit landeskundlichen Angeboten im näheren und weiteren bibliothekarischen Umfeld der NWBib. Die Vorstellung der Netzausgabe wird in einen Abriss zur Publikationsgeschichte der NWBib eingebettet, der auch ihre direkten, inzwischen digitalisierten Vorläufer einbezieht. Diese Mitteilungen zur NWBib-Historie im ersten und dritten Kapitel der Schrift werden in letzterem durch Hinweise zu Informationskontext und -wirkung der NRW-Landesbibliographie ergänzt. Ausführliche Anmerkungen und ein Literaturverzeichnung komplettieren die Darstellung.</abstract>
+                    <subject lang="ger">
+                        <topic>Nordrhein-Westfalen</topic>
+                        <topic>Regionalliteratur</topic>
+                        <topic>Regionalbibliographie</topic>
+                        <topic>Literaturdatenbank</topic>
+                        <topic>Literaturrecherche</topic>
+                        <topic>Präsentation</topic>
+                        <topic>Nordrhein-Westfälische Bibliographie</topic>
+                        <topic>Literaturdatenbank</topic>
+                        <topic>Online-Ressource</topic>
+                        <topic>Entwicklung</topic>
+                        <topic>Geschichte 2014-2016</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94219725076</identifier>
+                    <identifier type="sys">HT019195801</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_af89bdf7-57c8-4a36-8031-13f2ba16b0f5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_af89bdf7-57c8-4a36-8031-13f2ba16b0f5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/af89bdf7-57c8-4a36-8031-13f2ba16b0f5/flachmann_2016_nwbib.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_af89bdf7-57c8-4a36-8031-13f2ba16b0f5" DMDID="DMD_af89bdf7-57c8-4a36-8031-13f2ba16b0f5">
+            <mets:fptr FILEID="FILE_af89bdf7-57c8-4a36-8031-13f2ba16b0f5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

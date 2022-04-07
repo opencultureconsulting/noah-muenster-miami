@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ebe32608-caba-4e19-88e7-502bc191f97b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Morphometrische Analyse der retinalen Ganglienzellen in der menschlichen Netzhaut</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132285606">
+                        <displayForm>Cengiz, Cani</displayForm>
+                        <namePart type="given">Cani</namePart>
+                        <namePart type="family">Cengiz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141858206">
+                        <displayForm>Thanos, Solon</displayForm>
+                        <namePart type="given">Solon</namePart>
+                        <namePart type="family">Thanos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-10-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-09-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel dieser Studie war es, mit neuroanatomischen Verfahren der Fluoreszenzfärbung retinale Ganglienzellen retrograd anzufärben, um sie zu beschreiben und zu klassifizieren. Dies ist wichtig, weil GZ bei verschiedenen Erkrankungen mit einer Degeneration reagieren. Es wurden 1-2 Tage post mortem entnommene Retinae nach Anfärbung mit DiI für mehrere Monate bei Raumtemperatur aufbewahrt. Einzelne „komplett“ angefärbte GZ wurden fluoreszenzmikroskopisch aufgenommen. Eine Klassifizierung der GZ erfolgte aufgrund ihrer: Morphologie, Größe, Dendritenposition und -anzahl sowie Lokalisation. Die RGZ zeigten eine aufschlussreiche morphologische Vielfältigkeit. Die Midgetzellen und die Parasolzellen konnten u.a. identifiziert, unterklassifiziert und morphometrisch ausgewertet werden. Hiernach wurde festgestellt, dass diese Technik der Fluoreszenzfärbung allein nicht geeignet ist, aussagekräftige Rückschlüsse über degenerierte GZ infolge bestimmter Erkrankungen zu machen.</abstract>
+                    <subject lang="ger">
+                        <topic>Netzhaut</topic>
+                        <topic>DiI</topic>
+                        <topic>Ganglienzellen</topic>
+                        <topic>Parasolzellen</topic>
+                        <topic>Midgetzellen</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-30699541831</identifier>
+                    <identifier type="sys">HT014888861</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ebe32608-caba-4e19-88e7-502bc191f97b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ebe32608-caba-4e19-88e7-502bc191f97b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ebe32608-caba-4e19-88e7-502bc191f97b/diss_cengiz_cani.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ebe32608-caba-4e19-88e7-502bc191f97b" DMDID="DMD_ebe32608-caba-4e19-88e7-502bc191f97b">
+            <mets:fptr FILEID="FILE_ebe32608-caba-4e19-88e7-502bc191f97b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

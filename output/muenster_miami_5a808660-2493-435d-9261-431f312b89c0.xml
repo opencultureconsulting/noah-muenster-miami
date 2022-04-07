@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5a808660-2493-435d-9261-431f312b89c0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>produktivitätsorientierter Ansatz zur Evaluierung von Beratungserfolgen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108445518">
+                        <displayForm>Grob, Heinz Lothar</displayForm>
+                        <namePart type="given">Heinz Lothar</namePart>
+                        <namePart type="family">Grob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1991-09</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-14</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei Organisationsprojekten sind im allgemeinen die Kosten relativ gut vorhersehbar, der Nutzen ist dagegen schlecht abzuschätzen und nur unter einschränkenden Bedingungen monetär bewertbar. Im Falle von Produktivitätsverbesserungen durch Verschiebung der Tätigkeitsprofile organisatorischer Einheiten wird in der Literatur der Einsatz des hedonistischen Modells empfohlen. Im vorliegenden Arbeitsbericht wird die Eignung dieses Modells detailliert untersucht, um die Voraussetzungen für Anwendungen in der Praxis herauszuarbeiten. Zur softwaremäßigen Realisierung des Evaluierungsmodells wurde ein erster Prototyp entwickelt, der auf Personal Computern einsetzbar ist. Das Programm ist als Komponente eines Entscheidungsunterstützungssystems für den Organisationsbereich anzusehen.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14509419520</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5a808660-2493-435d-9261-431f312b89c0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5a808660-2493-435d-9261-431f312b89c0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5a808660-2493-435d-9261-431f312b89c0/006_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5a808660-2493-435d-9261-431f312b89c0" DMDID="DMD_5a808660-2493-435d-9261-431f312b89c0">
+            <mets:fptr FILEID="FILE_5a808660-2493-435d-9261-431f312b89c0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e40295f3-5837-4002-999f-a8b1b2644879">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Tissue Factor (TF) in Mesangiumzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124612938">
+                        <displayForm>Terstesse, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Terstesse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heidenreich, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Heidenreich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-04-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-03-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei entzündlichen Nierenerkrankungen werden oft glomeruläre Fibrinablagerungen und kapilläre Mikrothromben als histopathologische Zeichen einer erhöhten prokoagulatorischen Aktivität (PCA) beschrieben. An Mesangiumzellen (MZ) wurde die Expression von Gewebsthromboplastin - engl. tissue factor (TF) unter dem Einfluss proinflammatorischer Stimuli wie z. B. Interleukin-1 (IL-1ß) studiert. Die Untersuchung der TF-Regulation und ihrer intrazellulären Signalwege erfolgte mittels RT-PCR, ELISA und einem Faktor-VII-abhängigen Aktivitätstest. In MZ induzierte IL-1ß - ähnlich wie TNF und LPS - TF auf mRNA- und Proteinebene zeit- und dosisabhängig. Inflammatorische Mediatoren erhöhen die TF-Expression in MZ durch einen Proteinkinase-C-abhängigen Signalweg, während über Proteinkinase A ein negativer Rückkopplungsmechanismus besteht. Apoptotische, mit IL-1ß vorstimulierte MZ setzten hohe TF-Aktivität in ihre Zellkultur-Überstände frei, vitale Zellen hingegen nicht.</abstract>
+                    <subject lang="ger">
+                        <topic>Gewebsthromboplastin</topic>
+                        <topic>Tissue factor</topic>
+                        <topic>TF</topic>
+                        <topic>Mesangiumzellen</topic>
+                        <topic>IL-1</topic>
+                        <topic>Apoptose</topic>
+                        <topic>PCA</topic>
+                        <topic>Proteinkinase C</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659548285</identifier>
+                    <identifier type="sys">HT013655833</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e40295f3-5837-4002-999f-a8b1b2644879</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e40295f3-5837-4002-999f-a8b1b2644879_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e40295f3-5837-4002-999f-a8b1b2644879/tf_in_mesangiumzellen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e40295f3-5837-4002-999f-a8b1b2644879" DMDID="DMD_e40295f3-5837-4002-999f-a8b1b2644879">
+            <mets:fptr FILEID="FILE_e40295f3-5837-4002-999f-a8b1b2644879_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

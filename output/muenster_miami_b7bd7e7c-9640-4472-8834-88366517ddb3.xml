@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b7bd7e7c-9640-4472-8834-88366517ddb3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strukturbildung in unidirektional gekoppelten nichtlinearen optischen Systemen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134061616">
+                        <displayForm>Krüger, Guido</displayForm>
+                        <namePart type="given">Guido</namePart>
+                        <namePart type="family">Krüger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Friedrich, Rudolf</displayForm>
+                        <namePart type="given">Rudolf</namePart>
+                        <namePart type="family">Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-02-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-02-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird die Kopplung zweier musterbildender räumlich ausgedehnternichtlinearer optischer Systeme numerisch untersucht. Das Spektrum der Muster reicht dabei von regulär periodischen Mustern bis hin zu Solitären Strukturen.</abstract>
+                    <subject lang="ger">
+                        <topic>Strukturbildung</topic>
+                        <topic>Selbstorganisation</topic>
+                        <topic>Dissipative Solitonen</topic>
+                        <topic>Einspiegelanordnung</topic>
+                        <topic>Nichtlineare Optik</topic>
+                        <topic>gekoppelte Systeme</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16509602698</identifier>
+                    <identifier type="sys">HT015511150</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b7bd7e7c-9640-4472-8834-88366517ddb3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b7bd7e7c-9640-4472-8834-88366517ddb3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b7bd7e7c-9640-4472-8834-88366517ddb3/diss_krueger.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b7bd7e7c-9640-4472-8834-88366517ddb3" DMDID="DMD_b7bd7e7c-9640-4472-8834-88366517ddb3">
+            <mets:fptr FILEID="FILE_b7bd7e7c-9640-4472-8834-88366517ddb3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

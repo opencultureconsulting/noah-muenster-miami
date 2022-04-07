@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_75a95f52-861d-4efb-98ff-91958cafbd60">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Small animal positron emission tomography with multi-wire proportional counters</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142423157">
+                        <displayForm>Gottschlag, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Gottschlag</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wessels, Johannes Peter</displayForm>
+                        <namePart type="given">Johannes Peter</namePart>
+                        <namePart type="family">Wessels</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit behandelt Simulation, Design, Konstruktion und Test von Vieldrahtproportionalzähler (MWPC) basierten Detektoren für die Positronen-Emissions-Tomographie. Die kommerzielle quadHIDAC Klein-Tier PET Kamera wurde durch Simulationen untersucht und quantifiziert. Außerdem wurde die MSPET Kamera, ein optimierter, neuartiger Vieldrahtproportionalkammer-basierter Detektor für hochauflösende PET entwickelt, gebaut und getestet.</abstract>
+                    <abstract lang="eng">This thesis treats the simulation, design, construction, testing and performance evaluation of multi-wire proportional counter (MWPC) based detectors for positron emission tomography. Simulations where used for the evaluation and quantification of the commercial quadHIDAC small animal PET camera. In addition the MSPET device, a new, optimised, multi-wire proportional counter-based detector for high-resolution PET was developed, constructed and tested.</abstract>
+                    <subject lang="ger">
+                        <topic>Kleintier</topic>
+                        <topic>PET</topic>
+                        <topic>MWPC</topic>
+                        <topic>Detektor</topic>
+                        <topic>Positronen</topic>
+                        <topic>Emissions-Tomographie</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67429526319</identifier>
+                    <identifier type="sys">HT016528411</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_75a95f52-861d-4efb-98ff-91958cafbd60</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_75a95f52-861d-4efb-98ff-91958cafbd60_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/75a95f52-861d-4efb-98ff-91958cafbd60/diss_gottschlag.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_75a95f52-861d-4efb-98ff-91958cafbd60" DMDID="DMD_75a95f52-861d-4efb-98ff-91958cafbd60">
+            <mets:fptr FILEID="FILE_75a95f52-861d-4efb-98ff-91958cafbd60_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_15a5971f-fbd0-4df9-babd-152fcb1958b4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Ansatz zur konfirmatorischen Multidimensionalen Skalierung (MDS) von Werten unter Verwendung einer Designmatrix</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109237226">
+                        <displayForm>Bilsky, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Bilsky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137495439">
+                        <displayForm>Gollan, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Gollan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136296211">
+                        <displayForm>Döring, Anna Katrin</displayForm>
+                        <namePart type="given">Anna Katrin</namePart>
+                        <namePart type="family">Döring</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-07-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Berichte aus dem Psychologischen Institut IV</note>
+                    <subject lang="ger">
+                        <topic>Multidimensionale Skalierung (MDS)</topic>
+                        <topic>konfirmatorische MDS</topic>
+                        <topic>Startkonfiguration</topic>
+                        <topic>Portrait Values Questionnaire (PVQ 40)</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04139638869</identifier>
+                    <identifier type="sys">HT020206929</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_15a5971f-fbd0-4df9-babd-152fcb1958b4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_15a5971f-fbd0-4df9-babd-152fcb1958b4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/15a5971f-fbd0-4df9-babd-152fcb1958b4/bericht_bpi-iv_2007_30.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_15a5971f-fbd0-4df9-babd-152fcb1958b4" DMDID="DMD_15a5971f-fbd0-4df9-babd-152fcb1958b4">
+            <mets:fptr FILEID="FILE_15a5971f-fbd0-4df9-babd-152fcb1958b4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

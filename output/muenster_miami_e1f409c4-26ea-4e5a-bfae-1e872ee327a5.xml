@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e1f409c4-26ea-4e5a-bfae-1e872ee327a5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einleitung</title>
+                        <subTitle>in: Fremde Heimat – Westfalen 1900 bis 2010</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13015119X">
+                        <displayForm>Jüttemann, Veronika</displayForm>
+                        <namePart type="given">Veronika</namePart>
+                        <namePart type="family">Jüttemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-12-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">„Fremde Heimat – Westfalen 1900-2010“ lautet das Thema, das sich eine Gruppe von Teilnehmern des Studiums im Alter an der Westfälischen Wilhelms-Universität Münster im Sommersemester 2011 zur Erforschung gesetzt hat. Allein oder in Kleingruppen haben die Studierenden fünf Semester lang einzelne Aspekte dieser Thematik in Archiven, Bibliotheken und mit Hilfe von Zeitzeugeninterviews untersucht. Die Bandbreite der Fragestellungen reicht hierbei von der Auswanderungsberatungsstelle in Münster in der Weimarer Republik über die Einwanderungswellen in einer Ruhrgebietsstadt seit dem Ende des Zweiten Weltkriegs bis hin zur Geschichte von Bürgerkriegsflüchtlingen aus Sri Lanka, die seit den 1980er Jahren in Westfalen eine neue Heimat suchen. So gelingt den Studierenden ein spannender Blick auf die westfälische Migrationsgeschichte der letzten 100 Jahre. Die Arbeiten verdeutlichen exemplarisch, wie es kam, dass Deutschland in dieser Zeit von einem Aus- zu einem Einwanderungsland wurde, und zeigen auf, welche Faktoren dazu beitrugen, dass Integration ge- oder misslang – egal ob Westfalen in der Fremde oder Fremden in Westfalen.</abstract>
+                    <subject lang="ger">
+                        <topic>Migrationsgeschichte</topic>
+                        <topic>Westfalen</topic>
+                        <topic>1900-2010</topic>
+                        <topic>Auswandererberatungsstelle</topic>
+                        <topic>Migranten</topic>
+                        <topic>Tamilen</topic>
+                        <topic>Studium im Alter</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Fremde Heimat – Westfalen 1900–2010</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Fremde Heimat – Westfalen 1900–2010</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74379643402</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e1f409c4-26ea-4e5a-bfae-1e872ee327a5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e1f409c4-26ea-4e5a-bfae-1e872ee327a5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e1f409c4-26ea-4e5a-bfae-1e872ee327a5/fremde_heimat_westfalen_01_einfuehrung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e1f409c4-26ea-4e5a-bfae-1e872ee327a5" DMDID="DMD_e1f409c4-26ea-4e5a-bfae-1e872ee327a5">
+            <mets:fptr FILEID="FILE_e1f409c4-26ea-4e5a-bfae-1e872ee327a5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

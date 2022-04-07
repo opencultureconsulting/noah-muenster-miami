@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_752d33c2-21a4-46f5-9d97-d6d438a15c51">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modifikation von Erythrozyten-Zell-Interaktionen durch therapeutisch applizierbare Immunglobuline der Isotypen IgG und IgM</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133901033">
+                        <displayForm>Rautmann, Rietje</displayForm>
+                        <namePart type="given">Rietje</namePart>
+                        <namePart type="family">Rautmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1145534449">
+                        <displayForm>Sibrowski, Walter</displayForm>
+                        <namePart type="given">Walter</namePart>
+                        <namePart type="family">Sibrowski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1145534449">
+                        <displayForm>Sibrowski, W.</displayForm>
+                        <namePart type="given">W.</namePart>
+                        <namePart type="family">Sibrowski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-12-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Beeinflussbarkeit der Interaktion von Erythrozyten mit antigenpräsentierenden Zellen durch therapeutisch applizierbares IVIgM oder IVIgG ist bei Patienten mit IgM-vermittelter Kälteautoimmunhämolyse (CAD) oder IgG-vermittelter Wärmeautoimmunhämolyse (WAIHA) weitestgehend ungeklärt. Mittels der biomolekularen Interaktionsanalyse und der Genexpressionsanalyse zeigt sich, dass IVIgG die Interaktion von Erythrozyten mit dendritischen Zellen bei Patienten mit WAIHA supprimiert. IVIgM supprimiert die Interaktion von Erythrozyten mit mikrovaskulären Endothelzellen bei Patienten mit WAIHA und mit CAD. So scheint IVIgG die Balance in Richtung einer pro-inflammatorischen und pro-apoptotischen Antwort zu verschieben, während vermutlich IVIgM an Monozyten die Balance in Richtung einer anti-inflammatorischen Antwort verschiebt. Zusätzlich können durch charakteristische Veränderungen des Genexpressionsprofils Markergene identifiziert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>RBC</topic>
+                        <topic>Endothelzellen</topic>
+                        <topic>antigenpräsentierende Zellen</topic>
+                        <topic>Immunglobuline</topic>
+                        <topic>WAIHA</topic>
+                        <topic>CAD</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-36549549951</identifier>
+                    <identifier type="sys">HT015493524</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_752d33c2-21a4-46f5-9d97-d6d438a15c51</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_752d33c2-21a4-46f5-9d97-d6d438a15c51_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/752d33c2-21a4-46f5-9d97-d6d438a15c51/diss_rautmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_752d33c2-21a4-46f5-9d97-d6d438a15c51" DMDID="DMD_752d33c2-21a4-46f5-9d97-d6d438a15c51">
+            <mets:fptr FILEID="FILE_752d33c2-21a4-46f5-9d97-d6d438a15c51_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

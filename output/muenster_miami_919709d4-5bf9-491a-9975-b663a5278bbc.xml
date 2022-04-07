@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_919709d4-5bf9-491a-9975-b663a5278bbc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Darstellbarkeit ganzer Zahlen durch Kaplanskys ternäre quadratische Form</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124353398">
+                        <displayForm>Reinke, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Reinke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/117718009">
+                        <displayForm>Peters, Meinhard</displayForm>
+                        <namePart type="given">Meinhard</namePart>
+                        <namePart type="family">Peters</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-11-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-10-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die im Jahre 1995 von Irving Kaplansky gestellte Frage nach der Darstellbarkeit ganzer Zahlen durch die ternäre Form x^2+y^2+7z^2 wird unter Annahme einer Verallgemeinerten Riemannschen Vermutung aufgeklärt. Für jede Ausnahme N steht die Klassenzahl des imaginär-quadratischen Zahlkörpers Q(sqrt(-28N)) in Zusammenhang mit dem N-ten Fourierkoeffizienten einer Spitzenform des Gewichts 3/2. Der Satz von Waldspurger liefert eine Identität zwischen diesem Fourierkoeffizienten und dem kritischen Wert der getwisteten L-Reihe einer elliptischen Kurve, die der Spitzenform via Shimura-Liftung und Eichler-Shimura-Theorie zugeordnet ist. Unter der Riemannschen Vermutung für diese L-Reihen und die L-Reihen der zu Q(sqrt(-28N)) gehörigen Kronecker-Charaktere wird durch aufwendige Berechnungen eine Abschätzung erzielt, die für Ausnahmen N&gt;2x10^(12) im Widerspruch zu den obigen Ergebnissen steht. Die Überprüfung aller kleineren N per Computer liefert dann eine bedingte Antwort auf Kaplanskys Frage.</abstract>
+                    <subject lang="ger">
+                        <topic>Kaplansky</topic>
+                        <topic>ternäre quadratische Formen</topic>
+                        <topic>Modulformen</topic>
+                        <topic>elliptische Kurven</topic>
+                        <topic>Thetareihen</topic>
+                        <topic>Riemannsche Vermutung</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659550234</identifier>
+                    <identifier type="sys">HT013535207</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_919709d4-5bf9-491a-9975-b663a5278bbc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_919709d4-5bf9-491a-9975-b663a5278bbc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/919709d4-5bf9-491a-9975-b663a5278bbc/dissertation.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_919709d4-5bf9-491a-9975-b663a5278bbc" DMDID="DMD_919709d4-5bf9-491a-9975-b663a5278bbc">
+            <mets:fptr FILEID="FILE_919709d4-5bf9-491a-9975-b663a5278bbc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,149 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:4b572ffc-877d-44ac-b797-e932773378b5" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:34:55">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_4b572ffc-877d-44ac-b797-e932773378b5">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">A Unified Software Framework for Empirical Gramians</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1115358324">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Himpe</mods:namePart>
+                    <mods:namePart type="date">1983-</mods:namePart>
+                    <mods:displayForm>Himpe, Christian</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1115010972">
+                    <mods:namePart type="given">Mario</mods:namePart>
+                    <mods:namePart type="family">Ohlberger</mods:namePart>
+                    <mods:displayForm>Ohlberger, Mario</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2013</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2014-02-17</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2021-06-16</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">A common approach in model reduction is balanced truncation, which is based on Gramian matrices classifying certain attributes of states or parameters of a given dynamic system. Initially restricted to linear systems, the empirical Gramians not only extended this concept to nonlinear systems but also provided a uniform computational method. This work introduces a unified software framework supplying routines for six types of empirical Gramians. The Gramian types will be discussed and applied in a model reduction framework for multiple-input multiple-output systems.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="content">Finanziert durch den Open-Access-Publikationsfonds 2013/2014 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</mods:note>
+                  <mods:note type="citation/reference">Himpe, Christian; Ohlberger, Mario: A Unified Software Framework for Empirical Gramians. Journal of Mathematics; 2013, Vol. 2013, 365909.&#13;
+http://dx.doi.org/doi:10.1155/2013/365909</mods:note>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-64319528070</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/4b572ffc-877d-44ac-b797-e932773378b5</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 3.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/3.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:4b572ffc-877d-44ac-b797-e932773378b5</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_4b572ffc-877d-44ac-b797-e932773378b5">
+            <mets:rightsMD ID="RIGHTSMD_4b572ffc-877d-44ac-b797-e932773378b5">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_4b572ffc-877d-44ac-b797-e932773378b5">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/4b572ffc-877d-44ac-b797-e932773378b5</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="6590bd88233a098a599e09258135340b6fe9991213209109f270d82098112cfb" CREATED="2021-06-16T09:21:29" CHECKSUMTYPE="SHA-256" SIZE="1215688" ID="ID_FIL_365909.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4b572ffc-877d-44ac-b797-e932773378b5/365909.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW4b572ffc-877d-44ac-b797-e932773378b5">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/4b572ffc-877d-44ac-b797-e932773378b5" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_4b572ffc-877d-44ac-b797-e932773378b5" TYPE="physSequence">
+              <mets:div ID="ID_PHY_365909.pdf">
+                <mets:fptr FILEID="ID_FIL_365909.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_4b572ffc-877d-44ac-b797-e932773378b5" DMDID="DMD_4b572ffc-877d-44ac-b797-e932773378b5" ID="ID_LOG_4b572ffc-877d-44ac-b797-e932773378b5" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_365909.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_4b572ffc-877d-44ac-b797-e932773378b5" xlink:to="ID_PHY_4b572ffc-877d-44ac-b797-e932773378b5"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_365909.pdf" xlink:to="ID_PHY_365909.pdf"/>
+          </mets:structLink>
+        </mets:mets>

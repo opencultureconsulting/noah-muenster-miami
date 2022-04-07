@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_21bb6b81-9e82-469f-9f7d-a6ec2d199f1b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Christoph Schlingensiefs analoge und digitale Selbst-Entwürfe: Das Tagebuch einer Krebserkrankung und der Schlingenblog</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137527803">
+                        <displayForm>Schoene, Janneke</displayForm>
+                        <namePart type="given">Janneke</namePart>
+                        <namePart type="family">Schoene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine grundlegende künstlerische Strategie von Regisseur und Künstler Christoph Schlingensief war die (vermeintliche) mediale Offenlegung des Subjekts. Der Beitrag untersucht Formen der Subjektivation in zwei verschiedenen Medien, im Tagebuch einer Krebserkrankung und Schlingensiefs Schlingenblog. Es scheint, als finde die Aushandlung des Subjekts zum einen im Modus der Offenheit und Autofiktion, zum anderen über den Modus der Sichtbarkeit und Öffentlichkeit statt.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34279486011</identifier>
+                    <identifier type="doi">10.17879/34279485598</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_21bb6b81-9e82-469f-9f7d-a6ec2d199f1b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_21bb6b81-9e82-469f-9f7d-a6ec2d199f1b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/21bb6b81-9e82-469f-9f7d-a6ec2d199f1b/textpraxis_2016_13_schoene.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_21bb6b81-9e82-469f-9f7d-a6ec2d199f1b" DMDID="DMD_21bb6b81-9e82-469f-9f7d-a6ec2d199f1b">
+            <mets:fptr FILEID="FILE_21bb6b81-9e82-469f-9f7d-a6ec2d199f1b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

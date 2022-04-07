@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f36bc826-5220-4edf-90c1-718190510f91">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Georges Pierre Seurat</title>
+                        <subTitle>Der fernöstliche Impuls</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nenno, Klaus</displayForm>
+                        <namePart type="given">Klaus</namePart>
+                        <namePart type="family">Nenno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Georges Pierre Seurat</topic>
+                        <topic>Kunstgeschichte</topic>
+                        <topic>Japonismus</topic>
+                    </subject>
+                    <classification authority="ddc">750</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-78359473664</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f36bc826-5220-4edf-90c1-718190510f91</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f36bc826-5220-4edf-90c1-718190510f91_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f36bc826-5220-4edf-90c1-718190510f91/nenno-2012-seurat.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f36bc826-5220-4edf-90c1-718190510f91" DMDID="DMD_f36bc826-5220-4edf-90c1-718190510f91">
+            <mets:fptr FILEID="FILE_f36bc826-5220-4edf-90c1-718190510f91_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_81ada056-2bc8-45ab-b686-6d589d39fae7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grundlagenschwerpunkt für Materialwissenschaften Göttingen</title>
+                        <subTitle>Abbildende Methoden I</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1028370857">
+                        <displayForm>Schmitz, Guido</displayForm>
+                        <namePart type="given">Guido</namePart>
+                        <namePart type="family">Schmitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-04-26</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-01-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659527102</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_81ada056-2bc8-45ab-b686-6d589d39fae7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_81ada056-2bc8-45ab-b686-6d589d39fae7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/81ada056-2bc8-45ab-b686-6d589d39fae7/mikro1.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_81ada056-2bc8-45ab-b686-6d589d39fae7" DMDID="DMD_81ada056-2bc8-45ab-b686-6d589d39fae7">
+            <mets:fptr FILEID="FILE_81ada056-2bc8-45ab-b686-6d589d39fae7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

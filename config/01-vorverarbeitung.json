@@ -1,0 +1,25 @@
+[
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "mets:mets - OBJID",
+    "newColumnName": "id",
+    "description": "Rename column mets:mets - OBJID to id"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "id",
+          "columnName": "id",
+          "query": "^0$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    }
+  }
+]

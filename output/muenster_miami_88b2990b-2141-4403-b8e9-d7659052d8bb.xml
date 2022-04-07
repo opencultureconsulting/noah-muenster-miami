@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_88b2990b-2141-4403-b8e9-d7659052d8bb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Musiksammlung der Universitäts- und Landesbibliothek Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134827635">
+                        <displayForm>Rosenberger, Burkard</displayForm>
+                        <namePart type="given">Burkard</namePart>
+                        <namePart type="family">Rosenberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-06-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-10-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Forum Musikbibliothek 22 (2001), 231-241</note>
+                    <subject lang="ger">
+                        <topic>Universitäts- und Landesbibliothek Münster</topic>
+                        <topic>Musiksammlung</topic>
+                        <topic>Santini-Sammlung</topic>
+                        <topic>Rheda</topic>
+                        <topic>Burgsteinfurt</topic>
+                        <topic>Nordkirchen</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659545982</identifier>
+                    <identifier type="issn">0173-5187</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_88b2990b-2141-4403-b8e9-d7659052d8bb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_88b2990b-2141-4403-b8e9-d7659052d8bb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/88b2990b-2141-4403-b8e9-d7659052d8bb/musiksammlung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_88b2990b-2141-4403-b8e9-d7659052d8bb" DMDID="DMD_88b2990b-2141-4403-b8e9-d7659052d8bb">
+            <mets:fptr FILEID="FILE_88b2990b-2141-4403-b8e9-d7659052d8bb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

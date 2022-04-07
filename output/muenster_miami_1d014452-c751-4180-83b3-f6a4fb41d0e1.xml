@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1d014452-c751-4180-83b3-f6a4fb41d0e1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Online surface reconstruction from unorganized point clouds with integrated texture mapping</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079798595">
+                        <displayForm>Vierjahn, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Vierjahn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Klaus H.</displayForm>
+                        <namePart type="given">Klaus H.</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-12-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-11-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Surface-reconstructing growing neural gas (Sgng) konstruiert iterativ aus Sample-Punkten von einer Objektoberfläche ein Dreiecksnetz, das diese Oberfläche repräsentiert: Zunächst wird eine Approximation erstellt, die nach und nach verfeinert wird. Sgng berücksichtigt dabei jegliche Änderungen an den Eingabedaten während der Ausführung. Wenn geeignete Bilder vorliegen, weist Sgng diese automatisch den Dreiecken als Texturen zu. Dabei wird die Anzahl der wahrnehmbaren Verdeckungsfehler auf ein Minimum reduziert, indem Sgng Sichtbarkeitsinformationen aus den Eingabedaten lernt. Sgng basiert auf einer Familie eng verwandter neuronaler Netze, die mittels Pseudocode und Beispielen detailliert vorgestellt werden. Sgng wird anhand von Erkenntnissen aus einer genauen Analyse früherer Ansätze hergeleitet. Die Ergebnisse ausgiebiger Evaluationen legen nahe, dass Sgng signifikant bessere Ergebnisse liefert als frühere Ansätze und es sich mit State-of-the-Art-Verfahren messen kann.</abstract>
+                    <abstract lang="eng">Surface-reconstructing growing neural gas (sgng) takes a set of sample points lying on an object’s surface as an input and iteratively constructs a triangle mesh representing the original object’s surface. It starts with an initial approximation that gets continuously refined. At any time, sgng instantly incorporates any modifications of the input data into the reconstruction. If registered images are available, sgng assigns suitable textures to the constructed triangles. The number of noticeable occlusion artifacts is reduced to a minimum by learning visibility from the input data. Sgng is based on a family of closely related artificial neural networks that are presented in detail and illustrated by pseudocode and examples. Sgng is derived according to a careful analysis of these prior approaches. Results of an extensive evaluation indicate that sgng improves significantly upon its predecessors and that it can compete with other state-of-the-art reconstruction algorithms</abstract>
+                    <subject lang="ger">
+                        <topic>Geometrische Algorithmen</topic>
+                        <topic>Oberflächenrekonstruktion</topic>
+                        <topic>Shading und Textur</topic>
+                        <topic>Neuronale Netze</topic>
+                        <topic>Machinelles Lernen</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>geometric algorithms</topic>
+                        <topic>surface fitting</topic>
+                        <topic>shading and texture</topic>
+                        <topic>neural nets</topic>
+                        <topic>machine learning</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77259613790</identifier>
+                    <identifier type="sys">HT018824506</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1d014452-c751-4180-83b3-f6a4fb41d0e1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1d014452-c751-4180-83b3-f6a4fb41d0e1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1d014452-c751-4180-83b3-f6a4fb41d0e1/diss_vierjahn.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1d014452-c751-4180-83b3-f6a4fb41d0e1" DMDID="DMD_1d014452-c751-4180-83b3-f6a4fb41d0e1">
+            <mets:fptr FILEID="FILE_1d014452-c751-4180-83b3-f6a4fb41d0e1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f759a4e0-b33a-4592-b7cf-516ede6af623">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>impact of nitrogen deprivation on genome evolution in Escherichia coli</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <title>Die  Auswirkungen von Stickstoffmangel auf die Genomevolution in Escherichia coli</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1112139850">
+                        <displayForm>Henze, Stefanie</displayForm>
+                        <namePart type="given">Stefanie</namePart>
+                        <namePart type="family">Henze</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1108986471">
+                        <displayForm>Acquisti, Claudia</displayForm>
+                        <namePart type="given">Claudia</namePart>
+                        <namePart type="family">Acquisti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-08-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-06-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bakterien nehmen Nährstoffe aus ihrer Umgebung auf und nutzen diese für die de novo Synthese von Aminosäuren, Nukleotiden und anderen Biomolekülen. Stickstoff, ein wesentlicher Bestandteil von Biomolekülen, ist oft ein limitierender Faktor für das Wachstum in Ökosystemen. Die vorliegende Studie zeigt, dass Proteine, die in die Stickstoff-Stressantwort von Escherichia coli involviert sind,eine reduzierte Anzahl an stickstoffreichen Aminosäuren aufweisen. Zudem führte andauernder Stickstoffmangel in kontinuierlichen E. coli Kulturen zu weiteren Reduktionen des Stickstoffbedarfs von Proteinen durch Änderungen der Genexpression. Die Adaption an den persistenten Stickstoffmangel erhöhte außerdem die Fitness der Bakterien unter diesen Nährstoffbedingungen. Die vorliegenden Daten sind von grosser Bedeutung für die Quantfizierung der Stärke des durch Stickstoffmangel ausgelösten Selektionsdruckes auf die molekulare Evolution von E. coli.</abstract>
+                    <subject lang="ger">
+                        <topic>Stickstoff</topic>
+                        <topic>Genomevolution</topic>
+                        <topic>Stickstoffmangel</topic>
+                        <topic>Stressantwort</topic>
+                        <topic>Stoichiogenomics</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64299642331</identifier>
+                    <identifier type="sys">HT019070349</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f759a4e0-b33a-4592-b7cf-516ede6af623</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f759a4e0-b33a-4592-b7cf-516ede6af623_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f759a4e0-b33a-4592-b7cf-516ede6af623/diss_henze.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f759a4e0-b33a-4592-b7cf-516ede6af623" DMDID="DMD_f759a4e0-b33a-4592-b7cf-516ede6af623">
+            <mets:fptr FILEID="FILE_f759a4e0-b33a-4592-b7cf-516ede6af623_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

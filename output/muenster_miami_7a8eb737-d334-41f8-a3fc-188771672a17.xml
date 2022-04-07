@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7a8eb737-d334-41f8-a3fc-188771672a17">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Veräußerungsgewinnbesteuerung in der Unternehmensbewertung</title>
+                        <subTitle>Die Auswirkungen des StEntlG 1999/2000/2002</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132813025">
+                        <displayForm>Schrimpf-Dörges, Claudia E.</displayForm>
+                        <namePart type="given">Claudia E.</namePart>
+                        <namePart type="family">Schrimpf-Dörges</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129812706">
+                        <displayForm>Strauch, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Strauch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-01-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Arbeitspapiere des Lehrstuhls für Betriebswirtschaftslehre, insbes. Controlling der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Arbeitspapiere des Lehrstuhls für Betriebswirtschaftslehre, insbes. Controlling der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659527096</identifier>
+                    <identifier type="sys">HT017601856</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7a8eb737-d334-41f8-a3fc-188771672a17</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7a8eb737-d334-41f8-a3fc-188771672a17_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7a8eb737-d334-41f8-a3fc-188771672a17/lscap_01.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7a8eb737-d334-41f8-a3fc-188771672a17" DMDID="DMD_7a8eb737-d334-41f8-a3fc-188771672a17">
+            <mets:fptr FILEID="FILE_7a8eb737-d334-41f8-a3fc-188771672a17_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

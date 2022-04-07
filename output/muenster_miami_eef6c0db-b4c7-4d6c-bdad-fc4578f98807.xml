@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_eef6c0db-b4c7-4d6c-bdad-fc4578f98807">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Irenaeus of Sirmium</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1179209559">
+                        <displayForm>Gers-Uphaus, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Gers-Uphaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-03-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Bischof</topic>
+                        <topic>Sirmium</topic>
+                        <topic>Alte Kirche</topic>
+                        <topic>Martyrium</topic>
+                        <topic>Christenverfolgung</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Bishop</topic>
+                        <topic>Sirmium</topic>
+                        <topic>Early Christianity</topic>
+                        <topic>Martyrdom</topic>
+                        <topic>Persecution of the Christians</topic>
+                    </subject>
+                    <classification authority="ddc">272</classification>
+                    <classification authority="ddc">274</classification>
+                    <classification authority="ddc">281</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39119756119</identifier>
+                    <identifier type="doi">10.17879/17119612633</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_eef6c0db-b4c7-4d6c-bdad-fc4578f98807</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_eef6c0db-b4c7-4d6c-bdad-fc4578f98807_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/eef6c0db-b4c7-4d6c-bdad-fc4578f98807/irenaeusofsirmium_gersuphaus_2018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_eef6c0db-b4c7-4d6c-bdad-fc4578f98807" DMDID="DMD_eef6c0db-b4c7-4d6c-bdad-fc4578f98807">
+            <mets:fptr FILEID="FILE_eef6c0db-b4c7-4d6c-bdad-fc4578f98807_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

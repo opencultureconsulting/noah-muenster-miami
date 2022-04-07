@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_424967d3-c265-445b-8766-49b98738a2f8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schlagwortarbeit im HBZ-Verbund</title>
+                        <subTitle>Struktur, Leistung, Perspektiven</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-06-19</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-03-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Powerpoint-Präsentation zum Vortrag vor der Kommission für Sacherschließung der Vereinigung Österreichischer Bibliothekarinnen und Bibliothekare (VÖB) am 19.6.2007 in Wien.</note>
+                    <subject lang="ger">
+                        <topic>Schlagwortkatalogisierung</topic>
+                        <topic>Nordrhein-Westfälischer Bibliotheksverbund</topic>
+                        <topic>Köln / HBZ</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85589460493</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_424967d3-c265-445b-8766-49b98738a2f8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_424967d3-c265-445b-8766-49b98738a2f8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/424967d3-c265-445b-8766-49b98738a2f8/schlagwortarbeit_praesentation_2007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_424967d3-c265-445b-8766-49b98738a2f8" DMDID="DMD_424967d3-c265-445b-8766-49b98738a2f8">
+            <mets:fptr FILEID="FILE_424967d3-c265-445b-8766-49b98738a2f8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

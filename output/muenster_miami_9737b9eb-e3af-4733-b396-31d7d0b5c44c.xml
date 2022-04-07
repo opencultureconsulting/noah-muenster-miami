@@ -1,0 +1,95 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9737b9eb-e3af-4733-b396-31d7d0b5c44c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>GPU accelerated n-body integrators for long-term simulations of planetary systems</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1159794642">
+                        <displayForm>Hellmich, Stephan</displayForm>
+                        <namePart type="given">Stephan</namePart>
+                        <namePart type="family">Hellmich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10942090X">
+                        <displayForm>Spohn, Tilman</displayForm>
+                        <namePart type="given">Tilman</namePart>
+                        <namePart type="family">Spohn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10942090X">
+                        <displayForm>Spohn, Tilmann</displayForm>
+                        <namePart type="given">Tilmann</namePart>
+                        <namePart type="family">Spohn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10942090X">
+                        <displayForm>Spohn, T.</displayForm>
+                        <namePart type="given">T.</namePart>
+                        <namePart type="family">Spohn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-05-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-12-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Simulationen dynamischer Prozesse in Planetensystemen stellen ein wichtiges Werkzeug bei der Untersuchung der orbitalen Evolution dieser Systeme dar. Mit modernen numerischen Integrationsmethoden ist es möglich, Systeme mit vielen tausend Körpern über Zeitskalen von hunderten Millionen Jahren zu modellieren. Zur Durchführung solcher Experimente werden jedoch in der Regel Großrechner benötigt, um aussagekräftige Ergebnisse in akzeptablen Rechenzeiten zu erhalten. Um die Rechenleistung von Grafikprozessoren (GPUs) in modernen Arbeitsplatzrechnern auszunutzen, habe ich cuSwift, eine Bibliothek numerischer Integrationsmethoden zur Untersuchung von langzeit-dynamischen Prozessen in Planetensystemen, entwickelt. Zur Zeit beinhaltet cuSwift drei unterschiedliche Algorithmen: einen RADAU Integrator 15. Ordnung, Wisdom-Holman Mapping (WHM) und den Regularized Mixed Variable Symplectic (RMVS) Integrator. Durch die Verwendung von GPUs konnte ich diese Algorithmen bis zu einem Faktor 100 gegenüber der Einkern-Variante beschleunigen. Ich vergleiche die neu implementierten Methoden mit den originalen, um deren numerische Genauigkeit zu überprüfen und den Geschwindigkeitsgewinn zu quantifizieren. Als erstes Experiment untersuche ich den Einfluss des nicht-gravitativen Yarkofsky Effekts auf Jupiter-Trojaner und zeige, dass der Effekt tatsächlich Auswirkungen auf die Bahnentwicklung dieser Objekte hat.</abstract>
+                    <abstract lang="eng">Simulations of dynamical processes in planetary systems represent an important tool for studying their orbital evolution. Using modern numerical integration methods, it is possible to model systems containing many thousands of objects over time scales of several hundred million years. However, in general supercomputers are needed to get reasonable simulation results in acceptable execution times. To exploit the ever growing computation power of Graphics Processing Units (GPUs) in modern desktop computers I implemented cuSwift, a library of numerical integration methods for studying long-term dynamical processes in planetary systems. So far, cuSwift contains three algorithms: a 15th order Radau integrator, the Wisdom-Holman Mapping (WHM) integrator and the Regularized Mixed Variable Symplectic(RMVS) Method. With cuSwift I show that the use of GPUs makes it possible to speed up these methods up to two orders of magnitude compared to the single-core CPU implementation. I compare the newly implemented algorithms with the original algorithms in order to assess the numerical precision and to demonstrate the speedup achieved with the GPU. As a first application, I use these methods to study the influence of the Yarkovsky effect on Jupiter Trojans and show that the effect indeed affects the long-term orbital evolution of these bodies.</abstract>
+                    <subject lang="ger">
+                        <topic>GPGPU</topic>
+                        <topic>Numerische integration</topic>
+                        <topic>Himmelsmechanik</topic>
+                        <topic>Asteroiden</topic>
+                        <topic>Jupiter Trojaner</topic>
+                        <topic>Yarkovsky Effekt</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>GPGPU</topic>
+                        <topic>Numerical integration</topic>
+                        <topic>Celestial mechanics</topic>
+                        <topic>Asteroids</topic>
+                        <topic>Jupiter Trojans</topic>
+                        <topic>Yarkovsky Effect</topic>
+                    </subject>
+                    <classification authority="ddc">520</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-28169560379</identifier>
+                    <identifier type="sys">HT019691367</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9737b9eb-e3af-4733-b396-31d7d0b5c44c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9737b9eb-e3af-4733-b396-31d7d0b5c44c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9737b9eb-e3af-4733-b396-31d7d0b5c44c/diss_hellmich.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9737b9eb-e3af-4733-b396-31d7d0b5c44c" DMDID="DMD_9737b9eb-e3af-4733-b396-31d7d0b5c44c">
+            <mets:fptr FILEID="FILE_9737b9eb-e3af-4733-b396-31d7d0b5c44c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

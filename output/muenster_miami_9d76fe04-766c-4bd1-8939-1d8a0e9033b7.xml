@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9d76fe04-766c-4bd1-8939-1d8a0e9033b7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rechtsfragen der Eigenkapitalausstattung der kommunalen Sparkassen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1980</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-04-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausg. Erschienen im Verlag Reckinger &amp; Co., Siegburg, 1980, 3-7922-0030-9, 128 S.</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38429469426</identifier>
+                    <identifier type="isbn">3-7922-0030-9</identifier>
+                    <identifier type="sys">HT017332779</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9d76fe04-766c-4bd1-8939-1d8a0e9033b7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9d76fe04-766c-4bd1-8939-1d8a0e9033b7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9d76fe04-766c-4bd1-8939-1d8a0e9033b7/1980_oebbe_recht.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9d76fe04-766c-4bd1-8939-1d8a0e9033b7" DMDID="DMD_9d76fe04-766c-4bd1-8939-1d8a0e9033b7">
+            <mets:fptr FILEID="FILE_9d76fe04-766c-4bd1-8939-1d8a0e9033b7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2f4ac895-fdde-462a-973d-b8e31e6f852c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dynamic modulation of Poincaré beams</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1073667510">
+                        <displayForm>Alpmann, Christina</displayForm>
+                        <namePart type="given">Christina</namePart>
+                        <namePart type="family">Alpmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schlickriede, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Schlickriede</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1188747266">
+                        <displayForm>Otte, Eileen</displayForm>
+                        <namePart type="given">Eileen</namePart>
+                        <namePart type="family">Otte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120038129">
+                        <displayForm>Denz, Cornelia</displayForm>
+                        <namePart type="given">Cornelia</namePart>
+                        <namePart type="family">Denz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-14</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-05-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Generation of complex Poincaré beams is enabled by amplitude and phase modulation accompanied by simultaneous spatially polarization structuring. A holographic system to tailor complex light fields and optical angular momentum structures forecasts promising applications in quantum communication and optical trapping. Experimental results are presented together with simulations of complex Poincaré beams embedding different types of polarization singularities. Additionally, parameters of the dynamic polarization modulation system are discussed and analyzed to demonstrate the enormous capability of the method.</abstract>
+                    <note type="citation/reference">Scientific Reports 7 (2017) 8076, 1-9</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2018 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84199549350</identifier>
+                    <identifier type="doi">10.1038/s41598-017-07437-9</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2f4ac895-fdde-462a-973d-b8e31e6f852c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2f4ac895-fdde-462a-973d-b8e31e6f852c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2f4ac895-fdde-462a-973d-b8e31e6f852c/artikel_alpmann_2017.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2f4ac895-fdde-462a-973d-b8e31e6f852c" DMDID="DMD_2f4ac895-fdde-462a-973d-b8e31e6f852c">
+            <mets:fptr FILEID="FILE_2f4ac895-fdde-462a-973d-b8e31e6f852c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

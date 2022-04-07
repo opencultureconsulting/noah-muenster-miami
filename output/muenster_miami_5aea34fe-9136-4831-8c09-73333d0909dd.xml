@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5aea34fe-9136-4831-8c09-73333d0909dd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>pH-abhängige Einfluss des TRPV1-Kanals auf die Migration von Hepatoblastomzellen (HepG2)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1030006229">
+                        <displayForm>Ostendorf, Philipp</displayForm>
+                        <namePart type="given">Philipp</namePart>
+                        <namePart type="family">Ostendorf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwab, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Schwab</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-01-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-08-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit beleuchtet die Rolle des TRPV1-Kanals in der Migration. Migration von HepG2 Zellen wird durch TRPV1-Aktivierung mit Capsaicin erhoeht. Auch durch niedrigen extrazellulaeren pH (pHe) wird der Kanal aktiviert, dies fuehrt zu Ca2+ Einstrom und beeinflusst das Mikrotubulusskelett. Migrationsexperimente zeigten, dass der Effekt der TRPV1-Kanalaktivierung auf die Migration von HepG2 vom pHe abhaengt. Bei pHe6,5 fuehrt verstaerkte Integrinbindung zu Migrationsabnahme, bei zunehmendem pHe7,0 und pHe7,5 vermehrt der durch Kanalstimulation zunehmende Ca2+ Einstrom die Migration. Der TRPV1-Kanal kann verschiedene Stimuli verarbeiten und abhaengig davon Migration modulieren. Immunfluoreszenz-Darstellungen des Mikrotubulusskeletts zeigten, dass der TRPV1-Kanal abhaengig von Stimulation und pHe das Mikrotubulusskelett modifiziert. Dies kann ein Mechanismus sein, ueber den der TRPV1-Kanal Migration moduliert.</abstract>
+                    <subject lang="ger">
+                        <topic>TRPV1</topic>
+                        <topic>Migration</topic>
+                        <topic>HepG2</topic>
+                        <topic>Calcium</topic>
+                        <topic>extrazellulaerer pH</topic>
+                        <topic>Mikrotubuli</topic>
+                        <topic>HGF</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58319446458</identifier>
+                    <identifier type="sys">HT017517723</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5aea34fe-9136-4831-8c09-73333d0909dd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5aea34fe-9136-4831-8c09-73333d0909dd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5aea34fe-9136-4831-8c09-73333d0909dd/diss_ostendorf.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5aea34fe-9136-4831-8c09-73333d0909dd" DMDID="DMD_5aea34fe-9136-4831-8c09-73333d0909dd">
+            <mets:fptr FILEID="FILE_5aea34fe-9136-4831-8c09-73333d0909dd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c1b6b44d-f11f-4c8a-a9ef-c4aa02e67cd9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Funktionale Charakterisierung von TRPC-Kanälen bei der Chemotaxis neutrophiler Granulozyten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1018485368">
+                        <displayForm>Lindemann, Lars Otto</displayForm>
+                        <namePart type="given">Lars Otto</namePart>
+                        <namePart type="family">Lindemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1018485368">
+                        <displayForm>Lindemann, Lars Otto Christian</displayForm>
+                        <namePart type="given">Lars Otto Christian</namePart>
+                        <namePart type="family">Lindemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwab, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Schwab</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-12-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-11-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Mechanismus der Chemotaxis umfasst innerhalb der Zelle einen Signalkomplex, der den Zellen ermöglicht, das Signal von Chemoattraktanzien über spezifische Oberflächenrezeptoren innerhalb der Zelle zu verstärken und über Signalkaskaden unter anderem eine gerichtete Bewegung der Zelle einzuleiten. Ein Schlüsselelement innerhalb dieses Signalkomplexes bildet Ca2+. Die molekulare Identität der an der Chemotaxis beteiligten Ca2+-Ionenkanäle konnte aber bisher nur unvollständig geklärt werden und so sollte mit dieser Arbeit die Rolle von zwei TRPC- Kanälen, dem TRPC1 und dem TRPC6, innerhalb der Chemotaxis neutrophiler Granulozyten untersucht werden. Im Rahmen der vorliegenden Arbeit konnte mithilfe von in vitro Chemotaxisstudien die Abhängigkeit von zwei Chemoattraktanz-Rezeptor-Signalwegen von diesen beiden TRPC-Kanälen bei der Chemotaxis muriner neutrophiler Granulozyten nachgewiesen werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Chemotaxis</topic>
+                        <topic>Migration</topic>
+                        <topic>TRP-Kanäle</topic>
+                        <topic>Ca2+</topic>
+                        <topic>neutrophile Granulozyten</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-91499568129</identifier>
+                    <identifier type="sys">HT017087362</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c1b6b44d-f11f-4c8a-a9ef-c4aa02e67cd9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c1b6b44d-f11f-4c8a-a9ef-c4aa02e67cd9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c1b6b44d-f11f-4c8a-a9ef-c4aa02e67cd9/diss_lindemann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c1b6b44d-f11f-4c8a-a9ef-c4aa02e67cd9" DMDID="DMD_c1b6b44d-f11f-4c8a-a9ef-c4aa02e67cd9">
+            <mets:fptr FILEID="FILE_c1b6b44d-f11f-4c8a-a9ef-c4aa02e67cd9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

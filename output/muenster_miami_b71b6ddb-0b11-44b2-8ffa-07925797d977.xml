@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b71b6ddb-0b11-44b2-8ffa-07925797d977">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Eisgeometrie und Fließdynamik der subpolaren Eiskappe von King George Island (Antarktis)</title>
+                        <subTitle>Einsatz eines fluggestützten GPR-Systems und eines numerischen full-Stokes-Fließmodells</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1014039924">
+                        <displayForm>Rückamp, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Rückamp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1077383940">
+                        <displayForm>Lange, Manfred A.</displayForm>
+                        <namePart type="given">Manfred A.</namePart>
+                        <namePart type="family">Lange</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-07-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-03-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Arbeit befasst sich mit der Dokumentation und Erweiterung der Kenntnis des glazialen Zustandes und der Fließdynamik der Eiskappe von King George Island (Antarktis). Als Antwort der Eiskappe auf die beobachtete Erwärmung konnten Gletscherrückzüge und Höhenänderungen in den vergletscherten Rand- und Küstenbereichen abgeleitet werden. Für eine weitergehende Betrachtung des glazialen Zustandes wird ein full-Stokes-Fließmodell auf das Untersuchungsgebiet angewendet. Die benötigten digitalen Geländemodelle werden aus bodengebundenen und fluggestützen Messdaten mehrerer durchgeführter Feldkampagnen abgeleitet. Insbesondere der Einbezug fluggestützter Ground Penetrating Radar-Messungen vervollständigt das Bild. Als Schlussfolgerung der numerischen Modellstudien wird gegenüber der allgemeinen Annahme einer temperierten Eiskappe ein polythermaler Eiskörper mit einem ausgedehnten Kalteisbereich postuliert.</abstract>
+                    <subject lang="ger">
+                        <topic>Glaziologie</topic>
+                        <topic>Antarktis</topic>
+                        <topic>GPR</topic>
+                        <topic>Comsol</topic>
+                        <topic>Numerische Modellierung</topic>
+                        <topic>temperiertes Eis</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23459499832</identifier>
+                    <identifier type="sys">HT016916356</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b71b6ddb-0b11-44b2-8ffa-07925797d977</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b71b6ddb-0b11-44b2-8ffa-07925797d977_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b71b6ddb-0b11-44b2-8ffa-07925797d977/diss_rueckamp.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b71b6ddb-0b11-44b2-8ffa-07925797d977" DMDID="DMD_b71b6ddb-0b11-44b2-8ffa-07925797d977">
+            <mets:fptr FILEID="FILE_b71b6ddb-0b11-44b2-8ffa-07925797d977_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

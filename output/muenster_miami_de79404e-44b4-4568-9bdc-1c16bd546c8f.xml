@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_de79404e-44b4-4568-9bdc-1c16bd546c8f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On homological invariants of some twisted group C*-algebras</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1163297704">
+                        <displayForm>Chakraborty, Sayan</displayForm>
+                        <namePart type="given">Sayan</namePart>
+                        <namePart type="family">Chakraborty</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112466982">
+                        <displayForm>Echterhoff, Siegfried</displayForm>
+                        <namePart type="given">Siegfried</namePart>
+                        <namePart type="family">Echterhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-07-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-06-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir studieren die K-Theorie getwisteter Gruppen-C*-Algebren diskreter Gruppen. Diese Algebren können als Deformationen der klassischen Gruppen-C*-Algebra aufgefasst werden, wobei der Deformationsparameter ein Element der zweiten Gruppenkohomologie der gegebenen Gruppe ist. Der Fokus liegt dabei auf Gruppen der Form Z^n und semidirekter Produkte von Z^n mit einer endlichen zyklischen Gruppe. Es wird untersucht wie sich kanonische Elemente (projektive Moduln) der K-Theorie unter dieser Deformation verhalten. Darüberhinaus werden homologische Invarianten glatter dichter Unteralgebren der getwisteten Gruppen-C*-Algebren untersucht.</abstract>
+                    <abstract lang="eng">We study K-theory of the twisted group C*-algebras of discrete groups of the kind Z^n and \Z^n \rtimes F, where F is a finite cyclic group. Twisted group C*- algebras can be thought of as deformations of classical group C*-algebras where the deformation parameter is an element of the second group cohomology of the given group. For Z^n and Z^n \rtimes F, we show how some K-theory elements (projective modules) behave under the deformation. Also we study homological invariants of smooth twisted algebras (holomorphically closed, dense sub-algebras of twisted group C*-algebras) of the groups Z^n and Z^n \rtimes F.</abstract>
+                    <subject lang="ger">
+                        <topic>getwistete Gruppen-C*-Algebren</topic>
+                        <topic>projektive Moduln</topic>
+                        <topic>K-Theorie</topic>
+                        <topic>zyklische Homologie</topic>
+                        <topic>Deformationsquantisierung</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>twisted group C*-algebras</topic>
+                        <topic>projective modules</topic>
+                        <topic>K-theory</topic>
+                        <topic>cyclic homology</topic>
+                        <topic>deformation quantisation</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-57199514974</identifier>
+                    <identifier type="sys">HT019755827</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_de79404e-44b4-4568-9bdc-1c16bd546c8f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_de79404e-44b4-4568-9bdc-1c16bd546c8f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/de79404e-44b4-4568-9bdc-1c16bd546c8f/diss_chakraborty.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_de79404e-44b4-4568-9bdc-1c16bd546c8f" DMDID="DMD_de79404e-44b4-4568-9bdc-1c16bd546c8f">
+            <mets:fptr FILEID="FILE_de79404e-44b4-4568-9bdc-1c16bd546c8f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

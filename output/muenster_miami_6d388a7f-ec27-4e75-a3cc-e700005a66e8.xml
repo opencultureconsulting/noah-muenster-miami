@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6d388a7f-ec27-4e75-a3cc-e700005a66e8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Parabelwerkstatt</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108443892">
+                        <displayForm>Stachniss-Carp, Sibylle</displayForm>
+                        <namePart type="given">Sibylle</namePart>
+                        <namePart type="family">Stachniss-Carp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-05-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-05-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Parabel – hinter diesem Begriff verbirgt sich mehr als nur der Graph einer quadratischen Funktion! Der Text präsentiert Stationen, angeordnet in zwei Lernzirkeln, die einen Einblick in die Vielfalt dieses Themas geben sollen. Ein übergeordnetes Ziel beider Varianten ist die Vernetzung zwischen Geometrie und Algebra bzw. Analysis. Der Werkstattgedanke begründet sich dadurch, dass an verschiedenen Stationen mit unterschiedlichen „Werkzeugen“ gearbeitet wird. Die jeweiligen „Produkte“ sollen durch ein Poster oder eine Präsentation öffentlich gemacht werden. Je nach Kenntnisstand der Schülerinnen und Schüler und je nach Zielsetzung können Stationen zur Parabel an unterschiedlichen Stellen im Unterricht eingesetzt werden. Auch Projekttage bieten sich hierfür an. Der Lernzirkel 1 eignet sich zur Einführung in das Thema und erfordert keine Vorkenntnisse. Als Anwendung, Vertiefung und Wiederholung kann der Lernzirkel 2 eingesetzt werden.</abstract>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <subject lang="ger">
+                        <topic>Parabeln</topic>
+                        <topic>Funktionen</topic>
+                        <topic>Lernzirkel</topic>
+                        <topic>Taschenrechner</topic>
+                        <topic>Computer</topic>
+                        <topic>Stationenlernen</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62649420909</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6d388a7f-ec27-4e75-a3cc-e700005a66e8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6d388a7f-ec27-4e75-a3cc-e700005a66e8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6d388a7f-ec27-4e75-a3cc-e700005a66e8/Stachniss_Stationen_vers2_240804.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6d388a7f-ec27-4e75-a3cc-e700005a66e8" DMDID="DMD_6d388a7f-ec27-4e75-a3cc-e700005a66e8">
+            <mets:fptr FILEID="FILE_6d388a7f-ec27-4e75-a3cc-e700005a66e8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

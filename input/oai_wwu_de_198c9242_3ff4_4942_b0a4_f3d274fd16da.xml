@@ -1,0 +1,237 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:198c9242-3ff4-4942-b0a4-f3d274fd16da" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:25">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_198c9242-3ff4-4942-b0a4-f3d274fd16da">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Multi-touch selection and interaction on and above the surface</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/107448214X">
+                    <mods:namePart type="given">Sven</mods:namePart>
+                    <mods:namePart type="family">Strothoff</mods:namePart>
+                    <mods:namePart type="date">1984-</mods:namePart>
+                    <mods:displayForm>Strothoff, Sven</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Klaus H.</mods:namePart>
+                    <mods:namePart type="family">Hinrichs</mods:namePart>
+                    <mods:displayForm>Hinrichs, Klaus H.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2015</mods:dateIssued>
+                    <mods:dateOther>2015-07-10</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2015-07-29</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-07-29</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Multi-Touch-Eingaben sind der De-facto-Standard für die Interaktion mit mobilen Geräten. Durch die Verfügbarkeit von immer leistungsstärkeren mobilen Geräten führen die Benutzer auf diesen zunehmend komplexere Operationen durch. Hierdurch entsteht ein Bedarf für Interaktionstechniken und Benutzerschnittstellen die sowohl präzise als auch ausdrucksstark sind. Selektion ist eine der fundamentalen Operationen in graphischen Benutzeroberflächen. Durch eine Untersuchung existierender Selektionstechniken wird ein Überblick über bestehende Arbeiten zum Thema Selektion vermittelt. Der Großteil der Eingabetechniken für Multi-Touch-Eingabegeräte basiert auf traditionellen Selektionstechniken, die für mausbasierte Benutzerschnittstellen entwickelt wurden, und benutzen nur einen einzigen Touch. Die Verwendung von echter Multi-Touch-Eingabe gibt die Möglichkeit, aber auch eine Herausforderung, leistungsfähigere und ausdrucksstärkere Interaktionstechniken zu erstellen. Wir setzen die Möglichkeiten von mehreren Touches ein und stellen eine Selektionstechnik für beliebige Regionen und ein Interaktionskonzept zur Gruppierung von Objekten vor. Im zweiten Teil dieser Arbeit wird die Eingabe mit Multi-Touch kombiniert mit einer stereoskopischen Projektion um in die dritte Dimension, oberhalb der Bildschirmoberfläche, vorzudringen.</mods:abstract>
+                  <mods:abstract lang="eng">Multi-touch input is the de facto standard for interaction with mobile devices. As mobile devices become more powerful users perform increasingly complex computing tasks on them, necessitating interaction techniques and interfaces that are both precise and expressive. Selection is a fundamental operation in graphical user interfaces. In a survey of existing selection techniques an overview of previous work on selection is presented. Most techniques for touch input are based on traditional selection techniques that were developed for mouse-based interfaces and only use a single touch. Using true multi-touch input presents an opportunity, but also a challenge, to create more powerful and expressive interaction techniques. We present a selection technique for arbitrary regions and an interface for tagging and editing of complex groups facilitated by the capabilities of multiple touches. In the second part of this thesis multi-touch input is combined with a stereoscopic projection to access the third dimension above the surface.</mods:abstract>
+                  <mods:tableOfContents lang="eng">1 introduction 1&#13;
+1.1 Project AVIGLE 3&#13;
+1.1.1 Virtual Environment and Interaction 5&#13;
+1.1.2 Inspirations Drawn from AVIGLE 10&#13;
+i on the surface 17&#13;
+2 survey of selection techniques 19&#13;
+2.1 Description of Classifiers 19&#13;
+2.2 Classification of Selection Techniques 24&#13;
+2.3 Graphical Overview 34&#13;
+3 adding context to region selections 37&#13;
+3.1 Introduction 37&#13;
+3.1.1 Related Work 39&#13;
+3.1.2 Contributions 40&#13;
+3.2 Towards Multi-touch 42&#13;
+3.3 Refining Selections 43&#13;
+3.4 User Study 46&#13;
+3.4.1 Existing Approaches 46&#13;
+3.4.2 Participants and Set-up 48&#13;
+3.4.3 Procedure 49&#13;
+3.4.4 Results 50&#13;
+3.5 Discussion 56&#13;
+3.5.1 Increasing accuracy 57&#13;
+3.6 Design Considerations 58&#13;
+3.6.1 Conflicts with Other Touch Gestures 59&#13;
+3.6.2 Selecting Large Regions 60&#13;
+3.7 Selection of Arbitrary Regions 61&#13;
+3.7.1 Visual Feedback 65&#13;
+3.7.2 Collisions with Other Touch Gestures 65&#13;
+4 pins ’n’ touches 67&#13;
+4.1 Introduction 67&#13;
+4.1.1 Motivation 68&#13;
+4.1.2 Contributions 68&#13;
+4.1.3 Pinning Touches 70&#13;
+4.1.4 Using Pinning and Tags to Define Groups 72&#13;
+4.1.5 Use Cases for Tag-based Groups 72&#13;
+4.2 Our Pin-based Interface for Tagging 73&#13;
+4.2.1 Defining a Set of Tags 74&#13;
+4.2.2 Selecting Target Objects 75&#13;
+4.2.3 Visual Feedback 77&#13;
+4.3 User Study 1: Initially Assigning Tags 79&#13;
+4.3.1 Participants and Set-up 79&#13;
+4.3.2 Procedure 79&#13;
+4.3.3 Experimental Task 80&#13;
+4.3.4 Experiment Design 81&#13;
+4.3.5 Results 81&#13;
+4.4 User Study 2: Modifying Tags 86&#13;
+4.4.1 Participants and Set-up 86&#13;
+4.4.2 Procedure 86&#13;
+4.4.3 Experimental Task 87&#13;
+4.4.4 Experiment Design 87&#13;
+4.4.5 Results 88&#13;
+4.5 Discussion 89&#13;
+4.6 Design Considerations 93&#13;
+4.6.1 Necessity of Tagging Widgets 94&#13;
+4.6.2 Copying vs. Toggling vs. Combining Tags 94&#13;
+4.6.3 Adaptation to Smaller Devices 95&#13;
+4.6.4 Pop-up Menu 96&#13;
+4.6.5 Selecting Rectangular Groups of Objects 96&#13;
+4.6.6 Simplification to a Single Group 98&#13;
+4.6.7 Selecting Overlapping Objects 99&#13;
+ii above the surface 101&#13;
+5 triangle cursor 103&#13;
+5.1 Introduction 103&#13;
+5.1.1 Related Work 106&#13;
+5.2 Triangle Cursor Technique 107&#13;
+5.2.1 Interaction Technique 108&#13;
+5.2.2 Extension to Six Degrees of Freedom 110&#13;
+5.3 First User Study 110&#13;
+5.4 Second User Study 115&#13;
+5.4.1 Experimental Set-up 115&#13;
+5.4.2 Task One: Moving a Die 116&#13;
+5.4.3 Task Two: Puzzle 119&#13;
+5.5 Discussion 121&#13;
+5.6 Design Considerations 123&#13;
+5.6.1 Triangle Cursor as a Widget 124&#13;
+5.6.2 Supporting Multiple Users 124&#13;
+5.6.3 Conflicts with Other Touch Gestures 125&#13;
+5.6.4 Different Height Mappings 126&#13;
+6 conclusion 127&#13;
+bibliography 131</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">HCI; 3DUI; Multi-Touch-Interaktion; Selektion; Tagging</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">HCI; 3DUI; multi-touch interaction; selection; tagging</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-88289626435</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/198c9242-3ff4-4942-b0a4-f3d274fd16da</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:198c9242-3ff4-4942-b0a4-f3d274fd16da</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_198c9242-3ff4-4942-b0a4-f3d274fd16da">
+            <mets:rightsMD ID="RIGHTSMD_198c9242-3ff4-4942-b0a4-f3d274fd16da">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_198c9242-3ff4-4942-b0a4-f3d274fd16da">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/198c9242-3ff4-4942-b0a4-f3d274fd16da</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="9826438f2fd7ac24775d2db9f4e411a28805b8133e9d1a488ad4c17072a8d0c3" CREATED="2015-07-29T14:12:00" CHECKSUMTYPE="SHA-256" SIZE="5547966" ID="ID_FIL_diss_strothoff.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/198c9242-3ff4-4942-b0a4-f3d274fd16da/diss_strothoff.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW198c9242-3ff4-4942-b0a4-f3d274fd16da">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/198c9242-3ff4-4942-b0a4-f3d274fd16da" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_198c9242-3ff4-4942-b0a4-f3d274fd16da" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_strothoff.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_strothoff.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_198c9242-3ff4-4942-b0a4-f3d274fd16da" DMDID="DMD_198c9242-3ff4-4942-b0a4-f3d274fd16da" ID="ID_LOG_198c9242-3ff4-4942-b0a4-f3d274fd16da" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_strothoff.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_198c9242-3ff4-4942-b0a4-f3d274fd16da" xlink:to="ID_PHY_198c9242-3ff4-4942-b0a4-f3d274fd16da"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_strothoff.pdf" xlink:to="ID_PHY_diss_strothoff.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c3895a95-2a56-40c2-8f3b-dec337834580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="spa">
+                        <title>La casuística de los juegos de azar y de los espectáculos públicos en el Siglo de Oro</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Ch.</displayForm>
+                        <namePart type="given">Ch.</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzky, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1998</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-11-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-11-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">spa</languageTerm>
+                    </language>
+                    <note type="citation/reference">Strosetzki, Christoph (Hrsg.): Teatro español del Siglo de Oro. Frankfurt a. M. : Vervuert, 1998, S. 322-343</note>
+                    <classification authority="ddc">860</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62439483025</identifier>
+                    <identifier type="isbn">3-89354-457-7</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c3895a95-2a56-40c2-8f3b-dec337834580</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c3895a95-2a56-40c2-8f3b-dec337834580_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c3895a95-2a56-40c2-8f3b-dec337834580/1998_stros_casui.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c3895a95-2a56-40c2-8f3b-dec337834580" DMDID="DMD_c3895a95-2a56-40c2-8f3b-dec337834580">
+            <mets:fptr FILEID="FILE_c3895a95-2a56-40c2-8f3b-dec337834580_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

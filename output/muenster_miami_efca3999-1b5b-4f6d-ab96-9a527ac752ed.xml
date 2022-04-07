@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_efca3999-1b5b-4f6d-ab96-9a527ac752ed">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Münster Skeleton Library ‚Muesli‘</title>
+                        <subTitle>A Comprehensive Overview</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140670769">
+                        <displayForm>Ciechanowicz, Philipp</displayForm>
+                        <namePart type="given">Philipp</namePart>
+                        <namePart type="family">Ciechanowicz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139125493">
+                        <displayForm>Poldner, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Poldner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuchen, Herbert</displayForm>
+                        <namePart type="given">Herbert</namePart>
+                        <namePart type="family">Kuchen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-08-29</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-08-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39359473618</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_efca3999-1b5b-4f6d-ab96-9a527ac752ed</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_efca3999-1b5b-4f6d-ab96-9a527ac752ed_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/efca3999-1b5b-4f6d-ab96-9a527ac752ed/ercis_wp_no_7.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_efca3999-1b5b-4f6d-ab96-9a527ac752ed" DMDID="DMD_efca3999-1b5b-4f6d-ab96-9a527ac752ed">
+            <mets:fptr FILEID="FILE_efca3999-1b5b-4f6d-ab96-9a527ac752ed_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a6b354de-c6e1-4108-9387-968ed1b5b735">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wirkung von Zahnpasten auf die Oberfläche von Akrylaten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1043677615">
+                        <displayForm>Meiners, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Meiners</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1972</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-08-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-08-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Deutsche Zahnärztliche Zeitschrift 27 (1972) 9, 719-724</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23439446131</identifier>
+                    <identifier type="issn">0012-1029</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a6b354de-c6e1-4108-9387-968ed1b5b735</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a6b354de-c6e1-4108-9387-968ed1b5b735_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a6b354de-c6e1-4108-9387-968ed1b5b735/1972_meine_wirku.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a6b354de-c6e1-4108-9387-968ed1b5b735" DMDID="DMD_a6b354de-c6e1-4108-9387-968ed1b5b735">
+            <mets:fptr FILEID="FILE_a6b354de-c6e1-4108-9387-968ed1b5b735_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

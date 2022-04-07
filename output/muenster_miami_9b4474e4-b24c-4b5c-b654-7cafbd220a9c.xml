@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9b4474e4-b24c-4b5c-b654-7cafbd220a9c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Illustrierte Kräuter- und Pflanzenbücher der Frühen Neuzeit</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172073197">
+                        <displayForm>Feldmann, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Feldmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine Ausstellung der Universitäts- und Landesbibliothek Münster in Zusammenarbeit mit dem Freundeskreis Propstei Clarholz im Museum in der Kellnerei (Klostermuseum Clarholz), 6. Juni bis 10. Oktober 2010</abstract>
+                    <note>Druckausg.: Feldmann, Reinhard (Hrsg.): Illustrierte Kräuter- und Pflanzenbücher der Frühen Neuzeit : eine Ausstellung der Universitäts- und Landesbibliothek Münster ... im Museum in der Kellnerei (Klostermuseum Clarholz), 6. Juni 2010 bis 10. Oktober 2010. Münster : Universitäts- und Landesbibliothek Münster, 2010</note>
+                    <subject lang="ger">
+                        <topic>Kräuterbuch</topic>
+                        <topic>Pflanzenbuch</topic>
+                        <topic>Pharmazie</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97439658711</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9b4474e4-b24c-4b5c-b654-7cafbd220a9c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9b4474e4-b24c-4b5c-b654-7cafbd220a9c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9b4474e4-b24c-4b5c-b654-7cafbd220a9c/kraeuterbuecher_katalog.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9b4474e4-b24c-4b5c-b654-7cafbd220a9c" DMDID="DMD_9b4474e4-b24c-4b5c-b654-7cafbd220a9c">
+            <mets:fptr FILEID="FILE_9b4474e4-b24c-4b5c-b654-7cafbd220a9c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

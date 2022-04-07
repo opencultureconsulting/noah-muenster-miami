@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e01dcf22-740c-473c-a8a4-fc5a8b85a064">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Funktion der intrazellulären Domäne des Amyloid Precursor Proteins als transkriptionell aktive Domäne und Auslöser von ER-Stress</title>
+                        <subTitle>Implikationen für Morbus Alzheimer</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13014102X">
+                        <displayForm>Müller, Thorsten</displayForm>
+                        <namePart type="given">Thorsten</namePart>
+                        <namePart type="family">Müller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1214770827">
+                        <displayForm>Püschel, Andreas W.</displayForm>
+                        <namePart type="given">Andreas W.</namePart>
+                        <namePart type="family">Püschel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-07-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-07-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Amyloid Precursor Protein (APP) spielt eine zentrale Rolle in der Alzheimer Pathogenese. Nach Prozessierung des APP entsteht unter anderem die APP intrazelluläre Domäne (AICD). AICD besitzt transaktivierendes Potential, jedoch sind AICD abhängig regulierte Gene unbekannt. Überexpression von AICD in Zellkulturen führt zum programmierten Zelltod, wobei unklar ist, ob dies mit einer Modulation des Transkriptoms in Verbindung steht. In der vorliegenden Arbeit wurden stabil AICD exprimierende Zelllinien etabliert, mit denen nach regulierten Genen gesucht wurde. Es konnten 12 AICD abhängig regulierte Gene identifiziert werden. Die Zelllinien wurden zudem hinsichtlich ihres apoptotischen Potentials untersucht. AICD exprimierende Zellen zeigten nach Thapsigargin Stimulation erhöhte Induktion von ER-Stress und nachfolgend Apoptose. Differentiell regulierte, Apoptose relevante Gene offenbaren einen Zusammenhang von AICD abhängiger Genexpression und ER-Stress vermittelter Apoptose.</abstract>
+                    <subject lang="ger">
+                        <topic>AICD</topic>
+                        <topic>Alzheimer</topic>
+                        <topic>Intrazelluläre Domäne</topic>
+                        <topic>Genregulation</topic>
+                        <topic>ER-Stress</topic>
+                        <topic>Transaktivierung</topic>
+                        <topic>Fe65</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25679540258</identifier>
+                    <identifier type="sys">HT014469905</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e01dcf22-740c-473c-a8a4-fc5a8b85a064</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e01dcf22-740c-473c-a8a4-fc5a8b85a064_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e01dcf22-740c-473c-a8a4-fc5a8b85a064/diss_mueller_th.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e01dcf22-740c-473c-a8a4-fc5a8b85a064" DMDID="DMD_e01dcf22-740c-473c-a8a4-fc5a8b85a064">
+            <mets:fptr FILEID="FILE_e01dcf22-740c-473c-a8a4-fc5a8b85a064_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b7c87983-df82-4917-bf78-789efac064b5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Etablierung von Kulturbedingungen für eine allogene Immuntherapie mit Melanomspezifischen zytotoxischen T-Lymphozyten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128390204">
+                        <displayForm>Slotty, Janina Barbara</displayForm>
+                        <namePart type="given">Janina Barbara</namePart>
+                        <namePart type="family">Slotty</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kienast, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Kienast</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Generierung melanomspezifischer CTL aus PMNC gesunder Spender wurde für eine adoptive Immuntherapie in Anlehnung an GMP-Richtlinien optimiert. Bei 6 der 8 untersuchten HLA-A2-restringierten Peptidepitope aus melanomassoziierten Ag gelang die Induktion peptidspezifischer CTL, bei drei Peptiden wurde durch diese auch das endogen prozessierte Ag auf Melanomzellen spezifisch erkannt. Eine nicht-proportionale Korrelation zwischen der HLA-A2-Affinität und der Immunogenität der Peptide war zu beobachten. Die Peptide MT27-35 (Melan-A), G209-2M (gp100) und T368-376 (Tyrosinase) sind für den Einsatz in einer klinischen Studie geeignet. Die dreimalige Stimulation mit peptidbeladenen Zellen innerhalb einer 21tägigen Kulturzeit ist für die resultierende Zytotoxizität der CTL ideal. Die primäre Stimulation mit DC, gefolgt von zwei Restimulationen mit PMNC war für die Induktion peptid- und melanomspezifischer CTL aus T-Zellen gesunder Spender suffizient. Die zytolytische Aktivität dieser CTL war nicht geringer als bei wiederholter Stimulation mit DC. Es konnte eine 4-5-fache Expansion der Ausgangspopulation erreicht werden.</abstract>
+                    <subject lang="ger">
+                        <topic>allogene Immuntherapie</topic>
+                        <topic>malignes Melanom</topic>
+                        <topic>zytotoxische T-Lymphozyten</topic>
+                        <topic>CTL-Kultivierung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542611</identifier>
+                    <identifier type="sys">HT013857345</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b7c87983-df82-4917-bf78-789efac064b5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b7c87983-df82-4917-bf78-789efac064b5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b7c87983-df82-4917-bf78-789efac064b5/hauptdatei_slotty.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b7c87983-df82-4917-bf78-789efac064b5" DMDID="DMD_b7c87983-df82-4917-bf78-789efac064b5">
+            <mets:fptr FILEID="FILE_b7c87983-df82-4917-bf78-789efac064b5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

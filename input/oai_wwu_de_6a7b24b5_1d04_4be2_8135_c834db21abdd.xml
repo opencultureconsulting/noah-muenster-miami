@@ -1,0 +1,166 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:6a7b24b5-1d04-4be2-8135-c834db21abdd" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:34:46">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_6a7b24b5-1d04-4be2-8135-c834db21abdd">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title>A Reaction–Diffusion–Advection Model for the Establishment and Maintenance of Transport-Mediated Polarity and Symmetry Breaking</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1122462239">
+                    <mods:namePart type="given">Natalie</mods:namePart>
+                    <mods:namePart type="family">Emken</mods:namePart>
+                    <mods:namePart type="date">1986-</mods:namePart>
+                    <mods:displayForm>Emken, Natalie</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/139810196">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Engwer</mods:namePart>
+                    <mods:displayForm>Engwer, Christian</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2020-11-16</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2020-12-08</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2020-12-08</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>1-16</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">Cell polarity is a fundamental process in many different cell types. The yeast cell Saccharomyces cerevisiae provides an exemplary model system to study the underlying mechanisms. By combining biological experiments and mathematical simulations, previous studies suggested that the clustering of the most important polarity regulator Cdc42 relies on multiple parallel acting mechanisms, including a transport-driven feedback. Up to now, many models explain symmetry breaking by a Turing-type mechanism which results from different diffusion rates between the plasma membrane and the cytosol. But active transport processes, like vesicle transport, can have significant influence on the polarization. To simulate vesicular-mediated transport, stochastic equations were commonly used. The novelty in this paper is a continuous formulation for modeling active transport, like actin-mediated vesicle transport. Another important novelty is the actin part which is simulated by an inhomogeneous diffusion controlled by a capacity function which in turn depends on the active membrane bound form. The article is based on the PhD thesis of N. Emken, where it is used to model budding yeast using a reaction–diffusion–advection system. Model reduction and nondimensionalization make it possible to study this model in terms of distinct cell types. Similar to the approach of Rätz and Röger, we present a linear stability analysis and derive conditions for a transport-mediated instability. We complement our theoretical analysis by numerical simulations that confirm our findings. Using a locally mass conservative control volume finite element method, we present simulations in 2D and 3D, and compare the results to previous ones from the literature.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="citation/reference">Frontiers in Applied Mathematics and Statistics 6 (2020) 570036, 1-16</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="eng">polarization models; spatial simulation; spatial inhomogeneities; Cdc42; yeast; surface PDEs; advection diffucions reaction systems; pattern formation</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:relatedItem otherType="IsIdenticalTo" otherTypeAuth="datacite">
+                    <mods:identifier type="doi">10.3389/fams.2020.570036</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-59029563893</mods:identifier>
+                  <mods:identifier type="doi">10.3389/fams.2020.570036</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/6a7b24b5-1d04-4be2-8135-c834db21abdd</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/4.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:6a7b24b5-1d04-4be2-8135-c834db21abdd</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_6a7b24b5-1d04-4be2-8135-c834db21abdd">
+            <mets:rightsMD ID="RIGHTSMD_6a7b24b5-1d04-4be2-8135-c834db21abdd">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_6a7b24b5-1d04-4be2-8135-c834db21abdd">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/6a7b24b5-1d04-4be2-8135-c834db21abdd</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="fe0f57091b59eb3f44d26eaef06234dcafc661ffaf2fd1c18e3e7f620c3eebb7" CREATED="2020-12-08T12:06:50" CHECKSUMTYPE="SHA-256" SIZE="2495910" ID="ID_FIL_10.3389_fams.2020.570036_artikel.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6a7b24b5-1d04-4be2-8135-c834db21abdd/10.3389_fams.2020.570036_artikel.pdf" LOCTYPE="URL"/>
+              </mets:file>
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="467d0e4fe756e3b0741d132ebaa70d255ead2cf677d1fb0765323750304783f8" CREATED="2020-12-08T12:06:50" CHECKSUMTYPE="SHA-256" SIZE="493803" ID="ID_FIL_10.3389_fams.2020.570036_zusatzmaterial.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6a7b24b5-1d04-4be2-8135-c834db21abdd/10.3389_fams.2020.570036_zusatzmaterial.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/zip" ID="DOW6a7b24b5-1d04-4be2-8135-c834db21abdd">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/6a7b24b5-1d04-4be2-8135-c834db21abdd" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_6a7b24b5-1d04-4be2-8135-c834db21abdd" TYPE="physSequence">
+              <mets:div ID="ID_PHY_10.3389_fams.2020.570036_artikel.pdf">
+                <mets:fptr FILEID="ID_FIL_10.3389_fams.2020.570036_artikel.pdf_DEFAULT"/>
+              </mets:div>
+              <mets:div ID="ID_PHY_10.3389_fams.2020.570036_zusatzmaterial.pdf">
+                <mets:fptr FILEID="ID_FIL_10.3389_fams.2020.570036_zusatzmaterial.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_6a7b24b5-1d04-4be2-8135-c834db21abdd" DMDID="DMD_6a7b24b5-1d04-4be2-8135-c834db21abdd" ID="ID_LOG_6a7b24b5-1d04-4be2-8135-c834db21abdd" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_10.3389_fams.2020.570036_artikel.pdf"/>
+              <mets:div ID="ID_LOG_ID_PHY_10.3389_fams.2020.570036_zusatzmaterial.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_6a7b24b5-1d04-4be2-8135-c834db21abdd" xlink:to="ID_PHY_6a7b24b5-1d04-4be2-8135-c834db21abdd"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_10.3389_fams.2020.570036_zusatzmaterial.pdf" xlink:to="ID_PHY_10.3389_fams.2020.570036_zusatzmaterial.pdf"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_10.3389_fams.2020.570036_artikel.pdf" xlink:to="ID_PHY_10.3389_fams.2020.570036_artikel.pdf"/>
+          </mets:structLink>
+        </mets:mets>

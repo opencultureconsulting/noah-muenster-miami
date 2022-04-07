@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_787c20ce-f156-41cd-bac8-fda84737c9d6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>klinische Diagnose des Noonan-Syndroms</title>
+                        <subTitle>eine Querschnittsuntersuchung zur Extraktion der relevantesten klinischen Merkmale mittels logistischer Regressionsanalyse</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133590003">
+                        <displayForm>Wist, Elena</displayForm>
+                        <namePart type="given">Elena</namePart>
+                        <namePart type="family">Wist</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vogt, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Vogt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-10-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-10-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Noonan-Syndrom (NS) ist ein autosomal-dominanter Symptomkomplex, der durch variable Ausprägungen vielfältiger Merkmale charakterisiert ist. In 30-50% liegt eine Mutation im PTPN11 Gen vor, sodass die Diagnose eines NS anhand klinischer Merkmale gestellt wird. Mittels binärer logistischer Regression wurden aus der Vielzahl der Merkmale die relevantesten Items extrahiert: sichtbares/tastbares Pterygium colli, Herzfehler, Thoraxdeformität, weiter Mamillenabstand, antimongoloide Lidachse, Ptosis, Mikro-/Retrogenie und tiefer/inverser Haaransatz. Mit diesen Informationen gelang es ein Modell zu entwickeln, anhand dessen die Wahrscheinlichkeit für das Vorliegen eines NS für jede untersuchte Person berechnet werden kann. Es gelang eine nahezu 100% richtige Unterscheidung von Personen mit und ohne NS. Weitere Untersuchungen werden zeigen, ob unser Modell Patienten mit NS in der Normalbevölkerung detektieren kann und wie weit eine Unterscheidung von ähnlichen Syndromen gelingt.</abstract>
+                    <subject lang="ger">
+                        <topic>Noonan-Syndrom</topic>
+                        <topic>valvuläre Pulmonalstenose</topic>
+                        <topic>binäre logistische Regressionsanalyse</topic>
+                        <topic>Pterygium colli</topic>
+                        <topic>PTPN11-Gen</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-47529462944</identifier>
+                    <identifier type="sys">HT015362123</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_787c20ce-f156-41cd-bac8-fda84737c9d6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_787c20ce-f156-41cd-bac8-fda84737c9d6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/787c20ce-f156-41cd-bac8-fda84737c9d6/diss_wist.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_787c20ce-f156-41cd-bac8-fda84737c9d6" DMDID="DMD_787c20ce-f156-41cd-bac8-fda84737c9d6">
+            <mets:fptr FILEID="FILE_787c20ce-f156-41cd-bac8-fda84737c9d6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

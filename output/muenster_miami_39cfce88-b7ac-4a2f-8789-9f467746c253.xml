@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_39cfce88-b7ac-4a2f-8789-9f467746c253">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ordnungstheorie und Recht</title>
+                        <subTitle>die Rollen von Ökonomen und Juristen bei der Entwicklung und Verteidigung einer koordinationseffizienten Wirtschaftsverfassung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129052051">
+                        <displayForm>Grossekettler, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grossekettler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Endgültige Fassung erschienen in: Leipold, Helmut (Hrsg.): Ordnungstheorie und Ordnungspolitik; Schriften zu Ordnungsfragen der Wirtschaft, Bd. 64. Stuttgart : Lucius &amp; Lucius, 2000, S. 429-455</note>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Volkswirtschaftliche Diskussionsbeiträge</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Volkswirtschaftliche Diskussionsbeiträge</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526067</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_39cfce88-b7ac-4a2f-8789-9f467746c253</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_39cfce88-b7ac-4a2f-8789-9f467746c253_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/39cfce88-b7ac-4a2f-8789-9f467746c253/DB312.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_39cfce88-b7ac-4a2f-8789-9f467746c253" DMDID="DMD_39cfce88-b7ac-4a2f-8789-9f467746c253">
+            <mets:fptr FILEID="FILE_39cfce88-b7ac-4a2f-8789-9f467746c253_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

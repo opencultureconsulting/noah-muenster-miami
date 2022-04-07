@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a987695e-e048-4fb6-87f8-88b09bdd5a61">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Behandlung von Dammrissen dritten und vierten Grades</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1096842041">
+                        <displayForm>Lellé, Ralph J.</displayForm>
+                        <namePart type="given">Ralph J.</namePart>
+                        <namePart type="family">Lellé</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2006-03-09</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-03-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Beantwortung einer Leseranfrage erschienen in der Zeitschrift &quot;gyn&quot; des Omnimed-Verlags, Hamburg, 2005</abstract>
+                    <subject lang="ger">
+                        <topic>Dammriß</topic>
+                        <topic>Geburtsverletzung</topic>
+                        <topic>Episiotomie</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33629215075</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a987695e-e048-4fb6-87f8-88b09bdd5a61</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a987695e-e048-4fb6-87f8-88b09bdd5a61_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a987695e-e048-4fb6-87f8-88b09bdd5a61/2005_Lelle-Dammrisse.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a987695e-e048-4fb6-87f8-88b09bdd5a61" DMDID="DMD_a987695e-e048-4fb6-87f8-88b09bdd5a61">
+            <mets:fptr FILEID="FILE_a987695e-e048-4fb6-87f8-88b09bdd5a61_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

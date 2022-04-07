@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_38ddb51b-85fb-4702-b822-94efbb05c1ff">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Orthodoxe Korrekturen in einer kritischen Ausgabe des Irenaeus</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108750841">
+                        <displayForm>Roulet, Jacques</displayForm>
+                        <namePart type="given">Jacques</namePart>
+                        <namePart type="family">Roulet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-12-14</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-12-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wiederherstellung einer urchristlichen, hebräischen Lehrformel über Christus als &quot;geschaffenen&quot; Sohn Gottes in Ireanaeus, Demonstratio 43</abstract>
+                    <subject lang="ger">
+                        <topic>Sohn Gottes</topic>
+                        <topic>Judenchristentum</topic>
+                        <topic>Arianismus</topic>
+                    </subject>
+                    <classification authority="ddc">230</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94609559542</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_38ddb51b-85fb-4702-b822-94efbb05c1ff</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_38ddb51b-85fb-4702-b822-94efbb05c1ff_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/38ddb51b-85fb-4702-b822-94efbb05c1ff/orthodoxe_korrekturen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_38ddb51b-85fb-4702-b822-94efbb05c1ff" DMDID="DMD_38ddb51b-85fb-4702-b822-94efbb05c1ff">
+            <mets:fptr FILEID="FILE_38ddb51b-85fb-4702-b822-94efbb05c1ff_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

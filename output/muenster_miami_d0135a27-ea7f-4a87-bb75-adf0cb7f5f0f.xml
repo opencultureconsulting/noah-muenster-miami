@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d0135a27-ea7f-4a87-bb75-adf0cb7f5f0f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Numeric simulation of atom probe tomography</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1053718705">
+                        <displayForm>Oberdorfer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Oberdorfer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1028370857">
+                        <displayForm>Schmitz, Guido</displayForm>
+                        <namePart type="given">Guido</namePart>
+                        <namePart type="family">Schmitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-09-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-07-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit beschreibt einen neuen Ansatz zur Simulation von Messdaten, wie sie bei Experimenten mit der Atomsondentomographie erzeugt werden. Derartige Simulationen stellen einen komplementären Ansatz dar, mit dessen Hilfe die Interpretation von Messergebnissen verbessert werden soll. Die atomare Struktur der zu untersuchenden Probe wird maßstabsgerecht durch Wigner-Seitz-Zellen beschrieben. Aus der Berechnung der Trajektorien feldemittierter Ionen ergeben sich zweidimensionale Detektorkoordinaten. Eine Analyse der Trajektorien zeigt vergleichbare Abbildungseigenschaften, wie sie auch mit anderen Simulationsverfahren und in Experimenten ermittelt wurden. Die Flexibilität in der Beschreibung der Probenstruktur beim hier verwendeten Ansatz zeigt sich insbesondere darin, dass realistische Felddesorptionsbilder für beliebige Gitterstrukturen und -orientierungen berechnet werden können (z.B. kubisch, hexagonal, amorphe Strukturen, Korngrenzen).</abstract>
+                    <subject lang="ger">
+                        <topic>Physik</topic>
+                        <topic>Materialphysik</topic>
+                        <topic>Simulation</topic>
+                        <topic>Atomsondentomographie, Rekonstruktion, Artefakte</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-72369452077</identifier>
+                    <identifier type="sys">HT018400417</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d0135a27-ea7f-4a87-bb75-adf0cb7f5f0f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d0135a27-ea7f-4a87-bb75-adf0cb7f5f0f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d0135a27-ea7f-4a87-bb75-adf0cb7f5f0f/diss_oberdorfer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d0135a27-ea7f-4a87-bb75-adf0cb7f5f0f" DMDID="DMD_d0135a27-ea7f-4a87-bb75-adf0cb7f5f0f">
+            <mets:fptr FILEID="FILE_d0135a27-ea7f-4a87-bb75-adf0cb7f5f0f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

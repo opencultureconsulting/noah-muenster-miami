@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5e192e72-ce64-4c33-84d9-3066de7d8904">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>simple C*-algebra with finite nuclear dimension which is not Z-stable</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173427405">
+                        <displayForm>Farah, Ilijas</displayForm>
+                        <namePart type="given">Ilijas</namePart>
+                        <namePart type="family">Farah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141975734">
+                        <displayForm>Hathaway, Dan</displayForm>
+                        <namePart type="given">Dan</namePart>
+                        <namePart type="family">Hathaway</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141975742">
+                        <displayForm>Katsura, Takeshi</displayForm>
+                        <namePart type="given">Takeshi</namePart>
+                        <namePart type="family">Katsura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1179943724">
+                        <displayForm>Tikuisis, Aaron</displayForm>
+                        <namePart type="given">Aaron</namePart>
+                        <namePart type="family">Tikuisis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-11-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>515</start>
+                                <end>528</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58269761416</identifier>
+                    <identifier type="doi">10.17879/58269761171</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5e192e72-ce64-4c33-84d9-3066de7d8904</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5e192e72-ce64-4c33-84d9-3066de7d8904_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5e192e72-ce64-4c33-84d9-3066de7d8904/mjm_2014_7_515-528.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5e192e72-ce64-4c33-84d9-3066de7d8904" DMDID="DMD_5e192e72-ce64-4c33-84d9-3066de7d8904">
+            <mets:fptr FILEID="FILE_5e192e72-ce64-4c33-84d9-3066de7d8904_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

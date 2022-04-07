@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b244f411-7d06-4918-8b05-4768b0a89829">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Local shtukas and divisible local Anderson modules</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024632350">
+                        <displayForm>Singh, Rajneesh Kumar</displayForm>
+                        <namePart type="given">Rajneesh Kumar</namePart>
+                        <namePart type="family">Singh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hartl, Urs</displayForm>
+                        <namePart type="given">Urs</namePart>
+                        <namePart type="family">Hartl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-07-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-06-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir definieren den Cotangential-Komplex jeweils im Sinne von Abrashkin [1], Lichtenbaum ; Schlessinger [13] und Messing [14], vergleichen diese drei Konzepte und zeigen, dass sie paarweise zueinander Homotopie-äquivalent sind. Sei Fq[[.]] der Ring der formellen Potenzreihen in einer Unbestimmten X über einem endlichen Körper Fq. Sei NilpFq[[.]] die Kategorie jener Fq[[.]]-Schemata, auf welchen X lokal nilpotent ist. Für ein Basisschema S E NilpFq[[.]] zeigen wir, dass die Kategorie der effektiven lokalen Shtukas über S äquivalent zu der Kategorie der z-divisiblen lokalen Anderson-Moduln über S ist. Letztere Objekte sind Analoga in gleicher Charakteristik BarsottiTate-Gruppen (auch p-divisible Gruppen genannt). Weiterhin zeigen wir, wie man zu jedem z-divisiblen lokalen Anderson-Modul über S eine formelle Lie-Gruppe assoziiert. Schließlich studieren wir die Frage, wann eine formelle Lie-Gruppe ein z-divisibler lokaler Anderson-Modul ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Cotangential-Komplex</topic>
+                        <topic>finite Shtuka</topic>
+                        <topic>lokale Shtuka</topic>
+                        <topic>formelle Lie-Gruppe</topic>
+                        <topic>divisibles lokales Anderson-Modul</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79389660441</identifier>
+                    <identifier type="sys">HT017326266</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b244f411-7d06-4918-8b05-4768b0a89829</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b244f411-7d06-4918-8b05-4768b0a89829_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b244f411-7d06-4918-8b05-4768b0a89829/diss_singh.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b244f411-7d06-4918-8b05-4768b0a89829" DMDID="DMD_b244f411-7d06-4918-8b05-4768b0a89829">
+            <mets:fptr FILEID="FILE_b244f411-7d06-4918-8b05-4768b0a89829_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

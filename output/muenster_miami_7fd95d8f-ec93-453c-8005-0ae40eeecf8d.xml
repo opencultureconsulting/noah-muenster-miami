@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7fd95d8f-ec93-453c-8005-0ae40eeecf8d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rolle des Heparansulfat-Proteoglykans Syndecan-1 bei der Strahlenresistenz des Mammakarzinoms</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/117080134X">
+                        <displayForm>Rottke, Theresa Viktoria</displayForm>
+                        <namePart type="given">Theresa Viktoria</namePart>
+                        <namePart type="family">Rottke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120035715">
+                        <displayForm>Götte, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Götte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-10-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In einer Studie konnte eine erhöhte Radioresistenz von triple-negativen Brustkrebszellen bei siRNA-vermittelter Herabregulation von Syndecan-1 (Sdc-1) festgestellt werden. Dieses Phänomen wurde in dieser Arbeit genauer charakterisiert. Hierzu wurden funktionelle Untersuchungen und Analysen der Expression bestimmter Zielgene an bestrahlten und Sdc-1 defizitären triple-negativen und auch Rezeptor+ Brustkrebszellen durchgeführt. Besonders bei der triple-negativen Brustkrebszelllinie wurde der fehlende Einfluss des Sdc-1 bemerkbar, in Form von verzögerter DNA-Reparatur, arretiertem Zellzyklus und Veränderungen in der Genexpression von ET1, EXO1, CDK6 und CREB1. CDK6 könnte für die erhöhte Strahlenresistenz Sdc-1-defizitärer Zellen verantwortlich sein, da es den Zellzyklus in der G1 Phase arretiert, in welcher die Zelle resistenter gegen genotoxische Einflüsse ist. Möglicherweise interagiert Sdc-1 mit dem G-Protein des CREB1 Signalweges und beeinflusst so die Genexpression der o. g. Gene.</abstract>
+                    <subject lang="ger">
+                        <topic>Syndecan-1</topic>
+                        <topic>Mammakarzinom</topic>
+                        <topic>Strahlenresistenz</topic>
+                        <topic>Brustkrebs</topic>
+                        <topic>Heparansulfat-Proteoglykan</topic>
+                        <topic>Bestrahlung</topic>
+                        <topic>Strahlentherapie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-96189623776</identifier>
+                    <identifier type="sys">HT019862021</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7fd95d8f-ec93-453c-8005-0ae40eeecf8d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7fd95d8f-ec93-453c-8005-0ae40eeecf8d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7fd95d8f-ec93-453c-8005-0ae40eeecf8d/diss_rottke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7fd95d8f-ec93-453c-8005-0ae40eeecf8d" DMDID="DMD_7fd95d8f-ec93-453c-8005-0ae40eeecf8d">
+            <mets:fptr FILEID="FILE_7fd95d8f-ec93-453c-8005-0ae40eeecf8d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

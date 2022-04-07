@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5eb5a9fd-ce04-41ac-8948-f701f69cda86">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>LAN-Software</title>
+                        <subTitle>Urheber- und  AGB-rechtliche Probleme des Einsatzes von Software in lokalen Netzen</subTitle>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Local area networks and copyright licensing</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1989</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-10</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Statt am einzelnen PC wird Software in größeren Betrieben oder an Universitäten oft in komplexen Netzwerken genutzt. Der Vorteil liegt dabei auf der Hand: nur eine Master-Kopie kann sämtliche Arbeitsstationen mit Software versorgen. Dabei stellt sich jedoch die Frage, inwieweit der netzwerkinterne Austausch von Software gegen das Urheberrecht verstößt, ob AGB, die eine LAN &#150;Nutzung verbieten, einer AGB-Inhaltskontrolle standhalten können und welche Bedeutung sogenannten site-licensing-Verträgen über ein Entgelt pro Nutzung zukommt.</abstract>
+                    <note type="citation/reference">Archiv für Urheber-, Film-, Funk- und Theaterrecht (1989) 111, 5-29
+ISSN 0003-9454</note>
+                    <subject lang="ger">
+                        <topic>LAN</topic>
+                        <topic>Software</topic>
+                        <topic>Urheberrecht</topic>
+                        <topic>AGB</topic>
+                        <topic>EDV-Recht</topic>
+                        <topic>Netzwerk</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541126</identifier>
+                    <identifier type="issn">0003-9454</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5eb5a9fd-ce04-41ac-8948-f701f69cda86</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5eb5a9fd-ce04-41ac-8948-f701f69cda86_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5eb5a9fd-ce04-41ac-8948-f701f69cda86/017_lan.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5eb5a9fd-ce04-41ac-8948-f701f69cda86" DMDID="DMD_5eb5a9fd-ce04-41ac-8948-f701f69cda86">
+            <mets:fptr FILEID="FILE_5eb5a9fd-ce04-41ac-8948-f701f69cda86_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

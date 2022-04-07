@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4d54dab0-2d93-4de1-9de6-1c0424f52bce">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>TOPAZ</title>
+                        <subTitle>a tool kit for the assembly of transaction managers for non-standard applications</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1063138698">
+                        <displayForm>Unland, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Unland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">&apos;Advanced database applications&apos;, such as CAD/CAM, CASE, large AI applications or image and voice processing, place demands on transaction management which differ substantially from those in traditional database applications. In particular, there is a need to support &apos;enriched&apos; data models (which include, for example, complex objects or version and configuration management), &apos;synergistic&apos; cooperative work, and application- or user-supported consistency. Unfortunately, the demands are not only sophisticated but also diversified, which means that different application areas might even place contradictory demands on transaction management. This paper deals with these problems and offers a solution by introducing a flexible and adaptable tool kit approach for transaction management.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43599428873</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4d54dab0-2d93-4de1-9de6-1c0424f52bce</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4d54dab0-2d93-4de1-9de6-1c0424f52bce_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4d54dab0-2d93-4de1-9de6-1c0424f52bce/034_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4d54dab0-2d93-4de1-9de6-1c0424f52bce" DMDID="DMD_4d54dab0-2d93-4de1-9de6-1c0424f52bce">
+            <mets:fptr FILEID="FILE_4d54dab0-2d93-4de1-9de6-1c0424f52bce_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

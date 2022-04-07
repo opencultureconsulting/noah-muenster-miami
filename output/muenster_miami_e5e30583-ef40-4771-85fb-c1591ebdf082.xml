@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e5e30583-ef40-4771-85fb-c1591ebdf082">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Niederlande und Deutschland</title>
+                        <subTitle>Wirtschaftliche Integration und politische Konsequenzen 1860–2000</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138961247">
+                        <displayForm>Klemann, Hein A. M.</displayForm>
+                        <namePart type="given">Hein A. M.</namePart>
+                        <namePart type="family">Klemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1111529930">
+                        <displayForm>Klinzmann, Annegret</displayForm>
+                        <namePart type="given">Annegret</namePart>
+                        <namePart type="family">Klinzmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>101</start>
+                                <end>118</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87159612899</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e5e30583-ef40-4771-85fb-c1591ebdf082</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e5e30583-ef40-4771-85fb-c1591ebdf082_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e5e30583-ef40-4771-85fb-c1591ebdf082/jahrbuch_zns_2006_17_101-118.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e5e30583-ef40-4771-85fb-c1591ebdf082" DMDID="DMD_e5e30583-ef40-4771-85fb-c1591ebdf082">
+            <mets:fptr FILEID="FILE_e5e30583-ef40-4771-85fb-c1591ebdf082_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

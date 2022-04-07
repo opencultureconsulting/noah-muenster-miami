@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_422376b5-2030-41cc-9a8f-64dbdc834c1f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Präklinische Reanimation mit Hilfe eines externen automatischen Defibrillators mit Feedback-Funktion</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133860817">
+                        <displayForm>Oberfeld, Jörg Rudolf</displayForm>
+                        <namePart type="given">Jörg Rudolf</namePart>
+                        <namePart type="family">Oberfeld</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/17305434X">
+                        <displayForm>Gradaus, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Gradaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-03</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-12-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Jahr 2007 wurden 62 Reanimationen im Rettungsdienst der Stadt Münster durchgeführt unter Verwendung eines automatischen externen Defibrillators (AED) mit Feedback-Funktion bezüglich Kardiokompressionstiefe, -frequenz und -pausen. Diese Reanimationen wurden hinsichtlich der vorliegenden Rhythmen, der Qualität der Rhythmusanalyse des AED sowie des Überlebens untersucht. Patienten mit initialem Kammerflimmern (40,3%) hatten eine höhere Wahrscheinlichkeit, bis zur Krankenhaus-Entlassung zu überleben, als Patienten mit einen initialen nicht schockbaren Rhythmus (40,0% versus 16,2%, p=0,036). Insgesamt überlebten 56,5% der Patienten bis zur Krankenhauseinweisung, 25,8% bis zur Entlassung. Der AED diagnostizierte Kammerflimmern mit 100% Sensitivität und 98,2% Spezifität. Mögliche Gründe der hohen Überlebensrate liegen in konsequenter Umsetzung aktueller Reanimationsleitlinien mit Reduktion der Zeiten ohne Herzdruck-Massage sowie in der Optimierung der Reanimation durch das Feedback-System.</abstract>
+                    <subject lang="ger">
+                        <topic>Reanimation</topic>
+                        <topic>präklinisch</topic>
+                        <topic>automatischer externer Defibrillator</topic>
+                        <topic>Kammerflimmern</topic>
+                        <topic>Feedback-System</topic>
+                        <topic>Reanimationsqualität</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66559559012</identifier>
+                    <identifier type="sys">HT015465520</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_422376b5-2030-41cc-9a8f-64dbdc834c1f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_422376b5-2030-41cc-9a8f-64dbdc834c1f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/422376b5-2030-41cc-9a8f-64dbdc834c1f/diss_oberfeld.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_422376b5-2030-41cc-9a8f-64dbdc834c1f" DMDID="DMD_422376b5-2030-41cc-9a8f-64dbdc834c1f">
+            <mets:fptr FILEID="FILE_422376b5-2030-41cc-9a8f-64dbdc834c1f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

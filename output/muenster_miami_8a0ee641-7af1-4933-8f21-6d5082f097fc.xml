@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8a0ee641-7af1-4933-8f21-6d5082f097fc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vergleich von Doppler-Echokardiographie und Impedanz-Kardiographie zur nicht-invasiven Messung des Herzzeitvolumens</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130620572">
+                        <displayForm>Korsmeier, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Korsmeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meißner, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Meißner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-10-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im operativen Bereich und im Bereich der Intensivtherapie sind die transösophageale Doppler-Echokardiographie (TEE-HZV) und die Impedanz-Kardiographie (ICG-HZV) Verfahren zur Bestimmung des Herzzeitvolumens (HZV). Im Gegensatz zur klassischen Impedanz-Kardiographie interpretiert ein neuer Algorithmus die Amplitude der Bioimpedanz in Analogie zur mittleren systolischen Blutflussgeschwindigkeit (electrical velocimetry, EV). Bei 37 herzchirurgischen Patienten ist das HZV als TEE-HZV und EV-HZV simultan gemessen worden. Die Regressionsanalyse hat ergeben, dass die Ergebnisse linear aufeinander bezogen sind (EV-HZV = 1,10 * TEE-HZV – 0,07). Die Pearson-Analyse weist eine hohe Korrelation nach (r2 = 0,86). Im Bland-Altman Test findet sich eine hohe Übereinstimmung (mittlerer Unterschied = 0,18 l/min, Standardabweichung = ±0,59 l/min). Die Arbeit kommt zu dem Ergebnis, dass TEE-HZV und EV-HZV bei koronarchirurgischen Patienten als übereinstimmend und austauschbar betrachtet werden können.</abstract>
+                    <subject lang="ger">
+                        <topic>Herzzeitvolumen</topic>
+                        <topic>Doppler-Echokardiographie</topic>
+                        <topic>Impedanz-Kardiographie</topic>
+                        <topic>Bioimpedanz</topic>
+                        <topic>Electrical velocimetry</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64669437699</identifier>
+                    <identifier type="sys">HT014553289</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8a0ee641-7af1-4933-8f21-6d5082f097fc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8a0ee641-7af1-4933-8f21-6d5082f097fc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8a0ee641-7af1-4933-8f21-6d5082f097fc/diss_korsmeier_peter.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8a0ee641-7af1-4933-8f21-6d5082f097fc" DMDID="DMD_8a0ee641-7af1-4933-8f21-6d5082f097fc">
+            <mets:fptr FILEID="FILE_8a0ee641-7af1-4933-8f21-6d5082f097fc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

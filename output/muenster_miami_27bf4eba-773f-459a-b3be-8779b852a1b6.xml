@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_27bf4eba-773f-459a-b3be-8779b852a1b6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Bibliothek des ehemaligen Jesuitenkollegs in Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106124773">
+                        <displayForm>Coenen, Jürgen</displayForm>
+                        <namePart type="given">Jürgen</namePart>
+                        <namePart type="family">Coenen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1988</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-04-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Oesterreich, Helga (Hrsg.): Bibliothek in vier Jahrhunderten. Münster : Aschendorff, 1988, S. 11-49</note>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98419649678</identifier>
+                    <identifier type="isbn">3-402-05345-4</identifier>
+                    <identifier type="sys">HT016685050</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_27bf4eba-773f-459a-b3be-8779b852a1b6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_27bf4eba-773f-459a-b3be-8779b852a1b6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/27bf4eba-773f-459a-b3be-8779b852a1b6/bib_coene_bibli.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_27bf4eba-773f-459a-b3be-8779b852a1b6" DMDID="DMD_27bf4eba-773f-459a-b3be-8779b852a1b6">
+            <mets:fptr FILEID="FILE_27bf4eba-773f-459a-b3be-8779b852a1b6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

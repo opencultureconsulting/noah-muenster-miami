@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_19c533f6-0675-4bd8-b2ab-73a52b913c2c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Projective geometry for perfectoid spaces</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dorfsman-Hopkins, Gabriel</displayForm>
+                        <namePart type="given">Gabriel</namePart>
+                        <namePart type="family">Dorfsman-Hopkins</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-10-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">We develop a perfectoid analog of projective geometry and explore how equipping a perfectoid space with a map to a certain analog of projective space can be a powerful tool to understand its geometric and arithmetic structure. In particular, we show that maps from a perfectoid space X to the perfectoid analog of projective space correspond to line bundles on X together with some extra data, reflecting the classical theory. We then use this notion to compare the Picard group of a perfectoid space and its tilt. Along the way, we give a complete classification of vector bundles on the perfectoid unit disk and compute the Picard group of the perfectoid analog of projective space.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>445</start>
+                                <end>484</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-06089645886</identifier>
+                    <identifier type="doi">10.17879/06089644766</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_19c533f6-0675-4bd8-b2ab-73a52b913c2c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_19c533f6-0675-4bd8-b2ab-73a52b913c2c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/19c533f6-0675-4bd8-b2ab-73a52b913c2c/mjm_2021_14_445-484.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_19c533f6-0675-4bd8-b2ab-73a52b913c2c" DMDID="DMD_19c533f6-0675-4bd8-b2ab-73a52b913c2c">
+            <mets:fptr FILEID="FILE_19c533f6-0675-4bd8-b2ab-73a52b913c2c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

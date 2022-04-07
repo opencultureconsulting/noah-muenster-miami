@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bd3cd53f-aaea-4379-b93f-0ac7bd4cb5b8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hans M. Schmidt / Friedemann Malsch / Frank van de Schoor (Hrsg.), Der Rhein – le Rhin – de Waal. Ein europäischer Strom in Kunst und Kultur des 20. Jahrhunderts</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120927322">
+                        <displayForm>Dietz, Burkhard</displayForm>
+                        <namePart type="given">Burkhard</namePart>
+                        <namePart type="family">Dietz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">rev</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">review</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-07-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>273</start>
+                                <end>275</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37199452618</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bd3cd53f-aaea-4379-b93f-0ac7bd4cb5b8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>review</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bd3cd53f-aaea-4379-b93f-0ac7bd4cb5b8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bd3cd53f-aaea-4379-b93f-0ac7bd4cb5b8/jahrbuch_zns_1996-1997_7-8_273-275.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bd3cd53f-aaea-4379-b93f-0ac7bd4cb5b8" DMDID="DMD_bd3cd53f-aaea-4379-b93f-0ac7bd4cb5b8">
+            <mets:fptr FILEID="FILE_bd3cd53f-aaea-4379-b93f-0ac7bd4cb5b8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

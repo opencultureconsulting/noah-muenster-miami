@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1a571b86-6733-46ec-888d-48991c2130cf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Characterization of amorphous materials using the three particle structure factor</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1236282809">
+                        <displayForm>Vrana, Semir</displayForm>
+                        <namePart type="given">Semir</namePart>
+                        <namePart type="family">Vrana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137715617">
+                        <displayForm>Kohl, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Kohl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-06-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-02-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Amorphe Stoffe erfahren eine wachsende Bedeutung in verschiedenen Industriezweigen. Abgesehen von Streuexperimenten existieren nur wenige quantitative Methoden, um Aufschluss über die Struktur, insbesondere über die Teilchenabstände hinaus, zu bekommen. In dieser Arbeit wird der Dreiteilchenstrukturfaktor aus Transmissionelektronenmikroskopie-Aufnahmen ermittelt, um Informationen über die Bindungswinkel in amorphen Festkörpern zu erhalten. Weiter wurde mittels verschiedener Simulationen der Einfluss einiger Strukturmodelle auf den Dreiteilchenstrukturfaktor untersucht und die Grenzen der Methode ermittelt.</abstract>
+                    <abstract lang="eng">Amorphous substances are increasingly gaining importance in various industries. However, apart from scattering experiments, there are still few quantitative methods available to obtain information about the structure, apart from particle spacing. In this thesis, the three particle structure factor is determined from trans- mission electron microscopy images to obtain information about the bond angle distribution in amorphous solids. Furthermore, the influence of different structural models on the three particle structure factor was investigated by means of various simulations and the limits of the method were determined.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Amorph</topic>
+                        <topic>Strukturfaktor</topic>
+                        <topic>Korrelation</topic>
+                        <topic>Elektronenmikroskopie</topic>
+                        <topic>Kohlenstoff</topic>
+                        <topic>Silica</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Amorphous</topic>
+                        <topic>Structure Factor</topic>
+                        <topic>Correlation</topic>
+                        <topic>Electron Microscopy</topic>
+                        <topic>Carbon</topic>
+                        <topic>Silica</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17029573664</identifier>
+                    <identifier type="sys">HT020975635</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1a571b86-6733-46ec-888d-48991c2130cf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1a571b86-6733-46ec-888d-48991c2130cf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1a571b86-6733-46ec-888d-48991c2130cf/diss_vrana.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1a571b86-6733-46ec-888d-48991c2130cf" DMDID="DMD_1a571b86-6733-46ec-888d-48991c2130cf">
+            <mets:fptr FILEID="FILE_1a571b86-6733-46ec-888d-48991c2130cf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

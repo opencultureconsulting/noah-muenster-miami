@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a71eb1cc-47ed-42a2-ab83-61b15a424177">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>core model induction in a choiceless context</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133994694">
+                        <displayForm>Busche, Daniel</displayForm>
+                        <namePart type="given">Daniel</namePart>
+                        <namePart type="family">Busche</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120896591">
+                        <displayForm>Schindler, Ralf-Dieter</displayForm>
+                        <namePart type="given">Ralf-Dieter</namePart>
+                        <namePart type="family">Schindler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-12-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der Arbeit wird Woodin&apos;s Methode der Kernmodellinduktion benutzt, um die relative Konsistenz des Determiniertheitsaxiom zu zeigen. Dabei wird von einem Modell von ZF ausgegangen in dem das Auswahlaxiom nicht erfüllt ist und gezeigt, dass es ein Modell von ZF gibt in dem das Determiniertheitsaxiom gilt. Genauer werden folgende Resultate gezeigt: (1) Angenommen V ist ein Modell von &quot;ZF + alle überabzählbaren Nachfolgerkardinalzahlen sind schwach kompakt und alle überabzählbaren Limeskardinalzahlen sind singulär&quot;. Dann gilt AD^L(R) in einer generischen Erweiterung von HOD_X. (2) Angenommen V ist ein Modell von &quot;ZF + alle überabzählbaren Kardinalzahlen sind singulär&quot;. Dann gilt AD^L(R) in einer generischen Erweiterung von HOD_X.</abstract>
+                    <subject lang="ger">
+                        <topic>Kernmodellinduktion</topic>
+                        <topic>Determiniertheit</topic>
+                        <topic>innere Modelle</topic>
+                        <topic>Woodinkardinalzahlen</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66549545191</identifier>
+                    <identifier type="sys">HT015465102</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a71eb1cc-47ed-42a2-ab83-61b15a424177</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a71eb1cc-47ed-42a2-ab83-61b15a424177_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a71eb1cc-47ed-42a2-ab83-61b15a424177/diss_busche.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a71eb1cc-47ed-42a2-ab83-61b15a424177" DMDID="DMD_a71eb1cc-47ed-42a2-ab83-61b15a424177">
+            <mets:fptr FILEID="FILE_a71eb1cc-47ed-42a2-ab83-61b15a424177_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

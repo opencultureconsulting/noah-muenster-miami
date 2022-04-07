@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1a52fb23-3d88-4efd-8298-4f7a4c9780aa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Many roads lead to … Regensburg: reclassifying German university libraries</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voß, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voss, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-04-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Many German university libraries form a so-called two-track system with one central library and a range of decentralized institute or faculty libraries. The books in these libraries are often organized according to an inhouse classification scheme that has been in place for decades, fitting more or less well the collections. But when it comes to merging several libraries, e.g., in a new university building, there is a problem: n formerly independent libraries means n different classification systems under the new roof, making integrating the collections or finding your way among the shelves a challenging task. Some years ago problems like these started occurring at some libraries of Münster University. A solution was found in a library further south: in Regensburg.</abstract>
+                    <note type="citation/reference">Catalogue and Index (2018) 190, 13-18</note>
+                    <subject lang="ger">
+                        <topic>Bibliothek</topic>
+                        <topic>Aufstellungssystematik</topic>
+                        <topic>Reklassifizierung</topic>
+                        <topic>Regensburger Verbundklassifikation</topic>
+                        <topic>RVK</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>library classification</topic>
+                        <topic>shelf classification</topic>
+                        <topic>reclassification</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38199628165</identifier>
+                    <identifier type="issn">0008-7629</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1a52fb23-3d88-4efd-8298-4f7a4c9780aa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1a52fb23-3d88-4efd-8298-4f7a4c9780aa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1a52fb23-3d88-4efd-8298-4f7a4c9780aa/voss_2018_many-roads-lead-to-regensburg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1a52fb23-3d88-4efd-8298-4f7a4c9780aa" DMDID="DMD_1a52fb23-3d88-4efd-8298-4f7a4c9780aa">
+            <mets:fptr FILEID="FILE_1a52fb23-3d88-4efd-8298-4f7a4c9780aa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

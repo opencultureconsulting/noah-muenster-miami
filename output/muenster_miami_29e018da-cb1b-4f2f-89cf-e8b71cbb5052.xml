@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_29e018da-cb1b-4f2f-89cf-e8b71cbb5052">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Muggl: The Muenster Generator of Glass-box Test Cases</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/101264314X">
+                        <displayForm>Majchrzak, Tim A.</displayForm>
+                        <namePart type="given">Tim A.</namePart>
+                        <namePart type="family">Majchrzak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuchen, Herbert</displayForm>
+                        <namePart type="given">Herbert</namePart>
+                        <namePart type="family">Kuchen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-02</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-08-29</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-08-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Testing is a task that requires much effort, yet it is essential for developing software. Automated test case generation (TCG) promises to relieve humans of manual work. We introduce Muggl (the Muenster generator of glass-box test cases), which is developed at our institute. Muggl generates test cases for Java bytecode. It symbolically executes code and uses constraint solving techniques. While papers on Muggl have already been published, no comprehensive introduction of the tool exist. This working paper fills this gap.</abstract>
+                    <subject lang="eng">
+                        <topic>software test</topic>
+                        <topic>testing</topic>
+                        <topic>test case generation</topic>
+                        <topic>TCG</topic>
+                        <topic>test automation</topic>
+                        <topic>test tool</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39359452290</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_29e018da-cb1b-4f2f-89cf-e8b71cbb5052</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_29e018da-cb1b-4f2f-89cf-e8b71cbb5052_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/29e018da-cb1b-4f2f-89cf-e8b71cbb5052/ercis_wp_no_10.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_29e018da-cb1b-4f2f-89cf-e8b71cbb5052" DMDID="DMD_29e018da-cb1b-4f2f-89cf-e8b71cbb5052">
+            <mets:fptr FILEID="FILE_29e018da-cb1b-4f2f-89cf-e8b71cbb5052_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

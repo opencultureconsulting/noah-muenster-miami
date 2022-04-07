@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5e4446de-9ef9-4ae6-88de-872ce567863c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Bedeutung der Preußischen Provinzialverbände und das Problem ihres Fortbestehens als Landschaftsverbände in Nordrhein-Westfalen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105158925">
+                        <displayForm>Enseling, Jost</displayForm>
+                        <namePart type="given">Jost</namePart>
+                        <namePart type="family">Enseling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118769987">
+                        <displayForm>Wolff, Hans J.</displayForm>
+                        <namePart type="given">Hans J.</namePart>
+                        <namePart type="family">Wolff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1955</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-01-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-01-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1955</note>
+                    <subject lang="ger">
+                        <topic>Preußen</topic>
+                        <topic>Provinzialverband</topic>
+                        <topic>Nordrhein-Westfalen</topic>
+                        <topic>Landschaftsverband</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53679539872</identifier>
+                    <identifier type="sys">HT014965895</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5e4446de-9ef9-4ae6-88de-872ce567863c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5e4446de-9ef9-4ae6-88de-872ce567863c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5e4446de-9ef9-4ae6-88de-872ce567863c/diss_Enseling_1955.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5e4446de-9ef9-4ae6-88de-872ce567863c" DMDID="DMD_5e4446de-9ef9-4ae6-88de-872ce567863c">
+            <mets:fptr FILEID="FILE_5e4446de-9ef9-4ae6-88de-872ce567863c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

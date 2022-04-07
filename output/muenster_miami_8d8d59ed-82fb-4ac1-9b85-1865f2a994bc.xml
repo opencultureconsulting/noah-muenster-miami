@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8d8d59ed-82fb-4ac1-9b85-1865f2a994bc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zahlen als Begriffe</title>
+                        <subTitle>Eine Revision der Fregeschen Zahlendefinition</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112177123">
+                        <displayForm>Hohelüchter, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Hohelüchter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-04-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-04-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Frege fasst Anzahlen als Gegenstände und nur als Gegenstände auf und definiert sie als Klassen. Dabei setzt er unzulässigerweise voraus, dass Klassen Einheiten seien. Wir definieren dagegen Anzahlen als Begriffe, behalten aber seine auf die Äquivalenzrelation der Gleichzahligkeit gegründeten Definitionsweise bei. Diese revidierte Definition stützt sich daher auf eine Theorie der Begriffe statt auf eine der Klassen. Die Anzahlen treten dann als Attribute (niederer Stufe) und als Gegenstände (zu Attributen höherer Stufe) auf. Dies hat keine Folgen für die Definition abzählbarer, wohl aber für die überabzählbarer Anzahlen. So ist z.B. der Cantorsche Teilmengensatz zwar gültig, aber nicht iterierbar und daher untauglich für die Generierung beliebig großer überabzählbarer Zahlen.</abstract>
+                    <subject lang="ger">
+                        <topic>Gleichzahligkeit</topic>
+                        <topic>Klasse</topic>
+                        <topic>Anzahl und Zahl</topic>
+                        <topic>unendliche Anzahl</topic>
+                        <topic>Teilmengensatz.</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-65549503956</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8d8d59ed-82fb-4ac1-9b85-1865f2a994bc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8d8d59ed-82fb-4ac1-9b85-1865f2a994bc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8d8d59ed-82fb-4ac1-9b85-1865f2a994bc/zahlen_als_begriffe.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8d8d59ed-82fb-4ac1-9b85-1865f2a994bc" DMDID="DMD_8d8d59ed-82fb-4ac1-9b85-1865f2a994bc">
+            <mets:fptr FILEID="FILE_8d8d59ed-82fb-4ac1-9b85-1865f2a994bc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

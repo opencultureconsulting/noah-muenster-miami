@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5cf329d9-ba43-405a-8e62-eb22d0a1a089">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung verdauungsresistenter Peptidantigene für orale Impfstoffe</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13303125X">
+                        <displayForm>Albers, Jan Eike</displayForm>
+                        <namePart type="given">Jan Eike</namePart>
+                        <namePart type="family">Albers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1102872350">
+                        <displayForm>Schmidt, M. Alexander</displayForm>
+                        <namePart type="given">M. Alexander</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-04-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Entwicklung oraler Impfstoffe ist wegen der oft fehlenden Verdauungsstabilität sehr komplex. Durch retro-inverse (RI) Peptide kann dieses Problem gelöst werden. Am Beispiel von Hühner-Ovalbumin (OVA) wurden Verfahren entwickelt, um RI-Peptidantigene zu identifizieren und zu optimieren. Mit Hilfe eines neuen hochsensitiven Peptid-ELISAs wurden Antikörperproben von mit OVA immunisierten Mäusen untersucht. Via Ala-Scan wurden die für die Bindung essentiellen Aminosäuren eines Epitops identifiziert, wobei sich eine hohe Korrelation zu deren Oberflächenlage ergab. Auf dieser Basis wurde ein Sotware-Evolutionsalgorithmus entwickelt, der optimierte RI-Peptidmutanten erzeugte, deren Antikörperbindung in vitro bis zu 30mal höher als die des Originalpeptids war. Mit dem beschriebenen Verfahren lassen sich RI-Peptidantigene mit einer erheblich höheren Antikörperbindung als bisher entwickeln. RI-Peptide könnten sich so als attraktive Option für die Entwicklung oraler Impfstoffe erweisen.</abstract>
+                    <subject lang="ger">
+                        <topic>Orale Immunisierung</topic>
+                        <topic>Peptid-Impfstoffe</topic>
+                        <topic>Peptid-ELISA</topic>
+                        <topic>Ala-Scan</topic>
+                        <topic>Evolutionsalgorithmus</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-08599441207</identifier>
+                    <identifier type="sys">HT015217177</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5cf329d9-ba43-405a-8e62-eb22d0a1a089</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5cf329d9-ba43-405a-8e62-eb22d0a1a089_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5cf329d9-ba43-405a-8e62-eb22d0a1a089/diss_albers.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5cf329d9-ba43-405a-8e62-eb22d0a1a089" DMDID="DMD_5cf329d9-ba43-405a-8e62-eb22d0a1a089">
+            <mets:fptr FILEID="FILE_5cf329d9-ba43-405a-8e62-eb22d0a1a089_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e58aef9a-0048-49dd-87a3-392383563374">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Predigen über die Prediger. Religiöse Identität und Rhetorik im Kontext des Bettelordensstreits</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1076087728">
+                        <displayForm>Steckel, Sita</displayForm>
+                        <namePart type="given">Sita</namePart>
+                        <namePart type="family">Steckel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-03-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Aufsatz befasst sich mit der Thematisierung von Predigtrhetorik im Zuge des sogenannten Bettelordensstreits im Frankreich des 13. Jahrhunderts. Er diskutiert vor allem die Spannung, die sich angesichts eines Konflikts zwischen verschiedenen Eliten und ihren widerstreitenden Konzepten einer religiös angemessenen Rhetorik ergab.</abstract>
+                    <note type="citation/reference">Strack, Georg; Knödler, Julia: Rhetorik in Mittelalter und Renaissance : Konzepte – Praxis – Diversität (Münchener Beiträge zur Geschichtswissenschaft, 6). München : Utz Verlag, 2011, ISBN 978-3-8316-0951-2, 231 - 253</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Herbert Utz Verlags.</note>
+                    <subject lang="ger">
+                        <topic>Exzellenzcluster Religion und Politik</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Cluster of Excellence Religion and Politics</topic>
+                    </subject>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ddc">200</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-49139459594</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e58aef9a-0048-49dd-87a3-392383563374</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e58aef9a-0048-49dd-87a3-392383563374_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e58aef9a-0048-49dd-87a3-392383563374/steckel_2011_predigen-ueber-prediger.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e58aef9a-0048-49dd-87a3-392383563374" DMDID="DMD_e58aef9a-0048-49dd-87a3-392383563374">
+            <mets:fptr FILEID="FILE_e58aef9a-0048-49dd-87a3-392383563374_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

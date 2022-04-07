@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4c03a01b-afb5-4f79-9afb-538b59a1d34d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auditorisch evozierte Felder im Bereich der Hörschwelle</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131764063">
+                        <displayForm>Klein, Jan-Stefan</displayForm>
+                        <namePart type="given">Jan-Stefan</namePart>
+                        <namePart type="family">Klein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172241804">
+                        <displayForm>Lütkenhöner, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Lütkenhöner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-04-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-04-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wurde der Frage nachgegangen, wie sich das auditorisch evozierte Magnetfeld (AEF) verändert, wenn sich die Intensität des Reizes der Hörschwelle nähert. Dazu wurden fünf Versuchspersonen Reize verschiedener Intensitäten zwischen 2 und 40 dB SL präsentiert. Die Intensität der Reize war an die Hörschwelle der Versuchsperson angepasst, die unmittelbar vor jeder Messung mit einer geschätzten Genauigkeit von etwa 2 dB bestimmt wurde. Eine Stimulusintensität wurde umso öfter präsentiert, je näher sie an der Schwelle lag. Es gelang bei vier der Probanden, bereits 2 dB oberhalb der Hörschwelle eine deutliche evozierte Antwort, dominiert von der AEF-Komponente N100m, nachzuweisen. Für die Abhängigkeit der Latenzzeit und der Amplitude der N100m von der Intensität wurden Funktionen bestimmt. In Schwellennähe kann die hier gefundene Amplitudenfunktion durch eine lineare Funktion approximiert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>AEF</topic>
+                        <topic>Hörschwelle</topic>
+                        <topic>N100m</topic>
+                        <topic>Amplitude</topic>
+                        <topic>Latenz</topic>
+                        <topic>MEG</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62679702224</identifier>
+                    <identifier type="sys">HT014716747</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4c03a01b-afb5-4f79-9afb-538b59a1d34d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4c03a01b-afb5-4f79-9afb-538b59a1d34d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4c03a01b-afb5-4f79-9afb-538b59a1d34d/diss_klein.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4c03a01b-afb5-4f79-9afb-538b59a1d34d" DMDID="DMD_4c03a01b-afb5-4f79-9afb-538b59a1d34d">
+            <mets:fptr FILEID="FILE_4c03a01b-afb5-4f79-9afb-538b59a1d34d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

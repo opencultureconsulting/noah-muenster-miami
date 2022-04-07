@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_390fa294-dfcb-48d2-b3bd-2fafbd7cafd5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Widerruf von Verwaltungsakten im spanischen Recht</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/189539801">
+                        <displayForm>Momburg, Rolf</displayForm>
+                        <namePart type="given">Rolf</namePart>
+                        <namePart type="family">Momburg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118769987">
+                        <displayForm>Wolff, Hans J.</displayForm>
+                        <namePart type="given">Hans J.</namePart>
+                        <namePart type="family">Wolff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1959</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-07-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1959</note>
+                    <note type="ownership">Publikation mit freundlicher Genehmigung der Familie</note>
+                    <subject lang="ger">
+                        <topic>Spanien</topic>
+                        <topic>Verwaltungsakt</topic>
+                        <topic>Widerruf</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55249446550</identifier>
+                    <identifier type="sys">HT014965367</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_390fa294-dfcb-48d2-b3bd-2fafbd7cafd5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_390fa294-dfcb-48d2-b3bd-2fafbd7cafd5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/390fa294-dfcb-48d2-b3bd-2fafbd7cafd5/diss_momburg_1959.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_390fa294-dfcb-48d2-b3bd-2fafbd7cafd5" DMDID="DMD_390fa294-dfcb-48d2-b3bd-2fafbd7cafd5">
+            <mets:fptr FILEID="FILE_390fa294-dfcb-48d2-b3bd-2fafbd7cafd5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

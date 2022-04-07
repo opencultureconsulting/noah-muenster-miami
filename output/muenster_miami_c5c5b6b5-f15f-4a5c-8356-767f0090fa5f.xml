@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c5c5b6b5-f15f-4a5c-8356-767f0090fa5f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Schlachter zum Internetmetzger</title>
+                        <subTitle>500 Jahre Fleischerhandwerk im Raum Ludwigsburg</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106971697">
+                        <displayForm>Hesse, Manfred</displayForm>
+                        <namePart type="given">Manfred</namePart>
+                        <namePart type="family">Hesse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">oth</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-05-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Die Publikation ist eine stark gekürzte Fassung der etwa 190seitigen Arbeit (mit 97 Abb. / Photos, 1 Tab., 91 Faksimiles, 8 Plänen und umfangreichem Anhang; 1 CD-ROM, 1 Videofilm) im Rahmen des &quot;Schülerwettbewerbs Deutsche Geschichte um den Preis des Bundespräsidenten&quot;.</note>
+                    <note type="ownership">Veröffentlichung mit freundlicher Genehmigung der Körber-Stiftung, Hamburg</note>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Tiere</topic>
+                        <topic>Geschichte</topic>
+                        <topic>Schülerwettbewerb</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>123</start>
+                                <end>146</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659546236</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c5c5b6b5-f15f-4a5c-8356-767f0090fa5f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c5c5b6b5-f15f-4a5c-8356-767f0090fa5f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c5c5b6b5-f15f-4a5c-8356-767f0090fa5f/metzger.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c5c5b6b5-f15f-4a5c-8356-767f0090fa5f" DMDID="DMD_c5c5b6b5-f15f-4a5c-8356-767f0090fa5f">
+            <mets:fptr FILEID="FILE_c5c5b6b5-f15f-4a5c-8356-767f0090fa5f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

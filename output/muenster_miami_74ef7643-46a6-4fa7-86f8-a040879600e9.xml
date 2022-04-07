@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_74ef7643-46a6-4fa7-86f8-a040879600e9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Analysis of adaptation strategies of uropathogenic Escherichia coli during growth in the bladder</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <title>Untersuchung von Anpassungsstrategien uropathogener Escherichia coli bei Wachstum in der Harnblase</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1073168867">
+                        <displayForm>Ewert, Birgit</displayForm>
+                        <namePart type="given">Birgit</namePart>
+                        <namePart type="family">Ewert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121669874">
+                        <displayForm>Dobrindt, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Dobrindt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-07-02</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-05-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die häufigste Form von Harnwegsinfektionen, hauptsächlich verursacht durch Bakterien der Spezies Escherichia coli, ist die asymptomatische Bakteriurie (ABU). Diese ist trotz hoher Bakterienzahl im Urin durch die Abwesenheit klinischer Symptome charakterisiert. Die molekularen Mechanismen, die es E. coli Stämmen ermöglichen den menschlichen Harnweg ohne eine signifikante Wirtsantwort zu kolonisieren, sind bisher weitgehend unbekannt. Eine Anpassung der Virulenz durch Genomreduzierung scheint ein evolutionäres Prinzip zur Etablierung eines kommensalen Lebensstils darzustellen. Die vorliegende Arbeit untersucht das Zweikomponentensystem (TCS) BarA/UvrY ABU-assoziierter E. coli Stämme. Es zeigt sich, dass uvrY einer positiven Selektion während des Wachstums in den Harnwegen unterliegt und dass Mutationen in uvrY zu einem Wachstumsvorteil in Urin führen. Die Studien zeigen, dass ein Funktionsverlust des TCS BarA/UvrY zu einem selektiven Vorteil für Zellen bei Langzeitwachstum in Urin führt.</abstract>
+                    <subject lang="ger">
+                        <topic>Harnwegsinfektion</topic>
+                        <topic>Escherichia coli</topic>
+                        <topic>ABU</topic>
+                        <topic>Zweikomponentensystem</topic>
+                        <topic>TCS BarA/UvrY</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59219634218</identifier>
+                    <identifier type="sys">HT018688010</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_74ef7643-46a6-4fa7-86f8-a040879600e9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_74ef7643-46a6-4fa7-86f8-a040879600e9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/74ef7643-46a6-4fa7-86f8-a040879600e9/diss_ewert.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_74ef7643-46a6-4fa7-86f8-a040879600e9" DMDID="DMD_74ef7643-46a6-4fa7-86f8-a040879600e9">
+            <mets:fptr FILEID="FILE_74ef7643-46a6-4fa7-86f8-a040879600e9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

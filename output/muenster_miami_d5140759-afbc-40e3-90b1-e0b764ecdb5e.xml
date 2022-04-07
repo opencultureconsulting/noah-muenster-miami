@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d5140759-afbc-40e3-90b1-e0b764ecdb5e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mathematik und Physik und Mathematik</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110299728">
+                        <displayForm>Embacher, Franz</displayForm>
+                        <namePart type="given">Franz</namePart>
+                        <namePart type="family">Embacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-12-29</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Weder die Behandlung physikalischer Anwendungsbeispiele im Mathematikunterricht noch die Verwendung mathematischer Techniken im Physikunterricht sind eine für SchülerInnen leichte Angelegenheit. Ressourcen im WWW und interaktive Techniken können hier helfen, Brücken zu bauen.</abstract>
+                    <note type="ownership">erstmalig veröffentlicht in:
+Bärbel Barzel, Detlef Berntzen, Victor Manuel David Sendas: Neues Lernen. Neue Medien. Viele Projekte im Land. Tagungsdokumentation. Westfälische Wilhelms-Universität Münster. 21.-24. Mai 2002. Münster 2003 (=ZKL-Texte Nr. 25), ISBN 3-934064-30-2</note>
+                    <note type="citation/reference">Workshop 213 gegeben auf der Pfingsttagung an der Westfälischen Wilhelms-Universität in Münster 21.-24.5.2002</note>
+                    <subject lang="ger">
+                        <topic>Mathematik</topic>
+                        <topic>Physik</topic>
+                        <topic>Didaktik</topic>
+                        <topic>neue Medien</topic>
+                        <topic>Anwendungsbeispiele</topic>
+                        <topic>Internet</topic>
+                        <topic>Internetressourcen</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659527246</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d5140759-afbc-40e3-90b1-e0b764ecdb5e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d5140759-afbc-40e3-90b1-e0b764ecdb5e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d5140759-afbc-40e3-90b1-e0b764ecdb5e/213.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d5140759-afbc-40e3-90b1-e0b764ecdb5e" DMDID="DMD_d5140759-afbc-40e3-90b1-e0b764ecdb5e">
+            <mets:fptr FILEID="FILE_d5140759-afbc-40e3-90b1-e0b764ecdb5e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

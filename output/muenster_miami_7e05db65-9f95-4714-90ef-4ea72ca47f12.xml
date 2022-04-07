@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7e05db65-9f95-4714-90ef-4ea72ca47f12">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Bradykinin assay for monitoring serum protease activity</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>König, Simone</displayForm>
+                        <namePart type="given">Simone</namePart>
+                        <namePart type="family">König</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129386863">
+                        <displayForm>Bayer, Malte C.</displayForm>
+                        <namePart type="given">Malte C.</namePart>
+                        <namePart type="family">Bayer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129386863">
+                        <displayForm>Bayer, Malte Carsten</displayForm>
+                        <namePart type="given">Malte Carsten</namePart>
+                        <namePart type="family">Bayer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-10-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A step-by-step protocol for monitoring serum protease activity using dabsylated bradykinin is provided. Detection is performed using thin-layer chromatography. The assay can be run with as little as 3 µl of serum and responds particularly well in cases when angiotensin-converting enzyme activity is changed.</abstract>
+                    <abstract lang="ger">In diesem Artikel wird eine Laborvorschrift zur Durchführung eines Peptid-Assays zur Untersuchung der Protease-Aktivität in Serum veröffentlicht. Dieser beruht auf der Inkubation des ACE-Substrates Bradykinin in wenigen Mikrolitern Serum. Dazu wird das Peptid dabsyliert. Die Detektion der gebildeten Peptidfragmente erfolgt mittels Dünnschichtchromatographie.</abstract>
+                    <subject lang="eng">
+                        <topic>Bradykinin</topic>
+                        <topic>neuropeptide</topic>
+                        <topic>angiotensin-converting enzyme</topic>
+                        <topic>dabsyl chloride</topic>
+                        <topic>TLC</topic>
+                        <topic>serum protease</topic>
+                    </subject>
+                    <classification authority="ddc">572</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Mercator Journal of Biomolecular Analysis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Mercator Journal of Biomolecular Analysis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>11</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-30289538583</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/3.0/de/">CC BY-SA 3.0  DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7e05db65-9f95-4714-90ef-4ea72ca47f12</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7e05db65-9f95-4714-90ef-4ea72ca47f12_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7e05db65-9f95-4714-90ef-4ea72ca47f12/mercator-journal_2017_1_2.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7e05db65-9f95-4714-90ef-4ea72ca47f12" DMDID="DMD_7e05db65-9f95-4714-90ef-4ea72ca47f12">
+            <mets:fptr FILEID="FILE_7e05db65-9f95-4714-90ef-4ea72ca47f12_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

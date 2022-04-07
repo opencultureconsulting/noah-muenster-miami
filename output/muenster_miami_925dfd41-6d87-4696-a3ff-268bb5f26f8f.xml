@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_925dfd41-6d87-4696-a3ff-268bb5f26f8f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>SANS study of microemulsions with polymer additions</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128955481">
+                        <displayForm>Byelov, Dmytro</displayForm>
+                        <namePart type="given">Dmytro</namePart>
+                        <namePart type="family">Byelov</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Richter, Dieter</displayForm>
+                        <namePart type="given">Dieter</namePart>
+                        <namePart type="family">Richter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-04-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mikroemulsionen bestehend aus Wasser, Öl, nicht-ionischem Tensid, und kleinen Mengen verschiedenen Polymers wurden mit zwei komplementären Methoden untersucht: Das makroskopische Phasenverhalten wurde bestimmt, und die dazugehörige mikroskopische Struktur wurde mit Neutronenkleinwinkelstreuung gemessen. Nachdem der &quot;Polymer Boosting Effekt&quot; etabliert wurde - dies ist eine große Verstärkung des Emulsifizierverhaltens durch amphiphiles Diblock Copolymer - ist der komplementäre Effekt von Homopolymeren Ziel dieser Studie. Simultane Beigaben von Homopolymeren und Diblock Copolymeren testen die Überlagerungsfähigkeit dieser beiden entgegengesetzten Effekte, um womöglich eine konstante Effizienz mit vergrößerter Viskosität zu erhalten. Desweiteren sollte der &quot;Polymer Boosting Effekt&quot; von der bikontinuierlichen zur Tröpfchen-Mikroemulsion übertragen werden. Dieser Teil der Arbeit zeigt einen Zusammenhang zwischen der Polymerstruktur und der Stärke des &quot;Boosting Effektes&quot; auf.</abstract>
+                    <subject lang="ger">
+                        <topic>microemulsion</topic>
+                        <topic>SANS</topic>
+                        <topic>polymer boosting effect</topic>
+                        <topic>complementary effect</topic>
+                        <topic>homopolymer surfactant</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10719463625</identifier>
+                    <identifier type="sys">HT014041101</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_925dfd41-6d87-4696-a3ff-268bb5f26f8f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_925dfd41-6d87-4696-a3ff-268bb5f26f8f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/925dfd41-6d87-4696-a3ff-268bb5f26f8f/disser070404.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_925dfd41-6d87-4696-a3ff-268bb5f26f8f" DMDID="DMD_925dfd41-6d87-4696-a3ff-268bb5f26f8f">
+            <mets:fptr FILEID="FILE_925dfd41-6d87-4696-a3ff-268bb5f26f8f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

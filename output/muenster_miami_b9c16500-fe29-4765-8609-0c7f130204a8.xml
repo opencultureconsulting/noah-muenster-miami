@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b9c16500-fe29-4765-8609-0c7f130204a8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>FuSe - a Multi-Layered Parallel Treebank</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cyrus, Lea</displayForm>
+                        <namePart type="given">Lea</namePart>
+                        <namePart type="family">Cyrus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Feddes, Hendrik</displayForm>
+                        <namePart type="given">Hendrik</namePart>
+                        <namePart type="family">Feddes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schumacher, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Schumacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-07-27</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-07-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">While there exist a number of bi- and even multilingual corpora, syntactically analyzed parallel corpora are rare. At Münster University, we have initiated a treebank project with the aim of closing this gap. Our goal is to build a multi-layered treebank of aligned parallel texts in English and German. While we conﬁne ourselves to annotating only one language pair, the design will be such that additional languages can be added, provided there exist appropriate translations. Our working title for the treebank is FuSe, which stands for functional semantic annotation and connotes that two or more languages are fused with each other. Although our main motivation is to contribute to linguistic research rather than to develop a corpus which is tailor-made for a particular N L P-application, we believe that the corpus will prove useful for research in several ﬁelds of application, the most obvious one being machine translation. The linguistic annotation of the FuSe corpus will contain the following layers: POS tags, constituent structure, functional relations, predicate-argument structure, and alignment information. The alignment layer is the only one which is deﬁned for a language pair rather than for a single language. Apart from this layer, the subcorpora are complete monolingual resources in their own right. In the following we will concentrate on the predicate-argument structure and on the representation of alignment information.</abstract>
+                    <note type="citation/reference">Proc. Second Workshop on Treebanks and Linguistic Theories (14-15 November 2003), 213-216</note>
+                    <subject lang="ger">
+                        <topic>Korpuslinguistik</topic>
+                        <topic>Computerlinguistik</topic>
+                        <topic>syntaktische Annotation</topic>
+                        <topic>semantische Annotation</topic>
+                    </subject>
+                    <classification authority="ddc">400</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659523905</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b9c16500-fe29-4765-8609-0c7f130204a8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b9c16500-fe29-4765-8609-0c7f130204a8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b9c16500-fe29-4765-8609-0c7f130204a8/0311_tlt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b9c16500-fe29-4765-8609-0c7f130204a8" DMDID="DMD_b9c16500-fe29-4765-8609-0c7f130204a8">
+            <mets:fptr FILEID="FILE_b9c16500-fe29-4765-8609-0c7f130204a8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

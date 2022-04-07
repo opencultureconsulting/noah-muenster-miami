@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_28edcbc8-b168-45b0-aabc-6a3408b8451e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Prinzip moderater Abweichungen für die Größe der größten Komponente in einem Erdös-Rényi-Zufallsgraphen im superkritischen Fall</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142437948">
+                        <displayForm>Ameskamp, Jens</displayForm>
+                        <namePart type="given">Jens</namePart>
+                        <namePart type="family">Ameskamp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133460967">
+                        <displayForm>Löwe, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Löwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-06-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit untersucht die größte Komponente eines Erdös-Rényi-Zufallsgraphen G(n,p) mit p=an. Für a&gt;1 ist bekannt, dass die größte Komponente eines solchen Graphen asymptotisch von der Größe cn ist, wenn c die Überlebenswahrscheinlichkeit eines Galton-Watson-Prozesses mit Reproduktionsverteilung Poi(a) ist. Für diesen Fall wir hier ein Prinzip moderater Abweichungen um diesen Wert bewiesen, welches die Lücke zwischen den bekannten Resultaten eines zentralen Grenzwertsatzes und eines Prinzips großer Abweichungen schließt. Dieses Ergebniss wird schließlich auf das Modell G(n,M) übertragen.</abstract>
+                    <subject lang="ger">
+                        <topic>moderate Abweichungen</topic>
+                        <topic>große Anbweichungen</topic>
+                        <topic>zufällige Graphen</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67429577998</identifier>
+                    <identifier type="sys">HT016530676</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_28edcbc8-b168-45b0-aabc-6a3408b8451e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_28edcbc8-b168-45b0-aabc-6a3408b8451e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/28edcbc8-b168-45b0-aabc-6a3408b8451e/diss_ameskamp.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_28edcbc8-b168-45b0-aabc-6a3408b8451e" DMDID="DMD_28edcbc8-b168-45b0-aabc-6a3408b8451e">
+            <mets:fptr FILEID="FILE_28edcbc8-b168-45b0-aabc-6a3408b8451e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

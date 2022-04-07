@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cd0aaae8-f02d-4d05-8b1b-97a32ab6ea65">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Lower bound estimates related to primes in short intervals</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1133312179">
+                        <displayForm>Juhas, Arne</displayForm>
+                        <namePart type="given">Arne</namePart>
+                        <namePart type="family">Juhas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1133312179">
+                        <displayForm>Juhas, Arne Lutz</displayForm>
+                        <namePart type="given">Arne Lutz</namePart>
+                        <namePart type="family">Juhas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123080770">
+                        <displayForm>Halupczok, Karin</displayForm>
+                        <namePart type="given">Karin</namePart>
+                        <namePart type="family">Halupczok</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-06-02</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-02-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Gegenstand der vorliegenden Dissertation ist die Herleitung unterer Schranken für das zweite Moment von Primzahlen in kurzen Intervallen als auch der Paarkorrelationsfunktion, deren asymptotisches Verhalten durch Montgomerys Paarkorrelationsvermutung vorausgesagt wird. Solche unteren Schranken wurden von Dan Goldston sowohl unter Annahme der allgemeinen Riemannschen Vermutung als auch unkonditionell unter Verwendung einer abgeschnittenen von Mangoldt Funktion bewiesen. Ausgehend von einem modifizierten Ansatz, der auf Goldstons Methoden beruht, leiten wir Verbesserungen und Erweiterungen seiner Ergebnisse sowohl im konditionellen als auch im unkonditionellen Fall her. Im ersten Fall verwenden wir hierzu unter anderem die Fourierentwicklung der Sägezahnfunktion und das große Sieb und im zweiten Fall das Basic Mean Value Theorem. Eine weitere Anwendung betrifft untere Schranken der gemittelten und nicht gemittelten Varianz von Primzahlen in arithmetischen Progressionen.</abstract>
+                    <subject lang="ger">
+                        <topic>Primzahlen</topic>
+                        <topic>zweites Moment</topic>
+                        <topic>kurze Intervalle</topic>
+                        <topic>arithmetische Progressionen</topic>
+                        <topic>untere Schranken</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-32219500849</identifier>
+                    <identifier type="sys">HT019347702</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cd0aaae8-f02d-4d05-8b1b-97a32ab6ea65</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cd0aaae8-f02d-4d05-8b1b-97a32ab6ea65_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cd0aaae8-f02d-4d05-8b1b-97a32ab6ea65/diss_juhas.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cd0aaae8-f02d-4d05-8b1b-97a32ab6ea65" DMDID="DMD_cd0aaae8-f02d-4d05-8b1b-97a32ab6ea65">
+            <mets:fptr FILEID="FILE_cd0aaae8-f02d-4d05-8b1b-97a32ab6ea65_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

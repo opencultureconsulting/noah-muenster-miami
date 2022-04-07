@@ -1,0 +1,103 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cf427739-9449-46cf-8005-6a05332bc580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Evaluating Variant Calling Tools for Non-Matched Next-Generation Sequencing Data</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1151271616">
+                        <displayForm>Sandmann, Sarah</displayForm>
+                        <namePart type="given">Sarah</namePart>
+                        <namePart type="family">Sandmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1128039974">
+                        <displayForm>de Graaf, Aniek O.</displayForm>
+                        <namePart type="given">Aniek O.</namePart>
+                        <namePart type="family">de Graaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Karimi, Mohsen</displayForm>
+                        <namePart type="given">Mohsen</namePart>
+                        <namePart type="family">Karimi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van der Reijden, Bert A.</displayForm>
+                        <namePart type="given">Bert A.</namePart>
+                        <namePart type="family">van der Reijden</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hellström-Lindberg, Eva</displayForm>
+                        <namePart type="given">Eva</namePart>
+                        <namePart type="family">Hellström-Lindberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1108951295">
+                        <displayForm>Jansen, Joop H.</displayForm>
+                        <namePart type="given">Joop H.</namePart>
+                        <namePart type="family">Jansen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1131361393">
+                        <displayForm>Dugas, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Dugas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-24</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-05-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Valid variant calling results are crucial for the use of next-generation sequencing in clinical routine. However, there are numerous variant calling tools that usually differ in algorithms, filtering strategies, recommendations and thus, also in the output. We evaluated eight open-source tools regarding their ability to call single nucleotide variants and short indels with allelic frequencies as low as 1% in non-matched next-generation sequencing data: GATK HaplotypeCaller, Platypus, VarScan, LoFreq, FreeBayes, SNVer, SAMtools and VarDict. We analysed two real datasets from patients with myelodysplastic syndrome, covering 54 Illumina HiSeq samples and 111 Illumina NextSeq samples. Mutations were validated by re-sequencing on the same platform, on a different platform and expert based review. In addition we considered two simulated datasets with varying coverage and error profiles, covering 50 samples each. In all cases an identical target region consisting of 19 genes (42,322 bp) was analysed. Altogether, no tool succeeded in calling all mutations. High sensitivity was always accompanied by low precision. Influence of varying coverages- and background noise on variant calling was generally low. Taking everything into account, VarDict performed best. However, our results indicate that there is a need to improve reproducibility of the results in the context of multithreading.</abstract>
+                    <note type="citation/reference">Scientific Reports 7 (2017) 43169, 1-12</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2017 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-78179622564</identifier>
+                    <identifier type="doi">10.1038/srep43169</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cf427739-9449-46cf-8005-6a05332bc580</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cf427739-9449-46cf-8005-6a05332bc580_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cf427739-9449-46cf-8005-6a05332bc580/srep43169.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cf427739-9449-46cf-8005-6a05332bc580" DMDID="DMD_cf427739-9449-46cf-8005-6a05332bc580">
+            <mets:fptr FILEID="FILE_cf427739-9449-46cf-8005-6a05332bc580_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

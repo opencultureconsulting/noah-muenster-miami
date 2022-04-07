@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_36cea140-37be-4a9d-b098-5059d15c2a8f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Trust &amp; reputation models for human sensor observations</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1012638421">
+                        <displayForm>Bishr, Mohamed</displayForm>
+                        <namePart type="given">Mohamed</namePart>
+                        <namePart type="family">Bishr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136212816">
+                        <displayForm>Kuhn, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Kuhn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-06-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-05-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit befasst sich mit dem Problem die Qualität von Nutzer-generierten Inhalten zu bemessen. Zuerst werden, basierend auf vorherigen Arbeiten zu einer funktionalen Ontologie von Beobachtungen und Messungen, die Begriffe Vertrauen und Reputation als Maße für die Qualität von Nutzer-generierten Inhalten ontologisch beschrieben. Die besagte Ontologie wird um die Begriffe Vertrauen und Reputation erweitert. Die Ontologie ist als algebraische Spezifikation entwickelt. Als Zweites wird der Begriff des Vertrauens in Information, das das zwischenmenschliche Vertrauen kapselt, entwickelt. Danach werden zwei räumliche und zeitliche Modelle für Vertrauen und Reputation entwickelt um die Qualität menschlicher Beobachtungen zu bemessen. Analysen zeigen, dass die entwickelten Modelle effektive Werkzeuge zur Sichtung, Filterung und Bemessung der Qualität von menschlichen Beobachtungen sind. Weiterhin hat der Einbezug von Raum und Zeit einen positiven Einfluss auf die Leistung des Modells.</abstract>
+                    <abstract lang="eng">This thesis deals with the problem of quality of user-generated content. First, we provide an ontological account of trust and reputation as measures for quality of user generated content based on earlier work on a functional ontology for observation and measurement. We extend the ontology with trust and reputation. The ontological account is developed as an algebraic specification. Second, we develop the notion of informational trust mediated by interpersonal trust to enable trusting information. We then develop two spatial and temporal computational trust and reputations models for quality assessment human observations. Our analysis shows that the developed models are effective tools for triage, filtering and quality assessment of human sensor observations. Furthermore, the integration of space and time in our trust and reputation models has a positive impact on the models&apos; performance.</abstract>
+                    <subject lang="ger">
+                        <topic>Vertrauen</topic>
+                        <topic>Reputation</topic>
+                        <topic>VGI</topic>
+                        <topic>Menschliche Sensoren</topic>
+                        <topic>Beobachtung</topic>
+                        <topic>Ontologie</topic>
+                        <topic>Geoinformationswissenschaft</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24409549200</identifier>
+                    <identifier type="sys">HT016852175</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_36cea140-37be-4a9d-b098-5059d15c2a8f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_36cea140-37be-4a9d-b098-5059d15c2a8f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/36cea140-37be-4a9d-b098-5059d15c2a8f/diss_bishr.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_36cea140-37be-4a9d-b098-5059d15c2a8f" DMDID="DMD_36cea140-37be-4a9d-b098-5059d15c2a8f">
+            <mets:fptr FILEID="FILE_36cea140-37be-4a9d-b098-5059d15c2a8f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_05441253-092a-49be-9240-8227eac982c4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Analyzing Visual Perception and Predicting Locomotion using Virtual Reality and Eye Tracking</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1188746987">
+                        <displayForm>Stein, Niklas</displayForm>
+                        <namePart type="given">Niklas</namePart>
+                        <namePart type="family">Stein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-06</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-11-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Locomotion and vison are closely linked. When users explore virtual environments by walking they rely on stable visible landmarks to plan and execute their next movement. In my research I am developing novel methods to predict locomotion paths of human subjects for the immediate future, i.e. the next few seconds. I aim to connect different types of behavioral data (eye, hand, feet and head tracking) and test their reliability and validity for predicting walking behavior in virtual reality. Such a prediction will be very valuable for natural interaction, for example in redirected walking schemes. My approach begins with an evaluation of the quality of data gathered with current tracking methods. Informative experimental conditions need to be developed to find meaningful patterns in natural walking. Next, raw tracked data of different modalities need to be connected with each other and aggregated in a useful way. Thereafter, possible valid predictors need to be developed and compared to already functioning predicting algorithms (e.g. [2, 6, 12]). As a final goal, all valid predictors shall be used to create a prediction algorithm returning the most likely future path when exploring virtual environments.</abstract>
+                    <note type="citation/reference">2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2021. ISBN 978-1-6654-1166-0, pp. 727-728</note>
+                    <note>Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 274361309</note>
+                    <note>Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 274361309</note>
+                    <note>Förderer: European Commission / Projektnummer: 734227</note>
+                    <note>Funding organisation: European Commission / Project number: 734227</note>
+                    <subject lang="eng">
+                        <topic>Virtual Reality</topic>
+                        <topic>Locomotion</topic>
+                        <topic>Path Prediction</topic>
+                        <topic>Eye Tracking</topic>
+                        <topic>Latency</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ddc">152</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-35079486659</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_05441253-092a-49be-9240-8227eac982c4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_05441253-092a-49be-9240-8227eac982c4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/05441253-092a-49be-9240-8227eac982c4/10.1109_vrw52623.2021.00246.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_05441253-092a-49be-9240-8227eac982c4" DMDID="DMD_05441253-092a-49be-9240-8227eac982c4">
+            <mets:fptr FILEID="FILE_05441253-092a-49be-9240-8227eac982c4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

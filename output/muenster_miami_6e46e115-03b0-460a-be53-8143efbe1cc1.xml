@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6e46e115-03b0-460a-be53-8143efbe1cc1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Isabel Allendes &quot;Casa de los espíritus&quot;</title>
+                        <subTitle>zwischen Postboom und Postmoderne</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Ch.</displayForm>
+                        <namePart type="given">Ch.</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzky, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-01-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Pfeiffer, Erna; Kubarth, Hugo (Hrsg.): Canticum Ibericum : Neuere spanische, portugiesische
+und lateinamerikanische Literatur im Spiegel von Interpretation und Übersetzung,
+Georg Rudolf Lindt zum Gedenken. Frankfurt am Main : Vervuert, 1991, S. 456-473, ISBN: 3-89354-835-1</note>
+                    <note type="ownership">Druckausgabe 1991. Digitale Publikation mit Genehmigung des Vervuert Verlages</note>
+                    <classification authority="ddc">860</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27219466444</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6e46e115-03b0-460a-be53-8143efbe1cc1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6e46e115-03b0-460a-be53-8143efbe1cc1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6e46e115-03b0-460a-be53-8143efbe1cc1/strosetzki_1991_isabel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6e46e115-03b0-460a-be53-8143efbe1cc1" DMDID="DMD_6e46e115-03b0-460a-be53-8143efbe1cc1">
+            <mets:fptr FILEID="FILE_6e46e115-03b0-460a-be53-8143efbe1cc1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

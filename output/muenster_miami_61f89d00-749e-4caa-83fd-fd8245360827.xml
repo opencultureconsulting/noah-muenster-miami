@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_61f89d00-749e-4caa-83fd-fd8245360827">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>spectral flow theorem for families of twisted Dirac operators</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1190586347">
+                        <displayForm>Buggisch, Lukas Werner</displayForm>
+                        <namePart type="given">Lukas Werner</namePart>
+                        <namePart type="family">Buggisch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137817320">
+                        <displayForm>Ebert, Johannes Felix</displayForm>
+                        <namePart type="given">Johannes Felix</namePart>
+                        <namePart type="family">Ebert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-07-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-02-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der Arbeit werden zwei a priori unterschiedliche Versionen der Index Differenz verallgemeinert. Die klassischen Versionen der Index Differenzen definieren jeweils ein Element in der Reellen K-Theorie eines Punktes. Ersetzt man die dabei verwendeten Spin Dirac Operatoren durch getwistet Spin Dirac Operatoren, erhält man die verallgemeinerten Versionen, die die Fundamentalgruppe der Mannigfaltigkeit mitberücksichtigen. Das beide Versionen im Fall einer einfach zusammenhängenden geschlossenen glatten Mannigfaltigkeit übereinstimmen ist bekannt. In dieser Arbeit wird mit Hilfe von KK-Theorie gezeigt, dass die beiden Versionen auch für den Fall einer nicht einfach zusammenhängenden Mannigfaltigkeit identisch sind. Dadurch lässt sich ein Resultat von Ebert und Randal-Williams über den Homotopietyp des Raumes von Metriken mit positiver Skalarkrümmung einer geraden dimensionalen Mannigfaltigkeit auf ungerade dimensionale Mannigfaltigkeit verallgemeinern.</abstract>
+                    <subject lang="ger">
+                        <topic>Indextheorie</topic>
+                        <topic>Dirac Operator</topic>
+                        <topic>positive Skalarkrümmung</topic>
+                        <topic>Index Differenz</topic>
+                        <topic>KK-Theorie</topic>
+                        <topic>unbeschränktes Kasparov Produkt</topic>
+                        <topic>stetige Felder von Hilbert Modulen</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84139647192</identifier>
+                    <identifier type="sys">HT020133487</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_61f89d00-749e-4caa-83fd-fd8245360827</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_61f89d00-749e-4caa-83fd-fd8245360827_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/61f89d00-749e-4caa-83fd-fd8245360827/diss_buggisch.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_61f89d00-749e-4caa-83fd-fd8245360827" DMDID="DMD_61f89d00-749e-4caa-83fd-fd8245360827">
+            <mets:fptr FILEID="FILE_61f89d00-749e-4caa-83fd-fd8245360827_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

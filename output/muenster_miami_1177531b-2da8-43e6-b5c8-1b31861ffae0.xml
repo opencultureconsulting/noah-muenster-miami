@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1177531b-2da8-43e6-b5c8-1b31861ffae0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pauli-based fermionic teleportation with free massive particles by electron-exchange collisions</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1114178748">
+                        <displayForm>Lohmann, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Lohmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136353290">
+                        <displayForm>Blum, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Blum</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-28</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-02-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Fundamental non-locality in quantum mechanical scattering processes is investigated by means of Fermionic teleportation. Our scenario employs free massive particles, electrons and atoms, within a twofold electron-exchange collision approach whereby, in the first collision, also generating the necessary spin–spin entanglement between initially unpolarized electrons and atoms. It is shown that in a second collision an arbitrary spin polarization state of a free electron can be teleported onto the other electron which has never been in contact with the first one. The underlying scheme relies on and is a direct consequence of the Pauli-principle and makes use of a high symmetry in spin space thereby avoiding restoration of the teleported states. The scattering process (teleportation) is highly symmetric allowing for interchanging the electronic and atomic constituents without loss of generality. Reinterpretation of Li and Na data reveals the feasibility and capability of Fermionic teleportation demonstrated by numerical and experimental data for the teleportation fidelity.</abstract>
+                    <note type="citation/reference">New Journal of Physics 21 (2019) 033025, 1-14</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>non-locality</topic>
+                        <topic>quantum teleportation</topic>
+                        <topic>free massive particles</topic>
+                        <topic>electron-exchange collision</topic>
+                        <topic>Pauli-principle</topic>
+                        <topic>entanglement</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-52129372299</identifier>
+                    <identifier type="doi">10.1088/1367-2630/ab045b</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1177531b-2da8-43e6-b5c8-1b31861ffae0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1177531b-2da8-43e6-b5c8-1b31861ffae0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1177531b-2da8-43e6-b5c8-1b31861ffae0/artikel_lohmann_2019.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1177531b-2da8-43e6-b5c8-1b31861ffae0" DMDID="DMD_1177531b-2da8-43e6-b5c8-1b31861ffae0">
+            <mets:fptr FILEID="FILE_1177531b-2da8-43e6-b5c8-1b31861ffae0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

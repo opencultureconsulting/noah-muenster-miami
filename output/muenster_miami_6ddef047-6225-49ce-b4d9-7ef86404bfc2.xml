@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6ddef047-6225-49ce-b4d9-7ef86404bfc2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>protoneninduzierte Röntgenemission (PIXE) für hochortsaufgelöste, hochempfindliche und zerstörungsfreie Elementaranalytik</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123886732">
+                        <displayForm>Wies, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Wies</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024209253">
+                        <displayForm>Jessberger, Elmar</displayForm>
+                        <namePart type="given">Elmar</namePart>
+                        <namePart type="family">Jessberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-06-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-04-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Heidelberger Protonenmikrosonde eignet sich hervorragend für die Elementanalyse ganzer interplanetarer Staubteilchen mit Größen von etwa 20 µm. In dieser Arbeit wird eine Methode vorgestellt, die nun auch die Bestimmung der Spurenelementgehalte µm-großer Minerale in interplanetaren Staubteilchen erlaubt. Die dafür notwendigen Modifikationen des Datenaufnahmesystems, der Datenauswertung und der Probenpräparation werden in dieser Arbeit beschrieben, erste Messungen von Mineralphasen in vier Staubteilchen präsentiert sowie verbliebene technische Probleme diskutiert.</abstract>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659551000</identifier>
+                    <identifier type="sys">HT013487951</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6ddef047-6225-49ce-b4d9-7ef86404bfc2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6ddef047-6225-49ce-b4d9-7ef86404bfc2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6ddef047-6225-49ce-b4d9-7ef86404bfc2/diss-wies.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6ddef047-6225-49ce-b4d9-7ef86404bfc2" DMDID="DMD_6ddef047-6225-49ce-b4d9-7ef86404bfc2">
+            <mets:fptr FILEID="FILE_6ddef047-6225-49ce-b4d9-7ef86404bfc2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

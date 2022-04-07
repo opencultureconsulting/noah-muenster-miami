@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_339d6866-3f72-4820-8170-5c5e8888fb36">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Probleme der Schulentwicklung bei knappen Ressourcen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böttcher, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Böttcher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1993</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-09-19</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-02-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Die Deutsche Schule 85 (1993) 3, 307-319</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94269473706</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_339d6866-3f72-4820-8170-5c5e8888fb36</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_339d6866-3f72-4820-8170-5c5e8888fb36_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/339d6866-3f72-4820-8170-5c5e8888fb36/1993_boett_probl.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_339d6866-3f72-4820-8170-5c5e8888fb36" DMDID="DMD_339d6866-3f72-4820-8170-5c5e8888fb36">
+            <mets:fptr FILEID="FILE_339d6866-3f72-4820-8170-5c5e8888fb36_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

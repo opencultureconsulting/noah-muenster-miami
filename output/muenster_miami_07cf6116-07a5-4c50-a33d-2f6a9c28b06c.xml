@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_07cf6116-07a5-4c50-a33d-2f6a9c28b06c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On 3-dimensional foliated dynamical systems and Hilbert type reciprocity law</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kim, Junhyeong</displayForm>
+                        <namePart type="given">Junhyeong</namePart>
+                        <namePart type="family">Kim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1034397540">
+                        <displayForm>Morishita, Masanori</displayForm>
+                        <namePart type="given">Masanori</namePart>
+                        <namePart type="family">Morishita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Noda, Takeo</displayForm>
+                        <namePart type="given">Takeo</namePart>
+                        <namePart type="family">Noda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Terashima, Yuji</displayForm>
+                        <namePart type="given">Yuji</namePart>
+                        <namePart type="family">Terashima</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141391561">
+                        <displayForm>Deninger, Christopher</displayForm>
+                        <namePart type="given">Christopher</namePart>
+                        <namePart type="family">Deninger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">hnr</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-10-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We introduce a geometric analog of the Hilbert symbol and show a Hilbert type reciprocity law for a 3-dimensional foliated dynamical system (FDS3 for short). This answers the question posed by Deninger. For this, we employ the theory of smooth Deligne cohomology and the integration theory of Deligne cohomology classes. We also present a structure theorem for an FDS3, which yields a classification of FDS3’s, and we construct concrete examples of FDS3’s for each type of the classification.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>323</start>
+                                <end>348</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-06089649575</identifier>
+                    <identifier type="doi">10.17879/06089649100</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_07cf6116-07a5-4c50-a33d-2f6a9c28b06c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_07cf6116-07a5-4c50-a33d-2f6a9c28b06c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/07cf6116-07a5-4c50-a33d-2f6a9c28b06c/mjm_2021_14_323-348.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_07cf6116-07a5-4c50-a33d-2f6a9c28b06c" DMDID="DMD_07cf6116-07a5-4c50-a33d-2f6a9c28b06c">
+            <mets:fptr FILEID="FILE_07cf6116-07a5-4c50-a33d-2f6a9c28b06c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

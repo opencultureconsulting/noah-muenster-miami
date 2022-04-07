@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_606200b4-7e48-49b7-8a5a-87d51948111b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>kondensierte 83mKr-Kalibrationsquelle für das KATRIN-Experiment</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138671001">
+                        <displayForm>Ostrick, Beatrix</displayForm>
+                        <namePart type="given">Beatrix</namePart>
+                        <namePart type="family">Ostrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138671001">
+                        <displayForm>Müller, Beatrix</displayForm>
+                        <namePart type="given">Beatrix</namePart>
+                        <namePart type="family">Müller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weinheimer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Weinheimer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-06-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-02-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Ziel des KATRIN-Experiments ist die Bestimmung der Neutrinomasse anhand des Elektronenspektrums einer gasförmigen T2-Quelle mit einer Sensitivität von 0,2eV/c2(90%C.L.). Dafür wurde eine Kalibrationsquelle aus kondensiertem 83mKr aufgebaut und getestet. Ein optimales Präparationsverfahren wurde entwickelt, mit dem schliesslich mithilfe von Ablation zur Substratreinigung eine Präzision von 1ppm für die Dauer eines Monats erreicht werden konnte und eine Drift der Spannungsmessung von 0,61(9)ppm/Monat über einen zeitlichen Hebelarm von 1 Jahr nachgewiesen wurde. Ferner wurde das Spektrum der Konversionslinien gemessen. Damit konnten die Übergangsenergien des zweistufigen Relaxationsprozesses von 83mKr in Einklang mit der direkten Energiemessung bestimmt werden: E(32)=32151,74(35)eV und E(9)=9404,71(35)eV. Die Bindungsenergie der LI-Schale wurde neu bestimmt. Weiter konnten die Verhältnisse der Konversionskoeffizienten abgeschätzt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>KATRIN</topic>
+                        <topic>Kalibration</topic>
+                        <topic>Konversionselektronen</topic>
+                        <topic>Elektronenquelle</topic>
+                        <topic>Krypton</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-91519454708</identifier>
+                    <identifier type="sys">HT016081456</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_606200b4-7e48-49b7-8a5a-87d51948111b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_606200b4-7e48-49b7-8a5a-87d51948111b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/606200b4-7e48-49b7-8a5a-87d51948111b/diss_ostrick.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_606200b4-7e48-49b7-8a5a-87d51948111b" DMDID="DMD_606200b4-7e48-49b7-8a5a-87d51948111b">
+            <mets:fptr FILEID="FILE_606200b4-7e48-49b7-8a5a-87d51948111b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

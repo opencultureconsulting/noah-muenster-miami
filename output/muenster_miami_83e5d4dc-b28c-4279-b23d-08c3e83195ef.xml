@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_83e5d4dc-b28c-4279-b23d-08c3e83195ef">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Werkzeuggestützte Individualisierung des objektorientierten Leitstands ooL</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nietsch, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Nietsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172767911">
+                        <displayForm>Rinschede, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Rinschede</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112011888">
+                        <displayForm>Rautenstrauch, Claus</displayForm>
+                        <namePart type="given">Claus</namePart>
+                        <namePart type="family">Rautenstrauch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1993-12</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Einführung elektronischer Leitstände wird in zahlreichen Unternehmen durch die Notwendigkeit, die Software an unternehmensindividuelle Bedürfnisse anzupassen, z.T. erheblich erschwert und verteuert. Die Nutzung objektorientierte Softwaretechnologie ist eine Möglichkeit zur Verringerung des Anpassungsaufwands. Dieser Beitrag beschreibt die Individualisierungsmöglichkeiten des objektorientierten Leitstands &quot;ooL&quot;. Anhand der Architektur des Systems werden die Anpassungen bezüglich der Oberfläche, des Objektmodells und der Datenbank beschrieben und anhand von Beispielen veranschaulicht.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-83599596286</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_83e5d4dc-b28c-4279-b23d-08c3e83195ef</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_83e5d4dc-b28c-4279-b23d-08c3e83195ef_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/83e5d4dc-b28c-4279-b23d-08c3e83195ef/024_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_83e5d4dc-b28c-4279-b23d-08c3e83195ef" DMDID="DMD_83e5d4dc-b28c-4279-b23d-08c3e83195ef">
+            <mets:fptr FILEID="FILE_83e5d4dc-b28c-4279-b23d-08c3e83195ef_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

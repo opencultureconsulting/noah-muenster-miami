@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_792b78c1-3b32-48ba-9d85-1219de9a2a2c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Leveraging Georeferenced Open Government Data</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1068422122">
+                        <displayForm>Degbelo, Auriol</displayForm>
+                        <namePart type="given">Auriol</namePart>
+                        <namePart type="family">Degbelo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12044285X">
+                        <displayForm>Kray, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Kray</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-02-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In recent years, several countries worldwide have been committing to open data principles, and public institutions in these countries have been making their datasets available, free of charge, for re-use. There are currently numbers of issues preventing a full exploitation of open government data (OGD), and this thesis intends to advance OGD research in three areas: user needs (what are needs and wishes of OGD users?), user information (how to effectively inform OGD users?) and user empowerment (how to enable OGD users to effectively re-use OGD?). A set of contributions in this work offers insights into the needs of OGD users in Columbia and Spain (user needs). In addition, the thesis offers an empirical comparison of geovisualizations and data tables for information provision in the OGD landscape (user information). Finally, this thesis proposes an approach that enables people without programming and Cartography expertise to create thematic web maps (user empowerment).</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Habil.-Schr., 2019</note>
+                    <note>This project GEO-C was funded by the European Commission within the Marie Skłodowska-Curie Actions (MSCA), International Training Networks (ITN) and European Joint Doctorates (EJD) under grant agreement No 642332.</note>
+                    <subject lang="eng">
+                        <topic>Geodata Reuse</topic>
+                        <topic>Geovisualization</topic>
+                        <topic>Smart Cities</topic>
+                        <topic>User Needs</topic>
+                        <topic>User Information</topic>
+                        <topic>User Empowerment</topic>
+                        <topic>Open Government</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22139593281</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_792b78c1-3b32-48ba-9d85-1219de9a2a2c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_792b78c1-3b32-48ba-9d85-1219de9a2a2c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/792b78c1-3b32-48ba-9d85-1219de9a2a2c/habil_degbelo_2019.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_792b78c1-3b32-48ba-9d85-1219de9a2a2c" DMDID="DMD_792b78c1-3b32-48ba-9d85-1219de9a2a2c">
+            <mets:fptr FILEID="FILE_792b78c1-3b32-48ba-9d85-1219de9a2a2c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

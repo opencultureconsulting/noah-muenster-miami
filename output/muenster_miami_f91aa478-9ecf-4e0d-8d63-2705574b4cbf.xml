@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f91aa478-9ecf-4e0d-8d63-2705574b4cbf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>wirtschaftliche Vorteil im kommunalen Beitragsrecht</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109212282">
+                        <displayForm>Tücking, Paul Dieter</displayForm>
+                        <namePart type="given">Paul Dieter</namePart>
+                        <namePart type="family">Tücking</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>von Mutius, Albert</displayForm>
+                        <namePart type="given">Albert</namePart>
+                        <namePart type="family">von Mutius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1977</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-18</dateIssued>
+                        <dateOther encoding="w3cdtf">1977-07-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1977</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15589309912</identifier>
+                    <identifier type="sys">HT015479568</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f91aa478-9ecf-4e0d-8d63-2705574b4cbf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f91aa478-9ecf-4e0d-8d63-2705574b4cbf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f91aa478-9ecf-4e0d-8d63-2705574b4cbf/diss_tuecking_1977.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f91aa478-9ecf-4e0d-8d63-2705574b4cbf" DMDID="DMD_f91aa478-9ecf-4e0d-8d63-2705574b4cbf">
+            <mets:fptr FILEID="FILE_f91aa478-9ecf-4e0d-8d63-2705574b4cbf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_57d44fdb-3893-40b7-83c6-f7fb1c4d727f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konjunkturentwicklung im Lichte der Handelsblatt-Frühindikatoren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109750446">
+                        <displayForm>Suntum, Ulrich van</displayForm>
+                        <namePart type="given">Ulrich van</namePart>
+                        <namePart type="family">Suntum</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109750446">
+                        <displayForm>Van Suntum, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Van Suntum</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-03-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525576</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_57d44fdb-3893-40b7-83c6-f7fb1c4d727f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_57d44fdb-3893-40b7-83c6-f7fb1c4d727f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/57d44fdb-3893-40b7-83c6-f7fb1c4d727f/Konjunkturentwicklung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_57d44fdb-3893-40b7-83c6-f7fb1c4d727f" DMDID="DMD_57d44fdb-3893-40b7-83c6-f7fb1c4d727f">
+            <mets:fptr FILEID="FILE_57d44fdb-3893-40b7-83c6-f7fb1c4d727f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

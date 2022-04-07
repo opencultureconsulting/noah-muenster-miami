@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_07844452-c14e-4953-a6de-b270145164e2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bibliographieren – ... aber wie?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voß, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voss, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1016802188">
+                        <displayForm>Wohlgemuth, Jan</displayForm>
+                        <namePart type="given">Jan</namePart>
+                        <namePart type="family">Wohlgemuth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-03-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-04-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bibliographische Angaben dienen zwei Zielen: Sie sollen die verwendete Literatur zweifelsfrei identifizieren und sie dadurch (wieder-)auffindbar machen, und sie sollen jede direkte und indirekte Übernahme fremden geistigen Eigentums eindeutig als solche kennzeichnen und die verwendeten Quellen offen legen. Beides ist unabdingbar für korrektes wissenschaftliches Arbeiten. Diese Anleitung versteht sich weniger als eine (fachspezifische) Vorschrift – schon gar nicht als die einzig Richtige! – sondern vielmehr als eine allgemeine Einführung in die Prinzipien des Bibliographierens, anhand derer man sich seinen eigenen Stil erarbeiten kann, der für die eigenen Belange angemessen und praktisch ist. Wichtiger als das sklavische Festhalten an bestimmten Formatierungsvorschriften ist es, ein klares, einheitliches und eingängiges Schema zu verwenden, das alle wichtigen Informationen zur Verfügung stellt und auch in seiner Systematik für Dritte verständlich ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Wissenschaftliches Arbeiten</topic>
+                        <topic>Bibliographieren</topic>
+                        <topic>Zitat</topic>
+                        <topic>Bibliographische Beschreibung</topic>
+                        <topic>Wissenschaftliches Manuskript</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-08459519100</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_07844452-c14e-4953-a6de-b270145164e2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_07844452-c14e-4953-a6de-b270145164e2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/07844452-c14e-4953-a6de-b270145164e2/wohlgemuth-voss_bibliographieren.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_07844452-c14e-4953-a6de-b270145164e2" DMDID="DMD_07844452-c14e-4953-a6de-b270145164e2">
+            <mets:fptr FILEID="FILE_07844452-c14e-4953-a6de-b270145164e2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

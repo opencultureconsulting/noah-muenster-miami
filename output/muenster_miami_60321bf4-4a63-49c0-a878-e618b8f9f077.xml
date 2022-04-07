@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_60321bf4-4a63-49c0-a878-e618b8f9f077">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rekonstruktion der Kortexoberfläche aus Magnetresonanztomogrammen unter besonderer Berücksichtigung tiefer Furchenstrukturen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12878430X">
+                        <displayForm>Steinsträter, Olaf</displayForm>
+                        <namePart type="given">Olaf</namePart>
+                        <namePart type="family">Steinsträter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172241804">
+                        <displayForm>Lütkenhöner, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Lütkenhöner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Magnetresonanztomographie (MRT) ist das derzeit wohl führende Instrument zur in-vivo-Aufklärung der Morphologie des menschlichen Gehirns. Die von einem MRT-Scanner gelieferten Bilddaten sind aber nicht unmittelbar automatischen Auswertverfahren zugänglich, sondern müssen zunächst komplexen Bilderkennungsverfahren unterworfen werden. In dieser Arbeit wird ein neuartiges Verfahren zur Rekonstruktion des Kortex vorgeschlagen. Obwohl gegenwärtig in diesem Bereich vor allem statistische Segmentierverfahren zum Einsatz kommen, wurde hier ein primär geometrischer Ansatz gewählt, der in der Lage ist, auch tiefe und enge Furchenstrukturen sicher aufzulösen, deren Grauwertverlauf, bedingt durch Partialvolumeneffekt und Bildstörungen, statistischen Klassifizierern kaum Möglichkeiten zur eindeutigen Abgrenzung zwischen grauer Hirnsubstanz und Liquorraum bietet.</abstract>
+                    <subject lang="ger">
+                        <topic>Segmentierung</topic>
+                        <topic>Kortex</topic>
+                        <topic>Rekonstruktion</topic>
+                        <topic>Bereichswachstumsverfahren</topic>
+                        <topic>aktive Konturen</topic>
+                        <topic>aktive Oberflächen</topic>
+                        <topic>MRI</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525983</identifier>
+                    <identifier type="sys">HT013998744</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_60321bf4-4a63-49c0-a878-e618b8f9f077</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_60321bf4-4a63-49c0-a878-e618b8f9f077_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/60321bf4-4a63-49c0-a878-e618b8f9f077/diss_olaf_steinstraeter.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_60321bf4-4a63-49c0-a878-e618b8f9f077" DMDID="DMD_60321bf4-4a63-49c0-a878-e618b8f9f077">
+            <mets:fptr FILEID="FILE_60321bf4-4a63-49c0-a878-e618b8f9f077_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

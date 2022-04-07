@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_88f9db9e-2d99-4a9f-a6bb-9367ec05768f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konstruktion domänenspezifischer Modellierungstechniken für die Modellierung von Fachkonzepten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-08</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ausgehend von einem konstruktionsorientierten Modellierungsverständnis und den Grundlagen des sprachkritischen Ansatzes zeigt der Beitrag welche wesentlichen Schritte der Konstruktion von Modellen erforderlich sind und geht auf Methoden zu deren Unterstützung ein. Diese Überlegungen führen zur Frage, wie Modellierungstechniken, die die konstruktionsorientierte Modellierung von Informationssystemen unterstützen sollen, aufgebaut sein müssen und gestaltet werden können. Der Beitrag zeigt, dass die Entwicklung von Modellierungstechniken selbst ebenfalls als Konstruktionsprozess im sprachkritischen Sinne zu begreifen ist und leitet aus dieser Erkenntnis ein methodologisches Vorgehen zur Entwicklung von Modellierungstechniken ab. Die Ausführungen werden anhand einer Fallstudie aus der Domäne des Data Warehousing illustriert.</abstract>
+                    <note>Dieser Beitrag ist zum Teil im Rahmen des von der Deutschen Forschungsgemeinschaft geförderten Projektes „Konstruktion konfigurierbarer Referenzmodelle für die integrierte Anwendungs- und Organisationsgestaltung (KOREAN)“ (DFG Az: BE 1422/5-1), das im Rahmen des DFG-Verbundprojektes „Betriebswirtschaftliche Referenzmodelle für Dienstleistungsunternehmen (BRID)“ gefördert wird, entstanden.</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43569590769</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_88f9db9e-2d99-4a9f-a6bb-9367ec05768f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_88f9db9e-2d99-4a9f-a6bb-9367ec05768f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/88f9db9e-2d99-4a9f-a6bb-9367ec05768f/078_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_88f9db9e-2d99-4a9f-a6bb-9367ec05768f" DMDID="DMD_88f9db9e-2d99-4a9f-a6bb-9367ec05768f">
+            <mets:fptr FILEID="FILE_88f9db9e-2d99-4a9f-a6bb-9367ec05768f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

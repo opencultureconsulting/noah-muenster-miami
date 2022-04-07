@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_429ac0b8-092f-426d-bf84-1e3a0adc8957">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ordinal proof theory of Kripke-Platek set theory augmented by strong reflection principles</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/101165444X">
+                        <displayForm>Stegert, Jan-Carl</displayForm>
+                        <namePart type="given">Jan-Carl</namePart>
+                        <namePart type="family">Stegert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1089378688">
+                        <displayForm>Pohlers, Wolfram</displayForm>
+                        <namePart type="given">Wolfram</namePart>
+                        <namePart type="family">Pohlers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-04-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-03-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit umfasst vier Teile. Im ersten Teil wird eine Ordinalzahlanalyse der Kripke-Platek Mengenlehre, erweitert um ein Reflexionsschema für erststufige Formeln, erarbeitet. Im zweiten Teil wird diese Ordinalzahlanalyse genutzt, um mit Hilfe subrekursiver Hierarchien eine Charakterisierung der beweisbar rekursiven Funktionen der im ersten Teil untersuchten Theorie zu erhalten. In den letzten beiden Teilen werden die in den ersten beiden Teilen entwickelten Techniken erweitert, um eine Ordinalzahlanalyse, bzw. eine Charakterisierung der beweisbar rekursiven Funktionen, der von M. Rathjen eingeführten Theorie Stabilität zu erhalten. Die Theorie Stabilität umfasst die Theorie KPi, erweitert um das Axiom: zu jeder Ordinalzahl alpha existiert eine Ordinalzahl kappa, so dass kappa kappa+alpha stabil ist.</abstract>
+                    <abstract lang="eng">This thesis is divided into four parts. In the first part an ordinal analysis of Kripke-Platek set theory augmented by a first order reflection scheme is given. In the second part a characterization of the provable recursive functions of the above mentioned theory is acquired. These functions are characterized in terms of a subrecursive hierarchy, which is defined by means of the proof-theoretic ordinal established in the first part of this thesis. In the third part the ordinal analysis of the first part is extended to an ordinal analysis of the theory Stability. The theory Stability was introduced by M. Rathjen and denotes the axiom system of KPi augmented by the axiom: for every ordinal alpha there exists an ordinal kappa, such that kappa is kappa+alpha stable. In the last part of this thesis a characterization of the provable recursive functions of Stability is given by an application of the results of the second part to the ordinal analysis of the third part.</abstract>
+                    <subject lang="ger">
+                        <topic>Mathematische Logik</topic>
+                        <topic>Beweistheorie</topic>
+                        <topic>Ordinalzahlanalyse</topic>
+                        <topic>subrekursive Hierarchien</topic>
+                        <topic>Kripke-Platek Mengenlehre</topic>
+                        <topic>Stabilitäts-Axiom</topic>
+                        <topic>imprädikativ</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44449504436</identifier>
+                    <identifier type="sys">HT016808898</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_429ac0b8-092f-426d-bf84-1e3a0adc8957</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_429ac0b8-092f-426d-bf84-1e3a0adc8957_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/429ac0b8-092f-426d-bf84-1e3a0adc8957/diss_stegert.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_429ac0b8-092f-426d-bf84-1e3a0adc8957" DMDID="DMD_429ac0b8-092f-426d-bf84-1e3a0adc8957">
+            <mets:fptr FILEID="FILE_429ac0b8-092f-426d-bf84-1e3a0adc8957_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

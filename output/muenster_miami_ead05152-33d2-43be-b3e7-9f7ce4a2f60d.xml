@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ead05152-33d2-43be-b3e7-9f7ce4a2f60d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuronale Funktionalität und kognitive Leistungsfähigkeit des präfrontalen Kortex bei gesunden Probanden</title>
+                        <subTitle>eine Protonenmagnetresonanzspektroskopische Untersuchung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137996160">
+                        <displayForm>Naim, Amilia</displayForm>
+                        <namePart type="given">Amilia</namePart>
+                        <namePart type="family">Naim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115469915">
+                        <displayForm>Suslow, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Suslow</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-03-31</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-03-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Untersuchung wurde mit einer ¹H-MRS der DLPFC und das ACC bei gesunden Normprobanden untersucht. Die kognitive Leistungsfähigkeit wurde mit einer neuropsychologischen Testbatterie erfasst, wobei zur Beurteilung der Lernfähigkeit, d.h. der neuronalen Plastizität, die dynamische Version des Wisconsin Card Sorting Test (WCST) angewandt wurde. Als Hauptbefund fand sich eine signifikante Korrelation zwischen NAA im DLPFC und der Lernleistung der Probanden im dynamischen WCST. Weiterhin ergab sich für NAA und Glutamat ein positiver Zusammenhang mit der Performanz im letzten Durchgang des WCST, d.h. je höher die NAA- und Glutamat-Konzentration, desto besser war das Ergebnis der Probanden im WCST nach der Übungsphase. Diese Befunde zeigen erstmalig eine Korrelation der NAA-Konzentration in einem umschriebenen Hirnareal mit der Lernfähigkeit eines Menschen, und nicht nur mit seiner stabilen kognitiven Leistungsfähigkeit.</abstract>
+                    <subject lang="ger">
+                        <topic>Neuronale Plastizität</topic>
+                        <topic>Magnetresonanzspektroskopie</topic>
+                        <topic>N-Acetylaspartat</topic>
+                        <topic>Kognition</topic>
+                        <topic>WCST</topic>
+                        <topic>DLPFC</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-32509475341</identifier>
+                    <identifier type="sys">HT015928897</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ead05152-33d2-43be-b3e7-9f7ce4a2f60d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ead05152-33d2-43be-b3e7-9f7ce4a2f60d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ead05152-33d2-43be-b3e7-9f7ce4a2f60d/diss_naim.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ead05152-33d2-43be-b3e7-9f7ce4a2f60d" DMDID="DMD_ead05152-33d2-43be-b3e7-9f7ce4a2f60d">
+            <mets:fptr FILEID="FILE_ead05152-33d2-43be-b3e7-9f7ce4a2f60d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

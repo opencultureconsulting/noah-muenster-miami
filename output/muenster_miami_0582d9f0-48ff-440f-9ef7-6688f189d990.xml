@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0582d9f0-48ff-440f-9ef7-6688f189d990">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Meinung von Schülern zu ihrem Biologie-Schulbuch und zu Schulversuchen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1139942484">
+                        <displayForm>Aufdermauer, Anke</displayForm>
+                        <namePart type="given">Anke</namePart>
+                        <namePart type="family">Aufdermauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106971697">
+                        <displayForm>Hesse, Manfred</displayForm>
+                        <namePart type="given">Manfred</namePart>
+                        <namePart type="family">Hesse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">45 Schüler der 5. und 6. Jahrgangsstufe wurden nach ihrer Meinung hinsichtlich ihres Schulbuches befragt. Aus ihren Antworten zu Fragen nach Versuchsanleitungen, zu Register, Inhaltsverzeichnis und Glossar sind einige interessante Gedanken und Hinweise zur Schulbuchkonzeption, aber auch zu Versuchsanleitungen und zu Versuchsdurchführungen zu entnehmen.</abstract>
+                    <note>Auszug aus der schriftlichen Hausarbeit zur Ersten Staatsprüfung (Lehramt der Sekundarstufe I).</note>
+                    <subject lang="ger">
+                        <topic>Schulbuchanalyse</topic>
+                        <topic>Schülerbefragung</topic>
+                        <topic>Schulexperimente</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>105</start>
+                                <end>112</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79519575149</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0582d9f0-48ff-440f-9ef7-6688f189d990</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0582d9f0-48ff-440f-9ef7-6688f189d990_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0582d9f0-48ff-440f-9ef7-6688f189d990/15-2006_05_aufdermauer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0582d9f0-48ff-440f-9ef7-6688f189d990" DMDID="DMD_0582d9f0-48ff-440f-9ef7-6688f189d990">
+            <mets:fptr FILEID="FILE_0582d9f0-48ff-440f-9ef7-6688f189d990_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

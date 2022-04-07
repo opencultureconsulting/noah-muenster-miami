@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_08c68a7c-41e2-4e18-8eee-1432f3503545">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierung der Effizienz molekulargenetischer Analysen angeborener Stoffwechselkrankheiten am Beispiel der Phenylketonurie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130509728">
+                        <displayForm>Gödde, Daniel</displayForm>
+                        <namePart type="given">Daniel</namePart>
+                        <namePart type="family">Gödde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130509728">
+                        <displayForm>Gödde, D.</displayForm>
+                        <namePart type="given">D.</namePart>
+                        <namePart type="family">Gödde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Filler, Timm</displayForm>
+                        <namePart type="given">Timm</namePart>
+                        <namePart type="family">Filler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-03</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-04-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Durch die fortschreitende molekulargenetische Forschung etablieren sich im klinischen Alltag zunehmend genetische Parameter, die unmittelbar in die Diagnostik und Therapie einfließen. In der vorliegenden Arbeit werden die zur Identifikation der verursachenden Mutationen der Phenylketonurie angewandten molekulargenetischen Untersuchungsmethoden (DNA-Sequenzierung und SSCP-Analyse) im Hinblick auf ihre Effizienz und Wirtschaftlichkeit untersucht. Im Vergleich der Arbeitszeit, der anfallenden Kosten und der Validität der Verfahren zeigte sich eine Abhängigkeit der Verfahren von der zu untersuchenden Anzahl an Patienten. Bei einem Patientenpool mit weniger als 30 Probanden ist eine direkte DNA-Sequenzierung zu bevorzugen, während die SSCP-Analyse zum Screening auf Mutationen mit einer anschließenden gezielten DNA-Sequenzierung bei mehr als 30 Patienten einen Kostenvorteil erwirtschaftet. Darüber hinaus werden weitere Vorschläge für eine Optimierung von etablierten Verfahren gegeben.</abstract>
+                    <subject lang="ger">
+                        <topic>Phenylketonurie</topic>
+                        <topic>molekulargenetischen Untersuchungsmethoden</topic>
+                        <topic>DNA-Sequenzierung</topic>
+                        <topic>SSCP-Analyse</topic>
+                        <topic>Kosten</topic>
+                        <topic>Arbeitszeit</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29509551680</identifier>
+                    <identifier type="sys">HT015217605</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_08c68a7c-41e2-4e18-8eee-1432f3503545</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_08c68a7c-41e2-4e18-8eee-1432f3503545_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/08c68a7c-41e2-4e18-8eee-1432f3503545/diss_goedde.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_08c68a7c-41e2-4e18-8eee-1432f3503545" DMDID="DMD_08c68a7c-41e2-4e18-8eee-1432f3503545">
+            <mets:fptr FILEID="FILE_08c68a7c-41e2-4e18-8eee-1432f3503545_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

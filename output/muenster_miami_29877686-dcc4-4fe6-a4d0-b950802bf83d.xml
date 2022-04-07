@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_29877686-dcc4-4fe6-a4d0-b950802bf83d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lernbeobachtung in Klasse 1</title>
+                        <subTitle>Anspruchsvolle Förderkonzepte</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120904284">
+                        <displayForm>Dehn, Mechthild</displayForm>
+                        <namePart type="given">Mechthild</namePart>
+                        <namePart type="family">Dehn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Vortrag auf dem 6. Münsteraner Grundschulkolleg am 9. und 10. März 2007</note>
+                    <subject lang="ger">
+                        <topic>Lernentwicklung</topic>
+                        <topic>Förderdiagnostik</topic>
+                        <topic>Lernbeobachtung</topic>
+                        <topic>Umgang mit Heterogenität</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39519594750</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_29877686-dcc4-4fe6-a4d0-b950802bf83d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_29877686-dcc4-4fe6-a4d0-b950802bf83d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/29877686-dcc4-4fe6-a4d0-b950802bf83d/Dehn_Grundschulkolleg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_29877686-dcc4-4fe6-a4d0-b950802bf83d" DMDID="DMD_29877686-dcc4-4fe6-a4d0-b950802bf83d">
+            <mets:fptr FILEID="FILE_29877686-dcc4-4fe6-a4d0-b950802bf83d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7ef3617a-65a5-41a9-92f1-b85e879e976c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>l 1 -homology and simplicial volume</title>
+                        <subTitle>l1-homology and simplicial volume</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Löh, Clara</displayForm>
+                        <namePart type="given">Clara</namePart>
+                        <namePart type="family">Löh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133867072">
+                        <displayForm>Lück, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Lück</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-10-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-09-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Vervollständigen und Dualisieren des singulären Kettenkomplexes bezüglich der l1-Norm führt zu l1-Homologie bzw. beschränkter Kohomologie. Im Gegensatz zu l1-Homologie ist beschränkte Kohomologie durch die Arbeiten von Gromov und Ivanov gut verstanden. Wir entwickeln eine Methode, die es erlaubt Isomorphismen auf Homologie von Banach-Kettenkomplexen in Isomorphismen auf Kohomologie der dualen Komplexe zu übersetzen und umgekehrt. Daher können wir gewisse Resultate über beschränkte Kohomologie in entsprechende Resultate über l1-Homologie transformieren. Zum Beispiel erhalten wir einen neuen, einfachen Beweis dafür, daß l1-Homologie nur von der Fundamentalgruppe abhängt und daß l1-Homologie eine Beschreibung durch projektive Auflösungen besitzt. Im zweiten Teil der Arbeit werden Anwendungen von l1-Homologie auf das simpliziale Volumen nicht-kompakter Mannigfaltigkeiten studiert.</abstract>
+                    <abstract lang="eng">Taking the l1-completion and the topological dual of the singular chain complex gives rise to l1-homology and bounded cohomology respectively. Unlike l1-homology, bounded cohomology is quite well understood by the work of Gromov and Ivanov. We derive a mechanism linking isomorphisms on the level of homology of Banach chain complexes to isomorphisms on the level of cohomology of the dual Banach cochain complexes and vice versa. Therefore, certain results on bounded cohomology can be transferred to l1-homology. For example, we obtain a new, simple proof of the fact that l1-homology depends only on the fundamental group and that l1-homology with twisted coefficients admits a description in terms of projective resolutions. In the second part, we study applications of l1-homology concerning the simplicial volume of non-compact manifolds.</abstract>
+                    <subject lang="ger">
+                        <topic>l1-Homologie</topic>
+                        <topic>Beschränkte Kohomologie</topic>
+                        <topic>Simpliziales Volumen</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37549578216</identifier>
+                    <identifier type="sys">HT015362239</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7ef3617a-65a5-41a9-92f1-b85e879e976c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7ef3617a-65a5-41a9-92f1-b85e879e976c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7ef3617a-65a5-41a9-92f1-b85e879e976c/diss_loeh.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7ef3617a-65a5-41a9-92f1-b85e879e976c" DMDID="DMD_7ef3617a-65a5-41a9-92f1-b85e879e976c">
+            <mets:fptr FILEID="FILE_7ef3617a-65a5-41a9-92f1-b85e879e976c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

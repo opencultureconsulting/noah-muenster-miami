@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f7ab97fd-fa0c-426a-b776-cc098922886b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Unterrichtskultur und neue Medien im Mathematikunterricht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vogt, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Vogt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-05-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-05-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Workshopbeitrag zur 3. T³-Regionaltagung &quot;Computer im Mathematikunterricht. Wie verändert neue Technologie den Unterricht?&quot; an der Universität Mainz (3./4. März 2006)</abstract>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <subject lang="ger">
+                        <topic>Taschencomputer</topic>
+                        <topic>GTR</topic>
+                        <topic>Kompetenzen</topic>
+                        <topic>Didaktik</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-72649605951</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f7ab97fd-fa0c-426a-b776-cc098922886b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f7ab97fd-fa0c-426a-b776-cc098922886b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f7ab97fd-fa0c-426a-b776-cc098922886b/Vogt_Unterrichtskultur.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f7ab97fd-fa0c-426a-b776-cc098922886b" DMDID="DMD_f7ab97fd-fa0c-426a-b776-cc098922886b">
+            <mets:fptr FILEID="FILE_f7ab97fd-fa0c-426a-b776-cc098922886b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

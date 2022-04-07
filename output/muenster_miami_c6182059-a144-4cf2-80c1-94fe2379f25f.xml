@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c6182059-a144-4cf2-80c1-94fe2379f25f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Evaluation einer Methode zur quantitativen Erfassung dreidimensionaler Gesichtsasymmetrien</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027683363">
+                        <displayForm>Krückemeier, Kim</displayForm>
+                        <namePart type="given">Kim</namePart>
+                        <namePart type="family">Krückemeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172920604">
+                        <displayForm>Kleinheinz, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Kleinheinz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-11-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-10-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die in dieser Arbeit betrachtete Methode basiert auf aktiver Photogrammetrie und Streifenprojektionstechnik und dient der dreidimensionalen Oberflächenerfassung. Anhand der Vermessung von 50 Probanden wurde untersucht, in wieweit sich die vorgestellte Methode zur Quantifizierung der fazialen Asymmetrie in Form eines entsprechenden Indexes eignet. Darüber hinaus wurde geprüft, ob sich ein Richtwert für das Ausmaß der Asymmetrie in Normalgesichtern, insbesondere im Hinblick auf Geschlechtsunterschiede, ergibt. Die Anwendung der Methode ergab einen individuellen Wert „INDEXasym“, der als skalare Maßzahl den Grad der fazialen Asymmetrie ausdrückt. Aufgrund der geringen Anzahl an untersuchten Probanden konnte jedoch kein signifikanter Normwert ermittelt werden. Auch wurden keine signifikanten Abweichungen dieser Maßzahl im Bezug auf Geschlechts-unterschiede festgestellt, jedoch wurden Häufungen der geschlechtsspezifischen INDEX-Werte in unterschiedlichen Bereichen ermittelt.</abstract>
+                    <subject lang="ger">
+                        <topic>Faziale Asymmetrie</topic>
+                        <topic>3D-Optometrie</topic>
+                        <topic>Photogrammetrie</topic>
+                        <topic>Phasenschiebeprofilometrie</topic>
+                        <topic>Dreidimensionale Oberflächenerfassung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98379579615</identifier>
+                    <identifier type="sys">HT017450398</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c6182059-a144-4cf2-80c1-94fe2379f25f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c6182059-a144-4cf2-80c1-94fe2379f25f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c6182059-a144-4cf2-80c1-94fe2379f25f/diss_krueckmeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c6182059-a144-4cf2-80c1-94fe2379f25f" DMDID="DMD_c6182059-a144-4cf2-80c1-94fe2379f25f">
+            <mets:fptr FILEID="FILE_c6182059-a144-4cf2-80c1-94fe2379f25f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

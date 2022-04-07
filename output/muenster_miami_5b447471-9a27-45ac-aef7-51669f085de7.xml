@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5b447471-9a27-45ac-aef7-51669f085de7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Limes einer Variation von gemischten Hodge-Strukturen auf einer Familie von nichtkompakten Riemannschen Flächen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133057275">
+                        <displayForm>Brüske, Steve</displayForm>
+                        <namePart type="given">Steve</namePart>
+                        <namePart type="family">Brüske</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1183169620">
+                        <displayForm>Hamm, Helmut A.</displayForm>
+                        <namePart type="given">Helmut A.</namePart>
+                        <namePart type="family">Hamm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-05-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Um die Kohomologie H^1(X_t,C) der Fasern einer Familie von analytisch berandeten Riemannschen Flächen X_t in der Nähe einer singulären Faser X_0 mit einer graduiert-polarisierten gemischten Hodge-Struktur (GPMHS) zu versehen, wird diese Familie über ein Kompaktifizierungsverfahren von Homann mit einer Familie von punktierten Riemannschen Flächen verglichen. Über eine Variation dieser GPMHS erhält man im Limes für t-&gt;0 eine gemischte Hodge-Struktur (Limes-MHS). Durch die Einführung von Periodenmatrizen auf punktierten Riemannschen Flächen können wir analog zu einem Resultat von Griffiths und Schmid die Limes-Hodge-Filtrierung dieser Limes-MHS bestimmen. Die Gewichtsfiltrierung des nilpotenten Anteils der Monodromietransformation der Kohomologie, welche durch Griffiths eingeführt wurde und die Gewichtsfiltrierung, die durch die Punktierung der Riemannschen Flächen gegeben ist, liefern durch eine Faltung nach Steenbrink und Zucker die Limes-Gewichtsfiltrierung der Limes-MHS.</abstract>
+                    <subject lang="ger">
+                        <topic>Riemannsche Fläche</topic>
+                        <topic>hyperelliptisch</topic>
+                        <topic>Periodenmatrix</topic>
+                        <topic>Periodenabbildung</topic>
+                        <topic>Singularität</topic>
+                        <topic>Variation von graduiert-polarisierten gemischten Hodge-Strukturen</topic>
+                        <topic>Limes-MHS</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68579579811</identifier>
+                    <identifier type="sys">HT015216403</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5b447471-9a27-45ac-aef7-51669f085de7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5b447471-9a27-45ac-aef7-51669f085de7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5b447471-9a27-45ac-aef7-51669f085de7/diss_brueske.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5b447471-9a27-45ac-aef7-51669f085de7" DMDID="DMD_5b447471-9a27-45ac-aef7-51669f085de7">
+            <mets:fptr FILEID="FILE_5b447471-9a27-45ac-aef7-51669f085de7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

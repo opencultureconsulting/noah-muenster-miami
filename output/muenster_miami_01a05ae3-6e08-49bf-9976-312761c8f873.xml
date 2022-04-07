@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_01a05ae3-6e08-49bf-9976-312761c8f873">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Didaktische Geländeübung</title>
+                        <subTitle>Studentische Exkursion mit Schülern</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vogt, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Vogt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115755071">
+                        <displayForm>Upmeier zu Belzen, Annette</displayForm>
+                        <namePart type="given">Annette</namePart>
+                        <namePart type="family">Upmeier zu Belzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115755071">
+                        <displayForm>Belzen, Annette Upmeier zu</displayForm>
+                        <namePart type="given">Annette Upmeier zu</namePart>
+                        <namePart type="family">Belzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Nach mehrmaliger Durchführung einer dreitägigen Geländeübung mit Studierenden der Primarstufe mit Schwerpunkt Sachunterricht (Hauptfach Biologie) wird neben der Vorstellung des Exkursionsprojektes über die Erfahrungen berichtet. Das Besondere an der Exkursion ist, daß die Studierenden nach einer zweitägigen Vorbereitung das Gelernte direkt im Anschluß anwenden: Am dritten Exkursionstag findet der vorbereitete Ausflug mit einer Klasse der zweiten Jahrgangsstufe einer Grundschule statt.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Didaktik</topic>
+                        <topic>Sachunterricht</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>99</start>
+                                <end>109</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541575</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_01a05ae3-6e08-49bf-9976-312761c8f873</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_01a05ae3-6e08-49bf-9976-312761c8f873_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/01a05ae3-6e08-49bf-9976-312761c8f873/Vogt67.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_01a05ae3-6e08-49bf-9976-312761c8f873" DMDID="DMD_01a05ae3-6e08-49bf-9976-312761c8f873">
+            <mets:fptr FILEID="FILE_01a05ae3-6e08-49bf-9976-312761c8f873_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

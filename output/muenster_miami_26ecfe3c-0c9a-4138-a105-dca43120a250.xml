@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_26ecfe3c-0c9a-4138-a105-dca43120a250">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Lösungsbeitrag von Metadatenmodellen beim Vergleich von Workflowmanagementsystemen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/171210387">
+                        <displayForm>Rosemann, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Rosemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129208701">
+                        <displayForm>Zur Mühlen, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Zur Mühlen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1996-06</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-13</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die DV-gestützte Prozeßabwicklung mittels Workflowmanagementsystemen erlaubt die Auslagerung der Ablaufsteuerung aus Anwendungssystemen. Mittlerweile ist eine Vielzahl an Systemen mit unterschiedlicher Entwicklungsgeschichte (Dokumentenmanagement, Vorgangssteuerung etc.) verfügbar. Damit stellt sich das Problem der Auswahl eines bedarfsgerechten Workflowmanagementsystems. Im Rahmen dieses Arbeitsberichts soll der diesbezügliche Lösungsbeitrag des Vergleichs der Metadatenmodelle von Workflowmanagementsystemen evaluiert werden. Nach allgemeinen Ausführungen zur Metamodellierung werden hierzu exemplarisch die Metadatenmodelle für die Workflowmanagementsysteme WorkParty (SNI) und FlowMark (IBM) skizziert und verglichen.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23579535939</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_26ecfe3c-0c9a-4138-a105-dca43120a250</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_26ecfe3c-0c9a-4138-a105-dca43120a250_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/26ecfe3c-0c9a-4138-a105-dca43120a250/048_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_26ecfe3c-0c9a-4138-a105-dca43120a250" DMDID="DMD_26ecfe3c-0c9a-4138-a105-dca43120a250">
+            <mets:fptr FILEID="FILE_26ecfe3c-0c9a-4138-a105-dca43120a250_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

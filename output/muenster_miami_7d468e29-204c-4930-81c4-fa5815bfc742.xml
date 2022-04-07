@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7d468e29-204c-4930-81c4-fa5815bfc742">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Re-inventing chemistry – an industry in transition</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122552032">
+                        <displayForm>Leker, Jens</displayForm>
+                        <namePart type="given">Jens</namePart>
+                        <namePart type="family">Leker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Utikal, Hannes</displayForm>
+                        <namePart type="given">Hannes</namePart>
+                        <namePart type="family">Utikal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-04-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note>Section &quot;Letter from the Editor&quot;</note>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Journal of Business Chemistry</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Journal of Business Chemistry</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-19149573017</identifier>
+                    <identifier type="doi">10.17879/19149572771</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7d468e29-204c-4930-81c4-fa5815bfc742</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7d468e29-204c-4930-81c4-fa5815bfc742_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7d468e29-204c-4930-81c4-fa5815bfc742/jbc_2018_15_1_2-8.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7d468e29-204c-4930-81c4-fa5815bfc742" DMDID="DMD_7d468e29-204c-4930-81c4-fa5815bfc742">
+            <mets:fptr FILEID="FILE_7d468e29-204c-4930-81c4-fa5815bfc742_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c4ccfd55-b9e3-43fb-86ef-9dd23a0d541c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sequenzanalyse des mitochondrialen Genoms beim Syndrom des Plötzlichen Säuglingstodes (SIDS)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/104195882X">
+                        <displayForm>Schumann, Stefanie</displayForm>
+                        <namePart type="given">Stefanie</namePart>
+                        <namePart type="family">Schumann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173358853">
+                        <displayForm>Pfeiffer, Heidi</displayForm>
+                        <namePart type="given">Heidi</namePart>
+                        <namePart type="family">Pfeiffer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-09-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-08-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel dieser Studie war es herauszufinden, ob Sequenzveränderungen der mitochondrialen DNA (mtDNA) eine Ursache des Plötzlichen Säuglingstodes (SIDS) sein können. Das mitochondriale Genom kodiert Proteine, die an der Atmungskette der Zellen beteiligt sind. Sequenzveränderungen in diesen Abschnitten können sich somit negativ auf die Energieproduktion auswirken. Es wurde die mtDNA von 195 SIDS-Fällen und 151 gesunden Kindern mittels Multiplex-Minisequencing-Analyseverfahren untersucht. Es wurden keine Risiko-Haplogruppen und keine potentiell pathogenen Mutationen, die in der Literatur mit mtDNA-assoziierten Erkrankungen und SIDS in Zusammenhang gebracht werden, ermittelt, die signifikant mit SIDS zusammenhängen. Die Sequenzierung der gesamten mtDNA in drei SIDS-Fällen deckte insgesamt 36 Mutationen im kodierenden und im nichtkodierenden Bereich auf. Studien unter Berücksichtigung der nukleären DNA und äußerer Risikofaktoren sind denkbar.</abstract>
+                    <subject lang="ger">
+                        <topic>Plötzlicher Säuglingstod</topic>
+                        <topic>mitochondriale DNA</topic>
+                        <topic>Multiplex-Minisequencing</topic>
+                        <topic>SNaPshot-Reaktion</topic>
+                        <topic>Sanger-Sequenzierung</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95369573625</identifier>
+                    <identifier type="sys">HT017773413</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c4ccfd55-b9e3-43fb-86ef-9dd23a0d541c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c4ccfd55-b9e3-43fb-86ef-9dd23a0d541c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c4ccfd55-b9e3-43fb-86ef-9dd23a0d541c/diss_schumann_stefanie.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c4ccfd55-b9e3-43fb-86ef-9dd23a0d541c" DMDID="DMD_c4ccfd55-b9e3-43fb-86ef-9dd23a0d541c">
+            <mets:fptr FILEID="FILE_c4ccfd55-b9e3-43fb-86ef-9dd23a0d541c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9d484684-96ba-4799-9097-60da6f5ecc6b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Bank efficiency estimation</title>
+                        <subTitle>methodology and the problem of adequation</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137008651">
+                        <displayForm>Tente, Sebastian</displayForm>
+                        <namePart type="given">Sebastian</namePart>
+                        <namePart type="family">Tente</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133124029">
+                        <displayForm>Behr, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Behr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-04-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-11-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Bankeffizienzliteratur bedient sich traditionell hochentwickelter ökonometrischer Methoden. Zumeist ist es das Ziel, mikroökonomisch fundierte Kostenfunktionen für den Bankensektor auf der Basis von Bilanzdaten zu schätzen. Diese Funktionen dienen dann als Bezugsgröße, an denen sich der Erfolg einzelner Unternehmen zu messen hat. Die Ergebnisse empirischer Studien werden daher unmittelbar determiniert von der jeweiligen Wahl und Operationalisierung der Input- und Outputfaktoren eines unterstellten Produktionsprozesses in Banken. Vor dem Hintergrund der Statistischen Adäquation diskutieren wir die unterschiedlichen Ansätze, die wir dazu in der Literatur finden. Da letztendlich die Abweichung vom Kostenziel nicht nur auf Entscheidungen des Managements zurückzuführen ist, sondern auch auf zufällige Störfaktoren, wird die Effizienzermittlung auch von bestimmten technischen Verteilungsannahmen beeinflußt, deren jeweilige Auswirkungen wir in alternativen Szenarien prüfen.</abstract>
+                    <subject lang="ger">
+                        <topic>Bankeffizienz</topic>
+                        <topic>Stochastic Frontier Analysis</topic>
+                        <topic>Quantilsregression</topic>
+                        <topic>Paneldatenökonometrie</topic>
+                        <topic>Kostenfunktionen</topic>
+                        <topic>Statistische Adäquation</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74469572330</identifier>
+                    <identifier type="sys">HT016770709</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9d484684-96ba-4799-9097-60da6f5ecc6b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9d484684-96ba-4799-9097-60da6f5ecc6b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9d484684-96ba-4799-9097-60da6f5ecc6b/diss_tente.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9d484684-96ba-4799-9097-60da6f5ecc6b" DMDID="DMD_9d484684-96ba-4799-9097-60da6f5ecc6b">
+            <mets:fptr FILEID="FILE_9d484684-96ba-4799-9097-60da6f5ecc6b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

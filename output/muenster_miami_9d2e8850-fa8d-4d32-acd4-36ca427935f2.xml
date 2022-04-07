@@ -1,0 +1,96 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9d2e8850-fa8d-4d32-acd4-36ca427935f2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Transposable Elements: Classification, Identification, and Their Use As a Tool For Comparative Genomics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Makałowski, Wojciech</displayForm>
+                        <namePart type="given">Wojciech</namePart>
+                        <namePart type="family">Makałowski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gotea, Valer</displayForm>
+                        <namePart type="given">Valer</namePart>
+                        <namePart type="family">Gotea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1037693256">
+                        <displayForm>Pande, Amit</displayForm>
+                        <namePart type="given">Amit</namePart>
+                        <namePart type="family">Pande</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1037693256">
+                        <displayForm>Amit Pande</displayForm>
+                        <namePart type="family">Amit Pande</namePart>
+                        <namePart type="date">1972-</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Makałowska, Izabela</displayForm>
+                        <namePart type="given">Izabela</namePart>
+                        <namePart type="family">Makałowska</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-06</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Most genomes are populated by hundreds of thousands of sequences originated from mobile elements. On the one hand, these sequences present a real challenge in the process of genome analysis and annotation. On the other hand, they are very interesting biological subjects involved in many cellular processes. Here we present an overview of transposable elements biodiversity, and we discuss different approaches to transposable elements detection and analyses.</abstract>
+                    <note type="citation/reference">Maria Anisimova (ed.): Evolutionary Genomics. Statistical and Computational Methods (Methods in Molecular Biology, vol. 1910) New York : Springer Nature, 2019, ISBN 978-1-4939-9073-3, S. 177-207</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2020 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Transposable elements</topic>
+                        <topic>Transposons</topic>
+                        <topic>Mobile elements</topic>
+                        <topic>Repetitive elements</topic>
+                        <topic>Genome analysis</topic>
+                        <topic>Genome evolution</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-90149507813</identifier>
+                    <identifier type="doi">10.1007/978-1-4939-9074-0_6</identifier>
+                    <identifier type="isbn">978-1-4939-9074-0</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9d2e8850-fa8d-4d32-acd4-36ca427935f2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9d2e8850-fa8d-4d32-acd4-36ca427935f2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9d2e8850-fa8d-4d32-acd4-36ca427935f2/makalowski_2019_transposable-elements.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9d2e8850-fa8d-4d32-acd4-36ca427935f2" DMDID="DMD_9d2e8850-fa8d-4d32-acd4-36ca427935f2">
+            <mets:fptr FILEID="FILE_9d2e8850-fa8d-4d32-acd4-36ca427935f2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

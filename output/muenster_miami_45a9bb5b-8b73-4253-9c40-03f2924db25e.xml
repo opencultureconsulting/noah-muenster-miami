@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_45a9bb5b-8b73-4253-9c40-03f2924db25e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Rechtsstellung der NSDAP im „Dritten Reich“</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1985</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-09-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-09-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Salje, Peter (Hrsg.): Recht und Unrecht im Nationalsozialismus. Münster : Wissenschaftliche Verlagsgesellschaft Regensberg u. Biermann, 1985, S. 218-243</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33409444820</identifier>
+                    <identifier type="isbn">3-924469-05-9</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_45a9bb5b-8b73-4253-9c40-03f2924db25e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_45a9bb5b-8b73-4253-9c40-03f2924db25e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/45a9bb5b-8b73-4253-9c40-03f2924db25e/1985_oebbe_recht.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_45a9bb5b-8b73-4253-9c40-03f2924db25e" DMDID="DMD_45a9bb5b-8b73-4253-9c40-03f2924db25e">
+            <mets:fptr FILEID="FILE_45a9bb5b-8b73-4253-9c40-03f2924db25e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

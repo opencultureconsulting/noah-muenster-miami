@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3a7945cd-1cf5-4108-bf03-b9a2d154a89c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Organisatorische und technische Aspekte beim Einsatz von Workflowmanagementsystemen</title>
+                        <subTitle>Proceedings zum Workshop vom 10. April 1997</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124360211">
+                        <displayForm>Becker, Jörg</displayForm>
+                        <namePart type="given">Jörg</namePart>
+                        <namePart type="family">Becker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/171210387">
+                        <displayForm>Rosemann, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Rosemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Während zur Funktionalität und Architektur von Workflowmanagementsystemen bereits diverse, mittlerweile auch umfangreiche Publikationen vorliegen, thematisiert der Münsteraner Workflow-Workshop primär Erfahrungen beim Einsatz dieser Systeme. Dabei sollen zum einen bewußt ‘weichere Faktoren’ - wie z. B. die Integration der Mitarbeiter in den Prozeß der Workflow-Einführung - diskutiert werden. Zum anderen sollen auch bestehende Workflowmanagementkonzepte und -systeme kritisch reflektiert werden.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03579598501</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3a7945cd-1cf5-4108-bf03-b9a2d154a89c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3a7945cd-1cf5-4108-bf03-b9a2d154a89c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3a7945cd-1cf5-4108-bf03-b9a2d154a89c/054_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3a7945cd-1cf5-4108-bf03-b9a2d154a89c" DMDID="DMD_3a7945cd-1cf5-4108-bf03-b9a2d154a89c">
+            <mets:fptr FILEID="FILE_3a7945cd-1cf5-4108-bf03-b9a2d154a89c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

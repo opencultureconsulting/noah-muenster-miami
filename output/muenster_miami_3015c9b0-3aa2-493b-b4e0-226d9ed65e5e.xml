@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modelle und Algorithmen für mobile Datenobjekte und Umgebungen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132340011">
+                        <displayForm>Blunck, Henrik</displayForm>
+                        <namePart type="given">Henrik</namePart>
+                        <namePart type="family">Blunck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Klaus H.</displayForm>
+                        <namePart type="given">Klaus H.</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-11-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-10-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im ersten Teil dieser Arbeit werden Anforderungen an die interne Repräsentation der Bewegungen mobiler Objekte beschrieben und eine Modellierung eines Rahmenwerks vorgestellt, das diverse Repräsentationskonzepte für Bewegungen integriert, um auch verschieden charakterisierte Bewegungen realistisch darstellen zu können; hierfür wurde eine umfassende, effiziente und verlässliche Anfragebearbeitung, die auf verschiedensten Bewegungsrepräsentationen operieren kann, konzipiert. Im zweiten Teil dieser Arbeit wird die speichereffiziente Verarbeitung von geometrischen Daten betrachtet, wie sie in mobilen Umgebungen, in denen Datenverarbeitung von ressourcenbeschränkten Kleinstrechnern durchzuführen ist, von Nutzen sein kann. Konkret werden speicher- und laufzeiteffiziente Algorithmen zum Berechnen von Ausgleichsgeraden, die für die Aggregation von geometrischen und zeitvarianten Daten relevant sind, sowie für die Berechnung der Maximamengen und -schichten von Punktmengen, die für die prioritätsgesteuerte Datenselektion und -gruppierung eingesetzt werden können, präsentiert.</abstract>
+                    <subject lang="ger">
+                        <topic>Moving Objects Databases</topic>
+                        <topic>Räumliche-temporale Datenbanken</topic>
+                        <topic>speichereffiziente Algorithmen</topic>
+                        <topic>Algorithmische Geometrie</topic>
+                        <topic>mobile Informationssysteme</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20689454101</identifier>
+                    <identifier type="sys">HT014923564</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3015c9b0-3aa2-493b-b4e0-226d9ed65e5e/diss_blunck.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e" DMDID="DMD_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e">
+            <mets:fptr FILEID="FILE_3015c9b0-3aa2-493b-b4e0-226d9ed65e5e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

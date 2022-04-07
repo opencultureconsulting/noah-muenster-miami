@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8b4218a1-a1c6-4768-b481-0f840153593e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Coherent and squeezed phonons in semiconductor quantum wells</title>
+                        <subTitle>simulating optically induced lattice dynamics</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1029843082">
+                        <displayForm>Papenkort, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Papenkort</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141203618">
+                        <displayForm>Kuhn, Tilmann E.</displayForm>
+                        <namePart type="given">Tilmann E.</namePart>
+                        <namePart type="family">Kuhn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-08-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-11-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Dissertation geht es darum, wie das Kristallgitter eines Halbleiters in spezielle Nichtgleichgewichtszustände versetzt werden kann, insbesondere in solche, die aus kohärenten oder gequetschten Phononen bestehen. Dazu wird quantenkinetisch die Dynamik eines GaAs/AlAs-Quantenfilms berechnet, der durch ultrakurze Laserpulse angeregt wird. Kohärente Phononen, das heißt eine Schwingung des Kristallgitters, können sehr effizient durch eine resonante Quantenschwebung zwischen zwei Exzitonlinien erzeugt werden. In einem gequetschten Zustand ist die Unschärfe von Gitterauslenkung oder -impuls kleiner als im Gleichgewicht am absoluten Temperaturnullpunkt; es wird analysiert, welche Anregungsbedingungen einen solchen Zustand hervorbringen.</abstract>
+                    <abstract lang="eng">This thesis is about how the crystal lattice of a semiconductor can be put into certain non-equilibrium states, in particular states with coherent and squeezed phonons. To this end, the dynamics of GaAs/AlAs quantum wells under ultrafast optical excitation is simulated by quantum kinetic calculations. Coherent phonon states, in which the lattice oscillates in time, are very efficiently created by a resonant quantum beat between two exciton lines. In a squeezed state, the uncertainty of either lattice displacement or momentum is reduced compared to the zero temperature equilibrium. The excitation conditions which can produce squeezed states are analyzed in detail.</abstract>
+                    <subject lang="ger">
+                        <topic>Physik</topic>
+                        <topic>theoretische Festkörperphysik</topic>
+                        <topic>kohärente Phononen</topic>
+                        <topic>gequetschter Zustand</topic>
+                        <topic>Quantenfilm</topic>
+                        <topic>Ultrakurzzeitdynamik</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59359474648</identifier>
+                    <identifier type="sys">HT017513453</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8b4218a1-a1c6-4768-b481-0f840153593e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8b4218a1-a1c6-4768-b481-0f840153593e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8b4218a1-a1c6-4768-b481-0f840153593e/diss_papenkort.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8b4218a1-a1c6-4768-b481-0f840153593e" DMDID="DMD_8b4218a1-a1c6-4768-b481-0f840153593e">
+            <mets:fptr FILEID="FILE_8b4218a1-a1c6-4768-b481-0f840153593e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

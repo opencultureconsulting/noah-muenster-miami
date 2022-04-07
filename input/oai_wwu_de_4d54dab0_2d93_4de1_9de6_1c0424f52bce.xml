@@ -1,0 +1,204 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:4d54dab0-2d93-4de1-9de6-1c0424f52bce" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:46:54">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_4d54dab0-2d93-4de1-9de6-1c0424f52bce">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">TOPAZ</mods:title>
+                    <mods:subTitle>a tool kit for the assembly of transaction managers for non-standard applications</mods:subTitle>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1063138698">
+                    <mods:namePart type="given">Rainer</mods:namePart>
+                    <mods:namePart type="family">Unland</mods:namePart>
+                    <mods:displayForm>Unland, Rainer</mods:displayForm>
+                    <mods:affiliation>FB 04: Wirtschaftswissenschaftliche Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>workingPaper</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">1994-11</mods:dateIssued>
+                    <mods:dateOther keyDate="yes" encoding="w3cdtf">2008-09-22</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2008-09-21</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-01-28</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>114</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">'Advanced database applications', such as CAD/CAM, CASE, large AI applications or image and voice processing, place demands on transaction management which differ substantially from those in traditional database applications. In particular, there is a need to support 'enriched' data models (which include, for example, complex objects or version and configuration management), 'synergistic' cooperative work, and application- or user-supported consistency. Unfortunately, the demands are not only sophisticated but also diversified, which means that different application areas might even place contradictory demands on transaction management. This paper deals with these problems and offers a solution by introducing a flexible and adaptable tool kit approach for transaction management.</mods:abstract>
+                  <mods:tableOfContents lang="eng">1 Introduction ..... 5&#13;
+2 Comparison of conventional and nested transactions ..... 13&#13;
+2.1 Conventional transaction management ..... 13&#13;
+2.2 The concept of nested transactions ..... 15&#13;
+2.3 ACIDity properties revisited ..... 19&#13;
+2.4 Fundamental rules of Moss' approach ..... 22&#13;
+3 Basic concepts and fundamental rules of the tool kit approach ..... 23&#13;
+3.1 Basic concepts of the tool kit approach ..... 23&#13;
+3.2 Fundamental rules of the tool kit approach ..... 26&#13;
+4 Characteristics of transaction types ..... 30&#13;
+4.1 Concurrency control scheme ..... 30&#13;
+4.2 Object visibility (access view and release view) ..... 33&#13;
+4.3 Task ..... 36&#13;
+4.4 Concurrent execution of (child) transactions ..... 38&#13;
+4.5 Explicit cooperation (collaboration) ..... 39&#13;
+4.6 Serializability revisited ..... 40&#13;
+4.7 Recovery ..... 42&#13;
+4.8 Example of a heterogeneously structured transaction tree ..... 44&#13;
+5 Lock modes ..... 47&#13;
+5.1 Motivation of our approach ..... 47&#13;
+5.2 Transaction related locks ..... 50&#13;
+5.2.1 Basic lock modes of the tool kit approach ..... 52&#13;
+5.2.2 The two effects of a lock ..... 53&#13;
+5.2.3 The semantics of the lock modes ..... 56&#13;
+5.2.4 Upgrading a lock mode ..... 57&#13;
+5.2.5 A short discussion of consistency aspects ..... 60&#13;
+5.2.6 Dynamic assignment of an external effect ..... 60&#13;
+5.3 Transaction related locks in the context of nested transactions ..... 60&#13;
+5.4 Rules on Locks and Notification Services ..... 62&#13;
+5.5 Object related locks ..... 66&#13;
+5.6 Subject related lock ..... 70&#13;
+6 General rules of the tool kit approach ..... 72&#13;
+7 Constraints/rules/triggers ..... 74&#13;
+8 Brief overview of the structure of the tool kit ..... 76&#13;
+9 A few comments on implementation issues ..... 82&#13;
+10 Overview of related work ..... 84&#13;
+10.1 Special purpose transaction models ..... 84&#13;
+10.1.1 Design applications, especially CAD/CAM/VLSI ..... 84&#13;
+10.1.2 Design applications, especially CASE ..... 86&#13;
+10.1.3 Other approaches ..... 88&#13;
+10.2 Transaction models for special types of database systems ..... 90&#13;
+10.3 Transaction models based on compensating transactions ..... 91&#13;
+10.4 Multi-level and open nested transactions ..... 93&#13;
+10.5 Multidatabase transaction models ..... 94&#13;
+10.6 Higher level approaches ..... 95&#13;
+10.7 Tabulated overview ..... 98&#13;
+11 Concluding remarks ..... 100&#13;
+Literature ..... 102&#13;
+Appendix: An example ..... 109</mods:tableOfContents>
+                  <mods:classification authority="ddc">330</mods:classification>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Arbeitsberichte des Instituts für Wirtschaftsinformatik</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="volume" order="34">
+                      <mods:detail>
+                        <mods:number>34</mods:number>
+                      </mods:detail>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:a57d7c1d-0d16-4175-b01a-3d70239638dd</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-43599428873</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/4d54dab0-2d93-4de1-9de6-1c0424f52bce</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:4d54dab0-2d93-4de1-9de6-1c0424f52bce</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_4d54dab0-2d93-4de1-9de6-1c0424f52bce">
+            <mets:rightsMD ID="RIGHTSMD_4d54dab0-2d93-4de1-9de6-1c0424f52bce">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_4d54dab0-2d93-4de1-9de6-1c0424f52bce">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/4d54dab0-2d93-4de1-9de6-1c0424f52bce</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="6d86688dae9467a698b0a24c74c86a337cfec9491cb97fb524d481a132b8b03e" CREATED="2015-01-28T08:33:22" CHECKSUMTYPE="SHA-256" SIZE="1887763" ID="ID_FIL_034_arbeitsberichte_wirtschaftsinformatik.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4d54dab0-2d93-4de1-9de6-1c0424f52bce/034_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW4d54dab0-2d93-4de1-9de6-1c0424f52bce">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/4d54dab0-2d93-4de1-9de6-1c0424f52bce" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_4d54dab0-2d93-4de1-9de6-1c0424f52bce" TYPE="physSequence">
+              <mets:div ID="ID_PHY_034_arbeitsberichte_wirtschaftsinformatik.pdf">
+                <mets:fptr FILEID="ID_FIL_034_arbeitsberichte_wirtschaftsinformatik.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_4d54dab0-2d93-4de1-9de6-1c0424f52bce" DMDID="DMD_4d54dab0-2d93-4de1-9de6-1c0424f52bce" ID="ID_LOG_4d54dab0-2d93-4de1-9de6-1c0424f52bce" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_034_arbeitsberichte_wirtschaftsinformatik.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_4d54dab0-2d93-4de1-9de6-1c0424f52bce" xlink:to="ID_PHY_4d54dab0-2d93-4de1-9de6-1c0424f52bce"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_034_arbeitsberichte_wirtschaftsinformatik.pdf" xlink:to="ID_PHY_034_arbeitsberichte_wirtschaftsinformatik.pdf"/>
+          </mets:structLink>
+        </mets:mets>

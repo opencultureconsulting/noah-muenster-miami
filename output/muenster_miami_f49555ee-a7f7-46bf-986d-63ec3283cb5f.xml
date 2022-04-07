@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f49555ee-a7f7-46bf-986d-63ec3283cb5f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Geschichte der Nierentransplantation</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128418575">
+                        <displayForm>Maibaum, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Maibaum</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123549388">
+                        <displayForm>Hohage, Helge</displayForm>
+                        <namePart type="given">Helge</namePart>
+                        <namePart type="family">Hohage</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-09-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel der vorliegenden medizinhistorischen Arbeit war die Darstellung der Entwicklung der Nierentransplantation von einer zunächst mit hohem experimentellen Charakter behafteten Therapiemöglichkeit bis zu einer Standardtherapie, wobei diese Entwicklung medizintheoretischen und außermedizinischen Einflüssen unterlag. Strukturell ließen sich dabei drei Entwicklungsphasen voneinander abgrenzen. Im Mittelpunkt dieser Betrachtung steht die Entwicklung der Nierentransplantation von 1880 bis 1930 und die Etablierung nach dem 2. Weltkrieg bis in die Gegenwart. Die Fortschritte auf dem Sektor der Immunologie, die Entwicklung der Dialyse sowie die Entstehung einer Organisationsstruktur hatten einen entscheidenden Anteil an der Entwicklung der Nierentransplantation, welches sich an dem starken Anstieg der Transplantationszahl in den beiden letzten Jahrzehnten des 20. Jahrhunderts beweisen läßt.</abstract>
+                    <subject lang="ger">
+                        <topic>Nierentransplantation</topic>
+                        <topic>Immunsuppression</topic>
+                        <topic>Organspende</topic>
+                        <topic>Dialyse</topic>
+                        <topic>Immunologie</topic>
+                        <topic>Transplantationsgesetz</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542506</identifier>
+                    <identifier type="sys">HT013868925</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f49555ee-a7f7-46bf-986d-63ec3283cb5f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f49555ee-a7f7-46bf-986d-63ec3283cb5f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f49555ee-a7f7-46bf-986d-63ec3283cb5f/DissertationMMaibaum.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f49555ee-a7f7-46bf-986d-63ec3283cb5f" DMDID="DMD_f49555ee-a7f7-46bf-986d-63ec3283cb5f">
+            <mets:fptr FILEID="FILE_f49555ee-a7f7-46bf-986d-63ec3283cb5f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

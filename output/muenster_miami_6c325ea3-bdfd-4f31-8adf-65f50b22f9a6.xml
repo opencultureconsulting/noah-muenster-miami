@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6c325ea3-bdfd-4f31-8adf-65f50b22f9a6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildbesitz in der Peripherie</title>
+                        <subTitle>Die Verbreitung von Malerei und Grafik im Jeverland (1600–1900)</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1103598791">
+                        <displayForm>Janssen, Nina</displayForm>
+                        <namePart type="given">Nina</namePart>
+                        <namePart type="family">Janssen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123522668">
+                        <displayForm>Jacobsen, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Jacobsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-03-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-06-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Erst die Kenntnis vom Typischen erlaubt, auch das Außergewöhnliche zu bewerten. Diese sozialhistorische Studie über die Werke bildender Kunst in der Provinz untersucht die Verbreitung und Nutzung von Malerei und Grafik abseits der großen Zentren. Heute erhaltene Werke geben nur einen Ausschnitt des ehemaligen Vorkommens an Bildern wieder. Anhand des Fallbeispiels – dem Jeverland – wurde eine Methode entwickelt, um auch angesichts der stets lückenhaften Überlieferung die ursprüngliche Verbreitung von Bildern zu rekonstruieren. Dabei werden die erhaltenen Werke zu unterschiedlichsten Quellen in Bezug gesetzt, darunter beispielsweise besitzverzeichnende Inventare, Versteigerungsprotokolle, aber auch Werbeanzeigen. So können neben den Werken und ihrer Beschaffenheit auch ihre Auftraggeber und Käufer ermittelt werden sowie die in der Peripherie tätig gewordenen Maler.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Bildbesitz in der Peripherie : Die Verbreitung von Malerei und Grafik im Jeverland (1600–1900) / Nina Janssen. – Münster : readbox unipress, 2020. – V, 510 S. (Wissenschaftliche Schriften der WWU Münster : Reihe X ; Bd. 31), ISBN 978-3-8405-0219-4, Preis: 40,00 EUR</note>
+                    <note type="thesis statement">Zugl.: Münster (Westfalen), Univ., Diss., 2018</note>
+                    <subject lang="ger">
+                        <topic>Peripherie</topic>
+                        <topic>Bildbesitz</topic>
+                        <topic>Malerei</topic>
+                        <topic>Grafik</topic>
+                        <topic>Inventar</topic>
+                        <topic>Museum</topic>
+                        <topic>Sozialgeschichte</topic>
+                    </subject>
+                    <classification authority="ddc">759</classification>
+                    <classification authority="ddc">392</classification>
+                    <classification authority="ddc">708</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12199618446</identifier>
+                    <identifier type="isbn">978-3-8405-0219-4</identifier>
+                    <identifier type="sys">HT020978003</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6c325ea3-bdfd-4f31-8adf-65f50b22f9a6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6c325ea3-bdfd-4f31-8adf-65f50b22f9a6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6c325ea3-bdfd-4f31-8adf-65f50b22f9a6/diss_janssen_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6c325ea3-bdfd-4f31-8adf-65f50b22f9a6" DMDID="DMD_6c325ea3-bdfd-4f31-8adf-65f50b22f9a6">
+            <mets:fptr FILEID="FILE_6c325ea3-bdfd-4f31-8adf-65f50b22f9a6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

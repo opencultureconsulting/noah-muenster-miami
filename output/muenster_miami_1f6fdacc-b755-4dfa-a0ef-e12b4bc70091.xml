@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1f6fdacc-b755-4dfa-a0ef-e12b4bc70091">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Spiel mir eine Geschichte!</title>
+                        <subTitle>Eine Begriffsgeschichte der Simulation zwischen Literaturwissenschaft und Ludologie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwessinger, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Schwessinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-08-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Simulation ist einer der zentralen Begriffe in der ludologischen Theorie des Computerspiels. In dieser definiert er sich primär in der Abgrenzung zur Literaturwissenschaft. In der Reflexion auf die Geschichte und Theorie des Begriffs entwirft der Beitrag eine dieser Dichotomie entgegengesetzte Perspektive der Gemeinsamkeiten.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61269476784</identifier>
+                    <identifier type="doi">10.17879/61269475690</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1f6fdacc-b755-4dfa-a0ef-e12b4bc70091</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1f6fdacc-b755-4dfa-a0ef-e12b4bc70091_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1f6fdacc-b755-4dfa-a0ef-e12b4bc70091/Textpraxis_2017_s2_schwessinger.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1f6fdacc-b755-4dfa-a0ef-e12b4bc70091" DMDID="DMD_1f6fdacc-b755-4dfa-a0ef-e12b4bc70091">
+            <mets:fptr FILEID="FILE_1f6fdacc-b755-4dfa-a0ef-e12b4bc70091_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

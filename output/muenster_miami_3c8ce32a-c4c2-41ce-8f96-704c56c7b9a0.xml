@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3c8ce32a-c4c2-41ce-8f96-704c56c7b9a0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Projekt Förderunterricht an der Universität Dortmund</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1014012260">
+                        <displayForm>Seipp, Bettina</displayForm>
+                        <namePart type="given">Bettina</namePart>
+                        <namePart type="family">Seipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright liegt beim Autor</note>
+                    <note type="citation/reference">Vortrag auf dem 1. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 12.-14. März 2007 in Münster</note>
+                    <subject lang="ger">
+                        <topic>Förderprojekt</topic>
+                        <topic>Sprachförderkompetenz</topic>
+                        <topic>Lehrerausbildung</topic>
+                        <topic>Deutsch als Zweitsprache</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09529479342</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3c8ce32a-c4c2-41ce-8f96-704c56c7b9a0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3c8ce32a-c4c2-41ce-8f96-704c56c7b9a0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3c8ce32a-c4c2-41ce-8f96-704c56c7b9a0/Seipp-Projekt-Foerderunterricht.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3c8ce32a-c4c2-41ce-8f96-704c56c7b9a0" DMDID="DMD_3c8ce32a-c4c2-41ce-8f96-704c56c7b9a0">
+            <mets:fptr FILEID="FILE_3c8ce32a-c4c2-41ce-8f96-704c56c7b9a0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

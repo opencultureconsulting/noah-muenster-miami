@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c772a9c1-f566-4196-ac41-c3062c2d7bf9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Interactive feature detection in volumetric data</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024562778">
+                        <displayForm>Praßni, Jörg-Stefan</displayForm>
+                        <namePart type="given">Jörg-Stefan</namePart>
+                        <namePart type="family">Praßni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024562778">
+                        <displayForm>Praßni, J.-S.</displayForm>
+                        <namePart type="given">J.-S.</namePart>
+                        <namePart type="family">Praßni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Klaus H.</displayForm>
+                        <namePart type="given">Klaus H.</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-07-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen dieser Dissertation wurden drei Techniken für die interaktive Merkmalsdetektion in Volumendaten entwickelt. Das erste Verfahren auf Basis des LH-Transferfunktionsraumes ermöglicht es dem Benutzer, Objekt-Oberflächen in einem Volumendatensatz durch direktes Markieren im gerenderten Bild zu identifizieren, wobei keine Interaktion im Datenraum des Volumens benötigt wird. Zweitens wird ein formbasiertes Klassifikationsverfahren vorgestellt, das ausgehend von einer groben Vorsegmentierung den Volumendatensatz in eine Menge von kleineren Regionen zerlegt, deren Form anschließend mit eigens entwickelten Klassifikatoren bestimmt wird. Drittens wird ein interaktives Volumen-Segmentierungsverfahren auf Basis des Random Walker-Algorithmus beschrieben, das speziell auf die Verringerung von Fehlklassifizierungen in der resultierenden Segmentierung abzielt.</abstract>
+                    <abstract lang="eng">This dissertation presents three volumetric feature detection approaches that focus on an efficient interplay between user and system. The first technique exploits the LH transfer function space in order to enable the user to classify boundaries by directly marking them in the volume rendering image, without requiring interaction in the data domain. Second, we propose a shape-based feature detection approach that blurs the border between fast but limited classification and powerful but laborious segmentation techniques. Third, we present a guided probabilistic volume segmentation workflow that focuses on the minimization of uncertainty in the resulting segmentation. In an iterative process, the system continuously assesses uncertainty of an intermediate random walker-based segmentation in order to detect regions with high ambiguity, to which the user’s attention is directed to support the correction of potential segmentation errors.</abstract>
+                    <subject lang="ger">
+                        <topic>Volumendaten</topic>
+                        <topic>Merkmalsdetektion</topic>
+                        <topic>Klassifizierung</topic>
+                        <topic>Segmentierung</topic>
+                        <topic>OpenCL</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09399402519</identifier>
+                    <identifier type="sys">HT017323607</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c772a9c1-f566-4196-ac41-c3062c2d7bf9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c772a9c1-f566-4196-ac41-c3062c2d7bf9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c772a9c1-f566-4196-ac41-c3062c2d7bf9/diss_prassni.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c772a9c1-f566-4196-ac41-c3062c2d7bf9" DMDID="DMD_c772a9c1-f566-4196-ac41-c3062c2d7bf9">
+            <mets:fptr FILEID="FILE_c772a9c1-f566-4196-ac41-c3062c2d7bf9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

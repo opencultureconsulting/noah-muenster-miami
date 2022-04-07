@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_754427aa-7680-4b84-9ebc-da50264a9388">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>investigation of underground coal fires</title>
+                        <subTitle>towards a numerical approach for thermally, hydraulically, and chemically coupled processes</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133139131">
+                        <displayForm>Weßling, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Weßling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142347558">
+                        <displayForm>Hansen, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Hansen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-06-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-06-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen dieser Arbeit wurde ein numerisches Modell zur Untersuchung von untertage befindlichen Kohlebränden entwickelt. Das Modell berücksichtigt thermisch, chemisch und hydraulisch gekoppelte Prozesse, die in Flöz und Umgebungsgestein stattfinden. Durchgeführte Szenariorechnungen zeigen, dass die Permeabilität des Umgebungsgesteins wesentlichen Einfluss auf das Brandfortschreiten hat, wohingegen die effektive Wärmeleitfähigkeit die Brandtemperatur bestimmt. Da Modell und in-situ Beobachtungen wie Brandfortschritt (3 - 300 m/Jahr) und –temperatur (900 – 1300 K) übereinstimmen, kann das Modell als validiert angesehen werden. Ferner hat die Simulation gezeigt, dass sich atmosphärische Druckschwankungen und Wind auf die Sauerstoffkonzentration und –verteilung auswirken. Schließlich zeigt die Simulation von Löschszenarien (Injektion von Wasser und Abdeckung der Erdoberfläche) den praktischen Nutzen des numerischen Verfahrens zur Verbesserung von Lösch- und Präventionsmaßnahmen.</abstract>
+                    <abstract lang="eng">A numerical model has been developed for the investigation of burning coal seams below surface. Thermally, chemically, and hydraulically coupled processes are involved, taking place in the seam and in the surrounding rocks. Scenario calculations show that the rock permeability determines the combustion progress, whereas the temperature is controlled by the effective thermal conductivity. The model can be said validated because simulation results are of similar order of magnitude compare to the in-situ observed combustion progress (3 – 300 m/year) and temperature (900 – 1300 K). Furthermore, atmospheric pressure variations as well as winds show to influence the oxygen concentration and its distribution below surface. Finally, the simulation of extinction scenarios (water injection and surface coverage) demonstrates the practical use of the numerical approach to improve extinction and prevention strategies.</abstract>
+                    <subject lang="ger">
+                        <topic>Untertage Kohlebrand</topic>
+                        <topic>gekoppelte Prozesse</topic>
+                        <topic>reaktiver Transport</topic>
+                        <topic>numerische Simulation</topic>
+                        <topic>Untertage Verbrennung</topic>
+                        <topic>China</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98549596953</identifier>
+                    <identifier type="sys">HT015237051</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_754427aa-7680-4b84-9ebc-da50264a9388</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_754427aa-7680-4b84-9ebc-da50264a9388_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/754427aa-7680-4b84-9ebc-da50264a9388/diss_wessling.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_754427aa-7680-4b84-9ebc-da50264a9388" DMDID="DMD_754427aa-7680-4b84-9ebc-da50264a9388">
+            <mets:fptr FILEID="FILE_754427aa-7680-4b84-9ebc-da50264a9388_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

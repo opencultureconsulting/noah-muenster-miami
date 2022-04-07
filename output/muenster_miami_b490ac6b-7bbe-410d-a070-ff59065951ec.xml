@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b490ac6b-7bbe-410d-a070-ff59065951ec">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reappraisal of the Glycerol Test in Patients with Suspected Meniere&apos;s Disease</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172241804">
+                        <displayForm>Lütkenhöner, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Lütkenhöner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130440817">
+                        <displayForm>Basel, Türker</displayForm>
+                        <namePart type="given">Türker</namePart>
+                        <namePart type="family">Basel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-24</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-01-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: Recent advances in magnetic resonance imaging make it possible to visualize the presumed pathophysiologic correlate of Menière’s disease: endolymphatic hydrops. As traditional diagnostic tests can provide only indirect evidence, they are hardly competitive in this respect and need to be rethought. This is done here for the glycerol test. Methods: The data of a previous retrospective analysis of the glycerol test in patients with suspected Menière’s disease are reinterpreted using a simple model. The mean threshold reduction (MTR) in the frequency range from 125 to 1500 Hz (calculated from audiograms obtained immediately before and four hours after the glycerol intake) is used as the test statistic. The proposed model explains the frequency distribution of the observed MTR by the convolution of a Gaussian probability density function (representing measurement errors) with a template representing the frequency distribution of the true MTR. The latter is defined in terms of two adjustable parameters. After fitting the model to the data, the performance of the test is evaluated using receiver operating characteristic (ROC) analysis. Results: The cumulative frequency distribution of the observed MTR can be explained almost perfectly by the model. According to the ROC analysis performed, the capability of the currently used audiometric procedure to detect a glycerol-induced threshold reduction corresponds to a diagnostic test of rather high accuracy (area under the ROC curve greater than 0.9). Simulations show that methodological improvements could further enhance the performance. Conclusions: Owing to their ability to reveal functional aspects without an obvious morphological correlate, traditional test for Menière’s disease could be decisive for defining the stage of the disease. A distinctive feature of the glycerol test is that it is capable of determining, with high accuracy, whether the pathophysiologic condition of the inner ear is partially reversible. Prospectively, this could help to estimate the chances of specific therapies.</abstract>
+                    <note type="citation/reference">BMC Ear, Nose and Throat Disorders 14 (2014) 12, 1-13</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-90389671679</identifier>
+                    <identifier type="doi">doi:10.1186/1472-6815-14-12</identifier>
+                    <identifier type="issn">1472-6815</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b490ac6b-7bbe-410d-a070-ff59065951ec</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b490ac6b-7bbe-410d-a070-ff59065951ec_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b490ac6b-7bbe-410d-a070-ff59065951ec/1472-6815-14-12.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b490ac6b-7bbe-410d-a070-ff59065951ec" DMDID="DMD_b490ac6b-7bbe-410d-a070-ff59065951ec">
+            <mets:fptr FILEID="FILE_b490ac6b-7bbe-410d-a070-ff59065951ec_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

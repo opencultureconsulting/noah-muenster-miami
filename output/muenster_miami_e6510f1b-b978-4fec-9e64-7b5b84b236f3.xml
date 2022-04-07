@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e6510f1b-b978-4fec-9e64-7b5b84b236f3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>HPV-Screening im Vergleich zur konventionellen Zytologie beim Zervixkarzinom</title>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-01-08</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-01-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">610</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Praktische gynäkologische Onkologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Praktische gynäkologische Onkologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44339631319</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e6510f1b-b978-4fec-9e64-7b5b84b236f3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e6510f1b-b978-4fec-9e64-7b5b84b236f3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e6510f1b-b978-4fec-9e64-7b5b84b236f3/kollo_08.01.08.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e6510f1b-b978-4fec-9e64-7b5b84b236f3" DMDID="DMD_e6510f1b-b978-4fec-9e64-7b5b84b236f3">
+            <mets:fptr FILEID="FILE_e6510f1b-b978-4fec-9e64-7b5b84b236f3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

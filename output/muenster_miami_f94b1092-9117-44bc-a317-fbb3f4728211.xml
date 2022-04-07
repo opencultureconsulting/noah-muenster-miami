@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f94b1092-9117-44bc-a317-fbb3f4728211">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>novel cell-based screening assay for small-molecule MYB inhibitors identifies podophyllotoxins teniposide and etoposide as inhibitors of MYB activity</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139614990">
+                        <displayForm>Yusenko, Maria</displayForm>
+                        <namePart type="given">Maria</namePart>
+                        <namePart type="family">Yusenko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1082449512">
+                        <displayForm>Jakobs, Anke</displayForm>
+                        <namePart type="given">Anke</namePart>
+                        <namePart type="family">Jakobs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klempnauer, Karl-Heinz</displayForm>
+                        <namePart type="given">Karl-Heinz</namePart>
+                        <namePart type="family">Klempnauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-05-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The transcription factor MYB plays key roles in hematopoietic cells and has been implicated the development of leukemia. MYB has therefore emerged as an attractive target for drug development. Recent work has suggested that targeting MYB by small-molecule inhibitors is feasible and that inhibition of MYB has potential as a therapeutic approach against acute myeloid leukemia. To facilitate the identification of small-molecule MYB inhibitors we have re-designed and improved a previously established cell-based screening assay and have employed it to screen a natural product library for potential inhibitors. Our work shows that teniposide and etoposide, chemotherapeutic agents causing DNA-damage by inhibiting topoisomerase II, potently inhibit MYB activity and induce degradation of MYB in AML cell lines. MYB inhibition is suppressed by caffeine, suggesting that MYB is inhibited indirectly via DNA-damage signalling. Importantly, ectopic expression of an activated version of MYB in pro-myelocytic NB4 cells diminished the anti-proliferative effects of teniposide, suggesting that podophyllotoxins disrupt the proliferation of leukemia cells not simply by inducing general DNA-damage but that their anti-proliferative effects are boosted by inhibition of MYB. Teniposide and etoposide therefore act like double-edged swords that might be particularly effective to inhibit tumor cells with deregulated MYB.</abstract>
+                    <note>Scientific Reports 8 (2018) 13159, 1-11</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2018 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84199433568</identifier>
+                    <identifier type="doi">10.1038/s41598-018-31620-1</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f94b1092-9117-44bc-a317-fbb3f4728211</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f94b1092-9117-44bc-a317-fbb3f4728211_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f94b1092-9117-44bc-a317-fbb3f4728211/artikel_klempnauer_2018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f94b1092-9117-44bc-a317-fbb3f4728211" DMDID="DMD_f94b1092-9117-44bc-a317-fbb3f4728211">
+            <mets:fptr FILEID="FILE_f94b1092-9117-44bc-a317-fbb3f4728211_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

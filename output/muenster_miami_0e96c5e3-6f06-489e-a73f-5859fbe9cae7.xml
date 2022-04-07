@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0e96c5e3-6f06-489e-a73f-5859fbe9cae7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Präzisionsüberwachung und Kalibration der Hochspannung für das KATRIN-Experiment</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133942961">
+                        <displayForm>Thümmler, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Thümmler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weinheimer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Weinheimer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-11-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Für das KATRIN-Experiment zur direkten Bestimmung der Neutrinomasse aus dem Tritium-Beta-Zerfall ist die Überwachung der Spektrometerspannung von ca. -18,6 kV im ppm-Bereich maßgebend. Kommerzielle Lösungen für diesen Präzisionsbereich sind nicht verfügbar. In Kooperation mit der PTB Braunschweig wurde ein neuer Präzisionsspannungsteiler aufgebaut, der Unsicherheiten von etwa 1 ppm bei bis zu 35 kV erreicht. Der Aufbau des Spannungsteilers, die Anforderungen an die einzelnen Komponenten und die Selektion der Präzisionswiderstände wird erläutert. Das Ergebnis der Kalibration im Labor der PTB Braunschweig wird präsentiert und diskutiert. Das Mainzer Neutrinomassenspektrometer wurde in ein hochauflösendes Monitorspektrometer modifiziert. Seine Funktion wurde durch Computersimulationen und Messungen mit kondensierter 83mKr-Quelle überprüft und bestätigt. Die Kombination aus Kalibrationsquelle, Spektrometer und Spannungsteiler erfüllt somit die Anforderungen des KATRIN-Experimentes.</abstract>
+                    <subject lang="ger">
+                        <topic>Spannungsteiler</topic>
+                        <topic>Hochspannungsmessung</topic>
+                        <topic>Kalibration</topic>
+                        <topic>Präzisionswiderstände</topic>
+                        <topic>MAC-E-Filter</topic>
+                        <topic>KATRIN-Experiment</topic>
+                        <topic>Neutrinomasse</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16539562785</identifier>
+                    <identifier type="sys">HT015493322</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0e96c5e3-6f06-489e-a73f-5859fbe9cae7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0e96c5e3-6f06-489e-a73f-5859fbe9cae7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0e96c5e3-6f06-489e-a73f-5859fbe9cae7/diss_thuemmler.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0e96c5e3-6f06-489e-a73f-5859fbe9cae7" DMDID="DMD_0e96c5e3-6f06-489e-a73f-5859fbe9cae7">
+            <mets:fptr FILEID="FILE_0e96c5e3-6f06-489e-a73f-5859fbe9cae7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

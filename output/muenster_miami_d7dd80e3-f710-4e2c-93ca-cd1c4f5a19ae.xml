@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d7dd80e3-f710-4e2c-93ca-cd1c4f5a19ae">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Advancing evolution of artifcial neural networks through behavioral adaptation</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/101970554X">
+                        <displayForm>Davoian, Kristina</displayForm>
+                        <namePart type="given">Kristina</namePart>
+                        <namePart type="family">Davoian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1045682977">
+                        <displayForm>Lippe, Wolfram-Manfred</displayForm>
+                        <namePart type="given">Wolfram-Manfred</namePart>
+                        <namePart type="family">Lippe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-02-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-01-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Dissertation betrifft das Lernen in künstlichen neuronalen Netzen und präsentiert einen neuen evolutionären Algorithmus (Network-Weight-based Evolutionary Algorithm, NWEA), der zusätzliche Mechanismen der Natur in Computational Evolution involviert. NWEA ist eine Lernstrategie, die Information über die Position des Individuums im Suchraum, seine Güte und ANN Topologie in dem Modifikationsmechanismus enthält. Der Grundgedanke von NWEA war eine Verhaltensadaptation neben der strukturellen Adaptation durchzuführen und damit die Verbindung zwischen Individuen und Umwelt zu ermöglichen. Der NWEA Modifikationsstrategie nutzt sowohl Genotyp als auch Phänotyp Information im Evolutionsprozess. Genotyp Information ist durch den Ausgabefehler des Netzes dargestellt. Phänotyp Information ist in der Komponente network weight integriert, die die Struktur des Netzes beschreibt und von der Gesamtzahl der verbogenen Schichten und der durchschnittlichen Anzahl der verbogenen Neuronen abhängig ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Künstliche Intelligenz</topic>
+                        <topic>Künstliche Neuronale Netze</topic>
+                        <topic>Evolutionäre Algorithmen</topic>
+                        <topic>Adaptation</topic>
+                        <topic>Mutation</topic>
+                        <topic>Klassifikation</topic>
+                        <topic>Generalization</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:6-71459415133</identifier>
+                    <identifier type="sys">HT017134536</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d7dd80e3-f710-4e2c-93ca-cd1c4f5a19ae</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d7dd80e3-f710-4e2c-93ca-cd1c4f5a19ae_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d7dd80e3-f710-4e2c-93ca-cd1c4f5a19ae/diss_davoian.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d7dd80e3-f710-4e2c-93ca-cd1c4f5a19ae" DMDID="DMD_d7dd80e3-f710-4e2c-93ca-cd1c4f5a19ae">
+            <mets:fptr FILEID="FILE_d7dd80e3-f710-4e2c-93ca-cd1c4f5a19ae_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

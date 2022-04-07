@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b130ff51-1da0-451e-b19e-5875e7dd515c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Simplicial complexes of compact homogeneous spaces</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1125889071">
+                        <displayForm>Rauße, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Rauße</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böhm, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Böhm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-02-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-02-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Seien H &lt; G kompakte Lie – Gruppen mit Lie – Algebren h bzw. g. Wir betrachten einen Simplizialkomplex Delta T G/H dessen Simplizes die Fahnen bestimmter Zwischenalgebren h &lt; k &lt; g darstellen. Es ist bekannt, dass G / H eine G – invariante Einsteinmetrik besitzt, falls Delta T G/H nicht kontrahierbar ist. In dieser Arbeit wird gezeigt, dass unter bestimmten Voraussetzungen die Existenz von nicht - trivialen Homologiegruppen von Delta T G/H aus der Existenz nicht - trivialer Homologiegruppen von Delta T G/K für geeignete H &lt; K &lt; G gefolgert werden kann. Somit kann also die Nicht - Kontrahierbarkeit von Delta T G/H aus der Nicht - Kontrahierbarkeit von Delta T G/K gefolgert werden. Diese Methode wird schließlich benutzt um zu bestimmen, in welchen Fällen Delta T G/H nicht kontrahierbar ist für H, G zusammenhängend und rank H = rank G.</abstract>
+                    <subject lang="ger">
+                        <topic>Mathematik</topic>
+                        <topic>Differentialgeometrie</topic>
+                        <topic>Lie-Gruppen</topic>
+                        <topic>Homogene Räume</topic>
+                        <topic>Einsteinmetriken</topic>
+                        <topic>Simplizialkomplexe</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53219681316</identifier>
+                    <identifier type="sys">HT019245688</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b130ff51-1da0-451e-b19e-5875e7dd515c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b130ff51-1da0-451e-b19e-5875e7dd515c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b130ff51-1da0-451e-b19e-5875e7dd515c/diss_rausse.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b130ff51-1da0-451e-b19e-5875e7dd515c" DMDID="DMD_b130ff51-1da0-451e-b19e-5875e7dd515c">
+            <mets:fptr FILEID="FILE_b130ff51-1da0-451e-b19e-5875e7dd515c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

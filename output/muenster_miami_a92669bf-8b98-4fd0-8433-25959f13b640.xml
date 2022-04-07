@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a92669bf-8b98-4fd0-8433-25959f13b640">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Arbeit im Schülerlabor</title>
+                        <subTitle>Am Beispiel des Schüler-Labors Biologie der Universität Gießen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14184986X">
+                        <displayForm>Ziemek, Hans-Peter</displayForm>
+                        <namePart type="given">Hans-Peter</namePart>
+                        <namePart type="family">Ziemek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14184986X">
+                        <displayForm>Ziemeck, Hans-Peter</displayForm>
+                        <namePart type="given">Hans-Peter</namePart>
+                        <namePart type="family">Ziemeck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-01-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-01-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Naturwissenschaftliche Arbeitsweisen</topic>
+                        <topic>Schülerlabore</topic>
+                        <topic>außerschulische Lernorte</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>77</start>
+                                <end>82</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659522782</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a92669bf-8b98-4fd0-8433-25959f13b640</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a92669bf-8b98-4fd0-8433-25959f13b640_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a92669bf-8b98-4fd0-8433-25959f13b640/idb12-77-82.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a92669bf-8b98-4fd0-8433-25959f13b640" DMDID="DMD_a92669bf-8b98-4fd0-8433-25959f13b640">
+            <mets:fptr FILEID="FILE_a92669bf-8b98-4fd0-8433-25959f13b640_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

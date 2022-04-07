@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0df85b54-9752-4e97-b6eb-ba6a1fb3d4ab">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>GLM-based optimization of NGS data analysis: A case study of Roche 454, Ion Torrent PGM and Illumina NextSeq sequencing data</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1151271616">
+                        <displayForm>Sandmann, Sarah</displayForm>
+                        <namePart type="given">Sarah</namePart>
+                        <namePart type="family">Sandmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1128039974">
+                        <displayForm>de Graaf, Aniek O.</displayForm>
+                        <namePart type="given">Aniek O.</namePart>
+                        <namePart type="family">de Graaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van der Reijden, Bert A.</displayForm>
+                        <namePart type="given">Bert A.</namePart>
+                        <namePart type="family">van der Reijden</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1108951295">
+                        <displayForm>Jansen, Joop H.</displayForm>
+                        <namePart type="given">Joop H.</namePart>
+                        <namePart type="family">Jansen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1131361393">
+                        <displayForm>Dugas, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Dugas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-21</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-05-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">BACKGROUND: There are various next-generation sequencing techniques, all of them striving to replace Sanger sequencing as the gold standard. However, false positive calls of single nucleotide variants and especially indels are a widely known problem of basically all sequencing platforms. METHODS: We considered three common next-generation sequencers—Roche 454, Ion Torrent PGM and Illumina NextSeq—and applied standard as well as optimized variant calling pipelines. Optimization was achieved by combining information of 23 diverse parameters characterizing the reported variants and generating individually calibrated generalized linear models. Models were calibrated using amplicon-based targeted sequencing data (19 genes, 28,775 bp) from seven to 12 myelodysplastic syndrome patients. Evaluation of the optimized pipelines and platforms was performed using sequencing data from three additional myelodysplastic syndrome patients. RESULTS: Using standard analysis methods, true mutations were missed and the obtained results contained many artifacts—no matter which platform was considered. Analysis of the parameters characterizing the true and false positive calls revealed significant platform- and variant specific differences. Application of optimized variant calling pipelines considerably improved results. 76% of all false positive single nucleotide variants and 97% of all false positive indels could be filtered out. Positive predictive values could be increased by factors of 1.07 to 1.27 in case of single nucleotide variant calling and by factors of 3.33 to 53.87 in case of indel calling. Application of the optimized variant calling pipelines leads to comparable results for all next-generation sequencing platforms analyzed. However, regarding clinical diagnostics it needs to be considered that even the optimized results still contained false positive as well as false negative calls.</abstract>
+                    <note type="citation/reference">PLoS ONE 12 (2017) 2, e0171983, 1-24</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2017 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68179639574</identifier>
+                    <identifier type="doi">10.1371/journal.pone.0171983</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0df85b54-9752-4e97-b6eb-ba6a1fb3d4ab</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0df85b54-9752-4e97-b6eb-ba6a1fb3d4ab_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0df85b54-9752-4e97-b6eb-ba6a1fb3d4ab/journal.pone.0171983.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0df85b54-9752-4e97-b6eb-ba6a1fb3d4ab" DMDID="DMD_0df85b54-9752-4e97-b6eb-ba6a1fb3d4ab">
+            <mets:fptr FILEID="FILE_0df85b54-9752-4e97-b6eb-ba6a1fb3d4ab_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

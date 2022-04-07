@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a364209b-bba8-44cf-a0f6-4791247ec7b3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On multivariate stochastic fixed point equations</title>
+                        <subTitle>the smoothing transform and random difference equations</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1031911243">
+                        <displayForm>Mentemeier, Sebastian</displayForm>
+                        <namePart type="given">Sebastian</namePart>
+                        <namePart type="family">Mentemeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, Gerold</displayForm>
+                        <namePart type="given">Gerold</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-02-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-01-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit werden Verteilungen studiert, welche multivariate stochastische Fixpunktgleichungen lösen. Im Falle der multivariaten Smoothing Transform (homogen und inhomogen) wird die Menge der alpha-elementaren Fixpunkte charakterisiert, und ein Markov-Erneuerungssatz wird bewiesen. Das Tailverhalten des eindeutigen Fixpunktes einer affinen stochastischen Rekursion wird mithilfe der Theorie Harris-rekurrenter Markov-Ketten untersucht.</abstract>
+                    <abstract lang="eng">This thesis is concerned with the study of probability measures on R^d, being fixed points of multivariate versions of the smoothing transform (ST) as well as random difference equations (RDE). Considering the ST, a full description of the set of alpha-elementary fixed points is obtained, both for the homogeneous and inhomogeneous case and a simple Markov renewal theorem is proven. Considering RDEs, heavy tail properties of the unique fixed point are studied using regeneration techniques from the theory of Harris recurrent Markov chains.</abstract>
+                    <subject lang="ger">
+                        <topic>Markov-Erneuerungstheorie</topic>
+                        <topic>Stochastische Fixpunktgleichungen</topic>
+                        <topic>Implizite Erneuerungstheorie</topic>
+                        <topic>Stabile Verteilungen</topic>
+                        <topic>Harris-Rekurrenz</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77389575584</identifier>
+                    <identifier type="sys">HT017566062</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a364209b-bba8-44cf-a0f6-4791247ec7b3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a364209b-bba8-44cf-a0f6-4791247ec7b3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a364209b-bba8-44cf-a0f6-4791247ec7b3/diss_mentemeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a364209b-bba8-44cf-a0f6-4791247ec7b3" DMDID="DMD_a364209b-bba8-44cf-a0f6-4791247ec7b3">
+            <mets:fptr FILEID="FILE_a364209b-bba8-44cf-a0f6-4791247ec7b3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

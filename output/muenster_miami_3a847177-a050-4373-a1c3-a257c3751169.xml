@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3a847177-a050-4373-a1c3-a257c3751169">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Homologe Mechanismen der Migration in Drosophila Glia und menschlichen Gliomzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/102730396X">
+                        <displayForm>Halama, Kathrin</displayForm>
+                        <namePart type="given">Kathrin</namePart>
+                        <namePart type="family">Halama</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Paulus, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Paulus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-10-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-10-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Glioblastome sind die häufigsten malignen Hirntumoren bei Erwachsenen. Sie zeichnen sich durch starke Migration, Proliferation und Angiogenese aus. In dieser Arbeit wurden Proteine charakterisiert die mittels eines Drosophila melanogaster Glioblastom-Modells identifiziert wurden und vermutlich eine Rolle bei der platelet-derived growth factor receptor (PDGFR) vermittelten Migration spielen. Sowohl LOX, LOXL1 und LOXL4 als auch CD9 waren in Glioblastomen und humanen Glioblastomzelllinien hochreguliert. Durch Knock-down von LOXL4 bzw. die Inhibition der LOX-Proteine konnte eine Reduktion der Migration in vitro und in vivo erreicht werden. Ein Knock-down von CD9 führte in U343 MG Zellen zu einer Reduktion der Migration und zur Aufhebung der migrationsfördernden Wirkung von PDGF-BB. Mittels PLA konnten Hinweise auf eine potentielle Interaktion von CD9 mit PDGFR gefunden werden. Im Falle beider Proteine weisen die Ergebnisse auf einen Zusammenhang mit der PDGFR-vermittelten Migration hin.</abstract>
+                    <subject lang="ger">
+                        <topic>Glioblastom</topic>
+                        <topic>Platelet-derived growth factor receptor</topic>
+                        <topic>Lysyloxidasen</topic>
+                        <topic>CD9</topic>
+                        <topic>Migration</topic>
+                        <topic>Proximity ligation assay (PLA)</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38399654072</identifier>
+                    <identifier type="sys">HT017436633</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3a847177-a050-4373-a1c3-a257c3751169</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3a847177-a050-4373-a1c3-a257c3751169_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3a847177-a050-4373-a1c3-a257c3751169/diss_halama_kathrin.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3a847177-a050-4373-a1c3-a257c3751169" DMDID="DMD_3a847177-a050-4373-a1c3-a257c3751169">
+            <mets:fptr FILEID="FILE_3a847177-a050-4373-a1c3-a257c3751169_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

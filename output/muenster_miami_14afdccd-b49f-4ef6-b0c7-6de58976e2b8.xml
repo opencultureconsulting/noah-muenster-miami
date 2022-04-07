@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_14afdccd-b49f-4ef6-b0c7-6de58976e2b8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reaktionswärme elastomerer Abformmaterialien</title>
+                        <subTitle>(Vorläufige Mitteilung)</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1043677615">
+                        <displayForm>Meiners, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Meiners</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1975</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-08-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-08-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Deutsche Zahnärztliche Zeitschrift 30 (1975) 680–681</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23439438743</identifier>
+                    <identifier type="issn">0012-1029</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_14afdccd-b49f-4ef6-b0c7-6de58976e2b8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_14afdccd-b49f-4ef6-b0c7-6de58976e2b8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/14afdccd-b49f-4ef6-b0c7-6de58976e2b8/1975_meine_reakt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_14afdccd-b49f-4ef6-b0c7-6de58976e2b8" DMDID="DMD_14afdccd-b49f-4ef6-b0c7-6de58976e2b8">
+            <mets:fptr FILEID="FILE_14afdccd-b49f-4ef6-b0c7-6de58976e2b8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

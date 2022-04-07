@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a4fa0dfa-d5bb-4044-abe7-9f5ca4f4b819">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Particle identification using artificial neural networks with the ALICE transition radiation detector</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141941138">
+                        <displayForm>Wilk, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Wilk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wessels, Johannes Peter</displayForm>
+                        <namePart type="given">Johannes Peter</namePart>
+                        <namePart type="family">Wessels</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-06-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-05-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der ALICE Übergangsstrahlungsdetektor (TRD) wurde als Tracking-Detektor, als Trigger-Detektor für Elektronen und für die Identifikation von Elektronen konzipiert. Das Konstruktionsziel für den Übergangsstrahlungsdetektor war eine Pioneneffizienz von 1% bei einer Elektroneneffizienz von 90% zu erreichen. Das Signal das im TRD zur Teilchenidentifikation benutzt wird besteht aus zwei Komponenten. Geladene Teilchen, die den Übergangsstrahlungsdetektor durchqueren, deponieren Energie durch Stoßionisation. Zusätzliche dazu produtieren Elektronen Übergangsstrahlung die früh im Driftbereich des TRD absorbiert wird. In dieser Arbeit wurde die Anwendung von neuronalen Netzen für die Teilchenidentifikation mit dem TRD untersucht. Als Eingangsgröße für die Netze wurde das Signal in mehrere Abschnitte unterteilt. Die Ergebnisse sowohl von Teststrahl-Experimenten als auch von Simulationen zeigen, dass mit neuronalen Netzen eine bessere Teilchenidentifikation erreichbar ist, als mit anderen Methoden.</abstract>
+                    <subject lang="ger">
+                        <topic>Übergangsstrahlungsdetektor</topic>
+                        <topic>neuronale Netze</topic>
+                        <topic>Teilchenidentifikation</topic>
+                        <topic>ALICE TRD</topic>
+                        <topic>Mustererkennung</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97469411383</identifier>
+                    <identifier type="sys">HT016458696</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a4fa0dfa-d5bb-4044-abe7-9f5ca4f4b819</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a4fa0dfa-d5bb-4044-abe7-9f5ca4f4b819_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a4fa0dfa-d5bb-4044-abe7-9f5ca4f4b819/diss_wilk.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a4fa0dfa-d5bb-4044-abe7-9f5ca4f4b819" DMDID="DMD_a4fa0dfa-d5bb-4044-abe7-9f5ca4f4b819">
+            <mets:fptr FILEID="FILE_a4fa0dfa-d5bb-4044-abe7-9f5ca4f4b819_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

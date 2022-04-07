@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dd9f5d80-632a-4cff-b8ce-cb91cab2742e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Numerische Simulation des Ionenverhaltens in Elektron-Zyklotron-Resonanz-Ionenquellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124458025">
+                        <displayForm>Vitt, Christian F.</displayForm>
+                        <namePart type="given">Christian F.</namePart>
+                        <namePart type="family">Vitt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124458025">
+                        <displayForm>Vitt, Christian Friedrich</displayForm>
+                        <namePart type="given">Christian Friedrich</namePart>
+                        <namePart type="family">Vitt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Andrä, Jürgen</displayForm>
+                        <namePart type="given">Jürgen</namePart>
+                        <namePart type="family">Andrä</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-01-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-12-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit dokumentiert ein Ratengleichungsmodell zur Bestimmung der in drei Dimensionen ortsaufgeloesten Dichteverteilungen der Atome und Ionen im Plasma einer Elektron-Zyklotron-Resonanz-Ionenquelle (ECRIS). Das Modell erfasst die ladungsaendernden Prozesse der Atome und Ionen (Elektronenstossionisation, Ladungsaustausch und Wandneutralisation) sowie deren Transport unten vollstaendiger Beruecksichtigung des Verlaufs des aeusseren Magnetfeldes. Die Dichteverteilung der geheizten Elektronen stammt aus Einzelteilchensimulationen von Heinen. Mit Hilfe dieses Modells wurde die im Institut fuer Kernphysik der Westfaelischen Wilhelms-Universitaet, Muenster entwickelte ECRIS 3 im Betrieb mit Argon simuliert. Dabei wurden Abhaengigkeiten der extrahierten Ionenstroeme von experimentellen Parametern (insbesondere der Gaszufuhrrate) sowie die Relevanz verschiedener Plasmaprozesse untersucht.</abstract>
+                    <subject lang="ger">
+                        <topic>EZR</topic>
+                        <topic>ECR</topic>
+                        <topic>ECRIS</topic>
+                        <topic>charge state distribution</topic>
+                        <topic>Ionen</topic>
+                        <topic>EZR-Plasma</topic>
+                        <topic>Neutralteilchen</topic>
+                        <topic>Atome</topic>
+                        <topic>Ladungszustandsverteilung</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659549916</identifier>
+                    <identifier type="sys">HT013643248</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dd9f5d80-632a-4cff-b8ce-cb91cab2742e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dd9f5d80-632a-4cff-b8ce-cb91cab2742e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dd9f5d80-632a-4cff-b8ce-cb91cab2742e/dissertation_vitt_2002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dd9f5d80-632a-4cff-b8ce-cb91cab2742e" DMDID="DMD_dd9f5d80-632a-4cff-b8ce-cb91cab2742e">
+            <mets:fptr FILEID="FILE_dd9f5d80-632a-4cff-b8ce-cb91cab2742e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

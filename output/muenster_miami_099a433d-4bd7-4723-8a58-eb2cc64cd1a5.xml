@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_099a433d-4bd7-4723-8a58-eb2cc64cd1a5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Bedürfnisprüfung nach Art. 72 Abs. II des Grundgesetzes</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105055298">
+                        <displayForm>Benter, Eike</displayForm>
+                        <namePart type="given">Eike</namePart>
+                        <namePart type="family">Benter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118769987">
+                        <displayForm>Wolff, Hans J.</displayForm>
+                        <namePart type="given">Hans J.</namePart>
+                        <namePart type="family">Wolff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1953</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-10-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1953</note>
+                    <subject lang="ger">
+                        <topic>Bundesgesetzgebung</topic>
+                        <topic>Bedürfnisprüfung</topic>
+                        <topic>Konkurrierende Gesetzgebung</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74669577157</identifier>
+                    <identifier type="sys">HT014547290</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_099a433d-4bd7-4723-8a58-eb2cc64cd1a5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_099a433d-4bd7-4723-8a58-eb2cc64cd1a5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/099a433d-4bd7-4723-8a58-eb2cc64cd1a5/diss_benter_1953.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_099a433d-4bd7-4723-8a58-eb2cc64cd1a5" DMDID="DMD_099a433d-4bd7-4723-8a58-eb2cc64cd1a5">
+            <mets:fptr FILEID="FILE_099a433d-4bd7-4723-8a58-eb2cc64cd1a5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

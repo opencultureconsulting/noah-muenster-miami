@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_10270236-7872-4548-a6c9-40059271ba93">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>role of KCNQ-channels in the pathophysiology of multiple sclerosis</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1228907773">
+                        <displayForm>Delank, Anna-Katharina</displayForm>
+                        <namePart type="given">Anna-Katharina</namePart>
+                        <namePart type="family">Delank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124795161">
+                        <displayForm>Meuth, Sven</displayForm>
+                        <namePart type="given">Sven</namePart>
+                        <namePart type="family">Meuth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124795161">
+                        <displayForm>Meuth, Sven G.</displayForm>
+                        <namePart type="given">Sven G.</namePart>
+                        <namePart type="family">Meuth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-03-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-12-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Multiple Sklerose geht mit Veränderungen der neuronalen Reizweiterleitung und Ionenkanal-Expression einher. Betroffen sind u.a. KCNQ-Kanäle, spannungsabhängige Kalium Kanäle, die die neuronale Aktivität regulieren. Das Antikonvulsivum Retigabine öffnet KCNQ-Kanäle und setzt somit die neuronale Erregbarkeit herab. Eine prophylaktische Retigabine Therapie erzielte eine Verbesserung des Outcomes einer experimentellen autoimmunen Enzephalitis, einem MS-Tiermodell. Mit Hilfe des Cuprizone-Modells untersuchten wir den Einfluss der Kanäle auf Neurodegeneration und zeigten, dass mit Retigabine behandelte Mäuse unter weniger Auffälligkeiten in Verhaltensexperimenten litten. Dies weist auf ein besseres Lern- und Erinnerungsvermögen der Tiere hin, welches durch die neurodegenerativen Vorgänge stark beeinflusst sein kann. Daher ergeben sich Hinweise auf eine neuroprotektive Eigenschaft von Retigabine und konsekutiv auf einen Einfluss von KCNQ-Kanälen in der Pathophysiologie von MS.</abstract>
+                    <subject lang="ger">
+                        <topic>Multiple Sclerose</topic>
+                        <topic>KCNQ-Kanäle</topic>
+                        <topic>Neurodegeneration</topic>
+                        <topic>Cuprizone</topic>
+                        <topic>EAE</topic>
+                        <topic>Retigabine</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-28039498680</identifier>
+                    <identifier type="sys">HT020867357</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_10270236-7872-4548-a6c9-40059271ba93</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_10270236-7872-4548-a6c9-40059271ba93_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/10270236-7872-4548-a6c9-40059271ba93/diss_delank.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_10270236-7872-4548-a6c9-40059271ba93" DMDID="DMD_10270236-7872-4548-a6c9-40059271ba93">
+            <mets:fptr FILEID="FILE_10270236-7872-4548-a6c9-40059271ba93_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

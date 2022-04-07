@@ -1,0 +1,155 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:2d0a3ddd-1646-413c-8bea-bd1528b2a47d" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:44:31">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_2d0a3ddd-1646-413c-8bea-bd1528b2a47d">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title>Predictive Modeling for Diagnostic Tests with High Specificity, but Low Sensitivity: A Study of the Glycerol Test in Patients with Suspected Menière’s Disease</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/172241804">
+                    <mods:namePart type="given">Bernd</mods:namePart>
+                    <mods:namePart type="family">Lütkenhöner</mods:namePart>
+                    <mods:namePart type="date">1952-</mods:namePart>
+                    <mods:displayForm>Lütkenhöner, Bernd</mods:displayForm>
+                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/130440817">
+                    <mods:namePart type="given">Türker</mods:namePart>
+                    <mods:namePart type="family">Basel</mods:namePart>
+                    <mods:namePart type="date">1976-</mods:namePart>
+                    <mods:displayForm>Basel, Türker</mods:displayForm>
+                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2013-11-18</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2014-02-18</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2019-04-16</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>12 S.</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">A high specificity does not ensure that the expected benefit of a diagnostic test outweighs its cost. Problems arise, in particular, when the investigation is expensive, the prevalence of a positive test result is relatively small for the candidate patients, and the sensitivity of the test is low so that the information provided by a negative result is virtually negligible. The consequence may be that a potentially useful test does not gain broader acceptance. Here we show how predictive modeling can help to identify patients for whom the ratio of expected benefit and cost reaches an acceptable level so that testing these patients is reasonable even though testing all patients might be considered wasteful. Our application example is based on a retrospective study of the glycerol test, which is used to corroborate a suspected diagnosis of Menière’s disease. Using the pretest hearing thresholds at up to 10 frequencies, predictions were made by K-nearest neighbor classification or logistic regression. Both methods estimate, based on results from previous patients, the posterior probability that performing the considered test in a new patient will have a positive outcome. The quality of the prediction was evaluated using leave-one-out cross-validation, making various assumptions about the costs and benefits of testing. With reference to all 356 cases, the probability of a positive test result was almost 0.4. For subpopulations selected by K-nearest neighbor classification, which was clearly superior to logistic regression, this probability could be increased up to about 0.6. Thus, the odds of a positive test result were more than doubled.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="content">Finanziert durch den Open-Access-Publikationsfonds 2013/2014 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</mods:note>
+                  <mods:note type="citation/reference">PLoS ONE 8 (2013) 11, e79315</mods:note>
+                  <mods:classification authority="ddc">610</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-54319565581</mods:identifier>
+                  <mods:identifier type="doi">10.1371/journal.pone.0079315</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/2d0a3ddd-1646-413c-8bea-bd1528b2a47d</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 3.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/3.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:2d0a3ddd-1646-413c-8bea-bd1528b2a47d</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_2d0a3ddd-1646-413c-8bea-bd1528b2a47d">
+            <mets:rightsMD ID="RIGHTSMD_2d0a3ddd-1646-413c-8bea-bd1528b2a47d">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_2d0a3ddd-1646-413c-8bea-bd1528b2a47d">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/2d0a3ddd-1646-413c-8bea-bd1528b2a47d</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="9b44f84a4fb79a1b403cd403d4a1609d3a85162499e2567fa4915f583408b806" CREATED="2019-04-16T07:09:35" CHECKSUMTYPE="SHA-256" SIZE="469193" ID="ID_FIL_journal.pone.0079315.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2d0a3ddd-1646-413c-8bea-bd1528b2a47d/journal.pone.0079315.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW2d0a3ddd-1646-413c-8bea-bd1528b2a47d">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/2d0a3ddd-1646-413c-8bea-bd1528b2a47d" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_2d0a3ddd-1646-413c-8bea-bd1528b2a47d" TYPE="physSequence">
+              <mets:div ID="ID_PHY_journal.pone.0079315.pdf">
+                <mets:fptr FILEID="ID_FIL_journal.pone.0079315.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_2d0a3ddd-1646-413c-8bea-bd1528b2a47d" DMDID="DMD_2d0a3ddd-1646-413c-8bea-bd1528b2a47d" ID="ID_LOG_2d0a3ddd-1646-413c-8bea-bd1528b2a47d" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_journal.pone.0079315.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_2d0a3ddd-1646-413c-8bea-bd1528b2a47d" xlink:to="ID_PHY_2d0a3ddd-1646-413c-8bea-bd1528b2a47d"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_journal.pone.0079315.pdf" xlink:to="ID_PHY_journal.pone.0079315.pdf"/>
+          </mets:structLink>
+        </mets:mets>

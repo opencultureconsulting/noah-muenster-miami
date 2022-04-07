@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2d19f933-6e28-4a13-aa5b-b016f16d282b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Durchflußzytometrische Zellzahlbestimmungen von CD 4- und CD 8-positiven Lymphozyten anhand von zwei unterschiedlichen Lasertechniken und drei unterschiedlichen Aufbereitungsverfahren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128835249">
+                        <displayForm>Westerberg, Claus</displayForm>
+                        <namePart type="given">Claus</namePart>
+                        <namePart type="family">Westerberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1036719502">
+                        <displayForm>Göhde, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Göhde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-03-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-01-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Studie wurden an 110 Vollblutproben sowohl ein neues Durchflusszytometer mit neuer Lasertechnik (CyFlow®) erprobt, welches volumetrisch Zellkonzentrationen bestimmt, als auch ein neues Messprinzip, bei dem zwei unterschiedliche Zellpopulationen (CD 4, CD 8) mit gleichem Fluoreszenzspektrum in einer Messung quantifiziert werden. Die Kosten konnten dadurch auf 0,5 ? pro Analyse reduziert werden. Zum Vergleich: die durchschnittlichen Kosten betragen für die CD 4-Zellzahlbestimmung derzeit noch 30-40 ?. Der Vergleich dreier unterschiedlicher Aufbereitungsmethoden für Blutproben (CyLyse, PBS Dest und PBS Fix) nach dem &quot;No-wash&quot;-Verfahren ergab, dass bei einem Verzicht auf Lyse und Fixierung (PBS Dest) die Zellverluste am geringsten waren. Die mit dem CyFlow® ermittelten Messwerte stimmen bei der Verwendung von PBS Dest mit denen als Standard festgelegten Werten der TQ-Prep Coulter Workstation gut überein.</abstract>
+                    <subject lang="ger">
+                        <topic>Durchflusszytometer</topic>
+                        <topic>volumetrisch</topic>
+                        <topic>Zellverluste</topic>
+                        <topic>CD 4-Lymphozyten</topic>
+                        <topic>AIDS</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525681</identifier>
+                    <identifier type="sys">HT014004361</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2d19f933-6e28-4a13-aa5b-b016f16d282b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2d19f933-6e28-4a13-aa5b-b016f16d282b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2d19f933-6e28-4a13-aa5b-b016f16d282b/Dr.Arbeit_Endfassung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2d19f933-6e28-4a13-aa5b-b016f16d282b" DMDID="DMD_2d19f933-6e28-4a13-aa5b-b016f16d282b">
+            <mets:fptr FILEID="FILE_2d19f933-6e28-4a13-aa5b-b016f16d282b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

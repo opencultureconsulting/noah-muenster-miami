@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a59070ae-b1f0-406d-afa3-655362ea2434">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Multi touch interaction with stereoscopically rendered 3D objects</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="alternative">
+                        <title>Multi-touch interaction with stereoscopically rendered 3D objects</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1047696932">
+                        <displayForm>Valkov, Dimitar</displayForm>
+                        <namePart type="given">Dimitar</namePart>
+                        <namePart type="family">Valkov</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Klaus H.</displayForm>
+                        <namePart type="given">Klaus H.</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014-02-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2014-01-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Anfänglich hauptsächlich im 2D Kontext betrachtet, gewinnen Multi-Touch Interfaces immer mehr an Bedeutung im Bereich dreidimensionaler Umgebungen und, in den letzten Jahren, auch im Zusammenhang mit stereoskopischen Visualisierungen. Dennoch führt die Touch-basierte Interaktion mit stereoskopisch dargestellten Objekten zu Problemen, da die Objekte in der nahen Umgebung der Displayoberfläche schweben, während die Berührungspunkte nur bei direktem Kontakt mit dem Display robust detektiert werden können. In dieser Arbeit werden die Probleme bei Touch-Interaktion in stereoskopischen Umgebungen näher untersucht und Interaktionskonzepte in diesem Kontext entwickelt. Insbesondere wird die Anwendbarkeit unterschiedlicher Wahrnehmungsillusionen für 3D Touch-Interaktion mit stereoskopisch dargestellten Objekten in einer Reihe psychologischer Experimente untersucht. Basierend auf die Experimentdaten werden einige praktische Interaktionstechniken entwickelt und auf ihre Anwendbarkeit überprüft.</abstract>
+                    <abstract lang="eng">While touch technology has proven its usability for 2D interaction and has already become a standard input modality for many devices, the challenges to exploit its applicability with stereoscopically rendered content have barely been studied. In this thesis we exploit different hardware and perception based techniques to allow users to touch stereoscopically displayed objects when the input is constrained to a 2D surface. Therefore we analyze the relation between the 3D positions of stereoscopically displayed objects and the on-surface touch points, where users touch the interactive surface, and we have conducted a series of experiments to investigate the user’s ability to discriminate small induced shifts while performing a touch gesture. The results were then used to design practical interaction techniques, which are suitable for numerous application scenarios.</abstract>
+                    <subject lang="ger">
+                        <topic>HCI</topic>
+                        <topic>3D</topic>
+                        <topic>3DUI</topic>
+                        <topic>stereoskopische Darstellung</topic>
+                        <topic>Multi-Touch Interaktion</topic>
+                        <topic></topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>HCI</topic>
+                        <topic>3D</topic>
+                        <topic>3DUI</topic>
+                        <topic>stereoscopic rendering</topic>
+                        <topic>multi-touch interaction</topic>
+                        <topic></topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34319469090</identifier>
+                    <identifier type="sys">HT018175509</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a59070ae-b1f0-406d-afa3-655362ea2434</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a59070ae-b1f0-406d-afa3-655362ea2434_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a59070ae-b1f0-406d-afa3-655362ea2434/diss_valkov.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a59070ae-b1f0-406d-afa3-655362ea2434" DMDID="DMD_a59070ae-b1f0-406d-afa3-655362ea2434">
+            <mets:fptr FILEID="FILE_a59070ae-b1f0-406d-afa3-655362ea2434_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

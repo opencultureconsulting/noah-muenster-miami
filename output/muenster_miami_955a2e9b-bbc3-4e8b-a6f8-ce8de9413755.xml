@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_955a2e9b-bbc3-4e8b-a6f8-ce8de9413755">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Deutschsprachige Oratorien des &apos;langen 19. Jahrhunderts&apos;</title>
+                        <subTitle>Studien zu vergessenen Gattungsbeiträgen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133229238">
+                        <displayForm>Höink, Dominik</displayForm>
+                        <namePart type="given">Dominik</namePart>
+                        <namePart type="family">Höink</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124904378">
+                        <displayForm>Vos, Jacobus Cornelis de</displayForm>
+                        <namePart type="given">Jacobus Cornelis de</namePart>
+                        <namePart type="family">Vos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-11-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der vorliegende Band versammelt die Ergebnisse eines wissenschaftlich-künstlerischen Lehrprojekts. Im Rahmen von zwei Seminaren, die an der Folkwang Universität der Künste in Essen sowie der Westfälischen Wilhelms-Universität Münster stattgefunden haben, haben sich Studierende im Sommersemester 2019 vergessenen deutschsprachigen Oratorien des »langen 19. Jahrhunderts« zugewandt und zu jeweils einem Werk einen eigenen Forschungsbeitrag verfasst. Ergänzt werden die acht Werkstudien um einen einführenden Beitrag aus theologisch-bibelwissenschaftlicher Perspektive.</abstract>
+                    <subject lang="ger">
+                        <topic>Musik</topic>
+                        <topic>Religion</topic>
+                        <topic>Oratorium</topic>
+                        <topic>19. Jahrhundert</topic>
+                        <topic>Bibel</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58049522934</identifier>
+                    <identifier type="doi">10.17879/58049522534</identifier>
+                    <identifier type="sys">HT021204509</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_955a2e9b-bbc3-4e8b-a6f8-ce8de9413755</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_955a2e9b-bbc3-4e8b-a6f8-ce8de9413755_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/955a2e9b-bbc3-4e8b-a6f8-ce8de9413755/10.17879_58049522534.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_955a2e9b-bbc3-4e8b-a6f8-ce8de9413755" DMDID="DMD_955a2e9b-bbc3-4e8b-a6f8-ce8de9413755">
+            <mets:fptr FILEID="FILE_955a2e9b-bbc3-4e8b-a6f8-ce8de9413755_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

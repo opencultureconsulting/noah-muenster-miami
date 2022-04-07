@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e41f0240-be7d-4d7e-84ab-dc6199800677">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Interagency Policing</title>
+                        <subTitle>Sicherheitsstrukturen im Wandel</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>John, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">John</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-04-04</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-04-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>KoSiPol</topic>
+                    </subject>
+                    <classification authority="ddc">320</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Kooperative Sicherheitspolitik in der Stadt</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Kooperative Sicherheitspolitik in der Stadt</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-01409439102</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e41f0240-be7d-4d7e-84ab-dc6199800677</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e41f0240-be7d-4d7e-84ab-dc6199800677_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e41f0240-be7d-4d7e-84ab-dc6199800677/wp8_John_2012.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e41f0240-be7d-4d7e-84ab-dc6199800677" DMDID="DMD_e41f0240-be7d-4d7e-84ab-dc6199800677">
+            <mets:fptr FILEID="FILE_e41f0240-be7d-4d7e-84ab-dc6199800677_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

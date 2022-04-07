@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_93b74287-5951-46d9-ad8f-f28129cb9e98">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reengineering</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1020721499">
+                        <displayForm>Eicker, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Eicker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103512856X">
+                        <displayForm>Schnieder, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Schnieder</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1992-08</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-14</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In Theorie und Praxis der betrieblichen Datenverarbeitung gewinnen Projekte zur systematischen Überarbeitung von (insbesondere alten) Anwendungssystemen immer mehr an Bedeutung. Als Bezeichnung für das entsprechende Wissens-/Forschungsgebiet hat sich der Begriff Reengineering etabliert. Der vorliegende Arbeitsbericht motiviert das Reengineering und weist auf seinen möglichen Nutzen hin. Darüber hinaus wird eine Übersicht einerseits über Anforderungen an Reengineering-Werkzeuge und andererseits über die zur Verfügung stehenden Tools gegeben. Außerdem werden zwei erfolgreiche Reengineering-Projekte vorgestellt.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14509386214</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_93b74287-5951-46d9-ad8f-f28129cb9e98</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_93b74287-5951-46d9-ad8f-f28129cb9e98_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/93b74287-5951-46d9-ad8f-f28129cb9e98/013_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_93b74287-5951-46d9-ad8f-f28129cb9e98" DMDID="DMD_93b74287-5951-46d9-ad8f-f28129cb9e98">
+            <mets:fptr FILEID="FILE_93b74287-5951-46d9-ad8f-f28129cb9e98_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_459dd3da-62e6-484b-8375-18bab30fa418">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gemeindeverbandsrecht Nordrhein-Westfalen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1984</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-04-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausg. erschienen im deutschen Gemeindeverlag, Köln, 1984, 3-555-00623-1, 149 S.</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-28419604419</identifier>
+                    <identifier type="isbn">3-555-00623-1</identifier>
+                    <identifier type="sys">HT017327961</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_459dd3da-62e6-484b-8375-18bab30fa418</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_459dd3da-62e6-484b-8375-18bab30fa418_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/459dd3da-62e6-484b-8375-18bab30fa418/1984_oebbe_gemei_gesamt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_459dd3da-62e6-484b-8375-18bab30fa418" DMDID="DMD_459dd3da-62e6-484b-8375-18bab30fa418">
+            <mets:fptr FILEID="FILE_459dd3da-62e6-484b-8375-18bab30fa418_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

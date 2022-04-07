@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_decff30d-5862-41ea-a8ce-34826a6812a4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Elfriede privat?!</title>
+                        <subTitle>Elfriede Jelineks digitale Selbstinszenierung.</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135855209">
+                        <displayForm>Lang, Lena</displayForm>
+                        <namePart type="given">Lena</namePart>
+                        <namePart type="family">Lang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-08-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die österreichische Schriftstellerin Elfriede Jelinek betreibt seit 1996 ihre eigene Website, die mittlerweile ein umfangreiches Textarchiv beherbergt. Im Internet präsentiert sie sich im Spannungsfeld zwischen Öffentlichkeit und Privatheit, als eine diskursiv erzeugte Medienikone, aber auch immer wieder im Zusammenhang mit der eigenen Biographie. In diesem Artikel soll eine Strategie Jelineks aufgezeigt werden, die für ihr Selbstverständnis als Autorin zentral ist und sich auf der Website deutlich niederschlägt: Das paradoxe Zugleich von privater Aufladung und dem Unterlaufen dieses Rezeptionsangebots, die gleichzeitige An- und Abwesenheit der Autorin, welche im Motiv der lebenden Toten textuell und paratextuell transportiert wird.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-06229494290</identifier>
+                    <identifier type="doi">10.17879/06229493906</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_decff30d-5862-41ea-a8ce-34826a6812a4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_decff30d-5862-41ea-a8ce-34826a6812a4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/decff30d-5862-41ea-a8ce-34826a6812a4/textpraxis_2016_12_lang.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_decff30d-5862-41ea-a8ce-34826a6812a4" DMDID="DMD_decff30d-5862-41ea-a8ce-34826a6812a4">
+            <mets:fptr FILEID="FILE_decff30d-5862-41ea-a8ce-34826a6812a4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6b66f210-1e4f-4bc2-b542-4167fa59d60f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einflussnahme methodologischer Faktoren auf das Ergebnis der Antimykotikatestung und die Häufigkeit des Trailingphänomens</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141445246">
+                        <displayForm>Pielken, Julia</displayForm>
+                        <namePart type="given">Julia</namePart>
+                        <namePart type="family">Pielken</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108298760">
+                        <displayForm>Fegeler, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Fegeler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-03-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-03-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">An Candida albicans-Stämmen (MF) wurde der Einfluss des Mediums (RPMI 1640, RPMI+M, Yeast Sensitivity Test Medium (YST) mit 2%-Glucose) und der Inkubationszeit (24h/48h) auf die minimale Hemmkonzentration (MHK) und das Trailingphänomen gegenüber Flucytosin (FCY), Amphotericin B (APH), Fluconazol (FLC), Voriconazol (VOR), Itraconazol (ITR) sowie Anidulafungin (ANF) untersucht. Es zeigte sich eine signifikante Abhängigkeit der MHK von der Inkubationszeit bei APH, FLC, VOR und ITR. In RPMI+M waren 96%, in YST 94%, in RPMI 82% der Stämme gegenüber FLC, VOR, ITR sensibel einzuordnen. Nach 48h konnte in YST (11%) das geringste Vorkommen an Trailing festgestellt werden. In der Checkerboard-Testung wurde die Empfindlichkeit von Candida-Stämmen in RPMI mittels Fractional Inhibitory Concentration-Index analysiert. Bei den ermittelten Antagonismen handelte es sich bei FCY+VOR, FCY+APH um einen mathematisch, bei VOR+ANF um einen methodisch bedingten. Trailing konnte nicht festgestellt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Candida albicans</topic>
+                        <topic>Trailingphänomen</topic>
+                        <topic>Checkerboard-Testung</topic>
+                        <topic>Flucytosin</topic>
+                        <topic>Amphotericin B</topic>
+                        <topic>Anidulafungin</topic>
+                        <topic>Azolantimykotika</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68449670772</identifier>
+                    <identifier type="sys">HT016380089</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6b66f210-1e4f-4bc2-b542-4167fa59d60f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6b66f210-1e4f-4bc2-b542-4167fa59d60f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6b66f210-1e4f-4bc2-b542-4167fa59d60f/diss_pielken.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6b66f210-1e4f-4bc2-b542-4167fa59d60f" DMDID="DMD_6b66f210-1e4f-4bc2-b542-4167fa59d60f">
+            <mets:fptr FILEID="FILE_6b66f210-1e4f-4bc2-b542-4167fa59d60f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

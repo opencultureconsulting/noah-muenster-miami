@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_000a695b-a7a1-41f8-9b30-bcab329567bb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einleitung. The Sound of Germany</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1151921378">
+                        <displayForm>Nover, Immanuel</displayForm>
+                        <namePart type="given">Immanuel</namePart>
+                        <namePart type="family">Nover</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1131112172">
+                        <displayForm>Wilhelms, Kerstin</displayForm>
+                        <namePart type="given">Kerstin</namePart>
+                        <namePart type="family">Wilhelms</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Politische kann im Pop explizit thematisiert und ›engagiert‹ verhandelt werden: So unterhalten Bands wie Feine Sahne Fischfilet ihre Stilgemeinschaft nicht nur bestens, sondern kommunizieren auch eindeutige politische Positionen und Haltungen. Doch Pop kann das Politische auch impliziter verhandeln, indem soziale Aushandlungsprozesse abgebildet, aber auch performativ vollzogen werden. Es geht im Pop dann etwa um Fragen der Identität oder der geschlechtlichen Codierung. Pop macht somit Akteur:innen und Probleme sicht- und vor allem hörbar, die sonst oftmals abgeblendet werden. In der Einleitung werden die divergenten Verhandlungsorte des Pop in den Blick genommen und auf ihre jeweilige Funktion für die Aushandlung des Politischen untersucht.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-36029775682</identifier>
+                    <identifier type="doi">10.17879/36029774541</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_000a695b-a7a1-41f8-9b30-bcab329567bb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_000a695b-a7a1-41f8-9b30-bcab329567bb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/000a695b-a7a1-41f8-9b30-bcab329567bb/textpraxis_2021_s5_nover-wilhelms.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_000a695b-a7a1-41f8-9b30-bcab329567bb" DMDID="DMD_000a695b-a7a1-41f8-9b30-bcab329567bb">
+            <mets:fptr FILEID="FILE_000a695b-a7a1-41f8-9b30-bcab329567bb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

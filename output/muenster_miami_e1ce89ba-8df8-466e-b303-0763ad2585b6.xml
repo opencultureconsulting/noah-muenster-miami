@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e1ce89ba-8df8-466e-b303-0763ad2585b6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On expansions of non-abelian free groups by cosets of a finite index subgroup</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1122132115">
+                        <displayForm>Nuez González, Javier de la</displayForm>
+                        <namePart type="given">Javier de la</namePart>
+                        <namePart type="family">Nuez González</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1022191195">
+                        <displayForm>Tent, Katrin</displayForm>
+                        <namePart type="given">Katrin</namePart>
+                        <namePart type="family">Tent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1022191195">
+                        <displayForm>Tent, K.</displayForm>
+                        <namePart type="given">K.</namePart>
+                        <namePart type="family">Tent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-12-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-11-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir zeigen einige grundlegende modelltheoretische Eigenschaften der Struktur, die man erhält, indem man zu der Gruppenstruktur einer nicht abelischen freien Gruppe ein Prädikat für jede der Fasern eines surjektiven Homomorphismus von der freien Gruppe zu einer endlichen Gruppe Q hinzufügt. Dafür verallgemeinern wir einige der geometrischen Techniken aus der Arbeit Zlil Selas. Insbesondere verallgemeinern wir ein früheres Ergebnis Merzlyakovs, indem wir beweisen, dass die positive Theorie dieser Struktur nur von der endlichen Gruppe Q abhängt.</abstract>
+                    <subject lang="ger">
+                        <topic>Modelltheorie</topic>
+                        <topic>positive Theorie</topic>
+                        <topic>freie Gruppe</topic>
+                        <topic>Untergruppe von endlichem Index</topic>
+                        <topic>Erweiterung</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-73279441742</identifier>
+                    <identifier type="sys">HT019191602</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e1ce89ba-8df8-466e-b303-0763ad2585b6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e1ce89ba-8df8-466e-b303-0763ad2585b6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e1ce89ba-8df8-466e-b303-0763ad2585b6/diss_de_la_Nuez_Gonzalez.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e1ce89ba-8df8-466e-b303-0763ad2585b6" DMDID="DMD_e1ce89ba-8df8-466e-b303-0763ad2585b6">
+            <mets:fptr FILEID="FILE_e1ce89ba-8df8-466e-b303-0763ad2585b6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

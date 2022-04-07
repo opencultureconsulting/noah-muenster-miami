@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_60fa9cbb-27a0-4f16-bf90-c2e223eee68b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vielfalt in der Einheitlichkeit</title>
+                        <subTitle>Lehrerbildung unter den Bedingungen von Bologna</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173371507">
+                        <displayForm>Nakamura, Yoshiro</displayForm>
+                        <namePart type="given">Yoshiro</namePart>
+                        <namePart type="family">Nakamura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-03-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <subject lang="ger">
+                        <topic>Lehrerbildung</topic>
+                        <topic>Bachelorstudiengänge</topic>
+                        <topic>Masterstudiengänge</topic>
+                        <topic>Mobilität</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25589601277</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_60fa9cbb-27a0-4f16-bf90-c2e223eee68b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_60fa9cbb-27a0-4f16-bf90-c2e223eee68b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/60fa9cbb-27a0-4f16-bf90-c2e223eee68b/Vielfalt-in-der-Einheitlichkeit.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_60fa9cbb-27a0-4f16-bf90-c2e223eee68b" DMDID="DMD_60fa9cbb-27a0-4f16-bf90-c2e223eee68b">
+            <mets:fptr FILEID="FILE_60fa9cbb-27a0-4f16-bf90-c2e223eee68b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

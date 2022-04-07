@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2d0a3ddd-1646-413c-8bea-bd1528b2a47d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Predictive Modeling for Diagnostic Tests with High Specificity, but Low Sensitivity: A Study of the Glycerol Test in Patients with Suspected Menière’s Disease</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172241804">
+                        <displayForm>Lütkenhöner, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Lütkenhöner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130440817">
+                        <displayForm>Basel, Türker</displayForm>
+                        <namePart type="given">Türker</namePart>
+                        <namePart type="family">Basel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-11-18</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-02-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A high specificity does not ensure that the expected benefit of a diagnostic test outweighs its cost. Problems arise, in particular, when the investigation is expensive, the prevalence of a positive test result is relatively small for the candidate patients, and the sensitivity of the test is low so that the information provided by a negative result is virtually negligible. The consequence may be that a potentially useful test does not gain broader acceptance. Here we show how predictive modeling can help to identify patients for whom the ratio of expected benefit and cost reaches an acceptable level so that testing these patients is reasonable even though testing all patients might be considered wasteful. Our application example is based on a retrospective study of the glycerol test, which is used to corroborate a suspected diagnosis of Menière’s disease. Using the pretest hearing thresholds at up to 10 frequencies, predictions were made by K-nearest neighbor classification or logistic regression. Both methods estimate, based on results from previous patients, the posterior probability that performing the considered test in a new patient will have a positive outcome. The quality of the prediction was evaluated using leave-one-out cross-validation, making various assumptions about the costs and benefits of testing. With reference to all 356 cases, the probability of a positive test result was almost 0.4. For subpopulations selected by K-nearest neighbor classification, which was clearly superior to logistic regression, this probability could be increased up to about 0.6. Thus, the odds of a positive test result were more than doubled.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2013/2014 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">PLoS ONE 8 (2013) 11, e79315</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-54319565581</identifier>
+                    <identifier type="doi">10.1371/journal.pone.0079315</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2d0a3ddd-1646-413c-8bea-bd1528b2a47d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2d0a3ddd-1646-413c-8bea-bd1528b2a47d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2d0a3ddd-1646-413c-8bea-bd1528b2a47d/journal.pone.0079315.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2d0a3ddd-1646-413c-8bea-bd1528b2a47d" DMDID="DMD_2d0a3ddd-1646-413c-8bea-bd1528b2a47d">
+            <mets:fptr FILEID="FILE_2d0a3ddd-1646-413c-8bea-bd1528b2a47d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

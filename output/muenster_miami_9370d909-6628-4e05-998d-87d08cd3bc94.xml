@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9370d909-6628-4e05-998d-87d08cd3bc94">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measuring the impact of new library</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108551261">
+                        <displayForm>Poll, Roswitha</displayForm>
+                        <namePart type="given">Roswitha</namePart>
+                        <namePart type="family">Poll</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-11-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-11-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note>Vortrag, IFLA Tagung 2005 in Oslo, Norwegen</note>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34639551510</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9370d909-6628-4e05-998d-87d08cd3bc94</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9370d909-6628-4e05-998d-87d08cd3bc94_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9370d909-6628-4e05-998d-87d08cd3bc94/measuring-the-impact.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9370d909-6628-4e05-998d-87d08cd3bc94" DMDID="DMD_9370d909-6628-4e05-998d-87d08cd3bc94">
+            <mets:fptr FILEID="FILE_9370d909-6628-4e05-998d-87d08cd3bc94_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

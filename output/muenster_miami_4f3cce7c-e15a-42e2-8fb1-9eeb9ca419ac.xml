@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4f3cce7c-e15a-42e2-8fb1-9eeb9ca419ac">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Rezeption Josquin Desprez&apos; am kurpfälzischen Hof Ottheinrichs</title>
+                        <subTitle>Johannes Mittners Missa Hercules Dux Ferrariae</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea</displayForm>
+                        <namePart type="given">Andrea</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea Pietro</displayForm>
+                        <namePart type="given">Andrea Pietro</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-02-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Johannes Mittners &quot;Hercules Dux Ferrariae&quot; ist die vielleicht kurioseste Messvertonung des 16. Jahrhunderts. Während über den Komponisten Mittner sowie über die kontextuellen Hintergründe relativ wenig bekannt ist, sticht sas Vorbild der Messe, die gleichnamige Messe Josquin Desprez&apos;, unmittelbar ins Auge. Neben den offenkundigen musikalischen Parallelen sind allerdings auch die Differenzen zum Vorlagewerk so deutlich, dass man hierüber zu Aussagen über die rezeptiven Bedingungen des Umgangs mit bekannten Werken vorbildhafter Komponisten in der frühen Neuzeit gelangen kann.</abstract>
+                    <note type="citation/reference">Polyphone Messen im 15. und 16. Jahrhundert : Funktion, Kontext, Symbol. Göttingen : V&amp;R unipress, 2012, S. 233–249</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Verlages V&amp;R unipress.</note>
+                    <subject lang="ger">
+                        <topic>Messe</topic>
+                        <topic>Rezeption</topic>
+                        <topic>Josquin Desprez</topic>
+                        <topic>Ottheinrich</topic>
+                        <topic>Hercules Dux Ferrariae</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29169669727</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/de/">CC BY 3.0 DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4f3cce7c-e15a-42e2-8fb1-9eeb9ca419ac</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4f3cce7c-e15a-42e2-8fb1-9eeb9ca419ac_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4f3cce7c-e15a-42e2-8fb1-9eeb9ca419ac/ammendola_2012_desprez.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4f3cce7c-e15a-42e2-8fb1-9eeb9ca419ac" DMDID="DMD_4f3cce7c-e15a-42e2-8fb1-9eeb9ca419ac">
+            <mets:fptr FILEID="FILE_4f3cce7c-e15a-42e2-8fb1-9eeb9ca419ac_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

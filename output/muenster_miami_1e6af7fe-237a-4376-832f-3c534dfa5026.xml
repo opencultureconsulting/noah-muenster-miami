@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1e6af7fe-237a-4376-832f-3c534dfa5026">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>15 Jahre der Entwicklung der Herzchirurgie im hohen Lebensalter</title>
+                        <subTitle>Vergleich von zwei Patientenkollektiven in den Zeiträumen „1990-1999“ versus „2000-2004“</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132264285">
+                        <displayForm>Schüllenbach, Sophia</displayForm>
+                        <namePart type="given">Sophia</namePart>
+                        <namePart type="family">Schüllenbach</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112703003">
+                        <displayForm>Deiwick, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Deiwick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-11-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-09-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei einer vergleichenden prospektiven Analyse von je ca. 250 über-80-jährigen, am Herzen operierten Patienten der Zeitinvalle 1990-1999 und 2000-2004 zeigte sich, dass im letzteren Kollektiv die Patienten im Schnitt mit einem NYHA-Stadium II-III statt wie vorher III-IV operiert wurden. Der Anteil der Herzoperationen stieg über den gesamten Zeitraum von 0.5% auf 6.1%. War die OP-Indikation damals zu je 25% notfallmäßig oder elektiv, der Rest dringlich, so werden jetzt 50% elektiv und nur 10% notfallmäßig operiert. Wurden früher eher einfache Eingriffe vorgenommen, so sind es nun zu 50% Bypassoperationen und zu je knapp 20% Klappen- bzw. kombinierte Eingriffe. Der LIMA wird nun zu 92% verwandt, damals 63%. Die postoperativen Komplikationen nahmen von im Median 1,5 auf 1,0 ab, insbesondere signikanterweise das Durchgangssyndrom und die Herzrhythmusstörung. Die 30-Tages Letalität lag bei 12,6% versus 10,7%.</abstract>
+                    <subject lang="ger">
+                        <topic>Achtzigjährige</topic>
+                        <topic>Herzchirurgie</topic>
+                        <topic>Bypassoperationen</topic>
+                        <topic>Klappenoperationen</topic>
+                        <topic>Kombinationseingriffe</topic>
+                        <topic>outcome</topic>
+                        <topic>LIMA</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20689466090</identifier>
+                    <identifier type="sys">HT014923532</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1e6af7fe-237a-4376-832f-3c534dfa5026</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1e6af7fe-237a-4376-832f-3c534dfa5026_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1e6af7fe-237a-4376-832f-3c534dfa5026/diss_schuellenbach.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1e6af7fe-237a-4376-832f-3c534dfa5026" DMDID="DMD_1e6af7fe-237a-4376-832f-3c534dfa5026">
+            <mets:fptr FILEID="FILE_1e6af7fe-237a-4376-832f-3c534dfa5026_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

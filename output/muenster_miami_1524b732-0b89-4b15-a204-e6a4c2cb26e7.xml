@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1524b732-0b89-4b15-a204-e6a4c2cb26e7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Wilson-Dirac operator eigenspectrum for the theories of QCD and super Yang-Mills with one flavour</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14212141X">
+                        <displayForm>Wuilloud, Jai͏̈r</displayForm>
+                        <namePart type="given">Jai͏̈r</namePart>
+                        <namePart type="family">Wuilloud</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, Gernot</displayForm>
+                        <namePart type="given">Gernot</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-06-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-03-31</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Für Simulationen der QCD und der minimalen, supersymmetrischen super Yang-Mills Feldtheorien mit einem Flavour werden fermionische Felder und Eichfelder durch den Wilson-Formalismus auf einem diskretisierten, periodischen Version der Raum-Zeit versetzt. Die niedrigsten Eigenmoden des Dirac Operators spielen eine grundsätzliche Rolle. Fundamentale Grössen einer Theorie von den niedrigsten Eigenmoden lassen sich bestimmen: Das Vorzeichen Problem wird durch die kleinsten Eigenwerte des Dirac Operators bestimmt. Bedeutende Erwartungswerte lassen sich durch spektrale Zerlegung partiell rekonstruieren. In dieser Arbeit werden diese Aspekte in beider Theorien untersucht. Solche Analysen setzen effiziente Werkzeuge zur Berechnung der Eigenwerte voraus. Zu diesem Zweck wurden im Laufe dieser Arbeit besondere Strategien entwickelt, welche zu deutlichen Verbesserungen führten. Diese Strategien werden hier diskutiert und getestet.</abstract>
+                    <subject lang="ger">
+                        <topic>Nf=1 QCD</topic>
+                        <topic>N=1 super Yang-Mills</topic>
+                        <topic>Wilson-Dirac Operator</topic>
+                        <topic>Eigenwerte Berechnung</topic>
+                        <topic>Determinant Vorzeichen</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-47459543448</identifier>
+                    <identifier type="sys">HT016483684</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1524b732-0b89-4b15-a204-e6a4c2cb26e7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1524b732-0b89-4b15-a204-e6a4c2cb26e7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1524b732-0b89-4b15-a204-e6a4c2cb26e7/diss_wuilloud.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1524b732-0b89-4b15-a204-e6a4c2cb26e7" DMDID="DMD_1524b732-0b89-4b15-a204-e6a4c2cb26e7">
+            <mets:fptr FILEID="FILE_1524b732-0b89-4b15-a204-e6a4c2cb26e7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

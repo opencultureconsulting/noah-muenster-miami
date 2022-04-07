@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c502cc2e-d881-4ff4-a74e-f27ff439be96">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gamification for Business Process Modeling</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pflanzl, Nicolas</displayForm>
+                        <namePart type="given">Nicolas</namePart>
+                        <namePart type="family">Pflanzl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, Gottfried</displayForm>
+                        <namePart type="given">Gottfried</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-05-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-06-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Gamification is a novel, industry-driven trend that is concerned with the application of game design elements to non-game contexts. The main goal of this work is to examine how gamification can be used to support business process modeling. To that extent, design science research was conducted to determine current challenges and problems in business process management that may be solved through gamification. To address these issues, a “gamified” version of the Horus Business Modeler – a software for process modeling – was designed, implemented, and evaluated. The results of the evaluation are mixed and show increases in model quality and tool assessment, but no impact on motivation. Overall, this work contributes to research by providing insights into the impacts of gamification in a domain not previously discussed, and by showing how certain issues of business process management can be addressed by means of an IT artifact with particular characteristics.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Gamification for Business Process Modeling / Nicolas Pflanzl. – Münster : Münsterscher Verlag für Wissenschaft, 2018. – XIX, 514 S. (Wissenschaftliche Schriften der WWU Münster : Reihe IV ; Bd. 13), ISBN 978-3-8405-0176-0, Preis: 50,00 EUR</note>
+                    <subject lang="eng">
+                        <topic>Business Process Modeling</topic>
+                        <topic>Gamification</topic>
+                        <topic>Game Design Elements</topic>
+                        <topic>Model Quality</topic>
+                        <topic>Horus Business Modeler</topic>
+                        <topic>Petri Nets</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">790</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29169441136</identifier>
+                    <identifier type="isbn">978-3-8405-0176-0</identifier>
+                    <identifier type="sys">HT019697322</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c502cc2e-d881-4ff4-a74e-f27ff439be96</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c502cc2e-d881-4ff4-a74e-f27ff439be96_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c502cc2e-d881-4ff4-a74e-f27ff439be96/diss_pflanzl_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c502cc2e-d881-4ff4-a74e-f27ff439be96" DMDID="DMD_c502cc2e-d881-4ff4-a74e-f27ff439be96">
+            <mets:fptr FILEID="FILE_c502cc2e-d881-4ff4-a74e-f27ff439be96_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

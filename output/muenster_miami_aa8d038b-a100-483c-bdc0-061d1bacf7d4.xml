@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_aa8d038b-a100-483c-bdc0-061d1bacf7d4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Tierische Zellen auf nanoporösen Oberflächen</title>
+                        <subTitle>Grundlagen und bioanalytische Anwendungen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133030105">
+                        <displayForm>Rommel, Christina Elisabeth</displayForm>
+                        <namePart type="given">Christina Elisabeth</namePart>
+                        <namePart type="family">Rommel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120439581">
+                        <displayForm>Wegener, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Wegener</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-04-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zur Entwicklung und Erprobung von pharmazeutischen Wirkstoffen und für die Grundlagenforschung werden Untersuchungsmethoden benötigt, um die Wirksamkeit und die Verträglichkeit einer Substanz zu untersuchen. Die Kultur von tierischen Zellen unter Laborbedingungen ermöglicht eine Reduktion der Untersuchungen am lebenden Tier. Dazu werden leistungsfähige analytische Methoden benötigt, um die zellulären Reaktionen zu bestimmen und zu messen. Vor diesem Hintergrund wurden in der vorliegenden Arbeit neue Analysemöglichkeiten entwickelt. Ein Permeationsassay auf Basis hochgeordneter Nanoporen dient dazu, die Passage eines Wirkstoffmoleküls ortsaufgelöst über einer Zellschicht zu untersuchen. Daneben wurden poröse Goldfilmelektroden entwickelt, die in einem variablen, nicht-invasiven, impedanzspektroskopischen Verfahren genutzt werden, um die Reaktion der Zellen auf einen Wirkstoff zu analysieren.</abstract>
+                    <subject lang="ger">
+                        <topic>Nanoporöse Substrate</topic>
+                        <topic>Impedanzspektroskopie</topic>
+                        <topic>sensorische Oberflächen</topic>
+                        <topic>ECIS</topic>
+                        <topic>(3D) ToF-SIMS</topic>
+                        <topic>AFM</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-08599437154</identifier>
+                    <identifier type="sys">HT015217234</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_aa8d038b-a100-483c-bdc0-061d1bacf7d4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_aa8d038b-a100-483c-bdc0-061d1bacf7d4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/aa8d038b-a100-483c-bdc0-061d1bacf7d4/diss_rommel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_aa8d038b-a100-483c-bdc0-061d1bacf7d4" DMDID="DMD_aa8d038b-a100-483c-bdc0-061d1bacf7d4">
+            <mets:fptr FILEID="FILE_aa8d038b-a100-483c-bdc0-061d1bacf7d4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4d9a163a-55a7-4835-8c60-f7d84230f876">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selbstkonsistenzgleichungen für erweiterte Feynman-Regeln in der Quantenchromodynamik</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130065528">
+                        <displayForm>Wielenberg, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Wielenberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172885493">
+                        <displayForm>Stingl, Manfred</displayForm>
+                        <namePart type="given">Manfred</namePart>
+                        <namePart type="family">Stingl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-06-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-05-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Am Beispiel der QCD in Landau-Eichung werden nicht-perturbativ erweiterte Feynman-Regeln für eine asymptotisch freie euklidischen QFT hergeleitet. Für die Parameter der rationalen Approximanten werden Selbstkonsistenzgleichungen aus den Divergenzen der Bethe-Salpeter-resummierten Dyson-Schwinger-Gleichungen gewonnen. Der erweiterte 4-Gluon-Vertex mit nicht-perturbativen Tensorstrukturen wird mit der zugeordneten Bethe-Salpeter-Gleichung behandelt. Zusätzlich werden Bewegungsgleichungskondensate der Propagatoren und partielle Kondensate der 3-Punkt-Vertizes berechnet. Die gefundenen SKG und Nebenbedingungen werden numerisch gelöst und physikalische Randbedingungen wie Osterwaler-Schrader-Positivität überprüft. Insbesondere wird der Einfluss von Fermionen auf die Lösungen der SKG untersucht.</abstract>
+                    <subject lang="ger">
+                        <topic>nicht-perturbativ</topic>
+                        <topic>QCD</topic>
+                        <topic>Feynman-Regeln</topic>
+                        <topic>Dyson-Schwinger-Gleichung</topic>
+                        <topic>Bethe-Salpeter-Gleichung</topic>
+                        <topic>Kondensatgleichung</topic>
+                        <topic>kompensierende Pole</topic>
+                        <topic>Resummation</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95699555443</identifier>
+                    <identifier type="sys">HT014465787</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4d9a163a-55a7-4835-8c60-f7d84230f876</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4d9a163a-55a7-4835-8c60-f7d84230f876_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4d9a163a-55a7-4835-8c60-f7d84230f876/diss_wielenberg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4d9a163a-55a7-4835-8c60-f7d84230f876" DMDID="DMD_4d9a163a-55a7-4835-8c60-f7d84230f876">
+            <mets:fptr FILEID="FILE_4d9a163a-55a7-4835-8c60-f7d84230f876_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

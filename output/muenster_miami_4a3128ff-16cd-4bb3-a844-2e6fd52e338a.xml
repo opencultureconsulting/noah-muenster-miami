@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4a3128ff-16cd-4bb3-a844-2e6fd52e338a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Terminale und Telomer-assoziierte Proteine von pAL1, einem linearen Plasmid von Arthrobacter nitroguajacolicus Rü61a</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140830723">
+                        <displayForm>Kolkenbrock, Stephan</displayForm>
+                        <namePart type="given">Stephan</namePart>
+                        <namePart type="family">Kolkenbrock</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fetzner, Susanne</displayForm>
+                        <namePart type="given">Susanne</namePart>
+                        <namePart type="family">Fetzner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-01-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-11-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das lineare Plasmid pAL1 von Arthrobacter nitroguajacolicus Rü61a besitzt kovalent gebundene, terminale Proteine (TPs) an den 5’-Enden. In dieser Arbeit sollten die am pAL1-Replikationsmechanismus beteiligten Proteine identifiziert und charakterisiert werden. Es konnte gezeigt werden, dass das auf pAL1 lokalisierte Gen 102 für das an den 5’-Enden von pAL1 kovalent gebundene TP codiert. Das Gen 101 codiert für ein Protein, welches durch in vivo Quervernetzungsversuche als Interaktionspartner von TP identifiziert wurde. Dieses als Telomer-assoziiertes Protein (TAP) bezeichnete Protein ist ein bisher einzigartiges Multidomänenprotein und zeigte in biochemischen Versuchen Topoisomerase-, DNA-Helikase- und DNA-Polymerase-Aktivitäten. Realtime-PCR-Versuche zeigten eine gleichzeitig ausgeprägte DNA-Helikasefunktion während der DNA-Polymerisationsfunktion von TAP sowohl mit DNA-primern als auch mit TP als Protein-primer. Somit konnte TAP DNA exponentiell bei 30°C amplifizieren.</abstract>
+                    <subject lang="ger">
+                        <topic>Arthrobacter</topic>
+                        <topic>linear</topic>
+                        <topic>Plasmid</topic>
+                        <topic>pAL1</topic>
+                        <topic>Replikation</topic>
+                        <topic>terminales Potein</topic>
+                        <topic>Telomer-assoziiertes Protein</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39409588792</identifier>
+                    <identifier type="sys">HT016295937</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4a3128ff-16cd-4bb3-a844-2e6fd52e338a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4a3128ff-16cd-4bb3-a844-2e6fd52e338a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4a3128ff-16cd-4bb3-a844-2e6fd52e338a/diss_kolkenbrock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4a3128ff-16cd-4bb3-a844-2e6fd52e338a" DMDID="DMD_4a3128ff-16cd-4bb3-a844-2e6fd52e338a">
+            <mets:fptr FILEID="FILE_4a3128ff-16cd-4bb3-a844-2e6fd52e338a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

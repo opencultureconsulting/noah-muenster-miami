@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fe2e2c1c-b4d3-4d08-99ee-c0e74956fc77">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spectral theory in a twisted groupoid setting: Spectral decompositions, localization and Fredholmness</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/179991418">
+                        <displayForm>Mantoiu, Marius</displayForm>
+                        <namePart type="given">Marius</namePart>
+                        <namePart type="family">Mantoiu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nistor, Victor</displayForm>
+                        <namePart type="given">Victor</namePart>
+                        <namePart type="family">Nistor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-03-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We study bounded operators defined in terms of the regular representations of the C*-algebra of an amenable, Hausdorff, second countable, locally compact groupoid endowed with a continuous 2-cocycle. We concentrate on spectral quantities associated to natural quotients of this twisted groupoid C*-algebra, such as the essential spectrum, the essential numerical range, and the Fredholm properties. We obtain decompositions for the images of the elements of this twisted groupoid C*-algebra under the regular representations associated to units of the groupoid belonging to a free locally closed orbit in terms of spectral quantities attached to points (or orbits) in the boundary of this main orbit. We illustrate our results by discussing various classes of magnetic pseudo-differential operators on nilpotent groups. We also prove localization and non-propagation properties associated to suitable parts of the essential spectrum. These results are applied to twisted groupoids having a totally intransitive groupoid restriction at the boundary.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>145</start>
+                                <end>196</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-32109553125</identifier>
+                    <identifier type="doi">10.17879/32109552889</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fe2e2c1c-b4d3-4d08-99ee-c0e74956fc77</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fe2e2c1c-b4d3-4d08-99ee-c0e74956fc77_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fe2e2c1c-b4d3-4d08-99ee-c0e74956fc77/mjm_2020_13_145-196.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fe2e2c1c-b4d3-4d08-99ee-c0e74956fc77" DMDID="DMD_fe2e2c1c-b4d3-4d08-99ee-c0e74956fc77">
+            <mets:fptr FILEID="FILE_fe2e2c1c-b4d3-4d08-99ee-c0e74956fc77_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

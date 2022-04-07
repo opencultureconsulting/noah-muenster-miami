@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d7d5b8b9-3ec1-42ee-8d8e-8fd2ca7ed3ff">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ansätze zur Entwicklung von Workflow-basierten Anwendungssystemen</title>
+                        <subTitle>eine vergleichende Darstellung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1069098973">
+                        <displayForm>Striemer, Rüdiger</displayForm>
+                        <namePart type="given">Rüdiger</namePart>
+                        <namePart type="family">Striemer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113590547">
+                        <displayForm>Weske, Mathias</displayForm>
+                        <namePart type="given">Mathias</namePart>
+                        <namePart type="family">Weske</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113590547">
+                        <displayForm>Weske, M.</displayForm>
+                        <namePart type="given">M.</namePart>
+                        <namePart type="family">Weske</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Workflow-Management-Systeme werden entscheidende Impulse für die Gestaltung von Informationssystemen der nächsten Generation geben. Ähnlich wie Datenbank-Systeme heute werden Workflow-Systeme zukünftig als Basistechnologie in komplexen Informationssystemen verwendet werden. Sie ermöglichen eine geschäftsprozeßnahe Darstellung der betrieblichen Ablauflogik und die explizite und zentrale Abbildung dieser Geschäftsprozeßlogik mittels spezialisierter Softwarekomponenten im Gegensatz zu der heute üblichen impliziten Codierung der Prozeßlogik in Applikationen. Ansätze zur Entwicklung von Workflow-basierten Anwendungen sind somit von großem Interesse. Anhand eines Vorgehens-Meta-Modells stellt der Beitrag zunächst wichtige in der Literatur vorgeschlagene Vorgehensmodelle zur Entwicklung von Workflow-Anwendungen einheitlich und klassifizierend dar. Darauf aufbauend erfolgt eine vergleichende Einordnung der verschiedenen Ansätze anhand von Kriterien, die basierend auf dem Meta-Modell hergeleitet werden.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03579556674</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d7d5b8b9-3ec1-42ee-8d8e-8fd2ca7ed3ff</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d7d5b8b9-3ec1-42ee-8d8e-8fd2ca7ed3ff_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d7d5b8b9-3ec1-42ee-8d8e-8fd2ca7ed3ff/057_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d7d5b8b9-3ec1-42ee-8d8e-8fd2ca7ed3ff" DMDID="DMD_d7d5b8b9-3ec1-42ee-8d8e-8fd2ca7ed3ff">
+            <mets:fptr FILEID="FILE_d7d5b8b9-3ec1-42ee-8d8e-8fd2ca7ed3ff_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

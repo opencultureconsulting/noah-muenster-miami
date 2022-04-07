@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b5a10713-3542-4a0c-9013-0495e961eb12">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Knut Wicksells &quot;Finanztheoretische Untersuchungen&quot;</title>
+                        <subTitle>zum 100. Geburtstag eines erstaunlich modernen Versuchs, besser zu verstehen, um besser gestalten zu können</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129052051">
+                        <displayForm>Grossekettler, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grossekettler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Auch erschienen in: Streissler, Erich (Hrsg.): Knut Wicksell als Ökonom; Studien zur Entwicklung der ökonomischen Theorie, Bd. 18. Berlin : Duncker &amp; Humblot, 1998, S. 217-249</note>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Volkswirtschaftliche Diskussionsbeiträge</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Volkswirtschaftliche Diskussionsbeiträge</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526370</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b5a10713-3542-4a0c-9013-0495e961eb12</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b5a10713-3542-4a0c-9013-0495e961eb12_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b5a10713-3542-4a0c-9013-0495e961eb12/247.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b5a10713-3542-4a0c-9013-0495e961eb12" DMDID="DMD_b5a10713-3542-4a0c-9013-0495e961eb12">
+            <mets:fptr FILEID="FILE_b5a10713-3542-4a0c-9013-0495e961eb12_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

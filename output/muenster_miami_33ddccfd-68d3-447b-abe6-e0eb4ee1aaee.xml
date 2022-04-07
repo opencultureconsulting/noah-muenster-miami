@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_33ddccfd-68d3-447b-abe6-e0eb4ee1aaee">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von 42 Fächern zu 5 Clustern – Das Fachreferat an der ULB Münster vor und nach 2014</title>
+                        <subTitle>Präsentation zum Vortrag an der Universitätsbibliothek Basel am 17.1.2018</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voß, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voss, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-01-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Vortrag stellt die Rahmenbedingungen, das Vorgehen und die Auswirkungen der Umstrukturierung der Universitäts- und Landesbibliothek Münster vor, die u.a. zu großen Veränderungen in der Fachreferatsarbeit geführt haben.</abstract>
+                    <note>Die Folien basieren auf einem englischen Vortrag zum gleichen Thema aus dem
+Jahr 2017 (http://nbn-resolving.de/urn:nbn:de:hbz:6-51209534810 ).</note>
+                    <subject lang="ger">
+                        <topic>Fachreferat</topic>
+                        <topic>Fachreferent</topic>
+                        <topic>wissenschaftliche Bibliotheksdienste</topic>
+                        <topic>Universitätsbibliothek</topic>
+                        <topic>Universitäts- und Landesbibliothek Münster</topic>
+                        <topic>zweischichtiges Bibliothekssystem</topic>
+                        <topic>Restrukturierung</topic>
+                        <topic>funktionale Einschichtigkeit</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-49179509797</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_33ddccfd-68d3-447b-abe6-e0eb4ee1aaee</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_33ddccfd-68d3-447b-abe6-e0eb4ee1aaee_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/33ddccfd-68d3-447b-abe6-e0eb4ee1aaee/voss_2018_von-faechern-zu-clustern.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_33ddccfd-68d3-447b-abe6-e0eb4ee1aaee" DMDID="DMD_33ddccfd-68d3-447b-abe6-e0eb4ee1aaee">
+            <mets:fptr FILEID="FILE_33ddccfd-68d3-447b-abe6-e0eb4ee1aaee_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

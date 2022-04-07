@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bf78158e-27ce-4dc8-be97-835df397ab68">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pitting optic flow, object motion, and biological motion against each other</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Koerfer, Krischan</displayForm>
+                        <namePart type="given">Krischan</namePart>
+                        <namePart type="family">Koerfer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172579074">
+                        <displayForm>Lappe, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Lappe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-17</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-04-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Heading estimation from optic flow is crucial for safe locomotion but becomes inaccurate if independent object motion is present. In ecological settings, such motion typically involves other animals or humans walking across the scene. An independently walking person presents a local disturbance of the flow field, which moves across the flow field as the walker traverses the scene. Is the bias in heading estimation produced by the local disturbance of the flow field or by the movement of the walker through the scene? We present a novel flow field stimulus in which the local flow disturbance and the movement of the walker can be pitted against each other. Each frame of this stimulus consists of a structureless random dot distribution. Across frames, the body shape of a walker is molded by presenting different flow field dynamics within and outside the body shape. In different experimental conditions, the flow within the body shape can be congruent with the walker’s movement, incongruent with it, or congruent with the background flow. We show that heading inaccuracy results from the local flow disturbance rather than the movement through the scene. Moreover, we show that the local disturbances of the optic flow can be used to segment the walker and support biological motion perception to some degree. The dichotomous result that the walker can be segmented from the scene but that heading perception is nonetheless influenced by the flow produced by the walker confirms separate visual pathways for heading estimation, object segmentation, and biological motion perception.</abstract>
+                    <note type="citation/reference">Journal of Vision 20 (2020) 8, 18, 1-13</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note>Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: La 952-7</note>
+                    <note>Funding organisation: Deutsche Forschungsgemeinschaft / Project number: La 952-7</note>
+                    <subject lang="eng">
+                        <topic>visual perception</topic>
+                        <topic>optic flow</topic>
+                        <topic>heading perception</topic>
+                        <topic>object segmentation</topic>
+                        <topic>biological motion</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14049612915</identifier>
+                    <identifier type="doi">10.17879/34079450350</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bf78158e-27ce-4dc8-be97-835df397ab68</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bf78158e-27ce-4dc8-be97-835df397ab68_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bf78158e-27ce-4dc8-be97-835df397ab68/10.1167_jov.20.8.18.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bf78158e-27ce-4dc8-be97-835df397ab68" DMDID="DMD_bf78158e-27ce-4dc8-be97-835df397ab68">
+            <mets:fptr FILEID="FILE_bf78158e-27ce-4dc8-be97-835df397ab68_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

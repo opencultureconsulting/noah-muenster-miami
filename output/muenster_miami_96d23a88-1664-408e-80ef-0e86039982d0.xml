@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_96d23a88-1664-408e-80ef-0e86039982d0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Analyse von Biologie-Schulbüchern – unter besonderer Berücksichtigung des Experimentierens mit Pflanzen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1139942484">
+                        <displayForm>Aufdermauer, Anke</displayForm>
+                        <namePart type="given">Anke</namePart>
+                        <namePart type="family">Aufdermauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106971697">
+                        <displayForm>Hesse, Manfred</displayForm>
+                        <namePart type="given">Manfred</namePart>
+                        <namePart type="family">Hesse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine knappe Erläuterung zum Untersuchungsgegenstand „Schulbuch“ und „Experiment“ und zur wissenschaftlichen Schulbuchforschung dient als theoretischer Hintergrund für die Schulbuchanalyse. Ausgewählt wurden hierzu die aktuellen nordrhein-westfälischen Schulbücher für die fünfte und sechste Jahrgangsstufe der Hauptschule. Es wird ein eigenständig entwickeltes Analyseschema vorgestellt, welches Kriterien zur Charakterisierung und Beurteilung der Bücher enthält und als Vorschlag für eine Schulbuchanalyse durch Lehrer verstanden wird. Die Ergebnisse der Schulbuchanalyse und des Schulbuchvergleichs werden diskutiert. Die Durchführung einer Meinungsbefragung von Schülern bezüglich Schulbüchern und Versuchen wird in diesem Heft gesondert vorgestellt.</abstract>
+                    <note>Auszug aus der schriftlichen Hausarbeit zur Ersten Staatsprüfung (Lehramt der Sekundarstufe I)</note>
+                    <subject lang="ger">
+                        <topic>Schulbuchanalyse</topic>
+                        <topic>Kriterienkatalog</topic>
+                        <topic>Schulexperimente</topic>
+                        <topic>Pflanzen</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>32</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79519633318</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_96d23a88-1664-408e-80ef-0e86039982d0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_96d23a88-1664-408e-80ef-0e86039982d0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/96d23a88-1664-408e-80ef-0e86039982d0/15-2006_01_aufdermauer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_96d23a88-1664-408e-80ef-0e86039982d0" DMDID="DMD_96d23a88-1664-408e-80ef-0e86039982d0">
+            <mets:fptr FILEID="FILE_96d23a88-1664-408e-80ef-0e86039982d0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a894e925-321e-41c7-a44e-9920b56b9227">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Expression von Tissue factor in Monozyten unter Einfluss von Rapamycin</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13059296X">
+                        <displayForm>Sackarnd, Jan</displayForm>
+                        <namePart type="given">Jan</namePart>
+                        <namePart type="family">Sackarnd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lang, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Lang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-11-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-10-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Nach einer Organtransplantation ist der Einsatz von Immunsuppressiva wie z.B. Rapamycin notwendig. Fallberichten zufolge kommt es unter Einsatz von Rapamycin immer wieder zu thrombotischen Komplikationen, die zum Organverlust führen können. In dieser Arbeit wurde nachgewiesen, dass humane Monozyten in-vitro unter dem Einfluss von Rapamycin konzentrationsabhängig Tissue factor (TF) exprimieren, was zu einer Zunahme der prokoagulatorischen Aktivität dieser Zellen führt. Eine Therapie mit Rapamycin kann einen Risikofaktor für thrombotische Komplikationen darstellen. Die durch Rapamycin induzierte Zunahme der TF-Expression in Monozyten hat vermutlich primär in entzündlicher Umgebung klinische Bedeutung. Es konnte gezeigt werden, dass das antiinflammatorische Interleukin IL-4 zu einer Suppression von TF in Monozyten führt. In die intrazelluläre Signalkaskade ist die Proteinkinase C (PKC) involviert.</abstract>
+                    <subject lang="ger">
+                        <topic>Rapamycin</topic>
+                        <topic>Tissue factor</topic>
+                        <topic>Monozyten</topic>
+                        <topic>Thrombose</topic>
+                        <topic>Interleukin 4</topic>
+                        <topic>Proteinkinase C</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34649602500</identifier>
+                    <identifier type="sys">HT014557565</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a894e925-321e-41c7-a44e-9920b56b9227</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a894e925-321e-41c7-a44e-9920b56b9227_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a894e925-321e-41c7-a44e-9920b56b9227/Diss_Sackarnd.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a894e925-321e-41c7-a44e-9920b56b9227" DMDID="DMD_a894e925-321e-41c7-a44e-9920b56b9227">
+            <mets:fptr FILEID="FILE_a894e925-321e-41c7-a44e-9920b56b9227_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

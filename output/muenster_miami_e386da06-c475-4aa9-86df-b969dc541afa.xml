@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e386da06-c475-4aa9-86df-b969dc541afa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>ODMSummary: A Tool for Automatic Structured Comparison of Multiple Medical Forms Based on Semantic Annotation with the Unified Medical Language System</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1132096634">
+                        <displayForm>Storck, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Storck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1132096634">
+                        <displayForm>Storck, Michael Martin</displayForm>
+                        <namePart type="given">Michael Martin</namePart>
+                        <namePart type="family">Storck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/11466031X">
+                        <displayForm>Krumm, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Krumm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1131361393">
+                        <displayForm>Dugas, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Dugas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-08-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Introduction: Medical documentation is applied in various settings including patient care and clinical research. Since procedures of medical documentation are heterogeneous and developed further, secondary use of medical data is complicated. Development of medical forms, merging of data from different sources and meta-analyses of different data sets are currently a predominantly manual process and therefore difficult and cumbersome. Available applications to automate these processes are limited. In particular, tools to compare multiple documentation forms are missing. The objective of this work is to design, implement and evaluate the new system ODMSummary for comparison of multiple forms with a high number of semantically annotated data elements and a high level of usability. Methods: System requirements are the capability to summarize and compare a set of forms, enable to estimate the documentation effort, track changes in different versions of forms and find comparable items in different forms. Forms are provided in Operational Data Model format with semantic annotations from the Unified Medical Language System. 12 medical experts were invited to participate in a 3-phase evaluation of the tool regarding usability. Results: ODMSummary (available at https://odmtoolbox.uni-muenster.de/summary/summary.html) provides a structured overview of multiple forms and their documentation fields. This comparison enables medical experts to assess multiple forms or whole datasets for secondary use. System usability was optimized based on expert feedback. Discussion: The evaluation demonstrates that feedback from domain experts is needed to identify usability issues. In conclusion, this work shows that automatic comparison of multiple forms is feasible and the results are usable for medical experts.</abstract>
+                    <note type="citation/reference">PLoS ONE 11 (2016) 10, 1-17: e0164569</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2015/2016 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-31239605031</identifier>
+                    <identifier type="doi">10.1371/journal.pone.0164569</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e386da06-c475-4aa9-86df-b969dc541afa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e386da06-c475-4aa9-86df-b969dc541afa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e386da06-c475-4aa9-86df-b969dc541afa/journal.pone.0164569.PDF" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e386da06-c475-4aa9-86df-b969dc541afa" DMDID="DMD_e386da06-c475-4aa9-86df-b969dc541afa">
+            <mets:fptr FILEID="FILE_e386da06-c475-4aa9-86df-b969dc541afa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

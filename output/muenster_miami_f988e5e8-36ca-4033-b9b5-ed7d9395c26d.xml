@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f988e5e8-36ca-4033-b9b5-ed7d9395c26d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Merchandising als Marketinginstrument und Einnahmequelle</title>
+                        <subTitle>Eine ökonomische Analyse der Potenziale von Klubs der 1. Fußball-Bundesliga</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13040036X">
+                        <displayForm>Karlowitsch, Elmar</displayForm>
+                        <namePart type="given">Elmar</namePart>
+                        <namePart type="family">Karlowitsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136186041">
+                        <displayForm>Michaelis, Manuel</displayForm>
+                        <namePart type="given">Manuel</namePart>
+                        <namePart type="family">Michaelis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2005-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-11-23</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-11-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Arbeitspapiere des Lehrstuhls für Betriebswirtschaftslehre, insbes. Controlling der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Arbeitspapiere des Lehrstuhls für Betriebswirtschaftslehre, insbes. Controlling der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-40669572658</identifier>
+                    <identifier type="sys">HT014915996</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f988e5e8-36ca-4033-b9b5-ed7d9395c26d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f988e5e8-36ca-4033-b9b5-ed7d9395c26d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f988e5e8-36ca-4033-b9b5-ed7d9395c26d/arbeitspapier_7_1.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f988e5e8-36ca-4033-b9b5-ed7d9395c26d" DMDID="DMD_f988e5e8-36ca-4033-b9b5-ed7d9395c26d">
+            <mets:fptr FILEID="FILE_f988e5e8-36ca-4033-b9b5-ed7d9395c26d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

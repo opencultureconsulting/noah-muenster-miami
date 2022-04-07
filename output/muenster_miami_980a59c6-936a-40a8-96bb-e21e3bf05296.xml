@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_980a59c6-936a-40a8-96bb-e21e3bf05296">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung der Elektrolytgehalte des Wassers in privaten Wasserversorgungsanlagen im Bereich Paderborn, Gütersloh</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128862440">
+                        <displayForm>Zimmer, Ulrich Robert</displayForm>
+                        <namePart type="given">Ulrich Robert</namePart>
+                        <namePart type="family">Zimmer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108469123">
+                        <displayForm>Mathys, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Mathys</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-03-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-01-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei 200 Eigenwasseranlagen wurden Anionen und Kationen bestimmt (Bor, Chlorid, Sulfat, Nitrat, Kalium, Kalzium, Magnesium, Lithium, Strontium, Ammonium und Natrium). Bei 1 % der Brunnen übersteigt die Fluoridkonzentration den durch die Trinkwasserverordnung festgelegten Richtwert von 1,5 mg/l. In 3 % der Fälle liegen erhöhte Fluoridkonzentrationen im Sinne der Richtwerte der DGZMK von über 1 mg/l vor. Bei 1 % der analysierten Wasserproben traten Spitzenwerte von über 2 mg/l auf. Der Durchschnitt (0,21 ppm) der Fluoridkonzentration zeigt gegenüber der öffentlichen Wasserversorgung keinen Unterschied. Vereinzelt ließen sich sehr hohe Konzentrationen an Ammonium (2,5 mg/l), Kalium (43 mg/l), Natrium (619 mg/l), Chlorid (635 mg/l) und Bor (2,2 mg/l) ermitteln, die die Nutzung des Brunnenwassers entweder einschränken oder es als Trinkwasser nicht zulassen.</abstract>
+                    <subject lang="ger">
+                        <topic>Eigenwasseranlagen</topic>
+                        <topic>Elektrolytgehalte</topic>
+                        <topic>Paderborn</topic>
+                        <topic>Gütersloh</topic>
+                        <topic>Fluorid</topic>
+                        <topic>Trinkwasser</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525553</identifier>
+                    <identifier type="sys">HT014031894</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_980a59c6-936a-40a8-96bb-e21e3bf05296</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_980a59c6-936a-40a8-96bb-e21e3bf05296_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/980a59c6-936a-40a8-96bb-e21e3bf05296/dissertation_1.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_980a59c6-936a-40a8-96bb-e21e3bf05296" DMDID="DMD_980a59c6-936a-40a8-96bb-e21e3bf05296">
+            <mets:fptr FILEID="FILE_980a59c6-936a-40a8-96bb-e21e3bf05296_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

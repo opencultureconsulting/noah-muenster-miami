@@ -1,0 +1,113 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ecfdb9ed-aef7-422f-9f0d-30754436812c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Analyzing the basic principles of tissue microarray data measuring the cooperative phenomena of marker proteins in invasive breast cancer</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118073028">
+                        <displayForm>Bürger, Horst Karl Erich</displayForm>
+                        <namePart type="given">Horst Karl Erich</namePart>
+                        <namePart type="family">Bürger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027149936">
+                        <displayForm>Boecker, Florian</displayForm>
+                        <namePart type="given">Florian</namePart>
+                        <namePart type="family">Boecker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120062720">
+                        <displayForm>Packeisen, Jens</displayForm>
+                        <namePart type="given">Jens</namePart>
+                        <namePart type="family">Packeisen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131908987">
+                        <displayForm>Agelopoulos, Konstantin</displayForm>
+                        <namePart type="given">Konstantin</namePart>
+                        <namePart type="family">Agelopoulos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1052086152">
+                        <displayForm>Poos, Kathrin</displayForm>
+                        <namePart type="given">Kathrin</namePart>
+                        <namePart type="family">Poos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1015577113">
+                        <displayForm>Nadler, Walter</displayForm>
+                        <namePart type="given">Walter</namePart>
+                        <namePart type="family">Nadler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172968399">
+                        <displayForm>Korsching, Eberhard Ulrich</displayForm>
+                        <namePart type="given">Eberhard Ulrich</namePart>
+                        <namePart type="family">Korsching</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-01-17</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-02-26</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-02-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: The analysis of a protein-expression pattern from tissue microarray (TMA) data will not immediately give an answer on synergistic or antagonistic effects between the observed proteins. But contrary to apparent first impression, it is possible to reveal those cooperative phenomena from TMA data. The data is (1) preserving a lot of the original physiological information content and (2) because of minor variances between the tumor samples, contains several related slightly different biological states. We present here a largely assumption-free combinatorial analysis, related to correlation networks but with much less arbitrary constraints. A strong focus was put on the analysis of the basic data to analyze how the cooperative phenomena might be imprinted in the TMA data structure. Results: The study design was based on two independent panels of 589 and 366 invasive breast cancer cases from different institutions, assembled on tissue microarrays. The combinatorial analysis generates an optimal rank ordering of protein-expression coherence. The outcome of the analysis corresponds to all the single observations scattered over several publications and integrates them in one context. This means all these scattered observations can also be deduced from one TMA experiment. A comprehensive statistical meta-analysis of the TMA data suggests the existence of a superposition of three basic coherence situations, and offers the opportunity to analyze these data properties with additional real-world data and synthetic data in more detail. Conclusion: The presented algorithm gives molecular pathologists a tool to extract dependency information from TMA data. Beyond this practical benefit, some light was shed on how dependency aspects might be imprinted into expression data. This will certainly foster the refinement of algorithms to reconstruct dependency networks. The implementation of the algorithm is at the moment not end-user suitable, but available on request.</abstract>
+                    <note type="citation/reference">Open Access Bioinformatics 5 (2013) 1–21</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2012/2013 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>tissue microarrays</topic>
+                        <topic>protein expression</topic>
+                        <topic>dependency structure</topic>
+                        <topic>breast cancer</topic>
+                        <topic>progression</topic>
+                        <topic>algorithm</topic>
+                        <topic>biological networks</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27379454536</identifier>
+                    <identifier type="doi">10.2147/OAB.S36565</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ecfdb9ed-aef7-422f-9f0d-30754436812c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ecfdb9ed-aef7-422f-9f0d-30754436812c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ecfdb9ed-aef7-422f-9f0d-30754436812c/OAB-36565-analyzing-the-basic-principles-of-tissue-microarray-data-mea_011613.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ecfdb9ed-aef7-422f-9f0d-30754436812c" DMDID="DMD_ecfdb9ed-aef7-422f-9f0d-30754436812c">
+            <mets:fptr FILEID="FILE_ecfdb9ed-aef7-422f-9f0d-30754436812c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

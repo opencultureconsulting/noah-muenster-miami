@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7b9b599f-f7ef-4fb0-9b1c-d343027966e7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biographischer Thesaurus NRW</title>
+                        <subTitle>ein Projekt der Universitäts- und Landesbibliothek Münster zur landeskundlichen Personenrecherche in Nordrhein-Westfalen ; Vortragspräsentation mit einem Abstract als Anhang</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-03-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In Ihrer Eigenschaft als nordrhein-westfälische Landesbibliothek entwickelt die Universitäts- und Landesbibliothek Münster ein digitales Werkzeug, das Personen aus und mit Bedeutung für das Land, seine Regionen und Orte nachweist. Das neue landesbibliothekarische Rechercheangebot kann bereits in der Entwicklungsphase für die landeskundliche Personensuche verwandt werden und ist daher zunächst in einer Betaversion unter dem Projektnamen Biographischer Thesaurus NRW (http://data.uni-muenster.de/php/biothe/v7/main/search.php) im Internet freigegeben. Das biographische Portal macht insbesondere die zahlreichen Personendatensätze mit ihren zahlreichen biographischen Informationen nutzbar, die im Rahmen der Literaturverzeichnung in der Nordrhein-Westfälischen Bibliographie (NWBib, https://nwbib.de/) erstellt werden. Hierfür wurden eine Menü- und eine moderne Kartensuche eingerichtet. Als Sucheinstiege können der Personenname, Beruf, Geburts-, Sterbe- und Wirkungsorte, Lebensdaten und Epochen sowie frei wählbare Kartensegmente gewählt werden. Innovativ ist auch, dem Nutzer Links auf Einträge zu den ermittelten Personen in weiteren frei zugänglichen bibliothekarischen, landeskundlichen und biographischen Informationsquellen im Netz anzubieten, auf Titel aus der NWBib und dem nordrhein-westfälischen Verbundkatalog beim Hochschulbibliothekszentrum (hbz) in Köln, auf Artikel aus Biographien und Lexika oder auf die Personendatensätze im Katalog der Deutschen Nationalbibliothek und die entsprechenden Personenartikel in Wikipedia. Die weitere Entwicklung zielt darauf ab, die Datenbasis abzurunden, mit der bibliothekarischen Online-Datenhaltung automatisch zu verknüpfen sowie die Suche und die Präsentation zu verbessern.</abstract>
+                    <note>Archive und Pflichtbibliotheken &lt;8., Frankfurt a.M., DNB, 18.02.2016&gt;</note>
+                    <subject lang="ger">
+                        <topic>Nordrhein-Westfalen</topic>
+                        <topic>Biographie</topic>
+                        <topic>Person</topic>
+                        <topic>Recherche</topic>
+                        <topic>Landeskunde</topic>
+                        <topic>Portal</topic>
+                        <topic>Internet</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-26269521397</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7b9b599f-f7ef-4fb0-9b1c-d343027966e7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7b9b599f-f7ef-4fb0-9b1c-d343027966e7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7b9b599f-f7ef-4fb0-9b1c-d343027966e7/vortrag_flachmann_2016.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7b9b599f-f7ef-4fb0-9b1c-d343027966e7" DMDID="DMD_7b9b599f-f7ef-4fb0-9b1c-d343027966e7">
+            <mets:fptr FILEID="FILE_7b9b599f-f7ef-4fb0-9b1c-d343027966e7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5b6fccc0-f742-47c1-b850-194960e564dc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kooperationseffekte – dargestellt an aktuellen Beispielen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Held, Wilhelm</displayForm>
+                        <namePart type="given">Wilhelm</namePart>
+                        <namePart type="family">Held</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-09-09</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-02-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-02-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, Wismar, 09.09.2003</note>
+                    <subject lang="ger">
+                        <topic>Informationsmanagement</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79589456098</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5b6fccc0-f742-47c1-b850-194960e564dc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5b6fccc0-f742-47c1-b850-194960e564dc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5b6fccc0-f742-47c1-b850-194960e564dc/wismar0903vlrh.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5b6fccc0-f742-47c1-b850-194960e564dc" DMDID="DMD_5b6fccc0-f742-47c1-b850-194960e564dc">
+            <mets:fptr FILEID="FILE_5b6fccc0-f742-47c1-b850-194960e564dc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

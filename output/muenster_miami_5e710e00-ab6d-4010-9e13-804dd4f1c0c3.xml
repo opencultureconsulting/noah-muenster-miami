@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5e710e00-ab6d-4010-9e13-804dd4f1c0c3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rossica in Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109442318">
+                        <displayForm>Kratz, Gottfried</displayForm>
+                        <namePart type="given">Gottfried</namePart>
+                        <namePart type="family">Kratz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109442318">
+                        <displayForm>Kratc, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Kratc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-11-28</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-11-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Russische Spuren in Münster vom 18. bis 20. Jahrhundert. Geschichte der russlandbezogenen Bestände und des Fachreferats Slavistik in der ULB Münster.</abstract>
+                    <note type="citation/reference">ABDOS-Mitteilungen 27 (2007) 1, 1-13</note>
+                    <subject lang="ger">
+                        <topic>Russen</topic>
+                        <topic>Münster</topic>
+                        <topic>Geschichte (1780-2006)</topic>
+                        <topic>ULB</topic>
+                        <topic>Rossica</topic>
+                        <topic>Sammlung</topic>
+                    </subject>
+                    <classification authority="ddc">490</classification>
+                    <classification authority="ddc">020</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-36599560792</identifier>
+                    <identifier type="issn">1432-4857</identifier>
+                    <identifier type="sys">HT019453310</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5e710e00-ab6d-4010-9e13-804dd4f1c0c3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5e710e00-ab6d-4010-9e13-804dd4f1c0c3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5e710e00-ab6d-4010-9e13-804dd4f1c0c3/Rossica_MS_2007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5e710e00-ab6d-4010-9e13-804dd4f1c0c3" DMDID="DMD_5e710e00-ab6d-4010-9e13-804dd4f1c0c3">
+            <mets:fptr FILEID="FILE_5e710e00-ab6d-4010-9e13-804dd4f1c0c3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

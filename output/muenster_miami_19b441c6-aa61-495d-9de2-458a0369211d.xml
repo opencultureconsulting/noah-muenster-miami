@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_19b441c6-aa61-495d-9de2-458a0369211d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung zur Fatigue bei Multipler Sklerose</title>
+                        <subTitle>Eine polysomnographische Studie</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130409863">
+                        <displayForm>Rennefeld, Elke</displayForm>
+                        <namePart type="given">Elke</namePart>
+                        <namePart type="family">Rennefeld</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130361402">
+                        <displayForm>Ringelstein, Erich B.</displayForm>
+                        <namePart type="given">Erich B.</namePart>
+                        <namePart type="family">Ringelstein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-06-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Aus einer Gruppe von 260 Multiple Sklerose-Patienten wurden 12 Patienten mit stark ausgeprägter Fatigue (MS-F) sowie 12 Patienten ohne Fatigue (MS-NF) zwei Nächte im Schlaflabor beobachtet, um Ursachen für Fatigue zu finden. Die MS-F-Gruppe wies ein vermindertes Auftreten der Schlafstadien 3 und 4 auf. Eine umgekehrte Relation ergab sich für das Schlafstadium 2. MS-F-Patienten wiesen signifikant mehr PLM-Sequenzen auf als MS-NF-Patienten. Die Gesamtdauer der PLM-Sequenzen war in der Gruppe der MS-F-Patienten erhöht. In der MS-F-Gruppe war der Anteil der PLM in den Schlafstadien 3, 4 und REM am Höchsten. Im Vergleich hierzu treten beim Restless Legs Syndrom PLM vorwiegend in den Stadien 1 und 2 auf. Bei MS-F-Patienten könnten Hemmechanismen gestört sein, die normalerweise für eine Unterdrückung der PLM in den tieferen Schlafstadien sorgen. Ein Teil der Fatigue könnte durch einen Mangel an Tiefschlaf und gehäuftes Auftreten von PLM in den Stadien 3, 4 und REM hervorgerufen werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Fatigue</topic>
+                        <topic>Periodic leg movements</topic>
+                        <topic>Multiple Sklerose</topic>
+                        <topic>Polysomnographie</topic>
+                        <topic>Schlafstörung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15629670136</identifier>
+                    <identifier type="sys">HT014518516</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_19b441c6-aa61-495d-9de2-458a0369211d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_19b441c6-aa61-495d-9de2-458a0369211d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/19b441c6-aa61-495d-9de2-458a0369211d/diss_rennefeld.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_19b441c6-aa61-495d-9de2-458a0369211d" DMDID="DMD_19b441c6-aa61-495d-9de2-458a0369211d">
+            <mets:fptr FILEID="FILE_19b441c6-aa61-495d-9de2-458a0369211d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3e7395b7-8c67-406d-8667-746f13a9eac0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Asymptotic methods in ultrasound tomography</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130929735">
+                        <displayForm>Klyubina, Olga V.</displayForm>
+                        <namePart type="given">Olga V.</namePart>
+                        <namePart type="family">Klyubina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130929735">
+                        <displayForm>Klioubina, Olga V.</displayForm>
+                        <namePart type="given">Olga V.</namePart>
+                        <namePart type="family">Klioubina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106346245">
+                        <displayForm>Natterer, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Natterer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106346245">
+                        <displayForm>Natterer, F.</displayForm>
+                        <namePart type="given">F.</namePart>
+                        <namePart type="family">Natterer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-01-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-11-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der Arbeit wird ein numerisches Verfahren zur Rekonstruktion des Brechungsindexes eines beschränkten Objekten in der Ultraschalltomographie untersucht und implementiert. Das Verfahren ist auf eine Approximation der Lösung des direkten Problems, beschrieben durch Helmholtzgleichung mit Ausstrahlungsbedinungen, basiert. Da Ultraschallwellen hochfrequent sind, kann die Lösung des direkten Problems mit Hilfe geometrischer Optik beschreiben werden, genauer gesagt, die Lösung kann durch Eikonalapproximation angenähert werden. Aus der Eikonalapproximation wird eine Approximation für die Radon-Transformation des Brechungsindexes hergeleitet. Wichtige Frage ist: Wie genau ist die Approximation? Um diese Frage zu beantworten, braucht man Abschätzungen für die Lösung des direkten Problems. In der Arbeit wurde die Lösung in Abhändigkeit von der Wellenzahl und einer Störung des Brechungsindexes untersucht und die Abschätzungen abgeleitet. Anschließend wurde das Verfahren numerisch getestet.</abstract>
+                    <subject lang="ger">
+                        <topic>Inverse scattering problem</topic>
+                        <topic>ultrasound tomography</topic>
+                        <topic>Helmholtz equation</topic>
+                        <topic>geometrical optics approximation</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53679570612</identifier>
+                    <identifier type="sys">HT014660783</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3e7395b7-8c67-406d-8667-746f13a9eac0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3e7395b7-8c67-406d-8667-746f13a9eac0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3e7395b7-8c67-406d-8667-746f13a9eac0/diss_klyubina.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3e7395b7-8c67-406d-8667-746f13a9eac0" DMDID="DMD_3e7395b7-8c67-406d-8667-746f13a9eac0">
+            <mets:fptr FILEID="FILE_3e7395b7-8c67-406d-8667-746f13a9eac0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

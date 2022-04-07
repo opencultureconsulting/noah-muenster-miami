@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_416e3d88-27bc-49ce-bfac-6586ee243720">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Springbrunnen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidt, Günter</displayForm>
+                        <namePart type="given">Günter</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-08-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Am Beispiel eines Springbrunnens werden Parabeln und Parabelscharen ermittelt, die bestimmte reale Bedingungen erfüllen sollen.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, für unterrichtliche Zwecke freigegeben</note>
+                    <subject lang="ger">
+                        <topic>schiefer Wurf</topic>
+                        <topic>Parabeln</topic>
+                        <topic>Parameterdarstellung von Funktionen</topic>
+                        <topic>Extremwertbestimmung</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>Mathematik</topic>
+                        <topic>Didaktik</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45649540358</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_416e3d88-27bc-49ce-bfac-6586ee243720</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_416e3d88-27bc-49ce-bfac-6586ee243720_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/416e3d88-27bc-49ce-bfac-6586ee243720/Guenter_Schmidt_Springbrunnen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_416e3d88-27bc-49ce-bfac-6586ee243720" DMDID="DMD_416e3d88-27bc-49ce-bfac-6586ee243720">
+            <mets:fptr FILEID="FILE_416e3d88-27bc-49ce-bfac-6586ee243720_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

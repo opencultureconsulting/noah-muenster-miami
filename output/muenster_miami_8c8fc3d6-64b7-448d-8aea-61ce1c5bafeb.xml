@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8c8fc3d6-64b7-448d-8aea-61ce1c5bafeb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Charakterisierung optimierter Entladungszylinder für die ICP-Spektrometrie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12488847X">
+                        <displayForm>Klostermeier, Andre</displayForm>
+                        <namePart type="given">Andre</namePart>
+                        <namePart type="family">Klostermeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138580502">
+                        <displayForm>Cammann, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Cammann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-07-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-06-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen der Arbeit konnten verschiedene Entladungszylinder mit reduziertem Argonbedarf für die induktive optische Emissionsspektroskopie entwickelt und getestet werden. Die Reduktion des Gasstromes erfolgte bis zum statischen Betrieb, der eine stark erhöhte Anregungstemperatur von 12800 K (Ar) aufwies. Des weiteren gelang die Realisierung eines miniaturisierten Ultraschallzerstäubers, ebenso wie die Entwicklung verschiedener externer Kühlsysteme, welche Pressluft als Medium verwendeten. Das neu entwickelte atomspektrometrische Messsystem benötigte im Gegensatz zu einem konventionellen ICP lediglich 600 mL/min an Argon, wobei mit Probeneintrag durch einen Ultraschallzerstäuber ähnliche Nachweisgrenzen erzielt werden konnten. Es wurde eine weitgehende Charakterisierung dieses Messsystems anhand eines gewichteten Faktorenplans mit dem Optimierungskriterium der Nachweisgrenze vorgenommen. Ergänzend fand eine Ermittlung der Anregungstemperatur (Ar) und der Rotationstemperatur statt.</abstract>
+                    <subject lang="ger">
+                        <topic>Emissionsspektroskopie</topic>
+                        <topic>Plasma</topic>
+                        <topic>stotisches ICP</topic>
+                        <topic>Ultraschallzerstäuber</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659543839</identifier>
+                    <identifier type="sys">HT013811136</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8c8fc3d6-64b7-448d-8aea-61ce1c5bafeb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8c8fc3d6-64b7-448d-8aea-61ce1c5bafeb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8c8fc3d6-64b7-448d-8aea-61ce1c5bafeb/Dissertation_Klostermeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8c8fc3d6-64b7-448d-8aea-61ce1c5bafeb" DMDID="DMD_8c8fc3d6-64b7-448d-8aea-61ce1c5bafeb">
+            <mets:fptr FILEID="FILE_8c8fc3d6-64b7-448d-8aea-61ce1c5bafeb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

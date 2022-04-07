@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_096b85e4-89fe-40d5-88a8-0aa1099931d6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einfluss der Überexpression von CREMalpha auf die T-Zellphysiologie in vitro und in vivo</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1011433923">
+                        <displayForm>Lippe, Ralph Martin</displayForm>
+                        <namePart type="given">Ralph Martin</namePart>
+                        <namePart type="family">Lippe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Roth, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Roth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-05-02</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-03-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Interleukin 17 produzierende T-Zellen repräsentieren einen eigenen T-Zell Subtyp, der sowohl bei der antimikrobiellen Abwehr als auch bei Autoimmunerkrankungen wie dem systemische Lupus Erythematodes (SLE)beteiligt ist. SLE T-Zellen können gekennzeichnet sein durch eine verminderte Produktion von IL-2, während die Expression von IL-17 und IL-21 erhöht ist. Der cAMP response element modulator alpha (CREMalpha) stellt eine mögliche Verbindung zwischen dieser gegensätzlichen Interleukinproduktion dar. Um den Einfluss von CREMalpha auf die T-Zell-Physiologie in vivo zu untersuchen, wurde im Rahmen dieser Doktorarbeit eine transgene Maus generiert, die CREMalpha spezifisch in T-Zellen überexpremiert. Die transgenen T-Zellen sind gekennzeichnet durch eine verminderte CD3 zeta Ketten-Expression, ein verstärktes Kalziumsignal, eine verminderte IL-2-Expression und eine gesteigerte Produktion von IL-17 und CREMalpha und entsprechen so in weiten Teilen der Pathophysiologie von SLE T-Zellen.</abstract>
+                    <subject lang="ger">
+                        <topic>CREM</topic>
+                        <topic>IL-17</topic>
+                        <topic>systemische Lupus Erythematodes</topic>
+                        <topic>IL-2</topic>
+                        <topic>T-Zellphysiologie</topic>
+                        <topic>Autoimmunerkrankung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94439478380</identifier>
+                    <identifier type="sys">HT016800614</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_096b85e4-89fe-40d5-88a8-0aa1099931d6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_096b85e4-89fe-40d5-88a8-0aa1099931d6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/096b85e4-89fe-40d5-88a8-0aa1099931d6/diss_lippe_ralph.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_096b85e4-89fe-40d5-88a8-0aa1099931d6" DMDID="DMD_096b85e4-89fe-40d5-88a8-0aa1099931d6">
+            <mets:fptr FILEID="FILE_096b85e4-89fe-40d5-88a8-0aa1099931d6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

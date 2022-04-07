@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_98f2b9fa-b1d1-47b1-9a7f-dff36efaeb45">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Deskriptive Auswertung der Greifswalder Befragung zum Thema Kriminalitätsfurcht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Köhn, Anne</displayForm>
+                        <namePart type="given">Anne</namePart>
+                        <namePart type="family">Köhn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120727625">
+                        <displayForm>Bornewasser, Manfred</displayForm>
+                        <namePart type="given">Manfred</namePart>
+                        <namePart type="family">Bornewasser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-02</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-04-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-05-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>KoSiPol</topic>
+                    </subject>
+                    <classification authority="ddc">320</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Kooperative Sicherheitspolitik in der Stadt</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Kooperative Sicherheitspolitik in der Stadt</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-06239513432</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_98f2b9fa-b1d1-47b1-9a7f-dff36efaeb45</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_98f2b9fa-b1d1-47b1-9a7f-dff36efaeb45_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/98f2b9fa-b1d1-47b1-9a7f-dff36efaeb45/wp4_Koehn2011.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_98f2b9fa-b1d1-47b1-9a7f-dff36efaeb45" DMDID="DMD_98f2b9fa-b1d1-47b1-9a7f-dff36efaeb45">
+            <mets:fptr FILEID="FILE_98f2b9fa-b1d1-47b1-9a7f-dff36efaeb45_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

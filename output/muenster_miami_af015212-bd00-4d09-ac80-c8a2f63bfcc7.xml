@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_af015212-bd00-4d09-ac80-c8a2f63bfcc7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>IKM-Services in Verbindung mit cHL</title>
+                        <subTitle>ULB, ZIV und UniV</subTitle>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-06-23</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-02-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-02-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, Münster, 23.06.2005</note>
+                    <subject lang="ger">
+                        <topic>Informationsmanagement</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79589477652</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_af015212-bd00-4d09-ac80-c8a2f63bfcc7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_af015212-bd00-4d09-ac80-c8a2f63bfcc7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/af015212-bd00-4d09-ac80-c8a2f63bfcc7/ikmnachchlsitzung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_af015212-bd00-4d09-ac80-c8a2f63bfcc7" DMDID="DMD_af015212-bd00-4d09-ac80-c8a2f63bfcc7">
+            <mets:fptr FILEID="FILE_af015212-bd00-4d09-ac80-c8a2f63bfcc7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

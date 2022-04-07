@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_af27948c-f757-4c14-a80d-d27c8ba42afa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Auswandererberatungsstelle in Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118558072">
+                        <displayForm>Johannsen, Hans Peter</displayForm>
+                        <namePart type="given">Hans Peter</namePart>
+                        <namePart type="family">Johannsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118558072">
+                        <displayForm>Johannsen, Hans P.</displayForm>
+                        <namePart type="given">Hans P.</namePart>
+                        <namePart type="family">Johannsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schäfers, Norbert</displayForm>
+                        <namePart type="given">Norbert</namePart>
+                        <namePart type="family">Schäfers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-12-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit untersucht die Geschichte der Auswandererberatungsstelle in Münster von ihrer Gründung 1929 bis zu ihrer Schließung 1938. Einen besonderen Schwerpunkt legen die Autoren hierbei auf die Arbeitsweise der Beratungsstelle: Wer wurde hier beraten und wie und mit welchen Zielen liefen diese Beratungen ab? Nicht zuletzt fragt die Arbeit danach, ob jüdische Auswanderer von der Beratungsstelle als Sonderfälle behandelt wurden und wenn ja, ab wann.</abstract>
+                    <subject lang="ger">
+                        <topic>Auswandererberatungsstelle</topic>
+                        <topic>Münster</topic>
+                        <topic>Geschichte 1929-1938</topic>
+                        <topic>Juden</topic>
+                        <topic>Emigration</topic>
+                        <topic>Auswanderung</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Fremde Heimat – Westfalen 1900–2010</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Fremde Heimat – Westfalen 1900–2010</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74379554511</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_af27948c-f757-4c14-a80d-d27c8ba42afa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_af27948c-f757-4c14-a80d-d27c8ba42afa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/af27948c-f757-4c14-a80d-d27c8ba42afa/fremde_heimat_westfalen_02_auswandererberatungsstelle.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_af27948c-f757-4c14-a80d-d27c8ba42afa" DMDID="DMD_af27948c-f757-4c14-a80d-d27c8ba42afa">
+            <mets:fptr FILEID="FILE_af27948c-f757-4c14-a80d-d27c8ba42afa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

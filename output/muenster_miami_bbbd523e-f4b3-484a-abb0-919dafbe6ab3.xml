@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bbbd523e-f4b3-484a-abb0-919dafbe6ab3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fachkonzeption von Führungsinformationssystemen</title>
+                        <subTitle>Instanziierung eines FIS-Metamodells am Beispiel eines Einzelhandelsunternehmens</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173294561">
+                        <displayForm>Knackstedt, Ralf</displayForm>
+                        <namePart type="given">Ralf</namePart>
+                        <namePart type="family">Knackstedt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-05</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-19</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei der derzeitigen Diskussion von OLAP und Data Warehouse wird die technische Umsetzung von Führungsinformationssystemen (FIS) in den Mittelpunkt gestellt. Dennoch bleibt der Inhalt, den entsprechende Softwaresysteme transportieren sollen, die entscheidende Qualitätsdeterminante. Deshalb wird hier gezeigt, wie für ein Handelsunternehmen die inhaltliche Komponente seines FIS modelliert wurde. Kapitel 1 erläutert die Motivation des Unternehmens zur Umgestaltung seines FIS. Kapitel 2 führt grundlegende Begriffe zur Beschreibung des Inhalts von FIS ein. In Kapitel 3 wird gezeigt, wie auf Basis dieses Metamodells und im Rahmen eines Ordnungsrahmens ein adressatengerechtes und unternehmensweit konsistentes Fachkonzept für FIS entwickelt werden kann. Das abschließende vierte Kapitel gibt einen Ausblick auf Fragen der technischen Umsetzung des Modells.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-63569422893</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bbbd523e-f4b3-484a-abb0-919dafbe6ab3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bbbd523e-f4b3-484a-abb0-919dafbe6ab3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bbbd523e-f4b3-484a-abb0-919dafbe6ab3/068_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bbbd523e-f4b3-484a-abb0-919dafbe6ab3" DMDID="DMD_bbbd523e-f4b3-484a-abb0-919dafbe6ab3">
+            <mets:fptr FILEID="FILE_bbbd523e-f4b3-484a-abb0-919dafbe6ab3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

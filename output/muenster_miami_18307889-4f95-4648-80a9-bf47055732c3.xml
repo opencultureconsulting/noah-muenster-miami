@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_18307889-4f95-4648-80a9-bf47055732c3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Expression, Funktionalität und Modulation von Toll-like-Rezeptoren in Keratinozyten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142787566">
+                        <displayForm>Pohlgeers, Maria Elisabeth</displayForm>
+                        <namePart type="given">Maria Elisabeth</namePart>
+                        <namePart type="family">Pohlgeers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173072003">
+                        <displayForm>Schiller, Hans Meinhard</displayForm>
+                        <namePart type="given">Hans Meinhard</namePart>
+                        <namePart type="family">Schiller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-10-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-10-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel der Arbeit war, die Expression und Funktionalität von TLRs auf Keratinozyten anhand der Zelllinien PAM 212 und HaCaT zu bestimmen sowie die Interaktion mit dem immunmodulierenden POMC-System der Haut zu untersuchen. Mittels RT-PCR konnte die Expression der TLRs 1, 2, 4 und 6 in den PAM 212 Zellen nachgewiesen werden. Da nach rezeptorspezifischer Stimulation (Pam3Cys, Poly (I:C), LPS, Flagellin) eine vermehrte Zytokinexpression (IL-6, IL-8, CXCL-2) in der real-time PCR sowie eine verstärkte Phosphorylierung der MAP-Kinasen ERK 1/2 und p38 im Western Blot nachgewiesen werden konnte, war die Funktionalität der Rezeptoren in beiden Zelllinien anzunehmen. Jedoch konnte eine mittels Immunfluoreszenz detektierte Aktivierung des Transkriptionsfaktors Nf-kB nur nach Stimulation mit Flagellin in den HaCaTs gezeigt werden. Weitere Versuche deuten darauf hin, dass das POMC-System über eine Erhöhung der cAMP Konzentration die TLR-vermittelte Entzündungsreaktion in beiden Zelllinien beeinflusst.</abstract>
+                    <subject lang="ger">
+                        <topic>Toll-like Rezeptor</topic>
+                        <topic>Keratinozyten</topic>
+                        <topic>Zytokine</topic>
+                        <topic>p38</topic>
+                        <topic>ERK 1/2</topic>
+                        <topic>Nf-kB</topic>
+                        <topic>POMC-System</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-46439587291</identifier>
+                    <identifier type="sys">HT016583124</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_18307889-4f95-4648-80a9-bf47055732c3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_18307889-4f95-4648-80a9-bf47055732c3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/18307889-4f95-4648-80a9-bf47055732c3/diss_pohlgeers.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_18307889-4f95-4648-80a9-bf47055732c3" DMDID="DMD_18307889-4f95-4648-80a9-bf47055732c3">
+            <mets:fptr FILEID="FILE_18307889-4f95-4648-80a9-bf47055732c3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

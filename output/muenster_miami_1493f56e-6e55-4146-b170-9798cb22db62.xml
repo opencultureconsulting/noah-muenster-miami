@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1493f56e-6e55-4146-b170-9798cb22db62">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>&quot;4-Digit Diagnostic Code&quot; in der praktischen Anwendung</title>
+                        <subTitle>vergleichende Studie an 109 Patienten einer Ambulanz für fetales Alkoholsyndrom</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1046662627">
+                        <displayForm>Hartmann, Corinna</displayForm>
+                        <namePart type="given">Corinna</namePart>
+                        <namePart type="family">Hartmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1046662627">
+                        <displayForm>Hartmann, Corinna Christina Anna</displayForm>
+                        <namePart type="given">Corinna Christina Anna</namePart>
+                        <namePart type="family">Hartmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121419681">
+                        <displayForm>Weglage, Josef</displayForm>
+                        <namePart type="given">Josef</namePart>
+                        <namePart type="family">Weglage</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014-01-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2014-01-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel dieser Studie an 109 Patienten war es, die Methode des 4-Digit Diagnostic Code (4DC) im Alltag einer FAS-Ambulanz zu evaluieren. Die Diagnose laut 4DC wurde mit der durch die herkömmliche klinische Diagnostik erbrachten Diagnose und mit der erreichten Punktzahl im Fetal Alcohol Syndrome Questionnaire (FASQ) verglichen. Ein steigender Schweregrad der Diagnose laut 4DC ging nicht mit einer steigenden Punktzahl im FASQ einher. Die Verhaltensauffälligkeiten, welche mittels FASQ erhoben werden, korrelieren nicht mit einem Wachstumsdefizit oder FAS-typischen Gesichtsmerkmalen. Lediglich bezüglich der ZNS-Schädigung ließ sich zwischen den verschiedenen 4DC-Schweregraden ein signifikanter Unterschied in der FASQ-Punktzahl feststellen. Die erhobenen Testgütekriterien des 4DC zeigten zwar eine recht hohe Spezifität von 90,9 %, jedoch eine eindeutig zu geringe Sensitivität von 11,6 % (manuelle Messung der Gesichtsmerkmale) bzw. von 19,5 % (Fotoanalyse der Gesichtsmerkmale).</abstract>
+                    <subject lang="ger">
+                        <topic>4-Digit Diagnostic Code</topic>
+                        <topic>Astley</topic>
+                        <topic>Fetales Alkoholsyndrom</topic>
+                        <topic>FAS</topic>
+                        <topic>Diagnostik</topic>
+                        <topic>Diagnose</topic>
+                        <topic>FASQ</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24349391604</identifier>
+                    <identifier type="sys">HT018142107</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1493f56e-6e55-4146-b170-9798cb22db62</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1493f56e-6e55-4146-b170-9798cb22db62_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1493f56e-6e55-4146-b170-9798cb22db62/diss_hartmann_corinna.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1493f56e-6e55-4146-b170-9798cb22db62" DMDID="DMD_1493f56e-6e55-4146-b170-9798cb22db62">
+            <mets:fptr FILEID="FILE_1493f56e-6e55-4146-b170-9798cb22db62_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

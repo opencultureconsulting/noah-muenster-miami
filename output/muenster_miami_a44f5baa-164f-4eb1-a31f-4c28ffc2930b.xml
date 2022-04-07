@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a44f5baa-164f-4eb1-a31f-4c28ffc2930b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Service level agreements in spatial data infrastructures</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1045061417">
+                        <displayForm>Baranski, Bastian</displayForm>
+                        <namePart type="given">Bastian</namePart>
+                        <namePart type="family">Baranski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136857736">
+                        <displayForm>Pebesma, Edzer J.</displayForm>
+                        <namePart type="given">Edzer J.</namePart>
+                        <namePart type="family">Pebesma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2013-12-05</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-06-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Arbeit entwickelt ein Konzept für die Integration von Service Level Agreements (SLAs) in Geodateninfrastrukturen (GDIs). Der ausgewählten mehrstufigen Ansatz beinhaltet die Entwicklung eines abstrakten SLA-Modells und einer web-basierten SLA-Management-Architektur. Das Ziel des abstrakten SLA-Modells ist die konzeptionelle Beschreibung der Struktur und des Inhaltes von SLAs speziell für die ausgewählten Anwendungsbereiche. Der Zweck der web-basierten SLA-Management-Architektur ist es, die (Online-) Aushandlung von SLAs in bereits existierenden GDIs zu ermöglichen, ohne dass eine vorherige (Offline-) Kommunikation zwischen Dienstanbieter und Dienstnutzer vonnöten ist. Der gewählte Policy-basierte Ansatz deckt nicht nur die Aushandlung von SLAs und die eigentliche Dienstnutzung ab, es wird der vollständige Lebenszyklus von SLAs unterstützt. Dazu gehört sowohl die permanente Überwachung der angebotenen Dienste als auch die permanente Evaluierung aller aktiven SLAs.</abstract>
+                    <abstract lang="eng">This thesis develops a concept for the integration of Service Level Agreements (SLAs) in Spatial Data Infrastructure (SDIs). The selected multi-step approach involves the development of an abstract SLA model and a web-based SLA management architecture. The aim of the abstract SLA model is to describe the domain-specific structure and content of SLAs that can be applied in SDIs from a conceptual point of view. The purpose of the web-based SLA management architecture is to enable the on-demand and online negotiation of SLAs in established SDIs without the need of prior offline communication between service providers and service consumers. The selected policy-based approach covers not only agreement negotiation and service consumption, but also the complete agreement life cycle including service monitoring and agreement evaluation.</abstract>
+                    <subject lang="eng">
+                        <topic>Spatial Data Infrastructure</topic>
+                        <topic>Service Level Management</topic>
+                        <topic>Service Level Agreement</topic>
+                        <topic>Quality of Service</topic>
+                        <topic>Cloud Computing</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14399447590</identifier>
+                    <identifier type="sys">HT018099607</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a44f5baa-164f-4eb1-a31f-4c28ffc2930b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a44f5baa-164f-4eb1-a31f-4c28ffc2930b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a44f5baa-164f-4eb1-a31f-4c28ffc2930b/diss_baranski.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a44f5baa-164f-4eb1-a31f-4c28ffc2930b" DMDID="DMD_a44f5baa-164f-4eb1-a31f-4c28ffc2930b">
+            <mets:fptr FILEID="FILE_a44f5baa-164f-4eb1-a31f-4c28ffc2930b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

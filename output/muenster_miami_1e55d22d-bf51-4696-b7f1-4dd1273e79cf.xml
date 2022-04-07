@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1e55d22d-bf51-4696-b7f1-4dd1273e79cf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Automated and Feature-Based Problem Characterization and Algorithm Selection Through Machine Learning</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1149935359">
+                        <displayForm>Kerschke, Pascal</displayForm>
+                        <namePart type="given">Pascal</namePart>
+                        <namePart type="family">Kerschke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-02-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Heutzutage sind zahlreiche Abläufe strukturiert, wodurch sich diese zunächst modellieren und anschliessend sogar optimieren lassen. Selbst Probleme, die nicht durch ein mathematisches Modell repräsentiert werden können (sogenannte &quot;Black-Box Probleme&quot;) können optimiert werden. Leider treffen Menschen hierbei tendenziell schlechte Entscheidungen, da diese oftmals auf Versuchs-und-Irrtums-Experimenten oder schlichtweg auf dem &quot;Bauchgefuehl&quot; der Entscheider beruhen. Sinnvoller wäre es jedoch stattdessen Optimierungsalgorithmen zu verwenden. Allerdings gibt es hiervon sehr viele, sodass sich die Frage stellt, welcher Algorithmus am besten für die Optimierung des vorliegenden Problems geeignet ist. Im Rahmen dieser kumulativen Dissertation werden einerseits automatisch berechenbare Kennzahlen zur Charakterisierung der globalen Struktur kontinuierlicher Optimierungsprobleme, und andererseits experimentelle Studien, die die Vorzüge automatisierter, sowie feature-basierter Algorithmenselektion aufzeigen, vorgestellt.</abstract>
+                    <abstract lang="eng">Nowadays, numerous real-world workflows become more and more formalized and structured. One of the advantages of such formal processes is their accessibility for optimization. Even problems without an exact mathematical representation, i.e., so-called black-box problems, can be optimized. Unfortunately, people tend to make rather poor decisions when optimizing problems: most of the decisions are either based on numerous trial-and-error experiments or on &quot;gut-decisions&quot;. Instead of these manual approaches, one could make use of computational power and execute an optimization algorithm. However, the plethora of optimizers leaves the user with the task of making a sophisticated guess on which of the available algorithms is best for the application at hand. Within this cumulative dissertation, a set of automatically computable features, which extracts information on the global structure of continuous optimization problems, as well as experimental studies, showing the benefits of automated and feature-based algorithm selection, are presented.</abstract>
+                    <note type="citation/reference">Teilw. zugl.: Münster (Westfalen), Univ., kum. Diss., 2017</note>
+                    <note>Vollständige Druckausgabe der kumulativen Dissertation: Kerschke, Pascal: Automated and feature-based problem characterization and algorithm selection through machine learning. (kumulative Dissertation, Westfälische Wilhelms-Universität Münster, 2017) Münster, 2017, S. iii, 227 Seiten</note>
+                    <subject lang="ger">
+                        <topic>Algorithm Selection</topic>
+                        <topic>Black-Box Optimierung</topic>
+                        <topic>Exploratory Landscape Analysis</topic>
+                        <topic>Maschinelles Lernen</topic>
+                        <topic>einkriterielle Optimierung</topic>
+                        <topic>Travelling Salesperson Problem</topic>
+                        <topic>Funnel Detection</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Algorithm Selection</topic>
+                        <topic>Black-Box Optimization</topic>
+                        <topic>Exploratory Landscape Analysis</topic>
+                        <topic>Machine Learning</topic>
+                        <topic>Single-Objective Optimization</topic>
+                        <topic>Travelling Salesperson Problem</topic>
+                        <topic>Funnel Detection</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">500</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39169612241</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1e55d22d-bf51-4696-b7f1-4dd1273e79cf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1e55d22d-bf51-4696-b7f1-4dd1273e79cf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1e55d22d-bf51-4696-b7f1-4dd1273e79cf/kerschke_2017.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1e55d22d-bf51-4696-b7f1-4dd1273e79cf" DMDID="DMD_1e55d22d-bf51-4696-b7f1-4dd1273e79cf">
+            <mets:fptr FILEID="FILE_1e55d22d-bf51-4696-b7f1-4dd1273e79cf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

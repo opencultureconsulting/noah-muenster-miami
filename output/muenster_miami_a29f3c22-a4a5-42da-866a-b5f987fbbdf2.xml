@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a29f3c22-a4a5-42da-866a-b5f987fbbdf2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Seminar zur Didaktik der Informatik im Landhaus Rothenberge</title>
+                        <subTitle>studentische Arbeiten des Sommersemesters 2007</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1109072783">
+                        <displayForm>Thomas, Marco</displayForm>
+                        <namePart type="given">Marco</namePart>
+                        <namePart type="family">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-05-27</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-05-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dokumentation von Semesterarbeiten in der Didaktik der Informatik</abstract>
+                    <note type="ownership">Copyright bei den Autoren</note>
+                    <subject lang="ger">
+                        <topic>Werkzeugauswahl</topic>
+                        <topic>Algorithmik</topic>
+                        <topic>Automatentheorie</topic>
+                        <topic>Codierung</topic>
+                        <topic>Chiffrierung</topic>
+                        <topic>Datenbanken</topic>
+                        <topic>Softwareentwicklung</topic>
+                        <topic>Ethik</topic>
+                        <topic>künstliche Intelligenz</topic>
+                        <topic>Simulation</topic>
+                        <topic>Bildverarbeitung</topic>
+                        <topic>Vorratsdatenspeicherung</topic>
+                        <topic>Bundestrojaner</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15519344779</identifier>
+                    <identifier type="isbn">978-3-934064-91-1</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a29f3c22-a4a5-42da-866a-b5f987fbbdf2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a29f3c22-a4a5-42da-866a-b5f987fbbdf2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a29f3c22-a4a5-42da-866a-b5f987fbbdf2/seminarbandDDI2007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a29f3c22-a4a5-42da-866a-b5f987fbbdf2" DMDID="DMD_a29f3c22-a4a5-42da-866a-b5f987fbbdf2">
+            <mets:fptr FILEID="FILE_a29f3c22-a4a5-42da-866a-b5f987fbbdf2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

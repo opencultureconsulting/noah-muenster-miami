@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_260d9ee7-515e-49fe-b099-ebc3f180cc62">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Burg und bischöfliche Herrschaft im Stift Minden</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/184495474">
+                        <displayForm>Kuck, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Kuck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/184495474">
+                        <displayForm>Kuck, Matthias Christian</displayForm>
+                        <namePart type="given">Matthias Christian</namePart>
+                        <namePart type="family">Kuck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12360432X">
+                        <displayForm>Johanek, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Johanek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-01-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2001-02-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die 2000 an der WWU Münster eingereichte Dissertation „Burg und bischöfliche Herrschaft im Stift Minden“ behandelt in ihrem ersten Teil die theoretische Seite von Herrschaft in und um Mindener Burgen. Im zweiten Teil treten die Burgen des Stifts in Form einer chronologischen Burgengeschichte in den Vordergrund. Diese zeichnet das Erkenntnisobjekt in Entwicklung wie funktioneller Veränderung nach und orientiert sich an den einzelnen Persönlichkeiten der geistlichen Herrscher. Der Untersuchungszeitraum beginnt mit dem Nachweis der ersten Burgen und endet mit dem Tod Administrator Franz I. von Braunschweig und Wolfenbüttel im Jahr 1529, kurz vor Einführung der Reformation im Stift Minden. In einem dritten Schritt werden die Mindener Burgen während dieses Wandels prototypisch untersucht. Sichtbar wird ein aktives Moment, das wirtschaftliche, rechtliche und soziale Implikationen verdeutlicht sowie die theoretische Vorbetrachtung und quellenkundliche Deutung um wichtige Erkenntnisse ergänzt.</abstract>
+                    <subject lang="ger">
+                        <topic>Burg</topic>
+                        <topic>Herrschaft</topic>
+                        <topic>Stift Minden</topic>
+                        <topic>Mittelalter</topic>
+                        <topic>geistliche Herrscher</topic>
+                        <topic>Landesgeschichte</topic>
+                        <topic>Westfalen</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-51469547185</identifier>
+                    <identifier type="sys">HT017120055</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_260d9ee7-515e-49fe-b099-ebc3f180cc62</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_260d9ee7-515e-49fe-b099-ebc3f180cc62_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/260d9ee7-515e-49fe-b099-ebc3f180cc62/diss_kuck.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_260d9ee7-515e-49fe-b099-ebc3f180cc62" DMDID="DMD_260d9ee7-515e-49fe-b099-ebc3f180cc62">
+            <mets:fptr FILEID="FILE_260d9ee7-515e-49fe-b099-ebc3f180cc62_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

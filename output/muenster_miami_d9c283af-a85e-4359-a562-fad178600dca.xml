@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d9c283af-a85e-4359-a562-fad178600dca">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Durchflusszytometrische Zählungen von CD3-, CD4- und CD8-positiven Lymphozyten nach einer Aufbereitung ohne Erythrozytenlyse</title>
+                        <subTitle>Vergleich der Ergebnisse eines mobilen und Standard-Labors</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132195526">
+                        <displayForm>Lulic, Nicola</displayForm>
+                        <namePart type="given">Nicola</namePart>
+                        <namePart type="family">Lulic</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1036719502">
+                        <displayForm>Göhde, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Göhde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-09-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-09-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Bestimmung von Leukozytensubpopulationen nach den no-lyse Verfahren gewinnt an Bedeutung. Verglichen mit den Standardverfahren geht die Methode mit geringeren Zellverlusten einher, ist zeitsparender und kostengünstig. Das HIV-Problem mit der Zunahme an Neuinfektionen besonders in den Entwicklungsländern erfordert eine Möglichkeit zur Therapieüberwachung, die wirtschaftlich und in infrastrukturell unterentwickelten Regionen durchführbar ist. Es wurden die Leukozytensubpopulationen CD3 und CD8 erstmals ohne Erythrozytenlyse mit einem transportablen Durchflusszytometer (CyFlowCounter®) volumetrisch bestimmt. Im zweiten Schritt wurde ein mobiles Labor einem standardisierten Labor zur Quantifizierung dieser und der CD4-positiven Lymphozytensubpopulationen gegenübergestellt.Die Kombination eines mobilen Labors und die CD3-, CD4-, CD8- Zellzählung mit dem CyFlowCounter® stellen einen Lösungsansatz für eine flächendeckende und medizinisch verantwortliche HIV-Therapie dar.</abstract>
+                    <subject lang="ger">
+                        <topic>Durchflusszytometrie</topic>
+                        <topic>no-lyse Protokoll</topic>
+                        <topic>HIV</topic>
+                        <topic>CD3/CD4/CD8-Lymphozyten</topic>
+                        <topic>mobiles</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-41629444022</identifier>
+                    <identifier type="sys">HT014903605</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d9c283af-a85e-4359-a562-fad178600dca</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d9c283af-a85e-4359-a562-fad178600dca_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d9c283af-a85e-4359-a562-fad178600dca/diss_lulic.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d9c283af-a85e-4359-a562-fad178600dca" DMDID="DMD_d9c283af-a85e-4359-a562-fad178600dca">
+            <mets:fptr FILEID="FILE_d9c283af-a85e-4359-a562-fad178600dca_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

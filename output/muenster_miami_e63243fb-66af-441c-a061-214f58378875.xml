@@ -1,0 +1,93 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e63243fb-66af-441c-a061-214f58378875">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Software components for increased data reuse and reproducibility in phylogenetics and phylogenomics</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1173010610">
+                        <displayForm>Stöver, Ben</displayForm>
+                        <namePart type="given">Ben</namePart>
+                        <namePart type="family">Stöver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1173010610">
+                        <displayForm>Stöver, Ben Christoph</displayForm>
+                        <namePart type="given">Ben Christoph</namePart>
+                        <namePart type="family">Stöver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1173010610">
+                        <displayForm>Stöver, Ben C.</displayForm>
+                        <namePart type="given">Ben C.</namePart>
+                        <namePart type="family">Stöver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1082906182">
+                        <displayForm>Müller, Kai F.</displayForm>
+                        <namePart type="given">Kai F.</namePart>
+                        <namePart type="family">Müller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-12-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-11-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die in dieser Arbeit entwickelten Softwarekomponenten tragen zur Erhöhung der Wiederverwendbarkeit wissenschaftlicher Daten und der Reproduzierbarkeit der zugrundeliegenden Studien bei, indem sie eine eindeutige Annotation mit Metadaten (z.B. Verknüpfungen von Rohdaten oder Informationen über verwendete Methoden) ermöglichen und die übersichtliche Gegenüberstellung von Ergebnissen unterschiedlicher Methoden zum Multisequenzalignment und zur Phylogenierekonstruktion erlauben. Während die bioinformatischen Bibliotheken JPhyloIO und LibrAlign grundlegende Funktionalitäten in leicht wiederverwendbarer Form für Entwickler zur Verfügung stellen, bieten die darauf aufbauenden Anwendungen Lösungen für Endnutzer. Der Taxonomic Editor der EDIT Plattform deckt dabei taxonomische Daten ab, während PhyDE 2 und der AlignmentComporator entsprechende Funktionalität für Multisequenzalignments und ihre Metadaten anbieten. TreeGraph 2 bietet entsprechenden Funktionalität für phylogenetische Bäume und ist bereits weltweit in umfangreicher Verwendung. Alle entwickelten Komponenten sind unter http://bioinfweb.info/Software frei verfügbar.</abstract>
+                    <abstract lang="eng">The software components developed in this thesis contribute to an increased reusability of scientific data and to a greater reproducibility of underlying studies by allowing unambiguous annotation with metadata (e.g., links to raw data or information on applied methods) and clear comparison of results from alternative methods for multiple sequence alignment and phylogenetic inference. The bioinformatical libraries JPhyloIO and LibrAlign provide fundamental and easily reusable functionality for developers, while the applications based on them offer solutions for end users. The Taxonomic Editor of the EDIT platform covers taxonomic data, while PhyDE 2 and AlignmentComparator offer respective functionality for multiple sequence alignments and related metadata. TreeGraph 2 provides required functionality for phylogenetic trees and is currently in wide use worldwide. All developed software is freely available at http://bioinfweb.info/Software.</abstract>
+                    <subject lang="ger">
+                        <topic>Metadaten</topic>
+                        <topic>Merkmalsdaten</topic>
+                        <topic>Multisequenzalignments, phylogenetische Bäume</topic>
+                        <topic>bioinformatische Software</topic>
+                        <topic>eindeutige Annotation</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>metadata</topic>
+                        <topic>character data</topic>
+                        <topic>multiple sequence alignments, phylogenetic trees</topic>
+                        <topic>bioinformatical software</topic>
+                        <topic>unambiguous annotation</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-96159516963</identifier>
+                    <identifier type="sys">HT019902868</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e63243fb-66af-441c-a061-214f58378875</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e63243fb-66af-441c-a061-214f58378875_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e63243fb-66af-441c-a061-214f58378875/diss_st%C3%83%C2%B6ver.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e63243fb-66af-441c-a061-214f58378875" DMDID="DMD_e63243fb-66af-441c-a061-214f58378875">
+            <mets:fptr FILEID="FILE_e63243fb-66af-441c-a061-214f58378875_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d2b354f2-ea57-434d-95a0-bba11111ef77">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Eine liebenswürdige Künstlerfamilie&quot;: Die Familie Romberg zwischen Münsterscher Hofkapelle und internationaler Virtuosenkarriere</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fritz, Rebekka</displayForm>
+                        <namePart type="given">Rebekka</namePart>
+                        <namePart type="family">Fritz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/171501160">
+                        <displayForm>Kreuzer, Laura A.</displayForm>
+                        <namePart type="given">Laura A.</namePart>
+                        <namePart type="family">Kreuzer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134827635">
+                        <displayForm>Rosenberger, Burkard</displayForm>
+                        <namePart type="given">Burkard</namePart>
+                        <namePart type="family">Rosenberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2003-06-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-01-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine Ausstellung des Instituts für Musikwissenschaft und Musikpädagogik, Fach Musikwissenschaft und der Universitäts- und Landesbibliothek Münster, 7. Mai - 5. Juni 2003 im Lesesaal der Universitäts- und Landesbibliothek Münster, Krummer Timpen 3-5</abstract>
+                    <subject lang="ger">
+                        <topic>Münster</topic>
+                        <topic>Hofkapelle</topic>
+                        <topic>Romberg (Familie)</topic>
+                        <topic>Romberg</topic>
+                        <topic>Bernhard</topic>
+                        <topic>Romberg</topic>
+                        <topic>Andreas</topic>
+                        <topic>Geschichte 1650-1850</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659545614</identifier>
+                    <identifier type="sys">HT019449856</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d2b354f2-ea57-434d-95a0-bba11111ef77</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d2b354f2-ea57-434d-95a0-bba11111ef77_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d2b354f2-ea57-434d-95a0-bba11111ef77/romberg_katalog.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d2b354f2-ea57-434d-95a0-bba11111ef77" DMDID="DMD_d2b354f2-ea57-434d-95a0-bba11111ef77">
+            <mets:fptr FILEID="FILE_d2b354f2-ea57-434d-95a0-bba11111ef77_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

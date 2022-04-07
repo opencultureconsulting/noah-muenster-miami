@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_70f28b55-1000-4287-9bd7-0631a40a21c7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Du schreibst, ich trinke.“</title>
+                        <subTitle>der Goldene Hahn – Kunstobjekt, Symbol und Repräsentant der Stadt Münster</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341215">
+                        <displayForm>Breuker, Maike</displayForm>
+                        <namePart type="given">Maike</namePart>
+                        <namePart type="family">Breuker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143212435">
+                        <displayForm>Cawley, Julia</displayForm>
+                        <namePart type="given">Julia</namePart>
+                        <namePart type="family">Cawley</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143212435">
+                        <displayForm>Holtkötter, Julia</displayForm>
+                        <namePart type="given">Julia</namePart>
+                        <namePart type="family">Holtkötter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Preuß, Christine</displayForm>
+                        <namePart type="given">Christine</namePart>
+                        <namePart type="family">Preuß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-05-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Goldener Hahn</topic>
+                        <topic>Goldenes Buch</topic>
+                        <topic>Ehrenbecher</topic>
+                        <topic>Symbol</topic>
+                        <topic>Rituale</topic>
+                        <topic>Schülerarbeit</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>39</start>
+                                <end>42</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79269626555</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_70f28b55-1000-4287-9bd7-0631a40a21c7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_70f28b55-1000-4287-9bd7-0631a40a21c7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/70f28b55-1000-4287-9bd7-0631a40a21c7/idb_2001_suppl_1_39-42.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_70f28b55-1000-4287-9bd7-0631a40a21c7" DMDID="DMD_70f28b55-1000-4287-9bd7-0631a40a21c7">
+            <mets:fptr FILEID="FILE_70f28b55-1000-4287-9bd7-0631a40a21c7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

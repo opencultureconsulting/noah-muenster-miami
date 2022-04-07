@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4882c034-0925-432c-b743-edf299b5192b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the Gromov-Lawson-Rosenberg conjecture for finite abelian 2-groups of rank 2</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1031912061">
+                        <displayForm>Siegemeyer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Siegemeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137005032">
+                        <displayForm>Joachim, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2013-02-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-01-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Gromov-Lawson-Rosenberg-Vermutung wird für das Produkt zweier zyklischer Gruppen, deren Ordnung jeweils eine Potenz von 2 ist, untersucht. Hierbei wird die Adams-Spektralsequenz verwendet, die gegen die reelle konnektive K-Theorie konvergiert. Unterstützende Hilfsmittel bei der Betrachtung sind unter anderem die Bockstein-Spektralsequenz und die Eta-Invariante.</abstract>
+                    <subject lang="ger">
+                        <topic>Gromov-Lawson-Rosenberg-Vermutung</topic>
+                        <topic>Bockstein-Spektralsequenz</topic>
+                        <topic>Adams-Spektralsequenz</topic>
+                        <topic>Eta-Invariante</topic>
+                        <topic>Spin-Mannigfaltigkeit</topic>
+                        <topic>Skalarkrümmung</topic>
+                        <topic>ko-Homologie</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77379414522</identifier>
+                    <identifier type="sys">HT017566113</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4882c034-0925-432c-b743-edf299b5192b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4882c034-0925-432c-b743-edf299b5192b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4882c034-0925-432c-b743-edf299b5192b/diss_siegemeyer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4882c034-0925-432c-b743-edf299b5192b" DMDID="DMD_4882c034-0925-432c-b743-edf299b5192b">
+            <mets:fptr FILEID="FILE_4882c034-0925-432c-b743-edf299b5192b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

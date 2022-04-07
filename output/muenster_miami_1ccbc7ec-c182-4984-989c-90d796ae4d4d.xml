@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1ccbc7ec-c182-4984-989c-90d796ae4d4d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Entwicklung der Augenlinse bei Primaten und Auswirkungen auf den Elastizitätsverlust im alternden Auge</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136656579">
+                        <displayForm>Bolis, Georgios</displayForm>
+                        <namePart type="given">Georgios</namePart>
+                        <namePart type="family">Bolis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141858206">
+                        <displayForm>Thanos, Solon</displayForm>
+                        <namePart type="given">Solon</namePart>
+                        <namePart type="family">Thanos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-11-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-10-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Ziel dieser Studie war die histologische und immunihistochemische Analyse der Ent-wicklung der Affenlinse und im adulten Stadium der Vergleich mit der menschlichen Linse. Die Ergebnisse zeigen eine embryonale Expression von Linsenproteinen in den fötalen. Die gängigen Proteine der Extrazellulärmatrix konnten, wenn auch in etwas veränderter Intensität -, in allen Stadien gefunden werden. Weiter wurden überlebensassoziierte Faktoren (BCL-2 und GAP-43) im Linsenkapselepithel dokumentiert. Die Linsenstrukturproteine werden früh in der fötalen Affenlinse exprimiert Die Ergebnisse zeigen, dass das Proteinmuster in der Linse und in den benachbarten Augenkompartimenten früh in der Entwicklung angelegt wird. Die Beobachtungen stützen die Hypothese, dass mit zunehmendem Alter die Elastizität des Kapsel-Epithel-komplexes abnimmt. Dadurch entstehen sehr wahrscheinlich Mikrorisse in der Kapsel, die zur Eintrübung und Exfoliation von Proteinen (Katarakt und Glaukom) führen können.</abstract>
+                    <subject lang="ger">
+                        <topic>Linse</topic>
+                        <topic>Affe</topic>
+                        <topic>Entwicklung</topic>
+                        <topic>Immunhistochemie</topic>
+                        <topic>Altern</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03559558073</identifier>
+                    <identifier type="sys">HT015754376</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1ccbc7ec-c182-4984-989c-90d796ae4d4d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1ccbc7ec-c182-4984-989c-90d796ae4d4d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1ccbc7ec-c182-4984-989c-90d796ae4d4d/diss_bolis.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1ccbc7ec-c182-4984-989c-90d796ae4d4d" DMDID="DMD_1ccbc7ec-c182-4984-989c-90d796ae4d4d">
+            <mets:fptr FILEID="FILE_1ccbc7ec-c182-4984-989c-90d796ae4d4d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3b75eb6a-fac4-4415-bb68-04444018f8d7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Stabilität von Open-Loop-Kontrolle bei quasi-statischen und zyklischen Armbewegungen</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="alternative">
+                        <title>Die Stabilität von open-loop-Kontrolle bei quasi-statischen und zyklischen Armbewegungen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1078412812">
+                        <displayForm>Wulf, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Wulf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1164821091">
+                        <displayForm>Wagner, Heiko</displayForm>
+                        <namePart type="given">Heiko</namePart>
+                        <namePart type="family">Wagner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-11-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-09-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Selbststabilität ist die Eigenschaft eines Systems, zu einem vorgegebenen Systemzustand zurückzukehren, ohne auf Abweichungen von diesem Zustand aktiv reagieren zu müssen. Damit ermöglicht die Selbststabilität erst eine stabile open-loop-Kontrolle von Bewegungen. Die Selbststabilität des Ellbogengelenks wurde für quasi-statische und zyklische Armbewegungen anhand eines biomechanischen Modells untersucht. Laut Modellrechnung ist stabile open-loop-Kontrolle nur für bestimmte Winkelregime des Ellbogengelenks möglich. Um die Auswirkungen fehlender Selbststabilität auf die Kontrolle der Bewegungen zu untersuchen, wurde das Oberflächenelektromyogramm (sEMG) der Armmuskulatur bei quasi-statischen und zyklischen Armbewegungen untersucht. Mittels Driftschätzung konnte gezeigt werden, dass sich die Signalstruktur des sEMGs in den verschiedenen Winkelbereichen signifikant unterscheidet. Die Bewegungskontrolle scheint an die Selbststabilität des Ellbogengelenks angepasst zu sein.</abstract>
+                    <subject lang="ger">
+                        <topic>Stabilität</topic>
+                        <topic>Driftschätzung</topic>
+                        <topic>stochastische Prozesse</topic>
+                        <topic>Kontrolle</topic>
+                        <topic>EMG</topic>
+                        <topic>Zeitreihenanalyse</topic>
+                    </subject>
+                    <classification authority="ddc">612</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87289571555</identifier>
+                    <identifier type="sys">HT018800590</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3b75eb6a-fac4-4415-bb68-04444018f8d7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3b75eb6a-fac4-4415-bb68-04444018f8d7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3b75eb6a-fac4-4415-bb68-04444018f8d7/diss_wulf_thomas.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3b75eb6a-fac4-4415-bb68-04444018f8d7" DMDID="DMD_3b75eb6a-fac4-4415-bb68-04444018f8d7">
+            <mets:fptr FILEID="FILE_3b75eb6a-fac4-4415-bb68-04444018f8d7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

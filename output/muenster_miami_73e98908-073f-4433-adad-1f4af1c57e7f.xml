@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_73e98908-073f-4433-adad-1f4af1c57e7f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Migration und Chemotaxis von pankreatischen Sternzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079149341">
+                        <displayForm>Hild, Benedikt</displayForm>
+                        <namePart type="given">Benedikt</namePart>
+                        <namePart type="family">Hild</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwab, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Schwab</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-11-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-08-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das duktale Adenokarzinom des Pankreas (PDAC) gehört zu den tödlichsten Tumorarten überhaupt. Ursächlich hierfür sind zum Teil die pankreatischen Sternzellen (PSC). Daher werden diese Zellen im Rahmen dieser Doktorarbeit genauer untersucht. Es wurde nachgewiesen, die Sternzellen bei homogener Konzentration von EGF und PDGF und bei Experimenten mit Konzentrations-Gradienten schneller migrieren lassen. Weiterhin konnte gezeigt werden, dass EGF und PDGF fähig sind, Chemotaxis in murinen Sternzellen zu induzieren. Die Stimulierung durch EGF und PDGF konnte durch die Inhibierung des KCa3.1-Kanals verhindert werden. Weiterhin war die Chemotaxis-Induktion durch PDGF bei nicht-funktionalem KCa3.1-Kanal abgeschwächt. Diese Arbeit liefert wichtige Ergebnisse zur Charakterisierung der PSC. Insbesondere die Chemotaxis-Induktion und deren Beeinflussung durch Inhibierung des KCa3.1-Kanals zeigen Ansätze für Therapien gegen das PDAC.</abstract>
+                    <subject lang="ger">
+                        <topic>Sternzellen</topic>
+                        <topic>Pankreastumor</topic>
+                        <topic>Migration</topic>
+                        <topic>Chemotaxis</topic>
+                        <topic>KCa3.1-Kanal</topic>
+                        <topic>PDGF</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17279608376</identifier>
+                    <identifier type="sys">HT019062147</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_73e98908-073f-4433-adad-1f4af1c57e7f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_73e98908-073f-4433-adad-1f4af1c57e7f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/73e98908-073f-4433-adad-1f4af1c57e7f/diss_hild.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_73e98908-073f-4433-adad-1f4af1c57e7f" DMDID="DMD_73e98908-073f-4433-adad-1f4af1c57e7f">
+            <mets:fptr FILEID="FILE_73e98908-073f-4433-adad-1f4af1c57e7f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

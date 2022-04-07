@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_888c56da-2d1a-438f-9ef2-c4d8d0b92c30">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Differenzierung an polymorphen Enzymloci – das Resultat von Drift oder Selektion?</title>
+                        <subTitle>Freilanduntersuchungen an den Laufkäferarten Carabus granulatus und Carabus auronitens</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133983307">
+                        <displayForm>Horstmann, Britta</displayForm>
+                        <namePart type="given">Britta</namePart>
+                        <namePart type="family">Horstmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weber, Friedrich</displayForm>
+                        <namePart type="given">Friedrich</namePart>
+                        <namePart type="family">Weber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-02-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-01-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel der Analysen war es, räumliche und zeitliche Veränderungen der Allelfrequenzen der Glucose-6-Phosphat-Isomerase (Gpi) bei Carabus granulatus sowie einer Esterase bei Carabus auronitens zu analysieren. Die Auftrennung der Allozymvarianten erfolgte mittels Elektrophorese. Bei Gpi traten 18 Varianten auf. Es wurden signifikante kleinräumige und zeitlich instabile Allelhäufigkeitsunterschiede sowie Abweichungen vom Hardy-Weinberg-Gleichgewicht festgestellt. Die FST-Werte (0,0041 bis 0,0203) zeigten signifikante Differenzierungen an. Um mögliche Selektionswirkungen zu prüfen, wurden C. granulatus-Individuen mit bekannten Gpi-Genotypen hinsichtlich ihres Verhaltens verglichen. Bei C. auronitens wurden Träger der Allele s und f auf Unterschiede im Aktivitätsverhalten untersucht. Bei beiden Polymorphismen fanden sich keine Hinweise auf das Wirksamwerden von strenger und/oder gerichteter Selektion. Für C. granulatus wird ein Populationsmodell entwickelt, das kleinräumige und zeitlich instabile Differenzierungen allein mit Driftereignissen erklärt.</abstract>
+                    <subject lang="ger">
+                        <topic>Allozym</topic>
+                        <topic>Populationsgenetik</topic>
+                        <topic>Selektion</topic>
+                        <topic>Polymorphismus</topic>
+                        <topic>Populationsdynamik</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Carabidae</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-56519390743</identifier>
+                    <identifier type="sys">HT015513343</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_888c56da-2d1a-438f-9ef2-c4d8d0b92c30</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_888c56da-2d1a-438f-9ef2-c4d8d0b92c30_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/888c56da-2d1a-438f-9ef2-c4d8d0b92c30/diss_horstmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_888c56da-2d1a-438f-9ef2-c4d8d0b92c30" DMDID="DMD_888c56da-2d1a-438f-9ef2-c4d8d0b92c30">
+            <mets:fptr FILEID="FILE_888c56da-2d1a-438f-9ef2-c4d8d0b92c30_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

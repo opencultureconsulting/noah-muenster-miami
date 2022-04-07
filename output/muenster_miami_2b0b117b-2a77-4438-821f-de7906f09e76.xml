@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2b0b117b-2a77-4438-821f-de7906f09e76">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kettenregel</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124031935">
+                        <displayForm>Barzel, Bärbel</displayForm>
+                        <namePart type="given">Bärbel</namePart>
+                        <namePart type="family">Barzel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124031935">
+                        <displayForm>Barzel, B.</displayForm>
+                        <namePart type="given">B.</namePart>
+                        <namePart type="family">Barzel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-08-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorgestellte Unterrichtsequenz zum Einstieg in die Kettenregel besteht aus 2 Teilen. Zunächst wird im Plenum die Aufgabe gestellt und erörtert. Mit Hilfe des TI-92 (oder V-200) wird der Sachverhalt graphisch anhand einer Skizze sowie numerisch mit einer entsprechenden Tabelle verdeutlicht. Danach sollen die Schüler(inn)en im 2.Teil die Kettenregel selbständig durch induktives Schließen herausfinden.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, für Unterrichtszwecke freigegeben</note>
+                    <subject lang="ger">
+                        <topic>Kettenregek</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>induktives Schließen</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45649596506</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2b0b117b-2a77-4438-821f-de7906f09e76</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2b0b117b-2a77-4438-821f-de7906f09e76_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2b0b117b-2a77-4438-821f-de7906f09e76/Baerbel_Barzel_Kettenregel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2b0b117b-2a77-4438-821f-de7906f09e76" DMDID="DMD_2b0b117b-2a77-4438-821f-de7906f09e76">
+            <mets:fptr FILEID="FILE_2b0b117b-2a77-4438-821f-de7906f09e76_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

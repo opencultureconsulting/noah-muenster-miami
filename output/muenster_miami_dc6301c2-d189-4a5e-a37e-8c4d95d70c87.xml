@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dc6301c2-d189-4a5e-a37e-8c4d95d70c87">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On R-triviality of F4, II</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thakur, Maneesh</displayForm>
+                        <namePart type="given">Maneesh</namePart>
+                        <namePart type="family">Thakur</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-10-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Simple algebraic groups of type F4 defined over a field k are the full automorphism groups of Albert algebras over k. Let A be an Albert algebra over a field k of arbitrary characteristic whose isotopes are all isomorphic. We prove that Aut(A) is R-trivial, in the sense of Manin. If k contains cube roots of unity and A is any Albert algebra over k, we prove that there is an isotope A(v) of A such that Aut(A(v)) is R-trivial.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>497</start>
+                                <end>507</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-06089643140</identifier>
+                    <identifier type="doi">10.17879/06089642750</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dc6301c2-d189-4a5e-a37e-8c4d95d70c87</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dc6301c2-d189-4a5e-a37e-8c4d95d70c87_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dc6301c2-d189-4a5e-a37e-8c4d95d70c87/mjm_2021_14_497-507.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dc6301c2-d189-4a5e-a37e-8c4d95d70c87" DMDID="DMD_dc6301c2-d189-4a5e-a37e-8c4d95d70c87">
+            <mets:fptr FILEID="FILE_dc6301c2-d189-4a5e-a37e-8c4d95d70c87_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

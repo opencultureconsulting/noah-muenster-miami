@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f396aa1b-afa0-4173-9437-3fe078037997">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ausgebildet für den Tod?</title>
+                        <subTitle>die Pferde der Wehrkreis-Reit- und Fahrschule VI in Warendorf während des 2. Weltkrieges</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frisch, Barbara</displayForm>
+                        <namePart type="given">Barbara</namePart>
+                        <namePart type="family">Frisch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138340863">
+                        <displayForm>Kühle, Grit</displayForm>
+                        <namePart type="given">Grit</namePart>
+                        <namePart type="family">Kühle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1076830692">
+                        <displayForm>Sternberg, Lioba</displayForm>
+                        <namePart type="given">Lioba</namePart>
+                        <namePart type="family">Sternberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-05-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Wehrkreis-Reit- und Fahrschule</topic>
+                        <topic>Pferde im 2. Weltkrieg</topic>
+                        <topic>Schülerarbeit</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>94</start>
+                                <end>97</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59269581649</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f396aa1b-afa0-4173-9437-3fe078037997</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f396aa1b-afa0-4173-9437-3fe078037997_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f396aa1b-afa0-4173-9437-3fe078037997/idb_2001_suppl_1_94-97.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f396aa1b-afa0-4173-9437-3fe078037997" DMDID="DMD_f396aa1b-afa0-4173-9437-3fe078037997">
+            <mets:fptr FILEID="FILE_f396aa1b-afa0-4173-9437-3fe078037997_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

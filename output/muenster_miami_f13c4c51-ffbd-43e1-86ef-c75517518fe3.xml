@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f13c4c51-ffbd-43e1-86ef-c75517518fe3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Derivation and analysis of scatter correction algorithms for quantitative positron emission tomography</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142052116">
+                        <displayForm>Kösters, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Kösters</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106346245">
+                        <displayForm>Natterer, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Natterer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106346245">
+                        <displayForm>Natterer, F.</displayForm>
+                        <namePart type="given">F.</namePart>
+                        <namePart type="family">Natterer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-08-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit behandelt ein neues mathematisches Modell für die Positronen-Emissions-Tomographie. Im Gegensatz zum klassischen Linienmodell werden alle Effekte basierend auf der Interaktion zwischen Photonen und Gewebe mit Hilfe der stationären Boltzmanngleichung modelliert. Die Bedingungen für die Lösung des inversen Problems für das neue Modell, sowie der Zusammenhang mit dem alten Modell werden analytisch als auch numerisch untersucht.</abstract>
+                    <subject lang="ger">
+                        <topic>Positronen-Emissions-Tomographie</topic>
+                        <topic>analytisches Modell</topic>
+                        <topic>inverse Probleme</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-86499436300</identifier>
+                    <identifier type="sys">HT016559951</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f13c4c51-ffbd-43e1-86ef-c75517518fe3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f13c4c51-ffbd-43e1-86ef-c75517518fe3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f13c4c51-ffbd-43e1-86ef-c75517518fe3/diss_koesters.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f13c4c51-ffbd-43e1-86ef-c75517518fe3" DMDID="DMD_f13c4c51-ffbd-43e1-86ef-c75517518fe3">
+            <mets:fptr FILEID="FILE_f13c4c51-ffbd-43e1-86ef-c75517518fe3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

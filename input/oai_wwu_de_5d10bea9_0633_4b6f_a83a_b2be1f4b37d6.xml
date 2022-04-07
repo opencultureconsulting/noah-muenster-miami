@@ -1,0 +1,235 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:5d10bea9-0633-4b6f-a83a-b2be1f4b37d6" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:45:05">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Reconstruction using local sparsity</mods:title>
+                    <mods:subTitle>a novel regularization technique and an asymptotic analysis of spatial sparsity priors</mods:subTitle>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1066598452">
+                    <mods:namePart type="given">Pia</mods:namePart>
+                    <mods:namePart type="family">Heins</mods:namePart>
+                    <mods:namePart type="date">1986-</mods:namePart>
+                    <mods:displayForm>Heins, Pia</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Martin</mods:namePart>
+                    <mods:namePart type="family">Burger</mods:namePart>
+                    <mods:displayForm>Burger, Martin</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2015</mods:dateIssued>
+                    <mods:dateOther>2015-01-21</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2015-02-13</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-07-27</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Das Gebiet der inversen Probleme, wobei die Unbekannte neben ihrer örtlichen Dimension mindestens noch eine zusätzliche Dimension enthält, ist bedeutend für viele Anwendungen wie z.B. Bildgebung, Naturwissenschaften und Medizin. Es hat sich durchgesetzt dünnbesetzte Matrizen (Sparsity) als Lösungen zu fördern. Diese Arbeit beschäftigt sich mit einer speziellen Art der Dünnbesetztheit, welche eine gewisse Struktur in der Lösungsmatrix favorisiert. Wir präsentieren und analysieren eine neue Regularisierung, welche lokale Dünnbesetztheit fördert, indem die l^{1,inf}-Norm in einem Variationsansatz minimiert wird. Zusätzlich analysieren wir die Asymptotik verschiedener Regularisierungsfunktionale, welche Dünngesetztheit fördern. Wir betrachten diskrete Funktionale, welche dünnbesetzte Lösungen bevorzugen, und analysieren ihr Verhalten für feiner werdende Diskretisierungen. Hierbei erhalten wir einige Gamma-Grenzwerte. Wir betrachten nicht nur l^p-Normen für p ≥ 1 sondern auch die l^0-“Norm”.</mods:abstract>
+                  <mods:abstract lang="eng">The specific field of inverse problems, where the unknown obtains apart from its spatial dimensions at least one additional dimension, is of major interest for many applications in imaging, natural sciences and medicine. Enforcing certain sparsity priors on such unknowns, which can be written as a matrix, has thus become current state of research. This thesis deals with a special type of sparsity prior, which enforces a certain structure on the unknown matrix. We present and analyze a novel regularization technique promoting so-called local sparsity by minimizing the l^{1,inf}-norm as a regularization functional in a variational approach. Furthermore, we theoretically analyze the asymptotics of spatial sparsity priors. We consider discrete sparsity promoting functionals and analyze their behavior as the discretization becomes finer. In so doing, we are able to compute some gamma-limits. We not only consider usual l^p-norms for p ≥ 1, but also analyze the asymptotics of the l^0-“norm”.</mods:abstract>
+                  <mods:tableOfContents lang="eng">1 Introduction 21
+1.1 Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+1.2 Inverse Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+1.3 Contributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+1.4 Organization of this Work . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+2 Mathematical Preliminaries 31
+2.1 Variational Calculus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+2.1.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+2.1.2 Γ-Convergence . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+2.2 Function Spaces and Sequence Spaces . . . . . . . . . . . . . . . . . . 37
+2.2.1 Basic Measure Theory . . . . . . . . . . . . . . . . . . . . . . . . 38
+2.2.2 Lebesgue Spaces . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+2.2.3 Sequence Spaces lp . . . . . . . . . . . . . . . . . . . . . . . . . 41
+2.2.4 Sobolev Spaces . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+2.2.5 Space of Functions with Bounded Variation . . . . . . . . . . . . 43
+2.2.6 Space of Finite Radon Measures . . . . . . . . . . . . . . . . . . 46
+2.3 Convex Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+2.3.1 Subdifferential Calculus . . . . . . . . . . . . . . . . . . . . . . . 52
+2.3.2 Legendre-Fenchel Duality . . . . . . . . . . . . . . . . . . . . . . 55
+2.4 Introduction to Sparsity . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+2.4.1 l0-Regularization . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+2.4.2 l1-Regularization . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+2.4.3 Regularization with Radon Measures . . . . . . . . . . . . . . . . 61
+3 Mixed Norms and Structured Sparsity 63
+3.1 Introduction to Mixed lp,q-Norms . . . . . . . . . . . . . . . . . . . . . . 64
+3.2 Sparsity and Mixed Norms . . . . . . . . . . . . . . . . . . . . . . . . . 68
+3.2.1 Joint Sparsity via lp,1-Regularizations . . . . . . . . . . . . . . . . 69
+3.2.2 Local Sparsity via l1,q-Regularizations . . . . . . . . . . . . . . . 70
+
+4 Analysis of l1,∞- Related Formulations 73
+4.1 Basic Properties and Formulations . . . . . . . . . . . . . . . . . . . . . 74
+4.1.1 Problem Formulations . . . . . . . . . . . . . . . . . . . . . . . . 75
+4.1.2 Existence and Uniqueness . . . . . . . . . . . . . . . . . . . . . 77
+4.1.3 Subdifferentials and Source Conditions . . . . . . . . . . . . . . 80
+4.1.4 Equivalence of Formulations . . . . . . . . . . . . . . . . . . . . 86
+4.1.5 Asymptotic 1-Sparsity . . . . . . . . . . . . . . . . . . . . . . . . 93
+4.2 Exact Recovery of Locally 1-Sparse Solutions . . . . . . . . . . . . . . . . 97
+4.2.1 Lagrange Functional and Optimality Conditions . . . . . . . . . . 98
+4.2.2 Scaling Conditions for Exact Recovery . . . . . . . . . . . . . . . 98
+4.3 Further Improvement by Including Total Variation . . . . . . . . . . . . . 103
+5 Algorithms Promoting Local Sparsity 105
+5.1 Algorithm for l1,∞-l1,1-Regularized Problems . . . . . . . . . . . . . . . . 105
+5.1.1 Optimality Conditions . . . . . . . . . . . . . . . . . . . . . . . . 107
+5.1.2 Stopping Criteria . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+5.1.3 Adaptive Parameter Choice . . . . . . . . . . . . . . . . . . . . . 109
+5.1.4 Solving the l1,∞-l1,1-Regularized Problem . . . . . . . . . . . . . 111
+5.2 Algorithms for l1,∞-l1,1-TV-Regularized Problems . . . . . . . . . . . . . . 112
+5.2.1 Additional TV-Regularization on the Image . . . . . . . . . . . . . 112
+5.2.2 Additional TV-Regularization on the Coefficient Matrices . . . . . 119
+6 Computational Experiments 127
+6.1 Application to Dynamic Positron Emission Tomography . . . . . . . . . . 127
+6.2 Results for Synthetic Examples . . . . . . . . . . . . . . . . . . . . . . . 131
+6.3 Reconstruction Including Total Variation . . . . . . . . . . . . . . . . . . 135
+6.3.1 Additional Total Variation on the Image . . . . . . . . . . . . . . 135
+6.3.2 Additional Total Variation on the Coefficient Matrices . . . . . . . 138
+7 Asymptotics of Spatial Sparsity Priors 143
+7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+7.2 Spatial Sparsity under Γ-Convergence . . . . . . . . . . . . . . . . . . . 144
+7.2.1 Convergence for the Convex Case p ≥ 1 . . . . . . . . . . . . . . 146
+7.2.2 Convergence for the Nonconvex Case p = 0 . . . . . . . . . . . . 151
+7.3 Asymptotics of Mixed Norms . . . . . . . . . . . . . . . . . . . . . . . . 154
+7.3.1 Convergence for the General Convex Case . . . . . . . . . . . . . 156
+7.3.2 Asymptotic Local Sparsity . . . . . . . . . . . . . . . . . . . . . . 157
+
+8 Deconvolution of Sparse Spikes 161
+8.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+8.2 Deconvolution of a Single δ-Spike . . . . . . . . . . . . . . . . . . . . . 163
+8.3 Algorithm for Sparse Spikes Deconvolution . . . . . . . . . . . . . . . . 167
+8.4 Numerical Deconvolution of Three δ-Spikes . . . . . . . . . . . . . . . . 170
+9 Conclusions and Outlook 173
+9.1 Local Sparsity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+9.2 Sparsity Asymptotics . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+A Solving the Positive l1,∞ − l1,1-Projection-Problem 177
+B Inequality for Stopping Criteria 183
+C Computation Of The Kinetic Modeling Matrix 187
+D Exact l1-Reconstruction of 1-Sparse Signals in 1D 189
+Bibliography 191</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Lokale Sparsity; Inverse Probleme; Regularisierung; Variationsmethoden; Bildgebung; Asymptotische Sparsity; Radon-Maße</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Local Sparsity; Inverse Problems; Compressed Sensing; Regularization Theory; Imaging; Asymptotic Sparsity; Radon Measures</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-40359656702</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/5d10bea9-0633-4b6f-a83a-b2be1f4b37d6</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:5d10bea9-0633-4b6f-a83a-b2be1f4b37d6</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6">
+            <mets:rightsMD ID="RIGHTSMD_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/5d10bea9-0633-4b6f-a83a-b2be1f4b37d6</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="039ba637644b2c00e553226837099c98950a7f1dcb70473fff73f218c7e37fc2" CREATED="2015-07-27T07:17:04" CHECKSUMTYPE="SHA-256" SIZE="2815395" ID="ID_FIL_diss_heins.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5d10bea9-0633-4b6f-a83a-b2be1f4b37d6/diss_heins.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW5d10bea9-0633-4b6f-a83a-b2be1f4b37d6">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/5d10bea9-0633-4b6f-a83a-b2be1f4b37d6" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_heins.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_heins.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6" DMDID="DMD_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6" ID="ID_LOG_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_heins.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6" xlink:to="ID_PHY_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_heins.pdf" xlink:to="ID_PHY_diss_heins.pdf"/>
+          </mets:structLink>
+        </mets:mets>

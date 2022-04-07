@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_10e4f846-8fba-4a6a-b17b-82844185c299">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spatial and temporal resolution of geographic information: an observation-based theory</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1068422122">
+                        <displayForm>Degbelo, Auriol</displayForm>
+                        <namePart type="given">Auriol</namePart>
+                        <namePart type="family">Degbelo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136212816">
+                        <displayForm>Kuhn, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Kuhn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">After a review of previous work on resolution in geographic information science (GIScience), this article presents a theory of spatial and temporal resolution of sensor observations. Resolution of single observations is computed based on the characteristics of the receptors involved in the observation process, and resolution of observation collections is assessed based on the portion of the study area (or study period) that has been observed by the observations in the collection. The theory is formalized using Haskell. The concepts suggested for the description of the resolution of observation and observation collections are turned into ontology design patterns, which can be used for the annotation of current observations with their spatial and temporal resolution.</abstract>
+                    <note type="citation/reference">Open Geospatial Data, Software and Standards 3 (2018) 12, 1-22</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2018 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Observation</topic>
+                        <topic>Observation collection</topic>
+                        <topic>Resolution</topic>
+                        <topic>Ontology design pattern</topic>
+                        <topic>Haskell</topic>
+                        <topic>OWL</topic>
+                        <topic>Spatial information theory</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77159457779</identifier>
+                    <identifier type="doi">10.1186/s40965-018-0053-8</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_10e4f846-8fba-4a6a-b17b-82844185c299</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_10e4f846-8fba-4a6a-b17b-82844185c299_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/10e4f846-8fba-4a6a-b17b-82844185c299/artikel_degbelo_2018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_10e4f846-8fba-4a6a-b17b-82844185c299" DMDID="DMD_10e4f846-8fba-4a6a-b17b-82844185c299">
+            <mets:fptr FILEID="FILE_10e4f846-8fba-4a6a-b17b-82844185c299_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

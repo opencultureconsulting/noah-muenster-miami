@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9f264033-b745-4fb5-a3cb-1480a010665b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Characterisation of a putative Diffuse Large B-Cell Lymphoma-associated silencing element within the NKIRAS1 gene</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124654802X">
+                        <displayForm>Brüstle, Johanna Kristin</displayForm>
+                        <namePart type="given">Johanna Kristin</namePart>
+                        <namePart type="family">Brüstle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124654802X">
+                        <displayForm>Brüstle, Johanna</displayForm>
+                        <namePart type="given">Johanna</namePart>
+                        <namePart type="family">Brüstle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122151747">
+                        <displayForm>Rosenbauer, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Rosenbauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-11-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-11-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen der Forschung am diffus großzelligen B-Zell-Lymphom (DLBCL) wurde ein potenzielles Silencer-Element innerhalb des ersten Introns des NKIRAS1-Gens untersucht. NKIRAS1 kodiert fuer einen Inhibitor des in DLBCL Zellen oftmals alterierten NF-kB Signalwegs. Mithilfe eines Luciferase-Reporterassays konnten ein positionsabhaengiger, negativ regulierender Effekt des potenziellen Silencer-Elements sowie eine je nach Zelllinie unterschiedlich stark ausgepraegte Silencer-Funktion festgestellt werden. Allerdings fuehrte in OCI-ly1 Zellen weder die Insertion eines in DLBCL-Patienten beschriebenen, aber auch in gesunden Menschen beobachteten Einzelnukleotid-Polymorphismus (SNP) in dieses Element zu einer Veraenderung der Silencer-Aktivitaet, noch zeigte ein mittels der CRISPR-Cas9-Technologie durchgefuehrter Knockout eines 46 Basenpaare umfassenden Ausschnitts des putativen Silencer-Elements einen Effekt auf die Transkriptionslevel der zwei benachbarten Gene NKIRAS1 und RPL15 oder auf die Zellproliferation.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2020</note>
+                    <subject lang="ger">
+                        <topic>DLBCL</topic>
+                        <topic>Non-Hodgkin-Lymphom</topic>
+                        <topic>Silencer-Element</topic>
+                        <topic>NKIRAS1</topic>
+                        <topic>kB-Ras1</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25079414111</identifier>
+                    <identifier type="sys">HT021159210</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc/4.0">CC BY-NC 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9f264033-b745-4fb5-a3cb-1480a010665b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9f264033-b745-4fb5-a3cb-1480a010665b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9f264033-b745-4fb5-a3cb-1480a010665b/diss_bruestle.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9f264033-b745-4fb5-a3cb-1480a010665b" DMDID="DMD_9f264033-b745-4fb5-a3cb-1480a010665b">
+            <mets:fptr FILEID="FILE_9f264033-b745-4fb5-a3cb-1480a010665b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

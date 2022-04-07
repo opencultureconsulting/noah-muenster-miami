@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0e630c26-92e5-42c7-8a8e-f5eb8e238082">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Charakterisierung des regulatorischen Pyp-Netzwerkes in Yersinia enterocolitica</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027229913">
+                        <displayForm>Blädel, Inga</displayForm>
+                        <namePart type="given">Inga</namePart>
+                        <namePart type="family">Blädel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1102872350">
+                        <displayForm>Schmidt, M. Alexander</displayForm>
+                        <namePart type="given">M. Alexander</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-10-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-10-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen dieser Arbeit konnte das universelle Regulatorprotein H-NS als Repressor des regulatorischen Pyp-Netzwerkes in Yersinia enterocolitica identifiziert werden. In vitro-Transkriptionsanalysen konnten zeigen, dass hreP, pypB und pypC durch H-NS negativ reguliert werden und deren Promotorregionen mit H-NS direkt interagieren. Weiterhin konnte eine vermehrte Biofilmbildung nach Deletion von H-NS beobachtet werden, welche jedoch unabhängig von dem regulatorischen Pyp-Netzwerk auftritt. In silico-Analysen, dass pypB als Regulator direkt mit dem Tad-Lokus assoziiert vorliegt, welcher für einen Typ IVb Pili kodiert. In dieser Arbeit sollte die Prozessierung des Strukturproteins Flp durch die Präpilinpeptidase TadV untersucht werden. Anhand einzelner Substitutionen war es möglich Unterschiede in der Prozessierung zu detektieren, jedoch konnten weder Aussagen über Assemblierung, Funktionalität und Phänotyp getroffen werden.</abstract>
+                    <subject lang="ger">
+                        <topic>H-NS</topic>
+                        <topic>Pyp-Netzwerk</topic>
+                        <topic>Yersinia enterocolitica</topic>
+                        <topic>Biofilm</topic>
+                        <topic>Tad-Lokus</topic>
+                        <topic>Flp-Pili</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-78399634263</identifier>
+                    <identifier type="sys">HT017433607</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0e630c26-92e5-42c7-8a8e-f5eb8e238082</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0e630c26-92e5-42c7-8a8e-f5eb8e238082_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0e630c26-92e5-42c7-8a8e-f5eb8e238082/diss_blaedel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0e630c26-92e5-42c7-8a8e-f5eb8e238082" DMDID="DMD_0e630c26-92e5-42c7-8a8e-f5eb8e238082">
+            <mets:fptr FILEID="FILE_0e630c26-92e5-42c7-8a8e-f5eb8e238082_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

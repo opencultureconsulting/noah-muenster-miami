@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_81ecc2b8-ad10-41d8-bca4-471c01c24098">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gestuftes Lehramtsstudium in Baden-Württemberg</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böttger, Gottfried</displayForm>
+                        <namePart type="given">Gottfried</namePart>
+                        <namePart type="family">Böttger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-04-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-04-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Vortrag auf dem 1. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 12.-14. März 2007 in Münster</note>
+                    <subject lang="ger">
+                        <topic>gestufte Lehrerausbildung</topic>
+                        <topic>Praxissemester</topic>
+                        <topic>Master of Education</topic>
+                        <topic>Bologna-Prozess</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99519568379</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_81ecc2b8-ad10-41d8-bca4-471c01c24098</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_81ecc2b8-ad10-41d8-bca4-471c01c24098_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/81ecc2b8-ad10-41d8-bca4-471c01c24098/Boettger.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_81ecc2b8-ad10-41d8-bca4-471c01c24098" DMDID="DMD_81ecc2b8-ad10-41d8-bca4-471c01c24098">
+            <mets:fptr FILEID="FILE_81ecc2b8-ad10-41d8-bca4-471c01c24098_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

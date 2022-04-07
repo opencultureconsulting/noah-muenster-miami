@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_02322a6d-fc5c-4c95-a670-05645fdeb6a1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Jacobi-Verfahren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1137261242">
+                        <displayForm>Geyer, Heinz Rainer</displayForm>
+                        <namePart type="given">Heinz Rainer</namePart>
+                        <namePart type="family">Geyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2003-11-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Aus dem Text: &quot;Lineare Gleichungssysteme werden in der Mittelstufe standardmäßig mit Hilfe von Äquivalenzumformungen (Einsetzverfahren, Gleichsetzungsverfahren, Additions- u. Subtraktionsverfahren) einschließlich des Gauss-Jordan-Verfahrens gelöst. Wenn dabei der Bezug zur Graphischen Darstellung der Gleichungen - wenigstens im IR² hergestellt wird, dann ist schon viel gewonnen. Diese Einheit soll zeigen, dass sich dieses Thema sehr gut eignet, um im Zusammenspiel mit Dynamischer Geometriesoftware und Computeralgebra bereits in der Mittelstufe ein Beispiel für ein iteratives Lösungsverfahren vorzustellen. Dabei lässt sich der Zusammenhang zwischen Geometrischer Darstellung und Algebraischem Verfahren besonders gut aufzeigen, die späteren Iterationsverfahren, wie Heronverfahren oder Newtonverfahren, werden vorbereitet und nicht zuletzt wird der Mathematische Horizont im Bezug auf Lösungsverfahren erweitert. Selbstverständlich lässt sich die Einheit auch in einem Kurs Lineare Algebra der Sek.II durchführen und auf höherdimensionale Räume verallgemeinern.&quot;</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland. Für Unterrichtszwecke freigegeben.</note>
+                    <note type="citation/reference">T³-Materialien Lineare Algebra. (ISBN 3-934064-32-9)</note>
+                    <subject lang="ger">
+                        <topic>Mathematik</topic>
+                        <topic>lineare Algebra</topic>
+                        <topic>Lehrerfortbildung</topic>
+                        <topic>lineare Gleichungssysteme</topic>
+                        <topic>Lösungsverfahren</topic>
+                        <topic>Didaktik</topic>
+                        <topic>neue Medien</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>Computeralgebasystem</topic>
+                        <topic>Derive</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541670</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_02322a6d-fc5c-4c95-a670-05645fdeb6a1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_02322a6d-fc5c-4c95-a670-05645fdeb6a1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/02322a6d-fc5c-4c95-a670-05645fdeb6a1/LineareAlgebra_4.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_02322a6d-fc5c-4c95-a670-05645fdeb6a1" DMDID="DMD_02322a6d-fc5c-4c95-a670-05645fdeb6a1">
+            <mets:fptr FILEID="FILE_02322a6d-fc5c-4c95-a670-05645fdeb6a1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

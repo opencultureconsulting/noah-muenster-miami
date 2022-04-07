@@ -1,0 +1,135 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:b7148fa4-5c4a-4fd7-a994-86673f955f00" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:42:55">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_b7148fa4-5c4a-4fd7-a994-86673f955f00">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Medical-Data-Models.org</mods:title>
+                    <mods:subTitle>A collection of freely available forms</mods:subTitle>
+                  </mods:titleInfo>
+                  <mods:name type="corporate">
+                    <mods:namePart>Institut für Medizinische Informatik</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">edt</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1131361393">
+                    <mods:namePart type="given">Martin</mods:namePart>
+                    <mods:namePart type="family">Dugas</mods:namePart>
+                    <mods:displayForm>Dugas, Martin</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>series</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes" point="start">2016-09</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2017-08-01</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2020-02-07</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">MDM-Portal (Medical Data-Models) is a meta-data registry for creating, analysing, sharing and reusing medical forms, developed by the Institute of Medical Informatics, University of Muenster in Germany. Electronic forms for documentation of patient data are an integral part within the workflow of physicians. A huge amount of data is collected either through routine documentation forms (EHRs) for electronic health records or as case report forms (CRFs) for clinical trials. This raises major scientific challenges for health care, since different health information systems are not necessarily compatible with each other and thus information exchange of structured data is hampered. Software vendors provide a variety of individual documentation forms according to their standard contracts, which function as isolated applications. Furthermore, free availability of those forms is rarely the case. Currently less than 5 % of medical forms are freely accessible. Based on this lack of transparency harmonization of data models in health care is extremely cumbersome, thus work and know-how of completed clinical trials and routine documentation in hospitals are hard to be re-used. The MDM-Portal serves as an infrastructure for academic (non-commercial) medical research to contribute a solution to this problem. It contains forms in the system-independent CDISC Operational Data Model (ODM) format with more than 920,000 data-elements. Among those, numerous core data sets, common data elements or data standards, code lists and value sets are provided. This enables researchers to view, discuss, download and export forms in most common technical formats such as PDF, CSV, Excel, SQL, SPSS, R, etc. A growing user community will lead to a growing database of medical forms. In this matter, we would like to encourage all medical researchers to register and add forms and discuss existing forms.</mods:abstract>
+                  <mods:abstract lang="ger">Das MDM-Portal (Medizinische Daten-Modelle) ist ein Metadaten-Register zur Erstellung, Analyse, Freigabe und Wiederverwendung von medizinischen Formularen, das vom Institut für Medizinische Informatik der Universität Münster entwickelt wurde. Elektronische Formulare mit Patientendaten gehören mittlerweile zum Alltag aller Mediziner und Medizinerinnen: Ob als Dokumentationsformular in der Patientenakte (EHR) oder als Case Report Form (CRF) bei einer klinischen Studie - täglich werden riesige Datenmengen erfasst. Diese Datenexplosion stellt uns vor eine große wissenschaftliche Herausforderung im Gesundheitswesen, da die Informationssysteme nicht kompatibel sind und Daten zwischen unterschiedlichen Institutionen nicht in strukturierter Form ausgetauscht werden können. Die Software-Hersteller stellen individuelle Dokumentationsformulare im Rahmen ihrer Standardverträge zur Verfügung, die oftmals eine Insellösung darstellen. Eine Veröffentlichung der Formularbeschreibungen erfolgt in der Regel nicht. Dies hat zur Folge, dass derzeit weniger als 5% aller medizinischen Formulare öffentlich zugänglich sind. Durch diesen Mangel an Transparenz werden Prozesse zur Abstimmung von Datenmodellen im Gesundheitswesen erheblich behindert. Know-how aus bereits abgeschlossenen oder auch laufenden Studien und klinischen Dokumentationen kann nicht wiederverwendet werden. Das MDM-Portal soll als Infrastruktur für die akademische (nicht-kommerzielle) medizinische Forschung einen Beitrag zur Lösung dieses wichtigen Problems leisten. Das Portal enthält Formulare in dem systemunabhängigen CDISC Operational Data Model (ODM) Format mit insgesamt über 920.000 Datenelementen. Darunter befinden sich zahlreiche Kerndatensätze, Common Data Elements oder Datenstandards, Codelisten und Value Sets. Dies ermöglicht es, Formulare anzuschauen, zu diskutieren und in die meistgenutzten technischen Formate zu exportieren (PDF, CSV, Excel, SQL, SPSS, R, etc.). Durch einen stetig wachsenden Nutzerkreis wird der Umfang der Datenbank und die Anzahl der Formulare weiter wachsen. Vor diesem Hintergrund möchten wir alle medizinischen Forscher bitten, sich in diesem Portal anzumelden, eigene Formulare hinzuzufügen und bestehende Formulare zu diskutieren.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="content">Homepage des Portals https://medical-data-models.org/</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="eng">Medical Data Model; Clinical studies; Electronic Health Records (EHR); CDISC ODM; HL7 CDA</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="ger">Medizinische Daten-Modelle; Klinische Studien; Medizinische Dokumentationsformulare; Patientenakte</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">610</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-31259402263</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/b7148fa4-5c4a-4fd7-a994-86673f955f00</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY-NC-SA 3.0  DE</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by-nc-sa/3.0/de/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:b7148fa4-5c4a-4fd7-a994-86673f955f00</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_b7148fa4-5c4a-4fd7-a994-86673f955f00">
+            <mets:rightsMD ID="RIGHTSMD_b7148fa4-5c4a-4fd7-a994-86673f955f00">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_b7148fa4-5c4a-4fd7-a994-86673f955f00">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/b7148fa4-5c4a-4fd7-a994-86673f955f00</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_b7148fa4-5c4a-4fd7-a994-86673f955f00" TYPE="physSequence"/>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_b7148fa4-5c4a-4fd7-a994-86673f955f00" DMDID="DMD_b7148fa4-5c4a-4fd7-a994-86673f955f00" ID="ID_LOG_b7148fa4-5c4a-4fd7-a994-86673f955f00" TYPE="Monograph"/>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_b7148fa4-5c4a-4fd7-a994-86673f955f00" xlink:to="ID_PHY_b7148fa4-5c4a-4fd7-a994-86673f955f00"/>
+          </mets:structLink>
+        </mets:mets>

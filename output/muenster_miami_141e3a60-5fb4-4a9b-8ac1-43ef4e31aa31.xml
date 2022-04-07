@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_141e3a60-5fb4-4a9b-8ac1-43ef4e31aa31">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Proceedings of the University Alliance Executive Directors Workshop - ECIS 2001</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124360211">
+                        <displayForm>Becker, Jörg</displayForm>
+                        <namePart type="given">Jörg</namePart>
+                        <namePart type="family">Becker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-06</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The introduction of Enterprise Systems (ES) into the curriculum at Business and IS Faculties and Schools is for many universities a major challenge. However, this problem is in various aspects of special nature: the students&apos; demand is enormous and in many cases product-focused, Enterprise Systems are typically very comprehensive and complex, and knowledge about ES is often missing. By the time textbooks of satisfying quality are available, there are new systems&apos; upgrades and innovation cycles to deal with. The Queensland University of Technology (QUT) is comprehensively using the market leading Enterprise System SAP R/3 within its curriculum and is also conducting research in this area. This paper briefly reports on the activities and experiences at QUT, which is now one of the few world-wide mySAP University Application Hosting Centers.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53569533720</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_141e3a60-5fb4-4a9b-8ac1-43ef4e31aa31</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_141e3a60-5fb4-4a9b-8ac1-43ef4e31aa31_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/141e3a60-5fb4-4a9b-8ac1-43ef4e31aa31/075_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_141e3a60-5fb4-4a9b-8ac1-43ef4e31aa31" DMDID="DMD_141e3a60-5fb4-4a9b-8ac1-43ef4e31aa31">
+            <mets:fptr FILEID="FILE_141e3a60-5fb4-4a9b-8ac1-43ef4e31aa31_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

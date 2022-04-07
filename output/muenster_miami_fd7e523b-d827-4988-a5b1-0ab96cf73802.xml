@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fd7e523b-d827-4988-a5b1-0ab96cf73802">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Literarische Fantastik</title>
+                        <subTitle>Themen und Strategien. Mit einer Interpretationsskizze von David Mitchells Roman &quot;Slade House&quot;</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120756730">
+                        <displayForm>Müller, Hans-Harald</displayForm>
+                        <namePart type="given">Hans-Harald</namePart>
+                        <namePart type="family">Müller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-07-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Beitrag gibt im ersten Teil einen knappen Rückblick auf Themen, Strategien und Geschichte der Fantasy(-Forschung) und zeigt im zweiten Teil anhand von David Mitchells jüngstem Roman Slade House, wie sich Fantasy und postmoderne Metafiction zu einem hybriden Genre zusammenfügen – zugleich aber auch, welch eines Einfallsreichtums und narrativen Know-hows es bedarf, um der literarischen Fantasy innovative Effekte abzugewinnen.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-51159639224</identifier>
+                    <identifier type="doi">10.17879/51159638887</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fd7e523b-d827-4988-a5b1-0ab96cf73802</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fd7e523b-d827-4988-a5b1-0ab96cf73802_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fd7e523b-d827-4988-a5b1-0ab96cf73802/textpraxis_2020_s4_mueller.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fd7e523b-d827-4988-a5b1-0ab96cf73802" DMDID="DMD_fd7e523b-d827-4988-a5b1-0ab96cf73802">
+            <mets:fptr FILEID="FILE_fd7e523b-d827-4988-a5b1-0ab96cf73802_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

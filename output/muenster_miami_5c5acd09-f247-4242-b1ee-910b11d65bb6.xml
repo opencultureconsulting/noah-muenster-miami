@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5c5acd09-f247-4242-b1ee-910b11d65bb6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Berufsfelder der Rechtspsychologie</title>
+                        <subTitle>Dokumentation der 9. Arbeitstagung der Fachgruppe Rechtspsychologie in der Deutschen Gesellschaft für Psychologie (DGPs) an der Westfälischen Wilhelms-Universität Münster vom 13.-15. September 2001</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109237226">
+                        <displayForm>Bilsky, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Bilsky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129441473">
+                        <displayForm>Kähler, Cordula</displayForm>
+                        <namePart type="given">Cordula</namePart>
+                        <namePart type="family">Kähler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-12-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">PDF-Fassung der CD-ROM-Ausgabe 2001 (ISBN 3-00-008097-X)</note>
+                    <subject lang="ger">
+                        <topic>Deutschland</topic>
+                        <topic>Rechtspsychologie</topic>
+                        <topic>Kongress</topic>
+                        <topic>Münster Westf. 2001</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77259455995</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5c5acd09-f247-4242-b1ee-910b11d65bb6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5c5acd09-f247-4242-b1ee-910b11d65bb6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5c5acd09-f247-4242-b1ee-910b11d65bb6/tagung_rechtspsychologie_2001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5c5acd09-f247-4242-b1ee-910b11d65bb6" DMDID="DMD_5c5acd09-f247-4242-b1ee-910b11d65bb6">
+            <mets:fptr FILEID="FILE_5c5acd09-f247-4242-b1ee-910b11d65bb6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,98 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3279a6ac-89ca-4017-8322-2dcf1e69f496">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>JPhyloIO: a Java library for event-based reading and writing of different phylogenetic file formats through a common interface</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1173010610">
+                        <displayForm>Stöver, Ben</displayForm>
+                        <namePart type="given">Ben</namePart>
+                        <namePart type="family">Stöver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1173010610">
+                        <displayForm>Stöver, Ben Christoph</displayForm>
+                        <namePart type="given">Ben Christoph</namePart>
+                        <namePart type="family">Stöver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1173010610">
+                        <displayForm>Stöver, Ben C.</displayForm>
+                        <namePart type="given">Ben C.</namePart>
+                        <namePart type="family">Stöver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wiechers, Sarah</displayForm>
+                        <namePart type="given">Sarah</namePart>
+                        <namePart type="family">Wiechers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1082906182">
+                        <displayForm>Müller, Kai F.</displayForm>
+                        <namePart type="given">Kai F.</namePart>
+                        <namePart type="family">Müller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-22</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-11-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">BACKGROUND: Today a variety of phylogenetic file formats exists, some of which are well-established but limited in their data model, while other more recently introduced ones offer advanced features for metadata representation. Although most currently available software only supports the classical formats with a limited metadata model, it would be desirable to have support for the more advanced formats. This is necessary for users to produce richly annotated data that can be efficiently reused and make underlying workflows easily reproducible. A programming library that abstracts over the data and metadata models of the different formats and allows supporting all of them in one step would significantly simplify the development of new and the extension of existing software to address the need for better metadata annotation. RESULTS: We developed the Java library JPhyloIO, which allows event-based reading and writing of the most common alignment and tree/network formats. It allows full access to all features of the nine currently supported formats. By implementing a single JPhyloIO-based reader and writer, application developers can support all of these formats. Due to the event-based architecture, JPhyloIO can be combined with any application data structure, and is memory efficient for large datasets. JPhyloIO is distributed under LGPL. Detailed documentation and example applications (available on http://bioinfweb.info/JPhyloIO/) significantly lower the entry barrier for bioinformaticians who wish to benefit from JPhyloIO’s features in their own software. CONCLUSION: JPhyloIO enables simplified development of new and extension of existing applications that support various standard formats simultaneously. This has the potential to improve interoperability between phylogenetic software tools and at the same time motivate usage of more recent metadata-rich formats such as NeXML or phyloXML.</abstract>
+                    <note type="citation/reference">BMC Bioinformatics 20 (2019) 402, 1-15</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note>Binary distributions of JPhyloIO are available at http://bioinfweb.info/JPhyloIO/Download. Source codes are available at http://bioinfweb.info/JPhyloIO/SourceCode or at the GitHub mirror at https://github.com/bioinfweb/JPhyloIO. Unit tests and test data that was used in the development of JPhyloIO is available at http://r.bioinfweb.info/JPhyloIOTests.</note>
+                    <subject lang="eng">
+                        <topic>Phylogenetic metadata</topic>
+                        <topic>Data reuse</topic>
+                        <topic>Data annotation</topic>
+                        <topic>NeXML</topic>
+                        <topic>PhyloXML</topic>
+                        <topic>NEXUS</topic>
+                        <topic>Phylogenetic tree</topic>
+                        <topic>Multiple sequence alignment</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99039422874</identifier>
+                    <identifier type="doi">10.1186/s12859-019-2982-3</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3279a6ac-89ca-4017-8322-2dcf1e69f496</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3279a6ac-89ca-4017-8322-2dcf1e69f496_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3279a6ac-89ca-4017-8322-2dcf1e69f496/10.1186_s12859-019-2982-3.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3279a6ac-89ca-4017-8322-2dcf1e69f496" DMDID="DMD_3279a6ac-89ca-4017-8322-2dcf1e69f496">
+            <mets:fptr FILEID="FILE_3279a6ac-89ca-4017-8322-2dcf1e69f496_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

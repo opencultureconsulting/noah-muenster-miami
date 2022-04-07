@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_75b84390-e4c7-4ade-9caa-4b3e5e35c746">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulare Charakterisierung des epithelialen Na+-Kanals (ENaC) aus Nasengewebe von Patienten mit und ohne Mukoviszidose</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132262851">
+                        <displayForm>Bangel, Nadine</displayForm>
+                        <namePart type="given">Nadine</namePart>
+                        <namePart type="family">Bangel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112167985">
+                        <displayForm>Weber, Wolf-Michael</displayForm>
+                        <namePart type="given">Wolf-Michael</namePart>
+                        <namePart type="family">Weber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-10-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-10-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mukoviszidose (Cystische Fibrose, CF) beruht auf einem Gendefekt im CFTR und ist charakterisiert durch eine reduzierte Cl-Sekretion und eine drastisch erhöhte Na+-Absorption, die durch ENaC hervorgerufen wird. Während viele CFTR-Mutationen untersucht und beschrieben wurden, blieben die molekularen Mechanismen, welche die Na+-Hyperabsorption durch ENaC verursachen, weitgehend unaufgeklärt. Um Mutationen im ENaC ausschließen zu können, die eine veränderte Kanaleigenschaft hervorrufen würden und somit zu einer gesteigerten Na+-Absorption führen könnten, wurde der humane ENaC aus respiratorischem Nasenepithel (hnENaC) von CF und nicht-CF Patienten kloniert und sequenziert. So konnte deutlich gezeigt werden, dass die Sequenzen des hnENaC von CF-Patienten und nicht-CF Patienten identisch sind. Nachgewiesen werden konnte darüber hinaus, dass die Menge an ENaC im Nasenepithel von CF Patienten auf mRNA- und teilweise auch Protein-Ebene im direkten Vergleich mit den nicht-CF Proben erhöht ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Mukoviszidose</topic>
+                        <topic>CFTR</topic>
+                        <topic>ENaC</topic>
+                        <topic>Na+-Hyperabsorption</topic>
+                        <topic>respiratorisches Epithel</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-30699550033</identifier>
+                    <identifier type="sys">HT014888909</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_75b84390-e4c7-4ade-9caa-4b3e5e35c746</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_75b84390-e4c7-4ade-9caa-4b3e5e35c746_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/75b84390-e4c7-4ade-9caa-4b3e5e35c746/diss_bangel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_75b84390-e4c7-4ade-9caa-4b3e5e35c746" DMDID="DMD_75b84390-e4c7-4ade-9caa-4b3e5e35c746">
+            <mets:fptr FILEID="FILE_75b84390-e4c7-4ade-9caa-4b3e5e35c746_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,210 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:15be38b1-6e82-483e-befc-64734b28213b" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:39">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_15be38b1-6e82-483e-befc-64734b28213b">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">New finite element methods for solving the MEG and the combined MEG/EEG forward problem</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1193503256">
+                    <mods:namePart type="given">Maria Carla</mods:namePart>
+                    <mods:namePart type="family">Piastra</mods:namePart>
+                    <mods:namePart type="date">1988-</mods:namePart>
+                    <mods:displayForm>Piastra, Maria Carla</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/139810196">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Engwer</mods:namePart>
+                    <mods:displayForm>Engwer, Christian</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2019</mods:dateIssued>
+                    <mods:dateOther>2019-03-11</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2019-08-27</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2019-08-27</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Diese Arbeit umfasst zwei Hauptthemen. (1) Das Studium neuer Finite-Elemente-Methoden (FEMs), d.h. einer kontinuierlichen (CG-) und diskontinuierlichen (DG-) Galerkin-FEM, zur Lösung des Vorwärtsproblemes der Magnetoenzephalographie (MEG) und der Kombination von MEG und Elektroenzephalographie (EEG). Für die MEG/EEG-Quellenanalyse bietet DG-FEM eine interessante neue Alternative zur CG-FEM. (2) Die Analyse der MEG- und EEG-Sensitivität für kortikale und subkortikale Quellen durch Berechnung von Signal-Rausch-Verhältnis (SNR)-Mappings basierend auf der FEM. Unsere Ergebnisse zeigen, dass MEG für kortikale Quellen höhere SNR-Werte erreicht als EEG. Die MEG-SNR-Werte variieren allerdings stark mit der Ausrichtung. Tiefe tangentiale Quellen können sowohl vom MEG als auch vom EEG erkannt werden. Die neuen Methoden wurden in der Toolbox duneuro implementiert. Diese Promotion ist Teil des ChildBrain-Projekts: einer Horizon2020 Marie Skłodowska-Curie Action.</mods:abstract>
+                  <mods:abstract lang="eng">This thesis covers two main topics. (1) The study of new finite element methods (FEMs), i.e., a continuous (CG-) and discontinuous (DG-) Galerkin FEM, to solve the magnetoencephalography(MEG) and the combined MEG/electroencephalography(EEG) forward problem, by validating them in both spherical and realistically shaped head models. For (combined) MEG/EEG source analysis, DG-FEM offers an interesting new alternative to CG-FEM. (2) The application of FEM to analyze MEG and EEG sensitivity to cortical and subcortical sources by computing signal-to-noise ratio (SNR) mappings. We conclude that: MEG SNR values are higher than the EEG ones for cortical sources; only MEG SNR values strongly vary with the orientation; deep tangential sources can be detected by both MEG/EEG. The newly implemented methods are in the duneuro toolbox. Finally, the PhD training is part of the ChildBrain project, a Horizon2020 Marie Skłodowska-Curie Action, and special emphasis was given to dissemination.</mods:abstract>
+                  <mods:tableOfContents lang="eng">List of Figures ..... xiii&#13;
+List of Tables ..... xvii&#13;
+1. General Background ..... 5&#13;
+1.1. Physiological Background ..... 5&#13;
+1.2. Mathemat ical Background ..... 8&#13;
+1.2.1. Derivation of the EEG and MEG Forward Problem ..... 8&#13;
+1.2.2. A Conservation Property ..... 13&#13;
+1.2.3. The MEG Analytical Solution ..... 13&#13;
+2. The CG-FEM for Solving the MEG Forward Problem ..... 15&#13;
+2.1. Basics of the CG-FEM ..... 16&#13;
+2.2. Solving the EEG Forward Problem ..... 18&#13;
+2.3. The Subtraction Approach ..... 20&#13;
+2.4. The Partial Integration Approach ..... 21&#13;
+2.5. Venant's Approach ..... 22&#13;
+2.6. Solving the MEG Forward Problem ..... 25&#13;
+2.7. Validation in Sphere Models ..... 29&#13;
+2.8. Conclusions ..... 53&#13;
+3. The DG-FEM for Solving the MEG Forward Problem ..... 59&#13;
+3.1. Solving the EEG Forward Problem ..... 60&#13;
+3.2. The Discrete Conservative Flux ..... 62&#13;
+3.3. The Subtraction Approach ..... 63&#13;
+3.4. The Partial Integration Approach ..... 68&#13;
+3.5. Solving the MEG Forward Problem ..... 69&#13;
+3.6. Validation in Sphere Models ..... 72&#13;
+3.7. Proof of Concept in a Realistic Head Model ..... 88&#13;
+3.8. Conclusions ..... 89&#13;
+4. Comparison between CG- and DG-FEM ..... 95&#13;
+4.1. Spherical Head Model Studies ..... 95&#13;
+4.1.1. Materials and Methods ..... 95&#13;
+4.1.2. Results ..... 97&#13;
+4.2. Realistically Shaped Head Model Studies ..... 105&#13;
+4.2.1. Materials and Methods ..... 106&#13;
+4.2.2. Results ..... 108&#13;
+4.3. Conclusions ..... 110&#13;
+5. EEG and MEG Sensitivity Maps based on FEM ..... 113&#13;
+5.1. Materials and Methods ..... 114&#13;
+5.1.1. Signal-to-Noise Ratio (SNR) mappings ..... 114&#13;
+5.1.2. Noise estimation ..... 115&#13;
+5.1.3. Finite element approach ..... 120&#13;
+5.1.4. Head models ..... 120&#13;
+5.1.5. Source spaces ..... 123&#13;
+5.1.6. Visualization of the results ..... 128&#13;
+5.2. Results ..... 128&#13;
+5.3. Discussion ..... 133&#13;
+5.4. Conclusions ..... 138&#13;
+A. Appendix ..... 143&#13;
+A.l. Volume Conductor Models ..... 143&#13;
+A.2. Sources and Sensors ..... 144&#13;
+A.3. Error Measures ..... 146&#13;
+A.4. The Transfer Matrix Approach ..... 146&#13;
+A.5. Implementation Aspects on Solving the MEG Forward Problem in duneuro ..... 147&#13;
+A.6. Software Tools ..... 150&#13;
+Bibliography ..... 153</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Elektroenzephalographie; Magnetoenzephalographie; Vorwärtsproblem; diskontinuierliche Galerkin Finite-Elemente-Methode; Finite-Elemente-Methode; Ladungserhaltung; Quellmodell</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Electroencephalography; magnetoencephalography; forward problem; discontinuous Galerkin finite element method; finite element methods; conservative flux; source model</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-53199662090</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/15be38b1-6e82-483e-befc-64734b28213b</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/4.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:15be38b1-6e82-483e-befc-64734b28213b</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_15be38b1-6e82-483e-befc-64734b28213b">
+            <mets:rightsMD ID="RIGHTSMD_15be38b1-6e82-483e-befc-64734b28213b">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_15be38b1-6e82-483e-befc-64734b28213b">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/15be38b1-6e82-483e-befc-64734b28213b</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="f90e0777a796462255f163282dd25d5656a7a0b3fb47647e50a4e4f94c87c8ec" CREATED="2019-08-27T09:23:11" CHECKSUMTYPE="SHA-256" SIZE="23815220" ID="ID_FIL_diss_piastra.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/15be38b1-6e82-483e-befc-64734b28213b/diss_piastra.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW15be38b1-6e82-483e-befc-64734b28213b">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/15be38b1-6e82-483e-befc-64734b28213b" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_15be38b1-6e82-483e-befc-64734b28213b" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_piastra.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_piastra.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_15be38b1-6e82-483e-befc-64734b28213b" DMDID="DMD_15be38b1-6e82-483e-befc-64734b28213b" ID="ID_LOG_15be38b1-6e82-483e-befc-64734b28213b" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_piastra.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_15be38b1-6e82-483e-befc-64734b28213b" xlink:to="ID_PHY_15be38b1-6e82-483e-befc-64734b28213b"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_piastra.pdf" xlink:to="ID_PHY_diss_piastra.pdf"/>
+          </mets:structLink>
+        </mets:mets>

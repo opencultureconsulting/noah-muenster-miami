@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a1cc8760-6473-436d-be0b-24c405f35352">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung einer Methode zur gaschromatographischmassenspektrometrischen Bestimmung von 3-Hydroxyfettsäuren aus bakteriellem Endotoxin</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137716559">
+                        <displayForm>Zürner, Doris Julia</displayForm>
+                        <namePart type="given">Doris Julia</namePart>
+                        <namePart type="family">Zürner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137716559">
+                        <displayForm>Matei, Doris Julia</displayForm>
+                        <namePart type="given">Doris Julia</namePart>
+                        <namePart type="family">Matei</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110474902">
+                        <displayForm>Binding, Norbert</displayForm>
+                        <namePart type="given">Norbert</namePart>
+                        <namePart type="family">Binding</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-02-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-02-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Als Standardmethode zur Bestimmung von Endotoxin gilt derzeit der LAL-Test. Ziel dieser Arbeit war es, eine alternative gaschromatographisch/massenspektrometrische Methode zu entwickeln, die die sensitive Quantifizierung von Endotoxin in Staubproben erlaubt.Die 3-OH Fettsäuren werden in einer zweistufigen Reaktion derivatisiert, wobei die Säurefunktion mit 2,3,4,5,6-Pentafluorobenzylbromid verestert und in die Hydroxyfunktion mit Bis(trimethylsilyl)trifluoracetamid eine Trimethylsilylgruppe eingeführt wird. Diese Derivate werden mit Hilfe der GC/MS-Kopplung im Single Ion Modus mit Electron Ionization getrennt und quantifiziert. Ein Vorteil der neuen Methode ist, dass eine weitere Steigerung der Empfindlichkeit durch Einsatz eines anderen, insbesondere für halogenierte Substanzen geeigneten Ionisierungsverfahrens (Negative Ion Chemical Ionization) erreichbar ist. In einer nachfolgenden Arbeit konnte dies mittlerweile mit einer Empfindlichkeitssteigerung um den Faktor 100 belegt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Endotoxin</topic>
+                        <topic>3-Hydroxyfettsäuren</topic>
+                        <topic>Gaschromatograhie</topic>
+                        <topic>Massenspektrometrie</topic>
+                        <topic>LAL-Test</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62539578727</identifier>
+                    <identifier type="sys">HT015900484</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a1cc8760-6473-436d-be0b-24c405f35352</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a1cc8760-6473-436d-be0b-24c405f35352_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a1cc8760-6473-436d-be0b-24c405f35352/diss_zuerner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a1cc8760-6473-436d-be0b-24c405f35352" DMDID="DMD_a1cc8760-6473-436d-be0b-24c405f35352">
+            <mets:fptr FILEID="FILE_a1cc8760-6473-436d-be0b-24c405f35352_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a1441967-55d6-48dd-a4fd-7081bff14c4a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierung von Fuzzy-Controllern</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128789123">
+                        <displayForm>Niendieck, Steffen</displayForm>
+                        <namePart type="given">Steffen</namePart>
+                        <namePart type="family">Niendieck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1045682977">
+                        <displayForm>Lippe, Wolfram-Manfred</displayForm>
+                        <namePart type="given">Wolfram-Manfred</namePart>
+                        <namePart type="family">Lippe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit werden verschiedene Optimierungssysteme für Fuzzy-Controller vorgestellt und miteinander verglichen. Ausgehend von den Einschränkungen für den erfolgreichen Einsatz der bekannten Systeme wurde ein eigenes Optimierungssystem für Fuzzy-Controller entwickelt, das ohne besondere Voraussetzungen einen vorgegebenen Fuzzy-Controller optimiert. Teil I beschäftigt sich mit den theoretischen Grundlagen von neuronalen Netzen und Fuzzy-Controllern. Neuronale Netze sind lernfähige Systeme, welche aus einer Anzahl einfacher Einheiten bestehen, die miteinander verbunden sind. Fuzzy-Controller ermöglichen die Steuerung von Prozessen mit Hilfe anschaulicher WENN-DANN-Regeln. Teil II behandelt die Optimierung von Fuzzy-Controllern nach Mamdani. Das Verfahren von Lin und Lee, das NEFCON-Modell und das neu entwickelte MFOS (Münsteraner-Fuzzy-Optimierungs-System) werden vorgestellt. Teil III behandelt die Optimierung von Sugeno-Controllern. Das ANFIS-System und eine spezielle Version des MFOS für Sugeno-Controller werden vorgestellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Fuzzy-Controller</topic>
+                        <topic>Fuzzy-Logistik</topic>
+                        <topic>neuronale Netze</topic>
+                        <topic>Optimierung</topic>
+                        <topic>Lernen</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525971</identifier>
+                    <identifier type="sys">HT014004209</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a1441967-55d6-48dd-a4fd-7081bff14c4a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a1441967-55d6-48dd-a4fd-7081bff14c4a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a1441967-55d6-48dd-a4fd-7081bff14c4a/biblexp.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a1441967-55d6-48dd-a4fd-7081bff14c4a" DMDID="DMD_a1441967-55d6-48dd-a4fd-7081bff14c4a">
+            <mets:fptr FILEID="FILE_a1441967-55d6-48dd-a4fd-7081bff14c4a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

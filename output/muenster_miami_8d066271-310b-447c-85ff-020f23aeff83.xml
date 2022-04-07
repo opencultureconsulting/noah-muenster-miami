@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8d066271-310b-447c-85ff-020f23aeff83">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Unfitted discontinuous Galerkin schemes for applications with PDEs on complex-shaped surfaces</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1165526395">
+                        <displayForm>Westerheide, Sebastian</displayForm>
+                        <namePart type="given">Sebastian</namePart>
+                        <namePart type="family">Westerheide</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139810196">
+                        <displayForm>Engwer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Engwer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-06-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die UDG-Methode ermöglicht konservative DG-Diskretisierungen partieller Differentialgleichungen (PDEs) auf der Basis von Cut-Cell-Gittern. Sie eignet sich daher besonders zur Lösung von Kontinuitätsgleichungen auf Gebieten mit komplizierten Rändern. In dieser Arbeit zeigen wir, wie sich die Methode auf PDEs auf gekrümmten Oberflächen übertragen lässt. Wir stellen UDG-Verfahren für eine biologisch motivierte Klasse von Modellproblemen vor, die Kontinuitätsgleichungen in einem potentiell zeitabhängigen Gebiet und auf dessen Oberfläche umfasst. Unsere Ansätze kombinieren höherdimensionale Erweiterungen von Oberflächen-PDEs mit Konzepten von Spur-Finite-Elemente-Methoden. Dies resultiert in Verfahren mit vorteilhaften Eigenschaften. Physikalische Erhaltungseigenschaften werden etwa im diskreten Sinne abgebildet und bestehende Implementierungen der UDG-Methode können wiederverwendet werden. Ein hohes Maß an geometrischer Flexibilität wird dabei durch den Einsatz der Level-Set-Methode erreicht. Mittels theoretischer und numerischer Studien zeigen wir, dass unsere Ansätze vielversprechende Verfahren für die betrachtete Klasse von Modellproblemen liefern.</abstract>
+                    <abstract lang="eng">The UDG method allows for conservative DG discretizations of partial differential equations (PDEs) based on cut cell meshes. It is hence particularly suitable for solving continuity equations on complex-shaped bulk domains. In this thesis, we show how the method can be transferred to PDEs on curved surfaces. We introduce UDG schemes for a class of model problems that is biologically motivated and comprises continuity equations on a potentially time-dependent bulk domain and its surface. Our approaches combine ideas of methods that extend surface PDEs to higher-dimensional bulk domains with concepts of trace finite element methods. This results in schemes with favorable properties, such as the recovery of discrete analogues to conservation laws that are embedded in the PDEs, and the reusability of existing implementations of the UDG method. At the same time, a high degree of geometric flexibility is achieved by using a level set representation of the geometry. We present theoretical investigations and numerical results which demonstrate that our computational approaches to surface PDEs yield promising schemes for the considered class of model problems.</abstract>
+                    <subject lang="ger">
+                        <topic>unfitted DG</topic>
+                        <topic>Cut-Cell-Methoden</topic>
+                        <topic>Spur-FEM</topic>
+                        <topic>partielle Differentialgleichungen auf Oberflächen</topic>
+                        <topic>Erhaltungsgleichungen</topic>
+                        <topic>bewegte Geometrie</topic>
+                        <topic>Level-Set-Methoden</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>unfitted DG</topic>
+                        <topic>cut cell methods</topic>
+                        <topic>trace FEM</topic>
+                        <topic>surface PDEs</topic>
+                        <topic>conservation laws</topic>
+                        <topic>moving domain</topic>
+                        <topic>level set methods</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17169560561</identifier>
+                    <identifier type="sys">HT019788571</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8d066271-310b-447c-85ff-020f23aeff83</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8d066271-310b-447c-85ff-020f23aeff83_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8d066271-310b-447c-85ff-020f23aeff83/diss_westerheide.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8d066271-310b-447c-85ff-020f23aeff83" DMDID="DMD_8d066271-310b-447c-85ff-020f23aeff83">
+            <mets:fptr FILEID="FILE_8d066271-310b-447c-85ff-020f23aeff83_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

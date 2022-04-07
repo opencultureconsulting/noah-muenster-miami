@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4830a84a-fe3a-4b7d-a4b3-5c49206bdea8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beweiswert digitaler Dokumente</title>
+                        <subTitle>eine EU-Perspektive</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-06-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-06-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Schlauri, Simon (Hrsg.): Internet-Recht und Digitale Signaturen : 6. Tagungsband. Bern : Stämpfli, 2005, ISBN 3-7272-2191-7, S. 83-101</note>
+                    <subject lang="ger">
+                        <topic>Internetrecht</topic>
+                        <topic>digitale Signaturen</topic>
+                        <topic>Tagungsband</topic>
+                        <topic>digitale Dokumente</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-13359361391</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4830a84a-fe3a-4b7d-a4b3-5c49206bdea8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4830a84a-fe3a-4b7d-a4b3-5c49206bdea8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4830a84a-fe3a-4b7d-a4b3-5c49206bdea8/Bewiswert_digitaler_Dokumente.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4830a84a-fe3a-4b7d-a4b3-5c49206bdea8" DMDID="DMD_4830a84a-fe3a-4b7d-a4b3-5c49206bdea8">
+            <mets:fptr FILEID="FILE_4830a84a-fe3a-4b7d-a4b3-5c49206bdea8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

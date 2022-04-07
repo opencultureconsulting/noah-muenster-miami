@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fe79b7fd-1e14-447e-894e-84ed838843ae">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Design und Implementierung einer grafischen Benutzeroberfläche zur Verwaltung einer Datenbank für multimediale medizinische Objekte auf Basis XML-codierter Inhalte</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124940544">
+                        <displayForm>Ruppel, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Ruppel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/174096933">
+                        <displayForm>Köpcke, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Köpcke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/174096933">
+                        <displayForm>Koepcke, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Koepcke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/174096933">
+                        <displayForm>Köpcke, W.</displayForm>
+                        <namePart type="given">W.</namePart>
+                        <namePart type="family">Köpcke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-08-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-08-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Am Institut für Medizinische Informatik und Biomathematik an der WWU Münster wurde ein Datenbanksystem (MMO-System) zur Verwaltung multimedialer medizinischer Objekte entwickelt, das als Archiv zum Austausch und zur multiplen Verwendung (z.B. in Printmedien, CD-Roms ...) von Multimediadateien dienen soll. Die Anforderungen an dieses System beinhalten u.a. die Möglichkeit zur Suche nach geeigneten Objekten, sowie Funktionen zur automatischen Erstellung interaktiver virtueller Lehreinheiten unter Verwendung der gespeicherten Inhalte. Um ein sinnvolles Arbeiten mit dem MMO-System zu ermöglichen, muß eine komfortable Benutzeroberfläche bereitgestellt werden, über die die verschiedenen Funktionen des Systems aufgerufen werden können. In dieser Arbeit wird das Design und die Implementierung einer solchen Oberfläche beschrieben. Über eine HTTP-Schnittstelle kommuniziert dieser Client mit einem Datenhank-Server. Dabei werden die Daten in der Objektbeschreibungssprache XML übertragen.</abstract>
+                    <subject lang="ger">
+                        <topic>XML</topic>
+                        <topic>Multimedia</topic>
+                        <topic>semantic network</topic>
+                        <topic>Semantische Netze</topic>
+                        <topic>Virtuelle Touren</topic>
+                        <topic>UMLS</topic>
+                        <topic>database</topic>
+                        <topic>Datenbank</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659543235</identifier>
+                    <identifier type="sys">HT013835288</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fe79b7fd-1e14-447e-894e-84ed838843ae</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fe79b7fd-1e14-447e-894e-84ed838843ae_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fe79b7fd-1e14-447e-894e-84ed838843ae/dissertation_ruppel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fe79b7fd-1e14-447e-894e-84ed838843ae" DMDID="DMD_fe79b7fd-1e14-447e-894e-84ed838843ae">
+            <mets:fptr FILEID="FILE_fe79b7fd-1e14-447e-894e-84ed838843ae_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

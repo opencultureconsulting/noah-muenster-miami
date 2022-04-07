@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b35bf1c9-a1f0-45e1-a987-2d351432f3fc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Erst wägen, dann wagen“. Über den Brexit und die wirtschaftlichen Folgen für die Niederlande und Deutschland</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113826605">
+                        <displayForm>Paridon, Kees van</displayForm>
+                        <namePart type="given">Kees van</namePart>
+                        <namePart type="family">Paridon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Unruhige Zeiten</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Unruhige Zeiten</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>143</start>
+                                <end>164</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27139647492</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b35bf1c9-a1f0-45e1-a987-2d351432f3fc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b35bf1c9-a1f0-45e1-a987-2d351432f3fc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b35bf1c9-a1f0-45e1-a987-2d351432f3fc/nl-schriften_band-003_143-164.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b35bf1c9-a1f0-45e1-a987-2d351432f3fc" DMDID="DMD_b35bf1c9-a1f0-45e1-a987-2d351432f3fc">
+            <mets:fptr FILEID="FILE_b35bf1c9-a1f0-45e1-a987-2d351432f3fc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

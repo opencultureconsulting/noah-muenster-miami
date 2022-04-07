@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ef93fe80-79db-4ce4-8db7-81ec0e9df6bc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rede anlässlich der Examensfeier vom 12. Januar 2008</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113382367">
+                        <displayForm>Berntzen, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Berntzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-01-12</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-12</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-01-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Rede anlässlich der Examensfeier für die Absolventen und Absolventinnen der Lehramtsstudiengänge Primarstufe (LPO 98), Lehramt für die Grund-, Haupt- und Realschulen und die entsprechenden Jahrgangsstufen der Gesamtschulen (LPO 2003) durchgeführt von der Fachschaft Primarstufe/GHR der Westfälischen Wilhelms-Universität Münster am 12. Januar 2008 im Hörsaal H1</note>
+                    <subject lang="ger">
+                        <topic>Lehrerbildung</topic>
+                        <topic>Zentrum für Lehrerbildung</topic>
+                        <topic>Weiterbildung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-76549399299</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ef93fe80-79db-4ce4-8db7-81ec0e9df6bc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ef93fe80-79db-4ce4-8db7-81ec0e9df6bc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ef93fe80-79db-4ce4-8db7-81ec0e9df6bc/Rede-Examensfeier-12-01-2008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ef93fe80-79db-4ce4-8db7-81ec0e9df6bc" DMDID="DMD_ef93fe80-79db-4ce4-8db7-81ec0e9df6bc">
+            <mets:fptr FILEID="FILE_ef93fe80-79db-4ce4-8db7-81ec0e9df6bc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

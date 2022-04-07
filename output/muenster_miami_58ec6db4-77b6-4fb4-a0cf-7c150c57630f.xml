@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_58ec6db4-77b6-4fb4-a0cf-7c150c57630f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Building a resource for studying translation shifts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cyrus, Lea</displayForm>
+                        <namePart type="given">Lea</namePart>
+                        <namePart type="family">Cyrus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-06-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-06-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">This paper describes an interdisciplinary approach which brings together the ﬁelds of corpus linguistics and translation studies. It presents ongoing work on the creation of a corpus resource in which translation shifts are explicitly annotated. Translation shifts denote departures from formal correspondence between source and target text, i. e. deviations that have occurred during the translation process. A resource in which such shifts are annotated in a systematic way will make it possible to study those phenomena that need to be addressed if machine translation output is to resemble human translation. The resource described in this paper contains English source texts (parliamentary proceedings) and their German translations. The shift annotation is based on predicate-argument structures and proceeds in two steps: ﬁrst, predicates and their arguments are annotated monolingually in a straightforward manner. Then, the corresponding English and German predicates and arguments are aligned with each other. Whenever a shift – mainly grammatical or semantic – has occurred, the alignment is tagged accordingly.</abstract>
+                    <note type="citation/reference">Proc. LREC 2006. Genoa, May 24-26 (2006), S. 1240-1245</note>
+                    <subject lang="ger">
+                        <topic>Korpuslinguistik</topic>
+                        <topic>Computerlinguistik</topic>
+                        <topic>syntaktische Annotation</topic>
+                        <topic>semantische Annotation</topic>
+                    </subject>
+                    <classification authority="ddc">400</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92619494486</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_58ec6db4-77b6-4fb4-a0cf-7c150c57630f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_58ec6db4-77b6-4fb4-a0cf-7c150c57630f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/58ec6db4-77b6-4fb4-a0cf-7c150c57630f/0605_lrec.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_58ec6db4-77b6-4fb4-a0cf-7c150c57630f" DMDID="DMD_58ec6db4-77b6-4fb4-a0cf-7c150c57630f">
+            <mets:fptr FILEID="FILE_58ec6db4-77b6-4fb4-a0cf-7c150c57630f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

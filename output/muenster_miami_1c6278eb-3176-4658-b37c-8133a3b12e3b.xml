@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1c6278eb-3176-4658-b37c-8133a3b12e3b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung von Methoden zur Unterdrückung des Spektrometeruntergrunds beim KATRIN-Experiment</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1017983836">
+                        <displayForm>Hillen, Björn</displayForm>
+                        <namePart type="given">Björn</namePart>
+                        <namePart type="family">Hillen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weinheimer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Weinheimer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-12-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-11-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das KATRIN Experiment wird die Neutrinomassse bis auf 0,2eV (90% C.L.) bestimmen. Um die geforderte Auflösung zu erreichen, muss der Untergrund im niedrigen mHz Bereich liegen. Dazu muss der natürliche Untergrund an verschiedenen Stellen im Experiment reduziert werden. Im Rahmen dieser Arbeit wurden Untersuchungen zur Reduktion des Untergrundes an zwei wichtigen Komponenten des Experiments durchgeführt. Erstens wird der im Hauptspektrometer durch kosmische Strahlung induzierte Untergrund durch eine elektrostatische Abschirmung unterdrückt. Zweitens wird die Charakteristik der intrinsischen Penningfalle zwischen Vor- und Hauptspektrometer untersucht. Mit dem genauen Verständnis der Falle war es möglich diese mittels dreier verschiedener Methoden in regelmäßigen Abständen zu entleeren.</abstract>
+                    <subject lang="ger">
+                        <topic>KATRIN Experiment</topic>
+                        <topic>Drahtelektrode</topic>
+                        <topic>Penningfalle</topic>
+                        <topic>Untergrundreduktion</topic>
+                        <topic>Drahtscanner</topic>
+                        <topic>Magnetfeldkompensation</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22429660310</identifier>
+                    <identifier type="sys">HT017068880</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1c6278eb-3176-4658-b37c-8133a3b12e3b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1c6278eb-3176-4658-b37c-8133a3b12e3b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1c6278eb-3176-4658-b37c-8133a3b12e3b/diss_hillen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1c6278eb-3176-4658-b37c-8133a3b12e3b" DMDID="DMD_1c6278eb-3176-4658-b37c-8133a3b12e3b">
+            <mets:fptr FILEID="FILE_1c6278eb-3176-4658-b37c-8133a3b12e3b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

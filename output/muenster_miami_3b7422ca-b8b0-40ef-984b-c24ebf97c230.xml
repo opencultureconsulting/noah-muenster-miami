@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3b7422ca-b8b0-40ef-984b-c24ebf97c230">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Integrated data management for clinical studies: Automatic transformation of data models with semantic Annotations for Principal Investigators, Data Managers and Statisticians</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1131361393">
+                        <displayForm>Dugas, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Dugas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341401">
+                        <displayForm>Dugas-Breit, Susanne</displayForm>
+                        <namePart type="given">Susanne</namePart>
+                        <namePart type="family">Dugas-Breit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-28</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Design, execution and analysis of clinical studies involves several stakeholders with different professional backgrounds. Typically, principle investigators are familiar with standard office tools, data managers apply electronic data capture (EDC) systems and statisticians work with statistics software. Case report forms (CRFs) specify the data model of study subjects, evolve over time and consist of hundreds to thousands of data items per study. To avoid erroneous manual transformation work, a converting tool for different representations of study data models was designed. It can convert between office format, EDC and statistics format. In addition, it supports semantic annotations, which enable precise definitions for data items. A reference implementation is available as open source package ODMconverter at http://cran.r-project.org.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2013/2014 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">PLoS ONE 9 (2014) 2, e90492</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-83389563328</identifier>
+                    <identifier type="doi">doi:10.1371/journal.pone.0090492</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3b7422ca-b8b0-40ef-984b-c24ebf97c230</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3b7422ca-b8b0-40ef-984b-c24ebf97c230_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3b7422ca-b8b0-40ef-984b-c24ebf97c230/journal.pone.0090492.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3b7422ca-b8b0-40ef-984b-c24ebf97c230" DMDID="DMD_3b7422ca-b8b0-40ef-984b-c24ebf97c230">
+            <mets:fptr FILEID="FILE_3b7422ca-b8b0-40ef-984b-c24ebf97c230_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

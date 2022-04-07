@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_266c8034-15c4-4017-b60a-bcc28b22e3cb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zweckverbände</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1989</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-09-19</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-10-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Chmielewicz, Klaus (Hrsg.): Handwörterbuch der Öffentlichen Betriebswirtschaft. Stuttgart : Poeschel, 1989, S. 1878-1882</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94269482710</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_266c8034-15c4-4017-b60a-bcc28b22e3cb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_266c8034-15c4-4017-b60a-bcc28b22e3cb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/266c8034-15c4-4017-b60a-bcc28b22e3cb/1989_oebbe_zweck.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_266c8034-15c4-4017-b60a-bcc28b22e3cb" DMDID="DMD_266c8034-15c4-4017-b60a-bcc28b22e3cb">
+            <mets:fptr FILEID="FILE_266c8034-15c4-4017-b60a-bcc28b22e3cb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

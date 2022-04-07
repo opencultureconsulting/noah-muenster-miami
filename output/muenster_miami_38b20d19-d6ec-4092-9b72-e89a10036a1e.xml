@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_38b20d19-d6ec-4092-9b72-e89a10036a1e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hochfrequenz Speckle Tracking des fetalen Herzens</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1011645297">
+                        <displayForm>Kröher, Sarah Aileen</displayForm>
+                        <namePart type="given">Sarah Aileen</namePart>
+                        <namePart type="family">Kröher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110918193">
+                        <displayForm>Klockenbusch, Walter</displayForm>
+                        <namePart type="given">Walter</namePart>
+                        <namePart type="family">Klockenbusch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110918193">
+                        <displayForm>Klockenbusch, W.</displayForm>
+                        <namePart type="given">W.</namePart>
+                        <namePart type="family">Klockenbusch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-05-01</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-01-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">2D dopplerunabhängige Ultraschallmethode, welche anhand von Funktionsparametern (Geschwindigkeit, Verschiebung und Verformung) eine Beurteilung der regionalen und globalen, systolischen wie diastolischen, fetalen Herzfunktion ermöglicht. Jede Region des Herzmuskels kann markiert und durch Speckle dargestellt werden. Speckles sind Interferenzmuster reflektierter Ultraschallwellen, deren Positionsänderung von Bild zu Bild verfolgt werden kann (Speckle Tracking). Die Velocity Vector Imaging Software verfolgt automatisch die Myokardbewegung entlang der Endokardgrenze, was als Endokardboardertracking bezeichnet wird. Vektoren zeigen Höhe und Richtung der Bewegung an. Wir untersuchten die Bild- und Tracking-Qualität sowie deren Abhängigkeit von der Bildfrequenzrate. Zu Beginn der Systole erstellten wir Referenzwerte beider Ventrikel und Atrien, in automatischen und manuellen Messungen. Des Weiteren betrachteten wir die Reproduzierbarkeit und klinische Anwendbarkeit dieser neuen Methode.</abstract>
+                    <subject lang="ger">
+                        <topic>Speckle Tracking</topic>
+                        <topic>Velocity Vector Imaging</topic>
+                        <topic>fetales Herz</topic>
+                        <topic>Funktionsparameter</topic>
+                        <topic>Endokardbordertracking</topic>
+                        <topic>Hochfrequenz-Daten</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04449455790</identifier>
+                    <identifier type="sys">HT016808531</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_38b20d19-d6ec-4092-9b72-e89a10036a1e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_38b20d19-d6ec-4092-9b72-e89a10036a1e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/38b20d19-d6ec-4092-9b72-e89a10036a1e/diss_kroeher.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_38b20d19-d6ec-4092-9b72-e89a10036a1e" DMDID="DMD_38b20d19-d6ec-4092-9b72-e89a10036a1e">
+            <mets:fptr FILEID="FILE_38b20d19-d6ec-4092-9b72-e89a10036a1e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

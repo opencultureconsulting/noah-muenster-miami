@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_af4309fb-6894-4205-bf20-67cc83d424e5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bürgerliche Häuslichkeit als literarisches Raumkonzept in niederländischer Erzählprosa des 19. und 20. Jahrhunderts</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1179104277">
+                        <displayForm>Leuker, Maria-Theresia</displayForm>
+                        <namePart type="given">Maria-Theresia</namePart>
+                        <namePart type="family">Leuker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Antrittsvorlesung, gehalten am 17. Juni 1999 anläßlich der Verleihung der venia legendi für Niederländische Philologie durch den Fachbereich Philologie der Westfälischen Wilhelms-Universität Münster; für den Druck leicht überarbeitet.</note>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>51</start>
+                                <end>67</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97179482938</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_af4309fb-6894-4205-bf20-67cc83d424e5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_af4309fb-6894-4205-bf20-67cc83d424e5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/af4309fb-6894-4205-bf20-67cc83d424e5/jahrbuch_zns_1999-2000_10-11_51-67.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_af4309fb-6894-4205-bf20-67cc83d424e5" DMDID="DMD_af4309fb-6894-4205-bf20-67cc83d424e5">
+            <mets:fptr FILEID="FILE_af4309fb-6894-4205-bf20-67cc83d424e5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

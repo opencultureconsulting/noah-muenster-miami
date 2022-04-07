@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c111f141-84a6-4cca-b0ec-e0d486f525e5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Protokoll der Arbeitsgruppe Qualitätssicherung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1140833189">
+                        <displayForm>Emmerich, Ellen</displayForm>
+                        <namePart type="given">Ellen</namePart>
+                        <namePart type="family">Emmerich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-03-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-06-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note>2. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 3. und 4. März 2008 in Trier</note>
+                    <subject lang="ger">
+                        <topic>Lehrerbildung</topic>
+                        <topic>Zentrum für Lehrerbildung</topic>
+                        <topic>Qualitätssicherung</topic>
+                        <topic>Qualitätsentwicklung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84599397627</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c111f141-84a6-4cca-b0ec-e0d486f525e5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c111f141-84a6-4cca-b0ec-e0d486f525e5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c111f141-84a6-4cca-b0ec-e0d486f525e5/Protokoll-AG-Qualitaetssicherung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c111f141-84a6-4cca-b0ec-e0d486f525e5" DMDID="DMD_c111f141-84a6-4cca-b0ec-e0d486f525e5">
+            <mets:fptr FILEID="FILE_c111f141-84a6-4cca-b0ec-e0d486f525e5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_391fd146-7508-4f17-97d1-01541e73d11c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Tabellenkalkulation und Dynamische Geometrie in der Jahrgangsstufe 5</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1025418565">
+                        <displayForm>Saint-George, Guido von</displayForm>
+                        <namePart type="given">Guido von</namePart>
+                        <namePart type="family">Saint-George</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-10-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Kurzvortrag auf der T³-Regionaltagung Münster vom 19.02.2005</note>
+                    <subject lang="ger">
+                        <topic>Mathematik</topic>
+                        <topic>Didaktik</topic>
+                        <topic>neue Medien</topic>
+                        <topic>Tabellenkalkulation</topic>
+                        <topic>DGS</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74679247665</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_391fd146-7508-4f17-97d1-01541e73d11c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_391fd146-7508-4f17-97d1-01541e73d11c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/391fd146-7508-4f17-97d1-01541e73d11c/Kurzvortrag-Saint-George-Neue-Medien-im-Jg5.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_391fd146-7508-4f17-97d1-01541e73d11c" DMDID="DMD_391fd146-7508-4f17-97d1-01541e73d11c">
+            <mets:fptr FILEID="FILE_391fd146-7508-4f17-97d1-01541e73d11c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

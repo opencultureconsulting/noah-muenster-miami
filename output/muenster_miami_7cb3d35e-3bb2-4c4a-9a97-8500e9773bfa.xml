@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7cb3d35e-3bb2-4c4a-9a97-8500e9773bfa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Dat sy tot Deventer bi den scepenen comen zolden&quot;</title>
+                        <subTitle>Ein Beitrag zur Führungsschicht der Stadt Deventer und ihrem Verhältnis zu Landesherrn und Umland im 13. und 14. Jahrhundert</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1057286516">
+                        <displayForm>Schneider, Reinhold</displayForm>
+                        <namePart type="given">Reinhold</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1992</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-06-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>189</start>
+                                <end>197</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58139464173</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7cb3d35e-3bb2-4c4a-9a97-8500e9773bfa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7cb3d35e-3bb2-4c4a-9a97-8500e9773bfa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7cb3d35e-3bb2-4c4a-9a97-8500e9773bfa/jahrbuch_zns_1991_2_189-197.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7cb3d35e-3bb2-4c4a-9a97-8500e9773bfa" DMDID="DMD_7cb3d35e-3bb2-4c4a-9a97-8500e9773bfa">
+            <mets:fptr FILEID="FILE_7cb3d35e-3bb2-4c4a-9a97-8500e9773bfa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

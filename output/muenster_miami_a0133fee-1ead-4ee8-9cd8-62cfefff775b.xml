@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a0133fee-1ead-4ee8-9cd8-62cfefff775b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Fitted and unfitted finite element methods for solving the EEG forward problem</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1167567323">
+                        <displayForm>Nüßing, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Nüßing</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139810196">
+                        <displayForm>Engwer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Engwer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Ziel dieser Arbeit ist die Entwicklung, Analyse und Validierung akkurater und effizienter Strategien zur Lösung des Elektroenzephalographie (EEG) Vorwärtsproblems. Für an die Geometrie angepasste Methoden, wie etwa die konforme Finite-Elemente Methode oder die unstetige Galerkin Methode, werden verschiedene Diskretisierungen des dipolaren Quellterms hergeleitet, erweitert und evaluiert. Insbesondere wird ein neuer Subtraktionsansatz vorgestellt und analysiert. Im zweiten Teil der Arbeit werden zwei Geometrie-unabhängige Finite-Elemente Methoden für die Lösung des EEG Vorwärtsproblems eingeführt. Die Berücksichtigung der Geometrie erfolgt implizit durch Einsatz der Level-Set Methode und führt zu einer einfacheren Simulations-Pipeline. Die Validierung dieser Verfahren erfolgt in Kugelmodellen sowie unter Nutzung realistischer Kopfmodelle. Im letzten Abschnitt wird die Software Toolbox duneuro präsentiert, welche erweiterbare Schnittstellen zur Vorwärtsmodellierung in Neurowissenschaften basierend auf der Dune Bibliothek bereitstellt.</abstract>
+                    <abstract lang="eng">The aim of this thesis is the development, analysis and validation of accurate and efficient strategies for solving the electroencephalography (EEG) forward problem. For fitted methods, such as the conforming finite element method of the discontinuous Galerkin method, various discretizations of the dipolar source term are derived, extended and evaluated. In particular a new subtraction approach is introduced and analyzed. In the second part of this thesis, two unfitted finite element methods are presented for solving the EEG forward problem. The geometry is taken into account implicitly using the level-set method, which leads to a simpler simulation pipeline. The validation of these methods is performed using sphere model studies as well as realistic head models. In the last part, the software toolbox duneuro is introduced, which offers extendible interfaces for forward modeling in neuroscience based on the Dune framework.</abstract>
+                    <subject lang="ger">
+                        <topic>Elektroenzephalographie</topic>
+                        <topic>Level-Set Methode</topic>
+                        <topic>CutFEM</topic>
+                        <topic>UDG</topic>
+                        <topic>Subtraktionsansatz</topic>
+                        <topic>Dune</topic>
+                        <topic>duneuro</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>electroencephalography</topic>
+                        <topic>level-set method</topic>
+                        <topic>CutFEM</topic>
+                        <topic>UDG</topic>
+                        <topic>subtraction approach</topic>
+                        <topic>Dune</topic>
+                        <topic>duneuro</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67139436770</identifier>
+                    <identifier type="sys">HT019816235</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a0133fee-1ead-4ee8-9cd8-62cfefff775b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a0133fee-1ead-4ee8-9cd8-62cfefff775b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a0133fee-1ead-4ee8-9cd8-62cfefff775b/diss_nuessing.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a0133fee-1ead-4ee8-9cd8-62cfefff775b" DMDID="DMD_a0133fee-1ead-4ee8-9cd8-62cfefff775b">
+            <mets:fptr FILEID="FILE_a0133fee-1ead-4ee8-9cd8-62cfefff775b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

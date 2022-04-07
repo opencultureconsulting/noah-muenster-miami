@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_226f456e-af27-4424-8e3a-18ebde4f90dc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modellierung der Dynamik granularer Materie durch ein viskoplastisches Kontinuumsmodell</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1124856463">
+                        <displayForm>Zub, Thomas Stanislaus</displayForm>
+                        <namePart type="given">Thomas Stanislaus</namePart>
+                        <namePart type="family">Zub</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1126071455">
+                        <displayForm>Linz, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Linz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1126071455">
+                        <displayForm>Linz, Stefan J.</displayForm>
+                        <namePart type="given">Stefan J.</namePart>
+                        <namePart type="family">Linz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1126071455">
+                        <displayForm>Linz, Stefan Jakob</displayForm>
+                        <namePart type="given">Stefan Jakob</namePart>
+                        <namePart type="family">Linz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-02-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-10-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit werden zwei bekannte granulare Problemstellungen mithilfe eines Kontinuumsmodells untersucht. Dafür werden zunächst die wichtigsten Erkenntnisse der granularen Rheologie und der Experimente zusammengefasst. Aufbauend auf diesen Grundlagen wird eine inkompressible Impulsgleichung mit einer scherverdünnenden Viskosität und einer druckabhängigen Grenzspannung abgeleitet. Das vorliegende Modell wird nun zunächst auf den Fluss entlang der schrägen Ebene angewendet und reproduziert charakteristische Eigenschaften. Danach folgt die Anwendung auf die Musterbildung unter vertikaler Vibration, dessen Kraftmodellierung durch das inelastische Bouncing-Ball-Modell beschrieben wird. Das erweiterte Modell wird dann numerisch behandelt. Die experimentell gefundenen Muster werden numerisch reproduziert und wesentliche Eigenschaften herausgestellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Strömungsmechanik</topic>
+                        <topic>Granulat</topic>
+                        <topic>OpenFOAM</topic>
+                        <topic>Cauchy-Bewegungsgleichungen</topic>
+                        <topic>Kontinuumsmodell</topic>
+                        <topic>Bouncing-Ball-Modell</topic>
+                        <topic>Musterbildung</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53219402525</identifier>
+                    <identifier type="sys">HT019249809</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_226f456e-af27-4424-8e3a-18ebde4f90dc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_226f456e-af27-4424-8e3a-18ebde4f90dc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/226f456e-af27-4424-8e3a-18ebde4f90dc/diss_zub.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_226f456e-af27-4424-8e3a-18ebde4f90dc" DMDID="DMD_226f456e-af27-4424-8e3a-18ebde4f90dc">
+            <mets:fptr FILEID="FILE_226f456e-af27-4424-8e3a-18ebde4f90dc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

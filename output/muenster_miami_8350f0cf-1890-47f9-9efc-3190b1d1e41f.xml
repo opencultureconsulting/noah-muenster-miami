@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8350f0cf-1890-47f9-9efc-3190b1d1e41f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestimmung von Präzision und Reproduzierbarkeit der Volumetrie von Lungenrundherden mit einer neuen Volumetrie-Software (LungVCAR™) an einem Lungenphantom mit Rundherden unterschiedlicher Größe und Lokalisation</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141041633">
+                        <displayForm>Köneke, Antje Helga</displayForm>
+                        <namePart type="given">Antje Helga</namePart>
+                        <namePart type="family">Köneke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12005471X">
+                        <displayForm>Maintz, David</displayForm>
+                        <namePart type="given">David</namePart>
+                        <namePart type="family">Maintz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-02-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-11-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Studie widmet sich der Untersuchung einerseits der Präzision (d.h. Übereinstimmung von gemessenen Volumen und realem Volumen) und andererseits der Reproduzierbarkeit (d.h. Übereinstimmung verschiedener Messungen des gleichen Rundherdes) der Volumetrie eines der Computer- assistierten Diagnose Programme (CAD) (LungVCAR™) am Lungenphantom. Dabei zeigte sich je nach Kontakt eines Rundherdes zu Gefäßen und Pleura sowie je nach Rundherdgröße teilweise Messfehler von 0,2 % bis 58,65 % im Vergleich zum realen Volumen. Auch die Reproduzierbarkeit war, bei unterschiedlichen Schichtdicken, Dosis bzw. nach Repositionierung des Phantoms, nicht optimal mit Abweichungen der gemessenen Volumen von 0,2 % bis 74,92 %. Diese am Phantom ohne Atem- und Pulsationsartefakten an scharf begrenzten Rundherden erhobenen Daten lassen die Anwendung des untersuchten Programms am Patienten auf deutlich erschwerte Bedingungen nur unter Vorbehalt empfehlen.</abstract>
+                    <subject lang="ger">
+                        <topic>Computerassistiertes Diagnose-Programm (CAD)</topic>
+                        <topic>Volumetrie</topic>
+                        <topic>Phantom</topic>
+                        <topic>Schichtdicke</topic>
+                        <topic>Strahlendosis</topic>
+                        <topic>Präzision</topic>
+                        <topic>Reproduzierbarkeit</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58489569502</identifier>
+                    <identifier type="sys">HT016355259</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8350f0cf-1890-47f9-9efc-3190b1d1e41f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8350f0cf-1890-47f9-9efc-3190b1d1e41f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8350f0cf-1890-47f9-9efc-3190b1d1e41f/diss_koeneke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8350f0cf-1890-47f9-9efc-3190b1d1e41f" DMDID="DMD_8350f0cf-1890-47f9-9efc-3190b1d1e41f">
+            <mets:fptr FILEID="FILE_8350f0cf-1890-47f9-9efc-3190b1d1e41f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

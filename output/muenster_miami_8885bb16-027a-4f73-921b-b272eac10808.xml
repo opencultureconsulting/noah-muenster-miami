@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8885bb16-027a-4f73-921b-b272eac10808">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="fre">
+                        <title>J. P. Pautreau, Ch. Gendron, J. R. Bourhis, La cachette de Triou</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108081737">
+                        <displayForm>Jockenhövel, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Jockenhövel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1987</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-03-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-03-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+                    </language>
+                    <note type="citation/reference">Germania 65 (1987) 1, 255-257</note>
+                    <classification authority="ddc">930</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-41429592940</identifier>
+                    <identifier type="issn">0016-8874</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8885bb16-027a-4f73-921b-b272eac10808</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8885bb16-027a-4f73-921b-b272eac10808_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8885bb16-027a-4f73-921b-b272eac10808/1987_jocke_bronz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8885bb16-027a-4f73-921b-b272eac10808" DMDID="DMD_8885bb16-027a-4f73-921b-b272eac10808">
+            <mets:fptr FILEID="FILE_8885bb16-027a-4f73-921b-b272eac10808_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

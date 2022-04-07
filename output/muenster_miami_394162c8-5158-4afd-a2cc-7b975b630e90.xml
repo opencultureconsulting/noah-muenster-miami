@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_394162c8-5158-4afd-a2cc-7b975b630e90">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Anwendung eines hochsensitiven Nachweissystems von Prion-Proteinen in Spüllösungen nach Instrumentenkontamination</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132498456">
+                        <displayForm>Zimmermann, Sandra</displayForm>
+                        <namePart type="given">Sandra</namePart>
+                        <namePart type="family">Zimmermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114015414">
+                        <displayForm>Kuczius, Thorsten</displayForm>
+                        <namePart type="given">Thorsten</namePart>
+                        <namePart type="family">Kuczius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-04-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die variante Creutzfeldt-Jakob-Krankheit (vCJD) ist eine degenerative, tödlich verlaufende Hirnerkrankung. Als Auslöser und Erreger der vCJD werden infektiöse Prionproteine (PrPSc) angesehen. Da über die Infektionsdosis sehr wenig bekannt ist, muss davon ausgegangen werden, dass bereits geringste PrP-Mengen eine CJD auslösen können. Daher bedarf es hochsensitiver Nachweisverfahren. Mit Hilfe einer neu entwickelten Immuno-PCR wurde das Signal des Immunokomplexes im Vergleich zur ELISA-Technik unter identischen Bedingungen um das vierzigfache verstärkt. Dafür wurde an den Immunkomplex ein DNA-Fragment gekoppelt, welches in einer Polymerasekettenreaktion amplifiziert, im Gel visualisiert und durch Densitometrie quantifiziert wurde. Als Anwendung der Immuno-PCR unter hygienischen Aspekten wurden artifiziell kontaminierte Instrumente gereinigt und der Einfluss der Temperatur, des Lösungsmittels und der Trocknungszeit analysiert.</abstract>
+                    <subject lang="ger">
+                        <topic>Prionen</topic>
+                        <topic>Hygiene</topic>
+                        <topic>Creutzfeldt-Jakob-Krankheit</topic>
+                        <topic>Immuno-PCR</topic>
+                        <topic>ELISA</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98409500587</identifier>
+                    <identifier type="sys">HT016455293</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_394162c8-5158-4afd-a2cc-7b975b630e90</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_394162c8-5158-4afd-a2cc-7b975b630e90_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/394162c8-5158-4afd-a2cc-7b975b630e90/diss_zimmermann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_394162c8-5158-4afd-a2cc-7b975b630e90" DMDID="DMD_394162c8-5158-4afd-a2cc-7b975b630e90">
+            <mets:fptr FILEID="FILE_394162c8-5158-4afd-a2cc-7b975b630e90_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

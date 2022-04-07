@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fdfa9591-6e05-4cab-ba03-846e31e06c49">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bemerkungen zur Siedlungsweise der Hügelgräberbronzezeit im Rhein-Main-Gebiet</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108081737">
+                        <displayForm>Jockenhövel, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Jockenhövel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-04-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-04-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Nassauische Annalen 102 (1991), 1-11</note>
+                    <classification authority="ddc">930</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-90479498411</identifier>
+                    <identifier type="issn">0077-2887</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fdfa9591-6e05-4cab-ba03-846e31e06c49</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fdfa9591-6e05-4cab-ba03-846e31e06c49_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fdfa9591-6e05-4cab-ba03-846e31e06c49/1991_jocke_bemer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fdfa9591-6e05-4cab-ba03-846e31e06c49" DMDID="DMD_fdfa9591-6e05-4cab-ba03-846e31e06c49">
+            <mets:fptr FILEID="FILE_fdfa9591-6e05-4cab-ba03-846e31e06c49_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

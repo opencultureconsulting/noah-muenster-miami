@@ -1,0 +1,112 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b8e38908-4231-4728-bca0-92e9147246df">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Structuring osteosarcoma knowledge: an osteosarcoma-gene association database based on literature mining and manual annotation</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1052086152">
+                        <displayForm>Poos, Kathrin</displayForm>
+                        <namePart type="given">Kathrin</namePart>
+                        <namePart type="family">Poos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1170638430">
+                        <displayForm>Smida, Jan</displayForm>
+                        <namePart type="given">Jan</namePart>
+                        <namePart type="family">Smida</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112481930">
+                        <displayForm>Nathrath, Michaela</displayForm>
+                        <namePart type="given">Michaela</namePart>
+                        <namePart type="family">Nathrath</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341355">
+                        <displayForm>Maugg, Doris</displayForm>
+                        <namePart type="given">Doris</namePart>
+                        <namePart type="family">Maugg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122240928">
+                        <displayForm>Baumhoer, Daniel</displayForm>
+                        <namePart type="given">Daniel</namePart>
+                        <namePart type="family">Baumhoer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122240928">
+                        <displayForm>Baumhoer, D.</displayForm>
+                        <namePart type="given">D.</namePart>
+                        <namePart type="family">Baumhoer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1018125191">
+                        <displayForm>Neumann, Anna</displayForm>
+                        <namePart type="given">Anna</namePart>
+                        <namePart type="family">Neumann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172968399">
+                        <displayForm>Korsching, Eberhard Ulrich</displayForm>
+                        <namePart type="given">Eberhard Ulrich</namePart>
+                        <namePart type="family">Korsching</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-05-27</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-11-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Osteosarcoma (OS) is the most common primary bone cancer exhibiting high genomic instability. This genomic instability affects multiple genes and microRNAs to a varying extent depending on patient and tumor subtype. Massive research is ongoing to identify genes including their gene products and microRNAs that correlate with disease progression and might be used as biomarkers for OS. However, the genomic complexity hampers the identification of reliable biomarkers. Up to now, clinico-pathological factors are the key determinants to guide prognosis and therapeutic treatments. Each day, new studies about OS are published and complicate the acquisition of information to support biomarker discovery and therapeutic improvements. Thus, it is necessary to provide a structured and annotated view on the current OS knowledge that is quick and easily accessible to researchers of the field. Therefore, we developed a publicly available database and Web interface that serves as resource for OS-associated genes and microRNAs. Genes and microRNAs were collected using an automated dictionary-based gene recognition procedure followed by manual review and annotation by experts of the field. In total, 911 genes and 81 microRNAs related to 1331 PubMed abstracts were collected (last update: 29 October 2013). Users can evaluate genes and microRNAs according to their potential prognostic and therapeutic impact, the experimental procedures, the sample types, the biological contexts and microRNA target gene interactions. Additionally, a pathway enrichment analysis of the collected genes highlights different aspects of OS progression. OS requires pathways commonly deregulated in cancer but also features OS-specific alterations like deregulated osteoclast differentiation. To our knowledge, this is the first effort of an OS database containing manual reviewed and annotated up-to-date OS knowledge. It might be a useful resource especially for the bone tumor research community, as specific information about genes or microRNAs is quick and easily accessible. Hence, this platform can support the ongoing OS research and biomarker discovery.</abstract>
+                    <note type="citation/reference">Database 2014 (2014), 1-9, bau042</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-11349571340</identifier>
+                    <identifier type="doi">doi:10.1093/database/bau042</identifier>
+                    <identifier type="issn">1758-0463</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b8e38908-4231-4728-bca0-92e9147246df</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b8e38908-4231-4728-bca0-92e9147246df_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b8e38908-4231-4728-bca0-92e9147246df/Database-2014-Poos-database_bau042.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b8e38908-4231-4728-bca0-92e9147246df" DMDID="DMD_b8e38908-4231-4728-bca0-92e9147246df">
+            <mets:fptr FILEID="FILE_b8e38908-4231-4728-bca0-92e9147246df_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

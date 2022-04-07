@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9cf9b30f-aa0b-4be6-a1cd-0103acee7796">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ample groupoids: Equivalence, homology, and Matui&apos;s HK conjecture</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Farsi, Carla</displayForm>
+                        <namePart type="given">Carla</namePart>
+                        <namePart type="family">Farsi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1145108644">
+                        <displayForm>Kumjian, Alex</displayForm>
+                        <namePart type="given">Alex</namePart>
+                        <namePart type="family">Kumjian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pask, David</displayForm>
+                        <namePart type="given">David</namePart>
+                        <namePart type="family">Pask</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1094479136">
+                        <displayForm>Sims, Aidan</displayForm>
+                        <namePart type="given">Aidan</namePart>
+                        <namePart type="family">Sims</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-10-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We investigate the homology of ample Hausdorff groupoids. We establish that a number of notions of equivalence of groupoids appearing in the literature coincide for ample Hausdorff groupoids, and deduce that they all preserve groupoid homology. We compute the homology of a Deaconu–Renault groupoid associated to k pairwise-commuting local homeomorphisms of a zero-dimensional space, and show that Matui’s HK conjecture holds for such a groupoid when k is one or two. We specialize to k-graph groupoids, and show that their homology can be computed in terms of the adjacency matrices, using a chain complex developed by Evans. We show that Matui’s HK conjecture holds for the groupoids of single vertex k-graphs which satisfy a mild joint-coprimality condition. We also prove that there is a natural homomorphism from the categorical homology of a k-graph to the homology of its groupoid.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>411</start>
+                                <end>451</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53149724313</identifier>
+                    <identifier type="doi">10.17879/53149724091</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9cf9b30f-aa0b-4be6-a1cd-0103acee7796</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9cf9b30f-aa0b-4be6-a1cd-0103acee7796_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9cf9b30f-aa0b-4be6-a1cd-0103acee7796/mjm_2019_12_411-451.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9cf9b30f-aa0b-4be6-a1cd-0103acee7796" DMDID="DMD_9cf9b30f-aa0b-4be6-a1cd-0103acee7796">
+            <mets:fptr FILEID="FILE_9cf9b30f-aa0b-4be6-a1cd-0103acee7796_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

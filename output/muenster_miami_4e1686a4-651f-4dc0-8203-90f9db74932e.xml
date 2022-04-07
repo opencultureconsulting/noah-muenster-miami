@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4e1686a4-651f-4dc0-8203-90f9db74932e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Modeling of generation, propagation and runup of tsunami waves caused by oceanic impacts</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129811556">
+                        <displayForm>Weiß, Robert</displayForm>
+                        <namePart type="given">Robert</namePart>
+                        <namePart type="family">Weiß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/11122585X">
+                        <displayForm>Bahlburg, Heinrich</displayForm>
+                        <namePart type="given">Heinrich</namePart>
+                        <namePart type="family">Bahlburg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-02-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-01-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Modellierung von Bildung, Fortpflanzung und Auflaufen von impakt-generierten. Tsunami gibt Einsichten in die Bildungmechanismen dieser Wellen durch ozeanische Einschläge, ihre Fortpflanzung und ihr Auflaufen. Der SALE hydrocode wurde verwendet, um die Impaktprozesse zu simulieren. Ein neuentwickeltes 2D Fortpflanzungsmodell wird benutzt um die Fortpflanzung der Tsunamiwellen zu simulieren. Um den SALE code und das Wellenmodell miteinander zu verbinden, wurde als Zwischenschritt eine Übergabe entwickelt. Der Impakt wird entlang eines Kreises an das Wellenmodell übergeben. Mit diesen beiden Modellen konnten zwei Klassen von Tsunami identifiziert werden: die Randwelle und die Kollapswelle. Die Bildungsmechanismen beider Wellen sind sehr unterschiedlich. Durch die Anwendung dieser Klassen konnten drei verschiedene Einschläge bezüglich der Wassertiefe definiert werden: Impakt in tiefes, in mittel--tiefes und flaches Wasser.</abstract>
+                    <subject lang="ger">
+                        <topic>Impakt-generierte Tsunami</topic>
+                        <topic>Flachwasser-Gleichungen</topic>
+                        <topic>Impakte</topic>
+                        <topic>impact cratering</topic>
+                        <topic>Boussinesq Gleichungen</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27609553081</identifier>
+                    <identifier type="sys">HT014326310</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4e1686a4-651f-4dc0-8203-90f9db74932e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4e1686a4-651f-4dc0-8203-90f9db74932e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4e1686a4-651f-4dc0-8203-90f9db74932e/diss_weiss.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4e1686a4-651f-4dc0-8203-90f9db74932e" DMDID="DMD_4e1686a4-651f-4dc0-8203-90f9db74932e">
+            <mets:fptr FILEID="FILE_4e1686a4-651f-4dc0-8203-90f9db74932e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

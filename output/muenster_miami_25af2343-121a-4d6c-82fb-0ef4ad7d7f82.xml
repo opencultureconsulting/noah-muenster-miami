@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_25af2343-121a-4d6c-82fb-0ef4ad7d7f82">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zu mummy, kette und Interaktionspartnern bei der Entwicklung des Drosophila Nervensystems</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130680907">
+                        <displayForm>Strunk, Judith Mareike</displayForm>
+                        <namePart type="given">Judith Mareike</namePart>
+                        <namePart type="family">Strunk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klämbt, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Klämbt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-01-01</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-12-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Dissertation beinhaltet genetische, funktionelle und phänotypische Analysen von Mutationen, die zu Defekten der Musterbildung des embryonalen ZNS von Drosophila melanogaster führen. Das Gen mummy wurde im Bereich 26D7 lokalisiert und codiert eine UDP-N-ACETYLGLUCOSAMIN-PYROPHOSPHORYLASE. MUMMY katalysiert eine Reaktion, deren Produkt, das UDP-N-Acetylglucosamin, Grundbaustein für Glycosylierung und GPI-Ankersynthese ist. Effekte von mummy auf diese Prozesse konnten dargestellt werden. Für das Gen kette wurde eine Interaktionspartnersuche sowie eine Untersuchung der Funktion im PNS durchgeführt, die eine Rolle von KETTE bei der WASP-abhängigen AKTIN-Polymerisation belegen. Zur Untersuchung der essentiellen Membranrekrutierung wurde der Interaktionspartner DREADLOCKS anhand einer phänotypischen Analyse des Effektes membranassoziierter DOCK-Proteinformen auf die mechanosensorischen Borsten analysiert. Die Ergebnisse sprechen für DOCK als membranrekrutierender Faktor.</abstract>
+                    <subject lang="ger">
+                        <topic>Drosophila melanogaster</topic>
+                        <topic>mummy</topic>
+                        <topic>UDP-N-Acetylglucosamin</topic>
+                        <topic>kette</topic>
+                        <topic>Aktin-Zytoskelett</topic>
+                        <topic>dreadlocks</topic>
+                        <topic>mechanosensorische Borsten</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03699568617</identifier>
+                    <identifier type="sys">HT014687291</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_25af2343-121a-4d6c-82fb-0ef4ad7d7f82</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_25af2343-121a-4d6c-82fb-0ef4ad7d7f82_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/25af2343-121a-4d6c-82fb-0ef4ad7d7f82/diss_strunk.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_25af2343-121a-4d6c-82fb-0ef4ad7d7f82" DMDID="DMD_25af2343-121a-4d6c-82fb-0ef4ad7d7f82">
+            <mets:fptr FILEID="FILE_25af2343-121a-4d6c-82fb-0ef4ad7d7f82_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

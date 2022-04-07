@@ -1,0 +1,263 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:1c787b6b-540d-4589-87c0-2e54096b6de1" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:38:21">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_1c787b6b-540d-4589-87c0-2e54096b6de1">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Efficient variational gaph methods in imaging and 3D data</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1220883514">
+                    <mods:namePart type="given">Fjedor</mods:namePart>
+                    <mods:namePart type="family">Gaede</mods:namePart>
+                    <mods:namePart type="date">1992-</mods:namePart>
+                    <mods:displayForm>Gaede, Fjedor</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Martin</mods:namePart>
+                    <mods:namePart type="family">Burger</mods:namePart>
+                    <mods:displayForm>Burger, Martin</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2020</mods:dateIssued>
+                    <mods:dateOther>2020-08-04</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2020-11-19</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2020-11-19</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">In dieser Arbeit werden effiziente Graphmethoden zur Lösung variationeller Probleme in der mathematischen Bildgebung und Datenverarbeitung hergeleitet, untersucht und angewandt. Die vorgeschlagenen Techniken basieren auf dem Cut-Pursuit-Algorithmus, welcher eine Klasse von variationellen Graphproblemen effizient löst. Das Ziel der Arbeit ist, diesen Algorithmus auf mehrdimensionale Probleme zu erweitern und auf RGB-Farbbilder und große 3D-Punktwolken anzuwenden. Des Weiteren wird die Anwendung des Algorithmus auf TV-regularisierte PET Rekonstruktionen untersucht, bei der die Anzahl der Auswertungen des vollen PET-Operators während der Rekonstruktion stark verringert und durch eine reduzierte, dünn besetzte Matrixdarstellung ersetzt wird. Zusätzlich wird der sogenannte Fully4D-Algorithmus zur Rekonstruktion von räumlich-zeitlichen PET-Daten unter dem Einfluss von Dynamiken mit einer  TV-Regularisierung erweitert und eine Optimierungsstrategie hergeleitet.</mods:abstract>
+                  <mods:abstract lang="eng">In this thesis we derive, study and apply efficient graph methods for a variety of variational problems in imaging and data processing. The proposed algorithms are based on the recently developed Cut-Pursuit algorithm that can efficiently solve a class of variational problems on graphs. The goal of this work is to expand the Cut-Pursuit algorithm to multi-dimensional isotropic total variation regularizations and to apply it to image data and large 3D point clouds. Furthermore, we investigate the application of the Cut-Pursuit algorithm to TV-regularized PET reconstruction and substantially decrease the number of required full PET operator evaluations during the reconstruction process, replacing them with smaller sparse matrix representations of the full operator. In addition, we extend the so-called Fully4D algorithm to reconstruct spatio-temporal PET data under the influence of dynamics by adding a total variation regularization and deriving an optimization strategy.</mods:abstract>
+                  <mods:tableOfContents lang="eng">Contents i&#13;
+1. Introduction 1&#13;
+2. Mathematical Preliminaries 5&#13;
+2.1. Mathematical Statements and Notations . . . . . . . . . . . . . . . . . . . . . 5&#13;
+2.2. Analysis of Different Data-Terms . . . . . . . . . . . . . . . . . . . . . . . . . 8&#13;
+2.2.1. The L2-Data-Term . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8&#13;
+2.2.2. The Weighted L2-Data-Term . . . . . . . . . . . . . . . . . . . . . . . 10&#13;
+2.2.3. Kullback-Leibler Data-Term . . . . . . . . . . . . . . . . . . . . . . . . 11&#13;
+I. Graph Cut-Pursuit 15&#13;
+3. Introduction to Graph Processing 17&#13;
+3.1. Finite Weighted Graphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17&#13;
+3.1.1. Basic Graph Terminology . . . . . . . . . . . . . . . . . . . . . . . . . 17&#13;
+3.1.2. Vertex and Edge Functions . . . . . . . . . . . . . . . . . . . . . . . . 19&#13;
+3.1.3. First-Order Partial Difference Operators on Graphs . . . . . . . . . . 21&#13;
+3.1.4. Total Variation Regularization on Graphs . . . . . . . . . . . . . . . . 22&#13;
+3.2. Graph p-q-Laplace Operator . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25&#13;
+3.3. Optimization Problems on Graphs . . . . . . . . . . . . . . . . . . . . . . . . 26&#13;
+3.3.1. ROF on Graphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29&#13;
+3.3.2. Weighted ROF on Graphs . . . . . . . . . . . . . . . . . . . . . . . . . 30&#13;
+3.4. Graph Cuts for Energy Minimization . . . . . . . . . . . . . . . . . . . . . . . 31&#13;
+Appendix 33&#13;
+3.A. Reformulating p-q-Laplace Operator . . . . . . . . . . . . . . . . . . . . . . . 33&#13;
+3.B. Derivative of the p-q-TV Regularizer . . . . . . . . . . . . . . . . . . . . . . . 33&#13;
+3.C. Proximity Operator of the p-q-TV Regularizer . . . . . . . . . . . . . . . . . . 38&#13;
+4. Cut-Pursuit 41&#13;
+4.1. Introduction to Partitioning and Reduced Problems . . . . . . . . . . . . . . 44&#13;
+4.2. Finer Partitioning via Graph Cuts . . . . . . . . . . . . . . . . . . . . . . . . 49&#13;
+4.2.1. Refining the Partition . . . . . . . . . . . . . . . . . . . . . . . . . . . 49&#13;
+4.2.2. Solving the Partition Problem . . . . . . . . . . . . . . . . . . . . . . . 53&#13;
+4.2.3. Direction for Isotropic Cut-Pursuit . . . . . . . . . . . . . . . . . . . 56&#13;
+4.3. Cut-Pursuit Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58&#13;
+4.4. Cut-Pursuit Algorithm for ROF Problems . . . . . . . . . . . . . . . . . . . . 62&#13;
+4.4.1. Reduced ROF Problem . . . . . . . . . . . . . . . . . . . . . . . . . . 62&#13;
+4.4.2. Partition Problem of the ROF Problem . . . . . . . . . . . . . . . . . 65&#13;
+4.4.3. Directions for the ROF Partition Problem . . . . . . . . . . . . . . . . 67&#13;
+Appendix 71&#13;
+4.A. General Regularizer for ROF . . . . . . . . . . . . . . . . . . . . . . . . . . . 71&#13;
+4.B. Reduced Terms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71&#13;
+4.B.1. Reduced (Weighted) L2-Data-Term . . . . . . . . . . . . . . . . . . . . 71&#13;
+4.B.2. Reduced p-q-TV Regularizer . . . . . . . . . . . . . . . . . . . . . . . 73&#13;
+4.C. Derivation of Partition Problem . . . . . . . . . . . . . . . . . . . . . . . . . . 75&#13;
+5. Cut-Pursuit for Minimal Partition Problems 81&#13;
+5.1. Minimal Partition Cut-Pursuit Algorithm . . . . . . . . . . . . . . . . . . . . 84&#13;
+5.1.1. Solving the Partition Problems . . . . . . . . . . . . . . . . . . . . . . 90&#13;
+5.1.2. Solving the Reduced Minimal Partition Problem . . . . . . . . . . . . 92&#13;
+5.2. Cut-Pursuit for L0-ROF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96&#13;
+5.2.1. Solving the Partition Problems . . . . . . . . . . . . . . . . . . . . . . 97&#13;
+5.2.2. Solving the Reduced Minimal Partition Problem . . . . . . . . . . . . 100&#13;
+Appendix 105&#13;
+5.A. Proof: Merging Values . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105&#13;
+6. Numerics: Cut-Pursuit for TV Problems 109&#13;
+6.1. Iterative Behavior of the Cut-Pursuit Algorithm . . . . . . . . . . . . . . . . 112&#13;
+6.2. Cut-Pursuit Convergence and Runtime . . . . . . . . . . . . . . . . . . . . . . 115&#13;
+6.3. Isotropic Cut-Pursuit and Choosing Directions . . . . . . . . . . . . . . . . . 116&#13;
+6.4. Debiasing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121&#13;
+7. Numerics: Minimal Partition Problem 125&#13;
+7.1. Comparing Different Constant Step Sizes . . . . . . . . . . . . . . . . . . . . 125&#13;
+7.2. Different Partition Optimization Strategies . . . . . . . . . . . . . . . . . . . 128&#13;
+7.3. Comparison to Other Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . 131&#13;
+7.4. Discretization via Minimal Partitions . . . . . . . . . . . . . . . . . . . . . . . 132&#13;
+7.4.1. Related Superpixel Methods . . . . . . . . . . . . . . . . . . . . . . . . 134&#13;
+7.4.2. Minimal Partition as a Superpixel Method . . . . . . . . . . . . . . . . 136&#13;
+7.4.3. Compare Superpixel Methods . . . . . . . . . . . . . . . . . . . . . . . 138&#13;
+7.4.4. Solving Problems on Discretization . . . . . . . . . . . . . . . . . . . . 142&#13;
+7.4.5. Denoising Minimal Partitions . . . . . . . . . . . . . . . . . . . . . . . 147&#13;
+8. Numerics: Point Cloud Sparsification via Cut-Pursuit 149&#13;
+8.1. Anisotropic L1-TV Regularization . . . . . . . . . . . . . . . . . . . . . . . . 149&#13;
+8.2. Comparison of Anisotropic L1-TV and L0-TV Regularization . . . . . . . . . 151&#13;
+8.3. Visual Comparison of Different TV Regularizations . . . . . . . . . . . . . . . 154&#13;
+II. Dynamic PET Image Reconstruction 159&#13;
+9. Introduction to PET Reconstruction 161&#13;
+9.1. Positron Emission Tomography . . . . . . . . . . . . . . . . . . . . . . . . . . 161&#13;
+9.2. Expectation Maximization Reconstruction . . . . . . . . . . . . . . . . . . . . 162&#13;
+10.Total Variation Regularization on Reconstruction 169&#13;
+10.1. First-Order Primal-Dual for PET-TV . . . . . . . . . . . . . . . . . . . . . . 170&#13;
+10.2. Forward-Backward EM-TV . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172&#13;
+11.Dynamic PET Reconstruction 175&#13;
+11.1. Listmode PET Data and EM Reconstruction . . . . . . . . . . . . . . . . . . 176&#13;
+11.2. Fully4D Reconstruction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181&#13;
+11.2.1. Update for the Spatial Weights . . . . . . . . . . . . . . . . . . . . . . 182&#13;
+11.2.2. Update for the Basis Functions . . . . . . . . . . . . . . . . . . . . . . 183&#13;
+11.2.3. Fully4D Algorithm and Implementation Details . . . . . . . . . . . . . 185&#13;
+11.3. Regularized Fully4D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188&#13;
+12.Numerics: Dynamic PET Reconstruction 191&#13;
+12.1. Dynamic Data without Motion . . . . . . . . . . . . . . . . . . . . . . . . . . 192&#13;
+12.2. Dynamic Data with Motion . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195&#13;
+III. Cut-Pursuit Based Reconstruction 201&#13;
+13.Cut-Pursuit on PET Reconstruction 203&#13;
+13.1. Graph Setting for Reconstructions . . . . . . . . . . . . . . . . . . . . . . . . 203&#13;
+13.2. Cut-Pursuit for Regularized PET Reconstruction . . . . . . . . . . . . . . . . 204&#13;
+13.3. Efficient Reduced Operator Computation . . . . . . . . . . . . . . . . . . . . 207&#13;
+13.4. Solving the Reduced Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . 208&#13;
+13.4.1. Primal-Dual for Reduced Problem . . . . . . . . . . . . . . . . . . . . 209&#13;
+13.4.2. FB-EM-TV for Reduced Problem . . . . . . . . . . . . . . . . . . . . . 210&#13;
+14.Numerics 213&#13;
+14.1. Implementation Details . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213&#13;
+14.2. Solving the Reduced Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . 214&#13;
+14.3. Full Operator Evaluations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 216&#13;
+14.4. Numerical Comparison . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217&#13;
+14.5. Comparison of Cut-Pursuit with Direct Algorithms . . . . . . . . . . . . . . . 221&#13;
+15.Summary and Conclusion 223&#13;
+15.1. Efficient Cut-Pursuit Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . 223&#13;
+15.2. Dynamic PET and Regularized Fully4D . . . . . . . . . . . . . . . . . . . . . 225&#13;
+15.3. Cut-Pursuit Based Reconstruction . . . . . . . . . . . . . . . . . . . . . . . . 225&#13;
+List of Figures 227&#13;
+Bibliography 233</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">PET-Rekonstruktion; Totale Variation; Cut-Pursuit; Konvexe Optimierung; Minimal-Partition-Problem; Medizinische Bildgebung; Punktwolken</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">PET reconstruction; Total-Variation; Cut-Pursuit; Convex Optimization; Minimal Partition Problem; Medical Imaging; Point Clouds</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-49049417385</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/1c787b6b-540d-4589-87c0-2e54096b6de1</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY-SA 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by-sa/4.0</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:1c787b6b-540d-4589-87c0-2e54096b6de1</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_1c787b6b-540d-4589-87c0-2e54096b6de1">
+            <mets:rightsMD ID="RIGHTSMD_1c787b6b-540d-4589-87c0-2e54096b6de1">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_1c787b6b-540d-4589-87c0-2e54096b6de1">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/1c787b6b-540d-4589-87c0-2e54096b6de1</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="aca5edea49f9c68838ae4fed8abacd06ae7c586dfe758dd37d6d8a57ca35070d" CREATED="2020-11-19T16:11:01" CHECKSUMTYPE="SHA-256" SIZE="58740503" ID="ID_FIL_diss_gaede.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1c787b6b-540d-4589-87c0-2e54096b6de1/diss_gaede.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW1c787b6b-540d-4589-87c0-2e54096b6de1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/1c787b6b-540d-4589-87c0-2e54096b6de1" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_1c787b6b-540d-4589-87c0-2e54096b6de1" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_gaede.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_gaede.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_1c787b6b-540d-4589-87c0-2e54096b6de1" DMDID="DMD_1c787b6b-540d-4589-87c0-2e54096b6de1" ID="ID_LOG_1c787b6b-540d-4589-87c0-2e54096b6de1" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_gaede.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_1c787b6b-540d-4589-87c0-2e54096b6de1" xlink:to="ID_PHY_1c787b6b-540d-4589-87c0-2e54096b6de1"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_gaede.pdf" xlink:to="ID_PHY_diss_gaede.pdf"/>
+          </mets:structLink>
+        </mets:mets>

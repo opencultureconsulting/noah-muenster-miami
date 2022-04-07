@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d70774b4-d911-4a96-b324-a99526182b38">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Semantische Spezifikation Dispositiver Informationssysteme</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-07</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Trotz verfügbarer Technologie und anerkannter Systemarchitektur existieren im Rahmen der Entwicklung von Dispositiven Informationssystemen ungelöste Probleme, die in der semantischen Modellierung zu sehen sind. Es mangelt an anerkannten Sprachen und Notationen, die die Voraussetzung zur Ausbildung anerkannter Entwicklungsmethoden darstellen. Zunächst wird der Problembereich motiviert und es wird in Kapitel 2 ein Ordnungsrahmen vorgeschlagen, der hilft, die Diskussion von Entwicklungsprozessen von Information Warehouses zu strukturieren. Kapitel 3 schlägt sowohl eine Sprache als auch geeignete Notationskonventionen zur Nutzung der Sprache im Rahmen der semantischen Modellierung Dispositiver Informationssysteme vor. Kapitel 4 bietet ein Anwendungsbeispiel.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53569653867</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d70774b4-d911-4a96-b324-a99526182b38</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d70774b4-d911-4a96-b324-a99526182b38_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d70774b4-d911-4a96-b324-a99526182b38/069_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d70774b4-d911-4a96-b324-a99526182b38" DMDID="DMD_d70774b4-d911-4a96-b324-a99526182b38">
+            <mets:fptr FILEID="FILE_d70774b4-d911-4a96-b324-a99526182b38_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_21639034-4e77-4ffc-bc81-65569476618c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Twisted spin cobordism</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1054163359">
+                        <displayForm>Hebestreit, Fabian</displayForm>
+                        <namePart type="given">Fabian</namePart>
+                        <namePart type="family">Hebestreit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137005032">
+                        <displayForm>Joachim, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-07-31</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-07-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit wird eine parametrisierte Variante des Spin-Bordismus untersucht. Als &apos;twists&apos; werden hierbei nur die klassischen Bündeltwists zugelassen. Die Atiyah-Bott-Shapiro-Orientierung überträgt, diese in die K-Theorie. Es wird ein Spaltungssatz für diese Homologietheorien bewiesen. Im Anschluss wird die ordinäre Homologie der zugrunde liegenden parametrisierten Spektren berechnet, insbesondere im Hinblick auf die Zusammenhänge zu positiver Skalarkrümmung, welche ganz zu Beginn der Arbeit als Motivation dargestellt sind.</abstract>
+                    <subject lang="ger">
+                        <topic>Skalarkrümmung</topic>
+                        <topic>Gromov-Lawson-Rosenberg-Vermutung</topic>
+                        <topic>K-Theorie</topic>
+                        <topic>Bordismustheorie</topic>
+                        <topic>parametrisierte stabile Homotopietheorie</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22359531874</identifier>
+                    <identifier type="sys">HT018345692</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_21639034-4e77-4ffc-bc81-65569476618c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_21639034-4e77-4ffc-bc81-65569476618c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/21639034-4e77-4ffc-bc81-65569476618c/diss_hebestreit.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_21639034-4e77-4ffc-bc81-65569476618c" DMDID="DMD_21639034-4e77-4ffc-bc81-65569476618c">
+            <mets:fptr FILEID="FILE_21639034-4e77-4ffc-bc81-65569476618c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

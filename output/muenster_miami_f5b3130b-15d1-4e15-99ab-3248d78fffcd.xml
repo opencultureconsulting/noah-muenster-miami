@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f5b3130b-15d1-4e15-99ab-3248d78fffcd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="fre">
+                        <title>La place de la théorie de la conversation au XVIIIe siècle</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Ch.</displayForm>
+                        <namePart type="given">Ch.</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzky, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1995</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-05-31</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-07-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+                    </language>
+                    <note type="citation/reference">Bray, Bernard (Hrsg.): Art de la lettre, art de la conversation à l&apos;époque classique en France. Paris : Klincksieck, 1995, S. 145-163</note>
+                    <classification authority="ddc">860</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-05289563206</identifier>
+                    <identifier type="isbn">2-252-03010-0</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f5b3130b-15d1-4e15-99ab-3248d78fffcd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f5b3130b-15d1-4e15-99ab-3248d78fffcd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f5b3130b-15d1-4e15-99ab-3248d78fffcd/1995_stros_place.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f5b3130b-15d1-4e15-99ab-3248d78fffcd" DMDID="DMD_f5b3130b-15d1-4e15-99ab-3248d78fffcd">
+            <mets:fptr FILEID="FILE_f5b3130b-15d1-4e15-99ab-3248d78fffcd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

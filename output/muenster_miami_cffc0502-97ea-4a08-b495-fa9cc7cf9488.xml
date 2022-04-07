@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cffc0502-97ea-4a08-b495-fa9cc7cf9488">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Weisungs- und unterrichtungsfreie Räume in der Verwaltung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1986</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-04-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausg. erschienen im deutschen Gemeindeverlag, Köln, 1986, 3-555-00693-2, 259 S.</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38429453900</identifier>
+                    <identifier type="isbn">3-555-00693-2</identifier>
+                    <identifier type="sys">HT017332797</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cffc0502-97ea-4a08-b495-fa9cc7cf9488</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cffc0502-97ea-4a08-b495-fa9cc7cf9488_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cffc0502-97ea-4a08-b495-fa9cc7cf9488/1986_oebbe_weisu.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cffc0502-97ea-4a08-b495-fa9cc7cf9488" DMDID="DMD_cffc0502-97ea-4a08-b495-fa9cc7cf9488">
+            <mets:fptr FILEID="FILE_cffc0502-97ea-4a08-b495-fa9cc7cf9488_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

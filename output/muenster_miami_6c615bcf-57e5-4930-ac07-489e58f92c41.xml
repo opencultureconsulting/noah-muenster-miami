@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6c615bcf-57e5-4930-ac07-489e58f92c41">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Regulation der Apoptose in humanen Monozyten durch Statine und Immunsuppressiva</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133991555">
+                        <displayForm>Abendroth, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Abendroth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steinmetz, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Steinmetz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-02-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-02-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Statine besitzen ein breites Spektrum an Wirkungen. Diese Arbeit konnte zeigen, dass Simvastatin [1µM] nach 72h bei humanen Monozyten eine durchflusszytometrisch nachweisbare Apoptose auslöst. Der ursächliche Signalweg blieb unklar, jedoch konnten wichtige Transduktionswege, wie Caspase-3, CD95, BCL-2 und XIAP ausgeschlossen werden. LPS als Wandbestandteil einiger Bakterien kann ebenfalls eine Apoptose auslösen, die jedoch anscheinend Caspase-3 vermittelt ist. Nach 72h Stimulation mit Simvastatin und LPS tritt darüber hinaus ein additiver Effekt auf. Die getesteten Immunsuppressiva hingegen scheinen keinen Einfluss auf die Apoptoserate zu haben.</abstract>
+                    <subject lang="ger">
+                        <topic>Monozyten</topic>
+                        <topic>Apoptose</topic>
+                        <topic>Statine</topic>
+                        <topic>Immunsuppression</topic>
+                        <topic>Arteriosklerose</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16509581498</identifier>
+                    <identifier type="sys">HT015511091</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6c615bcf-57e5-4930-ac07-489e58f92c41</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6c615bcf-57e5-4930-ac07-489e58f92c41_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6c615bcf-57e5-4930-ac07-489e58f92c41/diss_abendroth.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6c615bcf-57e5-4930-ac07-489e58f92c41" DMDID="DMD_6c615bcf-57e5-4930-ac07-489e58f92c41">
+            <mets:fptr FILEID="FILE_6c615bcf-57e5-4930-ac07-489e58f92c41_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

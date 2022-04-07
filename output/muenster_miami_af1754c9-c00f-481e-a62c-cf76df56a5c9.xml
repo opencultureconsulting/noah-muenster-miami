@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_af1754c9-c00f-481e-a62c-cf76df56a5c9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>UMTS-Erlöse - welche Verwendung ist zu empfehlen?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129052051">
+                        <displayForm>Grossekettler, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grossekettler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-10-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">ifo Schnelldienst 30 (2000) 17, S. 5, 13-14</note>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04669599406</identifier>
+                    <identifier type="issn">0018-974X</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_af1754c9-c00f-481e-a62c-cf76df56a5c9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_af1754c9-c00f-481e-a62c-cf76df56a5c9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/af1754c9-c00f-481e-a62c-cf76df56a5c9/2000_UMTS-Erloese.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_af1754c9-c00f-481e-a62c-cf76df56a5c9" DMDID="DMD_af1754c9-c00f-481e-a62c-cf76df56a5c9">
+            <mets:fptr FILEID="FILE_af1754c9-c00f-481e-a62c-cf76df56a5c9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

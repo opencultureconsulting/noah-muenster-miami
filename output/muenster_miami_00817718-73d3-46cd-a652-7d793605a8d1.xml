@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_00817718-73d3-46cd-a652-7d793605a8d1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Locally Trivial Families of Complex Curves</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132527200">
+                        <displayForm>Epping, Daniel C.</displayForm>
+                        <namePart type="given">Daniel C.</namePart>
+                        <namePart type="family">Epping</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1183169620">
+                        <displayForm>Hamm, Helmut A.</displayForm>
+                        <namePart type="given">Helmut A.</namePart>
+                        <namePart type="family">Hamm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-01-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-12-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Nach einem Theorem von Hâ und Lè definiert eine polynomiale Submersion von C^2 nach C ein differenzierbares Faserbündel, falls die Euler-Poincaré Charakteristik der Fasern konstant ist. Ein Transfer dieses Ergebnisses auf 2-dimensionale algebraische Varietäten liefert Singularitäten im Abschluss des Morphismus. Sei X eine 2-dimensionale reguläre affine komplex algebraische Varietät und S eine glatte komplexe Kurve. Das Hauptresultat besagt, dass ein algebraischer Morphismus zwischen diesen Varietäten ein differenzierbares Faserbündel definiert, falls seine Fasern paarweise homöomorph sind und streng positives geometrisches Geschlecht besitzen. Hierzu werden exzeptionelle Divisoren mit Hilfe der Theorie der Minimalen Modelle kontrahiert. Zusätzlich wird gezeigt, wann eine Familie analytischer glatter Kurven ein holomorphes Faserbündel definiert. Dies geschieht mittels einer Unterscheidung des Fasergeschlechtes zwischen 0,1 und ≥ 2</abstract>
+                    <subject lang="ger">
+                        <topic>Faserbündel</topic>
+                        <topic>differenzierbare Faserbündel</topic>
+                        <topic>Ehresmann</topic>
+                        <topic>lokale Trivialität</topic>
+                        <topic>Minimale Modelle</topic>
+                        <topic>komplexe Kurven</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-50619588922</identifier>
+                    <identifier type="sys">HT015026533</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_00817718-73d3-46cd-a652-7d793605a8d1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_00817718-73d3-46cd-a652-7d793605a8d1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/00817718-73d3-46cd-a652-7d793605a8d1/diss_epping.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_00817718-73d3-46cd-a652-7d793605a8d1" DMDID="DMD_00817718-73d3-46cd-a652-7d793605a8d1">
+            <mets:fptr FILEID="FILE_00817718-73d3-46cd-a652-7d793605a8d1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bde1d074-406d-4a18-8030-a3529efa79d5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lokale Dynamik in den Niederlanden. Motive, Ursprünge und Ziele von Firmenwanderungen und deren Beitrag zur Veränderung der niederländischen Wirtschaftslandschaft</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14030956X">
+                        <displayForm>Pellenbarg, Pieter</displayForm>
+                        <namePart type="given">Pieter</namePart>
+                        <namePart type="family">Pellenbarg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137189109">
+                        <displayForm>Fremdling, Barbara</displayForm>
+                        <namePart type="given">Barbara</namePart>
+                        <namePart type="family">Fremdling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">oth</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1995</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-07-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Der Beitrag ist die schriftliche Fassung eines Vortrags, den der Autor auf Einladung
+des Instituts für Geographie und des Zentrums für Niederlande-Studien am
+18.5.1994 gehalten hat.</note>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>263</start>
+                                <end>288</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37199649646</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bde1d074-406d-4a18-8030-a3529efa79d5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bde1d074-406d-4a18-8030-a3529efa79d5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bde1d074-406d-4a18-8030-a3529efa79d5/jahrbuch_zns_1994-1995_5-6_263-288.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bde1d074-406d-4a18-8030-a3529efa79d5" DMDID="DMD_bde1d074-406d-4a18-8030-a3529efa79d5">
+            <mets:fptr FILEID="FILE_bde1d074-406d-4a18-8030-a3529efa79d5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

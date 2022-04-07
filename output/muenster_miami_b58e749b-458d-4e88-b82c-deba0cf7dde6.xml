@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b58e749b-458d-4e88-b82c-deba0cf7dde6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Haftung des GmbH-Geschäftsführers im Spannungsfeld zwischen Sanierungspflicht und Insolvenzantragspflicht</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1076577733">
+                        <displayForm>Roßkothen, Carolin</displayForm>
+                        <namePart type="given">Carolin</namePart>
+                        <namePart type="family">Roßkothen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Saenger, Ingo</displayForm>
+                        <namePart type="given">Ingo</namePart>
+                        <namePart type="family">Saenger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-09-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-11-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Stellung eines Insolvenzantrags für ein insolventes Unternehmen erfolgt durchschnittlich etwa erst ein Jahr nach Eintritt der materiellen Insolvenz. Dies hat zur Folge, dass in vielen Fällen keine Sanierungschancen mehr bestehen. Um Anreize für eine frühzeitige Antragstellung zu schaffen, hat der Gesetzgeber durch das ESUG die Eigenverwaltung gestärkt und das Schutzschirmverfahren nach § 270b InsO eingeführt. Jedoch birgt eine frühzeitige Antragstellung nach wie vor Risiken, da das Bekanntwerden einer Unternehmensinsolvenz am Markt gravierende wirtschaftliche Konsequenzen haben kann. Für den GmbH-Geschäftsführer ergibt sich daraus ein Spannungsfeld zwischen einer Strafbarkeit wegen Insolvenzverschleppung und Haftung wegen verspäteter Antragstellung einerseits und einer Haftung wegen verfrühter Antragstellung andererseits. Die Auflösung dieses bislang nicht geklärten Spannungsfeldes hängt insbesondere davon ab, wie die Rechtzeitigkeit der Antragstellung festgestellt werden kann.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Die Haftung des GmbH-Geschäftsführers im Spannungsfeld zwischen Sanierungspflicht und Insolvenzantragspflicht / Carolin Roßkothen. – Münster : Monsenstein und Vannerdat, 2015. – XV, 404 S. (Wissenschaftliche Schriften der WWU Münster : Reihe III ; Bd. 14), ISBN 978-3-8405-0123-4, Preis: 24,50 EUR</note>
+                    <subject lang="ger">
+                        <topic>Insolvenzantragspflicht</topic>
+                        <topic>Zahlungsunfähigkeit</topic>
+                        <topic>Geschäftsführerhaftung</topic>
+                        <topic>Sanierungskonzept</topic>
+                        <topic>Liquiditätsplan</topic>
+                        <topic>Frühwarnsystem</topic>
+                        <topic>Bilanzanalyse</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99279611451</identifier>
+                    <identifier type="isbn">978-3-8405-0123-4</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/de/">CC BY-NC-ND 3.0 DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b58e749b-458d-4e88-b82c-deba0cf7dde6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b58e749b-458d-4e88-b82c-deba0cf7dde6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b58e749b-458d-4e88-b82c-deba0cf7dde6/diss_rosskothen_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b58e749b-458d-4e88-b82c-deba0cf7dde6" DMDID="DMD_b58e749b-458d-4e88-b82c-deba0cf7dde6">
+            <mets:fptr FILEID="FILE_b58e749b-458d-4e88-b82c-deba0cf7dde6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

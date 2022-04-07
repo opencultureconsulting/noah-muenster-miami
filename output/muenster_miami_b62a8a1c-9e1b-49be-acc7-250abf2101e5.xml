@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b62a8a1c-9e1b-49be-acc7-250abf2101e5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Multianalytsensors zur Bestimmung der Zucker Glucose, Fructose und Saccharose für die Vor-Ort-Überwachung von Gärprozessen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124626262">
+                        <displayForm>Meier, Stefanie</displayForm>
+                        <namePart type="given">Stefanie</namePart>
+                        <namePart type="family">Meier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138580502">
+                        <displayForm>Cammann, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Cammann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-03-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-12-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wurde ein Multianalytsensor zur simultanen Bestimmung der Zucker Glucose, Fructose und Saccharose entwickelt. Der amperometrische, in Siebdrucktechnik hergestellte Sensor umfasst drei verschiedene Enzymsensoren zur Bestimmung der drei Analyte, einen Blindsensor zur Detektion eventueller Störsignale sowie je eine integrierte Referenz- und Gegenelektrode. Während die Glucose- und Saccharosebestimmung auf der Detektion des bei der enzymatischen Reaktion entstehenden Wasserstoffperoxids beruht, ist bei der Fructosebestimmung zum Elektronentransfer zwischen Enzym und Elektrode ein Mediator notwendig. Mit dem Multianalytsensor gelang die simultane Bestimmung der einzelnen Zuckerkonzentrationen in verschiedenen Weinen und Sekten sowie die Charakterisierung eines kompletten Gärverlaufs. Damit sind in dieser Arbeit die Voraussetzungen für eine schnelle und zuverlässige Vor-Ort-Analytik bei der Überwachung von Gärprozessen geschaffen worden.</abstract>
+                    <subject lang="ger">
+                        <topic>Enzymsensor</topic>
+                        <topic>Siebdrucktechnik</topic>
+                        <topic>Zuckeranalytik</topic>
+                        <topic>Weinanalytik</topic>
+                        <topic>Amperometrie</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659548561</identifier>
+                    <identifier type="sys">HT013654256</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b62a8a1c-9e1b-49be-acc7-250abf2101e5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b62a8a1c-9e1b-49be-acc7-250abf2101e5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b62a8a1c-9e1b-49be-acc7-250abf2101e5/disssmeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b62a8a1c-9e1b-49be-acc7-250abf2101e5" DMDID="DMD_b62a8a1c-9e1b-49be-acc7-250abf2101e5">
+            <mets:fptr FILEID="FILE_b62a8a1c-9e1b-49be-acc7-250abf2101e5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

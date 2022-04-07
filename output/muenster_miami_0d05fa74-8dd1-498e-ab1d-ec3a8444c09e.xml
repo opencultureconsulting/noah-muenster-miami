@@ -1,0 +1,122 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0d05fa74-8dd1-498e-ab1d-ec3a8444c09e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Comparison of Eye Tracking Latencies Among Several Commercial Head-Mounted Displays</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1188746987">
+                        <displayForm>Stein, Niklas</displayForm>
+                        <namePart type="given">Niklas</namePart>
+                        <namePart type="family">Stein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Niehorster, Diederick C.</displayForm>
+                        <namePart type="given">Diederick C.</namePart>
+                        <namePart type="family">Niehorster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Watson, Tamara</displayForm>
+                        <namePart type="given">Tamara</namePart>
+                        <namePart type="family">Watson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132520389">
+                        <displayForm>Steinicke, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Steinicke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132520389">
+                        <displayForm>Steinicke, F.</displayForm>
+                        <namePart type="given">F.</namePart>
+                        <namePart type="family">Steinicke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rifai, Katharina</displayForm>
+                        <namePart type="given">Katharina</namePart>
+                        <namePart type="family">Rifai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wahl, Siegfried</displayForm>
+                        <namePart type="given">Siegfried</namePart>
+                        <namePart type="family">Wahl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172579074">
+                        <displayForm>Lappe, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Lappe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-11-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A number of virtual reality head-mounted displays (HMDs) with integrated eye trackers have recently become commercially available. If their eye tracking latency is low and reliable enough for gaze-contingent rendering, this may open up many interesting opportunities for researchers. We measured eye tracking latencies for the Fove-0, the Varjo VR-1, and the High Tech Computer Corporation (HTC) Vive Pro Eye using simultaneous electrooculography measurements. We determined the time from the occurrence of an eye position change to its availability as a data sample from the eye tracker (delay) and the time from an eye position change to the earliest possible change of the display content (latency). For each test and each device, participants performed 60 saccades between two targets 20 degree of visual angle apart. The targets were continuously visible in the HMD, and the saccades were instructed by an auditory cue. Data collection and eye tracking calibration were done using the recommended scripts for each device in Unity3D. The Vive Pro Eye was recorded twice, once using the SteamVR SDK and once using the Tobii XR SDK. Our results show clear differences between the HMDs. Delays ranged from 15 ms to 52 ms, and the latencies ranged from 45 ms to 81 ms. The Fove-0 appears to be the fastest device and best suited for gaze-contingent rendering.</abstract>
+                    <note type="citation/reference">I-Perception 12 (2021) 1, 1–16</note>
+                    <note>Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 274361309</note>
+                    <note>Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 274361309</note>
+                    <note>Förderer: European Commission / Projektnummer: 734227</note>
+                    <note>Funding organisation: European Commission / Project number: 734227</note>
+                    <subject lang="eng">
+                        <topic>Virtual Reality</topic>
+                        <topic>Eye Tracking</topic>
+                        <topic>Gaze-Contingent Rendering</topic>
+                        <topic>Latency</topic>
+                        <topic>Head-Mounted Display</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-35079540366</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0d05fa74-8dd1-498e-ab1d-ec3a8444c09e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0d05fa74-8dd1-498e-ab1d-ec3a8444c09e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0d05fa74-8dd1-498e-ab1d-ec3a8444c09e/10.1177_2041669520983338.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0d05fa74-8dd1-498e-ab1d-ec3a8444c09e" DMDID="DMD_0d05fa74-8dd1-498e-ab1d-ec3a8444c09e">
+            <mets:fptr FILEID="FILE_0d05fa74-8dd1-498e-ab1d-ec3a8444c09e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

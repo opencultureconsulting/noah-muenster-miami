@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c105104f-ce28-4f16-97af-a8305f4cab05">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wolfgang Amadeus Mozart: &quot;... der Lieblingscomponist seines Zeitalters&quot;</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134827635">
+                        <displayForm>Rosenberger, Burkard</displayForm>
+                        <namePart type="given">Burkard</namePart>
+                        <namePart type="family">Rosenberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2006-01-26</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-03-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ausstellung im Lesesaal der Universitäts- und Landesbibliothek Münster, 27. Januar - 23. Februar 2006</abstract>
+                    <subject lang="ger">
+                        <topic>Mozart</topic>
+                        <topic>Wolfgang Amadeus</topic>
+                        <topic>Rezeption</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Geschichte 1780-1815</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53669597075</identifier>
+                    <identifier type="sys">HT014677832</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c105104f-ce28-4f16-97af-a8305f4cab05</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c105104f-ce28-4f16-97af-a8305f4cab05_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c105104f-ce28-4f16-97af-a8305f4cab05/mozart_ausstellung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c105104f-ce28-4f16-97af-a8305f4cab05" DMDID="DMD_c105104f-ce28-4f16-97af-a8305f4cab05">
+            <mets:fptr FILEID="FILE_c105104f-ce28-4f16-97af-a8305f4cab05_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

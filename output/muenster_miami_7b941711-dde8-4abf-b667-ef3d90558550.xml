@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7b941711-dde8-4abf-b667-ef3d90558550">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grußwort zum Informations- und Präventionstag am 22.04.2008 im Schloss zu Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113382367">
+                        <displayForm>Berntzen, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Berntzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-04-22</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-04-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-04-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Grußwort der gemeinsamen Veranstaltung des wissenschaftlichen Projekts &quot;Schulische Prävention&quot; mit der Sparkasse Münsterland Ost und dem Verein Lehren-Forschen-Lernen am 22.04.2008 im Schloss zu Münster</note>
+                    <subject lang="ger">
+                        <topic>Schulische Prävention</topic>
+                        <topic>sexuelle Mißbrauch</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-75549548604</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7b941711-dde8-4abf-b667-ef3d90558550</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7b941711-dde8-4abf-b667-ef3d90558550_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7b941711-dde8-4abf-b667-ef3d90558550/Grusswort-22-04-2008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7b941711-dde8-4abf-b667-ef3d90558550" DMDID="DMD_7b941711-dde8-4abf-b667-ef3d90558550">
+            <mets:fptr FILEID="FILE_7b941711-dde8-4abf-b667-ef3d90558550_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8d9c9575-b4e4-49e3-b30e-4078b5a69ecd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Charakterisierungen unbestimmter Integrale</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134827635">
+                        <displayForm>Rosenberger, Burkard</displayForm>
+                        <namePart type="given">Burkard</namePart>
+                        <namePart type="family">Rosenberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-01-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-01-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bekanntermaßen ist eine banachraumwertige Abbildung auf einem kompakten Intervall genau dann unbestimmtes Integral, wenn sie lambda-fast überall differenzierbar mit Lebesgue-integrierbarer Abteilung ist. Im ersten Teil der Arbeit wird ein neuer Beweis dieser Tatsache sowie eine weitere äquivalente Aussage etabliert, die bisher nur für den reellwertigen Fall vorlag. Im zweiten Teil der Arbeit werden mit Hilfe der Ergebnisse des ersten Teils die Borel-Maße mit Lebesgue-Dichten durch die Angabe mehrerer äquivalenter Bedingungen charakterisiert. MSC 2000: 26A24, 26A46</abstract>
+                    <note type="citation/reference">Durchgesehene, inhaltlich unveränderte Neuausgabe der Originalausgabe (Diplomarbeit, Kiel, 1995), Münster, 2004.</note>
+                    <subject lang="ger">
+                        <topic>unbestimmtes Integral</topic>
+                        <topic>Differenzierbarkeit</topic>
+                        <topic>Absolutstetigkeit</topic>
+                        <topic>Mittelwertungleichung</topic>
+                        <topic>Borel-Maß</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659522887</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8d9c9575-b4e4-49e3-b30e-4078b5a69ecd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8d9c9575-b4e4-49e3-b30e-4078b5a69ecd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8d9c9575-b4e4-49e3-b30e-4078b5a69ecd/unbestimmte-integrale.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8d9c9575-b4e4-49e3-b30e-4078b5a69ecd" DMDID="DMD_8d9c9575-b4e4-49e3-b30e-4078b5a69ecd">
+            <mets:fptr FILEID="FILE_8d9c9575-b4e4-49e3-b30e-4078b5a69ecd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

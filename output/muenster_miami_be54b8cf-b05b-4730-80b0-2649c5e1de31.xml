@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_be54b8cf-b05b-4730-80b0-2649c5e1de31">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>»sanfte Kaiserschnitt« – eine neue Sektiotechnik?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1096842041">
+                        <displayForm>Lellé, Ralph J.</displayForm>
+                        <namePart type="given">Ralph J.</namePart>
+                        <namePart type="family">Lellé</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137715919">
+                        <displayForm>Heidenreich, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Heidenreich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Franck, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Franck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2006-03-09</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-03-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Misgav-Ladach-Technik, auch als &quot;sanfter Kaiserschnitt&quot; bezeichnet, wird beschrieben.</abstract>
+                    <note type="citation/reference">veröffentlicht in der Zeitschrift &quot;gyn&quot; des Omnimed-Verlags, Hamburg, 1998</note>
+                    <subject lang="ger">
+                        <topic>Sectio caesarea</topic>
+                        <topic>Misgav-Ladach-Technik</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33629176945</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_be54b8cf-b05b-4730-80b0-2649c5e1de31</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_be54b8cf-b05b-4730-80b0-2649c5e1de31_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/be54b8cf-b05b-4730-80b0-2649c5e1de31/1998_Lelle-Kaiserschnitt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_be54b8cf-b05b-4730-80b0-2649c5e1de31" DMDID="DMD_be54b8cf-b05b-4730-80b0-2649c5e1de31">
+            <mets:fptr FILEID="FILE_be54b8cf-b05b-4730-80b0-2649c5e1de31_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

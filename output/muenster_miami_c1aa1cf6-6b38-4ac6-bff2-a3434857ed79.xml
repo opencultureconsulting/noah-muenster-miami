@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c1aa1cf6-6b38-4ac6-bff2-a3434857ed79">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>ERM proteins - regulators of mitosis?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1180632532">
+                        <displayForm>Bissen, Philippe</displayForm>
+                        <namePart type="given">Philippe</namePart>
+                        <namePart type="family">Bissen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111048907">
+                        <displayForm>Gerke, Volker</displayForm>
+                        <namePart type="given">Volker</namePart>
+                        <namePart type="family">Gerke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-03-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-02-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Morphologische Veränderungen einer Zelle benötigen einen anpassbaren Zellkortex. Hierfür muss er mit der darüberliegenden Plasmamembran verbunden sein. Anillin und ERM Proteine sind einige bekannte Verteter solcher verankernden Proteine. Diese Studie untersucht mögliche Rollen der ERM Proteine in der Mitose. ERM Proteine stellen eine Proteinfamilie gebildet von ezrin, radixin und moesin dar. Die Resultate zeigen nach Depletion der ERM Proteine keine signifikant erhöhte Zahl an Zellen mit unphysiologisch vermehrtem DNA Gehalt. Allerdings beginnen weniger ERM-defiziente Zellen im Vergleich zu ERM-haltigen Zellen die Zytokinese und parallel verbleiben mehr Zellen für eine längere Zeit in der Metaphase. Unter dem Mikroskop sind kortikale Instabilitäten, Bläschenbildung und eine kürzere Distanz zwischen den segregierenden Chromosomen und dem Zellkortex festzustellen. Kombiniert zeigen diese Resultate, dass ERM Proteine die Progression der Zytokinese positiv beeinflussen.</abstract>
+                    <abstract lang="eng">Morphological transformations of a cell need an adaptable cell cortex. Therefore it has to be anchored to the overlying plasma membrane. Anillin and ERM proteins are such anchor proteins. This study examines possible roles of ERM proteins in mitosis. ERMs are a protein family built of ezrin, radixin und moesin. The results show after the depletion of ERMs no significant increase in cells with non-physiological DNA amount. However fewer ERM deficient cells begin cytokinesis compared to ERM containing cells, meaning ERM deficient cells remain longer in metaphase. Live cell microscopy reveals cortical instabilities, blebbing and a shorter distance between the segregating chromosomes and the cell cortex. Combined, these results indicate, that ERM proteins accelerate cytokinesis.</abstract>
+                    <subject lang="ger">
+                        <topic>Mitose</topic>
+                        <topic>Zytokinese</topic>
+                        <topic>Zellkortex</topic>
+                        <topic>ezrin</topic>
+                        <topic>radixin</topic>
+                        <topic>moesin</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Mitosis</topic>
+                        <topic>cytokinesis</topic>
+                        <topic>cell cortex</topic>
+                        <topic>ezrin</topic>
+                        <topic>radixin</topic>
+                        <topic>moesin</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15169628974</identifier>
+                    <identifier type="sys">HT020002000</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c1aa1cf6-6b38-4ac6-bff2-a3434857ed79</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c1aa1cf6-6b38-4ac6-bff2-a3434857ed79_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c1aa1cf6-6b38-4ac6-bff2-a3434857ed79/diss_bissen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c1aa1cf6-6b38-4ac6-bff2-a3434857ed79" DMDID="DMD_c1aa1cf6-6b38-4ac6-bff2-a3434857ed79">
+            <mets:fptr FILEID="FILE_c1aa1cf6-6b38-4ac6-bff2-a3434857ed79_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

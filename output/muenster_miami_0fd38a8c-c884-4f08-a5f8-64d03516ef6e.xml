@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0fd38a8c-c884-4f08-a5f8-64d03516ef6e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Individualrechtsschutz gegen Überschreitungen der gemeindlichen Verbandskompetenz</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115864016">
+                        <displayForm>Oebbecke, Janbernd</displayForm>
+                        <namePart type="given">Janbernd</namePart>
+                        <namePart type="family">Oebbecke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1988</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-10-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-10-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Neue Zeitschrift für Verwaltungsrecht 7 (1988) 4, 393–398</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-02479438306</identifier>
+                    <identifier type="issn">0721-880X</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0fd38a8c-c884-4f08-a5f8-64d03516ef6e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0fd38a8c-c884-4f08-a5f8-64d03516ef6e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0fd38a8c-c884-4f08-a5f8-64d03516ef6e/1988_oebbe_indiv.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0fd38a8c-c884-4f08-a5f8-64d03516ef6e" DMDID="DMD_0fd38a8c-c884-4f08-a5f8-64d03516ef6e">
+            <mets:fptr FILEID="FILE_0fd38a8c-c884-4f08-a5f8-64d03516ef6e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

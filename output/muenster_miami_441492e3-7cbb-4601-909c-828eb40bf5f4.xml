@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_441492e3-7cbb-4601-909c-828eb40bf5f4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>›Dem Leben wie einem Roman zu Leibe rücken‹</title>
+                        <subTitle>Wolfgang Herrndorfs Blog und Buch Arbeit und Struktur zwischen digitalem Gebrauchstext und literarischem Werk</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1077793073">
+                        <displayForm>Michelbach, Elisabeth</displayForm>
+                        <namePart type="given">Elisabeth</namePart>
+                        <namePart type="family">Michelbach</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Arbeit und Struktur ist sowohl ein Blog, das der Autor Wolfgang Herrndorf seit der Diagnose eines Hirntumors geschrieben hat, als auch ein Buch, welches wenige Monate nach seinem Tod erschienen ist. Der Aufsatz beginnt mit der Beobachtung, dass mit den beiden Aggregatszuständen offenbar unterschiedliche Perspektiven auf den weitgehend unveränderten Text einhergehen: Erscheint das Blog Arbeit und Struktur als Gebrauchstext, wird er als abgeschlossene Erzählung in Buchform Teil von Herrndorfs literarischem Werk. Heteronome und poetische Signale werden von der Darreichungsform des Textes und ihrer jeweiligen medialen Spezifik unterschiedlich privilegiert und inszeniert.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34279487959</identifier>
+                    <identifier type="doi">10.17879/34279487622</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_441492e3-7cbb-4601-909c-828eb40bf5f4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_441492e3-7cbb-4601-909c-828eb40bf5f4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/441492e3-7cbb-4601-909c-828eb40bf5f4/textpraxis_2016_13_michelbach.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_441492e3-7cbb-4601-909c-828eb40bf5f4" DMDID="DMD_441492e3-7cbb-4601-909c-828eb40bf5f4">
+            <mets:fptr FILEID="FILE_441492e3-7cbb-4601-909c-828eb40bf5f4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

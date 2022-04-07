@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c7eb9fa5-db7d-4183-b3cb-e8bad8aaf192">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vernetzte Identitäten</title>
+                        <subTitle>Autobiographische Selbstpositionierungen im sozialen Netzwerk bei Fontane und Facebook</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1131112172">
+                        <displayForm>Wilhelms, Kerstin</displayForm>
+                        <namePart type="given">Kerstin</namePart>
+                        <namePart type="family">Wilhelms</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Kerstin Wilhelms untersucht den Chronotopos des Lebenswegs in autobiographischen Texten und macht aufmerksam auf strukturelle Analogien zwischen Fontane und Facebook: Der Salon des 19. Jahrhunderts und die ›Sozialen Netzwerke‹ des 21. Jahrhunderts bringen vernetzte Identitäten hervor, die sich in einem interdependenten sozialen Gefüge positionieren.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34279495048</identifier>
+                    <identifier type="doi">10.17879/34279494715</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c7eb9fa5-db7d-4183-b3cb-e8bad8aaf192</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c7eb9fa5-db7d-4183-b3cb-e8bad8aaf192_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c7eb9fa5-db7d-4183-b3cb-e8bad8aaf192/textpraxis_2016_13_wilhelms.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c7eb9fa5-db7d-4183-b3cb-e8bad8aaf192" DMDID="DMD_c7eb9fa5-db7d-4183-b3cb-e8bad8aaf192">
+            <mets:fptr FILEID="FILE_c7eb9fa5-db7d-4183-b3cb-e8bad8aaf192_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ff50cc04-cca8-4592-9216-4233ef9dce95">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Koronarkalkquantifizierung mit dem Mehrschichtspiralcomputertomographen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129460664">
+                        <displayForm>Nattermann, Marie</displayForm>
+                        <namePart type="given">Marie</namePart>
+                        <namePart type="family">Nattermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113504152">
+                        <displayForm>Fischbach, Roman</displayForm>
+                        <namePart type="given">Roman</namePart>
+                        <namePart type="family">Fischbach</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-10-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-08-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Koronarverkalkungen müssen frühzeitig entdeckt werden um rechtzeitig behandelt werden zu können. Wir haben bei 54 Patienten mit unterschiedlicher Klinik und Risikoprofil mit dem MSCT eine EKG getriggerte Untersuchung des Herzens vorgenommen. Die Koronarverkalkungen wurden mit dem Agatston- und dem Volumenscore berechnet. Bei dem Agatstonscore konnten wir eine Variabilität von 37,4% bestätigen, für den Volumenscores eine Variabilität 24,8% ausmachen. Durch überlappende Bildrekonstruktion konnte die Variabilität für den Agatstonscore auf 12,3 bzw 9,8% für den Volumenscore reduziert werden. Daneben haben wir die Inter- und Intraobservervariabilität untersucht und fanden eine Variabilität von 2,3 bzw. 1,4% für den Volumenscore. Aus unseren Ergebnissen schlussfolgern wir eine Überlegenheit des Volumenscores für die Koronarkalkquantifizierung, die sich durch überlappende Bildrekonstruktion noch einmal deutlich verbessern lässt.</abstract>
+                    <subject lang="ger">
+                        <topic>Koronarkalkdetektion</topic>
+                        <topic>Koronarkalkquantifizierung</topic>
+                        <topic>Volumenscore</topic>
+                        <topic>Agatstonscore-MSCT</topic>
+                        <topic>retrospektives EKG-Gating</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-78639535033</identifier>
+                    <identifier type="sys">HT014224521</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ff50cc04-cca8-4592-9216-4233ef9dce95</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ff50cc04-cca8-4592-9216-4233ef9dce95_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ff50cc04-cca8-4592-9216-4233ef9dce95/marie_nattermamm_dissertation.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ff50cc04-cca8-4592-9216-4233ef9dce95" DMDID="DMD_ff50cc04-cca8-4592-9216-4233ef9dce95">
+            <mets:fptr FILEID="FILE_ff50cc04-cca8-4592-9216-4233ef9dce95_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

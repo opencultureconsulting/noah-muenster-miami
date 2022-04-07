@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_584878ac-8122-47e2-af20-1db5e67f08f9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Symplectic dynamics of contact isotropic torus complements</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1097637379">
+                        <displayForm>Barth, Kilian</displayForm>
+                        <namePart type="given">Kilian</namePart>
+                        <namePart type="family">Barth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schneider, Jay</displayForm>
+                        <namePart type="given">Jay</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140421173">
+                        <displayForm>Zehmisch, Kai</displayForm>
+                        <namePart type="given">Kai</namePart>
+                        <namePart type="family">Zehmisch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We determine the homotopy type of isotropic torus complements in closed contact manifolds in terms of Reeb dynamics of special contact forms. For that, we utilize holomorphic curve techniques known from symplectic field theory as Gromov–Hofer compactness and localized transversality on noncompact contact manifolds.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>31</start>
+                                <end>48</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85169766445</identifier>
+                    <identifier type="doi">10.17879/85169765495</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_584878ac-8122-47e2-af20-1db5e67f08f9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_584878ac-8122-47e2-af20-1db5e67f08f9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/584878ac-8122-47e2-af20-1db5e67f08f9/mjm_2019_12_31-48.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_584878ac-8122-47e2-af20-1db5e67f08f9" DMDID="DMD_584878ac-8122-47e2-af20-1db5e67f08f9">
+            <mets:fptr FILEID="FILE_584878ac-8122-47e2-af20-1db5e67f08f9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

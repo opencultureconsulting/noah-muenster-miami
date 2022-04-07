@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5b8d4579-cd8d-42db-9d9d-f74632551309">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Funktionelle und molekulare Charakterisierung des Drosophila-Gens schizo</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124539882">
+                        <displayForm>Önel, Susanne-Filiz</displayForm>
+                        <namePart type="given">Susanne-Filiz</namePart>
+                        <namePart type="family">Önel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1157064728">
+                        <displayForm>Schwenke, Christiane</displayForm>
+                        <namePart type="given">Christiane</namePart>
+                        <namePart type="family">Schwenke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1157064728">
+                        <displayForm>Klaembt, Christiane</displayForm>
+                        <namePart type="given">Christiane</namePart>
+                        <namePart type="family">Klaembt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-02-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-12-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Ausbildung des embryonalen ZNS-Axonmusters von Drosophila ist abhängig von axonalen Wegfindungsfaktoren, die von den Zellen der Mittellinie sezerniert werden. Durch genetische Analysen konnten einige dieser Faktoren identifiziert werden. Netrine vermitteln überwiegend Attraktion, wohingegen Slit repulsiv auf Axone wirkt. Sowohl die beiden Signalmoleküle als auch ihre Rezeptoren wurden in Invertebraten und Vertebraten identifiziert, und ihre Funktion bei der Ausbildung der Kommissuren ist stark konserviert. Mutationen im Gen schizo führen zu einem Verlust der Kommissuren, ähnlich wie bei den Komponenten des Netrin-Signalweges. Der schizo-Genlokus wurde kloniert und eine genetische Analyse ergab, dass schizo keine Komponente des Netrin, sondern eine Komponente des Slit-Signalweges ist. Es wird eine regulatorische Funktion von schizo auf Slit vermutet.</abstract>
+                    <subject lang="ger">
+                        <topic>Drosophila</topic>
+                        <topic>schizo</topic>
+                        <topic>Kommissuren</topic>
+                        <topic>axonale Wegfindung</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-48059415435</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5b8d4579-cd8d-42db-9d9d-f74632551309</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5b8d4579-cd8d-42db-9d9d-f74632551309_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5b8d4579-cd8d-42db-9d9d-f74632551309/diss_oenel_2002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5b8d4579-cd8d-42db-9d9d-f74632551309" DMDID="DMD_5b8d4579-cd8d-42db-9d9d-f74632551309">
+            <mets:fptr FILEID="FILE_5b8d4579-cd8d-42db-9d9d-f74632551309_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

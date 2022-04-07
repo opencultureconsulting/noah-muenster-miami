@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3e9572ac-b2fd-4f81-9a65-386c2f665715">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines IR-Kohlenmonoxidsensors</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132980738">
+                        <displayForm>Geuking, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Geuking</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138580502">
+                        <displayForm>Cammann, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Cammann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-03</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-03-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit beschreibt die Entwicklung und Charakterisierung einer neuartigen Gasmesszelle für Kohlenmonoxidmessungen mittels IR-Absorption. Die Entwicklung basiert einerseits auf Vergleichsmessungen mit bestehenden Gasmesszellen und andererseits auf den Ergebnissen zahlreicher Computersimulationen. Die Software zur Simulation und Beurteilung refelektiv arbeitender optischer Systeme wurde ebenfalls im Rahmen der Arbeit entwickelt. Zusätzlich wurde eine 3d-engine programmiert, mit deren Hilfe sowohl beliebige Modelle von Gasmesszellen, als auch die mit dem Simulationsprogramm berechneten Lichtwege in perspektivischer Ansicht grafisch dargestellt werden können. Durch die Integration der erfundenen Gasmesszelle &quot;spiralförmige Gassensoroptik&quot; in ein Messsystem konnte ein Sensor entwickelt werden, der Kohlenmonoxidmessungen in verschiedenen Konzentrationsbereichen ermöglicht. Das entwickelte optische System wurde unter der Nummer DE 10 2006 030 788.7 beim DPMA zum Patent angemeldet.</abstract>
+                    <subject lang="ger">
+                        <topic>Kohlenmonoxid</topic>
+                        <topic>IR-Sensor</topic>
+                        <topic>Gasmesszelle</topic>
+                        <topic>Computersimulation</topic>
+                        <topic>3d-engine</topic>
+                        <topic>Reflexion</topic>
+                        <topic>Optik</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29509569186</identifier>
+                    <identifier type="sys">HT015217619</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3e9572ac-b2fd-4f81-9a65-386c2f665715</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3e9572ac-b2fd-4f81-9a65-386c2f665715_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3e9572ac-b2fd-4f81-9a65-386c2f665715/diss_geuking.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3e9572ac-b2fd-4f81-9a65-386c2f665715" DMDID="DMD_3e9572ac-b2fd-4f81-9a65-386c2f665715">
+            <mets:fptr FILEID="FILE_3e9572ac-b2fd-4f81-9a65-386c2f665715_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ed3d18a4-eb5b-4661-96d8-e0feae1d40c3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung einer computergestützten Fernröntgenseitenbild- Auswertung auf Basis der kraniofazialen Analyse nach Delaire zur Planung von kombiniert kieferorthopädischkieferchirurgischen Therapien</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132808862">
+                        <displayForm>Siemon, Tina</displayForm>
+                        <namePart type="given">Tina</namePart>
+                        <namePart type="family">Siemon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108551067">
+                        <displayForm>Stamm, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Stamm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-03-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-03-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Planung dysgnathiechirugischer Therapien erfolgt u.a. durch die Analyse von FRS-Bildern. Diese Dissertation basiert auf der kraniofazialen Analyse von J. Delaire, welche Normwerte vermeidet und aus individuellen Strukturen jedes Patienten eine ideale Balance entwickelt. Sie stellt eine gute Methode zur Verifizierung skelettaler Anomalien dar und vereinfacht speziell bei syndromal veränderten Schädeln die Therapieplanung. Mit Hilfe des erarbeiteten Handouts ist eine manuelle Auswertung von FRS-Bildern nach Delaire möglich. Mit der entwickelten computergestützten Analyse wird auch die Auswertung von direkt / indirekt digitalisierten FRS-Bilder durchführbar. Diese basiert auf dem Open-Source Programm ImageJ und weißt eine selbsterklärende Struktur mit vielfältigen Bildverarbeitungsfunktionen auf. Der Vergleich der Auswertungsergebnisse von zehn manuell und mittels computergestützter Analyse ausgewerteter FRS-Bilder belegte die einwandfreie Arbeitsweise des entwickelten Programms.</abstract>
+                    <subject lang="ger">
+                        <topic>FRS-Analyse</topic>
+                        <topic>Delaire-Analyse</topic>
+                        <topic>computergestützte Fernröntenseitenbild-Auswertung</topic>
+                        <topic>Dysgnathiechirurgie</topic>
+                        <topic>Kieferorthopädie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79549544456</identifier>
+                    <identifier type="sys">HT015083398</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ed3d18a4-eb5b-4661-96d8-e0feae1d40c3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ed3d18a4-eb5b-4661-96d8-e0feae1d40c3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ed3d18a4-eb5b-4661-96d8-e0feae1d40c3/diss_siemon_tina.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ed3d18a4-eb5b-4661-96d8-e0feae1d40c3" DMDID="DMD_ed3d18a4-eb5b-4661-96d8-e0feae1d40c3">
+            <mets:fptr FILEID="FILE_ed3d18a4-eb5b-4661-96d8-e0feae1d40c3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

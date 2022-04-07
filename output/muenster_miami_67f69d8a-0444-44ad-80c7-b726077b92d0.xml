@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_67f69d8a-0444-44ad-80c7-b726077b92d0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="dut">
+                        <title>Het familietijdschrift van idee tot realiteit</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/119615746">
+                        <displayForm>Bechstedt, Heinrich von Mantel</displayForm>
+                        <namePart type="given">Heinrich von Mantel</namePart>
+                        <namePart type="family">Bechstedt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/119615746">
+                        <displayForm>Bechstedt, Heinrich von Mantel</displayForm>
+                        <namePart type="given">Heinrich von Mantel</namePart>
+                        <namePart type="family">Bechstedt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Elenbaas-Bunschoten, E. W. A.</displayForm>
+                        <namePart type="given">E. W. A.</namePart>
+                        <namePart type="family">Elenbaas-Bunschoten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">dut</languageTerm>
+                    </language>
+                    <note type="citation/reference">GenS Elenbaas, Hilversum en Centraal Bureau voor Genealogie, Den Haag; geheel herziene versie 1999</note>
+                    <subject lang="ger">
+                        <topic>Niederlande</topic>
+                        <topic>Familie</topic>
+                        <topic>Geschichte</topic>
+                        <topic>Zeitschrift</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659550325</identifier>
+                    <identifier type="isbn">90-58020-11-8</identifier>
+                    <identifier type="sys">HT013496859</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_67f69d8a-0444-44ad-80c7-b726077b92d0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_67f69d8a-0444-44ad-80c7-b726077b92d0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/67f69d8a-0444-44ad-80c7-b726077b92d0/dl_famtijdschrift.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_67f69d8a-0444-44ad-80c7-b726077b92d0" DMDID="DMD_67f69d8a-0444-44ad-80c7-b726077b92d0">
+            <mets:fptr FILEID="FILE_67f69d8a-0444-44ad-80c7-b726077b92d0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

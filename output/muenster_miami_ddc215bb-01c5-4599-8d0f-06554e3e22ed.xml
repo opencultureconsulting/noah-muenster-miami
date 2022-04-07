@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ddc215bb-01c5-4599-8d0f-06554e3e22ed">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Topology of a Bubble in dry Foam</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fischer, Fred</displayForm>
+                        <namePart type="given">Fred</namePart>
+                        <namePart type="family">Fischer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-09-05</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-09-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The topological structure of such a bubble requires two necessary conditions. Firstly, Euler’s relation between the numbers of its (surface) areas, its (Plateau) borders, and its nodal points (vertices) must be fulfilled. Secondly, always three borders on its surface meet at each nodal point. These conditions allow certain sets of areas with different numbers of borders. However, only when those areas can form a correct net of borders connected by nodal points at a sphere then a bubble topology for such a set has been realized. With forced T1 and inverse T2 processes and by the use of computer programs real topologies have been obtained for bubbles with area numbers up to 16. Their construction out of the computer data is illustrated. A special classification scheme among bubbles of equal area number as well as the appearance of topological isomers are discussed.</abstract>
+                    <subject lang="ger">
+                        <topic>trockener Schaum</topic>
+                        <topic>Computerprogramme</topic>
+                        <topic>Bruttoformeln</topic>
+                        <topic>Graphen von Blasen</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77579645423</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ddc215bb-01c5-4599-8d0f-06554e3e22ed</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ddc215bb-01c5-4599-8d0f-06554e3e22ed_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ddc215bb-01c5-4599-8d0f-06554e3e22ed/topology_of_bubbles.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ddc215bb-01c5-4599-8d0f-06554e3e22ed" DMDID="DMD_ddc215bb-01c5-4599-8d0f-06554e3e22ed">
+            <mets:fptr FILEID="FILE_ddc215bb-01c5-4599-8d0f-06554e3e22ed_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

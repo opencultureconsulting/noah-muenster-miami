@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_abe168e6-e7b3-48f5-a41d-7b1d53615d27">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bericht von der 9. internationalen Konferenz 26. bis 29. Januar 2005 in Sankt Gallen »Primary Therapy for Early Breast Cancer«</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1096842041">
+                        <displayForm>Lellé, Ralph J.</displayForm>
+                        <namePart type="given">Ralph J.</namePart>
+                        <namePart type="family">Lellé</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2006-03-09</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-03-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die im Januar 2005 in Sankt Gallen, Schweiz, erarbeiteten Konsensus-Empfehlung zur adjuvanten Behandlung von Patientinnen mit Mammakarzinomen werden zusammengefaßt.</abstract>
+                    <note type="citation/reference">erschienen in der Zeitschrift &quot;gyn&quot; des Omnimed-Verlags, Hamburg, 2005</note>
+                    <subject lang="ger">
+                        <topic>adjuvante Therapie</topic>
+                        <topic>Mammakarzinom</topic>
+                        <topic>Konsensuskonferenz</topic>
+                        <topic>Sankt Gallen</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33629164299</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_abe168e6-e7b3-48f5-a41d-7b1d53615d27</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_abe168e6-e7b3-48f5-a41d-7b1d53615d27_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/abe168e6-e7b3-48f5-a41d-7b1d53615d27/2005_Lelle_St_Gallen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_abe168e6-e7b3-48f5-a41d-7b1d53615d27" DMDID="DMD_abe168e6-e7b3-48f5-a41d-7b1d53615d27">
+            <mets:fptr FILEID="FILE_abe168e6-e7b3-48f5-a41d-7b1d53615d27_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c60ebb03-53cd-43c9-98a7-57c4df75adf4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On finitely summable K-homology</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024222101">
+                        <displayForm>Rave, Stephan David</displayForm>
+                        <namePart type="given">Stephan David</namePart>
+                        <namePart type="family">Rave</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137444311">
+                        <displayForm>Cuntz, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Cuntz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-07-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-06-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir definieren für die Kategorie der topologischen *-Algebren endlich summierbare K-Homologie-Gruppen K_fin, deren Elemente durch Homotopieklassen endlich summierbarer Fredholm-Moduln gegeben sind, und studieren einige ihrer Eigenschaften: Wir zeigen, dass K_fin invariant ist unter Stabilisierung mit Schatten-Klassen, im Allgemeinen jedoch nicht additiv für abzählbar unendliche direkte Summen von topologischen *-Algebren ist. Des Weiteren berechnen wir die endlich summierbare K-Homologie von AF-Algebren und behandeln den Fall von Mannigfaltigkeiten. Darüber hinaus untersuchen wir einige Klassen von Algebren, für die K_fin degeneriert. Insbesondere beweisen wir, dass abgesehen von trivialen Beispielen keine endlich summierbaren Fredholm-Moduln über der Faltungsalgebra l^1(G) einer diskreten Gruppe G existieren können.</abstract>
+                    <subject lang="ger">
+                        <topic>K-Homologie</topic>
+                        <topic>nichtkommutative Geometrie</topic>
+                        <topic>Fredholm-Modul</topic>
+                        <topic>p-summierbar</topic>
+                        <topic>Schatten-Klassen</topic>
+                        <topic>Chern-Connes-Charakter</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20409574703</identifier>
+                    <identifier type="sys">HT017309966</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c60ebb03-53cd-43c9-98a7-57c4df75adf4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c60ebb03-53cd-43c9-98a7-57c4df75adf4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c60ebb03-53cd-43c9-98a7-57c4df75adf4/diss_rave.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c60ebb03-53cd-43c9-98a7-57c4df75adf4" DMDID="DMD_c60ebb03-53cd-43c9-98a7-57c4df75adf4">
+            <mets:fptr FILEID="FILE_c60ebb03-53cd-43c9-98a7-57c4df75adf4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

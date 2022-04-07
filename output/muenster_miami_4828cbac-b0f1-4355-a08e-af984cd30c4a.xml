@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4828cbac-b0f1-4355-a08e-af984cd30c4a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Hardware-oriented Krylov methods for high-performance computing</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123092826X">
+                        <displayForm>Dreier, Nils-Arne</displayForm>
+                        <namePart type="given">Nils-Arne</namePart>
+                        <namePart type="family">Dreier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139810196">
+                        <displayForm>Engwer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Engwer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-04-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-03-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Gegenstand dieser Dissertation ist die Formulierung von Krylovraumverfahren zur Lösung von linearen Gleichungssystemen mit mehreren rechten Seiten, welche die Eigenschaften moderner Hardware berücksichtigen. Dazu untersuchen wir ein innovatives Blockkrylovraum-Framework, welches es ermöglicht die Berechnungs- und Datentransferkosten der Blockkrylovraummethode an die Hardware anzupassen. Darauf aufbauend formulieren wir mehrere Krylovraummethoden. Für die Block CG und Block BiCGStab Methoden entwickeln wir eine adaptive Stabilisierungsstrategie. Des Weiteren optimieren wir die Methoden bezüglich der Kommunikation auf Systemen mit verteiltem Speicher. Dazu stellen wir mehrere Varianten der Algorithmen vor, welche sich durch ihre Kommunikationseigenschaften unterscheiden. Außerdem entwickeln wir für die GMRes Methode optimierte Varianten der Orthonormalisierung. Für alle optimierten Varianten zeigen wir numerische Tests, welche die Verbesserungen demonstrieren.</abstract>
+                    <abstract lang="eng">In this work, we develop Krylov subspace methods to solve linear systems with multiple right-hand sides, tailored to modern hardware in high-performance computing. To this end, we analyze an innovative block Krylov subspace framework that allows to balance the computational and data-transfer costs to the hardware. Based on the framework, we formulate commonly used Krylov methods. For the CG and BiCGStab methods, we introduce an adaptive stabilization approach as an alternative to a deflation strategy. In addition, we optimize the methods further for distributed memory systems and the communication overhead. For this we present several variants of the algorithms, which differ in their communication properties. For the Block GMRes algorithm, we present optimizations for the orthogonalization. For all optimized method, we present tests that show their superiority.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Block Krylov Methoden</topic>
+                        <topic>Hochleistungsrechnen</topic>
+                        <topic>Hardware-orientierte Numerik</topic>
+                        <topic>Numerische Lineare Algebra</topic>
+                        <topic>Kommunikationsvermeidung</topic>
+                        <topic>Kommunikationsüberlappung</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>block Krylov methods</topic>
+                        <topic>high-performance-computing</topic>
+                        <topic>hardware-oriented numerics</topic>
+                        <topic>numerical linear algebra</topic>
+                        <topic>communication-avioing</topic>
+                        <topic>communication-hiding</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58009462603</identifier>
+                    <identifier type="sys">HT020892391</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4828cbac-b0f1-4355-a08e-af984cd30c4a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4828cbac-b0f1-4355-a08e-af984cd30c4a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4828cbac-b0f1-4355-a08e-af984cd30c4a/diss_dreier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4828cbac-b0f1-4355-a08e-af984cd30c4a" DMDID="DMD_4828cbac-b0f1-4355-a08e-af984cd30c4a">
+            <mets:fptr FILEID="FILE_4828cbac-b0f1-4355-a08e-af984cd30c4a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

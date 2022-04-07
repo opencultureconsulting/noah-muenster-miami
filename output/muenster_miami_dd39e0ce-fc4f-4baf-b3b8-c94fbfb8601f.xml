@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dd39e0ce-fc4f-4baf-b3b8-c94fbfb8601f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kommunale Pflichtverbände und Grundgesetz</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10563686X">
+                        <displayForm>Stockmeier, Jürgen</displayForm>
+                        <namePart type="given">Jürgen</namePart>
+                        <namePart type="family">Stockmeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118769987">
+                        <displayForm>Wolff, Hans J.</displayForm>
+                        <namePart type="given">Hans J.</namePart>
+                        <namePart type="family">Wolff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1960</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-12-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-12-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1960</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-50649531493</identifier>
+                    <identifier type="sys">HT014966119</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dd39e0ce-fc4f-4baf-b3b8-c94fbfb8601f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dd39e0ce-fc4f-4baf-b3b8-c94fbfb8601f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dd39e0ce-fc4f-4baf-b3b8-c94fbfb8601f/diss_stockmeier_1960.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dd39e0ce-fc4f-4baf-b3b8-c94fbfb8601f" DMDID="DMD_dd39e0ce-fc4f-4baf-b3b8-c94fbfb8601f">
+            <mets:fptr FILEID="FILE_dd39e0ce-fc4f-4baf-b3b8-c94fbfb8601f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

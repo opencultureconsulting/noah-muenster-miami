@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2b4a4d3c-3bb6-49cd-9c70-6eac7843a887">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Structural and functional analysis of the nuclear pore complex in Saccharomyces cerevisiae</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14080336X">
+                        <displayForm>Farr, Julia Christina</displayForm>
+                        <namePart type="given">Julia Christina</namePart>
+                        <namePart type="family">Farr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122862406">
+                        <displayForm>Maier, Berenike</displayForm>
+                        <namePart type="given">Berenike</namePart>
+                        <namePart type="family">Maier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-05-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-04-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Kernporenkomplex ist ein in die Kernhülle eingebetteter Multiproteintransporter, der sowohl passive Diffusion als auch Rezeptor–vermittelten Import in den Zellkern oder Export in das Zytoplasma ermöglicht. Um diese duale Funktionsweise verstehen zu können wurde der Kernporenkomplex in der Bäckerhefe untersucht. Zunächst wurde hierfür eine verbesserte Isolationsmethode von Zellkernen mit fluoreszenzmarkierten Kernporenkomplexen entwickelt und evaluiert. Elektronenmikroskopische Untersuchungen zeigen, dass Deletion von Mlp1 und Mlp2 zu strukturellen Veränderungen des Kernporenkomplex und einer fragileren Kernhülle führt. Durch quantitative Fluoreszenzmikroskopie konnten die Affinitäten der Transportrezeptoren Kap95 und NTF2 für den NPC bestimmt werden. Weiterhin wird in dieser Arbeit ein in vitro-Assay für Transportmessungen durch den Kernporenkomplex beschrieben und hierfür eine Methode zur Immobilisierung von Hefezellkernen auf transparenten Polycarbonat-Arrays entwickelt.</abstract>
+                    <abstract lang="eng">The Nuclear Pore Complex (NPC) is a multiprotein transporter embedded in the nuclear envelope that facilitates both passive diffusion and receptor mediated import into the nucleus or export into the cytoplasm. For an improved understanding of this functional duality the NPC in budding yeast was analyzed. We started by developing an improved isolation technique for yeast nuclei with fluorescently labeled NPCs and evaluated this method. Electron microscopy analysis reveals that deletion of Mlp1 and Mlp2 causes structural alterations of the NPC and an increased fragility of the nuclear envelope. Quantitative fluorescence microscopy enabled us to determine the binding affinities of Kap95 and NTF2 for the NPC. Furthermore an in vitro assay for transport measurements through the NPC and a technique to immobilize yeast nuclei on translucent polycarbonate arrays is described.</abstract>
+                    <subject lang="ger">
+                        <topic>Kernporenkomplex</topic>
+                        <topic>Saccharomyces cerevisiae</topic>
+                        <topic>Nukleozytoplasmatischer Transport</topic>
+                        <topic>Einzelmolekül-Fluoreszenzmikroskopie</topic>
+                        <topic>Konfokale Laserscanningmikroskopie</topic>
+                        <topic>Elektronenmikroskopie</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-81569538540</identifier>
+                    <identifier type="sys">HT016285140</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2b4a4d3c-3bb6-49cd-9c70-6eac7843a887</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2b4a4d3c-3bb6-49cd-9c70-6eac7843a887_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2b4a4d3c-3bb6-49cd-9c70-6eac7843a887/diss_farr.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2b4a4d3c-3bb6-49cd-9c70-6eac7843a887" DMDID="DMD_2b4a4d3c-3bb6-49cd-9c70-6eac7843a887">
+            <mets:fptr FILEID="FILE_2b4a4d3c-3bb6-49cd-9c70-6eac7843a887_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

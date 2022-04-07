@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_255b5954-7bab-4515-aadb-010bfec10df7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kooperation der ersten und zweiten Phase der Lehrerausbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arnold, Eva</displayForm>
+                        <namePart type="given">Eva</namePart>
+                        <namePart type="family">Arnold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1069154520">
+                        <displayForm>Justus, Monika</displayForm>
+                        <namePart type="given">Monika</namePart>
+                        <namePart type="family">Justus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1069154520">
+                        <displayForm>Fischer, Monika</displayForm>
+                        <namePart type="given">Monika</namePart>
+                        <namePart type="family">Fischer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-04-13</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-04-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright bei den Autoren</note>
+                    <note type="citation/reference">Vortrag auf dem 3. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 2. und 3. März 2009 in Hamburg</note>
+                    <subject lang="ger">
+                        <topic>Zentren für Lehrerbildung</topic>
+                        <topic>Theorie</topic>
+                        <topic>Praxis</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-01599454049</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_255b5954-7bab-4515-aadb-010bfec10df7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_255b5954-7bab-4515-aadb-010bfec10df7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/255b5954-7bab-4515-aadb-010bfec10df7/Phasenuebergreifende-Kooperation-in-der-Lehrerausbildung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_255b5954-7bab-4515-aadb-010bfec10df7" DMDID="DMD_255b5954-7bab-4515-aadb-010bfec10df7">
+            <mets:fptr FILEID="FILE_255b5954-7bab-4515-aadb-010bfec10df7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

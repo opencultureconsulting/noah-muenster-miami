@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fc21354d-d195-4787-8b4f-525921a4c53a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wärmeentwicklung bei der Keimung</title>
+                        <subTitle>Experimente zur Bestimmung der Keimungswärme</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vogt, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Vogt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schröer, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Schröer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/183590716">
+                        <displayForm>Eschbach, Judith</displayForm>
+                        <namePart type="given">Judith</namePart>
+                        <namePart type="family">Eschbach</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bekanntlich findet infolge von Stoffwechselaktivität bei der Samenkeimung eine Wärmeentwicklung statt. Bei entsprechender Wärmeisolierung von einer größeren Anzahl keimender Samen, ist die Wärmeentwicklung als Temperaturerhöhung zu messen. Mit entsprechenden Experimenten wird aufgezeigt, dass die detektierten Werte bei Versuchsansätzen wie z. B. bei TROLL, 1973; KRÜGER, 1978; SCHWARZMAIER, 1986 und auch bei KUHN &amp; PROBST, 1983 nicht allein von der Stoffwechselaktivität der keimenden Samen stammen, sondern ein beachtlicher Anteil mikrobiellem Stoffwechsel zuzuschreiben ist. Außerdem wird aufgezeigt, dass nach Desinfektion des Saatgutes (Erbsen, Mais und Mungobohnen) Temperaturen von über 60 °C während der Keimung nicht erreicht werden können.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Zellbiologie</topic>
+                        <topic>Studie</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>53</start>
+                                <end>68</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542104</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fc21354d-d195-4787-8b4f-525921a4c53a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fc21354d-d195-4787-8b4f-525921a4c53a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fc21354d-d195-4787-8b4f-525921a4c53a/VogtSchrEsch85.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fc21354d-d195-4787-8b4f-525921a4c53a" DMDID="DMD_fc21354d-d195-4787-8b4f-525921a4c53a">
+            <mets:fptr FILEID="FILE_fc21354d-d195-4787-8b4f-525921a4c53a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

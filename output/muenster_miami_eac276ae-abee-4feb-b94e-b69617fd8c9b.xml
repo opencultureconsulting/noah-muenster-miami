@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_eac276ae-abee-4feb-b94e-b69617fd8c9b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wege und Formen der Mediensatire am Beispiel des Portals Le Gorafi</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142855367">
+                        <displayForm>Scholler, Dietrich</displayForm>
+                        <namePart type="given">Dietrich</namePart>
+                        <namePart type="family">Scholler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mediensatire kehrt, wie literarische Satire, Bekanntes um. Sie wird dadurch verständlich, dass einschlägige mediale Praktiken bekannt sind und einen globalen Verstehenshorizont bilden. Mediensatirische Seiten und Autoren hinterfragen diese Habitualisierungen, indem sie einschlägige Dispositive und Praxen mittels parasitärer Indienstnahme verzerren und entstellen. Im vorliegenden Beitrag werden Formen dieser neuen Mediensatire am Beispiel des französischen Nachrichtenportals Le Gorafi erläutert und die Frage erörtert, inwiefern der Mediensatiriker für alternative, wenn nicht konterdiskursive Selbstpraktiken steht.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34279492408</identifier>
+                    <identifier type="doi">10.17879/34279490560</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_eac276ae-abee-4feb-b94e-b69617fd8c9b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_eac276ae-abee-4feb-b94e-b69617fd8c9b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/eac276ae-abee-4feb-b94e-b69617fd8c9b/textpraxis_2016_13_scholler.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_eac276ae-abee-4feb-b94e-b69617fd8c9b" DMDID="DMD_eac276ae-abee-4feb-b94e-b69617fd8c9b">
+            <mets:fptr FILEID="FILE_eac276ae-abee-4feb-b94e-b69617fd8c9b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

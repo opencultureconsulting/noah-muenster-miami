@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bbfc15f0-d577-40de-afff-fb68c7995e9b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Elektrophysiologisches Neuromonitoring des nervus laryngeus recurrens</title>
+                        <subTitle>klinische Wertigkeit</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129667757">
+                        <displayForm>Kirchrath, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Kirchrath</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwering, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Schwering</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-12-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-12-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorgelegte Studie untersuchte zwei Gruppen mit insgesamt 195 Schilddrüsenoperationen hinsichtlich der Frage, ob durch den Einsatz des intraoperativen Neuromonitoring die Rate der Pareseraten des n.laryngeus recurrens gesenkt werden kann, welcher zeitliche Aufwand entsteht und ob dem Patienten durch das IONM selber Beschwerden entstehen. Hierzu wurden 95 Operationen mit Neuromonitoring und 100 Eingriffe ohne Neuromonitoring miteinander verglichen. Das Ergebnis der Untersuchung bestätigt mit einer Reduktion der Pareserate durch Einsatz des IONM um 50 % die in der Literatur angegebenen Werte. Komplikationen durch das Neuromonitoring selbst traten nicht auf. Zusammenfassend ergibt sich aus der Untersuchung, dass das intraoperative Neuromonitoring in der Schilddrüsenchirurgie in Kombination mit der Erfahrung des Operateurs zu einer Senkung der Paresen des n.laryngeus recurrens führt, der zeitliche Mehraufwand tolerabel ist und es eine für den Patienten ungefährliche Prozedur darstellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Neuromonitoring</topic>
+                        <topic>Schilddrüse</topic>
+                        <topic>Neurostimulation</topic>
+                        <topic>transligamentäre Ableitung</topic>
+                        <topic>Recurrensparese</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27669470318</identifier>
+                    <identifier type="sys">HT014312906</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bbfc15f0-d577-40de-afff-fb68c7995e9b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bbfc15f0-d577-40de-afff-fb68c7995e9b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bbfc15f0-d577-40de-afff-fb68c7995e9b/diss_kirchrath.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bbfc15f0-d577-40de-afff-fb68c7995e9b" DMDID="DMD_bbfc15f0-d577-40de-afff-fb68c7995e9b">
+            <mets:fptr FILEID="FILE_bbfc15f0-d577-40de-afff-fb68c7995e9b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

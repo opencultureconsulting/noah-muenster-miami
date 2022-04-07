@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_34ae150f-1d60-4eba-908f-1cbf98b74bd7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Stellung des Wahlbeamten in der inneren Gemeindeverfassung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134162773">
+                        <displayForm>Lohmann, Eberhard</displayForm>
+                        <namePart type="given">Eberhard</namePart>
+                        <namePart type="family">Lohmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian-Friedrich</displayForm>
+                        <namePart type="given">Christian-Friedrich</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian Friedrich</displayForm>
+                        <namePart type="given">Christian Friedrich</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian F.</displayForm>
+                        <namePart type="given">Christian F.</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1979</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-18</dateIssued>
+                        <dateOther encoding="w3cdtf">1978-12-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1979</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15589329450</identifier>
+                    <identifier type="sys">HT015479742</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_34ae150f-1d60-4eba-908f-1cbf98b74bd7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_34ae150f-1d60-4eba-908f-1cbf98b74bd7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/34ae150f-1d60-4eba-908f-1cbf98b74bd7/diss_lohmann_1979.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_34ae150f-1d60-4eba-908f-1cbf98b74bd7" DMDID="DMD_34ae150f-1d60-4eba-908f-1cbf98b74bd7">
+            <mets:fptr FILEID="FILE_34ae150f-1d60-4eba-908f-1cbf98b74bd7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

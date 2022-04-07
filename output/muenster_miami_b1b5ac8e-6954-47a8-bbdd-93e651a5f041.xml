@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b1b5ac8e-6954-47a8-bbdd-93e651a5f041">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On an index theorem of Chang, Weinberger and Yu</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143972065">
+                        <displayForm>Schick, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Schick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143972065">
+                        <displayForm>Schick, Th.</displayForm>
+                        <namePart type="given">Th.</namePart>
+                        <namePart type="family">Schick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143972065">
+                        <displayForm>Schick, T.</displayForm>
+                        <namePart type="given">T.</namePart>
+                        <namePart type="family">Schick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seyedhosseini, Mehran</displayForm>
+                        <namePart type="given">Mehran</namePart>
+                        <namePart type="family">Seyedhosseini</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-02-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In this paper we prove a strengthening of a theorem of Chang, Weinberger and Yu on obstructions to the existence of positive scalar curvature metrics on compact manifolds with boundary. They construct a relative index for the Dirac operator, which lives in a relative K-theory group, measuring the difference between the fundamental group of the boundary and of the full manifold. Whenever the Riemannian metric has product structure and positive scalar curvature near the boundary, one can define an absolute index of the Dirac operator taking value in the K-theory of the C*-algebra of fundamental group of the full manifold. This index depends on the metric near the boundary. We prove that (a slight variation of) the relative index of Chang, Weinberger and Yu is the image of this absolute index under the canonical map of K-theory groups. This has the immediate corollary that positive scalar curvature on the whole manifold implies vanishing of the relative index, giving a conceptual and direct proof of the vanishing theorem of Chang, Weinberger and Yu (rather: a slight variation). To take the fundamental groups of the manifold and its boundary into account requires working with maximal C*-completions of the involved ∗-algebras. A significant part of this paper is devoted to foundational results regarding these completions. On the other hand, we introduce and propose a more conceptual and more geometric completion, which still has all the required functoriality.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>123</start>
+                                <end>154</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59019523467</identifier>
+                    <identifier type="doi">10.17879/59019522628</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b1b5ac8e-6954-47a8-bbdd-93e651a5f041</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b1b5ac8e-6954-47a8-bbdd-93e651a5f041_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b1b5ac8e-6954-47a8-bbdd-93e651a5f041/mjm_2021_14_123-154.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b1b5ac8e-6954-47a8-bbdd-93e651a5f041" DMDID="DMD_b1b5ac8e-6954-47a8-bbdd-93e651a5f041">
+            <mets:fptr FILEID="FILE_b1b5ac8e-6954-47a8-bbdd-93e651a5f041_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1ef01d50-56c1-452e-a3cb-dc8fbf13b39b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einführung in die Arbeit mit dem TI-92</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1089933096">
+                        <displayForm>Schmidt, Thomas J.</displayForm>
+                        <namePart type="given">Thomas J.</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-08-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bedienungsanleitung für den Taschencomputer TI-92; auch für den Taschencomputer V-200 übertragbar</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, für unterrichtliche Zwecke freigegeben</note>
+                    <subject lang="ger">
+                        <topic>Mathematik</topic>
+                        <topic>Taschencomputer</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>CAS</topic>
+                        <topic>Bedienungsanleitung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-75629647940</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1ef01d50-56c1-452e-a3cb-dc8fbf13b39b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1ef01d50-56c1-452e-a3cb-dc8fbf13b39b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1ef01d50-56c1-452e-a3cb-dc8fbf13b39b/Schmidt_Tutorial.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1ef01d50-56c1-452e-a3cb-dc8fbf13b39b" DMDID="DMD_1ef01d50-56c1-452e-a3cb-dc8fbf13b39b">
+            <mets:fptr FILEID="FILE_1ef01d50-56c1-452e-a3cb-dc8fbf13b39b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

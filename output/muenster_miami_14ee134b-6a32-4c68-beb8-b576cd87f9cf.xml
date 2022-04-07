@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_14ee134b-6a32-4c68-beb8-b576cd87f9cf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Dokumentenserver MIAMI zum service-orientierten OAIS-konformen Archivsystem</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134827635">
+                        <displayForm>Rosenberger, Burkard</displayForm>
+                        <namePart type="given">Burkard</namePart>
+                        <namePart type="family">Rosenberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-02-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-03-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, gehalten auf dem Workshop &quot;Content Mangagement Systeme für Bibliotheken&quot; am 14.10.2004 in der Universitäts- und Landesbibliothek Düsseldorf</note>
+                    <subject lang="ger">
+                        <topic>Dokumentenserver</topic>
+                        <topic>Archivsystem</topic>
+                        <topic>Reference Model for an Open Archival Information System (OAIS)</topic>
+                        <topic>Münstersches Informations- und Archivsystem multimedialer Inhalte (MIAMI)</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94309453633</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_14ee134b-6a32-4c68-beb8-b576cd87f9cf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_14ee134b-6a32-4c68-beb8-b576cd87f9cf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/14ee134b-6a32-4c68-beb8-b576cd87f9cf/miami-oais.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_14ee134b-6a32-4c68-beb8-b576cd87f9cf" DMDID="DMD_14ee134b-6a32-4c68-beb8-b576cd87f9cf">
+            <mets:fptr FILEID="FILE_14ee134b-6a32-4c68-beb8-b576cd87f9cf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

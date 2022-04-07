@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ded62556-7f0a-48a4-ae2f-c31f246ba8dd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Autofiktion oder: Autobiographie nach der Autobiographie</title>
+                        <subTitle>Goethe – Barthes – Özdamar</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-09-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-09-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Iudicium Verlages</note>
+                    <note type="citation/reference">Druckausgabe: Breuer, Ulrich (Hrsg.): Autobiographisches Schreiben in der deutschsprachigen Gegenwartsliteratur, Bd. 1: Grenzen der Identität und der Fiktionalität. München : Iudicium, 2006, ISBN 978-3-89129-171-9, S. 353-368</note>
+                    <subject lang="ger">
+                        <topic>Autofiktion</topic>
+                        <topic>Autobiographie</topic>
+                        <topic>Goethe</topic>
+                        <topic>Barthes</topic>
+                        <topic>Özdamar</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-80529611966</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ded62556-7f0a-48a4-ae2f-c31f246ba8dd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ded62556-7f0a-48a4-ae2f-c31f246ba8dd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ded62556-7f0a-48a4-ae2f-c31f246ba8dd/autofiktion-1.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ded62556-7f0a-48a4-ae2f-c31f246ba8dd" DMDID="DMD_ded62556-7f0a-48a4-ae2f-c31f246ba8dd">
+            <mets:fptr FILEID="FILE_ded62556-7f0a-48a4-ae2f-c31f246ba8dd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

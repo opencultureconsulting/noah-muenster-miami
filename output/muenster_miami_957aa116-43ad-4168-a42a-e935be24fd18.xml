@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_957aa116-43ad-4168-a42a-e935be24fd18">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Energiegefilterte Rückstreuelektronen-Abbildung und -Spektroskopie im Rasterelektronenmikroskop</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124983146">
+                        <displayForm>Hoffmeister, Hilmar</displayForm>
+                        <namePart type="given">Hilmar</namePart>
+                        <namePart type="family">Hoffmeister</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137715617">
+                        <displayForm>Kohl, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Kohl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-09-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-07-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Ziel dieser Arbeit war die Entwicklung eines neuen Abbildungs- und Analyseverfahrens für den Einsatz im Rasterelektronenmikroskop. Es basiert auf der Bandpaßenergiefilterung der Rückstreuelektronen mit Hilfe eines energiedispersiven toroidalen Sektorfeld-Spektrometers. Dieses ermöglichte neben der Aufnahme von Rückstreuelektronenspektren, die Abbildung mit Hilfe von Rückstreuelektronen, die bezüglich ihrer Energie bandpaßgefiltert sind. Dadurch wurde eine tiefenselektive Abbildung eines Objektes im SEM möglich, die zerstörungsfrei ist und eine laterale Auflösung in der Größenordnung von konventionellen BSE-Abbildungen liefert. Die theoretische Grundlage ist die elastische Streuung und der kontinuierliche Energieverlust der Rückstreuelektronen auf ihrem Weg durch das Objekt. Durch die Untersuchung der Winkel-, Energie- und Austrittstiefenverteilungen der Rückstreuelektronen mit Hilfe von Monte-Carlo Simulationen konnte gezeigt werden, daß durch das Setzen entsprechender Energiefenster in das Spektrum der BSE selektiv einzelne Tiefen von Mehrfachschichtobjekten abgebildet werden können.</abstract>
+                    <subject lang="ger">
+                        <topic>Rasterelektronenmikroskopie</topic>
+                        <topic>Rückstreuelektronen-Spektroskopie</topic>
+                        <topic>engergiegefilterte Rückstreuelektronen-Abbildung</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659543013</identifier>
+                    <identifier type="sys">HT013835563</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_957aa116-43ad-4168-a42a-e935be24fd18</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_957aa116-43ad-4168-a42a-e935be24fd18_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/957aa116-43ad-4168-a42a-e935be24fd18/disshoffmeister2003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_957aa116-43ad-4168-a42a-e935be24fd18" DMDID="DMD_957aa116-43ad-4168-a42a-e935be24fd18">
+            <mets:fptr FILEID="FILE_957aa116-43ad-4168-a42a-e935be24fd18_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dd196c62-537d-4155-9ff3-032bb45b9e77">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pharma 3.0</title>
+                        <subTitle>delivering on health outcomes</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1140585177">
+                        <displayForm>Flochel, Patrick</displayForm>
+                        <namePart type="given">Patrick</namePart>
+                        <namePart type="family">Flochel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1140585185">
+                        <displayForm>Kumli, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Kumli</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-09-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-09-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The article offers information on the latest developments which are taking place in the pharmaceutical industry in Europe. It mentions that the industry is spending time and money in reshaping the industry in terms of health care system and health facilities offered to patients. It informs that pharmaceutical companies are focusing on organizational realignment, biotechnology and personalized medicine.</abstract>
+                    <note>Section &quot;Practicioner’s Section&quot;</note>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Journal of Business Chemistry</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Journal of Business Chemistry</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>155</start>
+                                <end>163</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-86469448955</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dd196c62-537d-4155-9ff3-032bb45b9e77</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dd196c62-537d-4155-9ff3-032bb45b9e77_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dd196c62-537d-4155-9ff3-032bb45b9e77/2010_vol7_iss3_155-163.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dd196c62-537d-4155-9ff3-032bb45b9e77" DMDID="DMD_dd196c62-537d-4155-9ff3-032bb45b9e77">
+            <mets:fptr FILEID="FILE_dd196c62-537d-4155-9ff3-032bb45b9e77_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

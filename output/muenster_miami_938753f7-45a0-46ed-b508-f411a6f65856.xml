@@ -1,0 +1,96 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_938753f7-45a0-46ed-b508-f411a6f65856">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Comparing adaptive and fixed bandwidth-based kernel density estimates in spatial  cancer epidemiology</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108238416X">
+                        <displayForm>Lemke, Dorothea</displayForm>
+                        <namePart type="given">Dorothea</namePart>
+                        <namePart type="family">Lemke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108238416X">
+                        <displayForm>Kirchner, Dorothea</displayForm>
+                        <namePart type="given">Dorothea</namePart>
+                        <namePart type="family">Kirchner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130377600">
+                        <displayForm>Mattauch, Volkmar Robert</displayForm>
+                        <namePart type="given">Volkmar Robert</namePart>
+                        <namePart type="family">Mattauch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172614945">
+                        <displayForm>Heidinger, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Heidinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136857736">
+                        <displayForm>Pebesma, Edzer J.</displayForm>
+                        <namePart type="given">Edzer J.</namePart>
+                        <namePart type="family">Pebesma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110928482">
+                        <displayForm>Hense, Hans-Werner</displayForm>
+                        <namePart type="given">Hans-Werner</namePart>
+                        <namePart type="family">Hense</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-31</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-04-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: Monitoring spatial disease risk (e.g. identifying risk areas) is of great relevance in public health research, especially in cancer epidemiology. A common strategy uses case-control studies and estimates a spatial relative risk function (sRRF) via kernel density estimation (KDE). This study was set up to evaluate the sRRF estimation methods, comparing fixed with adaptive bandwidth-based KDE, and how they were able to detect ‘risk areas’ with case data from a population-based cancer registry. Methods: The sRRF were estimated within a defined area, using locational information on incident cancer cases and on a spatial sample of controls, drawn from a high-resolution population grid recognized as underestimating the resident population in urban centers. The spatial extensions of these areas with underestimated resident population were quantified with population reference data and used in this study as ‘true risk areas’. Sensitivity and specificity analyses were conducted by spatial overlay of the ‘true risk areas’ and the significant (α=.05) p-contour lines obtained from the sRRF. Results: We observed that the fixed bandwidth-based sRRF was distinguished by a conservative behavior in identifying these urban ‘risk areas’, that is, a reduced sensitivity but increased specificity due to oversmoothing as compared to the adaptive risk estimator. In contrast, the latter appeared more competitive through variance stabilization, resulting in a higher sensitivity, while the specificity was equal as compared to the fixed risk estimator. Halving the originally determined bandwidths led to a simultaneous improvement of sensitivity and specificity of the adaptive sRRF, while the specificity was reduced for the fixed estimator. Conclusion: The fixed risk estimator contrasts with an oversmoothing tendency in urban areas, while overestimating the risk in rural areas. The use of an adaptive bandwidth regime attenuated this pattern, but led in general to a higher false positive rate, because, in our study design, the majority of true risk areas were located in urban areas. However, there is a strong need for further optimizing the bandwidth selection methods, especially for the adaptive sRRF.</abstract>
+                    <note type="citation/reference">International Journal of Health Geographics 14 (2015) 15, 1-10</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-49299486816</identifier>
+                    <identifier type="doi">doi:10.1186/s12942-015-0005-9</identifier>
+                    <identifier type="issn">1476-072X</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_938753f7-45a0-46ed-b508-f411a6f65856</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_938753f7-45a0-46ed-b508-f411a6f65856_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/938753f7-45a0-46ed-b508-f411a6f65856/s12942-015-0005-9.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_938753f7-45a0-46ed-b508-f411a6f65856" DMDID="DMD_938753f7-45a0-46ed-b508-f411a6f65856">
+            <mets:fptr FILEID="FILE_938753f7-45a0-46ed-b508-f411a6f65856_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

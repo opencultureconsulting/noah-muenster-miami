@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_eee84432-8a1b-4218-ad74-a59ebbb034c1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Klopstock! Oder: Medien des nationalen Imaginären</title>
+                        <subTitle>Zu den Hermann-Bardieten</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Wagner-Egelhaaf, Martina (Hrsg.): Hermanns Schlachten : zur Literaturgeschichte eines nationalen Mythos. Bielefeld : Aisthesis-Verl., 2008, S. 195-214</note>
+                    <subject lang="ger">
+                        <topic>Klopstock, Friedrich Gottlieb</topic>
+                        <topic>Teutoburger Wald</topic>
+                        <topic>Varusschlacht</topic>
+                        <topic>Gesang</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-31339563414</identifier>
+                    <identifier type="isbn">978-3-89528-714-5</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_eee84432-8a1b-4218-ad74-a59ebbb034c1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_eee84432-8a1b-4218-ad74-a59ebbb034c1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/eee84432-8a1b-4218-ad74-a59ebbb034c1/wagner-egelhaaf_2008_klopstock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_eee84432-8a1b-4218-ad74-a59ebbb034c1" DMDID="DMD_eee84432-8a1b-4218-ad74-a59ebbb034c1">
+            <mets:fptr FILEID="FILE_eee84432-8a1b-4218-ad74-a59ebbb034c1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

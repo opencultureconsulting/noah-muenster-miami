@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_93d670c0-7869-4b45-bb32-538d7c6118c5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Teilen ist Trumpf!</title>
+                        <subTitle>Der Fachinformationsdienst Benelux / Low Countries Studies an der ULB Münster</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124493297">
+                        <displayForm>Riek, Ilona</displayForm>
+                        <namePart type="given">Ilona</namePart>
+                        <namePart type="family">Riek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-03-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Artikel wurde anlässlich der Frankfurter Buchmesse 2016 verfasst, bei der Flandern und die Niederlande Ehrengast waren. Er beschreibt das ehemalige „Sondersammelgebiet Niederländischer Kulturkreis“ und den im Jahr 2016 etablierten „Fachinformationsdienst Benelux / Low Countries Studies“ der Universitäts- und Landesbibliothek Münster.</abstract>
+                    <note type="citation/reference">BuB 68 (2016) 10, 588-591</note>
+                    <subject lang="ger">
+                        <topic>Fachinformationsdienst</topic>
+                        <topic>Beneluxländer</topic>
+                        <topic>Universitäts- und Landesbibliothek Münster</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:6-21199571055</identifier>
+                    <identifier type="sys">HT020434773</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_93d670c0-7869-4b45-bb32-538d7c6118c5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_93d670c0-7869-4b45-bb32-538d7c6118c5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/93d670c0-7869-4b45-bb32-538d7c6118c5/artikel_riek_2018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_93d670c0-7869-4b45-bb32-538d7c6118c5" DMDID="DMD_93d670c0-7869-4b45-bb32-538d7c6118c5">
+            <mets:fptr FILEID="FILE_93d670c0-7869-4b45-bb32-538d7c6118c5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

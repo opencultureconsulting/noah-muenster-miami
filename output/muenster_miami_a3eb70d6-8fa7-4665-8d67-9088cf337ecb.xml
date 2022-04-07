@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a3eb70d6-8fa7-4665-8d67-9088cf337ecb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Lecture notes on stabilization of contact open books</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130405558">
+                        <displayForm>Koert, Otto van</displayForm>
+                        <namePart type="given">Otto van</namePart>
+                        <namePart type="family">Koert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130405558">
+                        <displayForm>Koert, Otto Ferdinand Bernard van</displayForm>
+                        <namePart type="given">Otto Ferdinand Bernard van</namePart>
+                        <namePart type="family">Koert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-11-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">This note explains how to relate some contact geometric operations, such as surgery, to operations on an underlying contact open book. In particular, we shall give a simple proof of the fact that stabilizations of contact open books yield contactomorphic manifolds.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>425</start>
+                                <end>455</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-70299611015</identifier>
+                    <identifier type="doi">10.17879/70299609615</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a3eb70d6-8fa7-4665-8d67-9088cf337ecb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a3eb70d6-8fa7-4665-8d67-9088cf337ecb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a3eb70d6-8fa7-4665-8d67-9088cf337ecb/mjm_2017_10_425-455.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a3eb70d6-8fa7-4665-8d67-9088cf337ecb" DMDID="DMD_a3eb70d6-8fa7-4665-8d67-9088cf337ecb">
+            <mets:fptr FILEID="FILE_a3eb70d6-8fa7-4665-8d67-9088cf337ecb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_edc76310-1be6-4571-8d37-8d0394ef34fd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neurale Korrelate des Lernens bei Patienten mit einer Schizophrenie</title>
+                        <subTitle>eine fMRT- und Spektroskopie-Studie</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1069586021">
+                        <displayForm>Haidl, Theresa Katharina</displayForm>
+                        <namePart type="given">Theresa Katharina</namePart>
+                        <namePart type="family">Haidl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173081290">
+                        <displayForm>Ohrmann, Patricia Antonia</displayForm>
+                        <namePart type="given">Patricia Antonia</namePart>
+                        <namePart type="family">Ohrmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173081290">
+                        <displayForm>Ohrmann, Patricia</displayForm>
+                        <namePart type="given">Patricia</namePart>
+                        <namePart type="family">Ohrmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-04-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-03-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">12 Patienten mit paranoider Psychose wurden zweizeitig mit funktionaler MRT (fMRT) untersucht, um deren individuelle Lernfähigkeit im Bereich der Exekutivfunktionen, gemessen mittels des Wisconsin Card Sorting Tests (WCST), zu beurteilen. Nach Durchführung einer computerisierten Version des WCST im MRT erfolgte innerhalb einer Woche ein Trainingsdurchgang (dynamischer WCST) außerhalb des Tomographen. Danach erfolgte erneut eine fMRT mit der PC-Version des WCST. Im anterioren cingulären Kortex (ACC) wurde eine Einzelvolumen 1H Magnetresonanzspektroskopie (1H-MRS) durchgeführt. Durch das Trainingsverfahren kam es zu einer signifikant besseren Performanz sowohl außerhalb als auch innerhalb des Tomographen. In der fMRT ergaben sich nach dem Training signifikant stärkere Aktivierungen in einem fronto-temporo-parietalen Netzwerk. Mit der Spektroskopie konnte ein positiver Zusammenhang zwischen N-Acetylaspartat (NAA) im ACC und der Lernleistung im WCST gezeigt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Paranoide Psychose</topic>
+                        <topic>WCST</topic>
+                        <topic>Exekutivfunktionen</topic>
+                        <topic>fMRT</topic>
+                        <topic>1H Magnetresonanzspektroskopie</topic>
+                        <topic>N-Acetylaspartat</topic>
+                        <topic>fronto-temporo-parietales Netzwerk</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-19299379815</identifier>
+                    <identifier type="sys">HT018610219</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_edc76310-1be6-4571-8d37-8d0394ef34fd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_edc76310-1be6-4571-8d37-8d0394ef34fd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/edc76310-1be6-4571-8d37-8d0394ef34fd/diss_haidl.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_edc76310-1be6-4571-8d37-8d0394ef34fd" DMDID="DMD_edc76310-1be6-4571-8d37-8d0394ef34fd">
+            <mets:fptr FILEID="FILE_edc76310-1be6-4571-8d37-8d0394ef34fd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

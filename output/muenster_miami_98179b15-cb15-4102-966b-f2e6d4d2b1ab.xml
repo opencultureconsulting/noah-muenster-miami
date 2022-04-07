@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_98179b15-cb15-4102-966b-f2e6d4d2b1ab">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuronale Netze für betriebliche Anwendungen</title>
+                        <subTitle>Anwendungspotentiale und existierende Systeme</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1037734505">
+                        <displayForm>Schneider, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1993-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der vorliegende Arbeitsbericht zeigt eine Auswahl neuronaler Netze für betriebliche Anwendungen. Aufbauend auf der Vorstellung einiger Systeme wird sowohl vom konkreten Anwendungsgebiet als auch von der konkreten Architektur des neuronalen Netzes abstrahiert, um so ein Übertragen der Erkenntnisse auf andere, ähnlich gelagerte Anwendungsprobleme zu ermöglichen. Anhand der abstrahierten Beschreibung ist es möglich, neue betriebliche Anwendungspotentiale neuronaler Netze aufzudecken. Dazu wird überprüft, inwieweit eine neue, potentielle Anwendung denselben Kriterien genügt. Aufgrund der Analogien erhält man neben einer „Machbarkeitsstudie“ ggf. bereits Hinweise auf die geeignete Wahl eines Netzwerktyps und der zugehörigen Netzwerkparameter für das neue Anwendungsproblem.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93599551902</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_98179b15-cb15-4102-966b-f2e6d4d2b1ab</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_98179b15-cb15-4102-966b-f2e6d4d2b1ab_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/98179b15-cb15-4102-966b-f2e6d4d2b1ab/022_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_98179b15-cb15-4102-966b-f2e6d4d2b1ab" DMDID="DMD_98179b15-cb15-4102-966b-f2e6d4d2b1ab">
+            <mets:fptr FILEID="FILE_98179b15-cb15-4102-966b-f2e6d4d2b1ab_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

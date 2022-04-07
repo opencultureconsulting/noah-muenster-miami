@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4b28553b-6055-4714-b5cc-5f63adb8cfd9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>MicroRNA-Analyse von Laser-mikrodissektiertem Gewebe zur Differenzierung zwischen Pankreaskarzinom, Pankreatitis und gesundem Pankreas</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105982857X">
+                        <displayForm>Steinfurth, Fabian</displayForm>
+                        <namePart type="given">Fabian</namePart>
+                        <namePart type="family">Steinfurth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128717971">
+                        <displayForm>Mees, Sören Torge</displayForm>
+                        <namePart type="given">Sören Torge</namePart>
+                        <namePart type="family">Mees</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-07-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine Dysregulation von MicroRNAs ist in zahlreichen Malignomen einschließlich des duktalen Adenokarzinoms des Pankreas nachgewiesen worden. Beim Letzteren ist der Ursprung der Dysregulation jedoch weiterhin unklar. Zur Klärung dieses Sachverhaltes erfolgte in dieser Arbeit ausgehend von Tumor- sowie duktalen Zellen ein Vergleich des MicroRNA-Expressionsmusters zwischen dem Pankreaskarzinom (n=9), der chronischen Pankreatitis (n=7) und dem gesunden Pankreas (n=3). Mittels Laser-Mikrodissektion (LCM) gelang eine Isolation der entsprechenden Zellgruppen aus pankreatischen FFPE-Geweben. Untersucht wurden hierbei die MicroRNAs miR-21*, miR-155, miR-196a sowie die MicroRNA-200-Familie. Verglichen mit dem gesunden Pankreas und der chronischen Pankreatitis konnte eine deutliche Überexpression von miR-196a im Pankreaskarzinom nachgewiesen werden. Die im PDAC vermehrte Expression an miR-196a ermöglichte zudem eine korrekte Identifikation des Selben - ein Umstand, der diagnostisch nutzbar wäre.</abstract>
+                    <subject lang="ger">
+                        <topic>MicroRNAs</topic>
+                        <topic>Pankreaskarzinom</topic>
+                        <topic>Laser-Mikrodissektion</topic>
+                        <topic>LCM</topic>
+                        <topic>FFPE</topic>
+                        <topic>Biomarker</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-91369553420</identifier>
+                    <identifier type="sys">HT018432946</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4b28553b-6055-4714-b5cc-5f63adb8cfd9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4b28553b-6055-4714-b5cc-5f63adb8cfd9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4b28553b-6055-4714-b5cc-5f63adb8cfd9/diss_steinfurth.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4b28553b-6055-4714-b5cc-5f63adb8cfd9" DMDID="DMD_4b28553b-6055-4714-b5cc-5f63adb8cfd9">
+            <mets:fptr FILEID="FILE_4b28553b-6055-4714-b5cc-5f63adb8cfd9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

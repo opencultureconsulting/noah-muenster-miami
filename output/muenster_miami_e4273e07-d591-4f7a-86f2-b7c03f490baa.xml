@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e4273e07-d591-4f7a-86f2-b7c03f490baa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>CA-Techniken und CIM</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109054415">
+                        <displayForm>Kurbel, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Kurbel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109054415">
+                        <displayForm>Kurbel, K.</displayForm>
+                        <namePart type="given">K.</namePart>
+                        <namePart type="family">Kurbel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109054415">
+                        <displayForm>Kurbel, Karl E.</displayForm>
+                        <namePart type="given">Karl E.</namePart>
+                        <namePart type="family">Kurbel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1991-05</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-14</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Arbeitsbericht gibt zunächst einen Überblick über die technisch orientierten rechnergestützten Komponenten im Rahmen des Computer Integrated Manufacturing (CIM), die sogenannten &quot;CAx-Systeme&quot; oder &quot;CA-Systeme&quot;: CAD (Computer Aided Design), CAP (Computer Aided Planning), CAM (Computer Aided Manufacturing), CAQ (Computer Aided Quality Assurance), CAI (Computer Aided Instruction). Er geht dann auf Schnittstellen der Teilsysteme untereinander und auf Schnittstellen zu anderen, insbesondere zu betriebswirtschaftlich orientierten Anwendungssystemen ein. Ansätze und Probleme der Integration unterschiedlicher Softwaresysteme sowie die neuen Herausforderungen an die Betriebswirtschaftslehre und an den Betriebswirt beschließen den Beitrag.</abstract>
+                    <note type="citation/reference">Auch erschienen in: Wittmann, Waldemar (Hrsg.): Handwörterbuch der Betriebswirtschaft. 5. Aufl. Stuttgart : Schäffer-Poeschel, 1993, Sp. 619-637</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14509438101</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e4273e07-d591-4f7a-86f2-b7c03f490baa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e4273e07-d591-4f7a-86f2-b7c03f490baa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e4273e07-d591-4f7a-86f2-b7c03f490baa/003_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e4273e07-d591-4f7a-86f2-b7c03f490baa" DMDID="DMD_e4273e07-d591-4f7a-86f2-b7c03f490baa">
+            <mets:fptr FILEID="FILE_e4273e07-d591-4f7a-86f2-b7c03f490baa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

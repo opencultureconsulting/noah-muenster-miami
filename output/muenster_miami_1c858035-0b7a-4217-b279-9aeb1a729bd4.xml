@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1c858035-0b7a-4217-b279-9aeb1a729bd4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>note on determinant functors and spectral sequences</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1052565972">
+                        <displayForm>Venjakob, Otmar</displayForm>
+                        <namePart type="given">Otmar</namePart>
+                        <namePart type="family">Venjakob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1052565972">
+                        <displayForm>Venjakob, O.</displayForm>
+                        <namePart type="given">O.</namePart>
+                        <namePart type="family">Venjakob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-10-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The aim of this note is to prove certain compatibilities of determinant functors with spectral sequences and (co)homology thereby extending results of [3] and refining a description in [9]. It turns out that the determinant behaves as well as one would have expected in this regard, only that we were not able to find references for it in the literature. The results are crucial for descent calculations in the context of Iwasawa theory [12] or Equivariant Tamagawa Number Conjectures [4, 5, 6].</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>345</start>
+                                <end>362</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22359592619</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1c858035-0b7a-4217-b279-9aeb1a729bd4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1c858035-0b7a-4217-b279-9aeb1a729bd4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1c858035-0b7a-4217-b279-9aeb1a729bd4/mjm_vol_7_14.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1c858035-0b7a-4217-b279-9aeb1a729bd4" DMDID="DMD_1c858035-0b7a-4217-b279-9aeb1a729bd4">
+            <mets:fptr FILEID="FILE_1c858035-0b7a-4217-b279-9aeb1a729bd4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

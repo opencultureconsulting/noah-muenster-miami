@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b718a1b8-3b3e-4de1-945e-1cb665404dc1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Institut für Altertumskunde an der Westfälischen Wilhelms-Universität Münster 1914-1958</title>
+                        <subTitle>Kontinuitäten und Diskontinuitäten in Lehrstuhlbesetzung und Wissenschaftsbetrieb</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1170981151">
+                        <displayForm>Schulte, Christin</displayForm>
+                        <namePart type="given">Christin</namePart>
+                        <namePart type="family">Schulte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129430749">
+                        <displayForm>Metzler, Dieter</displayForm>
+                        <namePart type="given">Dieter</namePart>
+                        <namePart type="family">Metzler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-12-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Dissertation verfolgt das Ziel, die Geschichte des Instituts für Altertumskunde und seiner einzelnen Fächer (Alte Geschichte, Klassische Archäologie, Klassische Philologie und Sprachwissenschaft) von der Gründung 1914 an über die verschiedenen politischen Systeme hinweg bis in die Zeit der frühen Bundesrepublik unter den Aspekten Kontinuität und Diskontinuität in Hinblick auf personelle, strukturelle (Studentenzahlen, finanzielle Ausstattung) und inhaltliche (Wissenschaftsbetrieb) Rahmenbedingungen darzustellen. Zudem soll versucht werden, eine Verortung des Münsteraner Instituts in die nationale universitäre Wissenschaftslandschaft des 20. Jahrhunderts vorzunehmen. Das Ende des Untersuchungszeitraums wird auf das Jahr 1958 festgelegt, um einen gewissen Endpunkt der Nachkriegsentwicklung zu haben.</abstract>
+                    <subject lang="ger">
+                        <topic>Deutschland</topic>
+                        <topic>Nordrhein-Westfalen</topic>
+                        <topic>Münster (Westf.)</topic>
+                        <topic>Universität</topic>
+                        <topic>Institut für Altertumskunde</topic>
+                        <topic>1914-1958</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-76189625324</identifier>
+                    <identifier type="sys">HT019865220</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b718a1b8-3b3e-4de1-945e-1cb665404dc1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b718a1b8-3b3e-4de1-945e-1cb665404dc1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b718a1b8-3b3e-4de1-945e-1cb665404dc1/diss_schulte.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b718a1b8-3b3e-4de1-945e-1cb665404dc1" DMDID="DMD_b718a1b8-3b3e-4de1-945e-1cb665404dc1">
+            <mets:fptr FILEID="FILE_b718a1b8-3b3e-4de1-945e-1cb665404dc1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

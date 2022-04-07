@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a1c12eeb-38ab-4e3d-be9d-76b89a35df42">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Endothelial cortical nanodynamics under hydrostatic pressure influence</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1105078973">
+                        <displayForm>Prystopiuk, Valeria</displayForm>
+                        <namePart type="given">Valeria</namePart>
+                        <namePart type="family">Prystopiuk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1117886956">
+                        <displayForm>Oberleithner, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Oberleithner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-07-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-06-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Studie konzentrieren wir uns auf die Untersuchung akuter transienter Druckunterschiede sowie eventueller Unterschiede zwischen akuten und chronischen Druckeinflüssen auf Endothelzellen. Abhängig von der Zeitspanne der Druckapplikation konnten wir zwei mögliche zelluläre Mechanismen identifizieren. Eine kurzfristige Druckapplikation (1 Stunde) führt zu einer reversiblen Versteifung des endothelialen Zellkortex aufgrund einer Erhöhung der Expression und Phosphorylierung von nicht-Muskel-Myosin II. Eine chronische Druckapplikation der Endothelzellen führt wiederum zu einer globalen Umlagerung des Aktin-Netzwerkes sowie zu einer Augmentation der Aktin-Filamente im apikalen Zellkortex. Folglich stellt der hydrostatische Druck per se wahrscheinlich einen Stimulus dar, welcher die vaskuläre Endothelzellfunktion moduliert und somit in der kardiovaskulären Forschung Berücksichtigung finden sollte.</abstract>
+                    <subject lang="ger">
+                        <topic>Druck</topic>
+                        <topic>Zellkortex</topic>
+                        <topic>Acto-Myosin Dynamik</topic>
+                        <topic>Nanodynamik</topic>
+                        <topic>Endothel Zellen</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-35249571259</identifier>
+                    <identifier type="sys">HT019026925</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a1c12eeb-38ab-4e3d-be9d-76b89a35df42</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a1c12eeb-38ab-4e3d-be9d-76b89a35df42_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a1c12eeb-38ab-4e3d-be9d-76b89a35df42/diss_prystopiuk.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a1c12eeb-38ab-4e3d-be9d-76b89a35df42" DMDID="DMD_a1c12eeb-38ab-4e3d-be9d-76b89a35df42">
+            <mets:fptr FILEID="FILE_a1c12eeb-38ab-4e3d-be9d-76b89a35df42_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

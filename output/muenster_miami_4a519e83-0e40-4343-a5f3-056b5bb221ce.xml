@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4a519e83-0e40-4343-a5f3-056b5bb221ce">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Conceptual models as basis for integrated information warehouse development</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-10</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Research in the field of information warehousing mostly focuses technical aspects. Only recently some contributions are found dealing with methodical aspects of information warehouse development processes. With respect to the central role information warehouses play for the management a development method is presented which strictly concentrates on management views. Language concepts are developed which allow the specification of information warehouses out of the managements perspective and a representation formalism supporting this language is presented. Methodically the language construction is based on constructive philosophy. Conceptual models are used as meta information in later development phases and it is shown how meta data of etl and olap tools available on the market can be generated out of the conceptual models. The approach presented has been verified by means of a prototype.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43569563488</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4a519e83-0e40-4343-a5f3-056b5bb221ce</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4a519e83-0e40-4343-a5f3-056b5bb221ce_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4a519e83-0e40-4343-a5f3-056b5bb221ce/081_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4a519e83-0e40-4343-a5f3-056b5bb221ce" DMDID="DMD_4a519e83-0e40-4343-a5f3-056b5bb221ce">
+            <mets:fptr FILEID="FILE_4a519e83-0e40-4343-a5f3-056b5bb221ce_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

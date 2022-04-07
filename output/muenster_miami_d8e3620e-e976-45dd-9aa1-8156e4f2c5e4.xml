@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d8e3620e-e976-45dd-9aa1-8156e4f2c5e4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Schreibprozess in der Schreib-Szene</title>
+                        <subTitle>Josef Winklers Domra aus textgenetischer Perspektive</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Glinik, Christina</displayForm>
+                        <namePart type="given">Christina</namePart>
+                        <namePart type="family">Glinik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1104519445">
+                        <displayForm>Lenhart, Elmar</displayForm>
+                        <namePart type="given">Elmar</namePart>
+                        <namePart type="family">Lenhart</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-11-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das umfangreiche Material zu Josef Winklers Domra bietet Forscher*innen die Gelegenheit, das Instrumentarium, das die critique génétique vorschlägt, auf seine Anwendbarkeit zu prüfen. Im Mittelpunkt unserer Untersuchung stehen zwei Textstellen in acht Bearbeitungsstufen, die mithilfe der Methode des close reading dafür operationalisiert werden. An den Versionen lässt sich eine zunehmende Fiktionalisierung des autobiographischen Substrats an der Formulierung der Schreib-Szene ablesen. Der Beitrag nimmt seinen Ausgang deshalb in der Autobiographieforschung, ist aber auch an der Schnittstelle zwischen Schreibprozess- und Schreib-Szenen-Forschung angesiedelt.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-35139762183</identifier>
+                    <identifier type="doi">10.17879/35139761010</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d8e3620e-e976-45dd-9aa1-8156e4f2c5e4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d8e3620e-e976-45dd-9aa1-8156e4f2c5e4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d8e3620e-e976-45dd-9aa1-8156e4f2c5e4/textpraxis_2019_16_glinik_lenhart.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d8e3620e-e976-45dd-9aa1-8156e4f2c5e4" DMDID="DMD_d8e3620e-e976-45dd-9aa1-8156e4f2c5e4">
+            <mets:fptr FILEID="FILE_d8e3620e-e976-45dd-9aa1-8156e4f2c5e4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

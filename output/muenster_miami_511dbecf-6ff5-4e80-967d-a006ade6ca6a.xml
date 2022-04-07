@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_511dbecf-6ff5-4e80-967d-a006ade6ca6a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Targeting of the autopenetrating bacterial effector protein YopM: a first approach</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1195226276">
+                        <displayForm>Bischof, Charlotte Stefanie Marie</displayForm>
+                        <namePart type="given">Charlotte Stefanie Marie</namePart>
+                        <namePart type="family">Bischof</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1102872350">
+                        <displayForm>Schmidt, M. Alexander</displayForm>
+                        <namePart type="given">M. Alexander</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-09-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-08-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das autonom zellpenetrierende bakterielle Effektorprotein YopM hat die Eigenschaft, die Expression des proinflammatorischen Zytokins TNF-alpha, welches eine zentrale Rolle in der Pathogenese der rheumatoiden Arthritis spielt, zu reduzieren. Allerdings wirkt sich der Effekt des Proteins nicht selektiv auf bestimmte Zellen aus, sondern führte in allen bisher untersuchten Zelllinien zu einer reduzierten Zytokinexpression. Das Koppeln des Proteins an eine sogenannte „targeting“-Struktur könnte eine Möglichkeit bieten, den Ort des biologischen Effekts stärker einzugrenzen. Da aktiviertes Endothel im Rahmen der rheumatoiden Arthritis eine große Menge an E-Selektin exprimiert, wählten wir diesen Oberflächenmarker als Zielstruktur. Mit der vorliegenden Arbeit konnten wir zeigen, dass eine „targeting“-Modifikation von YopM keine negativen Auswirkungen auf die Proteininduktion und –purifikation, die Aufnahme in die Zelle oder den biologischen Effekt hat.</abstract>
+                    <abstract lang="eng">The autopenetrating bacterial effector protein YopM is known to reduce the expression of the proinflammatory cytokine TNF-alpha which plays a central role in the pathogenesis of the autoimmune disease rheumatoid arthritis. YopM, though, does not exert this immunosuppressive effect selectively but reduces immune responses in all cell lines that were investigated so far. Adding a targeting structure to YopM might be a possible approach to achieve a more selective and localized effect. Since the activated endothelium in rheumatoid arthritis expresses a high amount of E-selectin we used this surface marker as the target structure. With this study, we were able to show that a targeting modification of YopM does not impair induction and purification of the protein, cellular uptake and reduction of TNF-alpha expression.</abstract>
+                    <subject lang="ger">
+                        <topic>YopM</topic>
+                        <topic>E-Selektin</topic>
+                        <topic>Immunsuppression</topic>
+                        <topic>targeted therapy</topic>
+                        <topic>aktiviertes Endothel</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>YopM, targeting, E-selectin, immunosuppression, targeted therapy, activated endothelium</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-13179727926</identifier>
+                    <identifier type="sys">HT020204618</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_511dbecf-6ff5-4e80-967d-a006ade6ca6a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_511dbecf-6ff5-4e80-967d-a006ade6ca6a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/511dbecf-6ff5-4e80-967d-a006ade6ca6a/diss_bischof.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_511dbecf-6ff5-4e80-967d-a006ade6ca6a" DMDID="DMD_511dbecf-6ff5-4e80-967d-a006ade6ca6a">
+            <mets:fptr FILEID="FILE_511dbecf-6ff5-4e80-967d-a006ade6ca6a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

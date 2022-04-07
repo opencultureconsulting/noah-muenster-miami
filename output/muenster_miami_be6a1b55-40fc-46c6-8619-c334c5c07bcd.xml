@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_be6a1b55-40fc-46c6-8619-c334c5c07bcd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Kaiserreich und Ende der Weimarer Republik: Das politische Leben und Wirken des Nikolaus Osterroth</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schäfer, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schäfer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">StudyThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Demokratie</topic>
+                        <topic>Kaiserreich</topic>
+                        <topic>Weimarer Republik</topic>
+                        <topic>Bundesrepublik</topic>
+                        <topic>Forschendes Lernen</topic>
+                        <topic>Studium im Alter</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25019464061</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_be6a1b55-40fc-46c6-8619-c334c5c07bcd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaStudyThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_be6a1b55-40fc-46c6-8619-c334c5c07bcd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/be6a1b55-40fc-46c6-8619-c334c5c07bcd/demokratiegeschichten_03_schaefer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_be6a1b55-40fc-46c6-8619-c334c5c07bcd" DMDID="DMD_be6a1b55-40fc-46c6-8619-c334c5c07bcd">
+            <mets:fptr FILEID="FILE_be6a1b55-40fc-46c6-8619-c334c5c07bcd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

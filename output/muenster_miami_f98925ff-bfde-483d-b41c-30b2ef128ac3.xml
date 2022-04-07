@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f98925ff-bfde-483d-b41c-30b2ef128ac3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rollkurven</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135301106">
+                        <displayForm>Schenker, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Schenker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-08-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Rollkurven entstehen, wenn ein Kreis entlang einer Linie abrollt und dabei nicht rutscht. Ein mit dem rollenden Kreis fest verbundener Punkt beschreibt dann eine Rollkurve.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, für unterrichtliche Zwecke freigegeben</note>
+                    <subject lang="ger">
+                        <topic>Rollkurven</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>Epizykloide</topic>
+                        <topic>Parameterdarstellung</topic>
+                        <topic>Trigonometrie</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45649600966</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f98925ff-bfde-483d-b41c-30b2ef128ac3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f98925ff-bfde-483d-b41c-30b2ef128ac3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f98925ff-bfde-483d-b41c-30b2ef128ac3/Andreas_Schenker_Rollkurven.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f98925ff-bfde-483d-b41c-30b2ef128ac3" DMDID="DMD_f98925ff-bfde-483d-b41c-30b2ef128ac3">
+            <mets:fptr FILEID="FILE_f98925ff-bfde-483d-b41c-30b2ef128ac3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

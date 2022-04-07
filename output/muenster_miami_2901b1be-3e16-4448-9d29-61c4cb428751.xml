@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2901b1be-3e16-4448-9d29-61c4cb428751">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Specification of fact calculations within the MetaMIS approach</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129209031">
+                        <displayForm>Dreiling, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Dreiling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-06</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Based on recent work on the so called MetaMIS approach we show how fact calculations can be specified from a management point of view. The MetaMIS approach&apos;s intention is to specify management views on business processes. It comprises a language, a representation formalism and guidelines to define information required for management decisions. Information in general should have pragmatic meaning for the management user. Beyond the task of specifying information in this sense, fact calculations are required to manipulate information. Respective analyzing tasks typically deal with variances, growth rates and other relevant aspects of business processes. We extend the MetaMIS approach to enable the specification of fact calculations in data mart environments.</abstract>
+                    <note>Gefördert durch das Bundesministerium für Bildung und Forschung (Förderkennzeichen: 01HW0196)</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33569551892</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2901b1be-3e16-4448-9d29-61c4cb428751</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2901b1be-3e16-4448-9d29-61c4cb428751_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2901b1be-3e16-4448-9d29-61c4cb428751/088_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2901b1be-3e16-4448-9d29-61c4cb428751" DMDID="DMD_2901b1be-3e16-4448-9d29-61c4cb428751">
+            <mets:fptr FILEID="FILE_2901b1be-3e16-4448-9d29-61c4cb428751_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4878481b-4bca-4530-b17c-976a610f2172">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>term a4 in the heat kernel expansion of noncommutative tori</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112614760">
+                        <displayForm>Connes, Alain</displayForm>
+                        <namePart type="given">Alain</namePart>
+                        <namePart type="family">Connes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1146633173">
+                        <displayForm>Fathizadeh, Farzad</displayForm>
+                        <namePart type="given">Farzad</namePart>
+                        <namePart type="family">Fathizadeh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-10-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We consider the Laplacian associated with a general metric in the canonical conformal structure of the noncommutative two torus, and calculate a local expression for the term a4 that appears in its corresponding small-time heat kernel expansion. The final formula involves one variable functions and lengthy two, three and four variable functions of the modular automorphism of the state that encodes the conformal perturbation of the flat metric. We confirm the validity of the calculated expressions by showing that they satisfy a family of conceptually predicted functional relations. By studying these functional relations abstractly, we derive a partial differential system which involves a natural action of cyclic groups of order 2, 3 and 4 and a flow in parameter space. We discover symmetries of the calculated expressions with respect to the action of the cyclic groups. In passing, we show that the main ingredients of our calculations, which come from a rearrangement lemma and relations between the derivatives up to order 4 of the conformal factor and those of its logarithm, can be derived by finite differences from the generating function of the Bernoulli numbers and its multiplicative inverse. We then shed light on the significance of exponential polynomials and their smooth fractions in understanding the general structure of the noncommutative geometric invariants appearing in the heat kernel expansion. As an application of our results we obtain the a4 term for noncommutative four tori which split as products of two tori. These four tori are not conformally flat and the a4 term gives a first hint of the Riemann curvature and the higher-dimensional modular structure.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>239</start>
+                                <end>410</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53149724977</identifier>
+                    <identifier type="doi">10.17879/53149724705</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4878481b-4bca-4530-b17c-976a610f2172</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4878481b-4bca-4530-b17c-976a610f2172_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4878481b-4bca-4530-b17c-976a610f2172/mjm_2019_12_239-410.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4878481b-4bca-4530-b17c-976a610f2172" DMDID="DMD_4878481b-4bca-4530-b17c-976a610f2172">
+            <mets:fptr FILEID="FILE_4878481b-4bca-4530-b17c-976a610f2172_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

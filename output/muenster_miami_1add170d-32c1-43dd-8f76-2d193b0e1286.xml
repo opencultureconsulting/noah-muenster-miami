@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1add170d-32c1-43dd-8f76-2d193b0e1286">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Identifikation differentiell exprimierter Gene in der Chondrozytenreifung</title>
+                        <subTitle>Einfluss von Kollagen VIII auf die späte Differenzierung von Chondrozyten des embryonalen Hühnersternums</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141736046">
+                        <displayForm>Wurbs, Birgit</displayForm>
+                        <namePart type="given">Birgit</namePart>
+                        <namePart type="family">Wurbs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1214769772">
+                        <displayForm>Moerschbacher, Bruno</displayForm>
+                        <namePart type="given">Bruno</namePart>
+                        <namePart type="family">Moerschbacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-04-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Während der enchondralen Ossifikation, der indirekten Knochenbildung, durchlaufen die Chondrozyten verschiedene Stufen der Proliferation und der Spätdifferenzierung. Einer dieser Faktoren -Kollagen VIII- wurde intensiv untersucht. Kollagen VIII ist ein Hauptbestandteil der Descemet-Membran des Auges und kommt z.B. auch in den Wänden von Arterien und im Knorpel vor. Seine Funktion im Knorpel ist noch unbekannt. Es konnte gezeigt werden, dass die Expression von alpha1(VIII) und alpha2(VIII) während der späten Differenzierung von Hühnerchondrozyten in vitro abnimmt und dass eine Reduzierung der Kollagen VIII alpha1-Expression in kaudalen Chondrozyten zu einer Beschleunigung der hypertrophen Differenzierung der Zellen führt. Kollagen alpha1(VIII) spielt folglich eine wichtige Rolle als negativer Regulator der späten Chondrozytendifferenzierung während der enchondralen Ossifikation.</abstract>
+                    <subject lang="ger">
+                        <topic>Kollagen VIII</topic>
+                        <topic>Chondrozyt</topic>
+                        <topic>Ossifikation</topic>
+                        <topic>RNAi</topic>
+                        <topic>Descemet-Membran</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98409511717</identifier>
+                    <identifier type="sys">HT016446499</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1add170d-32c1-43dd-8f76-2d193b0e1286</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1add170d-32c1-43dd-8f76-2d193b0e1286_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1add170d-32c1-43dd-8f76-2d193b0e1286/diss_wurbs_birgit.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1add170d-32c1-43dd-8f76-2d193b0e1286" DMDID="DMD_1add170d-32c1-43dd-8f76-2d193b0e1286">
+            <mets:fptr FILEID="FILE_1add170d-32c1-43dd-8f76-2d193b0e1286_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,157 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:1407f1bd-e9ca-405e-b472-f44f59dc4724" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:45">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_1407f1bd-e9ca-405e-b472-f44f59dc4724">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Non-negative matrix factorization for dynamic positron emission tomography</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1175136875">
+                    <mods:namePart type="given">Ralf</mods:namePart>
+                    <mods:namePart type="family">Engbers</mods:namePart>
+                    <mods:namePart type="date">1985-</mods:namePart>
+                    <mods:displayForm>Engbers, Ralf</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Martin</mods:namePart>
+                    <mods:namePart type="family">Burger</mods:namePart>
+                    <mods:displayForm>Burger, Martin</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2018</mods:dateIssued>
+                    <mods:dateOther>2018-12-13</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2019-01-11</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2019-01-11</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">&lt;p&gt;Koronare Herzkrankheiten sind weltweit die häufigste Todesursache und nicht-invasive medizinische Bildgebungsverfahren wie Positronen-Emissions-Tomographie (PET) sind wichtig um bei der möglichst frühen Diagnose von Patienten zu helfen, die unter Atherosklerose leiden. Leider führt die Qualität der zur Blutflussuntersuchung genutzten dynamischen PET Daten basierend auf radioaktivem Wasser zu schwierigen Rekonstruktions- und Parameterschätzungsproblemen.Nicht-negative Matrix Faktorisierung (NMF) wird erfolgreich in vielen verschiedenen Bereichen als Datenanalysemethode angewandt. In dieser Arbeit werden wir die Anwendung von NMF auf dynamisches PET über passende Modelle motivieren und untersuchen die Ergebnisse verschiedener NMF Algorithmen anhand von dynamischen PET Messungen mit sehr schlechter Statistik.&lt;/p&gt;</mods:abstract>
+                  <mods:abstract lang="eng">&lt;p&gt;Coronary heart disease is the most common cause of death in the world and non-invasive medical imaging techniques like positron emission tomography (PET) are important to help diagnose a patient suffering from atherosclerosis as early as possible. Unfortunately, dynamic PET measurements using radioactive water to examine blood flow create challenging image reconstruction and parameter estimation problems.Non-negative matrix factorization (NMF) has been successfully used as a data analysis tool for many different applications. In this thesis, we will motivate the use of NMF through model-based approaches to dynamic PET reconstruction and examine the results and performance of different NMF algorithms when applied to dynamic PET measurements with very poor statistics.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Myokardialer Blutfluss; dynamisches PET; kinetische Modellierung; modellbasierte Rekonstruktion; nicht-negative Matrixfaktorisierung</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Myocardial blood flow; dynamic PET; kinetic modeling; model-based reconstruction; non-negative matrix factorization</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-36129686122</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/1407f1bd-e9ca-405e-b472-f44f59dc4724</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:1407f1bd-e9ca-405e-b472-f44f59dc4724</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_1407f1bd-e9ca-405e-b472-f44f59dc4724">
+            <mets:rightsMD ID="RIGHTSMD_1407f1bd-e9ca-405e-b472-f44f59dc4724">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_1407f1bd-e9ca-405e-b472-f44f59dc4724">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/1407f1bd-e9ca-405e-b472-f44f59dc4724</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="59127bbf8d4fda671e2b73b401b46d160e6a0c0843045ed161b29c7b0c9c232b" CREATED="2019-01-11T08:43:07" CHECKSUMTYPE="SHA-256" SIZE="14440592" ID="ID_FIL_diss_engbers.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1407f1bd-e9ca-405e-b472-f44f59dc4724/diss_engbers.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW1407f1bd-e9ca-405e-b472-f44f59dc4724">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/1407f1bd-e9ca-405e-b472-f44f59dc4724" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_1407f1bd-e9ca-405e-b472-f44f59dc4724" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_engbers.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_engbers.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_1407f1bd-e9ca-405e-b472-f44f59dc4724" DMDID="DMD_1407f1bd-e9ca-405e-b472-f44f59dc4724" ID="ID_LOG_1407f1bd-e9ca-405e-b472-f44f59dc4724" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_engbers.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_1407f1bd-e9ca-405e-b472-f44f59dc4724" xlink:to="ID_PHY_1407f1bd-e9ca-405e-b472-f44f59dc4724"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_engbers.pdf" xlink:to="ID_PHY_diss_engbers.pdf"/>
+          </mets:structLink>
+        </mets:mets>

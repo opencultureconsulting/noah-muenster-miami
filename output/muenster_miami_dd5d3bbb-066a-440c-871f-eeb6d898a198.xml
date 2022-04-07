@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dd5d3bbb-066a-440c-871f-eeb6d898a198">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Parallele Hardware-Realisation eines neuronalen Netzes mit Hilfe einer analogen Halbleiterkopplungsstruktur</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124205992">
+                        <displayForm>Freyd, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Freyd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bode, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Bode</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-09-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-06-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Thema der Arbeit ist die Hardware-Implementation eines Neuronalen Netzes, der Selbstorganisierenden Karte (Self-Organizing Map, SOM). Die SOM wird implementiert mit Hilfe einzelner analoger Neuronen und einer nichtlinearen Kopplungsstruktur auf der Basis eines nichtlinearen Mediums. So läßt sich ein zweidimensionales Gitter von Neuronen durch nächste-Nachbar Verbindungen koppeln. Das Kopplungsmedium wird durch eine Thyristorstruktur mit ihrer Eigenschaft als bistabiles Medium realisiert. Die lokale Zündfähigkeit und zur Propagation einer Schaltfront sind entscheidend für die Funktion der Kopplungsstruktur, was experimentell umfassend an diversen Proben untersucht wird. Ein Hardware-Prototyp demonstriert das Gesamtkonzept. Simulationen zeigen Wege zur Miniaturisierung und einer Integration von Neuronen und Kopplungsstruktur auf.</abstract>
+                    <subject lang="ger">
+                        <topic>Self Organizing Map</topic>
+                        <topic>Kohonen Map</topic>
+                        <topic>Neural Network</topic>
+                        <topic>Neuronales Netz</topic>
+                        <topic>Neuronale Hardware</topic>
+                        <topic>Strukturbildung</topic>
+                        <topic>nichtlineare Dynamik</topic>
+                        <topic>nonlinear dynamics</topic>
+                        <topic>Thyristor</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659550575</identifier>
+                    <identifier type="sys">HT013519866</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dd5d3bbb-066a-440c-871f-eeb6d898a198</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dd5d3bbb-066a-440c-871f-eeb6d898a198_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dd5d3bbb-066a-440c-871f-eeb6d898a198/dissertation.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dd5d3bbb-066a-440c-871f-eeb6d898a198" DMDID="DMD_dd5d3bbb-066a-440c-871f-eeb6d898a198">
+            <mets:fptr FILEID="FILE_dd5d3bbb-066a-440c-871f-eeb6d898a198_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

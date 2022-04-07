@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5c875ebf-7c08-4005-af91-070494f1d2bf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Andrea Lucchesi</title>
+                        <subTitle>Sonate F-Dur für Cembalo</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea</displayForm>
+                        <namePart type="given">Andrea</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea Pietro</displayForm>
+                        <namePart type="given">Andrea Pietro</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es handelt sich hier um eine kleine Notenedition des einstigen Bonner Hofkapellmeisters Andrea Lucchesi (1741–1801), dessen Sonate in F-Dur sich in der Sammlung Nordkirchen befindet und im Rahmen eines Editionsseminares am Institut für Musikwissenschaft der WWU Münster samt Kritischem Bericht ediert wurde.</abstract>
+                    <note type="citation/reference">Fritz, Rebekka (Hrsg.): Die Sammlung Nordkirchen. Münster : agenda Verlag, 2001, S. 3-11</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des agenda-Verlages Münster.</note>
+                    <subject lang="ger">
+                        <topic>Lucchesi, Andrea</topic>
+                        <topic>Sonate</topic>
+                        <topic>Cembalo</topic>
+                        <topic>Instrumentalmusik</topic>
+                        <topic>Nordkirchen</topic>
+                        <topic>Bonner Hof</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-80229453406</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5c875ebf-7c08-4005-af91-070494f1d2bf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5c875ebf-7c08-4005-af91-070494f1d2bf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5c875ebf-7c08-4005-af91-070494f1d2bf/ammendola_2004_lucchesi.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5c875ebf-7c08-4005-af91-070494f1d2bf" DMDID="DMD_5c875ebf-7c08-4005-af91-070494f1d2bf">
+            <mets:fptr FILEID="FILE_5c875ebf-7c08-4005-af91-070494f1d2bf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

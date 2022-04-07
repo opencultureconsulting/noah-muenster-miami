@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_db4fc914-2ea9-4244-8862-94c923d7ea64">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Chemical distribution in Belgium from 2007 to 2010</title>
+                        <subTitle>an empirical study</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1140584952">
+                        <displayForm>Mortelmans, Sander</displayForm>
+                        <namePart type="given">Sander</namePart>
+                        <namePart type="family">Mortelmans</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1035380528">
+                        <displayForm>Reniers, Genserik</displayForm>
+                        <namePart type="given">Genserik</namePart>
+                        <namePart type="family">Reniers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-07-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-07-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Chemical distribution is described from a product lifecycle perspective. The impact of the economic decline in 2009 on Belgian chemical distribution is given in figures. In 2010 the sector recovered sharply. Although the individual companies performed very differently, overall, 2010 was even better than 2008. Increasingly complex legislation on chemical products has initiated a consolidation trend in the sector which in turn has brought on trends in outsourcing and inventory management.</abstract>
+                    <note>Section &quot;Practicioner’s Section&quot;</note>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Journal of Business Chemistry</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Journal of Business Chemistry</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>105</start>
+                                <end>113</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99389367355</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_db4fc914-2ea9-4244-8862-94c923d7ea64</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_db4fc914-2ea9-4244-8862-94c923d7ea64_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/db4fc914-2ea9-4244-8862-94c923d7ea64/2012_vol-9_iss-2_105_113.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_db4fc914-2ea9-4244-8862-94c923d7ea64" DMDID="DMD_db4fc914-2ea9-4244-8862-94c923d7ea64">
+            <mets:fptr FILEID="FILE_db4fc914-2ea9-4244-8862-94c923d7ea64_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

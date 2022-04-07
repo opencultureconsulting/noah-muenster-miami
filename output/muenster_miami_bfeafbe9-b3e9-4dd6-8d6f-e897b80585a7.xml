@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bfeafbe9-b3e9-4dd6-8d6f-e897b80585a7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Testdiagnostik der Lese-Rechtschreibschwäche</title>
+                        <subTitle>Hamburger Schreibprobe und Salzburger Rechtschreibtest im Vergleich</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1019008059">
+                        <displayForm>Wehr, Sebastian</displayForm>
+                        <namePart type="given">Sebastian</namePart>
+                        <namePart type="family">Wehr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027043569">
+                        <displayForm>Am Zehnhoff-Dinnesen, Antoinette</displayForm>
+                        <namePart type="given">Antoinette</namePart>
+                        <namePart type="family">Am Zehnhoff-Dinnesen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-01-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-12-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">58 Kinder mit Verdacht auf LRS oder AVWS wurden mit der Hamburger Schreibprobe, dem Salzburger Lese-Rechtschreibtest sowie Untertests des Psycholinguistischen Entwicklungstests und dem Mottiertest untersucht. Beide Tests stufen die quantitative Rechtschreibleistung unterschiedlich ein, der SRT fand 66% auffällige Kinder, die HSP 21%. Die Übereinstimmung der Testverfahren bzgl. der quantitativen Rechtschreibleistung ist gering. In der Messung der alphabetischen Schreibkompetenz korrelieren beide Verfahren zwischen k=0,578 und k=0,679, die Messungen der orthographischen Kompetenz korrelieren zwischen k=0,361 und k=0,590. Von den Untertests des PET korreliert der Zahlenfolgen-Gedächtnis-Test für die Kinder der 3. und 4. Klasse zu beiden Testverfahren mittelmäßig, die anderen Untertests sowie der Mottiertest zeigten keine Zusammenhänge zu den Rechtschreibtests.</abstract>
+                    <subject lang="ger">
+                        <topic>Lese-Rechtschreibschwäche</topic>
+                        <topic>Hamburger Schreibprobe</topic>
+                        <topic>Salzburger Lese-Rechtschreibtest</topic>
+                        <topic>Testvergleich</topic>
+                        <topic>Grundschulkinder</topic>
+                        <topic>Inanspruchnahmepopulation</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ddc">400</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-91479598628</identifier>
+                    <identifier type="sys">HT017104851</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bfeafbe9-b3e9-4dd6-8d6f-e897b80585a7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bfeafbe9-b3e9-4dd6-8d6f-e897b80585a7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bfeafbe9-b3e9-4dd6-8d6f-e897b80585a7/diss_wehr.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bfeafbe9-b3e9-4dd6-8d6f-e897b80585a7" DMDID="DMD_bfeafbe9-b3e9-4dd6-8d6f-e897b80585a7">
+            <mets:fptr FILEID="FILE_bfeafbe9-b3e9-4dd6-8d6f-e897b80585a7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

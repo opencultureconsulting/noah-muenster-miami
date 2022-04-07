@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a60f53d3-bd26-49d6-9341-11215b6b572b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Interesse wecken und Grundkentnisse vermitteln</title>
+                        <subTitle>3. Münsteraner Workshop zur Schulinformatik - 7. Mai 2008</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1109072783">
+                        <displayForm>Thomas, Marco</displayForm>
+                        <namePart type="given">Marco</namePart>
+                        <namePart type="family">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124529186">
+                        <displayForm>Weigend, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Weigend</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-05-27</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-05-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Tagungsband zum 3. Münsteraner Workshop zur Schulinformatik 7.Mai 2008</abstract>
+                    <note type="ownership">Coypright bei den Autoren</note>
+                    <note type="citation/reference">ZfL-Texte Nr. 23, Münster : ZfL-Verlag, 2008</note>
+                    <subject lang="ger">
+                        <topic>Informatik</topic>
+                        <topic>Fachdidaktik</topic>
+                        <topic>informatische Bildung</topic>
+                        <topic>Unterricht</topic>
+                        <topic>e-learning</topic>
+                        <topic>Lernen im Web</topic>
+                        <topic>mobiles Programmieren</topic>
+                        <topic>Gender</topic>
+                        <topic>Unterrichtsprojekte</topic>
+                        <topic>Lernwerkzeuge</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15519589264</identifier>
+                    <identifier type="isbn">978-3-934064-90-4</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a60f53d3-bd26-49d6-9341-11215b6b572b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a60f53d3-bd26-49d6-9341-11215b6b572b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a60f53d3-bd26-49d6-9341-11215b6b572b/tagungsbandschulinformatik2008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a60f53d3-bd26-49d6-9341-11215b6b572b" DMDID="DMD_a60f53d3-bd26-49d6-9341-11215b6b572b">
+            <mets:fptr FILEID="FILE_a60f53d3-bd26-49d6-9341-11215b6b572b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

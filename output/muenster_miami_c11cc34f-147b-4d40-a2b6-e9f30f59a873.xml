@@ -1,0 +1,135 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c11cc34f-147b-4d40-a2b6-e9f30f59a873">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Comparison of two 3D tracking paradigms for freely flying insects</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1073178412">
+                        <displayForm>Risse, Benjamin</displayForm>
+                        <namePart type="given">Benjamin</namePart>
+                        <namePart type="family">Risse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Berh, Dimitri</displayForm>
+                        <namePart type="given">Dimitri</namePart>
+                        <namePart type="family">Berh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079835113">
+                        <displayForm>Tao, Junli</displayForm>
+                        <namePart type="given">Junli</namePart>
+                        <namePart type="family">Tao</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang, Xiaoyi</displayForm>
+                        <namePart type="given">Xiaoyi</namePart>
+                        <namePart type="family">Jiang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Xiaoyi, Jiang</displayForm>
+                        <namePart type="given">Jiang</namePart>
+                        <namePart type="family">Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang Xiaoyi</displayForm>
+                        <namePart type="family">Jiang Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109615921">
+                        <displayForm>Klette, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Klette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109615921">
+                        <displayForm>Klette, R.</displayForm>
+                        <namePart type="given">R.</namePart>
+                        <namePart type="family">Klette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109615921">
+                        <displayForm>Klette, R.</displayForm>
+                        <namePart type="given">R.</namePart>
+                        <namePart type="family">Klette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klämbt, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Klämbt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-10-31</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-02-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In this paper, we discuss and compare state-of-the-art 3D tracking paradigms for flying insects such as Drosophila melanogaster. If two cameras are employed to estimate the trajectories of these identical appearing objects, calculating stereo and temporal correspondences leads to an NP-hard assignment problem. Currently, there are two different types of approaches discussed in the literature: probabilistic approaches and global correspondence selection approaches. Both have advantages and limitations in terms of accuracy and complexity. Here, we present algorithms for both paradigms. The probabilistic approach utilizes the Kalman filter for temporal tracking. The correspondence selection approach calculates the trajectories based on an overall cost function. Limitations of both approaches are addressed by integrating a third camera to verify consistency of the stereo pairings and to reduce the complexity of the global selection. Furthermore, a novel greedy optimization scheme is introduced for the correspondence selection approach. We compare both paradigms based on synthetic data with ground truth availability. Results show that the global selection is more accurate, while the previously proposed tracking-by-matching (probabilistic) approach is causal and feasible for longer tracking periods and very high target densities. We further demonstrate that our extended global selection scheme outperforms current correspondence selection approaches in tracking accuracy and tracking time.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2013/2014 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">EURASIP Journal on Image and Video Processing (2013) 57</note>
+                    <subject lang="eng">
+                        <topic>Drosophila melanogaster</topic>
+                        <topic>Fruit flies</topic>
+                        <topic>3D tracking</topic>
+                        <topic>Unscented Kalman filter</topic>
+                        <topic>Global correspondence selection</topic>
+                        <topic>Gibbs sampling</topic>
+                        <topic>Greedy optimization</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84309622905</identifier>
+                    <identifier type="doi">10.1186/1687-5281-2013-57</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/2.0/">CC BY 2.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c11cc34f-147b-4d40-a2b6-e9f30f59a873</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c11cc34f-147b-4d40-a2b6-e9f30f59a873_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c11cc34f-147b-4d40-a2b6-e9f30f59a873/1687-5281-2013-57.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c11cc34f-147b-4d40-a2b6-e9f30f59a873" DMDID="DMD_c11cc34f-147b-4d40-a2b6-e9f30f59a873">
+            <mets:fptr FILEID="FILE_c11cc34f-147b-4d40-a2b6-e9f30f59a873_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

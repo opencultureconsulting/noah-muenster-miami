@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3992ac3b-3ff8-4c16-bc1d-58b4a216aa9d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Quantifying the Effect of Land Use Change Model Coupling</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stepanov, Oleg</displayForm>
+                        <namePart type="given">Oleg</namePart>
+                        <namePart type="family">Stepanov</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Câmara, Gilberto</displayForm>
+                        <namePart type="given">Gilberto</namePart>
+                        <namePart type="family">Câmara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Verstegen, Judith A.</displayForm>
+                        <namePart type="given">Judith A.</namePart>
+                        <namePart type="family">Verstegen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-12</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-02-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Land-use change (LUC) is a complex process that is difficult to project. Model collaboration, an aggregate term for model harmonization, comparison and/or coupling, intends to combine the strengths of different models to improve LUC projections. Several model collaborations have been performed, but to the authors’ knowledge, the effect of coupling has not been evaluated quantitatively. Therefore, for a case study of Brazil, we harmonized and coupled the partial equilibrium model GLOBIOM-Brazil and the demand-driven spatially explicit model PLUC, and then compared the coupled-model projections with those by GLOBIOM-Brazil individually. The largest differences between projections occurred in Mato Grosso and Pará, frontiers of agricultural expansion. In addition, we validated both projections for Mato Grosso using land-use maps from remote sensing images. The coupled model clearly outperformed GLOBIOM-Brazil. Reductions in the root mean squared error (RMSE) for LUC dynamics ranged from 31% to 80% and for total land use, from 10% to 57%. Only for pasture, the coupled model performed worse in total land use (RMSE 9% higher). Reasons for a better performance of the coupled model were considered to be, inter alia, the initial map, more spatially explicit information about drivers, and the path-dependence effect in the allocation through the cellular-automata approach of PLUC.</abstract>
+                    <note type="citation/reference">Land, 9 (2020) 52, 1-24</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>land-use change</topic>
+                        <topic>model coupling</topic>
+                        <topic>partial equilibrium model</topic>
+                        <topic>demand-driven model</topic>
+                        <topic>Brazil</topic>
+                        <topic>validation</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92119593106</identifier>
+                    <identifier type="doi">doi:10.3390/land9020052</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3992ac3b-3ff8-4c16-bc1d-58b4a216aa9d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3992ac3b-3ff8-4c16-bc1d-58b4a216aa9d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3992ac3b-3ff8-4c16-bc1d-58b4a216aa9d/artikel_verstegen_2020.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3992ac3b-3ff8-4c16-bc1d-58b4a216aa9d" DMDID="DMD_3992ac3b-3ff8-4c16-bc1d-58b4a216aa9d">
+            <mets:fptr FILEID="FILE_3992ac3b-3ff8-4c16-bc1d-58b4a216aa9d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

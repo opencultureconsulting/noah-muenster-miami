@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3498ad03-d178-4c2c-bc86-947f07e00895">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Stable and efficient Petrov-Galerkin methods for certain (kinetic) transport equations</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123427860X">
+                        <displayForm>Brunken, Julia</displayForm>
+                        <namePart type="given">Julia</namePart>
+                        <namePart type="family">Brunken</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115010972">
+                        <displayForm>Ohlberger, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Ohlberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-06-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-03-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir entwickeln stabile und effiziente Petrov-Galerkin-Diskretisierungen für zwei transportdominierte Probleme: lineare Transportgleichungen erster Ordnung und kinetische Fokker-Planck-Gleichungen. Aufbauend auf wohlgestellten schwachen Formulierungen wählen wir für die Petrov-Galerkin-Projektion zunächst einen diskreten Testraum. Ein problemangepasster diskreter Ansatzraum wird dann so berechnet, dass die Räume aus passenden stabilen Paaren von Ansatz- und Testfunktionen bestehen. Dadurch erhalten wir effizient berechenbare und uniform inf-sup-stabile diskrete Verfahren. Für parametrisierte Transportgleichungen wenden wir die Reduzierte-Basis-Methode an und konstruieren ein reduziertes Modell bestehend aus einem festen reduzierten Testraum und davon abgeleiteten parameterabhängigen reduzierten Ansatzräumen. Durch die eingebaute Stabilität können wir zusätzliche Stabilisierungen bei der Basis-Generierung vermeiden und erhalten effiziente und leicht zu implementierende reduzierte Modelle.</abstract>
+                    <abstract lang="eng">We develop stable and efficient Petrov-Galerkin discretizations for two transport-dominated problems: first order linear transport equations and kinetic Fokker-Planck equations. Based on well-posed weak formulations we first choose a discrete test space for the Petrov-Galerkin projection. A problem-dependent discrete trial space is then computed such that the spaces consist of matching stable pairs of trial and test functions. Thereby we obtain efficiently computable and uniformly inf-sup stable discrete schemes. For parametrized transport equations, we apply the reduced basis method and build a reduced model consisting of a fixed reduced test space and parameter-dependent reduced trial spaces depending on the test space. Due to the inherent stability we can avoid additional stabilizations in the basis generation so that we obtain efficient reduced models by an easily implemented procedure.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Petrov-Galerkin</topic>
+                        <topic>Finite Elemente</topic>
+                        <topic>Transportgleichung</topic>
+                        <topic>kinetische Fokker-Planck-Gleichung</topic>
+                        <topic>Inf-Sup-Stabilität</topic>
+                        <topic>Reduzierte Basis</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Petrov-Galerkin</topic>
+                        <topic>finite elements</topic>
+                        <topic>transport equation</topic>
+                        <topic>kinetic Fokker-Planck equation</topic>
+                        <topic>inf-sup stability</topic>
+                        <topic>reduced basis</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27049659871</identifier>
+                    <identifier type="sys">HT020946795</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3498ad03-d178-4c2c-bc86-947f07e00895</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3498ad03-d178-4c2c-bc86-947f07e00895_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3498ad03-d178-4c2c-bc86-947f07e00895/diss_brunken.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3498ad03-d178-4c2c-bc86-947f07e00895" DMDID="DMD_3498ad03-d178-4c2c-bc86-947f07e00895">
+            <mets:fptr FILEID="FILE_3498ad03-d178-4c2c-bc86-947f07e00895_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

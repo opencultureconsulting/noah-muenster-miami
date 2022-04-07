@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4eb3a237-d95a-49ee-92b8-ffa7991089d4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stand der Forschung in der Okulo- und Neuroprothetik</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134282736">
+                        <displayForm>Hähnel, Torsten</displayForm>
+                        <namePart type="given">Torsten</namePart>
+                        <namePart type="family">Hähnel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141858206">
+                        <displayForm>Thanos, Solon</displayForm>
+                        <namePart type="given">Solon</namePart>
+                        <namePart type="family">Thanos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-04-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-03-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Bereich der Okuloprothetik werden mit der Kontaktlinse und der Intraokularlinse zwei Behandlungsmethoden bei Refraktionsanomalien vorgestellt. Fortschritte sind vorwiegend auf dem Gebiet der Materialentwicklung zu erwarten. Im Bereich der Neuroprothetik werden mit dem Retina-Implant, dem Nervus-opticus-Implantat und dem kortikalen Implantat, sehr verschiedene Therapien präsentiert. Beim Retina-Implant werden derzeit zwei Ansätze erforscht (epiretinaler und subretinaler Ansatz). Das Nervus-opticus-Implantat wird direkt um den N. opticus herum implantiert. Forschungen beschäftigen sich mit der Biokompatibilität von Materialien, sowie mit der Generierung lagestabiler Phosphene. Mit dem kortikalen Implantat sollen Patienten therapiert werden können, die ihr Augenlicht durch Erkrankungen oder Traumata auf höheren Ebenen der Sehbahn verloren haben. Das letzte Kapitel beschäftigt sich der „repetetive photic stimulation therapy“ zur Behandlung der kortikalen Erblindung (Rindenblindheit).</abstract>
+                    <subject lang="ger">
+                        <topic>Okuloprothetik</topic>
+                        <topic>Neuroprothetik</topic>
+                        <topic>Retina-Implantat</topic>
+                        <topic>Nervus-opticus Implantat</topic>
+                        <topic>Kortikales Implantat</topic>
+                        <topic>Rindenblindheit</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95539388961</identifier>
+                    <identifier type="sys">HT015593202</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4eb3a237-d95a-49ee-92b8-ffa7991089d4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4eb3a237-d95a-49ee-92b8-ffa7991089d4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4eb3a237-d95a-49ee-92b8-ffa7991089d4/diss_haehnel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4eb3a237-d95a-49ee-92b8-ffa7991089d4" DMDID="DMD_4eb3a237-d95a-49ee-92b8-ffa7991089d4">
+            <mets:fptr FILEID="FILE_4eb3a237-d95a-49ee-92b8-ffa7991089d4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

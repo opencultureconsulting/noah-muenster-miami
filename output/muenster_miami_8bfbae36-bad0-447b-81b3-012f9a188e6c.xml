@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8bfbae36-bad0-447b-81b3-012f9a188e6c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Spezifische Tumortherapie durch Rezeptorvermittelte RNA Interferenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Appel, Neele</displayForm>
+                        <namePart type="given">Neele</namePart>
+                        <namePart type="family">Appel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109371682">
+                        <displayForm>Berdel, Wolfgang E.</displayForm>
+                        <namePart type="given">Wolfgang E.</namePart>
+                        <namePart type="family">Berdel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109371682">
+                        <displayForm>Berdel, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Berdel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109371682">
+                        <displayForm>Berdel, W. E.</displayForm>
+                        <namePart type="given">W. E.</namePart>
+                        <namePart type="family">Berdel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-02-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-01-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der Arbeit mit dem Titel „Spezifische Tumortherapie durch Rezeptorvermittelte RNA Interferenz“ geht es um die Etablierung eines Krebstherapieansatzes für das KRAS-mutierte Kolorektalkarzinom und das Ewing Sarkom. Bei der Therapieform wird siRNA, gerichtet gegen eine bestimmte Mutation der Krebszellen, an einen monoklonalen Antikörper, gerichtet gegen einen spezifischen Oberflächenrezeptor, gekoppelt und über eine rezeptorvermittelte Internalisierung in die Zielzellen aufgenommen. Dort geht die siRNA in den Weg der RNAi ein und führt in vitro zu einer Reduktion in der Proliferation, die Zellen werden in ein frühes Apoptosestadium gedrängt und es kommt zum Knockdown des Zielgens auf mRNA- und Protein-Ebene. In vivo führt die Behandlung zu einer Reduktion des Tumorwachstums.</abstract>
+                    <subject lang="ger">
+                        <topic>siRNA</topic>
+                        <topic>RNA Interferenz</topic>
+                        <topic>monoklonale Antikörper</topic>
+                        <topic>Ewing Sarkom</topic>
+                        <topic>Kolorektalkarzinom</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-19169584208</identifier>
+                    <identifier type="sys">HT019587675</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8bfbae36-bad0-447b-81b3-012f9a188e6c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8bfbae36-bad0-447b-81b3-012f9a188e6c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8bfbae36-bad0-447b-81b3-012f9a188e6c/diss_appel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8bfbae36-bad0-447b-81b3-012f9a188e6c" DMDID="DMD_8bfbae36-bad0-447b-81b3-012f9a188e6c">
+            <mets:fptr FILEID="FILE_8bfbae36-bad0-447b-81b3-012f9a188e6c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

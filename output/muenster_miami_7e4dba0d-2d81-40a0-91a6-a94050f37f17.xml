@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7e4dba0d-2d81-40a0-91a6-a94050f37f17">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse von Mutationen der nicht-kodierenden Hypervariablen Region I (HVI) und kodierender Einzelnukleotid-Polymorphismen (SNPs) des mitochondrialen Genoms</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1051949394">
+                        <displayForm>Pfältzer, Adrian</displayForm>
+                        <namePart type="given">Adrian</namePart>
+                        <namePart type="family">Pfältzer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1051949394">
+                        <displayForm>Pfältzer, Adrian Bernhard Wolfgang</displayForm>
+                        <namePart type="given">Adrian Bernhard Wolfgang</namePart>
+                        <namePart type="family">Pfältzer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173358853">
+                        <displayForm>Pfeiffer, Heidi</displayForm>
+                        <namePart type="given">Heidi</namePart>
+                        <namePart type="family">Pfeiffer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-06-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-04-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die HVI-Sequenzierung der mtDNA wurde mit dem 32 mtDNA SNaPshot verglichen. Als Maß diente die PD. Ziel war zu belegen, dass die Hg-Bestimmung mittels SNaPshot vor der HVI-Analyse erfolgen sollte. Die HVI-Region wurde in virtuelle Abschnitte unterteilt, die nach Bestimmung der Hg untersucht werden können und eine maximale PD erwarten lassen. Es wurden 861 Proben auf ihre Hgn und HVI-Sequenzen untersucht. Die HVI-Sequenzen wurden in jeweils 217 fortlaufende, 120 bp lange, virtuelle Abschnitte unterteilt. Mittels des SNaPshots konnten 29 Hgn zugeordnet und eine PD von 0,911 erzielt werden. Mit individualisierenden SNPs wurden 166 Htn und eine PD von 0,957 erzielt. Mit der HVI-Sequenzierung konnten 343 Htn und eine PD von 0,974 erzielt werden. Für 18 Hgn konnte ein Abschnitt der HVI ermittelt werden, der die höchste PD bietet. Der SNaPshot ist als leistungsfähige Screening Methode geeignet. Die Hgn-Bestimmung durch SNaPshot erlaubt die Eingrenzung der zu sequenzierenden HVI-Abschnitte. Beide Techniken können ergänzend verwendet werden.</abstract>
+                    <subject lang="ger">
+                        <topic>mtDNA</topic>
+                        <topic>SNP</topic>
+                        <topic>HVI</topic>
+                        <topic>PD</topic>
+                        <topic>Haplogruppe</topic>
+                        <topic>SNaPshot</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-83309591773</identifier>
+                    <identifier type="sys">HT018286565</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7e4dba0d-2d81-40a0-91a6-a94050f37f17</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7e4dba0d-2d81-40a0-91a6-a94050f37f17_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7e4dba0d-2d81-40a0-91a6-a94050f37f17/diss_pfaeltzer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7e4dba0d-2d81-40a0-91a6-a94050f37f17" DMDID="DMD_7e4dba0d-2d81-40a0-91a6-a94050f37f17">
+            <mets:fptr FILEID="FILE_7e4dba0d-2d81-40a0-91a6-a94050f37f17_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_59d82dba-028d-454d-944b-841a101aec82">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Meine Gefühle sind ganz und gar deutsch&quot;</title>
+                        <subTitle>Die persönlichen Verbindungen der niederländischen Könige Wilhelm I., Wilhelm II. und Wilhelm III. zu Deutschland</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172794439">
+                        <displayForm>Koch, Jeroen</displayForm>
+                        <namePart type="given">Jeroen</namePart>
+                        <namePart type="family">Koch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173757928">
+                        <displayForm>Zanten, Jeroen van</displayForm>
+                        <namePart type="given">Jeroen van</namePart>
+                        <namePart type="family">Zanten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142926825">
+                        <displayForm>Meulen, Dik van der</displayForm>
+                        <namePart type="given">Dik van der</namePart>
+                        <namePart type="family">Meulen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1111529930">
+                        <displayForm>Klinzmann, Annegret</displayForm>
+                        <namePart type="given">Annegret</namePart>
+                        <namePart type="family">Klinzmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <note>Dieser Beitrag basiert auf drei Biographien der ersten niederländischen Könige, die im Jahr 2013 mit Unterstützung des Prins Bernhard Cultuurfonds erschienen.</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>11</start>
+                                <end>23</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-07149629403</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_59d82dba-028d-454d-944b-841a101aec82</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_59d82dba-028d-454d-944b-841a101aec82_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/59d82dba-028d-454d-944b-841a101aec82/jahrbuch_zns_2013_24_11-23.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_59d82dba-028d-454d-944b-841a101aec82" DMDID="DMD_59d82dba-028d-454d-944b-841a101aec82">
+            <mets:fptr FILEID="FILE_59d82dba-028d-454d-944b-841a101aec82_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

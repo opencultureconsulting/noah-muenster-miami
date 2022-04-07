@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c2492ce4-c062-4312-8123-65eeaa8a1ef1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Eristische Textstrukturen – zwischen Aggregation und Synthese</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1135695695">
+                        <displayForm>Schüler, Lisa</displayForm>
+                        <namePart type="given">Lisa</namePart>
+                        <namePart type="family">Schüler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Beitrag präsentiert Ergebnisse aus dem aus dem Projekt »Eristische Literalität«, das den Zusammenhang von Kontroversität wissenschaftlichen Wissens und den darauf bezogenen sprachlich-textuellen Kompetenzen, die eine wichtige Voraussetzung für das Lesen, Verstehen und Schreiben wissenschaftlicher Texte sind, untersucht hat. Er fokussiert die spezielle Anforderung, für die Darstellung und Vermittlung von Inhalten in wissenschaftlichen Texten eine je themen- oder problembezogen angemessene Struktur zu entwickeln. Dazu wird ein Korpus von Texten fortgeschrittener Masterstudent/- innen unterschiedlicher sprachlicher und wissenschaftskultureller Herkunft ausgewertet und deren didaktische Implikationen diskutiert.</abstract>
+                    <note type="citation/reference">Martin Steinseifer, Helmuth Feilke, Katrin Lehnen (Hrsg.): Eristische Literalität. (Wissenschafts-Kommunikation ; Band 13) Heidelberg, Synchron 2019, S. 131-164. ISBN 978-3-947960-01-9</note>
+                    <note type="ownership">Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Synchron Verlags, Heidelberg</note>
+                    <subject lang="ger">
+                        <topic>Deutsch als Wissenschaftssprache</topic>
+                        <topic>Eristik</topic>
+                        <topic>Schreibforschung</topic>
+                        <topic>Textlinguistik</topic>
+                        <topic>Schreibdidaktik</topic>
+                    </subject>
+                    <classification authority="ddc">418</classification>
+                    <classification authority="ddc">438</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-30129523671</identifier>
+                    <identifier type="isbn">978-3-947960-01-9</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c2492ce4-c062-4312-8123-65eeaa8a1ef1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c2492ce4-c062-4312-8123-65eeaa8a1ef1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c2492ce4-c062-4312-8123-65eeaa8a1ef1/beitrag_schueler_2019.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c2492ce4-c062-4312-8123-65eeaa8a1ef1" DMDID="DMD_c2492ce4-c062-4312-8123-65eeaa8a1ef1">
+            <mets:fptr FILEID="FILE_c2492ce4-c062-4312-8123-65eeaa8a1ef1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

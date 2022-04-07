@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e2594556-9ed6-49b5-b8e6-42c4d1b7e80c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Schulnetz in den neuen Ländern</title>
+                        <subTitle>oder: Sysphos als Schulentwicklungsplaner</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böttcher, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Böttcher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1992</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-12-05</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-12-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Recht der Jugend und des Bildungswesens 39 (1992) 3, 290-304</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58359436957</identifier>
+                    <identifier type="issn">0034-1312</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e2594556-9ed6-49b5-b8e6-42c4d1b7e80c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e2594556-9ed6-49b5-b8e6-42c4d1b7e80c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e2594556-9ed6-49b5-b8e6-42c4d1b7e80c/1992_boett_schul.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e2594556-9ed6-49b5-b8e6-42c4d1b7e80c" DMDID="DMD_e2594556-9ed6-49b5-b8e6-42c4d1b7e80c">
+            <mets:fptr FILEID="FILE_e2594556-9ed6-49b5-b8e6-42c4d1b7e80c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

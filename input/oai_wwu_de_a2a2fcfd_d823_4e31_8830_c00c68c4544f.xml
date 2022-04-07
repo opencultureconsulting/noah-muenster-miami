@@ -1,0 +1,178 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:a2a2fcfd-d823-4e31-8830-c00c68c4544f" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:55">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_a2a2fcfd-d823-4e31-8830-c00c68c4544f">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">On the local Langlands correspondence for non-tempered representations</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1189236931">
+                    <mods:namePart type="given">Anne-Marie</mods:namePart>
+                    <mods:namePart type="family">Aubert</mods:namePart>
+                    <mods:displayForm>Aubert, Anne-Marie</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/142972002">
+                    <mods:namePart type="given">Paul Frank</mods:namePart>
+                    <mods:namePart type="family">Baum</mods:namePart>
+                    <mods:displayForm>Baum, Paul Frank</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Roger</mods:namePart>
+                    <mods:namePart type="family">Plymen</mods:namePart>
+                    <mods:displayForm>Plymen, Roger</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Maarten</mods:namePart>
+                    <mods:namePart type="family">Solleveld</mods:namePart>
+                    <mods:displayForm>Solleveld, Maarten</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="4">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="4">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="4">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="4">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2014</mods:dateIssued>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2014-10-17</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-11-06</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>print</mods:form>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>27-50</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">Let G be a reductive p-adic group. We study how a local Langlands correspondence for irreducible tempered G-representations can be extended to a local Langlands correspondence for all irreducible smooth representations of G. We prove that, under a natural condition involving compatibility with unramified twists, this is possible in a canonical way. &lt;br&gt;To this end we introduce analytic R-groups associated to non-tempered essentially squareintegrable representations of Levi subgroups of G. We establish the basic properties of these new R-groups, which generalize Knapp–Stein R-groups.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:relatedItem type="host">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Münster Journal of Mathematics</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="issue" order="1">
+                      <mods:detail>
+                        <mods:number>7 (2014) 1</mods:number>
+                      </mods:detail>
+                      <mods:extent unit="pages">
+                        <mods:start>27</mods:start>
+                        <mods:end>50</mods:end>
+                      </mods:extent>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:ce76fa65-011b-4fc1-b02f-d08ca31bf0ad</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-22359595526</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/a2a2fcfd-d823-4e31-8830-c00c68c4544f</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:a2a2fcfd-d823-4e31-8830-c00c68c4544f</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_a2a2fcfd-d823-4e31-8830-c00c68c4544f">
+            <mets:rightsMD ID="RIGHTSMD_a2a2fcfd-d823-4e31-8830-c00c68c4544f">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_a2a2fcfd-d823-4e31-8830-c00c68c4544f">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/a2a2fcfd-d823-4e31-8830-c00c68c4544f</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="26a96c142ff7cc6c0cb122dbfd5ab4e36ba5bce4da2ac6b447a0518ae6ddd6dd" CREATED="2015-11-06T11:57:41" CHECKSUMTYPE="SHA-256" SIZE="282105" ID="ID_FIL_mjm_vol_7_03.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a2a2fcfd-d823-4e31-8830-c00c68c4544f/mjm_vol_7_03.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWa2a2fcfd-d823-4e31-8830-c00c68c4544f">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/a2a2fcfd-d823-4e31-8830-c00c68c4544f" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_a2a2fcfd-d823-4e31-8830-c00c68c4544f" TYPE="physSequence">
+              <mets:div ID="ID_PHY_mjm_vol_7_03.pdf">
+                <mets:fptr FILEID="ID_FIL_mjm_vol_7_03.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_a2a2fcfd-d823-4e31-8830-c00c68c4544f" DMDID="DMD_a2a2fcfd-d823-4e31-8830-c00c68c4544f" ID="ID_LOG_a2a2fcfd-d823-4e31-8830-c00c68c4544f" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_mjm_vol_7_03.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_a2a2fcfd-d823-4e31-8830-c00c68c4544f" xlink:to="ID_PHY_a2a2fcfd-d823-4e31-8830-c00c68c4544f"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_mjm_vol_7_03.pdf" xlink:to="ID_PHY_mjm_vol_7_03.pdf"/>
+          </mets:structLink>
+        </mets:mets>

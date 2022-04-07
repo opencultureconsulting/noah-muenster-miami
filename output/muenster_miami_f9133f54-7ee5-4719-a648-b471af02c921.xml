@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f9133f54-7ee5-4719-a648-b471af02c921">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Evaluierung einer qualitätskontrollierten 16S-rDNADatenbank zur Identifizierung von Vertretern der Unterordnung Micrococcineae (triv. Mikrokokken)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133469565">
+                        <displayForm>Lee, Sea-Hyun</displayForm>
+                        <namePart type="given">Sea-Hyun</namePart>
+                        <namePart type="family">Lee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1036564894">
+                        <displayForm>Becker, Karsten</displayForm>
+                        <namePart type="given">Karsten</namePart>
+                        <namePart type="family">Becker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-09-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-09-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Anhand einer klinischen „Mikrokokken&quot;-Stammsammlung wurde die molekulare Identifizierung basierend auf variablen Abschnitten des 16S-rRNA-Gens mit zwei auf phänotypischen Nachweismethoden beruhenden Identifizierungssystemen (API STAPH, VITEK 2) verglichen. Die 16-rDNA-Sequenzanalyse identifizierte 38 der 74 klinischen Isolate (51,4%) innerhalb einer Sequenzübereinstimmung von mindestens 99%. Die 16S-rDNA-Sequenzanalyse und API-STAPH kamen zu 31 (41,9%), Sequenzanalyse und VITEK 2 zu 28 übereinstimmmenden Identifizierungen (37,8%). Insgesamt gab es für 22 der 74 klinischen Isolate (29,7%) ein übereinstimmendes Ergebnis aller drei Nachweismethoden. Eine qualitätskontrollierte 16S-rDNA-Datenbank zur Identifizierung von Vertretern der Unterordnung Micrococcineae konnte erfolgreich etabliert werden. Im Gegensatz zu den in der Arbeit eingesetzten phänotypischen Nachweismethoden hat sich die 16S-rDNA-Sequenzanalyse als schnellere und exakte Methode zur Identifizierung von „Mikrokokken&quot; bewährt und konnte Hinweise auf bisher nicht beschriebene Vertreter der Micrococcineae unter den klinischen Isolaten aufzeigen.</abstract>
+                    <subject lang="ger">
+                        <topic>16S-rDNA-Sequenzierung</topic>
+                        <topic>API STAPH</topic>
+                        <topic>VITEK 2</topic>
+                        <topic>RIDOM</topic>
+                        <topic>Micrococcineae</topic>
+                        <topic>Micrococcus</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67559457918</identifier>
+                    <identifier type="sys">HT015352779</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f9133f54-7ee5-4719-a648-b471af02c921</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f9133f54-7ee5-4719-a648-b471af02c921_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f9133f54-7ee5-4719-a648-b471af02c921/diss_lee.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f9133f54-7ee5-4719-a648-b471af02c921" DMDID="DMD_f9133f54-7ee5-4719-a648-b471af02c921">
+            <mets:fptr FILEID="FILE_f9133f54-7ee5-4719-a648-b471af02c921_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

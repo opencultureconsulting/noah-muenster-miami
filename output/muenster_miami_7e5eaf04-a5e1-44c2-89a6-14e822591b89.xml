@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7e5eaf04-a5e1-44c2-89a6-14e822591b89">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Evaluation des BURP-Algorithmus für die phylogenetische Analyse von Staphylococcus aureus</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/174012233">
+                        <displayForm>Berssenbrügge, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Berssenbrügge</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112740553">
+                        <displayForm>Harmsen, Dag</displayForm>
+                        <namePart type="given">Dag</namePart>
+                        <namePart type="family">Harmsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-02-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-01-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wurde bereits vermutet, dass die spa Typisierung von Staphylococcus aureus evolutionsbiologisch auch ältere Prozesse darstellen kann. Das sog. „slipped-strand mispairing“ in genetischen Repeatregionen wird formal durch das sog. EDSI-Modell beschrieben. Der Algorithmus BURP gruppiert S. aureus Isolate nach den spa Repeatprofilen. In der vorliegenden Arbeit wurden für die Evaluation des Algorithmus für die phylogenetische Analyse verschiedene Datensätze untersucht. Außerdem wurden 447 Isolate mittels MLST typisiert. Im Ergebnis war die BURP-Gruppierung abhängig von den gewählten BURP-Parametern. Es ließ sich eine Konkordanz von mindestens 87% zu Referenzverfahren erzielen. Somit ermöglicht BURP auf der Basis eines einzelnen Genlocus automatische Gruppierungen von S. aureus, die mit denjenigen etablierter Gruppierungsmethoden weitgehend korrelieren. Diese Arbeit stellt auch die Grundlage für weitere phylogenetische Studien.</abstract>
+                    <subject lang="ger">
+                        <topic>Staphylococcus aureus</topic>
+                        <topic>Typisierung</topic>
+                        <topic>Gruppierung</topic>
+                        <topic>klonale Verwandtschaft</topic>
+                        <topic>spa</topic>
+                        <topic>BURP</topic>
+                        <topic>eBURST</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16509591512</identifier>
+                    <identifier type="sys">HT015511394</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7e5eaf04-a5e1-44c2-89a6-14e822591b89</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7e5eaf04-a5e1-44c2-89a6-14e822591b89_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7e5eaf04-a5e1-44c2-89a6-14e822591b89/diss_berssenbruegge.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7e5eaf04-a5e1-44c2-89a6-14e822591b89" DMDID="DMD_7e5eaf04-a5e1-44c2-89a6-14e822591b89">
+            <mets:fptr FILEID="FILE_7e5eaf04-a5e1-44c2-89a6-14e822591b89_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

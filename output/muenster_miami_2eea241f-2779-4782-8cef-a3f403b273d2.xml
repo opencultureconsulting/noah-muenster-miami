@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2eea241f-2779-4782-8cef-a3f403b273d2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>role of sphingolipids in Drosophila neuronal development</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143884026">
+                        <displayForm>Zheng, Junfeng</displayForm>
+                        <namePart type="given">Junfeng</namePart>
+                        <namePart type="family">Zheng</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hummel, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hummel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-02-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-01-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ein zentraler Aspekt neurobiologischer Forschung untersucht die Differenzierungsmechanismen von Nervenzellen beim Aufbau neuronaler Netzwerke im Gehirn. Die hier vorgelegte Arbeit beschreibt am genetischen Modellsystem Drosophila Untersuchungen zur Rolle von SPT, einem Schlüsselenzym in der Bildung von Sphingolipiden, während der Generierung neuronaler Erkennungsspezifität. Ausgehend von Mutationen in den Genen spt-I und lace, welche die beiden Untereinheiten von SPT kodieren, konnten spezifische Verschaltungsdefekte in der Projektion sensorischer sowie zentraler Neurone im Drosophila Gehirn beschrieben werden. Mittels RNA-Interferenz konnten weitere Schlüsselenzyme in der neuronalen Sphingosinebiogenese bestimmt werden. Diese Ergebnisse stellen den ersten in vivo Nachweis für die Bedeutung von Sphingolipiden in der Kompartment-spezifischen Lokalisation von neuronalen Proteinen dar.</abstract>
+                    <subject lang="ger">
+                        <topic>Sphingolipid</topic>
+                        <topic>neuronale Polarität</topic>
+                        <topic>die Sortierung von Protein</topic>
+                        <topic>Endozytose</topic>
+                        <topic>Axon verzweigt</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25429464358</identifier>
+                    <identifier type="sys">HT016760400</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2eea241f-2779-4782-8cef-a3f403b273d2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2eea241f-2779-4782-8cef-a3f403b273d2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2eea241f-2779-4782-8cef-a3f403b273d2/diss_zheng.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2eea241f-2779-4782-8cef-a3f403b273d2" DMDID="DMD_2eea241f-2779-4782-8cef-a3f403b273d2">
+            <mets:fptr FILEID="FILE_2eea241f-2779-4782-8cef-a3f403b273d2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

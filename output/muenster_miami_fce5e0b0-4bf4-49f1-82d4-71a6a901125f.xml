@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fce5e0b0-4bf4-49f1-82d4-71a6a901125f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>combinatorial model for tame frieze patterns</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cuntz, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Cuntz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Let R be an arbitrary subset of a commutative ring. We introduce a combinatorial model for the set of tame frieze patterns with entries in R based on a notion of irreducibility of frieze patterns. When R is a ring, then a frieze pattern is reducible if and only if it contains an entry (not on the border) which is 1 or −1. To my knowledge, this model generalizes simultaneously all previously presented models for tame frieze patterns bounded by 0s and 1s.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>49</start>
+                                <end>56</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85169764076</identifier>
+                    <identifier type="doi">10.17879/85169763588</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fce5e0b0-4bf4-49f1-82d4-71a6a901125f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fce5e0b0-4bf4-49f1-82d4-71a6a901125f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fce5e0b0-4bf4-49f1-82d4-71a6a901125f/mjm_2019_12_49-56.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fce5e0b0-4bf4-49f1-82d4-71a6a901125f" DMDID="DMD_fce5e0b0-4bf4-49f1-82d4-71a6a901125f">
+            <mets:fptr FILEID="FILE_fce5e0b0-4bf4-49f1-82d4-71a6a901125f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

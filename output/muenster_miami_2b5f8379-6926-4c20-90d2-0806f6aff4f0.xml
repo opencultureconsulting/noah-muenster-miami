@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2b5f8379-6926-4c20-90d2-0806f6aff4f0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Program Evaluation: A facet-theoretic approach</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136296211">
+                        <displayForm>Döring, Anna Katrin</displayForm>
+                        <namePart type="given">Anna Katrin</namePart>
+                        <namePart type="family">Döring</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-07-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note>Berichte aus dem Psychologischen Institut IV</note>
+                    <subject lang="eng">
+                        <topic>program evaluation</topic>
+                        <topic>facet theory</topic>
+                        <topic>hierarchical mapping sentences</topic>
+                        <topic>standards of evaluation</topic>
+                        <topic>crime prevention programs</topic>
+                        <topic>MDS</topic>
+                        <topic>MSA</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04139663448</identifier>
+                    <identifier type="sys">HT020212963</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2b5f8379-6926-4c20-90d2-0806f6aff4f0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2b5f8379-6926-4c20-90d2-0806f6aff4f0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2b5f8379-6926-4c20-90d2-0806f6aff4f0/bericht_bpi-iv_2005_28.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2b5f8379-6926-4c20-90d2-0806f6aff4f0" DMDID="DMD_2b5f8379-6926-4c20-90d2-0806f6aff4f0">
+            <mets:fptr FILEID="FILE_2b5f8379-6926-4c20-90d2-0806f6aff4f0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ac5c2c17-9e7e-48af-9d8e-010849747c2e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachweis von HERV-K rec/cORF-Sequenzen in malignen Tumoren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133034429">
+                        <displayForm>Lütz, Christiane</displayForm>
+                        <namePart type="given">Christiane</namePart>
+                        <namePart type="family">Lütz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Herbst, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Herbst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-05-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-05-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Expression von Genprodukten des Humanen Endogenen Retrovirus-K (HERV-K) ist mit Keimzellneoplasien eng asoziiert. HERV-K Proviren kodieren ueber Spleiss-Mechanismen auch nicht-strukturelle Proteine, darunter p15rec/cORF u.a. mit transformierenden Eigenschaften. Es wurde mittels Polymerase-Kettenreaktion nach reverser Transkription (RT-PCR) die Expression des p15rec/cORF in 144 Gewebsproben aus malignen Melanomen, lymphatischen Laesionen, testikulaeren Keimzell-, Mamma-, Hirn- und Nierenzelltumoren untersucht. Gespleisste p15rec/cORF-Transkripte konnten regelmaessig in testikulaeren Keimzell- und selten in Nierenzelltumoren und malignen Melanomen nachgewiesen werden. Zusaetzlich wurden weitere Spleissvarianten gefunden, dabei war die 250bp lange Bande des Proteins np9 von zentraler Bedeutung. Eine Assoziation zwischen Expression der Genprodukte der HERV-K-Proviren und der Entstehung bestimmter maligner Neoplasien liegt nahe.</abstract>
+                    <subject lang="ger">
+                        <topic>HERV-K</topic>
+                        <topic>p15rec/cORF</topic>
+                        <topic>np9</topic>
+                        <topic>Spleissprodukte</topic>
+                        <topic>RT-PCR</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-32649573767</identifier>
+                    <identifier type="sys">HT014752962</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ac5c2c17-9e7e-48af-9d8e-010849747c2e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ac5c2c17-9e7e-48af-9d8e-010849747c2e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ac5c2c17-9e7e-48af-9d8e-010849747c2e/diss_luetz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ac5c2c17-9e7e-48af-9d8e-010849747c2e" DMDID="DMD_ac5c2c17-9e7e-48af-9d8e-010849747c2e">
+            <mets:fptr FILEID="FILE_ac5c2c17-9e7e-48af-9d8e-010849747c2e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

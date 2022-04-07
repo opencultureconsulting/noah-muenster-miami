@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cross-Gramian-Based Combined State and Parameter Reduction for Large-Scale Control Systems</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115358324">
+                        <displayForm>Himpe, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Himpe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115010972">
+                        <displayForm>Ohlberger, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Ohlberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-07-02</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-11-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">This work introduces the empirical cross-gramian for multiple-input-multiple-output systems. The cross-gramian is a tool for reducing the state space of control systems, by conjoining controllability and observability information into a single matrix and does not require balancing. Its empirical gramian variant extends the applicability of the cross-gramian to nonlinear systems. Furthermore, for parametrized systems, the empirical gramians can also be utilized for sensitivity analysis or parameter identification and thus for parameter reduction. This work also introduces the empirical joint gramian, which is derived from the empirical cross-gramian. The joint gramian allows not only a reduction of the parameter space but also the combined state and parameter space reduction, which is tested on a linear and a nonlinear control system. Controllability- and observability-based combined reduction methods are also presented, which are benchmarked against the joint gramian.</abstract>
+                    <note type="citation/reference">Mathematical Problems in Engineering 2014 (2014), 1-13, 843869</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster)</note>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-01349402206</identifier>
+                    <identifier type="doi">doi:10.1155/2014/843869</identifier>
+                    <identifier type="issn">1563-5147</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cb1e46a2-b0fc-4b67-b55c-2d857eef83c8/843869.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8" DMDID="DMD_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8">
+            <mets:fptr FILEID="FILE_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

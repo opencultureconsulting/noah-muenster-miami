@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d1d0c56f-9fd8-4d05-8141-07aeb4dbe556">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cyber risk information sharing with authorities</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1149936886">
+                        <displayForm>Laube, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Laube</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137231164">
+                        <displayForm>Böhme, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Böhme</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-01-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-11-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Cyber-Risikomanagement ist durch einen Wettlauf um sicherheitsrelevante Informationen zwischen Angreifern und Verteidigern von IKT-Systemen geprägt. Verteidiger können sich dabei einen Vorteil verschaffen, indem sie solche Informationen austauschen. Sie tauschen jedoch oft weniger Informationen aus, als es gesellschaftlich wünschenswert wäre, weil ihre Entscheidungen von egoistischen Motiven getrieben werden. Dies kann Staaten dazu motivieren, Informationsaustausch gesetzlich vorzuschreiben. Insbesondere in Europa verpflichten viele Gesetze Verteidiger zur Meldung von Informationen an Behörden, die wiederum andere Verteidiger beraten und dadurch die Sicherheit von IKT-Systemen in der Gesellschaft erhöhen können. Diese Dissertation behandelt ökonomische Aspekte des Austauschs sicherheitsrelevanter Informationen mit Behörden.</abstract>
+                    <abstract lang="eng">Cyber risk management largely reduces to a race for information between attackers and defenders of ICT systems. Defenders can gain advantage in this race by sharing cyber risk information with each other. Yet, defenders often exchange less information than is socially desirable, as their decisions are guided by selfish reasons. This can motivate regulators to enact laws mandating defenders&apos; information exchange. In particular in Europe, many laws oblige defenders&apos; information sharing with authorities, who in turn can advise others to strengthen the overall defense in the economy. This dissertation sheds first light into the economics of cyber risk information sharing with authorities.</abstract>
+                    <subject lang="ger">
+                        <topic>Cyber-Risikomanagement</topic>
+                        <topic>Informationsaustausch</topic>
+                        <topic>Politik</topic>
+                        <topic>Spieltheorie</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Cyber risk management</topic>
+                        <topic>information sharing</topic>
+                        <topic>policy</topic>
+                        <topic>game-theory</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">320</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29199597421</identifier>
+                    <identifier type="sys">HT019554898</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d1d0c56f-9fd8-4d05-8141-07aeb4dbe556</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d1d0c56f-9fd8-4d05-8141-07aeb4dbe556_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d1d0c56f-9fd8-4d05-8141-07aeb4dbe556/diss_laube.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d1d0c56f-9fd8-4d05-8141-07aeb4dbe556" DMDID="DMD_d1d0c56f-9fd8-4d05-8141-07aeb4dbe556">
+            <mets:fptr FILEID="FILE_d1d0c56f-9fd8-4d05-8141-07aeb4dbe556_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

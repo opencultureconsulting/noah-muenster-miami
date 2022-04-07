@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5bf01c87-4298-4862-bd0a-16cb2b8eadeb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Sector inquiry into the pharmaceutical sector</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140786775">
+                        <displayForm>Besen, Marc</displayForm>
+                        <namePart type="given">Marc</namePart>
+                        <namePart type="family">Besen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Slobodenjuk, Dimitri</displayForm>
+                        <namePart type="given">Dimitri</namePart>
+                        <namePart type="family">Slobodenjuk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-18</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note>Section &quot;Commentary&quot;</note>
+                    <classification authority="ddc">330</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Journal of Business Chemistry</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Journal of Business Chemistry</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>81</start>
+                                <end>82</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-73599597602</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5bf01c87-4298-4862-bd0a-16cb2b8eadeb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5bf01c87-4298-4862-bd0a-16cb2b8eadeb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5bf01c87-4298-4862-bd0a-16cb2b8eadeb/2008_vol5_iss3_81-82.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5bf01c87-4298-4862-bd0a-16cb2b8eadeb" DMDID="DMD_5bf01c87-4298-4862-bd0a-16cb2b8eadeb">
+            <mets:fptr FILEID="FILE_5bf01c87-4298-4862-bd0a-16cb2b8eadeb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

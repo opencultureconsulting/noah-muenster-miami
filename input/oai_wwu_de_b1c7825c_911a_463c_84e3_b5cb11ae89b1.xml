@@ -1,0 +1,175 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:b1c7825c-911a-463c-84e3-b5cb11ae89b1" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:45:42">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_b1c7825c-911a-463c-84e3-b5cb11ae89b1">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Singularities and Quinn spectra</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/139537740">
+                    <mods:namePart type="given">Nils A.</mods:namePart>
+                    <mods:namePart type="family">Baas</mods:namePart>
+                    <mods:displayForm>Baas, Nils A.</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/124580998" altRepGroup="2">
+                    <mods:namePart type="given">Gerd</mods:namePart>
+                    <mods:namePart type="family">Laures</mods:namePart>
+                    <mods:displayForm>Laures, Gerd</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/124580998" altRepGroup="2">
+                    <mods:namePart type="given">G.</mods:namePart>
+                    <mods:namePart type="family">Laures</mods:namePart>
+                    <mods:displayForm>Laures, G.</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:publisher>Mathematisches Institut (Universität Münster)</mods:publisher>
+                    <mods:dateIssued keyDate="yes">2017</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2017-03-01</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2019-04-16</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>1-17</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">We introduce singularities to Quinn spectra. It enables us to talk about ads with prescribed singularities and to explicitly construct highly structured representatives for prominent spectra like Morava K-theories or for L-theory with singularities. We develop a spectral sequence for the computation of the associated bordism groups and investigate product structures in the presence of singularities.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:relatedItem type="host">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Münster Journal of Mathematics</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="issue">
+                      <mods:detail>
+                        <mods:number>10 (2017)</mods:number>
+                      </mods:detail>
+                      <mods:extent unit="pages">
+                        <mods:start>1</mods:start>
+                        <mods:end>17</mods:end>
+                      </mods:extent>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:ce76fa65-011b-4fc1-b02f-d08ca31bf0ad</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-33249465008</mods:identifier>
+                  <mods:identifier type="doi">10.17879/33249464015</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/b1c7825c-911a-463c-84e3-b5cb11ae89b1</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:b1c7825c-911a-463c-84e3-b5cb11ae89b1</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_b1c7825c-911a-463c-84e3-b5cb11ae89b1">
+            <mets:rightsMD ID="RIGHTSMD_b1c7825c-911a-463c-84e3-b5cb11ae89b1">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_b1c7825c-911a-463c-84e3-b5cb11ae89b1">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/b1c7825c-911a-463c-84e3-b5cb11ae89b1</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="63965c87a09b69947f25c91aa083f862cf8176fbc3fbe6e827d5c1ca7cd3fdf0" CREATED="2019-04-16T07:09:55" CHECKSUMTYPE="SHA-256" SIZE="344538" ID="ID_FIL_mjm_2017_10_01-17.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b1c7825c-911a-463c-84e3-b5cb11ae89b1/mjm_2017_10_01-17.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWb1c7825c-911a-463c-84e3-b5cb11ae89b1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/b1c7825c-911a-463c-84e3-b5cb11ae89b1" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_b1c7825c-911a-463c-84e3-b5cb11ae89b1" TYPE="physSequence">
+              <mets:div ID="ID_PHY_mjm_2017_10_01-17.pdf">
+                <mets:fptr FILEID="ID_FIL_mjm_2017_10_01-17.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_b1c7825c-911a-463c-84e3-b5cb11ae89b1" DMDID="DMD_b1c7825c-911a-463c-84e3-b5cb11ae89b1" ID="ID_LOG_b1c7825c-911a-463c-84e3-b5cb11ae89b1" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_mjm_2017_10_01-17.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_b1c7825c-911a-463c-84e3-b5cb11ae89b1" xlink:to="ID_PHY_b1c7825c-911a-463c-84e3-b5cb11ae89b1"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_mjm_2017_10_01-17.pdf" xlink:to="ID_PHY_mjm_2017_10_01-17.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9a9c78c2-3126-4ca4-b7e6-cba186219b9b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schutz der Grundrechte vor gesetzlichen Einzeleingriffen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scheffler, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Scheffler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian-Friedrich</displayForm>
+                        <namePart type="given">Christian-Friedrich</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian Friedrich</displayForm>
+                        <namePart type="given">Christian Friedrich</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian F.</displayForm>
+                        <namePart type="given">Christian F.</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1981</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-03-18</dateIssued>
+                        <dateOther encoding="w3cdtf">1981-02-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1981</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15589318028</identifier>
+                    <identifier type="sys">HT015482130</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9a9c78c2-3126-4ca4-b7e6-cba186219b9b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9a9c78c2-3126-4ca4-b7e6-cba186219b9b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9a9c78c2-3126-4ca4-b7e6-cba186219b9b/diss_scheffler_1981.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9a9c78c2-3126-4ca4-b7e6-cba186219b9b" DMDID="DMD_9a9c78c2-3126-4ca4-b7e6-cba186219b9b">
+            <mets:fptr FILEID="FILE_9a9c78c2-3126-4ca4-b7e6-cba186219b9b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

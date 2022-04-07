@@ -1,0 +1,211 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:3498ad03-d178-4c2c-bc86-947f07e00895" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:45:57">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_3498ad03-d178-4c2c-bc86-947f07e00895">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Stable and efficient Petrov-Galerkin methods for certain (kinetic) transport equations</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/123427860X">
+                    <mods:namePart type="given">Julia</mods:namePart>
+                    <mods:namePart type="family">Brunken</mods:namePart>
+                    <mods:namePart type="date">1990-</mods:namePart>
+                    <mods:displayForm>Brunken, Julia</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1115010972">
+                    <mods:namePart type="given">Mario</mods:namePart>
+                    <mods:namePart type="family">Ohlberger</mods:namePart>
+                    <mods:displayForm>Ohlberger, Mario</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2021</mods:dateIssued>
+                    <mods:dateOther>2021-03-08</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2021-06-09</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2021-06-16</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>xi, 109</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Wir entwickeln stabile und effiziente Petrov-Galerkin-Diskretisierungen für zwei transportdominierte Probleme: lineare Transportgleichungen erster Ordnung und kinetische Fokker-Planck-Gleichungen. Aufbauend auf wohlgestellten schwachen Formulierungen wählen wir für die Petrov-Galerkin-Projektion zunächst einen diskreten Testraum. Ein problemangepasster diskreter Ansatzraum wird dann so berechnet, dass die Räume aus passenden stabilen Paaren von Ansatz- und Testfunktionen bestehen. Dadurch erhalten wir effizient berechenbare und uniform inf-sup-stabile diskrete Verfahren. Für parametrisierte Transportgleichungen wenden wir die Reduzierte-Basis-Methode an und konstruieren ein reduziertes Modell bestehend aus einem festen reduzierten Testraum und davon abgeleiteten parameterabhängigen reduzierten Ansatzräumen. Durch die eingebaute Stabilität können wir zusätzliche Stabilisierungen bei der Basis-Generierung vermeiden und erhalten effiziente und leicht zu implementierende reduzierte Modelle.</mods:abstract>
+                  <mods:abstract lang="eng">We develop stable and efficient Petrov-Galerkin discretizations for two transport-dominated problems: first order linear transport equations and kinetic Fokker-Planck equations. Based on well-posed weak formulations we first choose a discrete test space for the Petrov-Galerkin projection. A problem-dependent discrete trial space is then computed such that the spaces consist of matching stable pairs of trial and test functions. Thereby we obtain efficiently computable and uniformly inf-sup stable discrete schemes. For parametrized transport equations, we apply the reduced basis method and build a reduced model consisting of a fixed reduced test space and parameter-dependent reduced trial spaces depending on the test space. Due to the inherent stability we can avoid additional stabilizations in the basis generation so that we obtain efficient reduced models by an easily implemented procedure.</mods:abstract>
+                  <mods:tableOfContents lang="eng">1 Introduction                                                                     1&#13;
+1.1 Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1&#13;
+1.2 Goal and contribution of this work . . . . . . . . . . . . . . . . . . . . . 2&#13;
+1.3 Overview of the literature . . . . . . . . . . . . . . . . . . . . . . . . . . 4&#13;
+1.4 Outline of this thesis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8&#13;
+2 Background                                                                             9&#13;
+2.1 Modeling of glioma tumor spreading . . . . . . . . . . . . . . . . . . . . 9&#13;
+2.2 Abstract well-posedness theory . . . . . . . . . . . . . . . . . . . . . . . 12&#13;
+2.2.1 Inf-sup theory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12&#13;
+2.2.2 Petrov-Galerkin projections . . . . . . . . . . . . . . . . . . . . . 15&#13;
+2.3 Sobolev spaces for transport and kinetic equations . . . . . . . . . . . . 17&#13;
+2.3.1 Spaces for first-order transport equations . . . . . . . . . . . . . 17&#13;
+2.3.2 Spaces for kinetic equations without velocity derivatives . . . . . 20&#13;
+2.3.3 Sobolev spaces on manifolds and the Laplace-Beltrami operator . 22&#13;
+3 The transport equation                                                                  27&#13;
+3.1 An optimally stable ultraweak (space-time) formulation . . . . . . . . . 28&#13;
+3.2 An optimally stable Petrov-Galerkin method . . . . . . . . . . . . . . . 35&#13;
+3.2.1 Optimally stable discrete spaces . . . . . . . . . . . . . . . . . . 36&#13;
+3.2.2 Nonphysical restrictions at the boundary . . . . . . . . . . . . . 38&#13;
+3.2.3 Postprocessing . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39&#13;
+3.2.4 Comparison with other approaches . . . . . . . . . . . . . . . . . 40&#13;
+3.3 The reduced basis method for parametrized transport problems . . . . . 42&#13;
+3.3.1 Parametrized transport problem . . . . . . . . . . . . . . . . . . 42&#13;
+3.3.2 Discretization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44&#13;
+3.3.3 Reduced scheme . . . . . . . . . . . . . . . . . . . . . . . . . . . 45&#13;
+3.3.4 Basis generation . . . . . . . . . . . . . . . . . . . . . . . . . . . 46&#13;
+3.3.5 Error analysis for the reduced basis approximation . . . . . . . . 47&#13;
+3.3.6 Comparison with the double greedy algorithm . . . . . . . . . . . 48&#13;
+3.4 Computational realization . . . . . . . . . . . . . . . . . . . . . . . . . . 50&#13;
+3.4.1 Implementation for constant data . . . . . . . . . . . . . . . . . . 50&#13;
+3.4.2 Assembling the matrices for spaces on rectangular grids . . . . . 51&#13;
+3.4.3 Implementation for nonconstant data . . . . . . . . . . . . . . . 52&#13;
+3.5 Numerical experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52&#13;
+3.5.1 Non-parametric cases . . . . . . . . . . . . . . . . . . . . . . . . 52&#13;
+3.5.2 Parametric cases: The reduced basis method . . . . . . . . . . . 58&#13;
+4 The kinetic Fokker-Planck equation                                           63&#13;
+4.1 Problem setting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64&#13;
+4.2 Function spaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64&#13;
+4.3 Variational formulation . . . . . . . . . . . . . . . . . . . . . . . . . . . 69&#13;
+4.3.1 Existence of a weak solution . . . . . . . . . . . . . . . . . . . . . 70&#13;
+4.3.2 Uniqueness of the weak solution . . . . . . . . . . . . . . . . . . 73&#13;
+4.4 Discretization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75&#13;
+4.4.1 Stable Petrov-Galerkin schemes . . . . . . . . . . . . . . . . . . . 76&#13;
+4.4.2 Efficient numerical scheme . . . . . . . . . . . . . . . . . . . . . . 77&#13;
+4.5 Numerical experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79&#13;
+4.5.1 Test Case . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79&#13;
+4.5.2 Numerical results . . . . . . . . . . . . . . . . . . . . . . . . . . . 81&#13;
+5 Conclusion and outlook                                                      85&#13;
+5.1 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85&#13;
+5.2 Outlook . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86&#13;
+A Discussion: Global traces in H1 fp(Omega)                               89&#13;
+Bibliography                                                                            97</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="thesis">Münster (Westfalen), Univ., Diss., 2021</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="ger">Petrov-Galerkin; Finite Elemente; Transportgleichung; kinetische Fokker-Planck-Gleichung; Inf-Sup-Stabilität; Reduzierte Basis</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Petrov-Galerkin; finite elements; transport equation; kinetic Fokker-Planck equation; inf-sup stability; reduced basis</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-27049659871</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/3498ad03-d178-4c2c-bc86-947f07e00895</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/4.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:3498ad03-d178-4c2c-bc86-947f07e00895</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_3498ad03-d178-4c2c-bc86-947f07e00895">
+            <mets:rightsMD ID="RIGHTSMD_3498ad03-d178-4c2c-bc86-947f07e00895">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_3498ad03-d178-4c2c-bc86-947f07e00895">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/3498ad03-d178-4c2c-bc86-947f07e00895</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d2eb643b474a03eeb563367ee366029ba1b49d25354d87a1687d566463e4271b" CREATED="2021-06-16T09:23:08" CHECKSUMTYPE="SHA-256" SIZE="2724539" ID="ID_FIL_diss_brunken.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3498ad03-d178-4c2c-bc86-947f07e00895/diss_brunken.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW3498ad03-d178-4c2c-bc86-947f07e00895">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/3498ad03-d178-4c2c-bc86-947f07e00895" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_3498ad03-d178-4c2c-bc86-947f07e00895" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_brunken.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_brunken.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_3498ad03-d178-4c2c-bc86-947f07e00895" DMDID="DMD_3498ad03-d178-4c2c-bc86-947f07e00895" ID="ID_LOG_3498ad03-d178-4c2c-bc86-947f07e00895" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_brunken.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_3498ad03-d178-4c2c-bc86-947f07e00895" xlink:to="ID_PHY_3498ad03-d178-4c2c-bc86-947f07e00895"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_brunken.pdf" xlink:to="ID_PHY_diss_brunken.pdf"/>
+          </mets:structLink>
+        </mets:mets>

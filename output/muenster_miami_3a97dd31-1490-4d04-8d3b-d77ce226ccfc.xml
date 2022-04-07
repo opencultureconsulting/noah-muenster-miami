@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3a97dd31-1490-4d04-8d3b-d77ce226ccfc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>duality transform for realizing convex polytopes with small integer coordinates</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1084651831">
+                        <displayForm>Igamberdiev, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Igamberdiev</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136261604">
+                        <displayForm>Schulz, André</displayForm>
+                        <namePart type="given">André</namePart>
+                        <namePart type="family">Schulz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-03-01</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-02-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir entwickeln eine Dualitätstransformation für Polyeder, die eine Einbettung auf dem polynomiellen Gitter berechnet, wenn das ursprüngliche Polyeder auf einem polynomiellen Gitter gegeben ist. Die Konstruktion erfordert einen beschränkten Knotengrad des Polytop-Graphen, funktioniert aber im allgemeinen Fall für die Klasse der Stapelpolytope. Als Konsequenz können wir zeigen, dass sich die &quot;Truncated Polytopes&quot; auf einem polynomiellen Gitter realisieren lassen. Dieses Ergebnis gilt für jede (feste) Dimension.</abstract>
+                    <abstract lang="eng">We study realizations of convex polytopes with small integer coordinates. We develop an efficient duality transform, that allows us to go from an efficient realization of a convex polytope to an efficient realization of its dual.Our methods prove to be especially efficient for realizing the class of polytopes dual to stacked polytopes, known as truncated polytopes. We show that every 3d truncated polytope with n vertices can be realized on an integer grid of size O(n^(9lg(6)+1)), and in R^d the required grid size is n^(O(d^2*lg(d))). The class of truncated polytopes is only the second nontrivial class of polytopes, the first being the class of stacked polytopes, for which realizations on a polynomial size integer grid are known to exists.</abstract>
+                    <subject lang="ger">
+                        <topic>Diskrete Geometrie</topic>
+                        <topic>Polytope</topic>
+                        <topic>Gitter-Einbettungen</topic>
+                        <topic>Dualität</topic>
+                        <topic>Gleichgewichts-Stresse</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Discrete Geometry</topic>
+                        <topic>Polytopes</topic>
+                        <topic>Grid Embeddings</topic>
+                        <topic>Duality</topic>
+                        <topic>Equilibrium Stresses</topic>
+                        <topic>Quantitative Steinitz Theorem</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16279528400</identifier>
+                    <identifier type="sys">HT018901736</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3a97dd31-1490-4d04-8d3b-d77ce226ccfc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3a97dd31-1490-4d04-8d3b-d77ce226ccfc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3a97dd31-1490-4d04-8d3b-d77ce226ccfc/diss_igamberdiev.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3a97dd31-1490-4d04-8d3b-d77ce226ccfc" DMDID="DMD_3a97dd31-1490-4d04-8d3b-d77ce226ccfc">
+            <mets:fptr FILEID="FILE_3a97dd31-1490-4d04-8d3b-d77ce226ccfc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

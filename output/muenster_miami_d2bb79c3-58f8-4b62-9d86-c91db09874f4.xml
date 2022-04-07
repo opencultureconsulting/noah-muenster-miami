@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d2bb79c3-58f8-4b62-9d86-c91db09874f4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>wasserwirtschaftliche Planfeststellung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10828865X">
+                        <displayForm>Diekmann, Cord</displayForm>
+                        <namePart type="given">Cord</namePart>
+                        <namePart type="family">Diekmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian-Friedrich</displayForm>
+                        <namePart type="given">Christian-Friedrich</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian Friedrich</displayForm>
+                        <namePart type="given">Christian Friedrich</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118801023">
+                        <displayForm>Menger, Christian F.</displayForm>
+                        <namePart type="given">Christian F.</namePart>
+                        <namePart type="family">Menger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1972</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-11-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-11-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Münster &lt;Westfalen&gt;, Univ., Diss., 1972</note>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97509511013</identifier>
+                    <identifier type="sys">HT015359320</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d2bb79c3-58f8-4b62-9d86-c91db09874f4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d2bb79c3-58f8-4b62-9d86-c91db09874f4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d2bb79c3-58f8-4b62-9d86-c91db09874f4/diss_diekmann_1972.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d2bb79c3-58f8-4b62-9d86-c91db09874f4" DMDID="DMD_d2bb79c3-58f8-4b62-9d86-c91db09874f4">
+            <mets:fptr FILEID="FILE_d2bb79c3-58f8-4b62-9d86-c91db09874f4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

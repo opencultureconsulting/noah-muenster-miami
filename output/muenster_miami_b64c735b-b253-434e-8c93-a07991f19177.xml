@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b64c735b-b253-434e-8c93-a07991f19177">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Missa Georgius Rex</title>
+                        <subTitle>Eine bisher unbekannte Herrschermesse eines (glücklicherweise) unbekannten Komponisten</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea</displayForm>
+                        <namePart type="given">Andrea</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea Pietro</displayForm>
+                        <namePart type="given">Andrea Pietro</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132154196">
+                        <displayForm>Heidrich, Jürgen</displayForm>
+                        <namePart type="given">Jürgen</namePart>
+                        <namePart type="family">Heidrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">hnr</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dieser nicht ganz ernst gemeinte Beitrag aus der nur intern veröffentlichten Festschrift für einen Münsteraner Ordinarius für Musikwissenschaft beleuchtet eine in der Musikgeschichte sicher einzigartigen Messvertonung, die nicht nur hinsichtlich ihres Kontextes außergewöhnliche Wege hinter sich gebracht hat, sondern auch mit Blick auf die musikalische Ausgestaltung geradezu paranormal anmutet.</abstract>
+                    <note type="citation/reference">Manuskriptfassung der Druckausgabe: Ammendola, Andrea; Höink, Dominik; Schmitz, Peter: &quot;Ich phantasiere jetzt... und dergleichen Dinge mehr&quot; : Jürgen Heidrich zum 50. Geburtstag. Münster, 2009, S. 3-22</note>
+                    <subject lang="ger">
+                        <topic>Missa Georgius Rex</topic>
+                        <topic>Herrschermesse</topic>
+                        <topic>Münster</topic>
+                        <topic>Hannover</topic>
+                        <topic>Göttingen</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10219603415</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b64c735b-b253-434e-8c93-a07991f19177</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b64c735b-b253-434e-8c93-a07991f19177_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b64c735b-b253-434e-8c93-a07991f19177/ammendola_2009_missa.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b64c735b-b253-434e-8c93-a07991f19177" DMDID="DMD_b64c735b-b253-434e-8c93-a07991f19177">
+            <mets:fptr FILEID="FILE_b64c735b-b253-434e-8c93-a07991f19177_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

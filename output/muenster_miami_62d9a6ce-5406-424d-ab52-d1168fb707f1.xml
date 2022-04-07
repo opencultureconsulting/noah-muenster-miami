@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_62d9a6ce-5406-424d-ab52-d1168fb707f1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pfandleiher in Deutschland</title>
+                        <subTitle>Erzählte Identität</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1232959359">
+                        <displayForm>Beckmann, Dennis</displayForm>
+                        <namePart type="given">Dennis</namePart>
+                        <namePart type="family">Beckmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-05-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wer mehr Geld benötigt, als er besitzt, hinterlegt ein Pfand und erhält dafür ein Darlehen. So funktionierte Kredit für Jahrhunderte – in allen sozialen Schichten. Im 20. Jahrhundert entwickelte sich der Pfandkredit in Deutschland zu einem Nischengewerbe. Die meisten kennen Pfandleiher nur aus erfundenen Geschichten. Dort werden sie oft als unsympathische Ausbeuter dargestellt. Ihre Kunden sind Kriminelle, Arme und Ausgestoßene. „Pfandleiher in Deutschland“ rückt 16 Menschen in den Fokus, die diesen Beruf wirklich ausüben. Ihre Erzählungen handeln von einer vielfältigen Branche, von skurrilen Erlebnissen und der ganz persönlichen Identifikation mit einem Beruf, der noch heute stigmatisiert ist.</abstract>
+                    <note type="citation/reference">Dennis Beckmann: Pfandleiher in Deutschland. Erzählte Identität. (Internationale Hochschulschriften, 684) Münster : Waxmann, 2021, ISBN 978-3-8309-4339-6, 239 S.</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2021 der Westfälischen Wilhelms-Universität Münster (WWU Münster)</note>
+                    <classification authority="ddc">300</classification>
+                    <classification authority="ddc">305</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17069496738</identifier>
+                    <identifier type="doi">10.31244/9783830993391</identifier>
+                    <identifier type="isbn">978-3-8309-9339-1</identifier>
+                    <identifier type="sys">HT020918041</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_62d9a6ce-5406-424d-ab52-d1168fb707f1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_62d9a6ce-5406-424d-ab52-d1168fb707f1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/62d9a6ce-5406-424d-ab52-d1168fb707f1/10.31244_9783830993391.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_62d9a6ce-5406-424d-ab52-d1168fb707f1" DMDID="DMD_62d9a6ce-5406-424d-ab52-d1168fb707f1">
+            <mets:fptr FILEID="FILE_62d9a6ce-5406-424d-ab52-d1168fb707f1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

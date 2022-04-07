@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_35ce3906-bcb6-4636-bf3f-973fab711657">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Experimentelle Untersuchungen zum Potential der Dosisreduktion bei der dynamischen Computertomographie von Lungenrundherden</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136531547">
+                        <displayForm>Sander, Nina</displayForm>
+                        <namePart type="given">Nina</namePart>
+                        <namePart type="family">Sander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136531547">
+                        <displayForm>Schürmann, Nina</displayForm>
+                        <namePart type="given">Nina</namePart>
+                        <namePart type="family">Schürmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115806504">
+                        <displayForm>Jürgens, Kai-Uwe</displayForm>
+                        <namePart type="given">Kai-Uwe</namePart>
+                        <namePart type="family">Jürgens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-09-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit beschäftigt sich mit einem häufigen diagnostischen Problem der Radiologie: der Dignitätsbeurteilung pulmonaler Rundherde im CT. Verbesserte CT-Technik führt zu einem enormen Anstieg detektierter, kleinster und häufig benigner Herde. Neue diagnostische Vorgehensweisen sind erforderlich, die trotzdem die Sicherheit bieten, das Bronchialkarzinom – erstmals auch in einem noch potenziell kurativen Größenstadium – herauszufiltern. Überblicksarbeit mit Schwerpunkt: 1. Enhancement und Volumenmessung als Möglichkeiten der quantitativen kontrastmittel-unterstützten CT (QECT) zur Dignität und Wachstum. 2. ALARA-Prinzips (As Low As Reasonable Achievable) des Strahlenschutzes: Messgenauigkeit der Dichte bei Dosisreduktion. Die Ergebnisse dieser Untersuchung bescheinigen der dynamischen CT eine hohe Messgenauigkeit der Dichte pulmonaler Rundherden, so dass eine Reduzierung des mAs-Produktes für die Diagnostik von Lungenherden mittels QECT empfohlen werden kann.</abstract>
+                    <subject lang="ger">
+                        <topic>Bronchialkarzinom</topic>
+                        <topic>pulmonaler Rundherd</topic>
+                        <topic>Dignitätsbeurteilung von Lungenrundherden</topic>
+                        <topic>quantitative Kontrastmittel-unterstützte CT (QECT)</topic>
+                        <topic>Dosisreduktion</topic>
+                        <topic>Reduzierung der Strahlenbelastung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23569691994</identifier>
+                    <identifier type="sys">HT015773544</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_35ce3906-bcb6-4636-bf3f-973fab711657</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_35ce3906-bcb6-4636-bf3f-973fab711657_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/35ce3906-bcb6-4636-bf3f-973fab711657/diss_sander.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_35ce3906-bcb6-4636-bf3f-973fab711657" DMDID="DMD_35ce3906-bcb6-4636-bf3f-973fab711657">
+            <mets:fptr FILEID="FILE_35ce3906-bcb6-4636-bf3f-973fab711657_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

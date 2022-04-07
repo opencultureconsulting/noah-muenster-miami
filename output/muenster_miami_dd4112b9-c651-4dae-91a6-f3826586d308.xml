@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dd4112b9-c651-4dae-91a6-f3826586d308">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Friedrich Schneider, Christus das Kind. Oratorium in drei Teilen</title>
+                        <subTitle>Partitur</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/11940818X">
+                        <displayForm>Schneider, Friedrich</displayForm>
+                        <namePart type="given">Friedrich</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">cmp</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Werbick, Regina</displayForm>
+                        <namePart type="given">Regina</namePart>
+                        <namePart type="family">Werbick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133229238">
+                        <displayForm>Höink, Dominik</displayForm>
+                        <namePart type="given">Dominik</namePart>
+                        <namePart type="family">Höink</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Memering, Robert</displayForm>
+                        <namePart type="given">Robert</namePart>
+                        <namePart type="family">Memering</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">MusicalNotation</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-03-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bereits in den 1820er Jahren fasste der Dessauer Hofkapellmeister Friedrich Schneider den Plan zur Komposition einer zusammenhängenden Reihe von vier abendfüllenden Oratorien, die das Leben Jesu zum Gegenstand haben. Zwar hat Schneider seinen ursprünglichen Plan einer Tetralogie nicht realisiert, jedoch sind immerhin drei vollständige Oratorien entstanden, die eine zusammenhängende Trilogie bilden (Christus das Kind, Christus der Meister, Christus der Erlöser). Mit dieser Edition der Partitur sowie der Neuedition des Klavierauszuges von &quot;Christus das Kind&quot; liegt erstmals das notwendige Material zur Wiederbelebung des ersten Teils der Christus-Trilogie vor.</abstract>
+                    <subject lang="ger">
+                        <topic>Friedrich Schneider</topic>
+                        <topic>Oratorium</topic>
+                        <topic>Vokalmusik</topic>
+                        <topic>Leben Jesu</topic>
+                        <topic>Partitur</topic>
+                        <topic>19. Jahrhundert</topic>
+                    </subject>
+                    <classification authority="ddc">782</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29079570351</identifier>
+                    <identifier type="doi">10.17879/29079569785</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dd4112b9-c651-4dae-91a6-f3826586d308</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>notated music</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dd4112b9-c651-4dae-91a6-f3826586d308_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dd4112b9-c651-4dae-91a6-f3826586d308/schneider_2021_christus-das-kind_partitur.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dd4112b9-c651-4dae-91a6-f3826586d308" DMDID="DMD_dd4112b9-c651-4dae-91a6-f3826586d308">
+            <mets:fptr FILEID="FILE_dd4112b9-c651-4dae-91a6-f3826586d308_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

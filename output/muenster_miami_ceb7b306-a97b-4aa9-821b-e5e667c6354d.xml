@@ -1,0 +1,97 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ceb7b306-a97b-4aa9-821b-e5e667c6354d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Analysis of CoFGE experiments with Delta2D</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nippes, Alina</displayForm>
+                        <namePart type="given">Alina</namePart>
+                        <namePart type="family">Nippes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1016481713">
+                        <displayForm>Ackermann, Doreen</displayForm>
+                        <namePart type="given">Doreen</namePart>
+                        <namePart type="family">Ackermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>König, Simone</displayForm>
+                        <namePart type="given">Simone</namePart>
+                        <namePart type="family">König</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-10</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Comparative fluorescence gel electrophoresis (CoFGE) was developed to improve coordinate assignment in singular experiments. The method uses an internal reference to both correct for gel-to-gel variation and allow semi-quantitation of gel spots in two-dimensional gel electrophoretic experiments (2D-PAGE). Commercial products have become available which enable users to easily perform these powerful experiments. Software capable of warping gel images is required for data analysis. A manual is provided for the use of Delta2D (DECODON) for this purpose.</abstract>
+                    <abstract lang="ger">Die vergleichende Fluoreszenz-Gelelektrophorese (CoFGE) wurde entwickelt, um die Koordinatenzuordnung von Proteinspots in Einzelexperimenten zu verbessern. Die Methode korrigiert die Gel-zu-Gel-Variation mittels eines internen Standards, der gleichzeitig halb-quantitative Konzentrationsaussagen in zweidimensionalen gelelektrophoretischen Trennungen (2D-PAGE) erlaubt. Die Methode wurde inzwischen kommerzialisiert. Für die Datenanalyse ist Software nötig, die Gelverzerrungen ausgleichen kann. Hier wird eine Anleitung für die Anwendung von Delta2D (DECODON) für diesen Zweck bereitgestellt.</abstract>
+                    <subject lang="ger">
+                        <topic>2D-PAGE</topic>
+                        <topic>Gelelektrophorese</topic>
+                        <topic>Standardisierung</topic>
+                        <topic>Proteine</topic>
+                        <topic>Fluoreszenzfarbstoffe</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>2D-PAGE</topic>
+                        <topic>gel electrophoresis</topic>
+                        <topic>standardisation</topic>
+                        <topic>proteins</topic>
+                        <topic>fluorescent dyes</topic>
+                    </subject>
+                    <classification authority="ddc">572</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Mercator Journal of Biomolecular Analysis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Mercator Journal of Biomolecular Analysis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>45</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97129496060</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/3.0/de/">CC BY-SA 3.0  DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ceb7b306-a97b-4aa9-821b-e5e667c6354d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ceb7b306-a97b-4aa9-821b-e5e667c6354d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ceb7b306-a97b-4aa9-821b-e5e667c6354d/mercator-journal_2018_2_1.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ceb7b306-a97b-4aa9-821b-e5e667c6354d" DMDID="DMD_ceb7b306-a97b-4aa9-821b-e5e667c6354d">
+            <mets:fptr FILEID="FILE_ceb7b306-a97b-4aa9-821b-e5e667c6354d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

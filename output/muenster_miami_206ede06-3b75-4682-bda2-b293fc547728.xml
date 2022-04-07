@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_206ede06-3b75-4682-bda2-b293fc547728">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulare Charakterisierung der SasC-vermittelten Biofilmbildung in Staphylococcus aureus</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1225567211">
+                        <displayForm>Britz, Luise</displayForm>
+                        <namePart type="given">Luise</namePart>
+                        <namePart type="family">Britz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173068154">
+                        <displayForm>Heilmann, Christine</displayForm>
+                        <namePart type="given">Christine</namePart>
+                        <namePart type="family">Heilmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-01-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-07-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Fähigkeit von S. aureus zur Biofilmbildung stellt eine Herausforderung bei Biofilm-assoziierten Infektionen dar. Das S. aureus surface protein C (SasC) vermittelt Aggregation und Biofilmbildung. Frühere Studien haben gezeigt, dass die funktionelle(n) Domänen(n) im N-Terminus lokalisiert sind. Dort finden sich neben einem LPXTG-Motiv, drei kleine (SR) und zwei große Repeats (LR) sowie eine FIVAR-Domäne. In dieser Arbeit wurden in vitro Studien mit heterolog exprimierten Subdomänen durchgeführt, die auf homotypische und heterotypische Interaktionen der SasC-Subdomänen hinweisen. So können die SR und die LR in verschiedenen Kombinationen und auch die FIVAR-Domäne an der Vermittlung der SasC-abhängigen Interaktion beteiligt sein. In vivo Studien mit sasC-Subklonen weisen darauf hin, dass die strukturelle Orientierung von SasC an der Zelloberfläche eine wichtige Rolle spielt. Die Stärke der Aggregation und Biofilmbildung ist stark davon abhängig, welche Subdomänen exprimiert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>S. aureus</topic>
+                        <topic>Biofilm</topic>
+                        <topic>MSCRAMM</topic>
+                        <topic>SasC</topic>
+                        <topic>Protein-Protein-Interaktion</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-08089438215</identifier>
+                    <identifier type="sys">HT020705959</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_206ede06-3b75-4682-bda2-b293fc547728</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_206ede06-3b75-4682-bda2-b293fc547728_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/206ede06-3b75-4682-bda2-b293fc547728/diss_britz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_206ede06-3b75-4682-bda2-b293fc547728" DMDID="DMD_206ede06-3b75-4682-bda2-b293fc547728">
+            <mets:fptr FILEID="FILE_206ede06-3b75-4682-bda2-b293fc547728_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

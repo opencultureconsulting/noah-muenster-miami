@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_427840b9-a446-4985-9905-ba0714bc3477">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="fre">
+                        <title>E-Universités</title>
+                        <subTitle>la construction d&apos;un droit des communs du savoir</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1156813514">
+                        <displayForm>Kamocki, Paweł</displayForm>
+                        <namePart type="given">Paweł</namePart>
+                        <namePart type="family">Kamocki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1030597626">
+                        <displayForm>Zolynski, Célia</displayForm>
+                        <namePart type="given">Célia</namePart>
+                        <namePart type="family">Zolynski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-04-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-10-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine E-Universität ist eine Universität, die Informations- und Kommunikationstechnologie einsetzt, um ihre traditionellen Aufgaben zu erfüllen. Ihre Tätigkeiten umfassen die Sammlung und die Analyse von Forschungsdaten, die Verbreitung wissenschaftlicher Literatur und die Bereitstellung digitaler Bildungsressourcen. Allerdings unterliegen die dazu erforderlichen immateriellen Güter oftmals dem Schutz des geistigen Eigentums. Inspiriert durch die traditionellen Werte des Ethos der Wissenschaft, wurde das Open Science Konzept geschaffen, um den Zugang zu Forschungsdaten, wissenschaftlicher Literatur und Bildungsressourcen zu fördern. Diese Standards sind in öffentlichen Lizenzen kodifiziert. In den letzten Jahren haben sich nicht allein Universitäten, sondern auch Agenturen für Forschungsförderung und sogar nationale Gesetzgeber aktiv in der Förderung des öffentlichen Wissensschatzes engagiert.</abstract>
+                    <subject lang="ger">
+                        <topic>Allmende</topic>
+                        <topic>Urheberrecht</topic>
+                        <topic>Forschung</topic>
+                        <topic>Unterricht</topic>
+                        <topic>Universität</topic>
+                        <topic>Datenbank</topic>
+                        <topic>Open Access</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ddc">001</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-38189496371</identifier>
+                    <identifier type="sys">HT019666722</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_427840b9-a446-4985-9905-ba0714bc3477</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_427840b9-a446-4985-9905-ba0714bc3477_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/427840b9-a446-4985-9905-ba0714bc3477/diss_kamocki.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_427840b9-a446-4985-9905-ba0714bc3477" DMDID="DMD_427840b9-a446-4985-9905-ba0714bc3477">
+            <mets:fptr FILEID="FILE_427840b9-a446-4985-9905-ba0714bc3477_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

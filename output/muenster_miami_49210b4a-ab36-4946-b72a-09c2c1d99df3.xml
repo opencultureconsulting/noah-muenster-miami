@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_49210b4a-ab36-4946-b72a-09c2c1d99df3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Nonequilibrium dynamics of mixtures of active and passive colloidal particles</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024195074">
+                        <displayForm>Wittkowski, Raphael</displayForm>
+                        <namePart type="given">Raphael</namePart>
+                        <namePart type="family">Wittkowski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stenhammar, Joakim</displayForm>
+                        <namePart type="given">Joakim</namePart>
+                        <namePart type="family">Stenhammar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/156923173">
+                        <displayForm>Cates, Michael E.</displayForm>
+                        <namePart type="given">Michael E.</namePart>
+                        <namePart type="family">Cates</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-03-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We develop a mesoscopic field theory for the collective nonequilibrium dynamics of multicomponent mixtures of interacting active (i.e., motile) and passive (i.e., nonmotile) colloidal particles with isometric shape in two spatial dimensions. By a stability analysis of the field theory, we obtain equations for the spinodal that describes the onset of a motility-induced instability leading to cluster formation in such mixtures. The prediction for the spinodal is found to be in good agreement with particle-resolved computer simulations. Furthermore, we show that in active-passive mixtures the spinodal instability can be of two different types. One type is associated with a stationary bifurcation and occurs also in one-component active systems, whereas the other type is associated with a Hopf bifurcation and can occur only in active-passive mixtures. Remarkably, the Hopf bifurcation leads to moving clusters. This explains recent results from simulations of active-passive particle mixtures, where moving clusters and interfaces that are not seen in the corresponding one-component systems have been observed.</abstract>
+                    <note>New Journal of Physics 19 (2017) 105003, 1-16</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2017 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>active colloidal particles</topic>
+                        <topic>active-passive mixtures</topic>
+                        <topic>motility-induced instability</topic>
+                        <topic>mesoscopic field theory
+particle-resolved simulations</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85169510228</identifier>
+                    <identifier type="doi">10.1088/1367-2630/aa8195</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_49210b4a-ab36-4946-b72a-09c2c1d99df3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_49210b4a-ab36-4946-b72a-09c2c1d99df3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/49210b4a-ab36-4946-b72a-09c2c1d99df3/artikel_wittkowski_2017.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_49210b4a-ab36-4946-b72a-09c2c1d99df3" DMDID="DMD_49210b4a-ab36-4946-b72a-09c2c1d99df3">
+            <mets:fptr FILEID="FILE_49210b4a-ab36-4946-b72a-09c2c1d99df3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

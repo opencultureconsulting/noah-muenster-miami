@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_724711e9-08bf-4e82-b6a1-f343fd64367e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Studien zur Entwicklung der barocken Altarbaukunst in den Rheinlanden</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142378984">
+                        <displayForm>Reuter, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Reuter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124401120">
+                        <displayForm>Noehles, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Noehles</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2001-06-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Untersuchung wird die Entwicklung der barocken Retabelarchitektur im Rheinland dargestellt, vom flachschichtigen Altarportal zu tiefenräumlichen Altarbühnen bzw. zu transparenten Altararchitekturen, geordnet in einer Typologie. Bearbeitungsschwerpunkt bildet der Raum Köln-Bonn. In Einzelanalysen werden exemplarisch ausgewählte Beispiele ikonographisch bearbeitet und auf ihre Einflüsse hin untersucht. Römische Altararchitekturen, verbreitet über Stichwerke, süddeutscher Einfluß und vor allem die bedeutenden flämischen Altarretabel haben maßgeblich die Retabelarchitekturen im Rheinland geprägt.</abstract>
+                    <subject lang="ger">
+                        <topic>Barock</topic>
+                        <topic>Altarretabel</topic>
+                        <topic>Architektur</topic>
+                        <topic>Köln</topic>
+                        <topic>Brühl</topic>
+                        <topic>Bad Godesberg</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <classification authority="ddc">720</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27439507977</identifier>
+                    <identifier type="sys">HT016521586</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_724711e9-08bf-4e82-b6a1-f343fd64367e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_724711e9-08bf-4e82-b6a1-f343fd64367e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/724711e9-08bf-4e82-b6a1-f343fd64367e/diss_reuter.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_724711e9-08bf-4e82-b6a1-f343fd64367e" DMDID="DMD_724711e9-08bf-4e82-b6a1-f343fd64367e">
+            <mets:fptr FILEID="FILE_724711e9-08bf-4e82-b6a1-f343fd64367e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

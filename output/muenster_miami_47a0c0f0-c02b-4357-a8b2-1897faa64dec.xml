@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_47a0c0f0-c02b-4357-a8b2-1897faa64dec">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>TRPC1-Kanäle bei der druckabhängigen Aktivierung von pankreatischen Sternzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1215919905">
+                        <displayForm>Gruner, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Gruner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1216198209">
+                        <displayForm>Schwab, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Schwab</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-06-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Quelle des Stromas im Pankreaskarzinom sind pankreatische Sternzellen (PSCs). Diese werden durch den erhöhten hydrostatischen Druck im Pankreaskarzinom aktiviert. Daran ist der Kationenkanal TRPC1 beteiligt, der in manchen Zellarten am store operated calcium entry (SOCE) beteiligt ist. Diese Arbeit untersucht an ruhenden murinen PSCs die initiale Aktivierung durch Druck und an TRPC1-knockout (KO)-PSCs, ob TRPC1 an dieser Aktivierung und am SOCE in PSCs beteiligt ist. Zunehmende alpha-SMA-Expression, weniger Lipidtröpfchen und schnellere Migration zeigten eine zusätzliche Aktivierung der PSCs durch zusätzlichen Druck von 100 mmHg nur in den ersten Tagen nach der Isolation. TRPC1-KO-PSCs zeigten keine vermehrte alpha-SMA-Expression unter Druck. Die Höhe des SOCE war in Wildtyp- und TRPC1-KO-PSCs gleich. Damit werden ruhende PSCs morphologisch und funktionell durch Druck aktiviert. TRPC1 ist Bestandteil der Druckaktivierung. TRPC1 ist in PSCs nicht direkt am SOCE beteiligt.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2020</note>
+                    <subject lang="ger">
+                        <topic>TRPC1</topic>
+                        <topic>Druck</topic>
+                        <topic>Pankreatische Sternzellen</topic>
+                        <topic>Mechanosensitive Ionenkanäle</topic>
+                        <topic>SOCE</topic>
+                        <topic>Pankreatisches duktales Adenokarzinom</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10149597524</identifier>
+                    <identifier type="sys">HT020554112</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_47a0c0f0-c02b-4357-a8b2-1897faa64dec</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_47a0c0f0-c02b-4357-a8b2-1897faa64dec_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/47a0c0f0-c02b-4357-a8b2-1897faa64dec/diss_gruner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_47a0c0f0-c02b-4357-a8b2-1897faa64dec" DMDID="DMD_47a0c0f0-c02b-4357-a8b2-1897faa64dec">
+            <mets:fptr FILEID="FILE_47a0c0f0-c02b-4357-a8b2-1897faa64dec_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

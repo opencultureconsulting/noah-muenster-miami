@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_212c05a6-e37d-493f-ba83-e84440b79248">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sacrae Musices Cultor et Propagator</title>
+                        <subTitle>Fortunato Santinis Bearbeitung von Carl Heinrich Grauns &quot;Der Tod Jesu&quot; als Beispiel der Pflege deutscher geistlicher Musik im Italien des frühen 19. Jahrhunderts</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea</displayForm>
+                        <namePart type="given">Andrea</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea Pietro</displayForm>
+                        <namePart type="given">Andrea Pietro</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Magisterarbeit wird Fortunato Santinis italienische Bearbeitung von Carl Heinrich Grauns &quot;Der Tod Jesu&quot; hinsichtlich kontextueller, textlicher und musikalischer Aspekte untersucht.</abstract>
+                    <note>Die Magisterarbeit ist als reduzierter Beitrag im Kirchenmusikalischen Jahrbuch erschienen: http://nbn-resolving.de/urn:nbn:de:hbz:6-50249574608</note>
+                    <subject lang="ger">
+                        <topic>Santini, Fortunato</topic>
+                        <topic>Graun, Carl Heinrich</topic>
+                        <topic>Bearbeitung</topic>
+                        <topic>Geistliche Musik</topic>
+                        <topic>Rezeption</topic>
+                        <topic>Italien</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-40239443748</identifier>
+                    <identifier type="sys">HT019578903</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_212c05a6-e37d-493f-ba83-e84440b79248</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_212c05a6-e37d-493f-ba83-e84440b79248_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/212c05a6-e37d-493f-ba83-e84440b79248/magister_ammendola_2005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_212c05a6-e37d-493f-ba83-e84440b79248" DMDID="DMD_212c05a6-e37d-493f-ba83-e84440b79248">
+            <mets:fptr FILEID="FILE_212c05a6-e37d-493f-ba83-e84440b79248_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

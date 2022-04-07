@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c5da43cd-a4f6-4a47-a26a-57e350dca329">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Model for Fine-Grained Alignment of Multilingual Texts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cyrus, Lea</displayForm>
+                        <namePart type="given">Lea</namePart>
+                        <namePart type="family">Cyrus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Feddes, Hendrik</displayForm>
+                        <namePart type="given">Hendrik</namePart>
+                        <namePart type="family">Feddes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-06-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-06-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">While alignment of texts on the sentential level is often seen as being too coarse, and word alignment as being too fine-grained, bi- or multilingual texts which are aligned on a level in-between are a useful resource for many purposes. Starting from a number of examples of non-literal translations, which tend to make alignment difficult, we describe an alignment model which copes with these cases by explicitly coding them. The model is based on predicate-argument structures and thus covers the middle ground between sentence and word alignment. The model is currently used in a recently initiated project of a parallel English-German treebank (FuSe), which can in principle be extended with additional languages.</abstract>
+                    <note type="citation/reference">Proc. COLING 2004 Workshop on Multilingual Linguistic Resources (MLR2004). Geneva, August 28 (2004), S. 15-22</note>
+                    <subject lang="ger">
+                        <topic>Korpuslinguistik</topic>
+                        <topic>Computerlinguistik</topic>
+                        <topic>syntaktische Annotation</topic>
+                        <topic>semantische Annotation</topic>
+                    </subject>
+                    <classification authority="ddc">400</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92619507330</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c5da43cd-a4f6-4a47-a26a-57e350dca329</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c5da43cd-a4f6-4a47-a26a-57e350dca329_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c5da43cd-a4f6-4a47-a26a-57e350dca329/0408_coling.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c5da43cd-a4f6-4a47-a26a-57e350dca329" DMDID="DMD_c5da43cd-a4f6-4a47-a26a-57e350dca329">
+            <mets:fptr FILEID="FILE_c5da43cd-a4f6-4a47-a26a-57e350dca329_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

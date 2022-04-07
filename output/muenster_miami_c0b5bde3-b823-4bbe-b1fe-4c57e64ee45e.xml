@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c0b5bde3-b823-4bbe-b1fe-4c57e64ee45e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Provenance analysis of sediments from IODP Expedition 341 sites U1417 and U1418</title>
+                        <subTitle>implications on climate-tectonic interactions at the southern Alaska continental margin</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1188625608">
+                        <displayForm>Huber, Barbara</displayForm>
+                        <namePart type="given">Barbara</namePart>
+                        <namePart type="family">Huber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/11122585X">
+                        <displayForm>Bahlburg, Heinrich</displayForm>
+                        <namePart type="given">Heinrich</namePart>
+                        <namePart type="family">Bahlburg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-06-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-04-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Kontinentalrand des südlichen Alaska, charakterisiert durch das höchste küstennahe Gebirge der Erde, das St. Elias Gebirge, bietet besonders gute Bedingungen für die Untersuchung der Interaktion von Klima und Tektonik in einem aktiven Orogen. Dessen Bildung während der letzten 10 Ma fiel zusammen mit substantiellen Veränderungen des Klimas die zu einer starken Vereisung des Gebietes führten. Der Großteil des Sediments, das während der Gebirgsbildung erodiert worden ist, wurde im Bereich des heutigen Surveyor Fan im Golf von Alaska abgelagert. Dieses wurden währen IODP Expedition 341 erbohrt. Wir präsentieren eine Multi-Methoden-Provenanzanalyse von Sedimenten aus 2 dieser Bohrungen im distalen und proximalen Surveyor Fan. Diese basiert auf geochemischen Einzelkornanalysen an Amphibol Granat, Pyroxen, Epidot, Zirkon- U/Pb- und (U-Th)/He- Datierungen, REE-Analysen, Ar-Ar- Datierung von Amphibol und Glimmer sowie point counting von Leicht- und Schwermineralen.</abstract>
+                    <subject lang="ger">
+                        <topic>Alaska</topic>
+                        <topic>Provenanz</topic>
+                        <topic>Klima-Tektonik-Interaktion</topic>
+                        <topic>Sediment</topic>
+                        <topic>Zirkon</topic>
+                        <topic>Granat</topic>
+                        <topic>Amphibol</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-54169657878</identifier>
+                    <identifier type="sys">HT020105225</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc/4.0">CC BY-NC 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c0b5bde3-b823-4bbe-b1fe-4c57e64ee45e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c0b5bde3-b823-4bbe-b1fe-4c57e64ee45e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c0b5bde3-b823-4bbe-b1fe-4c57e64ee45e/diss_huber.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c0b5bde3-b823-4bbe-b1fe-4c57e64ee45e" DMDID="DMD_c0b5bde3-b823-4bbe-b1fe-4c57e64ee45e">
+            <mets:fptr FILEID="FILE_c0b5bde3-b823-4bbe-b1fe-4c57e64ee45e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

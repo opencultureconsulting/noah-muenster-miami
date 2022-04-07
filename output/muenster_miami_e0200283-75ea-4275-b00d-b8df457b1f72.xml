@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e0200283-75ea-4275-b00d-b8df457b1f72">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>wirtschaftliche Position der Niederlande – wirklich besser als die deutsche?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113826605">
+                        <displayForm>Paridon, Kees van</displayForm>
+                        <namePart type="given">Kees van</namePart>
+                        <namePart type="family">Paridon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1111529930">
+                        <displayForm>Klinzmann, Annegret</displayForm>
+                        <namePart type="given">Annegret</namePart>
+                        <namePart type="family">Klinzmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Der Beitrag basiert auf einem Vortrag, den der Autor am 5. Februar 2003 am Zentrum für Niederlande-Studien gehalten hat.</note>
+                    <note type="ownership">Digitale Publikation mit Genehmigung des Aschendorff-Verlages Münster</note>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch / Zentrum für Niederlande-Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Jahrbuch / Zentrum für Niederlande-Studien</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>139</start>
+                                <end>164</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17169514515</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e0200283-75ea-4275-b00d-b8df457b1f72</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e0200283-75ea-4275-b00d-b8df457b1f72_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e0200283-75ea-4275-b00d-b8df457b1f72/jahrbuch_zns_2003_14_139-164.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e0200283-75ea-4275-b00d-b8df457b1f72" DMDID="DMD_e0200283-75ea-4275-b00d-b8df457b1f72">
+            <mets:fptr FILEID="FILE_e0200283-75ea-4275-b00d-b8df457b1f72_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

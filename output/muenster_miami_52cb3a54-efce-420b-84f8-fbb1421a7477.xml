@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_52cb3a54-efce-420b-84f8-fbb1421a7477">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Robert Burns. Autor ohne Werk?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112168825X">
+                        <displayForm>Lemke, Cordula</displayForm>
+                        <namePart type="given">Cordula</namePart>
+                        <namePart type="family">Lemke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dieser Beitrag untersucht die Funktionalisierung der Biographie des schottischen Dichters Robert Burns und fragt, wie die Mythenbildung um seine Person sein dichterisches Werk so überschatten konnte, dass es hinter seiner Biographie zu verschwinden scheint. Eine vereinheitlichende Interpretation von Burns’ Gedichten ist durch deren vielfältige Themen und Positionen immer neu zum Scheitern verurteilt. Obwohl sich diese Pluralität auch in Burns’ Biographie finden lässt, wurde diese im Lauf der Jahre immer stärker funktionalisiert, so dass sie heute häufig als Katalysator für die Zusammensetzung des Burnsschen Kanons fungiert und so den Fokus auf die Biographie weiter perpetuiert.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77159507258</identifier>
+                    <identifier type="doi">10.17879/77159506879</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_52cb3a54-efce-420b-84f8-fbb1421a7477</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_52cb3a54-efce-420b-84f8-fbb1421a7477_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/52cb3a54-efce-420b-84f8-fbb1421a7477/textpraxis_2018_s3_lemke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_52cb3a54-efce-420b-84f8-fbb1421a7477" DMDID="DMD_52cb3a54-efce-420b-84f8-fbb1421a7477">
+            <mets:fptr FILEID="FILE_52cb3a54-efce-420b-84f8-fbb1421a7477_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

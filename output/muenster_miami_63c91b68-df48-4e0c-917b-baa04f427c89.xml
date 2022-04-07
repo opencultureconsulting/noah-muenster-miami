@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_63c91b68-df48-4e0c-917b-baa04f427c89">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Ziegenproblem</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112124445">
+                        <displayForm>Grabinger, Benno</displayForm>
+                        <namePart type="given">Benno</namePart>
+                        <namePart type="family">Grabinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112124445">
+                        <displayForm>Grabinger, B.</displayForm>
+                        <namePart type="given">B.</namePart>
+                        <namePart type="family">Grabinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-28</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Ziegenproblem wird zur Simulation auf dem Taschencomputer TI-92 aufbereitet.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, darf zu Schulzwecken eingesetzt werden!</note>
+                    <note type="citation/reference">T³-Materialien Stochastik (ISBN 3-934064-34-5)</note>
+                    <subject lang="ger">
+                        <topic>Stochastik</topic>
+                        <topic>Simulation</topic>
+                        <topic>neue Medien</topic>
+                        <topic>Ziegenproblem</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>Derive</topic>
+                        <topic>Lehrerfortbildung</topic>
+                        <topic>Mathematik</topic>
+                        <topic>T³</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541850</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_63c91b68-df48-4e0c-917b-baa04f427c89</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_63c91b68-df48-4e0c-917b-baa04f427c89_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/63c91b68-df48-4e0c-917b-baa04f427c89/Stochastik_3_Anhang.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_63c91b68-df48-4e0c-917b-baa04f427c89" DMDID="DMD_63c91b68-df48-4e0c-917b-baa04f427c89">
+            <mets:fptr FILEID="FILE_63c91b68-df48-4e0c-917b-baa04f427c89_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

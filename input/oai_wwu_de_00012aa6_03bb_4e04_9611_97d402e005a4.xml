@@ -1,0 +1,236 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:00012aa6-03bb-4e04-9611-97d402e005a4" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:34:16">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_00012aa6-03bb-4e04-9611-97d402e005a4">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">A coupled bulk-surface reaction-diffusion-advection model for cell polarization</mods:title>
+                  </mods:titleInfo>
+                  <mods:titleInfo type="alternative" lang="eng">
+                    <mods:title script="Latn">A coupled bulk surface reaction diffusion advection model for cell polarization</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1122462239">
+                    <mods:namePart type="given">Natalie</mods:namePart>
+                    <mods:namePart type="family">Emken</mods:namePart>
+                    <mods:namePart type="date">1986-</mods:namePart>
+                    <mods:displayForm>Emken, Natalie</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/139810196">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Engwer</mods:namePart>
+                    <mods:displayForm>Engwer, Christian</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2016</mods:dateIssued>
+                    <mods:dateOther>2016-11-07</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2016-12-28</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-12-28</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Diese Arbeit beschäftigt sich mit der mathematischen Simulation der Zellpolarität, ein Prozess der grundlegend für verschiedene Zellfunktionen in unterschiedlichen Zelltypen ist. Basierend auf einem Modell das Polarität in der knospenden Hefe Saccharomyces cerevisiae beschreibt, wird ein generisches Modell zur Simulation der Zellpolarität hergeleitet. Das besondere und neue an diesem Modell ist die Berücksichtigung eines internen Transportmechanismus. Das System basiert zudem auf gekoppelten Oberflächen-Volumen Reaktions-Diffusions-Advektions-Gleichungen und ist damit auf unterschiedliche Geometrien anwendbar. Es werden numerische Ergebnisse in 2D und 3D präsentiert und mit experimentellen Daten verglichen. Mittels einer linearen Stabilitätsanalyse werden Bedingungen für eine transportgetriebene Instabilität hergeleitet und schließlich numerisch untermauert. Abschließend wird der kontinuierliche Ansatz zur Modellierung des Molekültransports mit einem stochastischen Modell verglichen.</mods:abstract>
+                  <mods:abstract lang="eng">This thesis focuses on the mathematical simulation of cell polarity, a process fundamental to the function of many cell types. Based on a model that describes polarity in the budding yeast Saccharomyces cerevisiae, a generic model for the simulation of cell polarity is derived. Particularly, this model considers an internal active molecule transport. In addition, the system is based on coupled bulk-surface reaction-diffusion-advection equations and hence applicable to different geometries. Numerical results in 2D and 3D are presented and compared to experimental data. By a linear stability analysis, conditions for a transport-driven instability are derived and numerically verified. In order to conclude this work, the continuous approach for molecule movement is compared to a stochastic model.</mods:abstract>
+                  <mods:tableOfContents lang="eng">1. Introduction 1&#13;
+1.1. Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1&#13;
+1.2. Objective . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2&#13;
+1.3. Outline . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3&#13;
+2. Biological preliminaries 5&#13;
+2.1. The mechanism of cell polarity . . . . . . . . . . . . . . . . . . . . . 5&#13;
+2.2. The role of the cytoskeleton . . . . . . . . . . . . . . . . . . . . . . 7&#13;
+2.3. The Rho GTPases as key regulators in cell polarity . . . . . . . . . 8&#13;
+2.4. Yeast as a model system for cell polarity . . . . . . . . . . . . . . . 9&#13;
+2.4.1. Yeast polarity pathways and Cdc42 as key regulator . . . . . 11&#13;
+2.4.2. Models for yeast cell polarity . . . . . . . . . . . . . . . . . 19&#13;
+3. Mathematical preliminaries 29&#13;
+3.1. Mathematics of reaction-diffusion-advection equations . . . . . . . . 29&#13;
+3.1.1. Conservation principles . . . . . . . . . . . . . . . . . . . . . 31&#13;
+3.1.2. Diffusion and advection . . . . . . . . . . . . . . . . . . . . 32&#13;
+3.1.3. Initial and boundary conditions . . . . . . . . . . . . . . . . 34&#13;
+3.1.4. Systems of reaction-diffusion-advection equations . . . . . . 36&#13;
+3.2. Stability analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37&#13;
+3.2.1. Stability of linear systems . . . . . . . . . . . . . . . . . . . 39&#13;
+3.2.2. Principle of linearized stability . . . . . . . . . . . . . . . . . 42&#13;
+3.3. Turing instability and pattern formation . . . . . . . . . . . . . . . 43&#13;
+3.4. Traveling waves in reaction-diffusion equations . . . . . . . . . . . . 49&#13;
+3.5. Sobolev spaces and the weak formulations . . . . . . . . . . . . . . 51&#13;
+3.6. Coupled bulk-surface PDEs . . . . . . . . . . . . . . . . . . . . . . 56&#13;
+4. Numerical methods 61&#13;
+4.1. Triangulations and ansatz spaces . . . . . . . . . . . . . . . . . . . 61&#13;
+4.2. Finite Elements and the Galerkin method . . . . . . . . . . . . . . 63&#13;
+4.3. Finite volume methods . . . . . . . . . . . . . . . . . . . . . . . . . 65&#13;
+4.3.1. Dual box-grids . . . . . . . . . . . . . . . . . . . . . . . . . 65&#13;
+4.3.2. Upwind stabilization . . . . . . . . . . . . . . . . . . . . . . 67&#13;
+4.4. Time discretization . . . . . . . . . . . . . . . . . . . . . . . . . . . 69&#13;
+5. Computational implementation 71&#13;
+5.1. The DUNE framework . . . . . . . . . . . . . . . . . . . . . . . . . 71&#13;
+5.1.1. DUNE core modules . . . . . . . . . . . . . . . . . . . . . . 72&#13;
+5.1.2. Dune-multidomain and dune-multidomaingrid . . . . . . . . 73&#13;
+5.2. Numerical treatment of coupled bulk-surface problems . . . . . . . 75&#13;
+5.3. Dual grid assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . 77&#13;
+5.4. The implementation of test problems . . . . . . . . . . . . . . . . . 79&#13;
+5.4.1. A coupled-bulk-surface test problem . . . . . . . . . . . . . 79&#13;
+5.4.2. An advection-dominated test problem . . . . . . . . . . . . . 83&#13;
+5.5. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85&#13;
+6. A continuous reaction-diffusion-advection model for yeast cell polarization&#13;
+87&#13;
+6.1. The reaction-diffusion system . . . . . . . . . . . . . . . . . . . . . 87&#13;
+6.2. The reaction-diffusion-advection system . . . . . . . . . . . . . . . . 91&#13;
+6.2.1. Transport from and to internal membranes . . . . . . . . . . 92&#13;
+6.2.2. Transport through a domain . . . . . . . . . . . . . . . . . . 97&#13;
+6.3. Numerical simulations . . . . . . . . . . . . . . . . . . . . . . . . . 99&#13;
+6.3.1. Polarization in the absence of actin-mediated transport . . . 103&#13;
+6.3.2. Enhanced polarization by actin-mediated transport . . . . . 105&#13;
+6.3.3. Actin-mediated transport in the absence of Bem1 . . . . . . 109&#13;
+6.3.4. Actin-mediated transport in the absence of GDI . . . . . . . 116&#13;
+6.4. Model comparison . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119&#13;
+6.5. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120&#13;
+7. Derivation of a generic bulk-surface reaction-diffusion-advection system123&#13;
+7.1. Model reduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123&#13;
+7.2. Non-dimensionalization . . . . . . . . . . . . . . . . . . . . . . . . . 125&#13;
+7.3. The generic coupled bulk-surface reaction-diffusion-advection system 128&#13;
+7.3.1. Numerical results . . . . . . . . . . . . . . . . . . . . . . . . 129&#13;
+7.3.2. Applications of models from the literature . . . . . . . . . . 143&#13;
+7.4. Linear stability analysis . . . . . . . . . . . . . . . . . . . . . . . . 152&#13;
+7.4.1. Numerical results . . . . . . . . . . . . . . . . . . . . . . . . 170&#13;
+7.5. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173&#13;
+8. A stochastic approach to vesicular trafficking-mediated cell polarity 177&#13;
+8.1. Brownian motion on a surface . . . . . . . . . . . . . . . . . . . . . 177&#13;
+8.1.1. The two-dimensional case . . . . . . . . . . . . . . . . . . . 178&#13;
+8.1.2. The three-dimensional case . . . . . . . . . . . . . . . . . . . 178&#13;
+8.2. Derivation of the stochastic model . . . . . . . . . . . . . . . . . . . 180&#13;
+8.3. Numerical results . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182&#13;
+8.4. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184&#13;
+9. Summary and outlook 187&#13;
+A. Chemical reactions 191&#13;
+B. Spherical harmonics 193&#13;
+C. Glossary 195&#13;
+D. Notation and symbols 199&#13;
+Bibliography 201</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Zellpolarität; Bulk-Surface Systeme; Musterbildung; Turing Instabilität; Polaritätsmodelle; Reaktions-Diffusions Systeme; Reaktions-Diffusions-Advektions Systeme</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">cell polarity; bulk-surface systems; pattern formation; Turing instability; polarity models; reaction-diffusion systems; reaction-diffusion-advection systems</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-93269696672</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/00012aa6-03bb-4e04-9611-97d402e005a4</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:00012aa6-03bb-4e04-9611-97d402e005a4</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_00012aa6-03bb-4e04-9611-97d402e005a4">
+            <mets:rightsMD ID="RIGHTSMD_00012aa6-03bb-4e04-9611-97d402e005a4">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_00012aa6-03bb-4e04-9611-97d402e005a4">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/00012aa6-03bb-4e04-9611-97d402e005a4</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="94897ddad377ac1ec15089014f55c9e4347a78ee0d5e5bcfe3ae26bf476aa462" CREATED="2016-12-28T08:25:32" CHECKSUMTYPE="SHA-256" SIZE="50015589" ID="ID_FIL_diss_emken.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/00012aa6-03bb-4e04-9611-97d402e005a4/diss_emken.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW00012aa6-03bb-4e04-9611-97d402e005a4">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/00012aa6-03bb-4e04-9611-97d402e005a4" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_00012aa6-03bb-4e04-9611-97d402e005a4" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_emken.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_emken.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_00012aa6-03bb-4e04-9611-97d402e005a4" DMDID="DMD_00012aa6-03bb-4e04-9611-97d402e005a4" ID="ID_LOG_00012aa6-03bb-4e04-9611-97d402e005a4" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_emken.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_00012aa6-03bb-4e04-9611-97d402e005a4" xlink:to="ID_PHY_00012aa6-03bb-4e04-9611-97d402e005a4"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_emken.pdf" xlink:to="ID_PHY_diss_emken.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0602cb77-3e78-47c5-88a5-46c5b0979748">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Invariants for permutation-Hermite equivalence and critical dimension groups</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1080934189">
+                        <displayForm>Handelman, David</displayForm>
+                        <namePart type="given">David</namePart>
+                        <namePart type="family">Handelman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1080934189">
+                        <displayForm>Handelman, David Eli</displayForm>
+                        <namePart type="given">David Eli</namePart>
+                        <namePart type="family">Handelman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-10-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Motivated by classification, up to order isomorphism, of dense subgroups of Euclidean space that are free of minimal rank, we obtain apparently new invariants for an equivalence relation (intermediate between Hermite and Smith) on integer matrices. These then participate in the classification of the dense subgroups. The same equivalence relation has appeared before, in the classification of lattice simplices. We discuss this equivalence relation (called permutation-Hermite), obtain fairly fine invariants for it, and have density results, and some formulas counting the numbers of equivalence classes for fixed determinant.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>49</start>
+                                <end>156</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87109580116</identifier>
+                    <identifier type="doi">10.17879/87109579816</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0602cb77-3e78-47c5-88a5-46c5b0979748</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0602cb77-3e78-47c5-88a5-46c5b0979748_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0602cb77-3e78-47c5-88a5-46c5b0979748/mjm_2018_11_49-156.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0602cb77-3e78-47c5-88a5-46c5b0979748" DMDID="DMD_0602cb77-3e78-47c5-88a5-46c5b0979748">
+            <mets:fptr FILEID="FILE_0602cb77-3e78-47c5-88a5-46c5b0979748_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

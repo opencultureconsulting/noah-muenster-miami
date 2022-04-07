@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_eb806870-a4a8-403a-824d-44a1d8c67264">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Heerwesen, Gemeindeordnung und städtische Interessenpolitik im Vormärz dargestellt am Beispiel der rheinischen Kommunen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14357650X">
+                        <displayForm>Schmidt, Rüdiger Achim</displayForm>
+                        <namePart type="given">Rüdiger Achim</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sicken, Bernhard</displayForm>
+                        <namePart type="given">Bernhard</namePart>
+                        <namePart type="family">Sicken</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1995</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-01-04</dateIssued>
+                        <dateOther encoding="w3cdtf">1995-02-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Untersuchung thematisiert für den Zeitraum des Vormärz die Rolle und Funktion zivil-militärischer Beziehungen am Beispiel ausgewählter Kommunen der preußischen Rheinprovinz. Dabei orientiert sich die leitende Fragestellung an den kommunalen wie auch militärischen Zielvorstellungen, Voraussetzungen und Interessen, die eine Dislokation von Truppen in einem vom preußischen Staat neu erworbenem Territorium ermöglichten oder verhinderten. Waren die Kommunen zumeist aus ökonomischen Motiven an einer militärischen Belegung interessiert, so konnten sie weiterführende Bedürfnisse zumeist nur im Einzelfall behaupten, in der Regel waren sie dem militärfiskalischen Regulierungsdruck erlegen. Das Militär wirkte ökonomisch belebend, in größeren Städten z.T. auch modernisierend; dort vor allem in bezug auf die den Ausbau der Infrastruktur, aber auch die dysfunktionalen Elemente, die der bewaffneten Nacht zuzuschreiben sind, blieben nicht ohne Bedeutung und Eigengewicht auf der kommunalen Bilanzseite.</abstract>
+                    <subject lang="ger">
+                        <topic>Preußisches Militär</topic>
+                        <topic>Rheinprovinz</topic>
+                        <topic>Stadtgeschichte</topic>
+                        <topic>zivil-militärische Beziehungen</topic>
+                        <topic>Garnison</topic>
+                        <topic>Kasernierung</topic>
+                        <topic>lokale Wirtschaft</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-75459404655</identifier>
+                    <identifier type="sys">HT016714529</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_eb806870-a4a8-403a-824d-44a1d8c67264</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_eb806870-a4a8-403a-824d-44a1d8c67264_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/eb806870-a4a8-403a-824d-44a1d8c67264/diss_schmidt_ruediger.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_eb806870-a4a8-403a-824d-44a1d8c67264" DMDID="DMD_eb806870-a4a8-403a-824d-44a1d8c67264">
+            <mets:fptr FILEID="FILE_eb806870-a4a8-403a-824d-44a1d8c67264_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

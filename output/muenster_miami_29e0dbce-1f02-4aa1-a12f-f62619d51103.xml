@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_29e0dbce-1f02-4aa1-a12f-f62619d51103">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von Buchstaben und Geist</title>
+                        <subTitle>Pragmatische und symbolische Dimensionen der Autorensiglen (nomina auctorum) bei Hrabanus Maurus</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1076087728">
+                        <displayForm>Steckel, Sita</displayForm>
+                        <namePart type="given">Sita</namePart>
+                        <namePart type="family">Steckel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-03-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Aufsatz diskutiert die sogenannten &apos;Autorensiglen&apos; des Hrabanus Maurus, also die materiellen Kennzeichnungen im Layout frühmittelalterlicher Bibelkommentare, mithilfe derer die Zitierung bestimmter Autoritätentexte gekennzeichnet wurde. Der Aufsatz argumentiert, dass die Siglen nicht nur der Kennzeichnung von Zitaten im Sinne moderner Fußnoten dienten, sondern auch ein visuelles und materielles System der Visualisierung und teils Hierarchisierung pluraler Autoritäten präsentierten, das mittelalterlicher Leser mit der Vielfalt und Ambiguität mittelalterlicher religiöser Normtexte konfrontierte und dabei erhebliche Interpretationsfreiheit ermöglichte.</abstract>
+                    <note type="citation/reference">Becker, Julia; Licht, Tino; Weinfurter, Stefan (Hrsg.): Karolingische Klöster. Wissenstransfer und kulturelle Innovation, (Materiale Textkulturen, 4). Berlin/München/Boston : De Gruyter, 2015, ISBN 978-3-11-037122-2, S. 89-129</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Verlags De Gruyter.</note>
+                    <subject lang="ger">
+                        <topic>Exzellenzcluster Religion und Politik</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Cluster of Excellence Religion and Politics</topic>
+                    </subject>
+                    <classification authority="ddc">200</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-49139384954</identifier>
+                    <identifier type="doi">10.1515/9783110371222.89</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/de/">CC BY-NC-ND 3.0 DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_29e0dbce-1f02-4aa1-a12f-f62619d51103</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_29e0dbce-1f02-4aa1-a12f-f62619d51103_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/29e0dbce-1f02-4aa1-a12f-f62619d51103/steckel_2015_buchstaben-und-geist.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_29e0dbce-1f02-4aa1-a12f-f62619d51103" DMDID="DMD_29e0dbce-1f02-4aa1-a12f-f62619d51103">
+            <mets:fptr FILEID="FILE_29e0dbce-1f02-4aa1-a12f-f62619d51103_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

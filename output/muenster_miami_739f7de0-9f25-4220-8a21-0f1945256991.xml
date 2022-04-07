@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_739f7de0-9f25-4220-8a21-0f1945256991">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wissensnetzwerk Controlling – Evaluationsergebnis der didaktisch-pädagogischen Begleitergruppe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaminski, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Kaminski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173362435">
+                        <displayForm>Raabe, Ralf Peter</displayForm>
+                        <namePart type="given">Ralf Peter</namePart>
+                        <namePart type="family">Raabe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-05-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-05-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659524857</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_739f7de0-9f25-4220-8a21-0f1945256991</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_739f7de0-9f25-4220-8a21-0f1945256991_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/739f7de0-9f25-4220-8a21-0f1945256991/CALCAT27.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_739f7de0-9f25-4220-8a21-0f1945256991" DMDID="DMD_739f7de0-9f25-4220-8a21-0f1945256991">
+            <mets:fptr FILEID="FILE_739f7de0-9f25-4220-8a21-0f1945256991_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

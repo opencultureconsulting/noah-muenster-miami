@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_adb5895f-b59c-4124-8552-df00cdd69ebf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ökonomie und Schule</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böttcher, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Böttcher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1993</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-09-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-09-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Fetzer, Helmut (Red.): Qualität und Effizienz von Bildungseinrichtungen. Frankfurt a.M. : DGBV, 1993, S. 85-99</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-69329536206</identifier>
+                    <identifier type="isbn">3-925794-22-0</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_adb5895f-b59c-4124-8552-df00cdd69ebf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_adb5895f-b59c-4124-8552-df00cdd69ebf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/adb5895f-b59c-4124-8552-df00cdd69ebf/1993_boett_oekon.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_adb5895f-b59c-4124-8552-df00cdd69ebf" DMDID="DMD_adb5895f-b59c-4124-8552-df00cdd69ebf">
+            <mets:fptr FILEID="FILE_adb5895f-b59c-4124-8552-df00cdd69ebf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

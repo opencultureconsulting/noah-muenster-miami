@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ebf96851-4e88-40dc-8dd5-378739e16eb2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Investigating scattering phenomena from Lattice QCD using twisted mass fermions</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142664707">
+                        <displayForm>Feng, Xu</displayForm>
+                        <namePart type="given">Xu</namePart>
+                        <namePart type="family">Feng</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, Gernot</displayForm>
+                        <namePart type="given">Gernot</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit beschäftigt sich mit dem Studium der Pion-Pion-Streuung, die mit nicht-perturbativen und auf Grundprinzipien basierenden Gitter-QCD-Methoden analysiert wird. Für die Pion-Pion Streulänge $a_{\pi\pi}^{I=2}$ im Isospin I=2 Kanal erhalten wir nach einer Extrapolation zum physikalischen Punkt den präzisen Wert von $m_\pi a_{\pi\pi}^{I=2} = -0.0439(5)$, verglichen mit dem experimentellen Wert von NA48/2 am CERN, $m_\pi a_{\pi\pi}^{I=2}=- 0.0444(9)$. Für die Pion-Pion-Streuphase im $\rho$-Meson-Zerfallskanal haben wir die Pion-Pion-Streuphase im Schwerpunktsystem sowie in zwei bewegten Bezugssystemen berechnet, woraus wir die $\rho$-Resonanzmasse und die Zerfallsbreite bestimmen konnten. Zudem wurde der hadronische Beitrag des anomalen magnetischen Momentes des Myons aus dem Vakuumpolarisationstensor berechnet. Hier konnten zum ersten Mal die systematischen Effekte einer solchen Rechnung abgeschätzt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Hochenergiephysik</topic>
+                        <topic>Quantenchromodynamik</topic>
+                        <topic>Gitterfeldtheorie</topic>
+                        <topic>Streulänge</topic>
+                        <topic>Instabile Teilchen</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87419512913</identifier>
+                    <identifier type="sys">HT017078163</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ebf96851-4e88-40dc-8dd5-378739e16eb2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ebf96851-4e88-40dc-8dd5-378739e16eb2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ebf96851-4e88-40dc-8dd5-378739e16eb2/diss_feng.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ebf96851-4e88-40dc-8dd5-378739e16eb2" DMDID="DMD_ebf96851-4e88-40dc-8dd5-378739e16eb2">
+            <mets:fptr FILEID="FILE_ebf96851-4e88-40dc-8dd5-378739e16eb2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

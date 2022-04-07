@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d54e274b-b4b0-49fc-a7ca-901d8d65463d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulare Charakterisierung des Staphylococcus aureus-Oberflächenproteins SasC und Rolle in der Zell-Zell-Interaktion</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1101363665">
+                        <displayForm>Jularic, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Jularic</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173068154">
+                        <displayForm>Heilmann, Christine</displayForm>
+                        <namePart type="given">Christine</namePart>
+                        <namePart type="family">Heilmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-05-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-02-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit wurde das vormals uncharakterisierte Oberflächenprotein SasC von Staphylococcus aureus auf seine Funktion hin untersucht. Zunächst zeigte sich eine hohe Prävalenz des entsprechenden Gens sasC im Genom von 66 S. aureus- Stämmen. Nach Klonierung des sasC-Gens in den Expressionsvektor pCX19 und Transformation in den apathogenen Stamm S. carnosus TM300 konnte erstmals die Funktion des SasC als Zell-Zell-Adhäsion vermittelndes Protein bestimmt werden. Nach Expression des Proteins an der Oberfläche von S. carnosus zeigten bei Wachstum in der planktonischen Phase makroskopisch und mikroskopisch sichtbare Zellaggregate, die konzentrationsabhängig durch die Serinproteinase Trypsin aufgelöst werden konnten. Auch zeigten die Bakterien aufgrund ihrer Expression des SasC- Proteins eine verstärkte Biofilmbildung auf Polystyroloberflächen, was am ehesten auf die Vermittlung von interzellulärer Adhäsion durch das Protein zurückzuführen ist. Die vorliegende Arbeit konnte zeigen, dass das Protein SasC eine mögliche Rolle in der proteinvermittelten Biofilmakkumulation hat und einen wichtigen Pathogenitätsfaktor in der Pathogenese der klinisch schwierig zu beherrschenden Biofilm-assoziierten Infektionen von Staphylococcus aureus darstellen könnte.</abstract>
+                    <subject lang="ger">
+                        <topic>Staphylococcus aureus</topic>
+                        <topic>Biofilm</topic>
+                        <topic>interzelluläre Adhäsion</topic>
+                        <topic>molekulare Charakterisierung</topic>
+                        <topic>Oberflächenprotein</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85289647520</identifier>
+                    <identifier type="sys">HT018978539</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d54e274b-b4b0-49fc-a7ca-901d8d65463d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d54e274b-b4b0-49fc-a7ca-901d8d65463d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d54e274b-b4b0-49fc-a7ca-901d8d65463d/diss_jularic.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d54e274b-b4b0-49fc-a7ca-901d8d65463d" DMDID="DMD_d54e274b-b4b0-49fc-a7ca-901d8d65463d">
+            <mets:fptr FILEID="FILE_d54e274b-b4b0-49fc-a7ca-901d8d65463d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

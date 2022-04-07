@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_078b5459-bd8c-48b9-a6b1-0e247552e098">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„...per farne conoscere il merito“. Fortunato Santinis Bearbeitungspraxis</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea</displayForm>
+                        <namePart type="given">Andrea</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea Pietro</displayForm>
+                        <namePart type="given">Andrea Pietro</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-11-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Fortunato Santinis Begeisterung für die geistliche Musik deutscher und englischer Meister des Barock und auch der Wiener Klassik war so enorm, dass er sie seinen italienischen Landsleuten nahebringen wollte. Dies versuchte er anhand italienischer oder lateinischer Übersetzungen der Originaltexte, während die Musik der Vorlagen nahezu unverändert blieb. Zwar hatten Santinis italienische Bearbeitungen meist protestantischer Werke von Komponisten jenseits der Alpen im katholischen Rom kaum Erfolg, allerdings kann dieses Bemühen um einen konfessionellen musikalischen Transfer, besonders im Rom der ersten Hälfte des 19. Jahrhunderts, als bemerkenswert progressiv bewertet werden.</abstract>
+                    <note type="citation/reference">Ammendola, Andrea; Schmitz, Peter (Hrsg.): Sammeln – Komponieren – Bearbeiten. Der römische Abbate Fortunato Santini im Spiegel seines Schaffens. Münster : agenda Verlag., 2011, S. 93-97</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des agenda-Verlages Münster.</note>
+                    <subject lang="ger">
+                        <topic>Fortunato Santini</topic>
+                        <topic>Bearbeitung</topic>
+                        <topic>Geistliche Musik</topic>
+                        <topic>Deutschland</topic>
+                        <topic>England</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-30239603109</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_078b5459-bd8c-48b9-a6b1-0e247552e098</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_078b5459-bd8c-48b9-a6b1-0e247552e098_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/078b5459-bd8c-48b9-a6b1-0e247552e098/ammendola_2011_per-farne-conoscere.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_078b5459-bd8c-48b9-a6b1-0e247552e098" DMDID="DMD_078b5459-bd8c-48b9-a6b1-0e247552e098">
+            <mets:fptr FILEID="FILE_078b5459-bd8c-48b9-a6b1-0e247552e098_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

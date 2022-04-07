@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b0e29bbf-975e-44f3-837b-5bdda5c8e630">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Tierexperimentelle Studie zum Einsatz dendritischer Zellen in der Immuntherapie der akuten myeloischen Leukämie</title>
+                        <subTitle>Induktion von Antitumoraktivität durch Immunisierung mit fusionierten Zellen bestehend aus dendritischen Zellen und AML-Blasten</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129231886">
+                        <displayForm>Doench, Christina</displayForm>
+                        <namePart type="given">Christina</namePart>
+                        <namePart type="family">Doench</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1169095399">
+                        <displayForm>Serve, Hubert</displayForm>
+                        <namePart type="given">Hubert</namePart>
+                        <namePart type="family">Serve</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-07-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-06-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel der Arbeit war die Evaluierung experimenteller Therapiemethoden der akuten myeloischen Leukämie. Im Rahmen der Etablierung des transplantablen Leukämiemodells der SL/AM-Maus konnte dessen Reproduzierbarkeit erfolgreich gezeigt werden. Des Weiteren standardisierten wir ein Verfahren zur Differenzierung dendritischer Zellen (DC) - deren Einsatz in der Immuntherapie sich bereits als sehr viel versprechend erwiesen hatte - aus dem Knochenmark der syngenen Mäuse. Daneben zeigten wir die erfolgreiche Fusion von DC mit für die SL/AM-Maus syngenen leukämischen Blasten (M1). Nach Vakzinierungen mit autologen DC-M1-Fusionszellen konnte die effektive Induktion einer köpereigenen Antitumoraktivität beobachtet werden. In geringerem Ausmaß war dies ebenfalls für den Einsatz allogener DC-M1-Fusionszellen nachweisbar. Im Gegensatz dazu konnte für den Einsatz von Mixturen, bestehend aus M1 und autologen bzw. allogenen DC ohne vorherige Fusion keine ausreichende Antitumoraktivität verzeichnet werden.</abstract>
+                    <subject lang="ger">
+                        <topic>AML</topic>
+                        <topic>dendritische Zellen</topic>
+                        <topic>Fusion</topic>
+                        <topic>Immuntherapie</topic>
+                        <topic>SL/AM-Maus</topic>
+                        <topic>M1-Zellen</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29629660337</identifier>
+                    <identifier type="sys">HT014106189</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b0e29bbf-975e-44f3-837b-5bdda5c8e630</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b0e29bbf-975e-44f3-837b-5bdda5c8e630_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b0e29bbf-975e-44f3-837b-5bdda5c8e630/dissertation_christina_doench.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b0e29bbf-975e-44f3-837b-5bdda5c8e630" DMDID="DMD_b0e29bbf-975e-44f3-837b-5bdda5c8e630">
+            <mets:fptr FILEID="FILE_b0e29bbf-975e-44f3-837b-5bdda5c8e630_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

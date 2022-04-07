@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_24fc4f92-a939-4238-9734-b8df5045bbb6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>dimensional reduction approach based on the application of reduced basis methods in the context of hierarchical model reduction</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1043396276">
+                        <displayForm>Smetana, Kathrin</displayForm>
+                        <namePart type="given">Kathrin</namePart>
+                        <namePart type="family">Smetana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115010972">
+                        <displayForm>Ohlberger, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Ohlberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2013-12-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-05-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Dissertation wird vor dem Anwendungshintergrund von Grundwasserströmungen eine neue Dimensionsreduktionsmethode hergeleitet, welche reduzierte Basistechniken zur Generierung von Basisfunktionen innerhalb der hierarchischen Modellreduktionsmethode anwendet. Dabei wird entlang der dominanten Fließrichtung des betrachteten Phänomens ein Standarddiskretisierungsverfahren eingesetzt und mit optimal an das Problem angepassten hierarchischen Basisfunktionen in transversaler Richtung kombiniert. Die hierarchischen Basen werden hierbei mit reduzierte Basistechniken aus Lösungen von in der Arbeit hergeleiteten parameterabhängigen niederdimensionalen Problemen ausgewählt. In einem zweiten Schritt wird die vorgeschlagene Dimensionsreduktionsmethode weiterentwickelt um auch nichtlineare Differentialgleichungen effizient behandeln zu können. In numerischen Experimenten für lineare und nichtlineare Differentialgleichungen wird die schnelle Konvergenz und Effizienz der Methode nachgewiesen.</abstract>
+                    <subject lang="ger">
+                        <topic>partielle Differentialgleichungen</topic>
+                        <topic>finite Elemente</topic>
+                        <topic>Dimensionsreduktion</topic>
+                        <topic>adaptive Modellierung</topic>
+                        <topic>hierarchische Modellreduktion</topic>
+                        <topic>reduzierte Basis-Methoden</topic>
+                        <topic>A posteriori Fehlerschätzer</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-54389453356</identifier>
+                    <identifier type="sys">HT018105120</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_24fc4f92-a939-4238-9734-b8df5045bbb6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_24fc4f92-a939-4238-9734-b8df5045bbb6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/24fc4f92-a939-4238-9734-b8df5045bbb6/diss_smetana.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_24fc4f92-a939-4238-9734-b8df5045bbb6" DMDID="DMD_24fc4f92-a939-4238-9734-b8df5045bbb6">
+            <mets:fptr FILEID="FILE_24fc4f92-a939-4238-9734-b8df5045bbb6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

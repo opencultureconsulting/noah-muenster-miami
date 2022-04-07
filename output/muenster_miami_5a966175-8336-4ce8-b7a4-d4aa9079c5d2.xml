@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5a966175-8336-4ce8-b7a4-d4aa9079c5d2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Verlust des Signaltransduktionsmoduls des Proteins p62 führt zu einem adipösen Phänotyp bei Mäusen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1017200467">
+                        <displayForm>Hillmann, Anja</displayForm>
+                        <namePart type="given">Anja</namePart>
+                        <namePart type="family">Hillmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1110900899">
+                        <displayForm>Pavenstädt, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Pavenstädt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-11-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-10-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Protein p62 ist sowohl an der Signaltransduktion, als auch an der Proteindegradation beteiligt. In dieser Arbeit wird eine Mauslinie charakterisiert, die ein p62-Protein exprimiert, dem die Aminosäuren 69 bis 251 und damit das Signaltransduktionsmodul fehlen. Durch die Entkopplung von Signaltransduktion und Proteindegradation kommt es zu einer Anreicherung freier Sauerstoffradikale und einer gesteigerten Autophagozytose in primären Zellen. Diese beiden Phänomene sind sowohl als Folge, aber auch als Ursache von Adipositas beschrieben. Mäuse die diesen p62-Gendefekt tragen entwickeln einen altersbedingten adipösen Phänotyp und können als Modellorganismus zur Untersuchungen des Metabolischen Syndroms dienen. Darüber hinaus können Studien externer Faktoren Aufschluss über die Ursache von Folgeerkrankungen von Adipositas (z.B. Herzkreislauferkrankungen und Diabetes) geben.</abstract>
+                    <subject lang="ger">
+                        <topic>p62</topic>
+                        <topic>Adipositas</topic>
+                        <topic>freie Sauerstoffradikale</topic>
+                        <topic>Proteindegradation</topic>
+                        <topic>Autophagozytose</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92449439214</identifier>
+                    <identifier type="sys">HT017038525</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5a966175-8336-4ce8-b7a4-d4aa9079c5d2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5a966175-8336-4ce8-b7a4-d4aa9079c5d2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5a966175-8336-4ce8-b7a4-d4aa9079c5d2/diss_hillmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5a966175-8336-4ce8-b7a4-d4aa9079c5d2" DMDID="DMD_5a966175-8336-4ce8-b7a4-d4aa9079c5d2">
+            <mets:fptr FILEID="FILE_5a966175-8336-4ce8-b7a4-d4aa9079c5d2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

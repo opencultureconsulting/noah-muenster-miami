@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c5481f18-978f-4999-a62e-5c8f07c000fd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Data-aware methods for the simulation of glioblastoma multiforme</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1236310179">
+                        <displayForm>Wenske, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Wenske</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139810196">
+                        <displayForm>Engwer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Engwer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-06-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-03-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit behandelt, wie mathematische Methoden bei der Vorhersage und der Behandlung von Glioblastoma Multiforme helfen könnten. Wir beschreiben ein Finite-Volumen-Verfahren mit Matrix-Hölder-Mittel (HFVM). Das Hölder Mittel erlaubt es Informationen über die zugrunde liegenden Materialeigenschaften direkt in die numerische Diskretisierung einfließen zu lassen. Die numerischen Tests legen nahe, dass ein Matrix-Hölder-Mittel mit einer Log-Euklidischen Matrix interpolation die besten Ergebnisse erzielt. Der zweite Beitrag ist ein approximativer Modellierungsansatz, welcher es erlaubt das Invasionsprofil der Tumorzelldichte stationär zu berechnen. Die Ergebnisse legen nahe, dass der Stationalisierungsansatz in Anbetracht der schwierigen Parametrisierung und Validierung der Vorwärtsmodelle einen wichtigen Beitrag leisten könnte. Die Ergebnisse der stationären Problemformulierung enthalten qualitative Informationen welche direkt für die medizinische Therapie verwendet werden können.</abstract>
+                    <abstract lang="eng">This work is about the how mathematics may help the treatment of malignant brain tumors called glioblastoma multiforme (GBM). We incorporated a matrix Hölder mean into a finite volume method. The optimal Hölder parameter for tumor simulation is found to be zero, resulting in a log-Euclidian matrix interpolation. The convergence of the method has been established numerically via inhomogeneous and anisotropic manufactured solutions. We also derived a nonlinear penalty term for the 1D Fisher-KPP equation which allows the formulation of a stationary PDE problem for the tumor invasion. This stationary formulation is aligned with datasets available at the time of diagnosis and makes quantifiable predictions that may aid medical treatment. The 3D results allow direct comparison of its predictions with the medical treatment planning volumes (GTV, PTV, CTV). The results show that the stationalization could provide medical practitioners with information for treatment radius delineation.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Glioblastoma Multiforme</topic>
+                        <topic>GBM</topic>
+                        <topic>Tumormodellierung</topic>
+                        <topic>Modellierung</topic>
+                        <topic>Diffusions-reaktions-advections-gleichungen</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>glioblastoma multiforme</topic>
+                        <topic>PDE modelling</topic>
+                        <topic>diffusion-reaction-advection-equations</topic>
+                        <topic>tumor modelling</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17029490015</identifier>
+                    <identifier type="sys">HT020975967</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c5481f18-978f-4999-a62e-5c8f07c000fd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c5481f18-978f-4999-a62e-5c8f07c000fd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c5481f18-978f-4999-a62e-5c8f07c000fd/diss_wenske.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c5481f18-978f-4999-a62e-5c8f07c000fd" DMDID="DMD_c5481f18-978f-4999-a62e-5c8f07c000fd">
+            <mets:fptr FILEID="FILE_c5481f18-978f-4999-a62e-5c8f07c000fd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

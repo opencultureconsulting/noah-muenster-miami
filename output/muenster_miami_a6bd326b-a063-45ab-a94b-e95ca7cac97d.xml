@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a6bd326b-a063-45ab-a94b-e95ca7cac97d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Abituraufgabe – Neubau einer Straße</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121150151">
+                        <displayForm>Ebenhöh, Mechthild</displayForm>
+                        <namePart type="given">Mechthild</namePart>
+                        <namePart type="family">Ebenhöh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rolfs, Josef</displayForm>
+                        <namePart type="given">Josef</namePart>
+                        <namePart type="family">Rolfs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-08-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Linienführung einer Straße wird den Anforderungen des immer schneller werdenden Verkehrs nicht gerecht, weshalb ein Teilstück zwischen zwei &quot;Knicken&quot; durch ein Teilstück mit &quot;glatten&quot; Übergängen ersetzt werden soll.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, für unterrichtliche Zwecke freigegeben</note>
+                    <subject lang="ger">
+                        <topic>Mathematikunterricht</topic>
+                        <topic>Abitur</topic>
+                        <topic>Krümmung</topic>
+                        <topic>TI-83</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45649561188</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a6bd326b-a063-45ab-a94b-e95ca7cac97d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a6bd326b-a063-45ab-a94b-e95ca7cac97d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a6bd326b-a063-45ab-a94b-e95ca7cac97d/Ebenhoeh_Rolfs_Neubau_einer_Strasse.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a6bd326b-a063-45ab-a94b-e95ca7cac97d" DMDID="DMD_a6bd326b-a063-45ab-a94b-e95ca7cac97d">
+            <mets:fptr FILEID="FILE_a6bd326b-a063-45ab-a94b-e95ca7cac97d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

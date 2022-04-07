@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2821db64-a857-4110-b9c5-6e7a58a674a2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schwedische Interjektionen und Partikeln</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121309428">
+                        <displayForm>Schottmann, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Schottmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Partikeln sind wie Interjektionen unflektierbar. Sie haben keine lexikalische Bedeutung sondern modifizieren Aussagen oder füllen Pausen. Das Wörterbuch verzeichnet schwedische Interjektionen, Abtönungs-, Graduierungspartikeln und Gliederungssignale mit ihren deutschen Entsprechungen, ergänzt jeweils durch gleichlautende Vollwörter und andere Typen von Partikeln wie Antwort- oder Negationspartikeln. Es fächert die unterschiedlichen Verwendungsweisen der Lemmata auf und veranschaulicht sie durch Belege.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Schwedische Interjektionen und Partikeln / Hans Schottmann – Dortmund : readbox unipress, 2020. – 173 S. (Wissenschaftliche Schriften der WWU Münster : Reihe XII ; Bd. 26), ISBN 978-3-8405-0225-5, Preis: 19,30 EUR</note>
+                    <subject lang="ger">
+                        <topic>schwedische Sprache</topic>
+                        <topic>Interjektionen</topic>
+                        <topic>Grammatikalisierung</topic>
+                        <topic>Füllwörter</topic>
+                        <topic>Gesprächswörter</topic>
+                        <topic>Partikeln</topic>
+                        <topic>Gliederungssignale</topic>
+                    </subject>
+                    <classification authority="ddc">403</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-21169642916</identifier>
+                    <identifier type="isbn">978-3-8405-0225-5</identifier>
+                    <identifier type="sys">HT020580114</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2821db64-a857-4110-b9c5-6e7a58a674a2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2821db64-a857-4110-b9c5-6e7a58a674a2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2821db64-a857-4110-b9c5-6e7a58a674a2/schottmann_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2821db64-a857-4110-b9c5-6e7a58a674a2" DMDID="DMD_2821db64-a857-4110-b9c5-6e7a58a674a2">
+            <mets:fptr FILEID="FILE_2821db64-a857-4110-b9c5-6e7a58a674a2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

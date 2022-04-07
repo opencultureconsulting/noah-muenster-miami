@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2435bdc2-cb7a-4ba2-9575-41c05126ab5d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Enttarnung des &quot;gezinkten&quot; Würfels</title>
+                        <subTitle>Datensimulation/Auswertung/Fehlentscheidung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109589599">
+                        <displayForm>Paditz, Ludwig</displayForm>
+                        <namePart type="given">Ludwig</namePart>
+                        <namePart type="family">Paditz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-29</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mithilfe des GTR werden ideale und &quot;gezinkte&quot; Würfel simuliert. Die simulierten Daten werden statistisch ausgewertet und dienen als Grundlage zur Überprüfung von statistischen Hypothesen. Schließlich wird über mögliche Fehlentscheidungen diskutiert.</abstract>
+                    <note type="citation/reference">Barzel, Bärbel; Berntzen, Detlef; Sendas, Victor Manuel David (Hrsg.): Neues Lernen, Neue Medien, Viele Projekte im Land : Tagungsdokumentation ; Westfälische Wilhelms-Universität Münster 21.-24. Mai 2002. Münster, 2003 (ZKL-Texte ; 25), S. 182 - 206</note>
+                    <subject lang="ger">
+                        <topic>Stochastik</topic>
+                        <topic>Mathematikunterricht</topic>
+                        <topic>neue Medien</topic>
+                        <topic>V-200</topic>
+                        <topic>Cellsheet</topic>
+                        <topic>TI-92</topic>
+                        <topic>Datensimulation</topic>
+                        <topic>Hypothesentest</topic>
+                        <topic>GTR</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525841</identifier>
+                    <identifier type="isbn">3-934064-30-2</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2435bdc2-cb7a-4ba2-9575-41c05126ab5d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2435bdc2-cb7a-4ba2-9575-41c05126ab5d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2435bdc2-cb7a-4ba2-9575-41c05126ab5d/2082.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2435bdc2-cb7a-4ba2-9575-41c05126ab5d" DMDID="DMD_2435bdc2-cb7a-4ba2-9575-41c05126ab5d">
+            <mets:fptr FILEID="FILE_2435bdc2-cb7a-4ba2-9575-41c05126ab5d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

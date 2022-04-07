@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a56f3282-f525-453f-b44a-babbe0d5343c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="spa">
+                        <title>Gracián y la teroría de la conversación francesca</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Ch.</displayForm>
+                        <namePart type="given">Ch.</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzky, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-11-27</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-11-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">spa</languageTerm>
+                    </language>
+                    <note type="citation/reference">Gracián y la teroría de la conversación francesca. Zaragoza : Instituto de Estudios Altoaragoneses, 2004, S. 311-326</note>
+                    <classification authority="ddc">860</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-02439568915</identifier>
+                    <identifier type="isbn">84-7820-728-7</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a56f3282-f525-453f-b44a-babbe0d5343c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a56f3282-f525-453f-b44a-babbe0d5343c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a56f3282-f525-453f-b44a-babbe0d5343c/2004_stros_graci.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a56f3282-f525-453f-b44a-babbe0d5343c" DMDID="DMD_a56f3282-f525-453f-b44a-babbe0d5343c">
+            <mets:fptr FILEID="FILE_a56f3282-f525-453f-b44a-babbe0d5343c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

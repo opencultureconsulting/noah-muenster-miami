@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1c973c07-8d06-4bce-b398-c3bc8f0ac61b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Jiang-Su algebra is strongly self-absorbing revisited</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1205025898">
+                        <displayForm>Schemaitat, André-Harald</displayForm>
+                        <namePart type="given">André-Harald</namePart>
+                        <namePart type="family">Schemaitat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1205025898">
+                        <displayForm>Schemaitat, André</displayForm>
+                        <namePart type="given">André</namePart>
+                        <namePart type="family">Schemaitat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122275047">
+                        <displayForm>Winter, Wilhelm</displayForm>
+                        <namePart type="given">Wilhelm</namePart>
+                        <namePart type="family">Winter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-02-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-02-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit präsentieren wir einen kürzeren Beweis dafür, dass die Jiang-Su Algebra stark selbst-absorbierend ist. Als fundamentales Werkzeug definieren wir sogenannte unitär eingehängte Endomorphismen, dessen Existenz aus der Klassifizierung von Abbildungen zwischen Dimension-Drop-Algebren und UHF-Algebren folgt. Diese Klassifikation beweisen wir mit elementaren Mitteln, jedoch werden auch alternative Zugänge mithilfe der Cuntz Halbgruppe oder auch der Eindeutigkeit des hyperendlichen II_1-Faktors dargelegt.</abstract>
+                    <note type="thesis statement">Zugl. Münster (Westfalen), Univ., Diss., 2020</note>
+                    <subject lang="ger">
+                        <topic>C*-Algebren</topic>
+                        <topic>Klassifikation</topic>
+                        <topic>K-Theorie</topic>
+                        <topic>Jiang-Su Algebra</topic>
+                        <topic>stark selbst-absorbierend</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-82119399588</identifier>
+                    <identifier type="sys">HT020376115</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1c973c07-8d06-4bce-b398-c3bc8f0ac61b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1c973c07-8d06-4bce-b398-c3bc8f0ac61b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1c973c07-8d06-4bce-b398-c3bc8f0ac61b/diss_schemaitat.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1c973c07-8d06-4bce-b398-c3bc8f0ac61b" DMDID="DMD_1c973c07-8d06-4bce-b398-c3bc8f0ac61b">
+            <mets:fptr FILEID="FILE_1c973c07-8d06-4bce-b398-c3bc8f0ac61b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

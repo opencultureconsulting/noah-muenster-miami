@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2c089e3f-080d-444b-9169-69cd04c1d56b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Deutschdidaktik und digitale Literatur</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1035390949">
+                        <displayForm>Wampfler, Philippe</displayForm>
+                        <namePart type="given">Philippe</namePart>
+                        <namePart type="family">Wampfler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-08-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Computerspiele oder allgemeiner digitale Literatur werden als Gegenstände des Deutschunterrichts marginalisiert. Der Beitrag untersucht wesentliche Gründe dafür und schlägt ein vierteiliges Programm für eine Änderung vor. Zeitgemäßer Deutschunterricht, so das zentrale Ergebnis der Untersuchung, muss aus fachdidaktischen und lebensweltlichen Gründen digitale Sprachkunst analysieren und reflektieren.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61269472951</identifier>
+                    <identifier type="doi">10.17879/61269472074</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2c089e3f-080d-444b-9169-69cd04c1d56b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2c089e3f-080d-444b-9169-69cd04c1d56b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2c089e3f-080d-444b-9169-69cd04c1d56b/Textpraxis_2017_s2_wampfler.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2c089e3f-080d-444b-9169-69cd04c1d56b" DMDID="DMD_2c089e3f-080d-444b-9169-69cd04c1d56b">
+            <mets:fptr FILEID="FILE_2c089e3f-080d-444b-9169-69cd04c1d56b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

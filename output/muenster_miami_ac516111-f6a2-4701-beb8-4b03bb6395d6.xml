@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ac516111-f6a2-4701-beb8-4b03bb6395d6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung des Verhaltens von resonant beschleunigten Elektronen in stationären Elektron-Zyklotron-Resonanz-Plasmen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124205941">
+                        <displayForm>Heinen, Anselm</displayForm>
+                        <namePart type="given">Anselm</namePart>
+                        <namePart type="family">Heinen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Andrä, Jürgen</displayForm>
+                        <namePart type="given">Jürgen</namePart>
+                        <namePart type="family">Andrä</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-10-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-10-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Grundlage für die in dieser Arbeit entwickelte Methode der statistischen Trajektorien-Analyse ist die Annahme des stationären, d.h. des sich zeitlich nicht verändernden Plasmas. Die Ionen im EZR-Plasma werden von der Mikrowelle nicht geheizt und bleiben kalt. Da somit fast die gesamte Energie in den Elektronen steckt, folgen die Ionen der sich einstellenden Elektronen- Dichteverteilung, so daß das Plasma als Ganzes neutral bleibt. Das dynamische Verhalten der geheizten Elektronen bestimmt somit das Verhalten des heißen Plasmaanteils, in dem die meisten Ionisationsprozesse ablaufen. Im Modell werden die Elektronen hauptsächlich durch das statische Magnetfeld, das Mikrowellenfeld und Coulomb-Stöße beeinflußt. Durch eine statistische Analyse der Elektronentrajektorien bekommt man u.a. das Elektronenenergie- spektrum sowie die räumliche Elektronendichte- und -Energiedichteverteilung.</abstract>
+                    <subject lang="ger">
+                        <topic>Elektron</topic>
+                        <topic>Zyklotron</topic>
+                        <topic>Resonanz</topic>
+                        <topic>Plasma</topic>
+                        <topic>Simulation</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659550417</identifier>
+                    <identifier type="sys">HT013534125</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ac516111-f6a2-4701-beb8-4b03bb6395d6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ac516111-f6a2-4701-beb8-4b03bb6395d6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ac516111-f6a2-4701-beb8-4b03bb6395d6/diss_heinen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ac516111-f6a2-4701-beb8-4b03bb6395d6" DMDID="DMD_ac516111-f6a2-4701-beb8-4b03bb6395d6">
+            <mets:fptr FILEID="FILE_ac516111-f6a2-4701-beb8-4b03bb6395d6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

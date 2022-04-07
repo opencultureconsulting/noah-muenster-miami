@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_816e9209-8c2e-4ebf-86ad-cdb4b3fd85e1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Europäische Werte denken: Josef Pieper – Philosoph, Lehrer, Autor</title>
+                        <subTitle>Beiheft zur Ausstellung der Universitäts- und Landesbibliothek Münster in Zusammenarbeit mit der Katholisch-Theologischen Fakultät der Westfälischen Wilhelms-Universität Münster und der Josef Pieper Stiftung Münster.</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121013774">
+                        <displayForm>Hoye, William J.</displayForm>
+                        <namePart type="given">William J.</namePart>
+                        <namePart type="family">Hoye</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129638455">
+                        <displayForm>Kayß, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Kayß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2006-01-30</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-02-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Münster: Universitäts- und Landesbibliothek, Ausstellung vom 11. Oktober bis 13. November 2004</abstract>
+                    <note type="citation/reference">Druckausg.: Münster, Universitäts- und Landesbibliothek, 2004</note>
+                    <subject lang="ger">
+                        <topic>Pieper, Josef &lt;Philosoph&gt;</topic>
+                        <topic>Ausstellung</topic>
+                        <topic>Münster &lt;Westfalen&gt;</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-13669668879</identifier>
+                    <identifier type="sys">HT019450358</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_816e9209-8c2e-4ebf-86ad-cdb4b3fd85e1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_816e9209-8c2e-4ebf-86ad-cdb4b3fd85e1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/816e9209-8c2e-4ebf-86ad-cdb4b3fd85e1/pieper_beiheft.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_816e9209-8c2e-4ebf-86ad-cdb4b3fd85e1" DMDID="DMD_816e9209-8c2e-4ebf-86ad-cdb4b3fd85e1">
+            <mets:fptr FILEID="FILE_816e9209-8c2e-4ebf-86ad-cdb4b3fd85e1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

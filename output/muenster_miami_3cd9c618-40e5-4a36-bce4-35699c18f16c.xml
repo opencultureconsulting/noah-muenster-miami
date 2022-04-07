@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3cd9c618-40e5-4a36-bce4-35699c18f16c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zum Desorptionsprozess in der UV-matrix-unterstützten Laserdesorption/-ionisation mit einer Flüssigmatrix</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132115123">
+                        <displayForm>Rohlfing, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Rohlfing</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027042716">
+                        <displayForm>Arlinghaus, Heinrich Franz</displayForm>
+                        <namePart type="given">Heinrich Franz</namePart>
+                        <namePart type="family">Arlinghaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-08-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-06-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Desorptionsprozess in der UV-MALDI-MS mit der Flüssigmatrix 3-Nitrobenzylalkohol und einem frequenzvervierfachten Nd:YAG-Laser wird mit Hilfe der photoakustischen Analyse, der Hochgeschwindigkeitsfotografie der desorbierten Teilchenwolke sowie der UV-Laser-Nachionisation untersucht. Auf Grundlage der experimentellen Befunde wird ein qualitatives Desorptionsmodell entwickelt, das einen zweistufigen Prozess annimmt, bei dem im ersten Schritt eine Schicht-für-Schicht-Phasenexplosion der obersten Probenschichten nach Überhitzung bis in den Bereich der Spinodalen stattfindet, woraufhin ein Teil des verbleibenden überhitzten Restvolumens im zweiten Schritt durch einen normalen Kochvorgang abgetragen wird. Die Ergebnisse der photoakustischen Analyse deuten dabei auf einen Zusammenhang zwischen dem Einsetzen der Phasenexplosion und einer effizienten Analytionenbildung hin, was sowohl mit einem Energy-Pooling-Ionisationsmodell als auch mit einem Cluster-Ionisationsmechanismus vereinbar ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Massenspektrometrie</topic>
+                        <topic>MALDI</topic>
+                        <topic>Laserablation</topic>
+                        <topic>Desorptionsprozess</topic>
+                        <topic>Phasenexplosion</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-11659580331</identifier>
+                    <identifier type="sys">HT014844378</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3cd9c618-40e5-4a36-bce4-35699c18f16c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3cd9c618-40e5-4a36-bce4-35699c18f16c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3cd9c618-40e5-4a36-bce4-35699c18f16c/diss_rohlfing.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3cd9c618-40e5-4a36-bce4-35699c18f16c" DMDID="DMD_3cd9c618-40e5-4a36-bce4-35699c18f16c">
+            <mets:fptr FILEID="FILE_3cd9c618-40e5-4a36-bce4-35699c18f16c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

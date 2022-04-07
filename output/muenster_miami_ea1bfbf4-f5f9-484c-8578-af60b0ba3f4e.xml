@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ea1bfbf4-f5f9-484c-8578-af60b0ba3f4e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Visuelle Welt</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Visual World</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130954462">
+                        <displayForm>Kebeck, Günther</displayForm>
+                        <namePart type="given">Günther</namePart>
+                        <namePart type="family">Kebeck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-05-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Buch gibt einen Überblick über den aktuellen Stand der Forschung zur visuellen Wahrnehmung. Es erläutert die Gesetze des Sehens und die Prinzipien der visuellen Informationsverarbeitung.</abstract>
+                    <abstract lang="eng">The book gives an overview on the research of visual perception and explaines the principles of visual information processing.</abstract>
+                    <subject lang="ger">
+                        <topic>Visuelle Wahrnehmung</topic>
+                        <topic>Bildwahrnehmung</topic>
+                        <topic>Kunstwahrnehmung</topic>
+                        <topic>Neuroästhetik</topic>
+                        <topic>Theoretische Psychologie</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>visual perception</topic>
+                        <topic>picture perception</topic>
+                        <topic>perception of art</topic>
+                        <topic>neuroaesthetics</topic>
+                        <topic>theoretical psychology</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14199651386</identifier>
+                    <identifier type="sys">HT020246239</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ea1bfbf4-f5f9-484c-8578-af60b0ba3f4e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ea1bfbf4-f5f9-484c-8578-af60b0ba3f4e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ea1bfbf4-f5f9-484c-8578-af60b0ba3f4e/kebeck_2019.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ea1bfbf4-f5f9-484c-8578-af60b0ba3f4e" DMDID="DMD_ea1bfbf4-f5f9-484c-8578-af60b0ba3f4e">
+            <mets:fptr FILEID="FILE_ea1bfbf4-f5f9-484c-8578-af60b0ba3f4e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

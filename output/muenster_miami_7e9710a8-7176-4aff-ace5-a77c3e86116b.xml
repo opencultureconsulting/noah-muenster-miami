@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7e9710a8-7176-4aff-ace5-a77c3e86116b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Evaluierung der „Multilocus Variable Number Tandem Repeat Sequenztypisierung (MLVST)“ zur Typisierung von Enterococcus faecium</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1140057960">
+                        <displayForm>Constien, Christine</displayForm>
+                        <namePart type="given">Christine</namePart>
+                        <namePart type="family">Constien</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173556833">
+                        <displayForm>Mellmann, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Mellmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-09-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-08-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es existieren vielfältige Typisierungsmethoden für Vancomycin-resistente Enterokokken (VRE), die der Infektionsüberwachung dienen. Die Pulsfeld-Gelelektrophorese hat sich aufgrund des hohen Diskriminationspotentials durchgesetzt, jedoch ist diese Methode von hohem Aufwand geprägt. Die Multilocus-Sequenztypisierung zeichnet sich durch exzellente Datenaustauschbarkeit aus, jedoch fehlt es ihr an Diskriminationsvermögen. Hier wurde die Multilocus Variable Number Tandem Repeat Sequenztypisierung (MLVST), bei der Sequenzdaten eines &quot;Variable Number Tandem Repeat“ mit Sequenzdaten der Haushaltsgene atpA und ddl verknüpft werden, anhand von 38 klinischen VRE-Isolaten evaluiert. Weiterhin konnte die MLVST mittels Multiplex-PCR vereinfacht werden. Der Vergleich von MLVST mit der Typisierungsmethode DiversiLab® zeigte, dass das Diskriminationspotential von MLVST sowie die Konkordanz zu DiversiLab® nicht ausreichen, um MLVST als Typisierungsverfahren in möglichen Ausbruchsszenarien zu etablieren.</abstract>
+                    <subject lang="ger">
+                        <topic>VRE</topic>
+                        <topic>E. faecium</topic>
+                        <topic>Typisierung</topic>
+                        <topic>Ausbruchsklärung</topic>
+                        <topic>Multiplex-PCR</topic>
+                        <topic>VNTR</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-41209643220</identifier>
+                    <identifier type="sys">HT019452499</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7e9710a8-7176-4aff-ace5-a77c3e86116b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7e9710a8-7176-4aff-ace5-a77c3e86116b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7e9710a8-7176-4aff-ace5-a77c3e86116b/diss_constien.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7e9710a8-7176-4aff-ace5-a77c3e86116b" DMDID="DMD_7e9710a8-7176-4aff-ace5-a77c3e86116b">
+            <mets:fptr FILEID="FILE_7e9710a8-7176-4aff-ace5-a77c3e86116b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

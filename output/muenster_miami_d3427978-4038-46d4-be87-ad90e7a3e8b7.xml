@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d3427978-4038-46d4-be87-ad90e7a3e8b7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Knut Wicksells &quot;Finanztheoretische Untersuchungen&quot;</title>
+                        <subTitle>zum 100. Geburtstag eines erstaunlich modernen Versuchs, besser zu verstehen, um besser gestalten zu können</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129052051">
+                        <displayForm>Grossekettler, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grossekettler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1998</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-23</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-10-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Streissler, Erich (Hrsg.): Knut Wicksell als Ökonom; Studien zur Entwicklung der ökonomischen Theorie, Bd. 18. Berlin : Duncker &amp; Humblot, 1998, S. 217-249. 
+Auch erschienen in: Volkswirtschaftliche Diskussionsbeiträge, Nr. 247, Münster : Inst.f. Finanzwissenschaft, Westf. Wilhelms-Univ.</note>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14669598839</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d3427978-4038-46d4-be87-ad90e7a3e8b7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d3427978-4038-46d4-be87-ad90e7a3e8b7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d3427978-4038-46d4-be87-ad90e7a3e8b7/1998_Knut_Wicksell.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d3427978-4038-46d4-be87-ad90e7a3e8b7" DMDID="DMD_d3427978-4038-46d4-be87-ad90e7a3e8b7">
+            <mets:fptr FILEID="FILE_d3427978-4038-46d4-be87-ad90e7a3e8b7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

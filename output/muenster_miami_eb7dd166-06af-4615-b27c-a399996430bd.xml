@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_eb7dd166-06af-4615-b27c-a399996430bd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anfragebearbeitung in einem Datenbank-Kernsystem für Geo-Anwendungen unter Verwendung einer generischen Komponente zur Anfrageoptimierung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129231428">
+                        <displayForm>Breimann, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Breimann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Klaus H.</displayForm>
+                        <namePart type="given">Klaus H.</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-07-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In erweiterbaren Datenbanksystemen müssen zur Berücksichtigung einer neuen Anwendungsdomäne neben neuen Datensätzen und benutzerdefinierten Datentypen auch neue Indexstrukturen zur Beschleunigung der Anfragebearbeitung, anwendungsbezogene Algorithmen und Operationen zur Erzeugung von Anfrageergebnissen sowie neue Schlüsselwörter für die Anfragesprache ergänzt werden können. Diese Arbeit beschreibt die in einem objektorientierten Datenbank-Kernsystems eingesetzten Konzepte zur Anfragebearbeitung und betont seine Erweiterbarkeit. Außerdem wird eine neue erweiterbare generische Komponente zur Anfrageoptimierung vorgestellt, die erstmals eine einfache Beschreibung sowohl der algebraischen Transformationen als auch der Optimierungsstrategie durch textuelle Optimierungsregeln ermöglicht. Dadurch werden zum einen eine leichte Änderbarkeit der Optimierungsstrategie und zum anderen eine einfache Berücksichtigung von Erweiterungen des Systems im Rahmen des Optimierungsprozesses sichergestellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Datenbanksysteme</topic>
+                        <topic>Anfragebearbeitung</topic>
+                        <topic>Anfrageoptimierung</topic>
+                        <topic>erweiterbar</topic>
+                        <topic>Geoinformationssysteme</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>database systems</topic>
+                        <topic>query processing</topic>
+                        <topic>query optimization</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-19629707883</identifier>
+                    <identifier type="sys">HT014106122</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_eb7dd166-06af-4615-b27c-a399996430bd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_eb7dd166-06af-4615-b27c-a399996430bd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/eb7dd166-06af-4615-b27c-a399996430bd/breimann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_eb7dd166-06af-4615-b27c-a399996430bd" DMDID="DMD_eb7dd166-06af-4615-b27c-a399996430bd">
+            <mets:fptr FILEID="FILE_eb7dd166-06af-4615-b27c-a399996430bd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

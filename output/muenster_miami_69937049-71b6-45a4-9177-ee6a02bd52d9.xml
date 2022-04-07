@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_69937049-71b6-45a4-9177-ee6a02bd52d9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Letzte Zettelkataloge im Netz</title>
+                        <subTitle>zur Digitialisierung des Zentralkatalogs der Institute und des Systematischen Kataloges der Universitäts- und Landesbibliothek Münster</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2002-12-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-01-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Bibliotheksdienst 36 (2002) 11, 1556-1560</note>
+                    <subject lang="ger">
+                        <topic>Universitäts- und Landesbibliothek Münster</topic>
+                        <topic>Systematischer Katalog</topic>
+                        <topic>Internationale Dezimalklassifikation</topic>
+                        <topic>Alphabetischer Katalog</topic>
+                        <topic>Hochschulinstitut</topic>
+                        <topic>Zettelkatalog</topic>
+                        <topic>Geschichte</topic>
+                        <topic>Digitalisierung</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659550044</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_69937049-71b6-45a4-9177-ee6a02bd52d9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_69937049-71b6-45a4-9177-ee6a02bd52d9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/69937049-71b6-45a4-9177-ee6a02bd52d9/Syk_Digitalisierung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_69937049-71b6-45a4-9177-ee6a02bd52d9" DMDID="DMD_69937049-71b6-45a4-9177-ee6a02bd52d9">
+            <mets:fptr FILEID="FILE_69937049-71b6-45a4-9177-ee6a02bd52d9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_df91a5c2-99e9-4dd4-85bd-cd362d24962a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Why functions are not special dispositions: an improved classification of realizables for top-level ontologies</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/125750412">
+                        <displayForm>Röhlig, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Röhlig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/125750412">
+                        <displayForm>Röhlig, Johannes Paul</displayForm>
+                        <namePart type="given">Johannes Paul</namePart>
+                        <namePart type="family">Röhlig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132468654">
+                        <displayForm>Jansen, Ludger</displayForm>
+                        <namePart type="given">Ludger</namePart>
+                        <namePart type="family">Jansen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-06-02</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-11-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: The concept of function is central to both biology and technology, but neither in philosophy nor in formal ontology is there a generally accepted theory of functions. In particular, there is no consensus how to include functions into a top-level ontology or whether to include them at all. Methods: We first review current conceptions of functions in philosophy and formal ontology and evaluate them against a set of criteria. These evaluation criteria are derived from a synopsis of theoretical and practical requirements that have been suggested for formal accounts of functions. In a second step, we elucidate in particular the relation between functions and dispositions. Results: We argue that functions should not be taken as a subtype of dispositions. The strongest reason for this is that any view that identifies functions with certain dispositions cannot account for malfunctioning, which is having a function but lacking the matching disposition. As a result, we suggest a cross-classification of realizables with dispositions supervening on the physical structure of their bearer, whereas both functions and roles also have some external grounding. While bearers can survive the gain, loss and change of roles, functions are rigid properties that are essentially connected to their particular bearers. Therefore, Function should not be regarded as a subtype of Disposition; rather, the classes of functions and dispositions are disjoint siblings of Realizable.</abstract>
+                    <note type="citation/reference">Journal of Biomedical Semantics 5 (2014) 27, 1-16</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Function</topic>
+                        <topic>Disposition</topic>
+                        <topic>Role</topic>
+                        <topic>Process</topic>
+                        <topic>Realizable</topic>
+                        <topic>Artefacts</topic>
+                        <topic>Top-level ontology</topic>
+                        <topic>BFO</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-01349598936</identifier>
+                    <identifier type="doi">doi:10.1186/2041-1480-5-27</identifier>
+                    <identifier type="issn">2041-1480</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_df91a5c2-99e9-4dd4-85bd-cd362d24962a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_df91a5c2-99e9-4dd4-85bd-cd362d24962a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/df91a5c2-99e9-4dd4-85bd-cd362d24962a/2041-1480-5-27.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_df91a5c2-99e9-4dd4-85bd-cd362d24962a" DMDID="DMD_df91a5c2-99e9-4dd4-85bd-cd362d24962a">
+            <mets:fptr FILEID="FILE_df91a5c2-99e9-4dd4-85bd-cd362d24962a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

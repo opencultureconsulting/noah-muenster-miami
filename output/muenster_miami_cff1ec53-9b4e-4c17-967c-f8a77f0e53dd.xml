@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cff1ec53-9b4e-4c17-967c-f8a77f0e53dd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Regulation of the actin cytoskeleton by the protein SWAP‐70</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135645670">
+                        <displayForm>Kühnl, Jochen</displayForm>
+                        <namePart type="given">Jochen</namePart>
+                        <namePart type="family">Kühnl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bähler, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Bähler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-05-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-04-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Spezielle F-Aktin bindende Proteine ermöglichen den Aufbau funktionell verschiedener F-Aktin-Strukturen, die für die Zellbewegung oder die Ausbildung komplexer drei-dimensionaler Strukturen essentiell sind. Das Protein SWAP-70 assoziiert mit einer dynamischen Anordnung von Aktinfilamenten in motilen Zellen. In dieser Arbeit wird gezeigt, dass SWAP-70 isoform-spezifisch an Nicht-Muskel-Aktin bindet. Artifiziell an die Plasmamembran gebundenes SWAP-70 (PM-SWAP-70) verhindert die Bildung von Aktin-Stressfasern und adhäsiven Strukturen und induziert die Bildung von Mikrospikes und Filopodien in verschiedenen Zelllinien. Die Effekte von PM-SWAP-70 auf die Aktivität verschiedener kleiner GTPasen wurde untersucht. Weiterhin wurde in einem Two-Hybrid-Screen das Protein RasGRP1 als Interaktor von SWAP-70 identifiziert.</abstract>
+                    <subject lang="ger">
+                        <topic>WAP-70</topic>
+                        <topic>Zytoskelett</topic>
+                        <topic>RasGRP1</topic>
+                        <topic>Filopodien</topic>
+                        <topic>Rho</topic>
+                        <topic>GTPasen</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95519435681</identifier>
+                    <identifier type="sys">HT015592892</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cff1ec53-9b4e-4c17-967c-f8a77f0e53dd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cff1ec53-9b4e-4c17-967c-f8a77f0e53dd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cff1ec53-9b4e-4c17-967c-f8a77f0e53dd/diss_kuehnl.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cff1ec53-9b4e-4c17-967c-f8a77f0e53dd" DMDID="DMD_cff1ec53-9b4e-4c17-967c-f8a77f0e53dd">
+            <mets:fptr FILEID="FILE_cff1ec53-9b4e-4c17-967c-f8a77f0e53dd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

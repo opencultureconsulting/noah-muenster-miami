@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d686ac1e-dbf3-4a70-acfd-867e3008b7b6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Predicting Wildfire Fuels and Hazard in a Central European Temperate Forest Using Active and Passive Remote Sensing</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heisig, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Heisig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Olson, Edward</displayForm>
+                        <namePart type="given">Edward</namePart>
+                        <namePart type="family">Olson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136857736">
+                        <displayForm>Pebesma, Edzer J.</displayForm>
+                        <namePart type="given">Edzer J.</namePart>
+                        <namePart type="family">Pebesma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-20</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-03-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Climate change causes more extreme droughts and heat waves in Central Europe, affecting vegetative fuels and altering the local fire regime. Wildfire is projected to expand into the temperate zone, a region traditionally not concerned by fire. To mitigate this new threat, local forest management will require spatial fire hazard information. We present a holistic and comprehensible workflow for quantifying fuels and wildfire hazard through fire spread simulations. Surface and canopy fuels characteristics were sampled in a small managed temperate forest in Northern Germany. Custom fuel models were created for each dominant species (Pinus sylvestris, Fagus sylvatica, and Quercus rubra). Canopy cover, canopy height, and crown base height were directly derived from airborne LiDAR point clouds. Surface fuel types and crown bulk density (CBD) were predicted using random forest and ridge regression, respectively. Modeling was supported by 119 predictors extracted from LiDAR, Sentinel-1, and Sentinel-2 data. We simulated fire spread from random ignitions, considering eight environmental scenarios to calculate fire behavior and hazard. Fuel type classification scored an overall accuracy of 0.971 (Kappa = 0.967), whereas CBD regression performed notably weaker (RMSE = 0.069; R2 = 0.73). Higher fire hazard was identified for strong winds, low fuel moisture, and on slopes. Fires burned fastest and most frequently on slopes in large homogeneous pine stands. These should be the focus of preventive management actions.</abstract>
+                    <note type="citation/reference">Fire 5 (2022) 1, 29, 1-23</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>fuels</topic>
+                        <topic>wildfire</topic>
+                        <topic>fire behavior</topic>
+                        <topic>fire hazard</topic>
+                        <topic>remote sensing</topic>
+                        <topic>LiDAR</topic>
+                        <topic>Sentinel</topic>
+                        <topic>modeling</topic>
+                        <topic>simulation</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64059485783</identifier>
+                    <identifier type="doi">10.17879/64059488833</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d686ac1e-dbf3-4a70-acfd-867e3008b7b6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d686ac1e-dbf3-4a70-acfd-867e3008b7b6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d686ac1e-dbf3-4a70-acfd-867e3008b7b6/10.3390_fire5010029.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d686ac1e-dbf3-4a70-acfd-867e3008b7b6" DMDID="DMD_d686ac1e-dbf3-4a70-acfd-867e3008b7b6">
+            <mets:fptr FILEID="FILE_d686ac1e-dbf3-4a70-acfd-867e3008b7b6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

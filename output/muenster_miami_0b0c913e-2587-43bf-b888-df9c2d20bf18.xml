@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0b0c913e-2587-43bf-b888-df9c2d20bf18">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Johannisstift in der Osnabrücker Neustadt</title>
+                        <subTitle>ein westfälisches Kollegiatstift und seine Stellung in der Welt zwischen 1011 und dem Beginn des 15. Jahrhunderts</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143910566">
+                        <displayForm>Crabus, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Crabus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12360432X">
+                        <displayForm>Johanek, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Johanek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-03-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-04-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel der Arbeit ist die möglichst dicht dokumentierte Erfassung der Kanoniker und Dignitäten des Stifts St. Johann. Es sollen die erreichbaren Quellen zur Ausbildung, Pfründen an anderen Institutionen, die Tätigkeit im Kapitel, in der diözesanen Gerichtsbarkeit, im bürgerlichen Leben sowie zur Familie erfasst werden. Die Arbeit stellt die Bedeutung des Stifts für die Bistumsverwaltung heraus. Dazu wird die Tätigkeit der Archidiakone sowie der Offiziale betrachtet. Deutlich hervorgehoben wird die Leistung von Stiftsangehörigen in überlokalen Netzwerken, insbesondere in der päpstlichen delegierten Gerichtsbarkeit sowie als Exekutoren. Die gesammelten Quellen erlauben Aussagen über den Stellenwert des Notariats im Lebenslauf von Klerikern, da bei Kanonikern in der Regel die Notarstätigkeit nur transitorisch ist. Die Arbeit stellt die Kontakte des Stifts zur Stadt Osnabrück anhand der Memorialüberlieferung sowie der bürgerlichen Altarstiftungen zusammen.</abstract>
+                    <subject lang="ger">
+                        <topic>Kirchengeschichte</topic>
+                        <topic>Kollegiatstift</topic>
+                        <topic>Osnabrück</topic>
+                        <topic>Verwaltungsgeschichte</topic>
+                        <topic>Mittelalter</topic>
+                        <topic>Prosopographie</topic>
+                    </subject>
+                    <classification authority="ddc">230</classification>
+                    <classification authority="ddc">943</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94479377238</identifier>
+                    <identifier type="sys">HT016762854</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0b0c913e-2587-43bf-b888-df9c2d20bf18</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0b0c913e-2587-43bf-b888-df9c2d20bf18_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0b0c913e-2587-43bf-b888-df9c2d20bf18/diss_crabus.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0b0c913e-2587-43bf-b888-df9c2d20bf18" DMDID="DMD_0b0c913e-2587-43bf-b888-df9c2d20bf18">
+            <mets:fptr FILEID="FILE_0b0c913e-2587-43bf-b888-df9c2d20bf18_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

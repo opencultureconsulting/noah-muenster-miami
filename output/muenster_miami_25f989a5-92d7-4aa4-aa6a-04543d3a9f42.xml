@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_25f989a5-92d7-4aa4-aa6a-04543d3a9f42">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On discrete twisted C*-dynamical systems, Hilbert C*-modules and regularity</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/151396485">
+                        <displayForm>Bédos, Erik</displayForm>
+                        <namePart type="given">Erik</namePart>
+                        <namePart type="family">Bédos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1025455606">
+                        <displayForm>Conti, Roberto</displayForm>
+                        <namePart type="given">Roberto</namePart>
+                        <namePart type="family">Conti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-10-23</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-03-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We first give an overview of the basic theory for discrete unital twisted C*-dynamical systems and their covariant representations on Hilbert C*-modules. After introducing the notion of equivariant representations of such systems and their product with covariant representations, we prove a kind of Fell absorption principle saying that the product of an induced regular equivariant representation with a covariant faithful representation is weakly equivalent to an induced regular covariant representation. This principle is the key to our main result, namely that a certain property, formally weaker than Exel’s approximation property, ensures that the system is regular, i.e., the associated full and reduced C*-crossed products are canonically isomorphic.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>183</start>
+                                <end>208</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-88399587577</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_25f989a5-92d7-4aa4-aa6a-04543d3a9f42</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_25f989a5-92d7-4aa4-aa6a-04543d3a9f42_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/25f989a5-92d7-4aa4-aa6a-04543d3a9f42/mjm_vol_5_10.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_25f989a5-92d7-4aa4-aa6a-04543d3a9f42" DMDID="DMD_25f989a5-92d7-4aa4-aa6a-04543d3a9f42">
+            <mets:fptr FILEID="FILE_25f989a5-92d7-4aa4-aa6a-04543d3a9f42_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

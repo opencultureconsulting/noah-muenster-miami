@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bcfe32ac-314a-40a6-927b-af539febe0ab">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vielfalt aus Westfalen – Pflichtexemplare der ULB Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-09-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausgabe ist erschienen in: ProLibris 21.2016, Heft 2, S. 68-72 und in ProLibris 21.2016, Heft 3, S. 128-131.</note>
+                    <note>Eine Liste der im Text aufgeführten Titel befindet sich unter http://nbn-resolving.de/urn:nbn:de:hbz:6-75219477394.</note>
+                    <note type="ownership">Digitale Publikation mit freundlicher Genehmigung der Redaktion der Zeitschrift ProLibris.</note>
+                    <subject lang="ger">
+                        <topic>Westfalen</topic>
+                        <topic>Pflichtexemplar</topic>
+                        <topic>Universitäts und Landesbibliothek Münster</topic>
+                        <topic>ULB Münster</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-91209500874</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bcfe32ac-314a-40a6-927b-af539febe0ab</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bcfe32ac-314a-40a6-927b-af539febe0ab_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bcfe32ac-314a-40a6-927b-af539febe0ab/flachmann_2016_vielfalt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bcfe32ac-314a-40a6-927b-af539febe0ab" DMDID="DMD_bcfe32ac-314a-40a6-927b-af539febe0ab">
+            <mets:fptr FILEID="FILE_bcfe32ac-314a-40a6-927b-af539febe0ab_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

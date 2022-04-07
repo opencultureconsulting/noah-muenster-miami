@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_73f5de86-a357-459f-a302-3fe0a702c82f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>AML1, ETO antagonisiert die STAT5-vermittelte Funktion von Flt3-ITD in 32D-Zellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1017600872">
+                        <displayForm>Reicherts, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Reicherts</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1015101798">
+                        <displayForm>Müller-Tidow, Carsten</displayForm>
+                        <namePart type="given">Carsten</namePart>
+                        <namePart type="family">Müller-Tidow</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-11-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-10-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">AML1/ETO und Flt3-ITD stellen zwei der häufigsten Mutationen in der AML dar. Diese kommen wiederum nur in weniger als 5% der Fälle gemeinsam vor. Die zugrunde liegende Ursache fand sich in der negativen Regulation des durch Flt3-ITD initiierten Signaltransduktionsweges via STAT5. Die Beeinträchtigung der STAT5-Phosphorylierung führt funktionell zur Wachstumsinhibition und hat Auswirkungen auf alle Stufen von Transkription und Translation STAT5-abhängiger Gene.</abstract>
+                    <subject lang="ger">
+                        <topic>AML</topic>
+                        <topic>Flt3-ITD</topic>
+                        <topic>AML1/ETO</topic>
+                        <topic>STAT5</topic>
+                        <topic>Phosphorylierung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-82429630553</identifier>
+                    <identifier type="sys">HT017054773</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_73f5de86-a357-459f-a302-3fe0a702c82f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_73f5de86-a357-459f-a302-3fe0a702c82f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/73f5de86-a357-459f-a302-3fe0a702c82f/diss_reicherts.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_73f5de86-a357-459f-a302-3fe0a702c82f" DMDID="DMD_73f5de86-a357-459f-a302-3fe0a702c82f">
+            <mets:fptr FILEID="FILE_73f5de86-a357-459f-a302-3fe0a702c82f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

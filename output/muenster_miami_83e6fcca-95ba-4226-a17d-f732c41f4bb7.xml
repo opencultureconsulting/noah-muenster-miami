@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_83e6fcca-95ba-4226-a17d-f732c41f4bb7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Online-Lernen mit Studierenden</title>
+                        <subTitle>Beispiel am Projekt &quot;Wasser&quot;</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/11278979X">
+                        <displayForm>Graf, Dittmar</displayForm>
+                        <namePart type="given">Dittmar</namePart>
+                        <namePart type="family">Graf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klee, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Klee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im WS 1999/2000 wird an der Universität Gießen zum ersten Mal im deutschsprachigen Raum ein Seminar für Lehramtsstudierende der Biologie (Thema Wasser) angeboten, das ausschließlich Online im Internet stattfindet. Sowohl zur Wissensaneignung als auch zur Kommunikation zwischen den Teilnehmern wird eine speziell entwickelte Software eingesetzt. Der nachfolgende Beitrag legt einige grundsätzliche Überlegungen zum Online-Lernen dar, die dem Programm zu Grunde liegen. Am Ende der Ausführungen wird kurz der Online- Kurs „Wasser“ vorgestellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Studie</topic>
+                        <topic>Online-Lernen</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>43</start>
+                                <end>52</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542114</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_83e6fcca-95ba-4226-a17d-f732c41f4bb7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_83e6fcca-95ba-4226-a17d-f732c41f4bb7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/83e6fcca-95ba-4226-a17d-f732c41f4bb7/GrafKlee84.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_83e6fcca-95ba-4226-a17d-f732c41f4bb7" DMDID="DMD_83e6fcca-95ba-4226-a17d-f732c41f4bb7">
+            <mets:fptr FILEID="FILE_83e6fcca-95ba-4226-a17d-f732c41f4bb7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

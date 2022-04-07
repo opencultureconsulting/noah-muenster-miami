@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_16afe953-874d-4aa9-ac89-a9bdefc8d297">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Going-Down principle for ample groupoids and applications</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1164796933">
+                        <displayForm>Bönicke, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Bönicke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112466982">
+                        <displayForm>Echterhoff, Siegfried</displayForm>
+                        <namePart type="given">Siegfried</namePart>
+                        <namePart type="family">Echterhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-08-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-06-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit beschäftigt sich mit einem sogenannten Going-Down Prinzip für total unzusammenhängende r-diskrete Gruppoide und seinen Anwendungen. Das Going-Down Prinzip für lokalkompakte Gruppen wurde von Chabert, Echterhoff und Oyono-Oyono entwickelt und erlaubt es gewisse Funktoren, die im Zusammenhang mit der topologischen K-theorie einer lokalkompakten Gruppe stehen, mithilfe ihrer Einschränkung auf kompakte Untergruppen zu studieren. In dieser Arbeit wird Le Galls äquivariante Version von Kasparovs bivarianter KK-Theorie verwendet, um dieses Prinzip auf die Klasse der total unzusammenhängenden r-diskreten Gruppoide auszudehnen. Darüberhinaus werden eine Reihe von Anwendungen dieses Prinzips präsentiert, die größtenteils im Zusammenhang zur Baum-Connes Vermutung für Gruppoide stehen.</abstract>
+                    <abstract lang="eng">We study a Going-Down (or restriction) principle for ample groupoids and its applications. The Going-Down principle for locally compact groups was developed by Chabert, Echterhoff and Oyono-Oyono and allows to study certain functors, that arise in the context of the topological K-theory of a locally compact group, in terms of their restrictions to compact subgroups. We extend this principle to the class of ample Hausdorff groupoids using Le Gall&apos;s groupoid equivariant version of Kasparov&apos;s bivariant KK-theory. Moreover, we provide a number of applications in connection with the Baum-Connes conjecture for ample groupoids.</abstract>
+                    <subject lang="ger">
+                        <topic>C*-Algebren</topic>
+                        <topic>r-diskrete Gruppoide</topic>
+                        <topic>K-Theorie</topic>
+                        <topic>Baum-Connes Vermutung</topic>
+                        <topic>Künneth Formel</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>C*-algebras</topic>
+                        <topic>r-discrete groupoids</topic>
+                        <topic>K-theory</topic>
+                        <topic>Baum-Connes conjecture</topic>
+                        <topic>Künneth formula</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17179636626</identifier>
+                    <identifier type="sys">HT019777849</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_16afe953-874d-4aa9-ac89-a9bdefc8d297</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_16afe953-874d-4aa9-ac89-a9bdefc8d297_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/16afe953-874d-4aa9-ac89-a9bdefc8d297/diss_boenicke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_16afe953-874d-4aa9-ac89-a9bdefc8d297" DMDID="DMD_16afe953-874d-4aa9-ac89-a9bdefc8d297">
+            <mets:fptr FILEID="FILE_16afe953-874d-4aa9-ac89-a9bdefc8d297_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

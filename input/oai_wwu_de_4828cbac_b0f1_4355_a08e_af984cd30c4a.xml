@@ -1,0 +1,201 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:4828cbac-b0f1-4355-a08e-af984cd30c4a" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:40:27">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_4828cbac-b0f1-4355-a08e-af984cd30c4a">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Hardware-oriented Krylov methods for high-performance computing</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/123092826X">
+                    <mods:namePart type="given">Nils-Arne</mods:namePart>
+                    <mods:namePart type="family">Dreier</mods:namePart>
+                    <mods:namePart type="date">1990-</mods:namePart>
+                    <mods:displayForm>Dreier, Nils-Arne</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/139810196">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Engwer</mods:namePart>
+                    <mods:displayForm>Engwer, Christian</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2020</mods:dateIssued>
+                    <mods:dateOther>2021-03-08</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2021-04-07</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2021-04-07</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>113</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Gegenstand dieser Dissertation ist die Formulierung von Krylovraumverfahren zur Lösung von linearen Gleichungssystemen mit mehreren rechten Seiten, welche die Eigenschaften moderner Hardware berücksichtigen. Dazu untersuchen wir ein innovatives Blockkrylovraum-Framework, welches es ermöglicht die Berechnungs- und Datentransferkosten der Blockkrylovraummethode an die Hardware anzupassen. Darauf aufbauend formulieren wir mehrere Krylovraummethoden. Für die Block CG und Block BiCGStab Methoden entwickeln wir eine adaptive Stabilisierungsstrategie. Des Weiteren optimieren wir die Methoden bezüglich der Kommunikation auf Systemen mit verteiltem Speicher. Dazu stellen wir mehrere Varianten der Algorithmen vor, welche sich durch ihre Kommunikationseigenschaften unterscheiden. Außerdem entwickeln wir für die GMRes Methode optimierte Varianten der Orthonormalisierung. Für alle optimierten Varianten zeigen wir numerische Tests, welche die Verbesserungen demonstrieren.</mods:abstract>
+                  <mods:abstract lang="eng">In this work, we develop Krylov subspace methods to solve linear systems with multiple right-hand sides, tailored to modern hardware in high-performance computing. To this end, we analyze an innovative block Krylov subspace framework that allows to balance the computational and data-transfer costs to the hardware. Based on the framework, we formulate commonly used Krylov methods. For the CG and BiCGStab methods, we introduce an adaptive stabilization approach as an alternative to a deflation strategy. In addition, we optimize the methods further for distributed memory systems and the communication overhead. For this we present several variants of the algorithms, which differ in their communication properties. For the Block GMRes algorithm, we present optimizations for the orthogonalization. For all optimized method, we present tests that show their superiority.</mods:abstract>
+                  <mods:tableOfContents lang="eng">1 Introduction 1&#13;
+1.1 Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1&#13;
+1.2 Related Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3&#13;
+1.3 Contributions and Outline . . . . . . . . . . . . . . . . . . . . . . . . . 4&#13;
+2 A Brief Introduction to Krylov Methods 6&#13;
+Part 1 Block Krylov Methods 13&#13;
+3 A General Block Krylov Framework 14&#13;
+3.1 Block Krylov Spaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15&#13;
+3.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23&#13;
+3.3 Performance Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26&#13;
+3.4 Numerical Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . 27&#13;
+4 Block Conjugate Gradients Method 31&#13;
+4.1 Formulation of the Block Conjugate Gradients Method . . . . . . . . . 31&#13;
+4.2 Convergence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35&#13;
+4.3 Residual Re-Orthonormalization . . . . . . . . . . . . . . . . . . . . . . 38&#13;
+4.4 Numerical Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . 40&#13;
+5 Block GMRes Method 46&#13;
+5.1 Formulation of the Block GMRes Method . . . . . . . . . . . . . . . . 46&#13;
+5.2 Convergence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49&#13;
+5.3 Numerical Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . 52&#13;
+6 Block BiCGStab Method 54&#13;
+6.1 Formulation of the Block BiCGStab Method . . . . . . . . . . . . . . . 54&#13;
+6.2 Residual Re-Orthonormalization . . . . . . . . . . . . . . . . . . . . . . 59&#13;
+6.3 Numerical Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . 62&#13;
+Part 2 Communication-aware Block Krylov Methods 65&#13;
+7 Challenges on Large Scale Parallel Systems 66&#13;
+7.1 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67&#13;
+7.2 Collective Communication Benchmark . . . . . . . . . . . . . . . . . . 68&#13;
+7.3 The TSQR Algorithm . . . . . . . . . . . . . . . . . . . . . . . . . . . 70&#13;
+8 Pipelined Block CG Method 74&#13;
+8.1 Fusing Inner Block Products . . . . . . . . . . . . . . . . . . . . . . . . 74&#13;
+8.2 Overlap Computation and Communication . . . . . . . . . . . . . . . . 76&#13;
+8.3 Numerical Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . 83&#13;
+9 Communication-optimized Block GMRes Method 85&#13;
+9.1 Classical Gram-Schmidt with Re-Orthogonalization . . . . . . . . . . . 86&#13;
+9.2 Pipelined Gram-Schmidt . . . . . . . . . . . . . . . . . . . . . . . . . . 87&#13;
+9.3 Localized Arnoldi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88&#13;
+9.4 Numerical Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . 94&#13;
+10 Pipelined Block BiCGStab Method 97&#13;
+10.1 Numerical Experiments . . . . . . . . . . . . . . . . . . . . . . . . . . . 99&#13;
+11 Summary and Outlook 101&#13;
+Bibliography 105</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="thesis">Münster (Westfalen), Univ., Diss., 2021</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="ger">Block Krylov Methoden; Hochleistungsrechnen; Hardware-orientierte Numerik; Numerische Lineare Algebra; Kommunikationsvermeidung; Kommunikationsüberlappung</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">block Krylov methods; high-performance-computing; hardware-oriented numerics; numerical linear algebra; communication-avioing; communication-hiding</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-58009462603</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/4828cbac-b0f1-4355-a08e-af984cd30c4a</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/4.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:4828cbac-b0f1-4355-a08e-af984cd30c4a</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_4828cbac-b0f1-4355-a08e-af984cd30c4a">
+            <mets:rightsMD ID="RIGHTSMD_4828cbac-b0f1-4355-a08e-af984cd30c4a">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_4828cbac-b0f1-4355-a08e-af984cd30c4a">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/4828cbac-b0f1-4355-a08e-af984cd30c4a</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="3300d30b4613335450af6ec7678732bf6ca8aaa622d1e91c5f9cb141b3b8f47d" CREATED="2021-04-07T14:55:39" CHECKSUMTYPE="SHA-256" SIZE="1756179" ID="ID_FIL_diss_dreier.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4828cbac-b0f1-4355-a08e-af984cd30c4a/diss_dreier.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW4828cbac-b0f1-4355-a08e-af984cd30c4a">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/4828cbac-b0f1-4355-a08e-af984cd30c4a" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_4828cbac-b0f1-4355-a08e-af984cd30c4a" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_dreier.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_dreier.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_4828cbac-b0f1-4355-a08e-af984cd30c4a" DMDID="DMD_4828cbac-b0f1-4355-a08e-af984cd30c4a" ID="ID_LOG_4828cbac-b0f1-4355-a08e-af984cd30c4a" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_dreier.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_4828cbac-b0f1-4355-a08e-af984cd30c4a" xlink:to="ID_PHY_4828cbac-b0f1-4355-a08e-af984cd30c4a"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_dreier.pdf" xlink:to="ID_PHY_diss_dreier.pdf"/>
+          </mets:structLink>
+        </mets:mets>

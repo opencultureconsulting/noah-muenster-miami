@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6601c387-4f42-4a8c-9b71-5bfa61d69f58">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fach- und bildungswissenschaftliche Grundlagen für den Informatikunterricht in der Sekundarstufe I</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1037357558">
+                        <displayForm>Pasternak, Arno</displayForm>
+                        <namePart type="given">Arno</namePart>
+                        <namePart type="family">Pasternak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12178214X">
+                        <displayForm>Vahrenhold, Jan</displayForm>
+                        <namePart type="given">Jan</namePart>
+                        <namePart type="family">Vahrenhold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2013-12-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-05-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">2006 hat Jeannette M. Wing postuliert, dass es ein &apos;Computational Thinking&apos; gibt, dass als Kernpunkte &apos;Automation&apos; und &apos;Abstraktion&apos; beinhaltet. Will das Schulfach Informatik sich als allgemeinbildendes Fach behaupten, ist es notwendig, herauszuarbeiten, dass &apos;informatisches Denken&apos; eine grundsätzliche Denkstruktur ist, die unabhängig von der Anwendung konkreter Werkzeuge für das heutige Denken in Wissenschaft und Gesellschaft benötigt wird. In dieser Arbeit wird gezeigt, dass diese grundsätzliche Denkstruktur vorliegt. Damit ist Informatik als Pflichtfach in der Schule notwendig. Zusätzlich wird gezeigt, dass Informatik auch bildungswissenschaftlichen Bedingungen und lernpsychologischen Ansprüchen entspricht. Es wird daraufhin der Informatikunterricht in einem Wahlpflichtkurs mit Hauptfachcharakter an der Fritz-Steinhoff-Gesamtschule in Hagen beschrieben, der exemplarisch in einem 6. Jahrgang durchgeführt und evaluiert wurde.</abstract>
+                    <subject lang="ger">
+                        <topic>Schule</topic>
+                        <topic>Informatik</topic>
+                        <topic>Didaktik</topic>
+                        <topic>Pflichtfach</topic>
+                        <topic>computational thinking</topic>
+                        <topic>Kontextorientierung</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94379439372</identifier>
+                    <identifier type="sys">HT018109947</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6601c387-4f42-4a8c-9b71-5bfa61d69f58</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6601c387-4f42-4a8c-9b71-5bfa61d69f58_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6601c387-4f42-4a8c-9b71-5bfa61d69f58/diss_pasternak.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6601c387-4f42-4a8c-9b71-5bfa61d69f58" DMDID="DMD_6601c387-4f42-4a8c-9b71-5bfa61d69f58">
+            <mets:fptr FILEID="FILE_6601c387-4f42-4a8c-9b71-5bfa61d69f58_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

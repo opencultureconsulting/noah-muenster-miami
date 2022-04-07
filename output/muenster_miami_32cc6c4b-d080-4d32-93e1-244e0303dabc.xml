@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_32cc6c4b-d080-4d32-93e1-244e0303dabc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekularbiologischer Nachweis von Markergenen für die Virulenz in Escherichia coli</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133884481">
+                        <displayForm>Strobelt, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Strobelt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Friedrich, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-12-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit ermöglicht mit Hilfe spezifischer molekularbiologischer Marker für die Virulenz von Escherichia coli die Differenzierung zwischen EHEC O157:H7 und O157:H-.Anhand von Gendatenbanken wurden 5 spezifische Genabschnitte, sogenannte O-Islands ausgewählt und ihr Vorhandensein in repräsentativen E. coli Stämmen untersucht.Innerhalb der E. coli Population zeigten OI 09 und OI 154 ein fast ausschließliches Auftreten in den Serotypen O55:H7, O157:H7 und O157:H- und fügen sich in das bekannte Evolutionsmodell von EHEC O157. Der Genabschnitt OI 172 konnte vorwiegend in O157:H7 Stämmen gefunden werden. Durch den fehlenden Nachweis in O157:H- Stämmen konnte mit OI 172 eine Unterscheidung zwischen EHEC O157:H7 und den SF EHEC O157: H- Stämmen erfolgen und das Evolutionsmodell erweitert werden. Die Gene der O-Islands sind assoziiert mit schwerem Krankheitsbild und Virulenz.Die OI 172 ermöglicht eine Differenzierung zwischen O157:H7 und dem hochpathogenen SF EHEC O157: H-.</abstract>
+                    <subject lang="ger">
+                        <topic>Escherichia coli</topic>
+                        <topic>EHEC</topic>
+                        <topic>Evolution</topic>
+                        <topic>Diagnostik</topic>
+                        <topic>O-Island</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16559580398</identifier>
+                    <identifier type="sys">HT015465137</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_32cc6c4b-d080-4d32-93e1-244e0303dabc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_32cc6c4b-d080-4d32-93e1-244e0303dabc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/32cc6c4b-d080-4d32-93e1-244e0303dabc/diss_strobelt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_32cc6c4b-d080-4d32-93e1-244e0303dabc" DMDID="DMD_32cc6c4b-d080-4d32-93e1-244e0303dabc">
+            <mets:fptr FILEID="FILE_32cc6c4b-d080-4d32-93e1-244e0303dabc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

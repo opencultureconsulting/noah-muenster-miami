@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f5238f54-4727-4b7a-a12c-94f48a4abd2e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Projekt MIRO – Überblick</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stracke, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Stracke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-02-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-07-08</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, gehalten auf dem 1. gemeinsamen Workshop cHL-hybrid, MIRO, MOVE, MIAMI (c3m II) am 13.02.2006 an der Westfälischen Wilhelms-Universität Münster</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68539440547</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f5238f54-4727-4b7a-a12c-94f48a4abd2e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f5238f54-4727-4b7a-a12c-94f48a4abd2e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f5238f54-4727-4b7a-a12c-94f48a4abd2e/12_MIRO_ueberblick_DFG-Antrag_v1.0.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f5238f54-4727-4b7a-a12c-94f48a4abd2e" DMDID="DMD_f5238f54-4727-4b7a-a12c-94f48a4abd2e">
+            <mets:fptr FILEID="FILE_f5238f54-4727-4b7a-a12c-94f48a4abd2e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

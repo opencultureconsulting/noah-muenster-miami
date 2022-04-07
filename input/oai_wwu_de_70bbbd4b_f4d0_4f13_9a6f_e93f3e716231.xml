@@ -1,0 +1,151 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:70bbbd4b-f4d0-4f13-9a6f-e93f3e716231" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:38:56">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="ger">
+                    <mods:title script="Latn">Entwicklung eines dreidimensionalen numerischen full-Stokes-Fließmodells und seine Anwendung auf ein Inlandeis-Schelfeissystem der Antarktis im Bereich des westlichen Dronning Maud Lands</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/143628895">
+                    <mods:namePart type="given">Thomas</mods:namePart>
+                    <mods:namePart type="family">Kleiner</mods:namePart>
+                    <mods:namePart type="date">1976-</mods:namePart>
+                    <mods:displayForm>Kleiner, Thomas</mods:displayForm>
+                    <mods:affiliation>FB 11: Physik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1077383940">
+                    <mods:namePart type="given">Manfred A.</mods:namePart>
+                    <mods:namePart type="family">Lange</mods:namePart>
+                    <mods:displayForm>Lange, Manfred A.</mods:displayForm>
+                    <mods:affiliation>FB 11: Physik</mods:affiliation>
+                    <mods:affiliation>Zentrum für Umweltforschung</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2010</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2010-08-27</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2010-12-21</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-05-18</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Eine Vorhersage des globalen Klimas hängt unter anderem vom Grad der Kenntnis über die Dynamik der Eismassen in der Antarktis ab. Insbesondere die Betrachtung der Übergangszone zwischen Inlandeis und Schelfeis erfordert hochqualitative numerische Modelle der Dynamik der Eismassen. Basierend auf den Erhaltungsgleichungen für Masse, Impuls und Energie wird ein numerisches full-Stokes-Fließmodell für Eis entwickelt. Die Lösung der resultierenden gekoppelten partiellen Differentialgleichungssysteme erfolgt mit der Methode der Finiten Differenzen. Eine erste Anwendung des Fließmodells auf das Brunt- und Riiser-Larsen-Schelfeis sowie auf deren Einstromgebiete im westlichen Dronning Maud Land ohne basales Gleiten zeigt eine qualitativ gute Übereinstimmung mit gemessenen Oberflächengeschwindigkeiten im Inlandeis. Weitere Anwendungen mit basalem Gleiten führen aufgrund mangelnder Kenntnis der Gleiteigenschaften und der basalen Topographie des Eises zu keiner weiteren Verbesserung der Ergebnisse.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">Inlandeis; Schelfeis; Antarktis; full-Stokes; Fließmodell; Eisdynamik</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">550</mods:classification>
+                  <mods:classification authority="ddc">530</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-25479427684</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/70bbbd4b-f4d0-4f13-9a6f-e93f3e716231</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:70bbbd4b-f4d0-4f13-9a6f-e93f3e716231</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231">
+            <mets:rightsMD ID="RIGHTSMD_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/70bbbd4b-f4d0-4f13-9a6f-e93f3e716231</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="ea09052c4c634d48b951809c6a77ba0723c965b3acec9ebbecf4221753edcf02" CREATED="2016-05-18T14:18:09" CHECKSUMTYPE="SHA-256" SIZE="20804990" ID="ID_FIL_diss_kleiner.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/70bbbd4b-f4d0-4f13-9a6f-e93f3e716231/diss_kleiner.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW70bbbd4b-f4d0-4f13-9a6f-e93f3e716231">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/70bbbd4b-f4d0-4f13-9a6f-e93f3e716231" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_kleiner.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_kleiner.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231" DMDID="DMD_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231" ID="ID_LOG_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_kleiner.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231" xlink:to="ID_PHY_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_kleiner.pdf" xlink:to="ID_PHY_diss_kleiner.pdf"/>
+          </mets:structLink>
+        </mets:mets>

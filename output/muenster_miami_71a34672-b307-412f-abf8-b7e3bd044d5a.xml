@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_71a34672-b307-412f-abf8-b7e3bd044d5a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Risikomanagementsystem der Finanzverwaltung</title>
+                        <subTitle>Die Anforderungen an den Gesetzgeber zur Einrichtung eines risikoorientierten und automatisierten Steuervollzugs</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1200487958">
+                        <displayForm>Koch, Stefanie</displayForm>
+                        <namePart type="given">Stefanie</namePart>
+                        <namePart type="family">Koch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138261075">
+                        <displayForm>Krumm, Marcel</displayForm>
+                        <namePart type="given">Marcel</namePart>
+                        <namePart type="family">Krumm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-11-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Finanzbehörden haben die Steuern gleichmäßig festzusetzen und zu erheben. Eine rein manuelle Bearbeitung wird der anwachsenden Zahl der Steuerfälle jedoch nicht mehr gerecht. Abhilfe soll eine computergestützte Risikovorprüfung schaffen, welche anhand von Risikoparametern entscheidet, welche Fälle zur menschlichen Verifikation ausgesteuert und welche Fälle zur automatisierten Steuerfestsetzung freigegeben werden. Die normative Grundlage dieser sog. Risikomanagementsysteme findet sich in § 88 Abs. 5 AO. Dabei überlässt es der Gesetzgeber ausdrücklich der Finanzverwaltung, die Risikoparameter festzulegen und ordnet gleichzeitig deren Geheimhaltung an. In dieser Arbeit soll aufgezeigt werden, welches Gefährdungspotenzial in dieser Norm steckt und welche verfassungsrechtlichen Vorgaben aus einem solchen Gefährdungspotenzial insbesondere für den Gesetzgeber erwachsen.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Das Risikomanagementsystem der Finanzverwaltung : Die Anforderungen an den Gesetzgeber zur Einrichtung eines risikoorientierten und automatisierten Steuervollzugs / Stefanie Koch. – Münster : readbox unipress, 2019. – V, 229 S. (Wissenschaftliche Schriften der WWU Münster : Reihe III ; Bd. 42), ISBN 978-3-8405-0216-3, Preis: 21,50 EUR</note>
+                    <subject lang="ger">
+                        <topic>Risikomanagementsystem</topic>
+                        <topic>Vollzugsdefizit</topic>
+                        <topic>Digitalisierung</topic>
+                        <topic>Automatisierung</topic>
+                        <topic>Steuervollzug</topic>
+                        <topic>Amtsermittlungsgrundsatz</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93189465841</identifier>
+                    <identifier type="isbn">978-3-8405-0216-3</identifier>
+                    <identifier type="sys">HT020709772</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_71a34672-b307-412f-abf8-b7e3bd044d5a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_71a34672-b307-412f-abf8-b7e3bd044d5a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/71a34672-b307-412f-abf8-b7e3bd044d5a/diss_koch_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_71a34672-b307-412f-abf8-b7e3bd044d5a" DMDID="DMD_71a34672-b307-412f-abf8-b7e3bd044d5a">
+            <mets:fptr FILEID="FILE_71a34672-b307-412f-abf8-b7e3bd044d5a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

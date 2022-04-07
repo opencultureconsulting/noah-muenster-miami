@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_15d51720-7b3e-4087-b111-12de777ab881">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Metaanalyse zur Therapie des Morbus Perthes</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131527576">
+                        <displayForm>Blome, Karsten Hermann</displayForm>
+                        <namePart type="given">Karsten Hermann</namePart>
+                        <namePart type="family">Blome</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1031141502">
+                        <displayForm>Frank, Robert</displayForm>
+                        <namePart type="given">Robert</namePart>
+                        <namePart type="family">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-03-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-02-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Arbeit fasst in einer Metaanalyse 313 Studien mit 2667 behandelten Hüften bezüglich der Therapie des Morbus Perthes zusammen. 1988 nach dem Mose-Score beurteilte und in 4 Therapiegruppen aufgeteilte Hüften wurden direkt miteinander verglichen: Varisierende Umstellungsosteotomie des Femur (676 Hüften) 51% good, 28 % fair, 21% poor; Salter-Beckenosteotomie (156 Hüften, 44% good, 39% fair, 17% poor; Weightbearing treatment (252 Hüften) 35% good, 34 % fair, 31% poor; Nonweightbearing treatment (904 Hüften) 34 % good, 35 % fair, 31% poor. Des weiteren konnte gezeigt werden, dass das Alter, sowie die Catterall-Stadien einen statistisch signifikanten Einfluss auf die Therapieergebnisse haben (p&lt;0,05), wobei in der Altersklasse unter 6 Jahre und in niedrigem Catterall-Stadium bessere Ergebnisse erzielt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Metaanalyse</topic>
+                        <topic>Morbus Perthes</topic>
+                        <topic>Alter</topic>
+                        <topic>Catterall-Stadien</topic>
+                        <topic>Therapievergleich</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23609589490</identifier>
+                    <identifier type="sys">HT014710478</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_15d51720-7b3e-4087-b111-12de777ab881</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_15d51720-7b3e-4087-b111-12de777ab881_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/15d51720-7b3e-4087-b111-12de777ab881/diss_blome_karsten.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_15d51720-7b3e-4087-b111-12de777ab881" DMDID="DMD_15d51720-7b3e-4087-b111-12de777ab881">
+            <mets:fptr FILEID="FILE_15d51720-7b3e-4087-b111-12de777ab881_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

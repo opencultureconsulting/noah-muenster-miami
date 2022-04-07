@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1dd409ad-6b04-4c2c-bd59-ff20513674e5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Expedition Alexander Th. Middendorffs (1842-1845) und die Folgen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rohn, Marcus</displayForm>
+                        <namePart type="given">Marcus</namePart>
+                        <namePart type="family">Rohn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-05-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-05-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659521435</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1dd409ad-6b04-4c2c-bd59-ff20513674e5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1dd409ad-6b04-4c2c-bd59-ff20513674e5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1dd409ad-6b04-4c2c-bd59-ff20513674e5/middendorff.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1dd409ad-6b04-4c2c-bd59-ff20513674e5" DMDID="DMD_1dd409ad-6b04-4c2c-bd59-ff20513674e5">
+            <mets:fptr FILEID="FILE_1dd409ad-6b04-4c2c-bd59-ff20513674e5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

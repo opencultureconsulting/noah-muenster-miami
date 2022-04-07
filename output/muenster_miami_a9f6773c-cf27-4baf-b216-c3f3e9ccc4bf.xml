@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a9f6773c-cf27-4baf-b216-c3f3e9ccc4bf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Philon im Kontext des palästinischen Judentums</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121473317">
+                        <displayForm>Doering, Lutz</displayForm>
+                        <namePart type="given">Lutz</namePart>
+                        <namePart type="family">Doering</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-10-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Aufsatz diskutiert mögliche Beziehungen Philons von Alexandrien zum palästinischen Judentum und stellt solche sowohl in Fragen der Halacha als auch der Aggada fest.</abstract>
+                    <abstract lang="eng">The essay discusses possible relations of Philon of Alexandria with Palestinian Judaism and identifies such relations in issues of both halakhah and aggadah.</abstract>
+                    <note type="citation/reference">Niehoff, Maren; Feldmeier, Reinhard (Hrsg.): Abrahams Aufbruch : Philon von Alexandria, &quot;De migratione Abrahami&quot;. Tübingen : Mohr Siebeck, 2017, S. 147–166 (SAPERE ;  30), ISBN 978-3-16-153819-3</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Mohr Siebeck Verlags.</note>
+                    <subject lang="ger">
+                        <topic>Philon</topic>
+                        <topic>Halacha</topic>
+                        <topic>Aggada</topic>
+                        <topic>Sabbat</topic>
+                        <topic>Traditionsaustausch</topic>
+                        <topic>palästinisches Judentum</topic>
+                        <topic>alexandrinisches Judentum</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Philo</topic>
+                        <topic>Halakhah</topic>
+                        <topic>Aggadah</topic>
+                        <topic>Sabbath</topic>
+                        <topic>Exchange of traditions</topic>
+                        <topic>Palestinian Judaism</topic>
+                        <topic>Alexandrian Judaism</topic>
+                    </subject>
+                    <classification authority="ddc">296</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79089542243</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a9f6773c-cf27-4baf-b216-c3f3e9ccc4bf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a9f6773c-cf27-4baf-b216-c3f3e9ccc4bf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a9f6773c-cf27-4baf-b216-c3f3e9ccc4bf/doering_2017_philon.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a9f6773c-cf27-4baf-b216-c3f3e9ccc4bf" DMDID="DMD_a9f6773c-cf27-4baf-b216-c3f3e9ccc4bf">
+            <mets:fptr FILEID="FILE_a9f6773c-cf27-4baf-b216-c3f3e9ccc4bf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

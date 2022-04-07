@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines dreidimensionalen numerischen full-Stokes-Fließmodells und seine Anwendung auf ein Inlandeis-Schelfeissystem der Antarktis im Bereich des westlichen Dronning Maud Lands</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143628895">
+                        <displayForm>Kleiner, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Kleiner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1077383940">
+                        <displayForm>Lange, Manfred A.</displayForm>
+                        <namePart type="given">Manfred A.</namePart>
+                        <namePart type="family">Lange</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-12-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-08-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine Vorhersage des globalen Klimas hängt unter anderem vom Grad der Kenntnis über die Dynamik der Eismassen in der Antarktis ab. Insbesondere die Betrachtung der Übergangszone zwischen Inlandeis und Schelfeis erfordert hochqualitative numerische Modelle der Dynamik der Eismassen. Basierend auf den Erhaltungsgleichungen für Masse, Impuls und Energie wird ein numerisches full-Stokes-Fließmodell für Eis entwickelt. Die Lösung der resultierenden gekoppelten partiellen Differentialgleichungssysteme erfolgt mit der Methode der Finiten Differenzen. Eine erste Anwendung des Fließmodells auf das Brunt- und Riiser-Larsen-Schelfeis sowie auf deren Einstromgebiete im westlichen Dronning Maud Land ohne basales Gleiten zeigt eine qualitativ gute Übereinstimmung mit gemessenen Oberflächengeschwindigkeiten im Inlandeis. Weitere Anwendungen mit basalem Gleiten führen aufgrund mangelnder Kenntnis der Gleiteigenschaften und der basalen Topographie des Eises zu keiner weiteren Verbesserung der Ergebnisse.</abstract>
+                    <subject lang="ger">
+                        <topic>Inlandeis</topic>
+                        <topic>Schelfeis</topic>
+                        <topic>Antarktis</topic>
+                        <topic>full-Stokes</topic>
+                        <topic>Fließmodell</topic>
+                        <topic>Eisdynamik</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25479427684</identifier>
+                    <identifier type="sys">HT016722697</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/70bbbd4b-f4d0-4f13-9a6f-e93f3e716231/diss_kleiner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231" DMDID="DMD_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231">
+            <mets:fptr FILEID="FILE_70bbbd4b-f4d0-4f13-9a6f-e93f3e716231_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

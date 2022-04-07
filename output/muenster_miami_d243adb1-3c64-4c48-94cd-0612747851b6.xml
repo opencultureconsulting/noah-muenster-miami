@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d243adb1-3c64-4c48-94cd-0612747851b6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Baculovirus-vermittelte transiente Genexpression in Herpes-simplex-Virus Typ 1 (HSV-1)-infizierten Säugerzellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128771089">
+                        <displayForm>Heid, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Heid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1112564098">
+                        <displayForm>Kühn, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Kühn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-02-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit wurde die Eignung des Baculovirustransduktionssystems zur transienten Proteinexpression in HSV-1-infizierten Zellen untersucht. Es wurde gezeigt, dass das Baculotransfersystem in seiner Transduktionseffizienz anderen kommerziellen Produkten zum Gentransfer (FuGENE6 und LipofectAMINE2000) deutlich überlegen ist. Durch Modifikation des Originalvektors pBacMam2 (Austausch des CAG-Promotors durch den HSV-1-eigenen gD-Promotor, Entfernung der Intron-Exon-Region) blieb die durch das Shutoff-Phänomen in HSV-1-überinfizierten Zellen bedingte Reduktion der Genexpression des Originalvektors aus. Weiterhin erwies sich der gD-Promotor als starker, spezifisch durch die HSV-1-Überinfektion aktivierbarer Promotor.</abstract>
+                    <subject lang="ger">
+                        <topic>HSV</topic>
+                        <topic>Baculovirus</topic>
+                        <topic>Gentransfer</topic>
+                        <topic>Transfervektor</topic>
+                        <topic>EGFP</topic>
+                        <topic>Transduktion</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526218</identifier>
+                    <identifier type="sys">HT013972576</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d243adb1-3c64-4c48-94cd-0612747851b6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d243adb1-3c64-4c48-94cd-0612747851b6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d243adb1-3c64-4c48-94cd-0612747851b6/disheid.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d243adb1-3c64-4c48-94cd-0612747851b6" DMDID="DMD_d243adb1-3c64-4c48-94cd-0612747851b6">
+            <mets:fptr FILEID="FILE_d243adb1-3c64-4c48-94cd-0612747851b6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

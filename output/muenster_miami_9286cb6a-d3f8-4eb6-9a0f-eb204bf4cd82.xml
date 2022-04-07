@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9286cb6a-d3f8-4eb6-9a0f-eb204bf4cd82">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Viele Wege führen zur Lösung! Lösen von Gleichungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidt, Günter</displayForm>
+                        <namePart type="given">Günter</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-08-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">An diversen unterrichtlichen Beispielen werden unterschiedliche Verfahren zur Lösung von Gleichungen vorgestellt.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, für unterrichtliche Zwecke freigegeben</note>
+                    <subject lang="ger">
+                        <topic>Gleichungen</topic>
+                        <topic>Löungsverfahren</topic>
+                        <topic>Newtonverfahren</topic>
+                        <topic>Iteration</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                        <topic>Mathematik</topic>
+                        <topic>Didaktik</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45649543682</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9286cb6a-d3f8-4eb6-9a0f-eb204bf4cd82</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9286cb6a-d3f8-4eb6-9a0f-eb204bf4cd82_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9286cb6a-d3f8-4eb6-9a0f-eb204bf4cd82/Guenter_Schmidt_Loesen_von_Gleichungen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9286cb6a-d3f8-4eb6-9a0f-eb204bf4cd82" DMDID="DMD_9286cb6a-d3f8-4eb6-9a0f-eb204bf4cd82">
+            <mets:fptr FILEID="FILE_9286cb6a-d3f8-4eb6-9a0f-eb204bf4cd82_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

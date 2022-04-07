@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0047af8d-2b17-4b10-841f-26a89e272c65">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Studies on the biological activity of chitosans and their mode of action in plant protection</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1197813268">
+                        <displayForm>Lemke, Philipp</displayForm>
+                        <namePart type="given">Philipp</namePart>
+                        <namePart type="family">Lemke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1214769772">
+                        <displayForm>Moerschbacher, Bruno</displayForm>
+                        <namePart type="given">Bruno</namePart>
+                        <namePart type="family">Moerschbacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-10-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-10-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Sowohl konventionelle als auch ökologische Landwirtschaft werden noch immer vom Einsatz umweltschädlicher und oft giftiger Pestizide bestimmt. Chitosane sind Zuckermoleküle, die einerseits aktiv die Resistenz von Pflanzen gegenüber Krankheiten erhöhen, andererseits Pflanzenschädlinge direkt angreifen können. Da Chitosane unter anderem aus Krabbenschalen oder Insektenpanzern gewonnen werden können, sind sie eine erneuerbare und nachhaltige Ressource und stellen eine attraktive Alternative zum chemisch geprägten Pflanzenschutz dar. In dieser Arbeit wurde die Eignung von Chitosan als Pflanzenschutzmittel überprüft, indem es als Fungizid gegen den Weizenschädling Fusarium graminearum und als Resistenzinduktor auf Kartoffelpflanzen getestet wurde. Dabei hat sich einerseits gezeigt, dass Chitosane das Wachstum von Fusarium graminearum verhindert, andererseits wurden verschiedene Abwehrmaßnahmen in der Kartoffelpflanze aktiviert, die auch auf genetischer Ebene nachgewiesen werden konnten.</abstract>
+                    <abstract lang="eng">Both conventional and organic agriculture are still largely dependent on the usage of ecologically harmful and toxic pesticides. Chitosans are sugars, which can induce the resistance of plants against diseases and prevent growth and spread of phytopathogens at the same time. Chitosans display a sustainable and renewable resource as they are attained from exoskeletons of crabs or insect cuticles. This thesis shows the antifungal activity of chitosans against the wheat pathogen Fusarium graminearum as well as its resistance-inducing potential on potato plants. It was observed that chitosans inhibit the growth of Fusarium graminearum and trigger defense mechanisms in potato plants that could also be determined via transcriptome expression analysis.</abstract>
+                    <subject lang="ger">
+                        <topic>Chitosan</topic>
+                        <topic>Pflanzenschutz</topic>
+                        <topic>Fungizid</topic>
+                        <topic>oxidative burst</topic>
+                        <topic>RNA-seq</topic>
+                        <topic>synergistisch</topic>
+                        <topic>Kartoffel</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Chitosan</topic>
+                        <topic>plant protection</topic>
+                        <topic>fungicide</topic>
+                        <topic>oxidative burst</topic>
+                        <topic>RNA-seq</topic>
+                        <topic>synergistic</topic>
+                        <topic>potato</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-73139723274</identifier>
+                    <identifier type="sys">HT020253020</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0047af8d-2b17-4b10-841f-26a89e272c65</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0047af8d-2b17-4b10-841f-26a89e272c65_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0047af8d-2b17-4b10-841f-26a89e272c65/diss_lemke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0047af8d-2b17-4b10-841f-26a89e272c65" DMDID="DMD_0047af8d-2b17-4b10-841f-26a89e272c65">
+            <mets:fptr FILEID="FILE_0047af8d-2b17-4b10-841f-26a89e272c65_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

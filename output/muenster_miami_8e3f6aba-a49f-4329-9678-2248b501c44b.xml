@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8e3f6aba-a49f-4329-9678-2248b501c44b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Respiratory Motion Correction on 3D Positron Emission Tomography Images</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135991943">
+                        <displayForm>Dawood, Mohammad</displayForm>
+                        <namePart type="given">Mohammad</namePart>
+                        <namePart type="family">Dawood</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang, Xiaoyi</displayForm>
+                        <namePart type="given">Xiaoyi</namePart>
+                        <namePart type="family">Jiang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Xiaoyi, Jiang</displayForm>
+                        <namePart type="given">Jiang</namePart>
+                        <namePart type="family">Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang Xiaoyi</displayForm>
+                        <namePart type="family">Jiang Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-07-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-07-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">PET/CT Gräte erlauben gleichzeitige morphologische und anatomische Bildaufnahme des Körpers. Die Aufnahmemodalitäten bedingen, dass bei der Positronen-Emissions-Tomographie (PET) der Patient weiter Atmet. Bei der Computer Tomographie (CT) dagegen, die nur wenige Sekunden dauert, hält er seinen Atem. Aufgrund der Diskrepanz zwischen den Aufnahmen kommt es zu Artefakten bei der Gewichtung der PET-Daten durch die CT-Daten. Diese Gewichtung ist aber für Quantitative PET-Daten notwendig. Des Weiteren können kleine Tumore durch die Verschmierung der Daten im Rauschen untergehen. In dieser Arbeit wird eine Lösung des Problems vorgeschlagen die auf zwei Schritte beruht. Zunächst werden die PET-Daten in verschiedene Atemphasen unterteilt. Im zweiten Schritt werden die Daten verschiedener Phasen mit einer Zielphase in Übereinstimmung gebracht. Hierzu wird eine Optical Flow Methode benutzt. Die Ergebnisse auf Phantom und auf Patientendaten zeigen, dass das Problem erfolgreich gelöst worden ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Bewegungskorrektur</topic>
+                        <topic>Optical Flow</topic>
+                        <topic>PET/CT</topic>
+                        <topic>PET</topic>
+                        <topic>Gating</topic>
+                        <topic>Listmode</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14569467874</identifier>
+                    <identifier type="sys">HT015640933</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8e3f6aba-a49f-4329-9678-2248b501c44b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8e3f6aba-a49f-4329-9678-2248b501c44b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8e3f6aba-a49f-4329-9678-2248b501c44b/diss_dawood.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8e3f6aba-a49f-4329-9678-2248b501c44b" DMDID="DMD_8e3f6aba-a49f-4329-9678-2248b501c44b">
+            <mets:fptr FILEID="FILE_8e3f6aba-a49f-4329-9678-2248b501c44b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

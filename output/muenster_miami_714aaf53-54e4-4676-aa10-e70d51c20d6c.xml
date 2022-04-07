@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_714aaf53-54e4-4676-aa10-e70d51c20d6c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>John Vincent Stanley Megaw und Derek Douglas Alexander Simpson, Introduction to British Prehistory from the Arrival of Homo sapiens to the Claudian Invasion</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108081737">
+                        <displayForm>Jockenhövel, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Jockenhövel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1981</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-03-06</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-03-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note type="citation/reference">Germania 59 (1981) 1, 111-114</note>
+                    <classification authority="ddc">930</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-91429408310</identifier>
+                    <identifier type="issn">0016-8874</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_714aaf53-54e4-4676-aa10-e70d51c20d6c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_714aaf53-54e4-4676-aa10-e70d51c20d6c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/714aaf53-54e4-4676-aa10-e70d51c20d6c/1981_jocke_intro.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_714aaf53-54e4-4676-aa10-e70d51c20d6c" DMDID="DMD_714aaf53-54e4-4676-aa10-e70d51c20d6c">
+            <mets:fptr FILEID="FILE_714aaf53-54e4-4676-aa10-e70d51c20d6c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d4e53425-65f2-40e2-b209-bc627763c79e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Formale Mengenlehre und Topologie</title>
+                        <subTitle>Ein Beitrag zur Degradierung des Mengenbegriffs</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112177123">
+                        <displayForm>Hohelüchter, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Hohelüchter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-10-10</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-10-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Mengenlehre hat heute eine Zwitterstellung: Einerseits beherrscht ihre Terminologie einen Großteil der Mathematik, andrerseits soll sie als eine spezielle formale axiomatische Theorie aufgebaut werden. Die Hilbertsche Auffassung der Formalität als syntaktische und somit sprachgebundene Struktur scheint diese beiden Aufgaben vereinbar zu machen. Diese Auffassung wird hier in Frage gestellt und durch eine andere rein strukturelle ersetzt, der auch die Sprache unterworfen ist. Danach sind nicht die Relationen der Mengenlehre bzw. der Syntax für die Mathematik entscheidend, sondern deren Eigenschaften. Eine Menge ist nur eine Rolle einer Relation, der Elementschafts-Relation, eine Klasse nicht einmal eine logische Einheit. Damit büßt die Mengenlehre ihre Sonderstellung ein und behält lediglich denselben Status wie etwa die (inhaltliche bzw. formale) Geometrie.</abstract>
+                    <subject lang="ger">
+                        <topic>Menge</topic>
+                        <topic>Klasse</topic>
+                        <topic>Einheit und Vielheit</topic>
+                        <topic>Teil und Ganzes</topic>
+                        <topic>attributive Formalität</topic>
+                        <topic>Struktur</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27549561916</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d4e53425-65f2-40e2-b209-bc627763c79e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d4e53425-65f2-40e2-b209-bc627763c79e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d4e53425-65f2-40e2-b209-bc627763c79e/formale_mengenlehre_und_topologie.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d4e53425-65f2-40e2-b209-bc627763c79e" DMDID="DMD_d4e53425-65f2-40e2-b209-bc627763c79e">
+            <mets:fptr FILEID="FILE_d4e53425-65f2-40e2-b209-bc627763c79e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

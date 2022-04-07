@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7cd0ace3-3825-49a1-9702-b7eaed693631">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Real-Time MRI Reveals Unique Insight into the Full Kinematics of Eye Movements</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kirchner, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Kirchner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Watson, Tamara</displayForm>
+                        <namePart type="given">Tamara</namePart>
+                        <namePart type="family">Watson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172579074">
+                        <displayForm>Lappe, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Lappe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-07</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-02-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Our eyes are constantly in motion and the various kinds of eye movements are closely linked to many aspects of human cognitive processing. Measuring all possible eye movements unobtrusively is not achievable with current methods. Video-based eye-trackers only measure rotational but not translational motion of the eye, require a calibration process relying on the participant’s self-report of accurate fixation, and do not work if vision of the eyeball is blocked. Scleral search coils attach physical weight on the eyeball and also do not measure translation. Here, we describe a novel and fully automated method to use real-time magnetic resonance imaging (MRI) for eye tracking. We achieved a temporal resolution sufficient to measure eye rotations and translations as short as those that occur within a blink and behind a closed eyelid. To demonstrate this method, we measured the full extent of the blink-related eye movement for two individuals, suggesting that the eye approaches a holding position during lid closure and can move by as much as 35° in rotation and 2 mm in translation. We also investigated the coordination of gaze shifts with blinks. We found that the gaze shift is tightly coupled in time to the translational blink movement and that blinks can induce significant temporal shifts of the gaze trajectory between left and right eye. Our MR-based Eye Tracking (MREyeTrack) method allows measurement of eye movements in terms of both translation and rotation and enables new opportunities for studying ocular motility and its disorders.</abstract>
+                    <note type="citation/reference">eNeuro 9 (2022) 1, 1-14</note>
+                    <note>Förderer: European Commission / Projektnummer: 734227</note>
+                    <note>Funding organisation: European Commission / Project number: 734227</note>
+                    <subject lang="eng">
+                        <topic>blinks</topic>
+                        <topic>eye movements</topic>
+                        <topic>MRI</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64099465658</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7cd0ace3-3825-49a1-9702-b7eaed693631</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7cd0ace3-3825-49a1-9702-b7eaed693631_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7cd0ace3-3825-49a1-9702-b7eaed693631/10.1523_ENEURO.0357-21.2021.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7cd0ace3-3825-49a1-9702-b7eaed693631" DMDID="DMD_7cd0ace3-3825-49a1-9702-b7eaed693631">
+            <mets:fptr FILEID="FILE_7cd0ace3-3825-49a1-9702-b7eaed693631_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3a1f024b-3d12-48ed-8b3d-24aa6419f61e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Jesus und der Sabbat im Licht der Qumrantexte</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121473317">
+                        <displayForm>Doering, Lutz</displayForm>
+                        <namePart type="given">Lutz</namePart>
+                        <namePart type="family">Doering</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-10-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Aufsatz diskutiert Aspekte von Sabbathalacha und -praxis, wie sie in den neutestamentlichen Evangelien zum Ausdruck kommen, im Vergleich mit Informationen aus den Qumrantexten: Ährenraufen, Heilen und Lebensrettung, weitere halachische Probleme wie Priesterdienste und Tragen am Sabbat, daneben Aussagen zur Sabbatfeier und Sabbatdeutung.</abstract>
+                    <abstract lang="eng">The essay discusses aspects of Sabbath halakhah and practice as expressed in the New Testament Gospels in comparison with information from the Dead Sea Scrolls: plucking grain, healing and life-saving, amd other halachic problems such as priestly service and transporting objects on the Sabbath, as well as statements on Sabbath celebration and Sabbath interpretation.</abstract>
+                    <note type="citation/reference">Frey, Jörg; Popkes, Enno Edzard (Hrsg.): Jesus, Paulus und die Texte von Qumran. Tübingen : Mohr Siebeck, 2015, S. 33–61 (Wissenschaftliche Untersuchungen zum Neuen Testament 2 ; 390), ISBN 978-3-16-153212-2</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Mohr Siebeck Verlags.</note>
+                    <subject lang="ger">
+                        <topic>Sabbat</topic>
+                        <topic>Heilungen</topic>
+                        <topic>Lebensrettung</topic>
+                        <topic>Ährenraufen</topic>
+                        <topic>Jesus</topic>
+                        <topic>Qumrantexte</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Sabbath</topic>
+                        <topic>Therapies</topic>
+                        <topic>Live saving</topic>
+                        <topic>Plucking grain</topic>
+                        <topic>Jesus</topic>
+                        <topic>Dead Sea Scrolls</topic>
+                    </subject>
+                    <classification authority="ddc">226</classification>
+                    <classification authority="ddc">232</classification>
+                    <classification authority="ddc">296</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09089703473</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3a1f024b-3d12-48ed-8b3d-24aa6419f61e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3a1f024b-3d12-48ed-8b3d-24aa6419f61e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3a1f024b-3d12-48ed-8b3d-24aa6419f61e/doering_2015_jesus-sabbat.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3a1f024b-3d12-48ed-8b3d-24aa6419f61e" DMDID="DMD_3a1f024b-3d12-48ed-8b3d-24aa6419f61e">
+            <mets:fptr FILEID="FILE_3a1f024b-3d12-48ed-8b3d-24aa6419f61e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d0d28411-6a55-45d9-b3db-6e319fbba5f5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Über die Entscheidbarkeit der formalen Erreichbarkeit von Prozeduren bei Monadischen Programmen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1045682977">
+                        <displayForm>Lippe, Wolfram-Manfred</displayForm>
+                        <namePart type="given">Wolfram-Manfred</namePart>
+                        <namePart type="family">Lippe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1976</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-09-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-09-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Schneider, Hansjürgen (Hrsg.): Programmiersprachen. Berlin : Springer, 1976, S. 124-134</note>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-69329426436</identifier>
+                    <identifier type="isbn">3-540-07619-0</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d0d28411-6a55-45d9-b3db-6e319fbba5f5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d0d28411-6a55-45d9-b3db-6e319fbba5f5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d0d28411-6a55-45d9-b3db-6e319fbba5f5/1976_lippe_entsc.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d0d28411-6a55-45d9-b3db-6e319fbba5f5" DMDID="DMD_d0d28411-6a55-45d9-b3db-6e319fbba5f5">
+            <mets:fptr FILEID="FILE_d0d28411-6a55-45d9-b3db-6e319fbba5f5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

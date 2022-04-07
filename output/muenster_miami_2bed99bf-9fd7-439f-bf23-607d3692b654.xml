@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2bed99bf-9fd7-439f-bf23-607d3692b654">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neoplasien nach Nierentransplantation</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130190993">
+                        <displayForm>Zumkley, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Zumkley</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112607195">
+                        <displayForm>Schaefer, Roland M.</displayForm>
+                        <namePart type="given">Roland M.</namePart>
+                        <namePart type="family">Schaefer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-07-17</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-07-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es besteht nach Nierentransplantation ein erhöhtes Risiko, dass sich eine Neoplasie entwickelt. Insbesondere Hautneoplasien, Non-Hodgkin-Lymphome und Kaposisarkome treten vermehrt auf. Es findet sich eine Korrelation zwischen der Dauer und Dosierung der immunsuppressiven Therapie und dem Auftreten der Malignome, eine eindeutige Zuordnung zu einem bestimmten immunsuppressiven Medikament ist nicht möglich. Viele der auftretenden Neoplasien, insbesondere der Hauttumoren sind chirurgisch therapierbar, eventuell sogar heilbar, vorausgesetzt, dass sie frühzeitig erkannt werden. Deshalb sollten transplantierte Patienten regelmäßig auf neuentstandene Neoplasien untersucht werden. Sonnenexposition unter Immunsuppression stellt einen besonders großen Risikofaktor für Neoplasien dar. Transplantationen bringen den Patienten deutlich mehr Nutzen als Risiken. Regelmäßige Kontrollen und ausführliche Nachuntersuchungen können die Risiken für die Patienten minimieren.</abstract>
+                    <subject lang="ger">
+                        <topic>Hauttumor</topic>
+                        <topic>Immunsuppression</topic>
+                        <topic>Kaposisarkom</topic>
+                        <topic>Neoplasie</topic>
+                        <topic>Nierentransplantation</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95659455808</identifier>
+                    <identifier type="sys">HT014471126</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2bed99bf-9fd7-439f-bf23-607d3692b654</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2bed99bf-9fd7-439f-bf23-607d3692b654_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2bed99bf-9fd7-439f-bf23-607d3692b654/diss_zumkley.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2bed99bf-9fd7-439f-bf23-607d3692b654" DMDID="DMD_2bed99bf-9fd7-439f-bf23-607d3692b654">
+            <mets:fptr FILEID="FILE_2bed99bf-9fd7-439f-bf23-607d3692b654_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_dcffa61f-af47-4372-ba59-4cf31aceb91a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Etablierung eines Zellkulturmodells, um molekulare und zelluläre Effekte der Sec61α1R236C Mutation, die mit polyzystischer Lebererkrankung assoziiert ist, zu untersuchen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1245175971">
+                        <displayForm>Krader, Jana Kristina</displayForm>
+                        <namePart type="given">Jana Kristina</namePart>
+                        <namePart type="family">Krader</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1245175971">
+                        <displayForm>Krader, Jana</displayForm>
+                        <namePart type="given">Jana</namePart>
+                        <namePart type="family">Krader</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130514535">
+                        <displayForm>Schmidt, Hartmut</displayForm>
+                        <namePart type="given">Hartmut</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-11-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-10-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Hintergrund: Genetische Analysen am Universitätsklinikum Münster identifizierten eine neue heterozygote missense Mutation (c.706C&gt;T; p.R236C) im Gen SEC61A1 bei zwei verwandten Patientinnen von Polyzystischer Lebererkrankung. Ziel: Das Ziel dieser Arbeit war die Etablierung eines Zellkulturmodells zur Untersuchung der molekularen und zellulären Effekte der Sec61a1 Mutante R236C. Methoden: Zur transienten oder stabilen Expression von Sec61a1R236C in der Zellkultur wurden Transfektionen mit Plasmidvektoren unterschiedlicher Eigenschaften sowie Knockout-Rescue Zelllinien angesetzt. Anschließende Untersuchung der generierten Zellen erfolgte mittels Immunfluoreszenzmirkoskopie und Western-Blot Analyse. Ergebnis: Eine dauerhafte Expression von Sec61a1R236C ist nicht gelungen. Ein Vergleich der Proteinlevel mit dem Wildtypen zeigt eine signifikant geringere Expression der Mutante. Die Mutante scheint auf unbekannte Weise toxisch zu sein.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Sec61a1</topic>
+                        <topic>Polyzystische Lebererkrankung</topic>
+                        <topic>Endoplasmatisches Retikulum</topic>
+                        <topic>Translokonkomplex</topic>
+                        <topic>Zellkulturmodell</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-65089385970</identifier>
+                    <identifier type="sys">HT021146757</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_dcffa61f-af47-4372-ba59-4cf31aceb91a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_dcffa61f-af47-4372-ba59-4cf31aceb91a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/dcffa61f-af47-4372-ba59-4cf31aceb91a/diss_krader.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_dcffa61f-af47-4372-ba59-4cf31aceb91a" DMDID="DMD_dcffa61f-af47-4372-ba59-4cf31aceb91a">
+            <mets:fptr FILEID="FILE_dcffa61f-af47-4372-ba59-4cf31aceb91a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

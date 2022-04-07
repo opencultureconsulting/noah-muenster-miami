@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a141a9cb-7ba1-4b48-849b-d16df40ab4de">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einfluss der S100A12-Oligomerisierung auf die Interaktion und Aktivierung der Rezeptoren RAGE und TLR-4</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1082448966">
+                        <displayForm>Brockmeyer, Sonja</displayForm>
+                        <namePart type="given">Sonja</namePart>
+                        <namePart type="family">Brockmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123599865">
+                        <displayForm>Föll, Dirk</displayForm>
+                        <namePart type="given">Dirk</namePart>
+                        <namePart type="family">Föll</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-02-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-01-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Kalzium-Bindeprotein S100A12 fungiert sowohl als Signalmolekül als auch als Biomarker bei verschiedenen (auto)inflammatorischen Erkrankungen. In Abwesenheit der Ionen Kalzium (Ca) und Zink (Zn) liegt es überwiegend als Dimer vor. Die Bindung von Ca und/oder Zn führt zu einer Konformationsänderung und damit zur Oligomerisierung. In dieser Arbeit wurden S100A12-Mutanten durch Substitution der an der Ca- oder Zn-Bindung beteiligten Aminosäuren (AS) erzeugt und auf ihre Komplexbildung sowie RAGE-/TLR-4-Bindung und -Aktivierung hin analysiert. Substitutionen der für die Zn-Bindung essentiellen AS haben weniger Einfluss auf die Komplexbildung als Mutationen der Ca-bindenden AS. Funktionelle Analysen der Mutanten zeigten, dass alle Komplexformen des S100A12 in der Lage sind, die Rezeptoren TLR-4 und RAGE zu binden. Bei Analysen zur Rezeptor-Aktivierung ist hingegen deutlich geworden, dass ausschließlich hexameres S100A12 in der Lage ist, eine Signaltransduktion über TLR 4 zu initiieren.</abstract>
+                    <subject lang="ger">
+                        <topic>Kalzium-Bindeprotein</topic>
+                        <topic>S100A12</topic>
+                        <topic>Oligomerisierung</topic>
+                        <topic>TLR-4</topic>
+                        <topic>RAGE</topic>
+                        <topic>Signaltransduktion</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66289688763</identifier>
+                    <identifier type="sys">HT018884814</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a141a9cb-7ba1-4b48-849b-d16df40ab4de</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a141a9cb-7ba1-4b48-849b-d16df40ab4de_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a141a9cb-7ba1-4b48-849b-d16df40ab4de/diss_brockmeyer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a141a9cb-7ba1-4b48-849b-d16df40ab4de" DMDID="DMD_a141a9cb-7ba1-4b48-849b-d16df40ab4de">
+            <mets:fptr FILEID="FILE_a141a9cb-7ba1-4b48-849b-d16df40ab4de_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

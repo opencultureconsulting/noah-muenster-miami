@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Variational methods for combined image and motion estimation</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/107412328X">
+                        <displayForm>Suhr, Sebastian</displayForm>
+                        <namePart type="given">Sebastian</namePart>
+                        <namePart type="family">Suhr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-07-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-06-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit beschäftigt sich mit zwei Variationsmodellen zur kombinierten Bild- und Bewegungsschätzung. Der Fokus liegt dabei auf einer detaillierten Analysis und der Vorstellung eines numerischen Frameworks zur Implementierung. Die entwickelten Methoden werden in beiden Fällen auf je einem künstlichen Datensatz mit bereits bekannten Methoden detailliert verglichen.</abstract>
+                    <abstract lang="eng">This thesis is concerned with two variational models for combined image and motion estimation. The focus is laid on establishing analytical results aswell as presenting a numerical framework for the implementation. Both methods are compared in detail to established methods on artificial data.</abstract>
+                    <subject lang="ger">
+                        <topic>Bayesianische Modellierung</topic>
+                        <topic>Bewegungskorrektur</topic>
+                        <topic>Rekonstruktion</topic>
+                        <topic>TV-Regularisierung</topic>
+                        <topic>Hyperelastische Regularisierung</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Bayesian modeling</topic>
+                        <topic>registration</topic>
+                        <topic>reconstruction</topic>
+                        <topic>TV regularization</topic>
+                        <topic>hyperelastic regularization</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68299664406</identifier>
+                    <identifier type="sys">HT018704316</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227/diss_suhr.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227" DMDID="DMD_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227">
+            <mets:fptr FILEID="FILE_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

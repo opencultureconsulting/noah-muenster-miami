@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_07ad1218-2a60-4369-ab06-e2aba9911bbe">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Smart Science</title>
+                        <subTitle>Die Vortragsreihe &quot;Vorlesung mal anders&quot;</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135823439">
+                        <displayForm>Irsigler, Ingo</displayForm>
+                        <namePart type="given">Ingo</namePart>
+                        <namePart type="family">Irsigler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14331999X">
+                        <displayForm>Lembke, Gerrit</displayForm>
+                        <namePart type="given">Gerrit</namePart>
+                        <namePart type="family">Lembke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-05-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Innovative Forschung braucht frische Vermittlungsformate, die sich jenseits traditioneller Lehrformen bewegen. Die Kieler Vorlesung mal anders (2011-14), organisiert von Ingo Irsigler und Gerrit Lembke, hat sich darum bemüht, in mancherlei Hinsicht ›anders‹ zu sein und den Studierenden die Bedeutung der Kulturwissenschaften näher zu bringen. Eine Vorlesung ohne Eingangstest und TeilnehmerInnenliste, ohne Credit-Points – aber mit jungen Dozenten und zahlreichen engagierten Studierenden.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-19289669746</identifier>
+                    <identifier type="doi">10.17879/27289449471</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_07ad1218-2a60-4369-ab06-e2aba9911bbe</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_07ad1218-2a60-4369-ab06-e2aba9911bbe_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/07ad1218-2a60-4369-ab06-e2aba9911bbe/textpraxis_2015_10_irsigler_lembke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_07ad1218-2a60-4369-ab06-e2aba9911bbe" DMDID="DMD_07ad1218-2a60-4369-ab06-e2aba9911bbe">
+            <mets:fptr FILEID="FILE_07ad1218-2a60-4369-ab06-e2aba9911bbe_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

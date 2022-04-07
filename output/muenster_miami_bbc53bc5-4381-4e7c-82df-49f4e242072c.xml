@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bbc53bc5-4381-4e7c-82df-49f4e242072c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Peritoneallavage mit sauerstoffgesättigtem Perfluorocarbon</title>
+                        <subTitle>Evaluation eines Ansatzes zur Überbrückung mesenterialer Ischämie im porcinen Großtiermodell unter besonderer Berücksichtigung des histologischen Befundes</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143888420">
+                        <displayForm>Horstjan, Sonja</displayForm>
+                        <namePart type="given">Sonja</namePart>
+                        <namePart type="family">Horstjan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112064450">
+                        <displayForm>Knichwitz, Gisbert</displayForm>
+                        <namePart type="given">Gisbert</namePart>
+                        <namePart type="family">Knichwitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-03-24</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-02-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Akute Formen mesenterialer Ischämie gehören zu den Krankheitsbildern hoher Mortalität. Es fehlt an suffizienten Therapieansätzen speziell bei der nonokklusiven Mesenterialischämie. Experimentelle Kleintiermodell-Studien zeigten, dass die peritoneale Lavage mit sauerstoffgesättigtem Perfluorocarbon (PFC) bei Malperfusion des Darmes die lokale Hypoxie mildern und den Verlust intestinaler Mukosa verringern kann. Die vorliegende Studie untersucht die histologische Veränderung des Darmgewebes während peritonealer Dialyse mit sauerstoffgesättigtem PFC bei Ischämie im porcinen Großtiermodell. 18 Schweine dienten als Versuchstiere. Diese wurden 3 Gruppen zugeteilt. Gruppe A erhielt eine 240-minütige Darmischämie durch 80% Okklusion der A. mesenterica superior, dann erfolgte 60 min. Reperfusion. Gruppe B erhielt PFC-Lavage während der Ischämie. Gruppe C erhielt nur die Situspräparation. Nach histologischer Begutachtung der Gewebeproben, führte die Therapie nicht zur Verbesserung des Mukosastatus.</abstract>
+                    <subject lang="ger">
+                        <topic>Mesenterielle Ischämie</topic>
+                        <topic>NOMI</topic>
+                        <topic>Perfluorocarbon</topic>
+                        <topic>peritoneale Lavage</topic>
+                        <topic>Darmmukosa</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84479707516</identifier>
+                    <identifier type="sys">HT016761096</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bbc53bc5-4381-4e7c-82df-49f4e242072c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bbc53bc5-4381-4e7c-82df-49f4e242072c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bbc53bc5-4381-4e7c-82df-49f4e242072c/diss_horstjan.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bbc53bc5-4381-4e7c-82df-49f4e242072c" DMDID="DMD_bbc53bc5-4381-4e7c-82df-49f4e242072c">
+            <mets:fptr FILEID="FILE_bbc53bc5-4381-4e7c-82df-49f4e242072c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

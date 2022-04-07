@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8203d4e4-e1e6-46d2-8182-fdf12513fdd4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Organisational Intelligence and Distributed AI</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13000006X">
+                        <displayForm>Kirn, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Kirn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1995-07</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-23</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The analysis of this chapter starts from organisational theory, and from this it draws conclusions for the design, and possible organisational applications, of Distributed AI systems. We first review how the concept of organisations has emerged from non-organised &quot;blackbox&quot; entities to so-called &quot;computerised&quot; organisations. Within this context organisational researchers have started to redesign their models of intelligent organisations with respect to the availability of advanced computing technology. The recently emerged concept of Organisational Intelligence integrates these efforts in that it suggests five components of intelligent organisational skills (communication, memory, learning, cognition, problem solving). The approach integrates human and computer-based information processing and problem solving capabilities.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23599572286</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8203d4e4-e1e6-46d2-8182-fdf12513fdd4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8203d4e4-e1e6-46d2-8182-fdf12513fdd4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8203d4e4-e1e6-46d2-8182-fdf12513fdd4/040_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8203d4e4-e1e6-46d2-8182-fdf12513fdd4" DMDID="DMD_8203d4e4-e1e6-46d2-8182-fdf12513fdd4">
+            <mets:fptr FILEID="FILE_8203d4e4-e1e6-46d2-8182-fdf12513fdd4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

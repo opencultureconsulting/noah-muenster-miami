@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_11ca5828-1ebd-4693-9e97-b100930b2539">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gedächtnis und Bewusstsein</title>
+                        <subTitle>Untersuchung von zerebralen Aktivierungsmustern von (nicht-)deklarierten Erinnerungen mittels funktioneller Magnetresonanztomographie</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1151269484">
+                        <displayForm>Eikelmann, Moritz</displayForm>
+                        <namePart type="given">Moritz</namePart>
+                        <namePart type="family">Eikelmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173772838">
+                        <displayForm>Pfleiderer, Bettina</displayForm>
+                        <namePart type="given">Bettina</namePart>
+                        <namePart type="family">Pfleiderer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-01-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-09-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Arbeit beschäftigt sich mit der Funktion von nicht-deklarativen Gedächtnis- und hier Primingprozessen. Es wurden 20 Probandinnen/-en im Alter von 23 bis 31 Jahren mittels fMRT untersucht. Das Ziel der Arbeit war es die Performanz, fMRT-Aktivierungen von Gehirnregionen und den Einfluss des Bekanntheitsgrades sowie der Materialspezifität von Stimuli auf diese Parameter in Enkodierung- und Abrufvorgängen zu untersuchen. Das implizite Gedächtnisparadigma bestand aus Endkodierung und Abruf. Priming zeigte schnellere Reaktionszeiten und niedrigere Fehlerraten für bekannte vs unbekannte Stimuli und eine bessere Performanz bei verbalen vs figuralen Stimuli. Im impliziten Gedächtnisparadigma wurden der MTL und HC in Enkodierung und Abruf nicht aktiviert. Es zeigten sich Aktivierungen von parietalen, precunealen und okzipitalen Arealen. Unsere Ergebnisse belegen Primingprozesse mit parietalen Aktivierungen und einer Modulation durch die Materialspezifität der Stimuli.</abstract>
+                    <subject lang="ger">
+                        <topic>funktionelle Magnetresonanztomographie</topic>
+                        <topic>episodisches Gedächtnis</topic>
+                        <topic>Priming</topic>
+                        <topic>Enkodierung</topic>
+                        <topic>Abruf</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59179636994</identifier>
+                    <identifier type="sys">HT019572357</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_11ca5828-1ebd-4693-9e97-b100930b2539</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_11ca5828-1ebd-4693-9e97-b100930b2539_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/11ca5828-1ebd-4693-9e97-b100930b2539/diss_eikelmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_11ca5828-1ebd-4693-9e97-b100930b2539" DMDID="DMD_11ca5828-1ebd-4693-9e97-b100930b2539">
+            <mets:fptr FILEID="FILE_11ca5828-1ebd-4693-9e97-b100930b2539_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ce99706b-7bde-442f-83de-ce9b30bb7344">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Atheismus</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122633717">
+                        <displayForm>Gärtner, Christel</displayForm>
+                        <namePart type="given">Christel</namePart>
+                        <namePart type="family">Gärtner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-01-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Beitrag behandelt die Definition und Entstehung von Atheismus, seine Verflechtung mit der Religionskritik seit der Aufklärung und gibt einen Überblick über die Entstehung des organisierten Atheismus seit dem 19. Jahrhundert.</abstract>
+                    <note type="citation/reference">Oberreuter, Heinrich (Hrsg.): Staatslexikon. Band 1. ABC-Waffen - Ehrenamt (Recht, Wirtschaft, Gesellschaft). 8. völlig neu bearbeitete Auflage, Freiburg im Breisgau : Herder Verlag, 2017, ISBN: 978-3-451-37511-8, S. 430-434</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Herder-Verlags.</note>
+                    <subject lang="ger">
+                        <topic>Exzellenzcluster Religion und Politik</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Cluster of Excellence Religion and Politics</topic>
+                    </subject>
+                    <classification authority="ddc">030</classification>
+                    <classification authority="ddc">200</classification>
+                    <classification authority="ddc">400</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99189401474</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ce99706b-7bde-442f-83de-ce9b30bb7344</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ce99706b-7bde-442f-83de-ce9b30bb7344_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ce99706b-7bde-442f-83de-ce9b30bb7344/gaertner_2017_atheismus.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ce99706b-7bde-442f-83de-ce9b30bb7344" DMDID="DMD_ce99706b-7bde-442f-83de-ce9b30bb7344">
+            <mets:fptr FILEID="FILE_ce99706b-7bde-442f-83de-ce9b30bb7344_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

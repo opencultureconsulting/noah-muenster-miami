@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1e30ae5c-a7a5-4e8b-a7d1-0b0acd9e15c0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Automated UMLS-Based Comparison of Medical Forms</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1131361393">
+                        <displayForm>Dugas, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Dugas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1024073424">
+                        <displayForm>Fritz, Fleur</displayForm>
+                        <namePart type="given">Fleur</namePart>
+                        <namePart type="family">Fritz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/11466031X">
+                        <displayForm>Krumm, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Krumm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1107534151">
+                        <displayForm>Breil, Bernhard</displayForm>
+                        <namePart type="given">Bernhard</namePart>
+                        <namePart type="family">Breil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-07-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-08-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Medical forms are very heterogeneous: on a European scale there are thousands of data items in several hundred different systems. To enable data exchange for clinical care and research purposes there is a need to develop interoperable documentation systems with harmonized forms for data capture. A prerequisite in this harmonization process is comparison of forms. So far – to our knowledge – an automated method for comparison of medical forms is not available. A form contains a list of data items with corresponding medical concepts. An automatic comparison needs data types, item names and especially item with these unique concept codes from medical terminologies. The scope of the proposed method is a comparison of these items by comparing their concept codes (coded in UMLS). Each data item is represented by item name, concept code and value domain. Two items are called identical, if item name, concept code and value domain are the same. Two items are called matching, if only concept code and value domain are the same. Two items are called similar, if their concept codes are the same, but the value domains are different. Based on these definitions an open-source implementation for automated comparison of medical forms in ODM format with UMLS-based semantic annotations was developed. It is available as package compareODM from http://cran.r-project.org. To evaluate this method, it was applied to a set of 7 real medical forms with 285 data items from a large public ODM repository with forms for different medical purposes (research, quality management, routine care). Comparison results were visualized with grid images and dendrograms. Automated comparison of semantically annotated medical forms is feasible. Dendrograms allow a view on clustered similar forms. The approach is scalable for a large set of real medical forms.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2013/2014 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">PLoS ONE 8 (2013) 7, e67883</note>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-31239571574</identifier>
+                    <identifier type="doi">10.1371/journal.pone.0067883</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1e30ae5c-a7a5-4e8b-a7d1-0b0acd9e15c0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1e30ae5c-a7a5-4e8b-a7d1-0b0acd9e15c0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1e30ae5c-a7a5-4e8b-a7d1-0b0acd9e15c0/journal.pone.0067883.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1e30ae5c-a7a5-4e8b-a7d1-0b0acd9e15c0" DMDID="DMD_1e30ae5c-a7a5-4e8b-a7d1-0b0acd9e15c0">
+            <mets:fptr FILEID="FILE_1e30ae5c-a7a5-4e8b-a7d1-0b0acd9e15c0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

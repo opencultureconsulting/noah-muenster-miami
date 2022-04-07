@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9952d183-16d5-4d0a-a60e-188c6d8cc844">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Model reduction for kinetic equations: moment approximations and hierarchical approximate proper orthogonal decomposition</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1130666093">
+                        <displayForm>Leibner, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Leibner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115010972">
+                        <displayForm>Ohlberger, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Ohlberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-01-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-04-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Momentenmodelle sind eine Klasse von spezialisierten approximativen Modellen für kinetische Transportgleichungen. Diese Modelle wandeln die kinetische Gleichung in ein geschwindigkeitsunabhängiges Gleichungssystem für die gewichteten Mittelwerte (Momente) der Lösung um. Je nachdem, welche Gewichtsfunktionen für die Mittelwerte verwendet werden und auf welche Art das Gleichungssystem geschlossen wird, unterscheiden sich die entstehenden Modelle in ihren Eigenschaften. Wird ein linearer Ansatz gewählt, so sind auch die zugehörigen Momentenmodelle linear und mit vergleichsweise geringem Aufwand zu lösen, dafür ist die Lösung aber nicht unbedingt physikalisch sinnvoll und kann zum Beispiel negative Dichten enthalten. Modelle, die auf Entropie-Minimierung beruhen, erhalten hingegen viele der grundlegenden physikalischen Eigenschaften der Lösungen. Dafür liegt der für die Lösung benötigte Rechenaufwand deutlich höher, da ein nichtlineares Optimierungsproblem in jeder Zelle des Zeit-Raum-Gitters gelöst werden muss. Darüber hinaus sind die Optimierungsprobleme nur wohlgestellt, solange die Momente innerhalb eines bestimmten Teilgebiets des Koordinatenraums (der sogenannten Realisierbarkeitsmenge) liegen, was die Entwicklung von numerischen Methoden, insbesondere solcher höherer Ordnung, deutlich erschwert. In dieser Arbeit untersuchen wir deshalb mehrere Ansätze, um die Implementierung und Lösung von (insbesondere Entropie-basierten) Momentenmodellen für lineare kinetische Gleichungen zu vereinfachen. Als erstes konzentrieren wir uns auf die Basisfunktionen (die Gewichtsfunktionen für die Momente). Oft werden diese als Polynome auf dem kompletten Geschwindigkeitsraum gewählt, wohingegen wir uns hier mit stückweise linearen Basisfunktionen beschäftigen. Wir zeigen, dass die entstehenden Modelle für nicht-glatte Lösungen ähnlich gute Approximationseigenschaften haben wie die Standardmodelle, während die Realisierbarkeitsbedingungen sehr viel einfacher und die Rechnungen deutlich schneller sind. Zudem stellen wir ein realisierbarkeitserhaltendes Finite-Volumen-Verfahren zweiter Ordnung vor und zeigen, dass die Implementierung durch die einfachere Struktur der neuen Modelle deutlich weniger komplex ist. Als zweiten Ansatz präsentieren wir ein neues numerisches Verfahren für die Entropie-basierten Momentenmodelle. Durch eine Variablentransformation müssen in dem neuen Verfahren anstelle der nichtlinearen Optimierungsprobleme nur noch positiv definite Matrizen invertiert werden, wodurch die Realisierbarkeitsbedingungen wegfallen und die Lösungen oft deutlich schneller ermittelt werden können als mit Standardverfahren. Schließlich beschäftigen wir uns mit der Möglichkeit einer zusätzlichen Modellreduktion für parameterabhängige Momentenmodelle. Hierzu nutzen wir die Reduzierte-Basis-Methode und berechnen mit der Hauptkomponentenanalyse (Proper Orthogonal Decomposition, POD) ein reduziertes Modell. Wir stellen die hierarchische approximative POD (HAPOD) vor, ein universelles und einfach zu implementierendes Verfahren um eine approximative POD zu berechnen. Die HAPOD nutzt eine fast beliebig an die verfügbaren Ressourcen anpassbare Baumstruktur, so dass jeder Rechenknoten nur die POD einer relativ kleinen Teilmenge der Eingangsvektoren berechnen muss. Wir führen eine ausführliche theoretische Analyse der HAPOD durch und zeigen die Anwendbarkeit auf lineare Momentenmodelle sowie eine gegenüber der POD deutlich verbesserte Effizienz.</abstract>
+                    <abstract lang="eng">Moment models are a class of specialized approximate models for kinetic transport equations. These models transform the kinetic equation to a system of equations for weighted velocity averages of the solution, called moments, thereby removing the velocity dependency. The properties of the resulting models depend on the chosen weight functions for the moments and on the approach used to close the equations. Closing the system by specifying a linear ansatz function results in linear models that are comparatively easy to solve but may show non-physical behaviour. Minimum-entropy moment closures, on the other hand, conserve many of the fundamental physical properties but require the solution of a non-linear optimization problem for every cell in the space-time grid. In addition, these models are only well-defined if the moments can be kept within a particular subset of the real coordinate space, the so-called realizable set, which is particularly challenging for higher-order numerical solvers. In this thesis, we investigate several approaches to increase usability of (minimum-entropy) moment approximations to linear kinetic equations. First, we focus on the basis functions, i.e. the weight functions for the velocity averages. Typically, these are chosen as polynomials on the whole velocity space. Here, as an alternative, we analyse models based on continuous and discontinuous piecewise linear basis functions. We show that, for non-smooth solutions, approximation quality is comparable while realizability conditions are much simpler and the computations are considerably faster. In addition, we provide second-order finite volume schemes and show that realizability preservation and thus overall implementation is significantly less complex for the new models. Second, we suggest a new numerical method for the minimum-entropy models that is based on a transformation of the moment vectors. This new method replaces the non-linear optimization problems by inversions of positive definite matrices. As a result, it avoids the realizability-related problems and is often several times faster than the standard optimization-based scheme. Finally, we investigate the possibility to further accelerate computations for parameter-dependent moment models by building a reduced model via the reduced basis method utilizing proper orthogonal decomposition (POD). We present the hierarchical approximate POD (HAPOD), a general, easy-to-implement approach to compute an approximate POD based on arbitrary tree hierarchies of worker nodes, where each worker computes a POD of only a small number of input vectors. The tree hierarchy can be freely adapted to optimally suit the available computational resources. We provide rigorous theoretical results and show applicability and performance by applying the HAPOD to a large linear moment model.</abstract>
+                    <note type="thesis statement">Zugl.: Münster (Westfalen), Univ., Diss., 2021</note>
+                    <note>Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 390685587</note>
+                    <note>Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 390685587</note>
+                    <note>Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 194347757</note>
+                    <note>Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 194347757</note>
+                    <subject lang="ger">
+                        <topic>Momentenmodelle</topic>
+                        <topic>Modellreduktion</topic>
+                        <topic>HAPOD</topic>
+                        <topic>lineare kinetische Gleichungen</topic>
+                        <topic>Realisierbarkeit</topic>
+                        <topic>Entropieminimierung</topic>
+                        <topic>Finite-Volumen-Verfahren</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>moment models</topic>
+                        <topic>model reduction</topic>
+                        <topic>HAPOD</topic>
+                        <topic>linear kinetic equations</topic>
+                        <topic>realizability</topic>
+                        <topic>minimum entropy closure</topic>
+                        <topic>finite volume methods</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85019477402</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9952d183-16d5-4d0a-a60e-188c6d8cc844</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9952d183-16d5-4d0a-a60e-188c6d8cc844_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9952d183-16d5-4d0a-a60e-188c6d8cc844/diss_leibner_2021.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9952d183-16d5-4d0a-a60e-188c6d8cc844" DMDID="DMD_9952d183-16d5-4d0a-a60e-188c6d8cc844">
+            <mets:fptr FILEID="FILE_9952d183-16d5-4d0a-a60e-188c6d8cc844_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

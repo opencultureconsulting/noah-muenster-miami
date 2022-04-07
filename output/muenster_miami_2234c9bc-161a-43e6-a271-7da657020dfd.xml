@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2234c9bc-161a-43e6-a271-7da657020dfd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Teilbetriebsbegriff des UmwStG in der Form des SEStEG</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1076027393">
+                        <displayForm>Sondermann, Patric</displayForm>
+                        <namePart type="given">Patric</namePart>
+                        <namePart type="family">Sondermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128566116">
+                        <displayForm>Jahndorf, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Jahndorf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-08-31</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-04-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Teilbetriebsbegriff hat für die Praxis eine große Bedeutung, da er zentrale Voraussetzung für eine steuerneutrale Umwandlung nach dem UmwStG ist. Wann allerdings von einem „Teilbetrieb“ ausgegangen werden kann, ist umstritten, da es sich um einen unbestimmten Rechtsbegriff handelt, der nicht innerhalb des Gesetzes definiert ist, sondern durch Rechtsprechung, Literatur und Finanzverwaltung konkretisiert werden muss. Bei dieser Diskussion hat das „Gesetz über steuerliche Begleitmaßnahmen zur Einführung der Europäischen Gesellschaft und zur Änderung weiterer steuerrechtlicher Vorschriften“ (SEStEG) von 2006 zu strittigen Veränderungen geführt. Zuletzt hat das BMF im UmwSt-Erlass 2011 die Auffassung vertreten, dass in Abweichung von der bisherigen Praxis der Finanzverwaltung der europäische Teilbetriebsbegriff der Fusionsrichtlinie gelten soll. Diese Arbeit geht den damit verbundenen Problemen unter verschiedenen Blickwinkeln nach und konkretisiert den Teilbetriebsbegriff des UmwStG.</abstract>
+                    <subject lang="ger">
+                        <topic>Teilbetriebsbegriff</topic>
+                        <topic>Fusionsrichtlinie</topic>
+                        <topic>Europäischer Teilbetriebsbegriff</topic>
+                        <topic>SEStEG</topic>
+                        <topic>Teilbetrieb</topic>
+                        <topic>UmwStG</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58259476745</identifier>
+                    <identifier type="sys">HT018741100</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2234c9bc-161a-43e6-a271-7da657020dfd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2234c9bc-161a-43e6-a271-7da657020dfd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2234c9bc-161a-43e6-a271-7da657020dfd/diss_sondermann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2234c9bc-161a-43e6-a271-7da657020dfd" DMDID="DMD_2234c9bc-161a-43e6-a271-7da657020dfd">
+            <mets:fptr FILEID="FILE_2234c9bc-161a-43e6-a271-7da657020dfd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

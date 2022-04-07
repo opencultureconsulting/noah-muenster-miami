@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fcf7b0d2-6a31-4c70-b35d-6493b0b29707">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Verlust des Selbst in der Fremde</title>
+                        <subTitle>eine Studie über das Reisen - anhand autobiographischer Texte</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132451409">
+                        <displayForm>Clausen, Jens</displayForm>
+                        <namePart type="given">Jens</namePart>
+                        <namePart type="family">Clausen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132451409">
+                        <displayForm>Clausen, Jens Jürgen</displayForm>
+                        <namePart type="given">Jens Jürgen</namePart>
+                        <namePart type="family">Clausen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110995333">
+                        <displayForm>Mair, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Mair</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-12-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-07-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Studie untersucht autobiographische Quellen der Reiseliteratur darauf hin, wie Menschen in der Fremde in psychische Krisen geraten und wie sie ihre Erfahrungen beschreiben. Durch die Verknüpfung von literarischen Zeugnissen und psychiatrischen Hintergründen werden aus individuellen Leidensgeschichten jene Erlebnisformen herausgearbeitet, die nicht nur Menschen mit psychischen Erkrankungen vertraut sind, sondern Dispositionen vieler Reisender berühren. Die Erfahrung der Fremde führt – wie sich zeigt – zu unterschiedlichen Varianten der Verstörung: Angst und Panik tritt auf, Dissoziationen verändern die Wahrnehmung, Wahngedanken und Psychosen graben sich tief in die Seele ein, Depressionen machen fast handlungsunfähig. Nirgends mehr als auf Reisen wird die Fragilität der eigenen Existenz deutlich. Gleichzeitig schafft die Erkundung ferner Welten aber auch eine bereichernde Entfremdung zu sich selbst, die notwendig ist, um die Möglichkeitsräume des eigenes Seins zu erforschen.</abstract>
+                    <subject lang="ger">
+                        <topic>Reise</topic>
+                        <topic>Selbst</topic>
+                        <topic>Fremde</topic>
+                        <topic>Psychose</topic>
+                        <topic>Dissoziation</topic>
+                        <topic>Psychiatrie</topic>
+                        <topic>Mental-Health-Forschung</topic>
+                    </subject>
+                    <classification authority="ddc">300</classification>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-20659463734</identifier>
+                    <identifier type="sys">HT014987912</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fcf7b0d2-6a31-4c70-b35d-6493b0b29707</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fcf7b0d2-6a31-4c70-b35d-6493b0b29707_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fcf7b0d2-6a31-4c70-b35d-6493b0b29707/diss_clausen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fcf7b0d2-6a31-4c70-b35d-6493b0b29707" DMDID="DMD_fcf7b0d2-6a31-4c70-b35d-6493b0b29707">
+            <mets:fptr FILEID="FILE_fcf7b0d2-6a31-4c70-b35d-6493b0b29707_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

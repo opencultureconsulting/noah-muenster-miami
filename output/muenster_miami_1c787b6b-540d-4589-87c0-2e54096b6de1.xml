@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1c787b6b-540d-4589-87c0-2e54096b6de1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Efficient variational gaph methods in imaging and 3D data</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1220883514">
+                        <displayForm>Gaede, Fjedor</displayForm>
+                        <namePart type="given">Fjedor</namePart>
+                        <namePart type="family">Gaede</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-11-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-08-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit werden effiziente Graphmethoden zur Lösung variationeller Probleme in der mathematischen Bildgebung und Datenverarbeitung hergeleitet, untersucht und angewandt. Die vorgeschlagenen Techniken basieren auf dem Cut-Pursuit-Algorithmus, welcher eine Klasse von variationellen Graphproblemen effizient löst. Das Ziel der Arbeit ist, diesen Algorithmus auf mehrdimensionale Probleme zu erweitern und auf RGB-Farbbilder und große 3D-Punktwolken anzuwenden. Des Weiteren wird die Anwendung des Algorithmus auf TV-regularisierte PET Rekonstruktionen untersucht, bei der die Anzahl der Auswertungen des vollen PET-Operators während der Rekonstruktion stark verringert und durch eine reduzierte, dünn besetzte Matrixdarstellung ersetzt wird. Zusätzlich wird der sogenannte Fully4D-Algorithmus zur Rekonstruktion von räumlich-zeitlichen PET-Daten unter dem Einfluss von Dynamiken mit einer TV-Regularisierung erweitert und eine Optimierungsstrategie hergeleitet.</abstract>
+                    <abstract lang="eng">In this thesis we derive, study and apply efficient graph methods for a variety of variational problems in imaging and data processing. The proposed algorithms are based on the recently developed Cut-Pursuit algorithm that can efficiently solve a class of variational problems on graphs. The goal of this work is to expand the Cut-Pursuit algorithm to multi-dimensional isotropic total variation regularizations and to apply it to image data and large 3D point clouds. Furthermore, we investigate the application of the Cut-Pursuit algorithm to TV-regularized PET reconstruction and substantially decrease the number of required full PET operator evaluations during the reconstruction process, replacing them with smaller sparse matrix representations of the full operator. In addition, we extend the so-called Fully4D algorithm to reconstruct spatio-temporal PET data under the influence of dynamics by adding a total variation regularization and deriving an optimization strategy.</abstract>
+                    <subject lang="ger">
+                        <topic>PET-Rekonstruktion</topic>
+                        <topic>Totale Variation</topic>
+                        <topic>Cut-Pursuit</topic>
+                        <topic>Konvexe Optimierung</topic>
+                        <topic>Minimal-Partition-Problem</topic>
+                        <topic>Medizinische Bildgebung</topic>
+                        <topic>Punktwolken</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>PET reconstruction</topic>
+                        <topic>Total-Variation</topic>
+                        <topic>Cut-Pursuit</topic>
+                        <topic>Convex Optimization</topic>
+                        <topic>Minimal Partition Problem</topic>
+                        <topic>Medical Imaging</topic>
+                        <topic>Point Clouds</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-49049417385</identifier>
+                    <identifier type="sys">HT020636296</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1c787b6b-540d-4589-87c0-2e54096b6de1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1c787b6b-540d-4589-87c0-2e54096b6de1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1c787b6b-540d-4589-87c0-2e54096b6de1/diss_gaede.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1c787b6b-540d-4589-87c0-2e54096b6de1" DMDID="DMD_1c787b6b-540d-4589-87c0-2e54096b6de1">
+            <mets:fptr FILEID="FILE_1c787b6b-540d-4589-87c0-2e54096b6de1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

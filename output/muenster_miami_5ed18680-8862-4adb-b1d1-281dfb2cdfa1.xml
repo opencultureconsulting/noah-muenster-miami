@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5ed18680-8862-4adb-b1d1-281dfb2cdfa1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Ich zum Du zu Gott? Personalität und Gottesbeziehung bei Bernhard Welte</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1051178134">
+                        <displayForm>Elberskirch, Johannes Petrus</displayForm>
+                        <namePart type="given">Johannes Petrus</namePart>
+                        <namePart type="family">Elberskirch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1051178134">
+                        <displayForm>Udalricus, Valricus a Sankta Trinitate</displayForm>
+                        <namePart type="given">Valricus a Sankta Trinitate</namePart>
+                        <namePart type="family">Udalricus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Philosophie</topic>
+                        <topic>Geschichte</topic>
+                        <topic>Gesellschaft</topic>
+                        <topic>Geltung</topic>
+                        <topic>DGPhil</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>XXIII. Kongress der Deutschen Gesellschaft für Philosophie 2014 Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>XXIII. Kongress der Deutschen Gesellschaft für Philosophie 2014 Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-42329420092</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5ed18680-8862-4adb-b1d1-281dfb2cdfa1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5ed18680-8862-4adb-b1d1-281dfb2cdfa1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5ed18680-8862-4adb-b1d1-281dfb2cdfa1/artikel_elberskirch_2014.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5ed18680-8862-4adb-b1d1-281dfb2cdfa1" DMDID="DMD_5ed18680-8862-4adb-b1d1-281dfb2cdfa1">
+            <mets:fptr FILEID="FILE_5ed18680-8862-4adb-b1d1-281dfb2cdfa1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

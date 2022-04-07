@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_04671c65-beb4-4cee-ae1e-00dde606c1b1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>p-adic Weil group representations</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1168024153">
+                        <displayForm>Feldmann, Mark</displayForm>
+                        <namePart type="given">Mark</namePart>
+                        <namePart type="family">Feldmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1013768965">
+                        <displayForm>Schneider, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-09-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird die Darstellungstheorie der Weilgruppe mit Koeffizienten im Körper der p-adischen Zahlen behandelt. Hierzu werden zunächst die entsprechenden Äquivalenzen von Kategorien aus der Theorie der p-adischen Galoisdarstellungen nach Fontaine modifiziert, um eine Beschreibung der Kategorie der Weilgruppendarstellungen zu erhalten. Im Falle von kristallinen (bzw. potenziell log-kristallinen) Darstellungen der Weilgruppe, ist es mölich die Struktur der Darstellungskategorie in Form von Erzeugern beschreiben. Sie wird als abelsche Tensorkategorie von der vollen Unterkategorie der Galoisdarstellungen und unverzweigten Induktionen eines Charakters erzeugt, welcher durch Artins Reziprozitätsgesetz gegeben ist.</abstract>
+                    <subject lang="ger">
+                        <topic>p-adische Hodge-Theorie</topic>
+                        <topic>Darstellungstheorie</topic>
+                        <topic>Zahlentheorie</topic>
+                        <topic>Arithmetik</topic>
+                        <topic>Weilgruppe</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>p-adic Hodge-Theory</topic>
+                        <topic>Representation Theory</topic>
+                        <topic>Number Theory</topic>
+                        <topic>Arithmetics</topic>
+                        <topic>Weil Group</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97129666377</identifier>
+                    <identifier type="sys">HT019822135</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_04671c65-beb4-4cee-ae1e-00dde606c1b1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_04671c65-beb4-4cee-ae1e-00dde606c1b1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/04671c65-beb4-4cee-ae1e-00dde606c1b1/Dissertation_Mark_Feldmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_04671c65-beb4-4cee-ae1e-00dde606c1b1" DMDID="DMD_04671c65-beb4-4cee-ae1e-00dde606c1b1">
+            <mets:fptr FILEID="FILE_04671c65-beb4-4cee-ae1e-00dde606c1b1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

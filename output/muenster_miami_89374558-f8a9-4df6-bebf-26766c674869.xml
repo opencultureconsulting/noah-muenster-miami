@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_89374558-f8a9-4df6-bebf-26766c674869">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Durchflußzytometrische Untersuchung zum Leukozytengehalt von leukozytenreduzierten Thrombozytenkonzentraten</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128991445">
+                        <displayForm>Bortolussi, Sonia</displayForm>
+                        <namePart type="given">Sonia</namePart>
+                        <namePart type="family">Bortolussi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1036719502">
+                        <displayForm>Göhde, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Göhde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-04-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-01-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Leukozytengehalt von Thrombozytenkonzentraten verursacht Komplikationen in der Transfusionsmedizin. Der COUNCIL OF EUROPE schreibt eine maximale Leukozytenkontamination von 1x106 pro Bluteinheit bei einer Prüffrequenz von 1% aller Blutproben vor, wobei 90% aller Proben diesem Kriterium entsprechen müssen. Es wurden 991 leukozytendepletierte Thrombozytenkonzentrate mittels durchflußzytometrischer Messung untersucht. In Gegensatz zur Prüfmethode der Ballastzählkammer bietet die Durchflußzytometrie eine automatisierte Messung mit höherer Sensitivität. Insgesamt wurden 59 verdächtige Proben festgestellt, hiervon überschritten 7 Produkte die erlaubte Leukozytenzahl. Durch Beurteilung mittels Ballastzählkammer und durch immunologischen Nachweis konnten 7 leukozyten- und 52 debriskontaminierte Konzentrate gefunden werden. Somit wurden die Richtlinien zwar eingehalten, die Wahrscheinlichkeit, alle kontaminierten Proben bei einer Prüfung von 1% zu detektieren, jedoch gegen Null geht.</abstract>
+                    <subject lang="ger">
+                        <topic>Durchflußzytometer</topic>
+                        <topic>Thrombozytenkonzentrate</topic>
+                        <topic>Leukozytenreduktion</topic>
+                        <topic>CyFlow-Gerät</topic>
+                        <topic>Ballastzählkammer</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-00709428195</identifier>
+                    <identifier type="sys">HT014040732</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_89374558-f8a9-4df6-bebf-26766c674869</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_89374558-f8a9-4df6-bebf-26766c674869_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/89374558-f8a9-4df6-bebf-26766c674869/Dissertation_Bortolussi.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_89374558-f8a9-4df6-bebf-26766c674869" DMDID="DMD_89374558-f8a9-4df6-bebf-26766c674869">
+            <mets:fptr FILEID="FILE_89374558-f8a9-4df6-bebf-26766c674869_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

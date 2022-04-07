@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d8c65a0f-582b-494e-82ac-5478419e3eae">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reform der Reform des Bund-Länder-Finanzausgleichs vor dem Hintergrund des Europäischen Stabilitätspaktes</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129052051">
+                        <displayForm>Grossekettler, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grossekettler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-10-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-10-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Leipziger Ökonomischen Societät e.V. (Hrsg.): Veröffentlichungen der Leipziger Ökonomischen Societät; 14. Leipzig, 2002, S. 5-12</note>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94659555290</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d8c65a0f-582b-494e-82ac-5478419e3eae</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d8c65a0f-582b-494e-82ac-5478419e3eae_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d8c65a0f-582b-494e-82ac-5478419e3eae/2002_Reform_der_Reform_des_Bund-Laender_Finanzausgleichs.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d8c65a0f-582b-494e-82ac-5478419e3eae" DMDID="DMD_d8c65a0f-582b-494e-82ac-5478419e3eae">
+            <mets:fptr FILEID="FILE_d8c65a0f-582b-494e-82ac-5478419e3eae_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

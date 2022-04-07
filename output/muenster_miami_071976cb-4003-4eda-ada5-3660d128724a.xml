@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_071976cb-4003-4eda-ada5-3660d128724a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modellierung von Ladungsträgertransport und Strukturbildung in elektrolumineszierenden ZnS:Mn-Halbleiterbauelementen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129687154">
+                        <displayForm>Raker, Thomas Peter</displayForm>
+                        <namePart type="given">Thomas Peter</namePart>
+                        <namePart type="family">Raker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1141203618">
+                        <displayForm>Kuhn, Tilmann E.</displayForm>
+                        <namePart type="given">Tilmann E.</namePart>
+                        <namePart type="family">Kuhn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-01-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-12-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Mangandotiertes Zinksulfid (ZnS), das zwischen Isolatoren (IS) eingebettet ist, zeigt in der Elektrolumineszenz (EL) spontane Strukturbildungsprozesse (SP), die durch starke nichtlineare Prozesse (Feldabschirmung durch Raumladung, Stossionisation) verursacht werden. Es wird ein gekoppeltes Drift-Diffusions-Modell für Elektronen, freie und gebundene Löcher diskutiert. Die bekannte EL-Bistabilität kann mit einer Strom-Spannungs-Kennlinie (aus 1D-Simulation) verifiziert werden. Wesentlich ist dabei eine ortsfeste positive Raumladung (OPR), die aus dem Einfang der freien Löcher resultiert. Die Analyse der Kennlinie ist wichtig, da im Experiment nur in einem engen Spannungsbereich (Übergang: schwache -&gt; starke EL) SP auftreten. Entsprechende 2D/3D-Simulationen zeigen Stromfilamente, die durch (de)fokussierende Transportprozesse stabilisiert werden. Die Form wird durch verschiedene Ladungsdichten (an ZnS-IS-Grenzflächen, OPR) sowie weiteren Parametern (z.B. Diffusionskonstanten) bestimmt.</abstract>
+                    <subject lang="ger">
+                        <topic>Mangandotiertes Zinksulfid</topic>
+                        <topic>Elektrolumineszenz</topic>
+                        <topic>Hysterese</topic>
+                        <topic>Strukturbildung</topic>
+                        <topic>Drift-Diffusions-Modell</topic>
+                        <topic>Stromfilamente</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67649676829</identifier>
+                    <identifier type="sys">HT014302126</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_071976cb-4003-4eda-ada5-3660d128724a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_071976cb-4003-4eda-ada5-3660d128724a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/071976cb-4003-4eda-ada5-3660d128724a/raker_diss.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_071976cb-4003-4eda-ada5-3660d128724a" DMDID="DMD_071976cb-4003-4eda-ada5-3660d128724a">
+            <mets:fptr FILEID="FILE_071976cb-4003-4eda-ada5-3660d128724a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

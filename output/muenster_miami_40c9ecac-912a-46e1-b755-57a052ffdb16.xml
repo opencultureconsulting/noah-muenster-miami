@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_40c9ecac-912a-46e1-b755-57a052ffdb16">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spatial patterns of erosion and landscape evolution during active continental extension</title>
+                        <subTitle>the central Menderes Massif (Western Turkey)</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1178159663">
+                        <displayForm>Heineke, Caroline</displayForm>
+                        <namePart type="given">Caroline</namePart>
+                        <namePart type="family">Heineke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112438954">
+                        <displayForm>Hetzel, Ralf</displayForm>
+                        <namePart type="given">Ralf</namePart>
+                        <namePart type="family">Hetzel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-02-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-11-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Tektonische Prozesse üben eine starke Kontrolle auf die Landschaftsentwicklung in Gebieten aktiver kontinentaler Extension aus und spiegeln sich in der Topographie, Geomorphologie und dem räumlichen Muster der Erosion wider. Die Exhumation des zentralen Menderes Massif (Westtürkei) fand durch die diachrone Aktivität des Gediz und Büyük Menderes detachments statt.</abstract>
+                    <subject lang="ger">
+                        <topic>Kosmogenes 10Be</topic>
+                        <topic>Erosionsraten</topic>
+                        <topic>fault gouge</topic>
+                        <topic>detachment fault</topic>
+                        <topic>Landschaftsentwicklung</topic>
+                        <topic>Wasserreservoire</topic>
+                        <topic>Menderes Massif</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45189620695</identifier>
+                    <identifier type="sys">HT019975490</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_40c9ecac-912a-46e1-b755-57a052ffdb16</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_40c9ecac-912a-46e1-b755-57a052ffdb16_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/40c9ecac-912a-46e1-b755-57a052ffdb16/diss_heineke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_40c9ecac-912a-46e1-b755-57a052ffdb16" DMDID="DMD_40c9ecac-912a-46e1-b755-57a052ffdb16">
+            <mets:fptr FILEID="FILE_40c9ecac-912a-46e1-b755-57a052ffdb16_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

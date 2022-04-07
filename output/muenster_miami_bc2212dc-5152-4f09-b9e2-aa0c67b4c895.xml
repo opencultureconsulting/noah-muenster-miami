@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bc2212dc-5152-4f09-b9e2-aa0c67b4c895">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Internetrecherche im Biologieunterricht</title>
+                        <subTitle>Eine grundlegende Studie am Beispiel der Gentechnik</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114127941X">
+                        <displayForm>Wedershoven, Britta</displayForm>
+                        <namePart type="given">Britta</namePart>
+                        <namePart type="family">Wedershoven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bickel, Horst</displayForm>
+                        <namePart type="given">Horst</namePart>
+                        <namePart type="family">Bickel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der dargestellten Unterrichtsreihe wurde das Internet zur Erarbeitung vier verschiedener Anwendungsbereiche der Gentechnik genutzt. Die Benutzung des Internets war somit in die Erarbeitungsphase der fachspezifischen Inhalte als ein Medium in didaktischem Sinne integriert, also ein Inhalte vermittelnder Gegenstand. Die Vermittlung von internetspezifischer Medienkompetenz erfolgte dabei über die konkrete Erarbeitung der fachlichen Themen („Huckepackverfahren“). Durch eine besondere Form der arbeitsteiligen Gruppenarbeit, die sogenannte Puzzle-Methode, wurde sichergestellt, dass den SchülerInnen neben fachlichen und medienpädagogischen Inhalten auch soziale und kooperative Kompetenzen vermittelt wurden.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Didaktik</topic>
+                        <topic>Gentechnik</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>65</start>
+                                <end>72</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542179</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bc2212dc-5152-4f09-b9e2-aa0c67b4c895</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bc2212dc-5152-4f09-b9e2-aa0c67b4c895_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bc2212dc-5152-4f09-b9e2-aa0c67b4c895/WedershBickel96.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bc2212dc-5152-4f09-b9e2-aa0c67b4c895" DMDID="DMD_bc2212dc-5152-4f09-b9e2-aa0c67b4c895">
+            <mets:fptr FILEID="FILE_bc2212dc-5152-4f09-b9e2-aa0c67b4c895_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

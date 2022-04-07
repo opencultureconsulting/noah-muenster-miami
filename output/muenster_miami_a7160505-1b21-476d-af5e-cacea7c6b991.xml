@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a7160505-1b21-476d-af5e-cacea7c6b991">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zweigbibliothek Medizin 1993 – 2003</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108551261">
+                        <displayForm>Poll, Roswitha</displayForm>
+                        <namePart type="given">Roswitha</namePart>
+                        <namePart type="family">Poll</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-11-02</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-11-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Vortrag zum zehnjährigen Jubiläum der Zweigbibliothek Medizin</abstract>
+                    <subject lang="ger">
+                        <topic>ZB Medizin</topic>
+                        <topic>ULB Münster</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659523012</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a7160505-1b21-476d-af5e-cacea7c6b991</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a7160505-1b21-476d-af5e-cacea7c6b991_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a7160505-1b21-476d-af5e-cacea7c6b991/zb-med_poll.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a7160505-1b21-476d-af5e-cacea7c6b991" DMDID="DMD_a7160505-1b21-476d-af5e-cacea7c6b991">
+            <mets:fptr FILEID="FILE_a7160505-1b21-476d-af5e-cacea7c6b991_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

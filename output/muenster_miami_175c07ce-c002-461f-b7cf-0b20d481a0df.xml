@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_175c07ce-c002-461f-b7cf-0b20d481a0df">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>universal functorial equivariant Lefschetz invariant</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130151998">
+                        <displayForm>Weber, Julia</displayForm>
+                        <namePart type="given">Julia</namePart>
+                        <namePart type="family">Weber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133867072">
+                        <displayForm>Lück, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Lück</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-06-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-05-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Lefschetzzahl L(f) eines Endomorphismus f:X-&gt;X eines topologischen Raums X ist eine wichtige Invariante. Ist L(f) nicht 0, so besitzt f einen Fixpunkt. Es gibt einige Verallgemeinerungen der Lefschetzzahl. Man kann deren Eigenschaften axiomatisieren und eine universelle funktorielle Lefschetzinvariante definieren (Lück 1999). In dieser Doktorarbeit wird diese Definition auf den äquivarianten Fall verallgemeinert. Ist G eine diskrete Gruppe, X ein eigentlicher G-CW-Komplex und f:X-&gt;X ein G-äquivarianter Endomorphismus, so wird die Gruppenoperation in die Konstruktion der Invariante mit einbezogen. Man erhält die universelle funktorielle äquivariante Lefschetzinvariante. Ausgehend davon läßt sich die verallgemeinerte äquivariante Lefschetzinvariante definieren, die als Summe von Fixpunktbeiträgen gesehen werden kann. Schließlich werden noch äquivariante Nielsen-Zahlen definiert, und es wird eine Umkehrung des äquivarianten Lefschetzschen Fixpunktsatzes bewiesen.</abstract>
+                    <subject lang="ger">
+                        <topic>Algebraische Topologie</topic>
+                        <topic>Fixpunkte</topic>
+                        <topic>K-Theorie</topic>
+                        <topic>Grothendieck-Gruppen und K 0</topic>
+                        <topic>äquivariante algebraische Topologie von Mannigfaltigkeiten</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95669655133</identifier>
+                    <identifier type="sys">HT014467944</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_175c07ce-c002-461f-b7cf-0b20d481a0df</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_175c07ce-c002-461f-b7cf-0b20d481a0df_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/175c07ce-c002-461f-b7cf-0b20d481a0df/diss_weber.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_175c07ce-c002-461f-b7cf-0b20d481a0df" DMDID="DMD_175c07ce-c002-461f-b7cf-0b20d481a0df">
+            <mets:fptr FILEID="FILE_175c07ce-c002-461f-b7cf-0b20d481a0df_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

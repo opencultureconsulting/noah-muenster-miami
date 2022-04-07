@@ -1,0 +1,149 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:299b1edd-0268-4905-88d1-d889cb3fe379" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:10">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_299b1edd-0268-4905-88d1-d889cb3fe379">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="ger">
+                    <mods:title script="Latn">MIRU-VNTRplus: datenbankgestützte polyphasische Analyse von Mycobacterium tuberculosis complex Genotypisierungsdaten</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/136958206">
+                    <mods:namePart type="given">Thomas</mods:namePart>
+                    <mods:namePart type="family">Weniger</mods:namePart>
+                    <mods:namePart type="date">1978-</mods:namePart>
+                    <mods:displayForm>Weniger, Thomas</mods:displayForm>
+                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/112740553">
+                    <mods:namePart type="given">Dag</mods:namePart>
+                    <mods:namePart type="family">Harmsen</mods:namePart>
+                    <mods:displayForm>Harmsen, Dag</mods:displayForm>
+                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2008</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2008-11-19</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2008-12-04</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-04-19</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Die molekulare Typisierung von Isolaten des Mycobacterium tuberculosis complex (MTBC) ist für viele epidemiologische Anwendungen von Bedeutung. Das Verfahren der Variable Number Tandem Repeats (VNTR) Typisierung wird hierzu immer wichtiger, da es sehr diskriminierend und sehr reproduzierbar ist. Bis jetzt gibt es noch keine Software zur Analyse von VNTR-Typisierungsdaten, die eine repräsentative und gut charakterisierte Referenzdatenbank beinhaltet. In die hier vorgestellte Datenbank wurden 187 Stämme der wichtigsten Lineages des MTBC aufgenommen. Für jeden dieser Stämme sind neben den Basisdaten auch VNTR-Daten für 24 Loki und vier weitere genetische Marker vorhanden. Benutzer können ihre Isolate auf zwei Arten mit der Referenzdatenbank vergleichen, durch Ähnlichkeitssuche oder durch Auswertung der Gruppierung in einem phylogenetischen Baum. Die für die Ähnlichkeitssuche notwendigen Schwellenwerte wurden durch eine Auswertung der Suchergebnisse für die Referenzstämme bestimmt.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">MLVA; MIRU; VNTR; Mycobacterium tuberculosis; Typisierung</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">610</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-03529399137</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/299b1edd-0268-4905-88d1-d889cb3fe379</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:299b1edd-0268-4905-88d1-d889cb3fe379</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_299b1edd-0268-4905-88d1-d889cb3fe379">
+            <mets:rightsMD ID="RIGHTSMD_299b1edd-0268-4905-88d1-d889cb3fe379">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_299b1edd-0268-4905-88d1-d889cb3fe379">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/299b1edd-0268-4905-88d1-d889cb3fe379</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="0d75d3e5d4478babf901788a6f581b6dc3504d2d712f24d257d23deca242d1ff" CREATED="2016-04-19T15:38:25" CHECKSUMTYPE="SHA-256" SIZE="3294072" ID="ID_FIL_diss_weniger.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/299b1edd-0268-4905-88d1-d889cb3fe379/diss_weniger.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW299b1edd-0268-4905-88d1-d889cb3fe379">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/299b1edd-0268-4905-88d1-d889cb3fe379" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_299b1edd-0268-4905-88d1-d889cb3fe379" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_weniger.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_weniger.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_299b1edd-0268-4905-88d1-d889cb3fe379" DMDID="DMD_299b1edd-0268-4905-88d1-d889cb3fe379" ID="ID_LOG_299b1edd-0268-4905-88d1-d889cb3fe379" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_weniger.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_299b1edd-0268-4905-88d1-d889cb3fe379" xlink:to="ID_PHY_299b1edd-0268-4905-88d1-d889cb3fe379"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_weniger.pdf" xlink:to="ID_PHY_diss_weniger.pdf"/>
+          </mets:structLink>
+        </mets:mets>

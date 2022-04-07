@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2ebc28fe-6aaa-4099-ba79-4ba6706f77df">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What the electrical impedance can tell about the intrinsic properties of an electrodynamic shaker</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172241804">
+                        <displayForm>Lütkenhöner, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Lütkenhöner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-03-22</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-10-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Small electrodynamic shakers are becoming increasingly popular for diagnostic investigations of the human vestibular system. More specifically, they are used as mechanical stimulators for eliciting a vestibular evoked myogenic potential (VEMP). However, it is largely unknown how shakers perform under typical measurement conditions, which considerably differ from the normal use of a shaker. Here, it is shown how the basic properties of a shaker can be determined without requiring special sensors such as accelerometers or force gauges. In essence, the mechanical parts of the shaker leave a signature in the electrical impedance, and an interpretation of this signature using a simple model allows for drawing conclusions about the properties of the shaker. The theory developed (which is quite general so that it is usable also in other contexts) is applied to experimental data obtained for the minishaker commonly used in VEMP measurements. It is shown that the experimental conditions substantially influence the properties of the shaker. Relevant factors are, in particular, the spatial orientation of the shaker (upright, horizontal or upside-down) and the static force acting on the table of the shaker (which in a real measurement corresponds to the force by which the shaker is pressed against the test person’s head). These results underline the desirability of a proper standardization of VEMP measurements. Direct measurements of displacement and acceleration prove the consistency of the conclusions derived from the electrical impedance.</abstract>
+                    <note type="citation/reference">PLoS ONE 12 (2017) 3, e0174184, 1-32</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2017 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17109682225</identifier>
+                    <identifier type="doi">10.1371/journal.pone.0174184</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2ebc28fe-6aaa-4099-ba79-4ba6706f77df</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2ebc28fe-6aaa-4099-ba79-4ba6706f77df_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2ebc28fe-6aaa-4099-ba79-4ba6706f77df/journal.pone.0174184.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2ebc28fe-6aaa-4099-ba79-4ba6706f77df" DMDID="DMD_2ebc28fe-6aaa-4099-ba79-4ba6706f77df">
+            <mets:fptr FILEID="FILE_2ebc28fe-6aaa-4099-ba79-4ba6706f77df_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

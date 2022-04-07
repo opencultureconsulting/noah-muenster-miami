@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_33e2d430-178f-45dd-aeed-074b4dd786de">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Goethes Einquartierungen</title>
+                        <subTitle>Zur autobiographischen Dimensionalität besetzter Räume</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-01-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">This text was published in: Pisani, Salvatore; Oy-Marra, Elisabeth (Hrsg.): Ein Haus wie Ich. Die gebaute Autobiographie in der Moderne (Mainzer historische Kulturwissenschaften ; Bd. 14). Bielefeld : transcript, 2014, ISBN 978-3-8376-2222-5, S. 103-128</note>
+                    <note type="ownership">Die Veröffentlichung erfolgt mit freundlicher Genehmigung des transcript Verlages.</note>
+                    <note type="ownership">This text is posted here by permission of transcript Verlag for personal use only, not for redistribution.</note>
+                    <note>Die Abbildungen im Artikel wurden aus urheberrechtlichen Gründen geschwärzt.</note>
+                    <subject lang="ger">
+                        <topic>Goethe, Räume, Autobiographie</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66129480685</identifier>
+                    <identifier type="doi">10.14361/transcript.9783839422229.103</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_33e2d430-178f-45dd-aeed-074b4dd786de</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_33e2d430-178f-45dd-aeed-074b4dd786de_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/33e2d430-178f-45dd-aeed-074b4dd786de/wagner-egelhaaf_2014_goethes-einquartierung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_33e2d430-178f-45dd-aeed-074b4dd786de" DMDID="DMD_33e2d430-178f-45dd-aeed-074b4dd786de">
+            <mets:fptr FILEID="FILE_33e2d430-178f-45dd-aeed-074b4dd786de_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

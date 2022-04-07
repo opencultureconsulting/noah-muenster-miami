@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9c2e2d00-7d6e-4139-aea9-a70054371638">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Maler zum Architekten</title>
+                        <subTitle>das Darmstädter Haus Peter Behrens&apos; im Kontext seiner Arbeiten als Maler, Graphiker, Buchkünstler und Gestalter von Kunstgewerbe 1891-1901</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113033483X">
+                        <displayForm>Peters, Fabian</displayForm>
+                        <namePart type="given">Fabian</namePart>
+                        <namePart type="family">Peters</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123522668">
+                        <displayForm>Jacobsen, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Jacobsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-04-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-04-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das von Peter Behrens anlässlich der Ausstellung der Darmstädter Künstlerkolonie 1901 errichtete Haus auf der Mathildenhöhe war sein Erstlingswerk als Architekt. Der Künstler, der zuvor als Maler, Grafiker, Buchkünstler und Kunstgewerbler tätig war, besass keine bekannte architektonische Vorbildung. Die Arbeit zeigt, dass Behrens bei seinem Haus an zahlreichen Stellen Gestaltungsprinzipien zur Anwendung brachte, die sich direkt aus den in seinen vorherigen Tätigkeitsfeldern entwickelten Formen und Arbeitsweisen herleiten lassen. Um dies zu belegen, trägt sie das Frühwerk Peter Behrens bis zum Jahr 1901 in den Bereichen Malerei, Grafik, Buchkunst und Kunstgewerbe vollständig zusammen und versucht eine zeitliche Einordnung aller Arbeiten, so dass eine stilistische Entwicklung des Künstlers im untersuchten Zeitraum beschreibbar wird.</abstract>
+                    <note>In Absprache mit dem Promotionsprüfungsamt der Philosophischen Fakultät der WWU Münster wurde nur Teil 1 (Textteil) der Dissertation veröffentlicht. Auf die Veröffentlichung von Teil 2 (Abbildungen) wurde verzichtet.</note>
+                    <subject lang="ger">
+                        <topic>Peter Behrens</topic>
+                        <topic>Darmstadt</topic>
+                        <topic>Künstlerkolonie</topic>
+                        <topic>Mathildenhöhe</topic>
+                        <topic>Jugendstil</topic>
+                        <topic>Haus Behrens</topic>
+                        <topic>Kunstgewerbe</topic>
+                    </subject>
+                    <classification authority="ddc">700</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62259652481</identifier>
+                    <identifier type="sys">HT019303833</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9c2e2d00-7d6e-4139-aea9-a70054371638</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9c2e2d00-7d6e-4139-aea9-a70054371638_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9c2e2d00-7d6e-4139-aea9-a70054371638/diss_peters_fabian.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9c2e2d00-7d6e-4139-aea9-a70054371638" DMDID="DMD_9c2e2d00-7d6e-4139-aea9-a70054371638">
+            <mets:fptr FILEID="FILE_9c2e2d00-7d6e-4139-aea9-a70054371638_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

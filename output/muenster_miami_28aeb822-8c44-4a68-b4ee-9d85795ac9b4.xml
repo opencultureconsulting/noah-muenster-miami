@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_28aeb822-8c44-4a68-b4ee-9d85795ac9b4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Lehrerschaft der katholischen Nordenfeldmarkschule in Hamm/Westfalen im Jahr 1919</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113382367">
+                        <displayForm>Berntzen, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Berntzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-03-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-06-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Lehrerschaft der katholischen Nordenfeldmarkschule in Hamm/Westfalen im Jahr 1919 wird berufsbiografisch beschrieben (Geburtsdaten, Ausbildungsorte, berufliche Tätigkeit vor und nach dem Stichjahr).</abstract>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <subject lang="ger">
+                        <topic>Schulgeschichte</topic>
+                        <topic>Biografieforschung</topic>
+                        <topic>Lehrerbildung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-29549614901</identifier>
+                    <identifier type="sys">HT019467098</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_28aeb822-8c44-4a68-b4ee-9d85795ac9b4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_28aeb822-8c44-4a68-b4ee-9d85795ac9b4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/28aeb822-8c44-4a68-b4ee-9d85795ac9b4/Die_Lehrerschaft_der_katholischen_Nordschule_in_Hamm.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_28aeb822-8c44-4a68-b4ee-9d85795ac9b4" DMDID="DMD_28aeb822-8c44-4a68-b4ee-9d85795ac9b4">
+            <mets:fptr FILEID="FILE_28aeb822-8c44-4a68-b4ee-9d85795ac9b4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

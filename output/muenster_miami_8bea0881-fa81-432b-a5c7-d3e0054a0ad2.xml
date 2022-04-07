@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8bea0881-fa81-432b-a5c7-d3e0054a0ad2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Polynomial preconditioning of the Dirac-Wilson operator of the N =1 SU(2) supersymmetric Yang-Mills theory</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1067421629">
+                        <displayForm>Özugurel, Umut Deniz</displayForm>
+                        <namePart type="given">Umut Deniz</namePart>
+                        <namePart type="family">Özugurel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, Gernot</displayForm>
+                        <namePart type="given">Gernot</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-02-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-01-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Supersymmetrische Yang-Mills-Theorie mit einer Superladung hat einige interessante nicht-perturbative Eigenschaften, die auf einem raumzeitlichen Gitter mittels Monte-Carlo-Simulationen untersucht werden können. Dieser Ansatz erfordert komplexe mathematische Methoden. Ein besonders heikles Problem taucht bei der Auswertung des fermionischen Integrals auf, die negative Pfaffsche Determinanten ergeben kann, die nicht als Maß im Importance Sampling des bosonischen Pfad-Integrals dienen können. Die Lösung besteht darin, nachträglich mit dem Vorzeichen zu gewichten und nur den Betrag als Maß zu nutzen. Das Vorzeichen kann durch Zählen der Paare entarteter negativer reeller Eigenwerte des Dirac-Wilson-Operators bestimmt werden. Diese kann man erhalten, indem man den Dirac-Wilson-Operator zunächst mit einem Polynom transformiert und dann mittels einer iterativen Methode einen Teil seines Eigenwertspektrums berechnet. In diesem Rahmen wurden unter anderem Faber-Polynome untersucht.</abstract>
+                    <abstract lang="eng">Supersymmetric Yang-Mills theory with one supercharge has several interesting non-perturbative features that can be examined on a spacetime lattice by Monte Carlo simulations. This approach requires sophisticated mathematical tools. One mathematical problem that needs particular attention emerges by the evaluation of the fermionic integral, which can give negative Pfaffians, which cannot be used as a measure in the importance sampling of the bosonic path integral. The solution is to reweight with its sign and to use only its magnitude as a measure. Its sign can be determined by counting the pairs of degenerate negative real eigenvalues of the Dirac-Wilson operator. It is possible to obtain these eigenvalues by transforming the Dirac-Wilson operator by a polynomial before calculating a portion of its eigenspectrum using an iterative eigensolver. Mainly Faber polynomials were studied in this context.</abstract>
+                    <subject lang="ger">
+                        <topic>Supersymmetrie</topic>
+                        <topic>Gittereichtheorien</topic>
+                        <topic>Dirac-Wilson-Operator</topic>
+                        <topic>Eigenwerte</topic>
+                        <topic>Vorkonditionierung</topic>
+                        <topic>konforme Abbildung</topic>
+                        <topic>Faber-Polynome</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Supersymmetry</topic>
+                        <topic>lattice gauge theories</topic>
+                        <topic>Dirac-Wilson operator</topic>
+                        <topic>eigenvalues</topic>
+                        <topic>preconditioning</topic>
+                        <topic>conformal mapping</topic>
+                        <topic>Faber polynomials</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-40349560532</identifier>
+                    <identifier type="sys">HT018551472</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8bea0881-fa81-432b-a5c7-d3e0054a0ad2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8bea0881-fa81-432b-a5c7-d3e0054a0ad2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8bea0881-fa81-432b-a5c7-d3e0054a0ad2/diss_oezugurel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8bea0881-fa81-432b-a5c7-d3e0054a0ad2" DMDID="DMD_8bea0881-fa81-432b-a5c7-d3e0054a0ad2">
+            <mets:fptr FILEID="FILE_8bea0881-fa81-432b-a5c7-d3e0054a0ad2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

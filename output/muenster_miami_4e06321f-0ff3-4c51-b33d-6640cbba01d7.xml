@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4e06321f-0ff3-4c51-b33d-6640cbba01d7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kooperation und Vernetzung im Web 2.0</title>
+                        <subTitle>Welche Möglichkeiten bietet das &quot;Mitmachnetz&quot; für Lehrkräfte?</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173419003">
+                        <displayForm>Ebel, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Ebel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-04-07</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-04-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Workshopbeitrag auf der Tagung &quot;Schule kooperativ gestalten&quot; am 25./26. März 2010 in Münster</note>
+                    <subject lang="ger">
+                        <topic>kooperatives Lernen</topic>
+                        <topic>Internet</topic>
+                        <topic>Medieneinsatz</topic>
+                        <topic>Medienkompetenz</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-08439690906</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4e06321f-0ff3-4c51-b33d-6640cbba01d7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4e06321f-0ff3-4c51-b33d-6640cbba01d7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4e06321f-0ff3-4c51-b33d-6640cbba01d7/Workshop_ZfL_web_20_ceb_100326_final.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4e06321f-0ff3-4c51-b33d-6640cbba01d7" DMDID="DMD_4e06321f-0ff3-4c51-b33d-6640cbba01d7">
+            <mets:fptr FILEID="FILE_4e06321f-0ff3-4c51-b33d-6640cbba01d7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

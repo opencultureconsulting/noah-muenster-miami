@@ -1,0 +1,163 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:6b05df99-325d-4b4f-8f74-4d032ec6d266" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:38:04">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_6b05df99-325d-4b4f-8f74-4d032ec6d266">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">4D imaging in tomography and optical nanoscopy</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/142430625">
+                    <mods:namePart type="given">Christoph</mods:namePart>
+                    <mods:namePart type="family">Brune</mods:namePart>
+                    <mods:namePart type="date">1982-</mods:namePart>
+                    <mods:displayForm>Brune, Christoph</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Martin</mods:namePart>
+                    <mods:namePart type="family">Burger</mods:namePart>
+                    <mods:displayForm>Burger, Martin</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2010</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2010-07-15</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2010-07-20</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-05-09</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Diese Dissertation gehört zu den Gebieten mathematische Bildverarbeitung und inverse Probleme. Ein inverses Problem ist die Aufgabe, Modellparameter anhand von gemessenen Daten zu berechnen. Solche Probleme treten in zahlreichen Anwendungen in Wissenschaft und Technik auf, z.B. in medizinischer Bildgebung, Biophysik oder Astronomie. Wir betrachten Rekonstruktionsprobleme mit Poisson Rauschen in der Tomographie und optischen Nanoskopie. Bei letzterer gilt es Bilder ausgehend von verzerrten und verrauschten Messungen zu rekonstruieren, wohingegen in der Positronen-Emissions-Tomographie die Aufgabe in der Visualisierung physiologischer Prozesse eines Patienten besteht. Standardmethoden zur 3D Bildrekonstruktion berücksichtigen keine zeitabhängigen Informationen oder Dynamik, z.B. Herzschlag oder Atmung in der Tomographie oder Zellmigration in der Mikroskopie. Diese Dissertation behandelt Modelle, Analyse und effiziente Algorithmen für 3D und 4D zeitabhängige inverse Probleme. &lt;br/&gt;</mods:abstract>
+                  <mods:abstract lang="eng">This thesis contributes to the field of mathematical image processing &#13;
+and inverse problems. An inverse problem is a task, where the values of &#13;
+some model parameters must be computed from observed data. Such problems&#13;
+ arise in a wide variety of applications in sciences and engineering, &#13;
+such as medical imaging, biophysics or astronomy. We mainly consider &#13;
+reconstruction problems with Poisson noise in tomography and optical &#13;
+nanoscopy. In the latter case, the task is to reconstruct images from &#13;
+blurred and noisy measurements, whereas in positron emission tomography &#13;
+the task is to visualize physiological processes of a patient. In 3D &#13;
+static image reconstruction standard methods do not incorporate &#13;
+time-dependent information or dynamics, e.g. heart beat or breathing in &#13;
+tomography or cell motion in microscopy. This thesis is a treatise on &#13;
+models, analysis and efficient algorithms to solve 3D and 4D &#13;
+time-dependent inverse problems.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">4D Bildrekonstruktion; inverse Probleme; Poisson Rauschen; totale Variation; Bregman Distanz; optimaler Transport; konvexe Splitting Methoden</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-67429592028</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/6b05df99-325d-4b4f-8f74-4d032ec6d266</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:6b05df99-325d-4b4f-8f74-4d032ec6d266</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_6b05df99-325d-4b4f-8f74-4d032ec6d266">
+            <mets:rightsMD ID="RIGHTSMD_6b05df99-325d-4b4f-8f74-4d032ec6d266">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_6b05df99-325d-4b4f-8f74-4d032ec6d266">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/6b05df99-325d-4b4f-8f74-4d032ec6d266</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="b1f75cf08fdc0ea65c2ea95654acce4db5465ef2636d1e37dc0fc52403cc441c" CREATED="2016-05-09T13:57:03" CHECKSUMTYPE="SHA-256" SIZE="16384493" ID="ID_FIL_diss_brune.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6b05df99-325d-4b4f-8f74-4d032ec6d266/diss_brune.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW6b05df99-325d-4b4f-8f74-4d032ec6d266">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/6b05df99-325d-4b4f-8f74-4d032ec6d266" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_6b05df99-325d-4b4f-8f74-4d032ec6d266" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_brune.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_brune.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_6b05df99-325d-4b4f-8f74-4d032ec6d266" DMDID="DMD_6b05df99-325d-4b4f-8f74-4d032ec6d266" ID="ID_LOG_6b05df99-325d-4b4f-8f74-4d032ec6d266" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_brune.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_6b05df99-325d-4b4f-8f74-4d032ec6d266" xlink:to="ID_PHY_6b05df99-325d-4b4f-8f74-4d032ec6d266"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_brune.pdf" xlink:to="ID_PHY_diss_brune.pdf"/>
+          </mets:structLink>
+        </mets:mets>

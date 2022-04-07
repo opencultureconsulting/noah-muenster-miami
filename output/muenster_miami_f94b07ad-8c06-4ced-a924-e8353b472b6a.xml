@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f94b07ad-8c06-4ced-a924-e8353b472b6a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Handlungsfeld Polizierende Präsenz</title>
+                        <subTitle>Forschungsprojekt &quot;Kooperative Sicherheitspolitik in der Stadt&quot; an der Hessischen Hochschule für Polizei und Verwaltung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/160369800">
+                        <displayForm>Groß, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Groß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103144968X">
+                        <displayForm>Hirschmann, Nathalie</displayForm>
+                        <namePart type="given">Nathalie</namePart>
+                        <namePart type="family">Hirschmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-05</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-05-28</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-05-31</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Sachstand: März 2011</note>
+                    <subject lang="ger">
+                        <topic>KoSiPol</topic>
+                    </subject>
+                    <classification authority="ddc">320</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Kooperative Sicherheitspolitik in der Stadt</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Kooperative Sicherheitspolitik in der Stadt</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-34419391603</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f94b07ad-8c06-4ced-a924-e8353b472b6a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f94b07ad-8c06-4ced-a924-e8353b472b6a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f94b07ad-8c06-4ced-a924-e8353b472b6a/wp5_Gross_2011.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f94b07ad-8c06-4ced-a924-e8353b472b6a" DMDID="DMD_f94b07ad-8c06-4ced-a924-e8353b472b6a">
+            <mets:fptr FILEID="FILE_f94b07ad-8c06-4ced-a924-e8353b472b6a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

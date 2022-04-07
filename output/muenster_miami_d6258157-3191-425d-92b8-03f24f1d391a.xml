@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d6258157-3191-425d-92b8-03f24f1d391a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>MIAMI – Aktueller Stand, Planungen und Perspektiven</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173081991">
+                        <displayForm>Klötgen, Stephanie</displayForm>
+                        <namePart type="given">Stephanie</namePart>
+                        <namePart type="family">Klötgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-02-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-07-26</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-07-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, gehalten auf dem 1. gemeinsamen Workshop cHL-hybrid, MIRO, MOVE, MIAMI (c3m II) am 13.02.2006 an der Westfälischen Wilhelms-Universität Münster</note>
+                    <subject lang="ger">
+                        <topic>Dokumentenserver</topic>
+                        <topic>Münstersches Informations- und Archivsystem multimedialer Inhalte</topic>
+                        <topic>Repository</topic>
+                        <topic>Archivierung</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-41689570829</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d6258157-3191-425d-92b8-03f24f1d391a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d6258157-3191-425d-92b8-03f24f1d391a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d6258157-3191-425d-92b8-03f24f1d391a/miami-praesentation_sk.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d6258157-3191-425d-92b8-03f24f1d391a" DMDID="DMD_d6258157-3191-425d-92b8-03f24f1d391a">
+            <mets:fptr FILEID="FILE_d6258157-3191-425d-92b8-03f24f1d391a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

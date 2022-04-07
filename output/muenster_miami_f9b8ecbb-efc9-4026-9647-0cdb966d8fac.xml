@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f9b8ecbb-efc9-4026-9647-0cdb966d8fac">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the zeroth L²-homology of a quantum group</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1129239217">
+                        <displayForm>Kyed, David</displayForm>
+                        <namePart type="given">David</namePart>
+                        <namePart type="family">Kyed</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-11-14</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-01-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We prove that the zeroth L²-Betti number of a compact quantum group vanishes unless the underlying C*-algebra is finite dimensional and that the zeroth L²-homology itself is nontrivial exactly when the quantum group is coamenable.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>119</start>
+                                <end>128</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-32449562328</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f9b8ecbb-efc9-4026-9647-0cdb966d8fac</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f9b8ecbb-efc9-4026-9647-0cdb966d8fac_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f9b8ecbb-efc9-4026-9647-0cdb966d8fac/mjm_vol_4_07.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f9b8ecbb-efc9-4026-9647-0cdb966d8fac" DMDID="DMD_f9b8ecbb-efc9-4026-9647-0cdb966d8fac">
+            <mets:fptr FILEID="FILE_f9b8ecbb-efc9-4026-9647-0cdb966d8fac_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

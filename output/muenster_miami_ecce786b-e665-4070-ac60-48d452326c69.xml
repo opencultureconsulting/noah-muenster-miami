@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ecce786b-e665-4070-ac60-48d452326c69">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie finde ich eine Revolution?</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103730960X">
+                        <displayForm>Peitz, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Peitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2006-01-31</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-02-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Buchbesprechung zu: Boberach, Heinz; Zimmermann, Horst: Publizistische Quellen zur Geschichte der Revolution von 1848 und ihrer Folgen: Inventar der Bestände in der Stadt- und Universitätsbibliothek, im Stadtarchiv und im Bundesarchiv Frankfurt a. M., bearb. von Heinz Boberach und Horst Zimmermann. Koblenz: Bundesarchiv, 1996.</abstract>
+                    <note type="citation/reference">In: LAURENTIUS, 15. Jahrgang 1998, Heft 2, S. 111-114</note>
+                    <subject lang="ger">
+                        <topic>Revolution</topic>
+                        <topic>publizistische Quellen</topic>
+                        <topic>1848</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03669442707</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ecce786b-e665-4070-ac60-48d452326c69</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ecce786b-e665-4070-ac60-48d452326c69_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ecce786b-e665-4070-ac60-48d452326c69/peitz_1998_boberach.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ecce786b-e665-4070-ac60-48d452326c69" DMDID="DMD_ecce786b-e665-4070-ac60-48d452326c69">
+            <mets:fptr FILEID="FILE_ecce786b-e665-4070-ac60-48d452326c69_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

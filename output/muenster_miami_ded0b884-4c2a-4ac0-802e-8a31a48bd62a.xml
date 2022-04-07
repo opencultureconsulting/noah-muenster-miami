@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ded0b884-4c2a-4ac0-802e-8a31a48bd62a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung der komplexen frequenzabhängigen ionischen Leitfähigkeit von RbAg 4 I 5 unterhalb der Raumtemperatur</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124494501">
+                        <displayForm>Ross, Igor</displayForm>
+                        <namePart type="given">Igor</namePart>
+                        <namePart type="family">Ross</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/144006626">
+                        <displayForm>Funke, Klaus</displayForm>
+                        <namePart type="given">Klaus</namePart>
+                        <namePart type="family">Funke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-02-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-02-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wurde mit Hilfe von Impedanz- und Mikrowellenmessungen die temperatur- und frequenzabhängige ionische Leitfähigkeit von Rubidiumsilberiodid untersucht. Die Messungen bei Frequenzen zwischen 10 mHz und 0,11 THz umfaßten einen Temperaturbereich von 77 K bis 295 K. Es wurde gezeigt, daß das &quot;Potenzgesetz&quot; von JONSCHER nur für ausgewählte kleine Frequenzintervalle als Anpassung angewendet werden darf. Zur Interpretation der Spektren wurde eine modifizierte Version des CMR-Modells von FUNKE verwendet. Dabei wurde gezeigt, daß dieses Modell eine hervorragende Beschreibung des Ionenplatzwechselprozesses liefert, was eine komplette Übereinstimmung der berechneten und der gemessenen Kurven gewährleistet. Zum ersten Mal ist es experimentell gelungen, die Koexistenz von zwei Prozessen zu zeigen, nämlich der lokalisierten Bewegung der Ionen in einer flachen Doppelminimum- Potential-Landschaft und der translatorischen Bewegung der Ionen.</abstract>
+                    <subject lang="ger">
+                        <topic>Ionenbewegung</topic>
+                        <topic>Impedanzspektroskopie</topic>
+                        <topic>Mikrowellenspektroskopie</topic>
+                        <topic>Leitfähigkeit</topic>
+                        <topic>Rubidiumsilberiodid</topic>
+                        <topic>CMR-Modell von FUNKE</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659549569</identifier>
+                    <identifier type="sys">HT013644990</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ded0b884-4c2a-4ac0-802e-8a31a48bd62a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ded0b884-4c2a-4ac0-802e-8a31a48bd62a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ded0b884-4c2a-4ac0-802e-8a31a48bd62a/igor_ross_dissertation.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ded0b884-4c2a-4ac0-802e-8a31a48bd62a" DMDID="DMD_ded0b884-4c2a-4ac0-802e-8a31a48bd62a">
+            <mets:fptr FILEID="FILE_ded0b884-4c2a-4ac0-802e-8a31a48bd62a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

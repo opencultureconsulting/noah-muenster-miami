@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Real-time rendering and synthesis of digital surface models using textures of time-varying extension</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1038499712">
+                        <displayForm>Feldmann, Dirk</displayForm>
+                        <namePart type="given">Dirk</namePart>
+                        <namePart type="family">Feldmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Klaus H.</displayForm>
+                        <namePart type="given">Klaus H.</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-07-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-06-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Digitale Oberflächenmodelle können als Texturdaten gespeichert und in vielen Anwendungsbereichen verwendet werden um dreidimensionale computergrafische Darstellungen der zugrunde liegenden Oberflächen zu erzeugen. Auf Grund von Fortschritten in der Datenverarbeitung und Datenübertragung ist es möglich geworden, solche Oberflächenmodelle bereits darzustellen, während die Datengewinnung noch läuft. Allerdings ändern bei diesem Vorgehen die zur Darstellung benötigten Texturdaten im Laufe der Datengewinnung nicht nur ihren Inhalt, sondern auch ihre Ausmaße und stellen damit eine Herausforderung für echtzeitfähige Visualisierungsverfahren dar. Diese Dissertation behandelt das Problem der Erzeugung digitaler Oberflächenmodelle mittels Luftbildaufnahmen, sowie die Handhabung und visuelle Darstellung derartiger Daten durch den Einsatz von Texturen mit zeitlich veränderlichen Ausmaßen, während die Gewinnung der zugrunde liegenden Oberflächendaten noch weiterläuft.</abstract>
+                    <abstract lang="eng">Digital surface models represent surfaces by finite sets of sampling points based in some plane of reference together with associated sampled values such as elevation and color. These models can be stored as texture data and are used in many applications to create three-dimensional renderings of the underlying surface. Due to advances in data processing and data transmission, it has become possible to already render these surface model while the data acquisition is still in progress. However, the texture data required for rendering will not only vary in content, but also in extension in the course of time during data acquisition, and thus pose a challenge to real-time rendering. This dissertation addresses the problem of creating digital surface models by means of aerial photographs, as well as managing and rendering such data by using textures of time-varying extension, while the acquisition of the data about the underlying surface is still proceeding.</abstract>
+                    <subject lang="ger">
+                        <topic>Oberflächenmodell</topic>
+                        <topic>Textur</topic>
+                        <topic>Flexible Clipmap</topic>
+                        <topic>Rendern</topic>
+                        <topic>Erzeugung</topic>
+                        <topic>Heightmap</topic>
+                        <topic>Computergrafik</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-66329671769</identifier>
+                    <identifier type="sys">HT017745942</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f4a80ffd-7a48-4b34-a673-7f2d9e0058a3/diss_feldmann_dirk.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3" DMDID="DMD_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3">
+            <mets:fptr FILEID="FILE_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

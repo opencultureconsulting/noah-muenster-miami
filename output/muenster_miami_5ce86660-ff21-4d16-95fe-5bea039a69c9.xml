@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5ce86660-ff21-4d16-95fe-5bea039a69c9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Joseph Marx</title>
+                        <subTitle>ein spätromantischer Komponist ; Betrachtungen zu seiner Biographie und seinem symphonischen Schaffen</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134455304">
+                        <displayForm>Marihart, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Marihart</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/134455304">
+                        <displayForm>Marihart, Werner Hans</displayForm>
+                        <namePart type="given">Werner Hans</namePart>
+                        <namePart type="family">Marihart</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103972617">
+                        <displayForm>Dorfmüller, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Dorfmüller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-08-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2017-07-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Betrachtungen zur Biographie von Joseph Marx mit dem Schwerpunkt auf den Zeitraum 1938 bis 1945. Marxens Nähe und seine Distanz zur NSDAP und seine Offenheit gegenüber jüdischen Schülern und jüdischen Freunden. Analyse seines symphonischen Schaffen: &quot;Eine Herbstsymphonie&quot;, &quot;Feste im Herbst&quot;, &quot;Naturtrilogie&quot; und &quot;Nordland-Rhapsodie&quot; unter besonderer Berücksichtigung der Beziehung zu seinem Liedschaffen, sowie Hinweise auf ähnliche Strukturen in Werken anderer Komponisten, sowie Hinweise auf ähnliche Strukturen in eigenen Werken. Ausarbeitung der Kriterien des Kompositionsstils von Joseph Marx mit besonderer Analyse des &quot;Marx-Akkordes&quot;.</abstract>
+                    <subject lang="ger">
+                        <topic>Vita</topic>
+                        <topic>Analyse der symphonischen Kompositionen</topic>
+                        <topic>Liedschaffen</topic>
+                        <topic>ähnliche Strukturen in eigenen Werken und Werken anderer Komponisten</topic>
+                        <topic>Kriterien Marxens Kompositionsstils</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-31239700573</identifier>
+                    <identifier type="sys">HT019425375</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5ce86660-ff21-4d16-95fe-5bea039a69c9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5ce86660-ff21-4d16-95fe-5bea039a69c9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5ce86660-ff21-4d16-95fe-5bea039a69c9/diss_marihart.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5ce86660-ff21-4d16-95fe-5bea039a69c9" DMDID="DMD_5ce86660-ff21-4d16-95fe-5bea039a69c9">
+            <mets:fptr FILEID="FILE_5ce86660-ff21-4d16-95fe-5bea039a69c9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

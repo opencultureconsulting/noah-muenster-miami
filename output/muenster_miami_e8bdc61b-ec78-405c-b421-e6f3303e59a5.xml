@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e8bdc61b-ec78-405c-b421-e6f3303e59a5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>drei Dimensionen des Inhaltsaspektes von Führungsinformationssystemen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1997-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Führungsinformationssysteme werden als Instrumente der Unternehmensführung zur Überwindung der Zeitschere zwischen kürzer werdenden Reaktionszeiten und länger werdenden Informationsverarbeitungszeiten motiviert. Technische und inhaltliche Aspekte der Konzeption von Führungsinformationssystemen stellen den Ausgangspunkt der weiteren Überlegungen dar. Es wird gezeigt, daß die technischen Aspekte aus konzeptueller Sicht als weitestgehend gelöst betrachtet werden können. Als Rahmen zur inhaltlichen Konzeptionierung von Führungsinformationssystemen werden die drei Dimensionen Führungskräfte, Informationsobjekte sowie Steuerungs- und Regelungsaufgaben entwickelt. Die Verwendung der drei Dimensionen zur Informationsbedarfsermittlung wird anhand eines eigenen Vorgehensmodells verdeutlicht.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03579579887</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e8bdc61b-ec78-405c-b421-e6f3303e59a5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e8bdc61b-ec78-405c-b421-e6f3303e59a5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e8bdc61b-ec78-405c-b421-e6f3303e59a5/056_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e8bdc61b-ec78-405c-b421-e6f3303e59a5" DMDID="DMD_e8bdc61b-ec78-405c-b421-e6f3303e59a5">
+            <mets:fptr FILEID="FILE_e8bdc61b-ec78-405c-b421-e6f3303e59a5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_38c99be3-7e47-4888-b935-90826a268ac0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On coset posets, nerve complexes and subgroup graphs of finitely generated groups</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Welsch, Cora</displayForm>
+                        <namePart type="given">Cora</namePart>
+                        <namePart type="family">Welsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172812445">
+                        <displayForm>Kramer, Linus</displayForm>
+                        <namePart type="given">Linus</namePart>
+                        <namePart type="family">Kramer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-07-05</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-05-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Coset Poset ist die Menge aller Rechtsnebenklassen aller echten Untergruppen zusammen mit der Teilmengenordnung. Der Finite Index Coset Poset ist eine Teilmenge des Coset Poset und enthält nur die Nebenklassen der echten Untergruppen von endlichem Index. Wir beweisen, dass der finite index Coset poset sowie der Coset Poset und dazugehörige Nervkomplexe für manche endlich erzeugten Gruppen zusammenziehbar ist und für andere nicht. Darüberhinaus zeigen wir, dass es endlich erzeugte Gruppen gibt für die der Coset Poset und der Finite Index Coset Poset nicht homotopieäquivalent sind. Um die Zusammenziehbarkeit der Simplizialkomplexe zu beweisen verwenden wir Untergruppen Graphen.</abstract>
+                    <subject lang="ger">
+                        <topic>Coset Poset</topic>
+                        <topic>Untergruppen Graph</topic>
+                        <topic>Nebenklassen</topic>
+                        <topic>Simplizialkomplex</topic>
+                        <topic>Nervkomplex</topic>
+                        <topic>Zusammenziehbarkeit</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-48119612426</identifier>
+                    <identifier type="sys">HT019736328</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_38c99be3-7e47-4888-b935-90826a268ac0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_38c99be3-7e47-4888-b935-90826a268ac0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/38c99be3-7e47-4888-b935-90826a268ac0/diss_welsch.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_38c99be3-7e47-4888-b935-90826a268ac0" DMDID="DMD_38c99be3-7e47-4888-b935-90826a268ac0">
+            <mets:fptr FILEID="FILE_38c99be3-7e47-4888-b935-90826a268ac0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

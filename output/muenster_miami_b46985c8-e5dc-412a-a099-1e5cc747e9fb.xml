@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b46985c8-e5dc-412a-a099-1e5cc747e9fb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Alltag in Gelsenkirchen während des Ersten Weltkriegs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alexander, Paul</displayForm>
+                        <namePart type="given">Paul</namePart>
+                        <namePart type="family">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Arbeit untersucht, wie der Erste Weltkrieg das Leben in der Heimatstadt des Autors, Gelsenkirchen, verändert hat. Im Blickpunkt stehen dabei vor allem die schwierige Ernährungslage sowie die verschiedenen Reaktionen der Bevölkerung hierauf. Sie reichten von der Gemeinschaftsküche bis zum Streik und offenbaren eine wachsende Desillusionierung der Gelsenkirchener mit dem Krieg.</abstract>
+                    <subject lang="ger">
+                        <topic>Geschichte</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Erster Weltkrieg</topic>
+                        <topic>Alltag</topic>
+                        <topic>Zwangsarbeiter</topic>
+                        <topic>Bistum Münster</topic>
+                        <topic>Feldpostbriefe</topic>
+                        <topic>Heimatfront</topic>
+                        <topic>Familiengeschichte</topic>
+                        <topic>Studium im Alter</topic>
+                    </subject>
+                    <classification authority="ddc">943</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Westfalen im Ersten Weltkrieg</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Westfalen im Ersten Weltkrieg</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-61329510328</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b46985c8-e5dc-412a-a099-1e5cc747e9fb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b46985c8-e5dc-412a-a099-1e5cc747e9fb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b46985c8-e5dc-412a-a099-1e5cc747e9fb/wki_2_alexander_gelsenkirchen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b46985c8-e5dc-412a-a099-1e5cc747e9fb" DMDID="DMD_b46985c8-e5dc-412a-a099-1e5cc747e9fb">
+            <mets:fptr FILEID="FILE_b46985c8-e5dc-412a-a099-1e5cc747e9fb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

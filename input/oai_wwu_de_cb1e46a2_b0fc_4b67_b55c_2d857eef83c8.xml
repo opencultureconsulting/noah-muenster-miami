@@ -1,0 +1,154 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:cb1e46a2-b0fc-4b67-b55c-2d857eef83c8" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:35:57">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Cross-Gramian-Based Combined State and Parameter Reduction for Large-Scale Control Systems</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1115358324">
+                    <mods:namePart type="given">Christian</mods:namePart>
+                    <mods:namePart type="family">Himpe</mods:namePart>
+                    <mods:namePart type="date">1983-</mods:namePart>
+                    <mods:displayForm>Himpe, Christian</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1115010972">
+                    <mods:namePart type="given">Mario</mods:namePart>
+                    <mods:namePart type="family">Ohlberger</mods:namePart>
+                    <mods:displayForm>Ohlberger, Mario</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2014-07-02</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2014-11-20</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2021-06-16</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>1-13</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">This work introduces the empirical cross-gramian for multiple-input-multiple-output systems. The cross-gramian is a tool for reducing the state space of control systems, by conjoining controllability and observability information into a single matrix and does not require balancing. Its empirical gramian variant extends the applicability of the cross-gramian to nonlinear systems. Furthermore, for parametrized systems, the empirical gramians can also be utilized for sensitivity analysis or parameter identification and thus for parameter reduction. This work also introduces the empirical joint gramian, which is derived from the empirical cross-gramian. The joint gramian allows not only a reduction of the parameter space but also the combined state and parameter space reduction, which is tested on a linear and a nonlinear control system. Controllability- and observability-based combined reduction methods are also presented, which are benchmarked against the joint gramian.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="citation/reference">Mathematical Problems in Engineering 2014 (2014), 1-13, 843869</mods:note>
+                  <mods:note type="content">Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster)</mods:note>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-01349402206</mods:identifier>
+                  <mods:identifier type="doi">doi:10.1155/2014/843869</mods:identifier>
+                  <mods:identifier type="issn">1563-5147</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/cb1e46a2-b0fc-4b67-b55c-2d857eef83c8</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 3.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/3.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:cb1e46a2-b0fc-4b67-b55c-2d857eef83c8</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8">
+            <mets:rightsMD ID="RIGHTSMD_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/cb1e46a2-b0fc-4b67-b55c-2d857eef83c8</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="f44405b85ba5ff27143f2b81088c5f2f8a66d5ccba6bc91e19965e82fd0a7ac7" CREATED="2021-06-16T09:21:41" CHECKSUMTYPE="SHA-256" SIZE="5652715" ID="ID_FIL_843869.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cb1e46a2-b0fc-4b67-b55c-2d857eef83c8/843869.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWcb1e46a2-b0fc-4b67-b55c-2d857eef83c8">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/cb1e46a2-b0fc-4b67-b55c-2d857eef83c8" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8" TYPE="physSequence">
+              <mets:div ID="ID_PHY_843869.pdf">
+                <mets:fptr FILEID="ID_FIL_843869.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8" DMDID="DMD_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8" ID="ID_LOG_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_843869.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8" xlink:to="ID_PHY_cb1e46a2-b0fc-4b67-b55c-2d857eef83c8"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_843869.pdf" xlink:to="ID_PHY_843869.pdf"/>
+          </mets:structLink>
+        </mets:mets>

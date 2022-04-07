@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_88f58d13-2303-4609-b972-8ed721eaef3d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grundsätze der Basisgestaltung</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105357561">
+                        <displayForm>Marxkors, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Marxkors</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105357561">
+                        <displayForm>Marxkors-Müller-Fahlbusch, ...</displayForm>
+                        <namePart type="given">...</namePart>
+                        <namePart type="family">Marxkors-Müller-Fahlbusch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/105357561">
+                        <displayForm>Marxkors, R.</displayForm>
+                        <namePart type="given">R.</namePart>
+                        <namePart type="family">Marxkors</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1977</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-07-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Zahnärztliche Mitteilungen 67 (1977) 71, 390-393</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17439426907</identifier>
+                    <identifier type="issn">0341-8995</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_88f58d13-2303-4609-b972-8ed721eaef3d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_88f58d13-2303-4609-b972-8ed721eaef3d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/88f58d13-2303-4609-b972-8ed721eaef3d/1973_marxk_grund.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_88f58d13-2303-4609-b972-8ed721eaef3d" DMDID="DMD_88f58d13-2303-4609-b972-8ed721eaef3d">
+            <mets:fptr FILEID="FILE_88f58d13-2303-4609-b972-8ed721eaef3d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,167 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:f4a80ffd-7a48-4b34-a673-7f2d9e0058a3" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:45:02">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Real-time rendering and synthesis of digital surface models using textures of time-varying extension</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1038499712">
+                    <mods:namePart type="given">Dirk</mods:namePart>
+                    <mods:namePart type="family">Feldmann</mods:namePart>
+                    <mods:namePart type="date">1985-</mods:namePart>
+                    <mods:displayForm>Feldmann, Dirk</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Klaus H.</mods:namePart>
+                    <mods:namePart type="family">Hinrichs</mods:namePart>
+                    <mods:displayForm>Hinrichs, Klaus H.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2013</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2013-06-25</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2013-07-22</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-06-13</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Digitale Oberflächenmodelle können als Texturdaten gespeichert und in vielen Anwendungsbereichen verwendet werden um dreidimensionale computergrafische Darstellungen der zugrunde liegenden Oberflächen zu erzeugen.&#13;
+Auf Grund von Fortschritten in der Datenverarbeitung und Datenübertragung ist es möglich geworden, solche Oberflächenmodelle bereits darzustellen, während die Datengewinnung noch läuft.&#13;
+Allerdings ändern bei diesem Vorgehen die zur Darstellung benötigten Texturdaten im Laufe der Datengewinnung nicht nur ihren Inhalt, sondern auch ihre Ausmaße und stellen damit eine Herausforderung für echtzeitfähige Visualisierungsverfahren dar.&#13;
+Diese Dissertation behandelt das Problem der Erzeugung digitaler Oberflächenmodelle mittels Luftbildaufnahmen, sowie die Handhabung und visuelle Darstellung derartiger Daten durch den Einsatz von Texturen mit zeitlich veränderlichen Ausmaßen, während die Gewinnung der zugrunde liegenden Oberflächendaten noch weiterläuft. &lt;br/&gt;</mods:abstract>
+                  <mods:abstract lang="eng">Digital surface models represent surfaces by finite sets of sampling &#13;
+points based in some plane of reference together with associated sampled&#13;
+ values such as elevation and color. These models can be stored as &#13;
+texture data and are used in many applications to create &#13;
+three-dimensional renderings of the underlying surface. Due to advances &#13;
+in data processing and data transmission, it has become possible to &#13;
+already render these surface model while the data acquisition is still &#13;
+in progress. However, the texture data required for rendering will not &#13;
+only vary in content, but also in extension in the course of time during&#13;
+ data acquisition, and thus pose a challenge to real-time rendering. &#13;
+This dissertation addresses the problem of creating digital surface &#13;
+models by means of aerial photographs, as well as managing and rendering&#13;
+ such data by using textures of time-varying extension, while the &#13;
+acquisition of the data about the underlying surface is still &#13;
+proceeding.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">Oberflächenmodell; Textur; Flexible Clipmap; Rendern; Erzeugung; Heightmap; Computergrafik</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-66329671769</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/f4a80ffd-7a48-4b34-a673-7f2d9e0058a3</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:f4a80ffd-7a48-4b34-a673-7f2d9e0058a3</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3">
+            <mets:rightsMD ID="RIGHTSMD_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/f4a80ffd-7a48-4b34-a673-7f2d9e0058a3</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="8ad1335a44e0bd1a3732927ea7ba0f0d0415330b4c109577dff0e70c6a54974d" CREATED="2016-06-13T14:28:26" CHECKSUMTYPE="SHA-256" SIZE="12192667" ID="ID_FIL_diss_feldmann_dirk.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f4a80ffd-7a48-4b34-a673-7f2d9e0058a3/diss_feldmann_dirk.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWf4a80ffd-7a48-4b34-a673-7f2d9e0058a3">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/f4a80ffd-7a48-4b34-a673-7f2d9e0058a3" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_feldmann_dirk.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_feldmann_dirk.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3" DMDID="DMD_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3" ID="ID_LOG_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_feldmann_dirk.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3" xlink:to="ID_PHY_f4a80ffd-7a48-4b34-a673-7f2d9e0058a3"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_feldmann_dirk.pdf" xlink:to="ID_PHY_diss_feldmann_dirk.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e9ea9227-06f5-4fe1-b96b-c7c9a9439def">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An excision theorem for the K-theory of C*-algebras, with applications to groupoid C*-algebras</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1060351560">
+                        <displayForm>Putnam, Ian Fraser</displayForm>
+                        <namePart type="given">Ian Fraser</namePart>
+                        <namePart type="family">Putnam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-10-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We discuss the relative K-theory for a C*-algebra A, together with a C*-subalgebra A′ ⊆ A. The relative group is denoted Ki(A′;A), i = 0, 1, and is due to Karoubi. We present a situation where two pairs A′ ⊆ A and B′ ⊆ B are related so that there is a natural isomorphism between their respective relative K-theories. We also discuss applications to the case where A and B are C*-algebras of a pair of locally compact, Hausdorff topological groupoids, with Haar systems.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>349</start>
+                                <end>402</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-06089647852</identifier>
+                    <identifier type="doi">10.17879/06089647453</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e9ea9227-06f5-4fe1-b96b-c7c9a9439def</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e9ea9227-06f5-4fe1-b96b-c7c9a9439def_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e9ea9227-06f5-4fe1-b96b-c7c9a9439def/mjm_2021_14_349-402.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e9ea9227-06f5-4fe1-b96b-c7c9a9439def" DMDID="DMD_e9ea9227-06f5-4fe1-b96b-c7c9a9439def">
+            <mets:fptr FILEID="FILE_e9ea9227-06f5-4fe1-b96b-c7c9a9439def_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

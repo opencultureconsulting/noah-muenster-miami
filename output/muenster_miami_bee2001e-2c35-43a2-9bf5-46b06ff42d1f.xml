@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bee2001e-2c35-43a2-9bf5-46b06ff42d1f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einleitung. Autor und Werk: Dynamik eines (un-)problematischen Verhältnisses</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1033465429">
+                        <displayForm>Efimova, Svetlana</displayForm>
+                        <namePart type="given">Svetlana</namePart>
+                        <namePart type="family">Efimova</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Autor und Werk wurden von Michel Foucault als eine »grundlegende Einheit« in der Literatur bezeichnet und stehen nach einer Krise wieder im Mittelpunkt der Forschung. Wie interagiert das Werk mit dem Autor / der Autorin? Wie wird es zu einem Schauplatz literarischer Wechselbeziehungen: zwischen Autor_innen und Leser_innen, zwischen Struktur und Prozess, zwischen Subjektivität, Medialität und Materialität der Literatur? Vorgeschlagen wird das Konzept eines dynamischen Kraftverhältnisses, das zwischen Konkurrenz und Interdependenz in seinem Vollzug oszilliert und als Modell an mehrere Wechselbeziehungen im Spannungsfeld um das literarische Werk angewandt werden kann.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77159531808</identifier>
+                    <identifier type="doi">10.17879/77159531451</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bee2001e-2c35-43a2-9bf5-46b06ff42d1f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bee2001e-2c35-43a2-9bf5-46b06ff42d1f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bee2001e-2c35-43a2-9bf5-46b06ff42d1f/textpraxis_2018_s3_efimova.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bee2001e-2c35-43a2-9bf5-46b06ff42d1f" DMDID="DMD_bee2001e-2c35-43a2-9bf5-46b06ff42d1f">
+            <mets:fptr FILEID="FILE_bee2001e-2c35-43a2-9bf5-46b06ff42d1f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

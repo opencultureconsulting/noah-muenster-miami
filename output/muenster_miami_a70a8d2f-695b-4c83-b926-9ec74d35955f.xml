@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a70a8d2f-695b-4c83-b926-9ec74d35955f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zellbiologische Studien über EPB4.1L5 und seine Beziehung zu Crumbs2 in HEK293T und AB8-Zellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124601503X">
+                        <displayForm>Brüning, Klara Kristin</displayForm>
+                        <namePart type="given">Klara Kristin</namePart>
+                        <namePart type="family">Brüning</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121072045">
+                        <displayForm>Weide, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Weide</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-11-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-10-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">EPB4.1L5 ist ein Protein, welches wichtige Funktionen für die epitheliale Morphogenese hat. Es wurde als Interaktionspartner des Crumbs (Crb)-Polaritätskomplexes gefunden und ist als podozytenspezifischer Bestandteil von Fokalen Adhäsionen an deren Adhärenz beteiligt. Hinweise auf eine wichtige Rolle bei der Podozytenfunktion liefern zudem EPB4.1L5-knockout-Mäuse, die schwere Proteinurie sowie eine fokalsegmentale Glomerulosklerose entwickelten. Um mehr über die Funktionen von EPB4.1L5 und dessen Bezug zu Crb2 zu erfahren, wurden in dieser Arbeit erstmals HEK- und Podozyten-Zelllinien mit induzierbarer Überexpression von fluoreszenzmarkiertem EPB4.1L5 und Crb2 generiert. Crb2 ist eine in Podozyten hoch exprimierte und an der Schlitzmembran der Niere beteiligte Isoform. Die fortsatzreiche Zellmorphologie, die starke Zellmembranassoziation und die Umverteilung der Tight Junction-Komponente ZO1 deuten auf EPB4.1L5 als Schnittstelle zwischen Zytoskelett- und Zellkontaktregulation hin.</abstract>
+                    <note type="thesis statement">Münster, Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>EPB4.1L5</topic>
+                        <topic>Crb2</topic>
+                        <topic>epitheliale Morphogenese</topic>
+                        <topic>Podozyt</topic>
+                        <topic>Niere</topic>
+                        <topic>epitheliale Polarität</topic>
+                        <topic>Tight Junction</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-05089699564</identifier>
+                    <identifier type="sys">HT021150821</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a70a8d2f-695b-4c83-b926-9ec74d35955f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a70a8d2f-695b-4c83-b926-9ec74d35955f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a70a8d2f-695b-4c83-b926-9ec74d35955f/diss_bruening.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a70a8d2f-695b-4c83-b926-9ec74d35955f" DMDID="DMD_a70a8d2f-695b-4c83-b926-9ec74d35955f">
+            <mets:fptr FILEID="FILE_a70a8d2f-695b-4c83-b926-9ec74d35955f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_35e099f2-4f93-4a48-a729-1cf9521b4072">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spectroscopy of the hyperfine transition in lithium like bismuth at the ESR at GSI and an APD based single photon detector for laser spectroscopy on highly charged ions</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103792391X">
+                        <displayForm>Jöhren, Raphael</displayForm>
+                        <namePart type="given">Raphael</namePart>
+                        <namePart type="family">Jöhren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weinheimer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Weinheimer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-08-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-06-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Um die Vorhersagen der Quantenelektrodynamik in starken Feldern zu testen werden an der GSI Laserspektroskopie-Experimente an schweren, hochgeladenen Ionen durchgeführt. Im LIBELLE Experiment konnte erstmals der 2s Hyperfein-Übergang in lithium-ähnlichem Bismuth nachgewiesen werden. Dazu wurde ein neuartiges Detektorsystem, bestehend u.a. aus einem Parabolspiegel mit Schlitz, eingesetzt, das in Vorwärtsrichtung emittierte Photonen der im ESR gespeicherten Ionen sammelt. Aus den Experimentdaten wurde die Übergangswellenlänge bestimmt. Das SpecTrap Experiment wird Präzisions-Laserspektroskopie ermöglichen. Dazu werden Single-photon Detektoren für den Wellenlängenbereich vom Ultravioletten bis zum nahen Infrarot benötigt. RMD S0223 APDs können unter geeigneten Bedingungen im Bereich von 400 nm bis 1100 nm dazu eingesetzt werden, mit einer Detektionseffizienz in der Größenordnung ihre Quanteneffizienz. Für das SpecTrap Experiment wurde ein geeignetes APD Detektorsystem entwickelt.</abstract>
+                    <abstract lang="eng">To extend tests of Quantum Electro Dynamics (QED) predictions to strong-field QED, laser spectroscopy experiments on heavy highly charged ions are performed at GSI. In the LIBELLE experiment the 2s hyperfine transition in lithium-like bismuth was observed for the first time using a novel detector system applying a movable parabolic mirror with a slit to efficiently detect fluorescence photons emitted under small polar angles by ions stored in the ESR. The data of the LIBELLE beamtime are analyzed and the transition wavelengths is determined. The SpecTrap experiment will allow for precision laser spectroscopy. Single-photon detectors, covering the wavelength region from ultra violet to the near infrared, are necessary. RMD type S0223 APDs have been found to be capable of single-photon detection from 400 nm up to 1100 nm with an efficiency of the order of their quantum efficiency. An APD detector system has been developed for the use of the S0223 APDs at the SpecTrap experiment.</abstract>
+                    <subject lang="ger">
+                        <topic>Laserspektroskopie</topic>
+                        <topic>Detektoren</topic>
+                        <topic>Single-Photon</topic>
+                        <topic>APD</topic>
+                        <topic>LIBELLE</topic>
+                        <topic>SpecTrap</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-36319672649</identifier>
+                    <identifier type="sys">HT017727632</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_35e099f2-4f93-4a48-a729-1cf9521b4072</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_35e099f2-4f93-4a48-a729-1cf9521b4072_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/35e099f2-4f93-4a48-a729-1cf9521b4072/diss_joehren.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_35e099f2-4f93-4a48-a729-1cf9521b4072" DMDID="DMD_35e099f2-4f93-4a48-a729-1cf9521b4072">
+            <mets:fptr FILEID="FILE_35e099f2-4f93-4a48-a729-1cf9521b4072_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_da60c686-0e88-4561-b7e7-3556bce55685">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strukturierte Literaturrecherche für männliche Infertilität und Anwendung auf genomweite Daten zur Identifikation neuer Kandidatengene</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124612727X">
+                        <displayForm>Claus, Christian Gerhard</displayForm>
+                        <namePart type="given">Christian Gerhard</namePart>
+                        <namePart type="family">Claus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124612727X">
+                        <displayForm>Claus, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Claus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132149842">
+                        <displayForm>Tüttelmann, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Tüttelmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-11-19</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-10-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die männliche Infertilität kann Folge von Mutationen im Genom eines betroffenen Individuums sein. Im Rahmen dieser Arbeit sollten deswegen neue Kandidatengene der männlichen Infertilität detektiert werden. Gleichzeitig sollte die Annahme überprüft werden, nach der infertile Männer mehr pathologische Varianten jener Gene aufweisen als Fertile. Insgesamt wurden 911 Gene und das Vorkommen der jeweiligen Varianten in einem Patientengut von 50 Patienten untersucht. Ein Zusammenhang zwischen der Anzahl relevanter Varianten und Ausprägung der männlichen Infertilität konnte nicht nachgewiesen werden. Mit dem Gen CCNA1 konnte nach einem mehrstufigen Filterungsprozess in beiden Datenbanken ein mögliches Kandidatengen der männlichen Infertilität detektiert werden, welches in beiden Datenbanken der einzige gemeinsame Vertreter der potentiell relevantesten Gene war.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="ger">
+                        <topic>Männliche Infertilität</topic>
+                        <topic>Meiosearrest</topic>
+                        <topic>SCOS-Syndrom</topic>
+                        <topic>Humangenetik</topic>
+                        <topic>Reproduktionsgenetik</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95079428107</identifier>
+                    <identifier type="sys">HT021152772</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_da60c686-0e88-4561-b7e7-3556bce55685</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_da60c686-0e88-4561-b7e7-3556bce55685_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/da60c686-0e88-4561-b7e7-3556bce55685/diss_claus.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_da60c686-0e88-4561-b7e7-3556bce55685" DMDID="DMD_da60c686-0e88-4561-b7e7-3556bce55685">
+            <mets:fptr FILEID="FILE_da60c686-0e88-4561-b7e7-3556bce55685_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

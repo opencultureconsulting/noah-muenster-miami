@@ -1,0 +1,226 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:47:32">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Variational methods for combined image and motion estimation</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/107412328X">
+                    <mods:namePart type="given">Sebastian</mods:namePart>
+                    <mods:namePart type="family">Suhr</mods:namePart>
+                    <mods:namePart type="date">1986-</mods:namePart>
+                    <mods:displayForm>Suhr, Sebastian</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Martin</mods:namePart>
+                    <mods:namePart type="family">Burger</mods:namePart>
+                    <mods:displayForm>Burger, Martin</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2015</mods:dateIssued>
+                    <mods:dateOther>2015-06-22</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2015-07-21</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-07-21</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Diese Arbeit beschäftigt sich mit zwei Variationsmodellen zur kombinierten Bild- und Bewegungsschätzung. Der Fokus liegt dabei auf einer detaillierten Analysis und der Vorstellung eines numerischen Frameworks zur Implementierung. Die entwickelten Methoden werden in beiden Fällen auf je einem künstlichen Datensatz mit bereits bekannten Methoden detailliert verglichen.</mods:abstract>
+                  <mods:abstract lang="eng">This thesis is concerned with two variational models for combined image and motion estimation. The focus is laid on establishing analytical results aswell as presenting a numerical framework for the implementation. Both methods are compared in detail to established methods on artificial data.&lt;br&gt;</mods:abstract>
+                  <mods:tableOfContents lang="eng">1 Motivation 1&#13;
+2 Structure of the Thesis 9&#13;
+3 Theoretical Basics 13&#13;
+3.1 Function Spaces and Diffeomorphisms . . . . . . . . . . . . . . . . . . . . 13&#13;
+3.2 Infinitesimal Calculus for Integral Norms . . . . . . . . . . . . . . . . . . 18&#13;
+3.3 Weak Diffeomorphisms . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24&#13;
+3.4 The DirectMethod in the Calculus of Variations . . . . . . . . . . . . . . 28&#13;
+3.5 Theory of (Linear) Operators . . . . . . . . . . . . . . . . . . . . . . . . 30&#13;
+4 Inverse Problems in Imaging 34&#13;
+4.1 Dealing with Ill-Posed Problems . . . . . . . . . . . . . . . . . . . . . . . 35&#13;
+4.1.1 Regularization Operators . . . . . . . . . . . . . . . . . . . . . . . 35&#13;
+4.1.2 StatisticalMethods . . . . . . . . . . . . . . . . . . . . . . . . . . 38&#13;
+4.2 Reconstruction Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . 42&#13;
+4.3 Image Registration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49&#13;
+4.3.1 Image Registration: An Ill-Posed Problem . . . . . . . . . . . . . 49&#13;
+4.3.2 TransformationModels . . . . . . . . . . . . . . . . . . . . . . . . 50&#13;
+4.3.3 DistanceMeasures . . . . . . . . . . . . . . . . . . . . . . . . . . 51&#13;
+4.3.4 Parametric and Non-Parametric Image Registration . . . . . . . . 52&#13;
+4.3.5 Regularization for Transformations . . . . . . . . . . . . . . . . . 53&#13;
+5 Numerical Methods to Minimize Functionals 56&#13;
+5.1 Discretize-then-OptimizeMethods . . . . . . . . . . . . . . . . . . . . . . 56&#13;
+5.1.1 Discretization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56&#13;
+5.1.2 Line Search and Trust RegionMethods . . . . . . . . . . . . . . . 59&#13;
+5.1.3 MultilevelMethods . . . . . . . . . . . . . . . . . . . . . . . . . . 63&#13;
+5.2 Optimize-then-DiscretizeMethods . . . . . . . . . . . . . . . . . . . . . . 65&#13;
+5.2.1 Differentiation for Functionals . . . . . . . . . . . . . . . . . . . . 65&#13;
+5.2.2 Euler-Lagrange Equations . . . . . . . . . . . . . . . . . . . . . . 67&#13;
+6 Motion Estimation in Noisy Image Sequences 70&#13;
+6.1 Formulation of the Problem . . . . . . . . . . . . . . . . . . . . . . . . . 70&#13;
+6.2 Registration Framework for Different Noise Characteristics . . . . . . . . 72&#13;
+6.3 Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76&#13;
+6.3.1 Regularization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76&#13;
+6.3.2 Existence of Minimizers . . . . . . . . . . . . . . . . . . . . . . . 77&#13;
+6.4 Numerical Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83&#13;
+6.4.1 Implementation of an Objective Function . . . . . . . . . . . . . . 83&#13;
+6.4.2 Numerical Minimization . . . . . . . . . . . . . . . . . . . . . . . 85&#13;
+6.5 Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86&#13;
+6.5.1 Synthetic Toy Example . . . . . . . . . . . . . . . . . . . . . . . . 87&#13;
+6.5.2 XCAT Software Phantom . . . . . . . . . . . . . . . . . . . . . . 97&#13;
+6.6 Discussion and Outlook . . . . . . . . . . . . . . . . . . . . . . . . . . . 99&#13;
+6.6.1 Injectivity in Image Registration . . . . . . . . . . . . . . . . . . 99&#13;
+6.6.2 Convergence Properties . . . . . . . . . . . . . . . . . . . . . . . . 102&#13;
+6.6.3 Noise andMultilevel Approaches . . . . . . . . . . . . . . . . . . 105&#13;
+6.6.4 Adjoint Operators for Non-Injective Transformations . . . . . . . 106&#13;
+6.6.5 Intensity-Constant versus Mass-Preserving Transformation Model 110&#13;
+7 Motion-Corrected Reconstruction 117&#13;
+7.1 ProblemFormulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117&#13;
+7.2 Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119&#13;
+7.3 Numerical Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133&#13;
+7.3.1 Reconstruction-Step: Motion-Corrected EM-TV . . . . . . . . . . 134&#13;
+7.3.2 Motion-Step: Interpretation as Registration . . . . . . . . . . . . 135&#13;
+7.4 Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137&#13;
+7.4.1 Artificial Deblurring Example . . . . . . . . . . . . . . . . . . . . 137&#13;
+7.4.2 XCAT Software PhantomData . . . . . . . . . . . . . . . . . . . 142&#13;
+7.4.3 Hardware Phantom ”Wilhelm” . . . . . . . . . . . . . . . . . . . 144&#13;
+7.5 Discussion and Outlook . . . . . . . . . . . . . . . . . . . . . . . . . . . 146&#13;
+7.5.1 Weak Formulation of the Reconstruction Problem . . . . . . . . . 147&#13;
+7.5.2 Attenuation Correction . . . . . . . . . . . . . . . . . . . . . . . . 150&#13;
+7.5.3 A Priori Information . . . . . . . . . . . . . . . . . . . . . . . . . 151&#13;
+7.5.4 DifferentMinimization Strategies and Convergence . . . . . . . . 153&#13;
+8 Concluding Discussion 155&#13;
+9 Appendix 157&#13;
+9.1 Computation of Registration Functionals . . . . . . . . . . . . . . . . . . 157&#13;
+9.2 Numerical Implementations . . . . . . . . . . . . . . . . . . . . . . . . . 162&#13;
+9.2.1 BayesianML Estimation for Image Registration . . . . . . . . . . 162&#13;
+9.2.2 Motion Step inMotion-Corrected Reconstruction . . . . . . . . . 168&#13;
+List of Figures 174&#13;
+List of Tables 180&#13;
+Bibliography 181</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Bayesianische Modellierung ; Bewegungskorrektur ; Rekonstruktion ; TV-Regularisierung ; Hyperelastische Regularisierung</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Bayesian modeling ; registration ; reconstruction ; TV regularization ; hyperelastic regularization</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-68299664406</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227">
+            <mets:rightsMD ID="RIGHTSMD_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d34b4c0f9c41b3c21ed8be8b5549db9789c9d8d36ea4e7cf2cf097c13d298ecf" CREATED="2015-07-21T09:19:19" CHECKSUMTYPE="SHA-256" SIZE="10122252" ID="ID_FIL_diss_suhr.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227/diss_suhr.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWadfc3dbe-6f34-4ece-b5c0-4ece9eb8e227">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_suhr.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_suhr.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227" DMDID="DMD_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227" ID="ID_LOG_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_suhr.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227" xlink:to="ID_PHY_adfc3dbe-6f34-4ece-b5c0-4ece9eb8e227"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_suhr.pdf" xlink:to="ID_PHY_diss_suhr.pdf"/>
+          </mets:structLink>
+        </mets:mets>

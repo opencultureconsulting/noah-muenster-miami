@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f449efe2-61df-48f6-b91b-e2fe9e121265">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zielgene von Fusionsproteinen in der akuten myeloischen Leukämie (AML)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128623136">
+                        <displayForm>Cauvet, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Cauvet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pape, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Pape</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-12-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-12-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die in der akuten myeloischen Leukaemie auftretende maligne Transformation myeloischer Vorlaeuferzellen im Knochenmark laesst sich auf Mutationen und chromosomale Abberationen, wie z.B. Translokationen in den Stammzellen zurueckfuehren. Von den bekannten Translokationen sind meist Transkriptionsfaktoren oder aber transkriptionelle Regulatoren betroffen, deren Fusion mit anderen Transkriptionsfaktoren oder Regulatoren zu einer veraenderten Funktion fuehrt, und sich damit auf die Expression nachgeschalteter Gene auswirkt. Drei solcher Translokationen fuehren zu den Fusionsproteinen AML1-ETO, PML-RAR alpha und PLZF-RAR alpha, die alle drei Histondeacetylasen rekrutieren und so das Expressionsprofil nachgeschalteter Gene veraendern. Im weiteren wurde der Einfluss der Fusionsproteine auf die Expression ausgesuchter Gene (ID2, MEF, Plakoglobin) untersucht.</abstract>
+                    <subject lang="ger">
+                        <topic>AML</topic>
+                        <topic>Phakoglobin</topic>
+                        <topic>ID2</topic>
+                        <topic>MEF</topic>
+                        <topic>wnt</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659527322</identifier>
+                    <identifier type="sys">HT013926898</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f449efe2-61df-48f6-b91b-e2fe9e121265</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f449efe2-61df-48f6-b91b-e2fe9e121265_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f449efe2-61df-48f6-b91b-e2fe9e121265/aml.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f449efe2-61df-48f6-b91b-e2fe9e121265" DMDID="DMD_f449efe2-61df-48f6-b91b-e2fe9e121265">
+            <mets:fptr FILEID="FILE_f449efe2-61df-48f6-b91b-e2fe9e121265_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

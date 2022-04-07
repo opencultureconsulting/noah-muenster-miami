@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4fb62808-c2f0-468c-98b5-7ab3372e10c8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Bibliothek Fürstenberg-Stammheim</title>
+                        <subTitle>Versuch einer geistesgeschichtlichen Bestimmung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/107046512">
+                        <displayForm>Haller, Bertram</displayForm>
+                        <namePart type="given">Bertram</namePart>
+                        <namePart type="family">Haller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/107046512">
+                        <displayForm>Haller-Tiggesbäumker, ...</displayForm>
+                        <namePart type="given">...</namePart>
+                        <namePart type="family">Haller-Tiggesbäumker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1988</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-11-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die „Gräflich von. Fürstenberg’sche Bibliothek zu Stammheim“ wurde 1904 der Universität Münster von der Familie Fürstenberg als Dauerleihgabe übergeben. Sie umfasste damals etwa 22.000 Bände. Nach den Zerstörungen im 2. Weltkrieg sind heute noch 5.200 Bd. mit 2.900 Titeln erhalten geblieben. Sie wurden 1988 von der UB Münster käuflich erworben. Diese Büchersammlung setzt sich im Wesentlichen zusammen aus der Familienbibliothek der Familie Fürstenberg, die bis zum Beginn des 17. Jahrhunderts zurückreichte, und aus den Privatbibliotheken der Brüder Franz (1729-1810) und Franz Egon von Fürstenberg (1737-1825), des letzten Fürstbischofs von Hildesheim und Paderborn. Sie ist keine Sammlung, die nur zur Repräsentation einer westfälischen Adelsfamilie diente. Vor allem die Bücher aus dem Besitz des Franz von Fürstenberg, des Gründers der Fürstbischöflichen Universität in Münster 1780, spiegeln seine Bemühungen um Reformen im Fürstbistum Münster im Zuge der Aufklärung besonders auf dem Gebiet des Bildungswesens, des Militärs und der Finanz- und Wirtschaftspolitik am Ende des 18. Jh. wider. Daneben sind Werke der zeitgenössischen Jurisprudenz, Theologie und Philosophie stark vertreten.</abstract>
+                    <note type="citation/reference">Oesterreich, Helga (Hrsg.): Bibliothek in vier Jahrhunderten : Jesuitenbibliothek, Bibliotheca Paulina, Universitätsbibliothek in Münster ; 1588 - 1988. Münster : Aschendorff, 1988, ISBN 3-402-05345-4, S. 165-194</note>
+                    <subject lang="ger">
+                        <topic>Bibliothek Fürstenberg-Stammheim</topic>
+                        <topic>Adelsbibliothek</topic>
+                        <topic>Münster</topic>
+                        <topic>Westfalen</topic>
+                        <topic>Universitätsbibliothek Münster</topic>
+                        <topic>Universitäts- und Landesbibliothek Münster</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <classification authority="ddc">940</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-54229730583</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4fb62808-c2f0-468c-98b5-7ab3372e10c8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4fb62808-c2f0-468c-98b5-7ab3372e10c8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4fb62808-c2f0-468c-98b5-7ab3372e10c8/haller_1988_bibliothek.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4fb62808-c2f0-468c-98b5-7ab3372e10c8" DMDID="DMD_4fb62808-c2f0-468c-98b5-7ab3372e10c8">
+            <mets:fptr FILEID="FILE_4fb62808-c2f0-468c-98b5-7ab3372e10c8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

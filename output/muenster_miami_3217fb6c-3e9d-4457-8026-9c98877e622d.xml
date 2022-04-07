@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3217fb6c-3e9d-4457-8026-9c98877e622d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ambiguität der Autor-Werk-Herrschaft (Bosse, Luhmann, Jean Paul)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1063079950">
+                        <displayForm>Schaffrick, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Schaffrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dieser Beitrag plädiert für die Symmetrisierung der Beziehung von Autor und Werk. Ausgehend von Heinrich Bosses Ausführungen zur ›Werkherrschaft‹ nehme ich zunächst die Faktoren in den Blick, die für die Destabilisierung der auktorialen Herrschaft über das Werk sorgen (u.a. Schrift, Abwesenheit des Autors). Anschließend erläutere ich Niklas Luhmanns wenig beachtetes Konzept der »Selbstprogrammierung des Kunstwerks«, um schließlich am Beispiel von Jean Pauls »Ankündigung der Herausgabe meiner sämtlichen Werke« (1822) die Ambiguität der Autor-Werk-Herrschaft auszuloten. Werkherrschaft bedeutet demnach nicht nur die Herrschaft des Autors über sein Werk, sondern auch die Herrschaft des Werkes über seinen Autor.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77159528480</identifier>
+                    <identifier type="doi">10.17879/77159528151</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3217fb6c-3e9d-4457-8026-9c98877e622d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3217fb6c-3e9d-4457-8026-9c98877e622d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3217fb6c-3e9d-4457-8026-9c98877e622d/textpraxis_2018_s3_schaffrick.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3217fb6c-3e9d-4457-8026-9c98877e622d" DMDID="DMD_3217fb6c-3e9d-4457-8026-9c98877e622d">
+            <mets:fptr FILEID="FILE_3217fb6c-3e9d-4457-8026-9c98877e622d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

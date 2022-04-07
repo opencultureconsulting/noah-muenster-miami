@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7b1896aa-f381-4af6-a5c3-2e3c1b97f5eb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Numerische Bestimmung von Quarkpotential, Glueball-Massen und Phasenstruktur in der N = 1 supersymmetrischen Yang-Mills-Theorie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/106659757X">
+                        <displayForm>Sandbrink, Dirk</displayForm>
+                        <namePart type="given">Dirk</namePart>
+                        <namePart type="family">Sandbrink</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, Gernot</displayForm>
+                        <namePart type="given">Gernot</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110621638">
+                        <displayForm>Münster, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Münster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-02-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-01-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eines der vielversprechendsten Modelle für Physik jenseits des Standardmodells ist die Supersymmetrie. Diese Arbeit entstand im Rahmen der DESY-Münster-Kollaboration, die sich insbesondere mit der N=1 supersymmetrischen Yang-Mills-Theorie (SYM) beschäftigt. Der Schwerpunkt dieser Arbeit liegt auf der numerischen Bestimmung von Quarkpotential, Glueball-Massen und der Phasenstruktur in der N=1 supersymmetrischen Yang-Mills-Theorie mit Hilfe von Monte-Carlo-Simulationen auf dem Gitter. Es werden verschiedene Methoden untersucht, um die Unsicherheiten bei der Massenbestimmung der Gluebälle zu verringern. Der Fokus liegt dabei auf den Smearing-Methoden und ihrem Einsatz beim variational smearing sowie der Verwendung verschiedener Glueball-Operatoren. Parallel zu den Simulationen bei Temperatur Null wurden Simulationen bei endlicher Temperatur durchgeführt, um das Verhalten der Polyakov-Schleifen und des Gluino-Kondensats im Phasendiagramm genauer zu analysieren.</abstract>
+                    <subject lang="ger">
+                        <topic>Supersymmetrie</topic>
+                        <topic>Gluebälle</topic>
+                        <topic>Quarkpotential</topic>
+                        <topic>Phasenstruktur</topic>
+                        <topic>Gittersimulationen</topic>
+                        <topic>Monte-Carlo-Simulationen</topic>
+                        <topic>Smearing</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-40359658990</identifier>
+                    <identifier type="sys">HT018542501</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7b1896aa-f381-4af6-a5c3-2e3c1b97f5eb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7b1896aa-f381-4af6-a5c3-2e3c1b97f5eb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7b1896aa-f381-4af6-a5c3-2e3c1b97f5eb/diss_sandbrink.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7b1896aa-f381-4af6-a5c3-2e3c1b97f5eb" DMDID="DMD_7b1896aa-f381-4af6-a5c3-2e3c1b97f5eb">
+            <mets:fptr FILEID="FILE_7b1896aa-f381-4af6-a5c3-2e3c1b97f5eb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

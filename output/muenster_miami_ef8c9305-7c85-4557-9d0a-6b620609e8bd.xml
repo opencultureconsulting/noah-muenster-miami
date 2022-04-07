@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ef8c9305-7c85-4557-9d0a-6b620609e8bd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse synaptischer Spezifität im olfaktorischen System von Drosophila</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133057453">
+                        <displayForm>Zierau, Ariane B.</displayForm>
+                        <namePart type="given">Ariane B.</namePart>
+                        <namePart type="family">Zierau</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hummel, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hummel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-05-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-05-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die sensorischen Neurone (ORNs) des olfaktorischen Systems von Drosophila zeigen ein hohes Maß an synaptischer Spezifität. Das konvergente Verschaltungsmuster erfordert eine genaue genetische Regulation. Um Gene zu identifizieren, die die synaptische Spezifität der ORNs regulieren, wurden 1800 letale Mutationen auf eine Veränderung in der ORN-Verschaltung hin untersucht. In einer systematischen Mosaikanalyse konnten 110 Mutationen identifiziert werden, die zu einem defekten Verschaltungsmuster führen. Unter den so isolierten Mutationen befand sich auch ein semaphorin1a Allel. Funktionelle Analysen konnten zeigen, daß sema1a während der Zielfindung der ORNs inter-axonale Kommunikation vermittelt und so zur Sortierung der ORNs und der finalen Glomeruluspositionierung beiträgt. Zudem konnten weitere Analysen zeigen, daß Dscam eine wesentliche Rolle in der Ausbildung des olfaktorischen Verschaltungsmusters hat, indem es eine vorzeitige axonale Konvergenz verhindert.</abstract>
+                    <subject lang="ger">
+                        <topic>Drosophila</topic>
+                        <topic>Olfaktorisches System</topic>
+                        <topic>Sema1a</topic>
+                        <topic>Dscam</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-58579590561</identifier>
+                    <identifier type="sys">HT015230630</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ef8c9305-7c85-4557-9d0a-6b620609e8bd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ef8c9305-7c85-4557-9d0a-6b620609e8bd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ef8c9305-7c85-4557-9d0a-6b620609e8bd/diss_zierau.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ef8c9305-7c85-4557-9d0a-6b620609e8bd" DMDID="DMD_ef8c9305-7c85-4557-9d0a-6b620609e8bd">
+            <mets:fptr FILEID="FILE_ef8c9305-7c85-4557-9d0a-6b620609e8bd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e703ad61-9bbc-43f5-a04e-9d33043cceac">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Phänomene des Big-Data-Zeitalters</title>
+                        <subTitle>Eine rechtliche Bewertung im wirtschaftlichen und gesellschaftspolitischen Kontext</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123724449">
+                        <displayForm>Hoeren, Thomas Johannes</displayForm>
+                        <namePart type="given">Thomas Johannes</namePart>
+                        <namePart type="family">Hoeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-03-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der vorliegende Sammelband widmet sich wichtigen Fragestellungen rund um den Begriff Big Data und berücksichtigt dabei das Zusammenspiel mit der Künstlichen Intelligenz und der Industrie 4.0. Er setzt sich zusammen aus einzelnen Dossiers, welche im Rahmen des ABIDA-Projekts verfasst wurden und Sachverhalte spezifischer Lebensbereiche vor allem rechtlich bewerten. Das ABIDA-Projekt wird vom Bundesministerium für Bildung und Forschung gefördert und forscht zu gesellschaftspolitischen Auswirkungen des Einsatzes von Big-Data-Anwendungen. Aufgrund der interdisziplinären Ausrichtung des Projekts enthalten die Dossiers je nach Kontext ökonomische, soziologische, politologische oder ethische Implikationen. Prof. Dr. Thomas Hoeren ist Direktor des Instituts für Informations-, Telekommunikations- und Medienrecht der Universität Münster.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Phänomene des Big-Data-Zeitalters : Eine rechtliche Bewertung im wirtschaftlichen und gesellschaftspolitischen Kontext / Thomas Hoeren (Hrsg.). – Münster : Readbox Unipress, 2019. – VI, 276 S. (Wissenschaftliche Schriften der WWU Münster : Reihe III ; Bd. 35), ISBN 978-3-8405-0194-4, Preis: 23,60 EUR</note>
+                    <subject lang="ger">
+                        <topic>Big Data</topic>
+                        <topic>Digitalisierung</topic>
+                        <topic>Rechtsanalyse</topic>
+                        <topic>Daten</topic>
+                        <topic>Datenschutz-Grundverordnung</topic>
+                        <topic>Algorithmen</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-96169492515</identifier>
+                    <identifier type="isbn">978-3-8405-0194-4</identifier>
+                    <identifier type="sys">HT020018625</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e703ad61-9bbc-43f5-a04e-9d33043cceac</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e703ad61-9bbc-43f5-a04e-9d33043cceac_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e703ad61-9bbc-43f5-a04e-9d33043cceac/hoeren_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e703ad61-9bbc-43f5-a04e-9d33043cceac" DMDID="DMD_e703ad61-9bbc-43f5-a04e-9d33043cceac">
+            <mets:fptr FILEID="FILE_e703ad61-9bbc-43f5-a04e-9d33043cceac_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

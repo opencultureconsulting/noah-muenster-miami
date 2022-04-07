@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1a692192-fe7c-409a-af35-b674054bdec4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rede zur Examensfeier am 17.12.2005</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113382367">
+                        <displayForm>Berntzen, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Berntzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">lecture</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-12-17</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-12-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-12-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Rede anlässlich der Entlassfeier für die Absolventinnen und Absolventen des Lehramts Primarstufe am 17.12.2005 im Hörsaal H1 der Westfälischen Wilhelms-Universität</note>
+                    <subject lang="ger">
+                        <topic>Lehrerbildung</topic>
+                        <topic>Primarstufe</topic>
+                        <topic>Examensfeier</topic>
+                        <topic>Bachelor</topic>
+                        <topic>Master</topic>
+                        <topic>Lehr-Lern-Forschung</topic>
+                        <topic>abgeordnete Lehrer</topic>
+                        <topic>Forschungskolloquium</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14609407332</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1a692192-fe7c-409a-af35-b674054bdec4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>lecture</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1a692192-fe7c-409a-af35-b674054bdec4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1a692192-fe7c-409a-af35-b674054bdec4/Rede-17-12-2005-Examensfeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1a692192-fe7c-409a-af35-b674054bdec4" DMDID="DMD_1a692192-fe7c-409a-af35-b674054bdec4">
+            <mets:fptr FILEID="FILE_1a692192-fe7c-409a-af35-b674054bdec4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

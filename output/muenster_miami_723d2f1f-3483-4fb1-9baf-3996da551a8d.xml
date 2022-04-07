@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_723d2f1f-3483-4fb1-9baf-3996da551a8d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Archäometallurgische Untersuchungen zur Blei-/Silbergewinnung im Germanien der frühen Römischen Kaiserzeit</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137476434">
+                        <displayForm>Bode, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Bode</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027542808">
+                        <displayForm>Mezger, Klaus</displayForm>
+                        <namePart type="given">Klaus</namePart>
+                        <namePart type="family">Mezger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-01-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-10-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bleiisotopenanalysen an römischen und „germanischen“ Bleifunden und Bleibarren der frühen Römischen Kaiserzeit aus Germanien zeigten, dass die Bleierzlagerstätten des nördlichen Rheinischen Schiefergebirges in jener Zeit eine bedeutende Rolle für die Bleiversorgung sowohl im Rheingebiet als auch im Mittelmeerraum spielten. Nicht nur die Römer, sondern sehr wahrscheinlich auch die Einheimischen Westfalens, haben den Untersuchungen zufolge den Nachschub mit Blei für mehrere Jahrzehnte garantiert. Untersuchungen römischer Bleischlacken und Bleiglätte machten zudem deutlich, dass zumindest für die Römer neben der Bleiproduktion auch die Silbergewinnung eine große Bedeutung zukam.</abstract>
+                    <subject lang="ger">
+                        <topic>Blei</topic>
+                        <topic>Silber</topic>
+                        <topic>römisch</topic>
+                        <topic>Bleiisotopie</topic>
+                        <topic>Bleibarren</topic>
+                        <topic>Bleischlacke</topic>
+                        <topic>Bleiglätte</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22579580819</identifier>
+                    <identifier type="sys">HT015846668</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_723d2f1f-3483-4fb1-9baf-3996da551a8d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_723d2f1f-3483-4fb1-9baf-3996da551a8d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/723d2f1f-3483-4fb1-9baf-3996da551a8d/diss_bode.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_723d2f1f-3483-4fb1-9baf-3996da551a8d" DMDID="DMD_723d2f1f-3483-4fb1-9baf-3996da551a8d">
+            <mets:fptr FILEID="FILE_723d2f1f-3483-4fb1-9baf-3996da551a8d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

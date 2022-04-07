@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f74f8e34-8894-4380-9f38-1597a68c7859">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Bedeutung des S100P im kortikalen Zytoskelett</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133756769">
+                        <displayForm>Austermann, Judith</displayForm>
+                        <namePart type="given">Judith</namePart>
+                        <namePart type="family">Austermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111048907">
+                        <displayForm>Gerke, Volker</displayForm>
+                        <namePart type="given">Volker</namePart>
+                        <namePart type="family">Gerke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-12-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-12-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">S100 Proteine sind Ca2+-Sensoren, die über zumeist Ca2+-abhängige Interaktionen mit ihren Liganden, viele intra- und extrazelluläre Prozesse regulieren. Ein Ca2+-abhängiger Ligand des S100P ist das Plasmamembran-Aktinzytoskelett verknüpfende ERM-Protein Ezrin. Ezrin kann in einer inaktiven Konformation vorliegen, in der viele Ligandenbindungsstellen maskiert sind. Dies kann durch die Bindung von PIP2 und T567-Phosphorylierung sowie durch Bindung von S100P aufgehoben werden. In der vorliegenden Arbeit wurde das S100P-Ezrin Interaktionsmotiv definiert und gezeigt, dass die Bindung von S100P kompetitiv zur Bindung von PIP2 erfolgt, was vermutlich einen alternativen Aktivierungsmechanismus darstellt. Die Relevanz des Ca2+ für die S100P-Ezrin Interaktion wurde mittels einer permanent aktiven Ca2+-unabhängigen S100P Mutante analysiert. Zudem wurde verdeutlicht, dass die S100P-Ezrin Interaktion für die Tumorzellmigration relevant ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Kalzium</topic>
+                        <topic>F-Aktin</topic>
+                        <topic>Plasmamembran-Zytoskelett-Verknüpfung</topic>
+                        <topic>S100 Proteine</topic>
+                        <topic>S100P</topic>
+                        <topic>ERM-Proteinfamilie</topic>
+                        <topic>Ezrin</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-56589593715</identifier>
+                    <identifier type="sys">HT015419578</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f74f8e34-8894-4380-9f38-1597a68c7859</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f74f8e34-8894-4380-9f38-1597a68c7859_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f74f8e34-8894-4380-9f38-1597a68c7859/diss_austermann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f74f8e34-8894-4380-9f38-1597a68c7859" DMDID="DMD_f74f8e34-8894-4380-9f38-1597a68c7859">
+            <mets:fptr FILEID="FILE_f74f8e34-8894-4380-9f38-1597a68c7859_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_00688705-9db8-491d-aade-c1ac34815c27">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Darstellung neuartiger Celluloseoligomere und deren Verknüpfung mit klassischen und exploratorischen Glycosidierungsmethoden</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13870323X">
+                        <displayForm>Szymanski, Wojciech Paul</displayForm>
+                        <namePart type="given">Wojciech Paul</namePart>
+                        <namePart type="family">Szymanski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Redlich, Hartmut</displayForm>
+                        <namePart type="given">Hartmut</namePart>
+                        <namePart type="family">Redlich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-07-02</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-04-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Cellulose stellt die am häufigsten auftretende organische Verbindung der Biosphäre. In der Zeit zunehmender Ressourcenknappheit sind grundlegende Untersuchungen bezüglich ihrer Struktur, Verarbeitung und Verwendung vom großen Interesse. Im Rahmen dieser Arbeit wurden ausgehend von Cellulose hochfunktionalisierte Oligosaccharide dargestellt, die bei weiterer Verarbeitung mittels klassischer und exploratorischer Glycosidierungsmethoden, zu neuartigen Cellulosederivaten verknüpft werden konnten.</abstract>
+                    <subject lang="ger">
+                        <topic>Cellulose</topic>
+                        <topic>Glycosidierung</topic>
+                        <topic>Pivaloylyse</topic>
+                        <topic>Trehalose-Typus</topic>
+                        <topic>Cellooligomere</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-01519452352</identifier>
+                    <identifier type="sys">HT016107690</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_00688705-9db8-491d-aade-c1ac34815c27</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_00688705-9db8-491d-aade-c1ac34815c27_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/00688705-9db8-491d-aade-c1ac34815c27/diss_szymanski.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_00688705-9db8-491d-aade-c1ac34815c27" DMDID="DMD_00688705-9db8-491d-aade-c1ac34815c27">
+            <mets:fptr FILEID="FILE_00688705-9db8-491d-aade-c1ac34815c27_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

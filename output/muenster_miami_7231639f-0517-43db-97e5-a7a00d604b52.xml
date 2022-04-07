@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7231639f-0517-43db-97e5-a7a00d604b52">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Rate-limiting steps for human papillomavirus 16 internalization into host cells</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1117167852">
+                        <displayForm>Becker, Miriam</displayForm>
+                        <namePart type="given">Miriam</namePart>
+                        <namePart type="family">Becker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128928107">
+                        <displayForm>Schelhaas, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Schelhaas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-10-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2016-10-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eine Infektion mit dem humanen Papillomvirus 16 (HPV16) zählt zu den Hauptursachen für die Entwicklung von Gebärmutterhalskarzinomen. HPV16 nutzt einen neuartigen Endozytoseweg für den Eintritt in Wirtszellen. Dafür ist es essentiell, dass HPV16 zunächst Strukturveränderungen in der Virushülle erfährt. Diese ermöglichen die anschließende Interaktion mit einem Sekundärrezeptor, welcher zur Aufnahme in die Zelle führt. Die Endozytose von HPV16 verläuft mit Halbwertszeiten von 10-12 Stunden in die Wirtszellen außerordentlich langsam und asynchron. Diese Arbeit untersucht den Einfluss der strukturellen Veränderungen auf die Halbwertszeiten der Endozytose. Hierfür wurden strukturell veränderte Viruspartikel verwendet, mit deren Hilfe gezeigt werden konnte, dass die Prozessierung des Partikels mit Cyclophilinen und Furin für nur ein Drittel der langsamen und asynchronen Aufnahmezeit verantwortlich war. Ein weiterer geschwindigkeitsbestimmender Schritt war möglicherweise die Interaktion mit dem Sekundärrezeptor von HPV16.</abstract>
+                    <subject lang="ger">
+                        <topic>Papillomviren</topic>
+                        <topic>HPV16</topic>
+                        <topic>Endozytose</topic>
+                        <topic>strukturelle Modifikationen</topic>
+                        <topic>Internalisierungskinetik</topic>
+                        <topic>Furin</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04239528707</identifier>
+                    <identifier type="sys">HT019135875</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7231639f-0517-43db-97e5-a7a00d604b52</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7231639f-0517-43db-97e5-a7a00d604b52_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7231639f-0517-43db-97e5-a7a00d604b52/diss_becker_miriam.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7231639f-0517-43db-97e5-a7a00d604b52" DMDID="DMD_7231639f-0517-43db-97e5-a7a00d604b52">
+            <mets:fptr FILEID="FILE_7231639f-0517-43db-97e5-a7a00d604b52_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

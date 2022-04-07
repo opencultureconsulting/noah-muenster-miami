@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e661de61-558e-48f8-9977-95fb6fec4b39">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Experimentelle Untersuchung zur diagnostischen Leistungsfähigkeit digitaler Flachdetektorsysteme bei der Erkennung nicht dislozierter Rippenfrakturen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132001241">
+                        <displayForm>Schülke, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Schülke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ludwig, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Ludwig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-07-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-07-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel ist es, die diagnostische Leistungsfähigkeit digitaler Flachdetektorsysteme in Hinblick auf eine möglichen Dosisreduktion zu untersuchen. 100 artifiziell frakturierte und 100 unfrakturierte Schweinerippen wurden mit einem konventionellen Film-Foliensystem der Geschwindigkeitsklasse S=400, einem Speicherfoliensystem (S=400,S=800) und einem Flachdetektorsystem (S=400,S=800,S=1600,S=6400) geröntgt. Die Bewertung erfolgte anhand einer fünfstufigen Konfidenzskala, die statistische Auswertung der 4200 Einzelbeobachtungen durch eine ROC-Analyse. Es ergaben sich folgende Az-Werte: Film-Foliensystem 0,834 (S=400), Speicherfoliensystem 0,789 (S=400) und 0,729 (S=800), Flachdetektorsystem 0,879 (S=400), 0,833 (S=800), 0,765 (S=1600) und 0,576 (S=6400). Die Varianzanalyse ergab keinen signifikanten Unterschied zwischen dem Flachdetektorsystem (S=800) und dem Film-Foliensystems (S=400). Bei gleicher Strahlendosis ist der Flachdetektor dem Film-Foliensystem statistische signifikant überlegen.</abstract>
+                    <subject lang="ger">
+                        <topic>Flachdetektor</topic>
+                        <topic>flat-panel</topic>
+                        <topic>Speicherfolie</topic>
+                        <topic>digitale Lumineszenzradiographie</topic>
+                        <topic>digitale Radiographie</topic>
+                        <topic>Skelettradiographie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-71689594552</identifier>
+                    <identifier type="sys">HT014841000</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e661de61-558e-48f8-9977-95fb6fec4b39</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e661de61-558e-48f8-9977-95fb6fec4b39_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e661de61-558e-48f8-9977-95fb6fec4b39/diss_schuelke_christoph.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e661de61-558e-48f8-9977-95fb6fec4b39" DMDID="DMD_e661de61-558e-48f8-9977-95fb6fec4b39">
+            <mets:fptr FILEID="FILE_e661de61-558e-48f8-9977-95fb6fec4b39_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

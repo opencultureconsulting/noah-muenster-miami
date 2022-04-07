@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_55c773d6-9f08-47bd-9cb7-b11c200115b9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Total Cost of Ownership-Analyse mit VOFI</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108445518">
+                        <displayForm>Grob, Heinz Lothar</displayForm>
+                        <namePart type="given">Heinz Lothar</namePart>
+                        <namePart type="family">Grob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129289698">
+                        <displayForm>Lahme, Norman</displayForm>
+                        <namePart type="given">Norman</namePart>
+                        <namePart type="family">Lahme</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-04</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-05-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-05-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Der Arbeitsbericht stellt die erweiterte Fassung des Beitrags von Grob, H. L., Lahme, N.: Total
+Cost of Ownership-Analyse mit vollständigen Finanzplänen, in: Controlling 16 (2004) 3, 157-164 dar.</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659524687</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_55c773d6-9f08-47bd-9cb7-b11c200115b9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_55c773d6-9f08-47bd-9cb7-b11c200115b9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/55c773d6-9f08-47bd-9cb7-b11c200115b9/CGC20.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_55c773d6-9f08-47bd-9cb7-b11c200115b9" DMDID="DMD_55c773d6-9f08-47bd-9cb7-b11c200115b9">
+            <mets:fptr FILEID="FILE_55c773d6-9f08-47bd-9cb7-b11c200115b9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

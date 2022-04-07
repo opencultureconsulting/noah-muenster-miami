@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_42ebfa8a-7d98-4654-bce8-a01b0c3bb25a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Biofilmbildung als einem Risikofaktor bei katheterassoziierten Harnwegsinfektionen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1194497799">
+                        <displayForm>Schmidt, Patrick</displayForm>
+                        <namePart type="given">Patrick</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121669874">
+                        <displayForm>Dobrindt, Ulrich</displayForm>
+                        <namePart type="given">Ulrich</namePart>
+                        <namePart type="family">Dobrindt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-09-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-08-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Nosokomiale Harnwegsinfektionen häufig durch Blasenkatheter ausgelöst. Biofilmbildung ermöglicht Escherichia coli eine verlängerte Persistenz im Harntrakt und eine erhöhte Resistenz gegen antimikrobielle Substanzen. In einem statischen Biofilmmodell konnte ein inhibitorischer Effekt auf die Biofilmbildung des uropathogenen E. coli Isolates UTI89 durch Urinbestandteile gezeigt werden. Untersuchungen von jeweils zehn Isolaten katheterassoziierter Harnwegsinfektionen, Harnwegsinfektionen sowie von Fäkalisolaten in einem Flussmodell mit kontinuierlichem Medienaustausch (M63, künstlicher Urin) zeigten keinen signifikanten Unterschied der Biofilmbildung zwischen den Isolatgruppen. Ein signifikanter Einfluss des Mediums auf die Biofilmbildung wurde gezeigt. β-1,6-N-Acetyl-D-Glucosamin (PGA) ist Teil der Biofilmmatrix von E. coli. Ein Reportergenstamm zum Nachweis der pga-Expression wurde mittels Rekombination erstellt.</abstract>
+                    <subject lang="ger">
+                        <topic>Harnwegsinfektion</topic>
+                        <topic>Biofilm</topic>
+                        <topic>Flussmodell</topic>
+                        <topic>Escherichia coli</topic>
+                        <topic>Harnwegskatheter</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03189622781</identifier>
+                    <identifier type="sys">HT020194160</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_42ebfa8a-7d98-4654-bce8-a01b0c3bb25a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_42ebfa8a-7d98-4654-bce8-a01b0c3bb25a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/42ebfa8a-7d98-4654-bce8-a01b0c3bb25a/diss_Schmidt_Patrick.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_42ebfa8a-7d98-4654-bce8-a01b0c3bb25a" DMDID="DMD_42ebfa8a-7d98-4654-bce8-a01b0c3bb25a">
+            <mets:fptr FILEID="FILE_42ebfa8a-7d98-4654-bce8-a01b0c3bb25a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

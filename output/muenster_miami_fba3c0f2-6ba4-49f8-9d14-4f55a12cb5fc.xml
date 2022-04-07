@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fba3c0f2-6ba4-49f8-9d14-4f55a12cb5fc">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Informatik und Kultur</title>
+                        <subTitle>4. Münsteraner Workshop zur Schulinformatik</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1109072783">
+                        <displayForm>Thomas, Marco</displayForm>
+                        <namePart type="given">Marco</namePart>
+                        <namePart type="family">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124529186">
+                        <displayForm>Weigend, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Weigend</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-06-09</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2010-06-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Zugang zum elektronisch repräsentierten Wissen und die nutzbringende Verarbeitung von Information mit Hilfe von Informatiksystemen sind zu wichtigen Entwicklungsfaktoren unserer Gesellschaft geworden. Die Bedeutung der elektronischen Verarbeitung von Daten mit allgegenwärtigen Informationstechnologien drückt sich auch in der Bezeichnung „vierte Kulturtechnik“ aus (neben Lesen, Schreiben, Rechnen). Eine Kulturtechnik ist eine „durch Erziehung vermittelte Fähigkeit, die die Aneignung, Erhaltung u. Verbreitung von Kultur ermöglicht“ (Duden Deutsches Universalwörterbuch, 2007). In elf Artikeln von Experten aus Hamburg, Kiel, Berlin, Wuppertal, Jülich, Oldenburg, Paderborn, Münster und Groningen (Holland) wird der Beitrag des Informatikunterrichts zur Enkulturation der nachwachsenden Generation diskutiert.</abstract>
+                    <note type="citation/reference">Druckausg.: Münster:  ZfL-Verlag, 2010
+ISBN: 978-3-86877-004-9</note>
+                    <subject lang="ger">
+                        <topic>Schulinformatik</topic>
+                        <topic>Didaktik der Informatik</topic>
+                        <topic>Informatikunterricht</topic>
+                        <topic>Informatik und Kultur</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77469566930</identifier>
+                    <identifier type="sys">HT017602279</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fba3c0f2-6ba4-49f8-9d14-4f55a12cb5fc</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fba3c0f2-6ba4-49f8-9d14-4f55a12cb5fc_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fba3c0f2-6ba4-49f8-9d14-4f55a12cb5fc/mws_4.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fba3c0f2-6ba4-49f8-9d14-4f55a12cb5fc" DMDID="DMD_fba3c0f2-6ba4-49f8-9d14-4f55a12cb5fc">
+            <mets:fptr FILEID="FILE_fba3c0f2-6ba4-49f8-9d14-4f55a12cb5fc_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

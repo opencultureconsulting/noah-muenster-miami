@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d56c3581-abb6-4eca-8b01-712336288edd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Tangent spaces to the Teichmüller space from the energy-conscious perspective</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123944222X">
+                        <displayForm>Sharma, Divya</displayForm>
+                        <namePart type="given">Divya</namePart>
+                        <namePart type="family">Sharma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1125647604">
+                        <displayForm>Weiß, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Weiß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-08-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Für die Tangentialräume des Teichmüller-Raums einer geschlossenen Riemannschen Fläche \Sigma_{g} vom Geschlecht g &gt;=2 gibt es für gewöhnlich zwei verschiedene Arten der Beschreibung: als Raum der holomorphen quadratischen Differentiale von \Sigma_{g} (was gerade der Raum der Schnitte in der zweiten Tensorpotenz des kanonischen Geradenbündels von \Sigma_{g} ist) und als erste Kohomologiegruppe der Fundamentalgruppe von \Sigma_{g} mit Koeffizienten im Vektorraum der Killing-Vektorfelder auf der oberen Halbebene. Diese Arbeit beschäftigt sich damit, die beiden oben genannten verschiedenen Beschreibungen miteinander zu verbinden. Dabei wird der Begriff des harmonischen Vektorfelds auf der oberen Halbebene (bzw. äquivalent dazu, auf der Poincaré-Kreisscheibe) benutzt, welcher durch die Theorie der harmonischen Abbildungen zwischen kompakten hyperbolischen Riemannschen Flächen inspiriert ist.</abstract>
+                    <abstract lang="eng">Usually, the description of tangent spaces to the Teichmueller space of a closed Riemann surface \Sigma_{g} of genus g greater than equal to 2 comes in two different flavours: the space of holomorphic quadratic differentials on \Sigma_{g} which are holomorphic sections of the tensor square of the canonical line bundle of \Sigma_{g} and the first cohomology group of the fundamental group of \Sigma_{g} with coefficients in the vector space of Killing vector fields on the upper half plane. This thesis is concerned with connecting the above-mentioned descriptions using the notion of a harmonic vector field on the upper half plane (equivalently, on the Poincaré disk) that takes inspiration from the theory of harmonic maps between compact hyperbolic Riemann surfaces.</abstract>
+                    <subject lang="ger">
+                        <topic>Teichmüller-Raum</topic>
+                        <topic>Holomorphe quadratische Differentiale</topic>
+                        <topic>Gruppenkohomologie</topic>
+                        <topic>Harmonische Abbildungen</topic>
+                        <topic>Harmonische Vektorfelder</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Teichmueller space</topic>
+                        <topic>Holomorphic quadratic differentials</topic>
+                        <topic>Group cohomology</topic>
+                        <topic>Harmonic maps</topic>
+                        <topic>Harmonic vector fields</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-46069643318</identifier>
+                    <identifier type="sys">HT021051731</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d56c3581-abb6-4eca-8b01-712336288edd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d56c3581-abb6-4eca-8b01-712336288edd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d56c3581-abb6-4eca-8b01-712336288edd/diss_sharma.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d56c3581-abb6-4eca-8b01-712336288edd" DMDID="DMD_d56c3581-abb6-4eca-8b01-712336288edd">
+            <mets:fptr FILEID="FILE_d56c3581-abb6-4eca-8b01-712336288edd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

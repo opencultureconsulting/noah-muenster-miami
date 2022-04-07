@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_461dd8f2-ec1b-4dd2-9b36-bbeea901ab05">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partielle 16S rDNA-Sequenzanalyse zur Identifizierung von Pseudomonaden und anderen medizinisch relevanten Nonfermentern</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135644224">
+                        <displayForm>Siebeneck, Mareike</displayForm>
+                        <namePart type="given">Mareike</namePart>
+                        <namePart type="family">Siebeneck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135644224">
+                        <displayForm>Schnier, Mareike</displayForm>
+                        <namePart type="given">Mareike</namePart>
+                        <namePart type="family">Schnier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112740553">
+                        <displayForm>Harmsen, Dag</displayForm>
+                        <namePart type="given">Dag</namePart>
+                        <namePart type="family">Harmsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-04-29</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-04-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Pseudomonaden und andere Nonfermenter (NF) sind vor allem bei immunsupprimierten Patienten häufige Infektionserreger und bereiten oft Schwierigkeiten in der konventionellen phänotypischen Diagnostik. In der vorliegenden Arbeit wurde daher für die NF-Identifizierung die kulturunabhängige partielle 16S rDNA-Gensequenzierung untersucht. Es wurde die 5´-Region der 16S ribosomalen DNA (E. coli Position 54 bis 510) sequenziert und eine Referenzsequenzdatenbank basierend auf insgesamt 76 Pseudomonas-Spezies und 48 humanmedizinisch relevanten NF-Spezies im Rahmen des Ribosomal Identification of Microorganisms (RIDOM)-Projektes etabliert. Anschließend wurde diese Referenzdatenbank mit GenBank und der kommerziellen MicroSeq 500-Datenbank verglichen. Insgesamt konnte gezeigt werden, dass die partielle 16S rDNA-Sequenzierung in den meisten Fällen eine eindeutige kulturunabhängige Identifizierung von Nonfermentern ermöglicht und RIDOM im Abgleich mit bestehenden Datenbanken sehr gut abschneidet.</abstract>
+                    <subject lang="ger">
+                        <topic>Pseudomonas</topic>
+                        <topic>Nonfermenter</topic>
+                        <topic>Sequenzierung</topic>
+                        <topic>Datenbank</topic>
+                        <topic>rDNA</topic>
+                        <topic>16S</topic>
+                        <topic>RIDOM</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-95539380409</identifier>
+                    <identifier type="sys">HT015593793</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_461dd8f2-ec1b-4dd2-9b36-bbeea901ab05</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_461dd8f2-ec1b-4dd2-9b36-bbeea901ab05_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/461dd8f2-ec1b-4dd2-9b36-bbeea901ab05/diss_siebeneck.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_461dd8f2-ec1b-4dd2-9b36-bbeea901ab05" DMDID="DMD_461dd8f2-ec1b-4dd2-9b36-bbeea901ab05">
+            <mets:fptr FILEID="FILE_461dd8f2-ec1b-4dd2-9b36-bbeea901ab05_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

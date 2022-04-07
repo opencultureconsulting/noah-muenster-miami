@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_de40ad87-c470-4d25-a062-fcbc900a89a5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Mean curvature flow of cones near minimal cones</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1190115859">
+                        <displayForm>Wunderlich, Marcel</displayForm>
+                        <namePart type="given">Marcel</namePart>
+                        <namePart type="family">Wunderlich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136032443">
+                        <displayForm>Vertman, Boris</displayForm>
+                        <namePart type="given">Boris</namePart>
+                        <namePart type="family">Vertman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-07-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-06-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir untersuchen die Kurzzeit-Existenz des mittleren Krümmungsflusses von Kegeln über kompakten Mannigfaltigkeiten im Euklidischen Raum. Hierfür linearisieren wir den Fluss in geeigneter Weise in Termen von b-Vektorfeldern. Dies resultiert in einem parabolischen Operator, welcher essentiell ein geshifteter Laplace-Operator ist. Die Asymptotik des zugehörigen Wärmeleitungskerns kann auf einem geeigneten Aufblasungsraum gut verstanden werden. Dies ermöglicht uns, Abbildungseigenschaften zwischen gewissen Hölder-Räumen zu beweisen. Falls die Grundfläche des Kegels keine Sphäre ist und der initiale Kegel hinreichend nah an einem Minimalkegel ist, können wir mittels eines Fixpunktarguments die Kurzzeitexistenz des mittleren Krümmungsflusses beweisen. Wir zeigen, dass sich die Krümmungen gut verhalten und, für möglicherweise kürzere Zeit, beweisen das klassische Ergebnis des Erhalts positiver mittlerer Krümmung.</abstract>
+                    <abstract lang="eng">We investigate the short-time existence of the mean curvature flow of cones over compact manifolds in Euclidean space. For this we find a suitable linearization of the flow in terms of b-vector fields. This yields a parabolic operator which is essentially a shifted Laplacian. Its heat kernel has well understood asymptotics on an appropriate blow-up space, allowing us to prove mapping properties between certain weighted Hoelder spaces. If the cross section of the cone is not a sphere and the initial cone is sufficiently close to a minimal cone, we can prove short-time existence of the mean curvature flow via a fixpoint argument. We show that its curvatures behave well and that, for possibly shorter duration, we have the classic preservation of mean convexity.</abstract>
+                    <subject lang="ger">
+                        <topic>Mittlerer Krümmungsfluss</topic>
+                        <topic>Differentialgeometrie</topic>
+                        <topic>mittlere Kruümung</topic>
+                        <topic>Kegel</topic>
+                        <topic>Singularitäten</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Mean curvature flow</topic>
+                        <topic>differential geometry</topic>
+                        <topic>mean curvature</topic>
+                        <topic>cones</topic>
+                        <topic>singularities</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44149618246</identifier>
+                    <identifier type="sys">HT020128183</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_de40ad87-c470-4d25-a062-fcbc900a89a5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_de40ad87-c470-4d25-a062-fcbc900a89a5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/de40ad87-c470-4d25-a062-fcbc900a89a5/diss_wunderlich.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_de40ad87-c470-4d25-a062-fcbc900a89a5" DMDID="DMD_de40ad87-c470-4d25-a062-fcbc900a89a5">
+            <mets:fptr FILEID="FILE_de40ad87-c470-4d25-a062-fcbc900a89a5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

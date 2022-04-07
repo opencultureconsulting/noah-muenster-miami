@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1d42a7bf-0bf4-4749-89dc-eca471361b69">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Protokollbuch des Hammer Lehrervereins aus der Zeit von 1888 bis 1902</title>
+                        <subTitle>Beschreibung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113382367">
+                        <displayForm>Berntzen, Detlef</displayForm>
+                        <namePart type="given">Detlef</namePart>
+                        <namePart type="family">Berntzen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-06-02</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-06-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-06-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note>Verwandte Dokumente: 
+Das Protokollbuch des Kreislehrervereins Hamm aus den Jahren 1888 bis 1903 : die vollständige Quelle (http://miami.uni-muenster.de/Record/432b8426-1356-454d-8865-be0f66607946); 
+Übersicht über die Sitzungen des Lehrervereins in Hamm von 1888 bis 1902 (http://nbn-resolving.de/urn:nbn:de:hbz:6-88569336389); 
+Übersicht über die Mitgliedschaft des Lehrervereins in Hamm inklusive der Führungsstruktur (http://nbn-resolving.de/urn:nbn:de:hbz:6-18539589733)</note>
+                    <subject lang="ger">
+                        <topic>Lehrerbildung</topic>
+                        <topic>Lehrerverein</topic>
+                        <topic>historische Quelle</topic>
+                        <topic>historische Bildungsforschung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-18579600899</identifier>
+                    <identifier type="sys">HT019757283</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1d42a7bf-0bf4-4749-89dc-eca471361b69</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1d42a7bf-0bf4-4749-89dc-eca471361b69_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1d42a7bf-0bf4-4749-89dc-eca471361b69/Das_Protokollbuch_des_Hammer_Lehrervereins_1888_bis_1902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1d42a7bf-0bf4-4749-89dc-eca471361b69" DMDID="DMD_1d42a7bf-0bf4-4749-89dc-eca471361b69">
+            <mets:fptr FILEID="FILE_1d42a7bf-0bf4-4749-89dc-eca471361b69_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

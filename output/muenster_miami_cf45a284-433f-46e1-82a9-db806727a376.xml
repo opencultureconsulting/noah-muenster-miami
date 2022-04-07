@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cf45a284-433f-46e1-82a9-db806727a376">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>L²-Invariants of groups and discrete measured groupoids</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12452320X">
+                        <displayForm>Sauer, Roman</displayForm>
+                        <namePart type="given">Roman</namePart>
+                        <namePart type="family">Sauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133867072">
+                        <displayForm>Lück, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Lück</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-02-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-01-31</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In der vorliegenden Arbeit werden L²-Bettizahlen und Novikov-Shubin Invarianten von Gruppen untersucht. Die Definition von L²-Bettizahlen wird auf diskrete messbare Gruppoide erweitert. Dies führt zu einem sehr algebraischen Beweis des Satzes von Damien Gaboriau, der besagt, dass L²-Bettizahlen von Gruppen Invarianten des Orbitäquivalenztyps sind. Die dabei entwickelten Methoden führen auch zu einem Beweis der Quasi-Isometrieinvarianz von Novikov-Shubin Invarianten für amenable Gruppen. Ferner beschäftigen wir uns mit der Frage der Rationalität von Novikov-Shubin Invarianten. Es wird u.a. gezeigt, dass die Rationalitätsvermutung von John Lott und Wolfgang Lück für freie Gruppen erfüllt ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Novikov-Shubin invariants</topic>
+                        <topic>L²-Betti numbers</topic>
+                        <topic>measure equivalence</topic>
+                        <topic>quasi-isometry</topic>
+                        <topic>noncommutative power series</topic>
+                        <topic>von Neumann algebras</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659549583</identifier>
+                    <identifier type="sys">HT013613411</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cf45a284-433f-46e1-82a9-db806727a376</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cf45a284-433f-46e1-82a9-db806727a376_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cf45a284-433f-46e1-82a9-db806727a376/sauer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cf45a284-433f-46e1-82a9-db806727a376" DMDID="DMD_cf45a284-433f-46e1-82a9-db806727a376">
+            <mets:fptr FILEID="FILE_cf45a284-433f-46e1-82a9-db806727a376_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b3c28dd8-dc4b-4ff3-80a7-e84f81eb417e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Conformational changes in ezrin analyzed by Förster resonance energy transfer</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1080502386">
+                        <displayForm>Shabardina, Victoria</displayForm>
+                        <namePart type="given">Victoria</namePart>
+                        <namePart type="family">Shabardina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111048907">
+                        <displayForm>Gerke, Volker</displayForm>
+                        <namePart type="given">Volker</namePart>
+                        <namePart type="family">Gerke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-12-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-12-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ezrin gehört zu der ERM Proteingruppe und seine Hauptfunktion besteht in der Verbindung zwischen dem Zytoskelett und der Zellmembran. Diese Arbeit demonstriert Veränderungen der Ezrin-Konformation während seiner Aktivierung und erklärt Synergismus der Aktivirungsfaktoren: Interaktion zwischen Ezrin und PIP2, Ezrin Phosphorylierung. Förster resonance energy transfer Technik wurde in dieser Arbeit angewendet.</abstract>
+                    <abstract lang="eng">Ezrin, a member of the ERM (Ezrin-Radixin-Moesin) protein family, serves as a linker between cell membrane and cytoskeleton in the cells of all protozoans. Thereby, it is involved in cell motility, cell division, cell-cell adhesion and the maintainance of cell polarity. In resting cells ezrin exists in a so-called dormant state, where most of its binding sites are masked by an autoinhibitory association between N- and C-terminals. Ezrin activation is thought to be triggered by interaction with PIP2 and the C-terminal phosphorylation. In this study we probed ezrin’s conformational state by FRET (Förster resonance energy transfer) and showed that disruption of the N-C-terminals association occurs only when of both activating factors are applied.</abstract>
+                    <subject lang="ger">
+                        <topic>Ezrin-Aktivierung</topic>
+                        <topic>FRET</topic>
+                        <topic>Ezrin-Konformation</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>ezrin activation</topic>
+                        <topic>FRET</topic>
+                        <topic>ezrin conformation</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37249521495</identifier>
+                    <identifier type="sys">HT018842941</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b3c28dd8-dc4b-4ff3-80a7-e84f81eb417e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b3c28dd8-dc4b-4ff3-80a7-e84f81eb417e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b3c28dd8-dc4b-4ff3-80a7-e84f81eb417e/diss_shabardina.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b3c28dd8-dc4b-4ff3-80a7-e84f81eb417e" DMDID="DMD_b3c28dd8-dc4b-4ff3-80a7-e84f81eb417e">
+            <mets:fptr FILEID="FILE_b3c28dd8-dc4b-4ff3-80a7-e84f81eb417e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_044741aa-8587-4552-be43-d01d5046114f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>note on the cross Gramian for non-symmetric systems</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115358324">
+                        <displayForm>Himpe, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Himpe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1115010972">
+                        <displayForm>Ohlberger, Mario</displayForm>
+                        <namePart type="given">Mario</namePart>
+                        <namePart type="family">Ohlberger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-08-10</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-09-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The cross Gramian matrix is a tool for model reduction and system identification, but it is only applicable to square control systems. For symmetric systems, the cross Gramian possesses a useful relation to the system&apos;s associated Hankel singular values. Yet, many real-life models are neither square nor symmetric. In this work, concepts from decentralized control are used to approximate a cross Gramian for non-symmetric and non-square systems. To illustrate this new non-symmetric cross Gramian, it is applied in the context of model order reduction.</abstract>
+                    <note type="citation/reference">Systems Science &amp; Control Engineering 4 (2016) 1, 199-208</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2015/2016 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Cross Gramian</topic>
+                        <topic>controllability</topic>
+                        <topic>observability</topic>
+                        <topic>decentralized control</topic>
+                        <topic>model reduction</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04269619001</identifier>
+                    <identifier type="doi">10.1080/21642583.2016.1215273</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_044741aa-8587-4552-be43-d01d5046114f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_044741aa-8587-4552-be43-d01d5046114f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/044741aa-8587-4552-be43-d01d5046114f/A%20note%20on%20the%20cross%20Gramian%20for%20non%20symmetric%20systems.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_044741aa-8587-4552-be43-d01d5046114f" DMDID="DMD_044741aa-8587-4552-be43-d01d5046114f">
+            <mets:fptr FILEID="FILE_044741aa-8587-4552-be43-d01d5046114f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

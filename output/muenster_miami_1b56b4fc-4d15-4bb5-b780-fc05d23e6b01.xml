@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1b56b4fc-4d15-4bb5-b780-fc05d23e6b01">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Implementierung eines hybriden Debuggers für Java</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14340945X">
+                        <displayForm>Hermanns, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Hermanns</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuchen, Herbert</displayForm>
+                        <namePart type="given">Herbert</namePart>
+                        <namePart type="family">Kuchen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-12-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-11-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Debugging ist ein komplexer und arbeitsintensiver Prozess in der Softwareentwicklung. Für das Debugging von Java-Programmen werden bis heute vor allem sogenannte Trace-Debugger verwendet. Diese unterstützen die Fehlersuche, indem sie es ermöglichen, ein untersuchtes Programm schrittweise auszuführen. Im Bereich der Forschung sind viele neue Methoden und Werkzeuge entwickelt worden, die im Vergleich zum Trace-Debugging eine erhebliche Verbesserung und Vereinfachung des Debugging-Prozesses versprechen. Auf die in der Praxis eingesetzten Verfahren hatten diese Entwicklungen bisher nur einen äußert geringen Einfluss. In der vorliegenden Arbeit wird die Entwicklung und Implementierung einer neuen hybriden Debugging-Methode für Java-Programme beschrieben. Die Methode kombiniert deklaratives Debugging und Omniscient-Debugging.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Entwicklung und Implementierung eines hybriden Debuggers für Java / von Christian Hermanns. - Münster : Monsenstein und Vannerdat, 2010. - 279 S. (Wissenschaftliche Schriften der WWU Münster : Reihe IV ; Bd. 3), ISBN 978-3-8405-0030-5, Preis: 22,30 EUR</note>
+                    <subject lang="ger">
+                        <topic>Java</topic>
+                        <topic>Debugger</topic>
+                        <topic>Debugging</topic>
+                        <topic>deklarativ</topic>
+                        <topic>hybrid</topic>
+                        <topic>omniscient</topic>
+                        <topic>Trace</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55489474854</identifier>
+                    <identifier type="isbn">978-3-8405-0030-5</identifier>
+                    <identifier type="sys">HT016697442</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1b56b4fc-4d15-4bb5-b780-fc05d23e6b01</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1b56b4fc-4d15-4bb5-b780-fc05d23e6b01_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1b56b4fc-4d15-4bb5-b780-fc05d23e6b01/diss_hermanns_buchblock.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1b56b4fc-4d15-4bb5-b780-fc05d23e6b01" DMDID="DMD_1b56b4fc-4d15-4bb5-b780-fc05d23e6b01">
+            <mets:fptr FILEID="FILE_1b56b4fc-4d15-4bb5-b780-fc05d23e6b01_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

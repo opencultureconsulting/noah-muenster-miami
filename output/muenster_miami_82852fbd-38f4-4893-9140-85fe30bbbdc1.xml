@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_82852fbd-38f4-4893-9140-85fe30bbbdc1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Über abelsche Varietäten und den transversalen Indexsatz</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133139689">
+                        <displayForm>Filali, Ouidad</displayForm>
+                        <namePart type="given">Ouidad</namePart>
+                        <namePart type="family">Filali</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/141391561">
+                        <displayForm>Deninger, Christopher</displayForm>
+                        <namePart type="given">Christopher</namePart>
+                        <namePart type="family">Deninger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-06-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-06-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit ist eine Interpretation der expliziten Formel für die Zeta Funktion einer gewöhnlichen abelschen Varietät über einem endlichen Köper als transversalen Indexsatz auf einem verallgemeinerten Solenoid X mit glattem Fluss.</abstract>
+                    <subject lang="ger">
+                        <topic>abelsche Varietät</topic>
+                        <topic>transversal Indexsatz</topic>
+                        <topic>Zeta Funktion</topic>
+                        <topic>verallgemeinerte Solenoid</topic>
+                        <topic>explizite Formel</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-88549387283</identifier>
+                    <identifier type="sys">HT015236428</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_82852fbd-38f4-4893-9140-85fe30bbbdc1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_82852fbd-38f4-4893-9140-85fe30bbbdc1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/82852fbd-38f4-4893-9140-85fe30bbbdc1/diss_filali.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_82852fbd-38f4-4893-9140-85fe30bbbdc1" DMDID="DMD_82852fbd-38f4-4893-9140-85fe30bbbdc1">
+            <mets:fptr FILEID="FILE_82852fbd-38f4-4893-9140-85fe30bbbdc1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0d0b1473-1b18-42a1-961a-508934001c81">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Drosophila melanogaster als Modellsystem zur Erforschung humaner Gliome</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136080839">
+                        <displayForm>Witte, Hanna Teresa</displayForm>
+                        <namePart type="given">Hanna Teresa</namePart>
+                        <namePart type="family">Witte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klämbt, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Klämbt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-07-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-06-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Gliome sind die häufigsten primären hirneigenen Tumore bei Erwachsenen. Typische Merkmale sind die Infiltration des umliegenden Gewebes und eine progressive Malignisierung, die mit einem gesteigerten migratorischen Potential der Tumorzellen einher geht. Zur Erforschung der Gliompathogenese bietet die Verwendung von Drosophila melanogaster interessante Möglichkeiten. So konnten durch die ektopische Aktivierung des PI3K/Akt-Signalwegs in Drosophila gezielt gesteigerte Proliferation und ektopische Migration von Gliazellen induziert werden. Beide Eigenschaften sind kennzeichnend für gliale Tumore und treten auch bei der Deregulation dieses Signalwegs im Menschen auf. Diese Phänotypen konnten durch Medikamente revertiert werden, welche zur Therapie von Krebspatienten eingesetzt werden. Die Signaltransduktionsprozesse von Drosophila und dem Menschen scheinen also hinreichend ähnlich zu sein, um in Drosophila gewonnene Erkenntnisse für die humane Tumorforschung interessant zu machen.</abstract>
+                    <subject lang="ger">
+                        <topic>Gliome</topic>
+                        <topic>Gliazellen</topic>
+                        <topic>Gliamigration</topic>
+                        <topic>Drosophila</topic>
+                        <topic>EGFR</topic>
+                        <topic>PVR</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-94549464641</identifier>
+                    <identifier type="sys">HT015676845</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0d0b1473-1b18-42a1-961a-508934001c81</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0d0b1473-1b18-42a1-961a-508934001c81_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0d0b1473-1b18-42a1-961a-508934001c81/diss_witte.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0d0b1473-1b18-42a1-961a-508934001c81" DMDID="DMD_0d0b1473-1b18-42a1-961a-508934001c81">
+            <mets:fptr FILEID="FILE_0d0b1473-1b18-42a1-961a-508934001c81_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

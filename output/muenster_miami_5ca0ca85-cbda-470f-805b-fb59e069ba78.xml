@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5ca0ca85-cbda-470f-805b-fb59e069ba78">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mechanismus der CFTR-Aktivierung durch Sildenafil in Hinblick auf Mukoviszidose</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1012523780">
+                        <displayForm>Leier, Geraldine</displayForm>
+                        <namePart type="given">Geraldine</namePart>
+                        <namePart type="family">Leier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112167985">
+                        <displayForm>Weber, Wolf-Michael</displayForm>
+                        <namePart type="given">Wolf-Michael</namePart>
+                        <namePart type="family">Weber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-06-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-05-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Erbkrankheit Mukoviszidose wird durch eine Mutation im Cl-Kanal CFTR verursacht, was eine stark verminderte Cl-Sekretion zur Folge hat. Um die Cl-Leitfähigkeit des CFTR bei der häufigsten Mutation deltaF508-CFTR wiederherzustellen, versucht man den Transportdefekt des deltaF508-CFTR zu korrigieren (Korrektor) oder dessen Aktivität zu erhöhen (Potentiator). Innerhalb dieser Arbeit wurde daher genauer untersucht, ob der Phosphodiesterase-5 Inhibitor Sildenafil (SL) als Korrektor und/oder Potentiator des CFTR eingeordnet werden kann, und über welchen Mechanismus SL agiert. Es konnte anhand des Xenopus laevis Expressionssystems und humaner bronchialer Epithelzellen gezeigt werden, dass SL als Potentiator und Korrektor wirkt und somit einen vielversprechenden Therapieansatz bei Mukoviszidose darstellt. Dabei wird die CFTR-Aktivierung durch SL anhand der NO-abhängigen cGMP-Signalkaskade vermittelt, während die Stimulation der deltaF508-CFTR-und wt-CFTR-Exozytose cGMP-unabhängig erscheint.</abstract>
+                    <subject lang="ger">
+                        <topic>Mukoviszidose</topic>
+                        <topic>Sildenafil</topic>
+                        <topic>CFTR</topic>
+                        <topic>CF</topic>
+                        <topic>Phosphodiesterase-5</topic>
+                        <topic>Korrektor</topic>
+                        <topic>Potentiator</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44409659790</identifier>
+                    <identifier type="sys">HT016845961</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5ca0ca85-cbda-470f-805b-fb59e069ba78</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5ca0ca85-cbda-470f-805b-fb59e069ba78_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5ca0ca85-cbda-470f-805b-fb59e069ba78/diss_leier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5ca0ca85-cbda-470f-805b-fb59e069ba78" DMDID="DMD_5ca0ca85-cbda-470f-805b-fb59e069ba78">
+            <mets:fptr FILEID="FILE_5ca0ca85-cbda-470f-805b-fb59e069ba78_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

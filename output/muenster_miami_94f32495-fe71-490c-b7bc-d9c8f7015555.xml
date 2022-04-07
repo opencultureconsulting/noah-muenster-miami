@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_94f32495-fe71-490c-b7bc-d9c8f7015555">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wissenschaftliche Informationen</title>
+                        <subTitle>Effizienzsteigerungen in Forschung, Lehre und Studium</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/104610750X">
+                        <displayForm>Gildhorn, Antje</displayForm>
+                        <namePart type="given">Antje</namePart>
+                        <namePart type="family">Gildhorn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-02-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-07-08</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, gehalten auf dem 1. gemeinsamen Workshop cHL-hybrid, MIRO, MOVE, MIAMI (c3m II) am 13.02.2006 an der Westfälischen Wilhelms-Universität Münster</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68539522236</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_94f32495-fe71-490c-b7bc-d9c8f7015555</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_94f32495-fe71-490c-b7bc-d9c8f7015555_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/94f32495-fe71-490c-b7bc-d9c8f7015555/16_MIRO_wissenschInf_v1.0.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_94f32495-fe71-490c-b7bc-d9c8f7015555" DMDID="DMD_94f32495-fe71-490c-b7bc-d9c8f7015555">
+            <mets:fptr FILEID="FILE_94f32495-fe71-490c-b7bc-d9c8f7015555_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

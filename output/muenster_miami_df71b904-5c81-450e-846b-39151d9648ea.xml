@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_df71b904-5c81-450e-846b-39151d9648ea">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Ich-Erzähler des Sachbuchs</title>
+                        <subTitle>Literarische und wissenschaftliche Autorschaft im Vergleich</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1057266930">
+                        <displayForm>Wittenzellner, Jana</displayForm>
+                        <namePart type="given">Jana</namePart>
+                        <namePart type="family">Wittenzellner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-05-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Je nach Gattung sind nach wie vor zwei gänzlich unterschiedliche Konzepte von Autorschaft in Gebrauch: In fiktionalen Texten vermuten wir einen dem Text äußerlichen Autor oder eine Autorin und innerhalb des Textes einen literarischen Erzähler oder eine literarische Erzählerin. Die Erzählstimme im Sachtext dagegen scheint die »unverfälschte« Stimme der Person außerhalb des Textes zu sein, die ein sachbezogenes Wissen kundtut. Diese Stimme scheint mit der des Urhebers oder der Urheberin des Textes in eins zu fallen. Wenn jedoch Zweifel an der Glaubwürdigkeit einer dieser Instanzen des Sachtexts aufkommen, wird die Differenz zwischen ihnen sichtbar. Veranschaulichen lässt sich dies am Fall der spanischen Autorin und Sexualreformerin Hildegart Rodríguez.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59129569284</identifier>
+                    <identifier type="doi">10.17879/59129568995</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_df71b904-5c81-450e-846b-39151d9648ea</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_df71b904-5c81-450e-846b-39151d9648ea_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/df71b904-5c81-450e-846b-39151d9648ea/textpraxis_2018_15_wittenzellner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_df71b904-5c81-450e-846b-39151d9648ea" DMDID="DMD_df71b904-5c81-450e-846b-39151d9648ea">
+            <mets:fptr FILEID="FILE_df71b904-5c81-450e-846b-39151d9648ea_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

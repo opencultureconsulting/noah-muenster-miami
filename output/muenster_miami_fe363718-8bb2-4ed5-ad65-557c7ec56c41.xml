@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fe363718-8bb2-4ed5-ad65-557c7ec56c41">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Using advanced illumination techniques to enhance realism and perception of volume visualizations</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1047924463">
+                        <displayForm>Lindemann, Florian</displayForm>
+                        <namePart type="given">Florian</namePart>
+                        <namePart type="family">Lindemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hinrichs, Klaus H.</displayForm>
+                        <namePart type="given">Klaus H.</namePart>
+                        <namePart type="family">Hinrichs</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014-03-04</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2014-01-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Nutzung volumetrischer Daten ist in vergangenen Jahren immer häufiger geworden. Die Erzeugung von aussagekräfigen und verständlichen Bildern aus diesen Daten ist daher wichtiger denn je. Die Simulation von Beleuchtungsphänomenen ist eine Möglichkeit, die Wahrnehmung und den Realismus solcher Bilder zu verbessern. Diese Dissertation beschäftigt sich mit der Effektivität von existierenden Modellen zur Volumenillumination und präsentiert einige neue Techniken und Anwendungen für diesen Bereich der Computergrafik. Es werden Methoden vorgestellt, um die Interaktion von Licht und Material im Kontext von Volumendaten zu simulieren. Weiterhin wird eine umfangreichen Nutzerstudie präsentiert, deren Ziel es war, den Einfluss von verschiedenen existierenden Modellen zur Volumenillumination auf den Betrachter zu untersuchen. Abschließend wird eine Anwendung zur Darstellung und visuellen Analyse von Hirndaten präsentiert, in der Volumenillumination neben weiteren neuartigen Visualisierungen zum Einsatz kommt.</abstract>
+                    <subject lang="ger">
+                        <topic>Computergrafik</topic>
+                        <topic>wissenschaftliche Visualisierung</topic>
+                        <topic>Volumenrendering</topic>
+                        <topic>Volumenbeleuchtung</topic>
+                        <topic>medizinische Anwendungen</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14309548523</identifier>
+                    <identifier type="sys">HT018183872</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fe363718-8bb2-4ed5-ad65-557c7ec56c41</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fe363718-8bb2-4ed5-ad65-557c7ec56c41_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fe363718-8bb2-4ed5-ad65-557c7ec56c41/diss_lindemann_florian.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fe363718-8bb2-4ed5-ad65-557c7ec56c41" DMDID="DMD_fe363718-8bb2-4ed5-ad65-557c7ec56c41">
+            <mets:fptr FILEID="FILE_fe363718-8bb2-4ed5-ad65-557c7ec56c41_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

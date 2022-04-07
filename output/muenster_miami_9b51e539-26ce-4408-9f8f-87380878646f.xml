@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9b51e539-26ce-4408-9f8f-87380878646f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Metabasins or a state space aggregation for finite Markov chains with exponentially small transition probabilities</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1030495599">
+                        <displayForm>Winkler, Andrea</displayForm>
+                        <namePart type="given">Andrea</namePart>
+                        <namePart type="family">Winkler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, Gerold</displayForm>
+                        <namePart type="given">Gerold</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-02-03</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-01-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Motiviert durch Erkenntnisse aus der theoretischen Chemie wird in dieser Arbeit für ungeordnete Systeme, charakterisiert durch eine hoch-dimensionale Energiefunktion und exponentiell kleine Übergangswahrscheinlichkeiten, eine Aggregation des Zustandsraumes und damit ein aggregierter Prozess mit folgenden Eigenschaften hergeleitet: Der aggregierte Prozess besitzt eine asymptotische Markov-Eigenschaft und verhält sich wie ein Trap-Modell, seine Verweildauern lassen sich mittels der Energiefunktion angeben und die räumlichen Zuwächse sind annähernd unkorreliert. Großen Einfluss hat hier die Theorie der Metastabilität. Im zweiten Teil der Arbeit wird zunächst allgemein und dann konkret an obigem aggregierten Prozess untersucht, welche Auswirkungen die Verlangsamung einer Markovkette durch Einführung zufälliger Verweildauern auf die Mischrate hat. Es werden mit Hilfe von Spektraltheorie und Kopplungsargumenten Resultate für Markovsche und auch semi-Markovsche verlangsamte Ketten bewiesen.</abstract>
+                    <subject lang="ger">
+                        <topic>Ungeordnete Systeme</topic>
+                        <topic>Metastabilität</topic>
+                        <topic>Zustandsraumaggregation</topic>
+                        <topic>Semi-Markovketten</topic>
+                        <topic>Mischzeiten</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-57399613412</identifier>
+                    <identifier type="sys">HT017532480</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9b51e539-26ce-4408-9f8f-87380878646f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9b51e539-26ce-4408-9f8f-87380878646f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9b51e539-26ce-4408-9f8f-87380878646f/diss_winkler_andrea.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9b51e539-26ce-4408-9f8f-87380878646f" DMDID="DMD_9b51e539-26ce-4408-9f8f-87380878646f">
+            <mets:fptr FILEID="FILE_9b51e539-26ce-4408-9f8f-87380878646f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

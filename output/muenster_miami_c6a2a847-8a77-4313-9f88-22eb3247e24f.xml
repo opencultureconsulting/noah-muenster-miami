@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c6a2a847-8a77-4313-9f88-22eb3247e24f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>MetaMIS approach for the specification of management views on business processes</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121064727">
+                        <displayForm>Holten, Roland</displayForm>
+                        <namePart type="given">Roland</namePart>
+                        <namePart type="family">Holten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-11</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-10-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-10-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The specification of management views on business processes is a main development task in the requirements specification of reporting systems for the management. Today the information warehouse is the accepted IT architecture for this purpose. The paper summarises the state of the research on the so called MetaMIS Approach. The methodological background is discussed and the modelling language comprising the conceptual and the representational language aspects is specified. Guidance rules complete the MetaMIS Modelling Technique. Examples show how the modelling technique works in enterprise environments. Some remarks on problem solving techniques as part of the MetaMIS Modelling Method are given. The appendix gives a detailed overview over the required linguistic operations for the construction of the modelling language.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43569549347</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c6a2a847-8a77-4313-9f88-22eb3247e24f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c6a2a847-8a77-4313-9f88-22eb3247e24f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c6a2a847-8a77-4313-9f88-22eb3247e24f/084_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c6a2a847-8a77-4313-9f88-22eb3247e24f" DMDID="DMD_c6a2a847-8a77-4313-9f88-22eb3247e24f">
+            <mets:fptr FILEID="FILE_c6a2a847-8a77-4313-9f88-22eb3247e24f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

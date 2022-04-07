@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_96212d96-291d-4124-a155-8ae996b0dc31">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dokumente aus der Santini-Sammlung und dem Universitätsarchiv Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea</displayForm>
+                        <namePart type="given">Andrea</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103583569X">
+                        <displayForm>Ammendola, Andrea Pietro</displayForm>
+                        <namePart type="given">Andrea Pietro</namePart>
+                        <namePart type="family">Ammendola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143525484">
+                        <displayForm>Schmitz, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schmitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-11-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dieser Beitrag beschäftigt sich mit der Santini-Sammlung aus der Sicht zum Teil neu entdeckter Brief- und Archivdokumente, die sowohl in der Santini-Sammlung der Diözesanbibliothek Münster als auch im Universitätsarchiv Münster zu finden sind. Besonders letztere Dokumente erhellen den Zeitraum von 1923 und 1946, als die Santini-Sammlung als Depositum an die Universitätsbibliothek zum Zwecke der Katalogisierung ausgelagert war.</abstract>
+                    <note type="citation/reference">Ammendola, Andrea; Schmitz, Peter (Hrsg.): „Sacrae Musices Cultor et Propagator“. Internationale Tagung zum 150. Todesjahr des Musiksammlers, Komponisten und Bearbeiters Fortunato Santini, Tagungsbericht Münster 14.-16. September 2011. Münster : agenda-Verlag, 2013, S. 300-353</note>
+                    <note>Die Veröffentlichung erfolgt mit freundlicher Genehmigung des agenda-Verlages in Münster.</note>
+                    <subject lang="ger">
+                        <topic>Fortunato Santini</topic>
+                        <topic>Sammlung</topic>
+                        <topic>Dokumente</topic>
+                        <topic>Münster</topic>
+                        <topic>Universitätsarchiv</topic>
+                    </subject>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-30239603646</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_96212d96-291d-4124-a155-8ae996b0dc31</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_96212d96-291d-4124-a155-8ae996b0dc31_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/96212d96-291d-4124-a155-8ae996b0dc31/ammendola_schmitz_2013_dokumente.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_96212d96-291d-4124-a155-8ae996b0dc31" DMDID="DMD_96212d96-291d-4124-a155-8ae996b0dc31">
+            <mets:fptr FILEID="FILE_96212d96-291d-4124-a155-8ae996b0dc31_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

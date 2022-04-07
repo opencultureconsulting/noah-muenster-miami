@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fbed14c0-b33d-4e23-aabf-fd451a37ebf3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Microbiota plays a role in oral immune priming in Tribolium castaneum</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1083272799">
+                        <displayForm>Futo, Momir</displayForm>
+                        <namePart type="given">Momir</namePart>
+                        <namePart type="family">Futo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Armitage, Sophie A. O.</displayForm>
+                        <namePart type="given">Sophie A. O.</namePart>
+                        <namePart type="family">Armitage</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113880758">
+                        <displayForm>Kurtz, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Kurtz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-01-06</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-04-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Animals are inhabited by a diverse community of microorganisms. The relevance of such microbiota is increasingly being recognized across a broad spectrum of species, ranging from sponges to primates, revealing various beneficial roles that microbes can play. The red flour beetle Tribolium castaneum represents a well-established experimental model organism for studying questions in ecology and evolution, however, the relevance of its microbial community is still largely unknown. T. castaneum larvae orally exposed to bacterial components of the entomopathogen Bacillus thuringiensis bv. tenebrionis showed increased survival upon a subsequent challenge with spores of this bacterium. To investigate whether T. castaneum microbiota plays a role in this phenomenon, we established a protocol for raising microbe-free larvae and subsequently tested whether they differ in their ability to mount such a priming response. Here we demonstrate that larvae with significantly lowered microbial loads, show decreased survival upon secondary challenge with B. thuringiensis bv. tenebrionis spores, compared to animals that were allowed to regain their microbiota before priming. Although the exact mechanism of oral immune priming is unclear, we here suggest that microbiota plays a crucial role in oral immune priming in this species.</abstract>
+                    <note type="citation/reference">Frontiers in Microbiology 6 (2016) 1383, 1-10</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2015/2016 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>microbiota</topic>
+                        <topic>oral infection</topic>
+                        <topic>immune priming</topic>
+                        <topic>innate immunity</topic>
+                        <topic>Tribolium castaneum</topic>
+                        <topic>Bacillus thuringiensis</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-86229642556</identifier>
+                    <identifier type="doi">10.3389/fmicb.2015.01383</identifier>
+                    <identifier type="issn">1664-302X</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fbed14c0-b33d-4e23-aabf-fd451a37ebf3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fbed14c0-b33d-4e23-aabf-fd451a37ebf3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fbed14c0-b33d-4e23-aabf-fd451a37ebf3/fmicb-06-01383.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fbed14c0-b33d-4e23-aabf-fd451a37ebf3" DMDID="DMD_fbed14c0-b33d-4e23-aabf-fd451a37ebf3">
+            <mets:fptr FILEID="FILE_fbed14c0-b33d-4e23-aabf-fd451a37ebf3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

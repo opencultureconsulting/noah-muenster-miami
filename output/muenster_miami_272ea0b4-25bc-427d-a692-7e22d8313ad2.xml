@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_272ea0b4-25bc-427d-a692-7e22d8313ad2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Rolle mitochondrialer KCa3.1-Kanäle in Lungenkrebszellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1216654360">
+                        <displayForm>Rieke, Marius Andreas</displayForm>
+                        <namePart type="given">Marius Andreas</namePart>
+                        <namePart type="family">Rieke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1216654360">
+                        <displayForm>Rieke, Marius</displayForm>
+                        <namePart type="given">Marius</namePart>
+                        <namePart type="family">Rieke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1216198209">
+                        <displayForm>Schwab, Albrecht</displayForm>
+                        <namePart type="given">Albrecht</namePart>
+                        <namePart type="family">Schwab</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-08-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Expression des KCa3.1-Kanals im Lungenkrebs beeinflusst die Prognose. Ferner wird die Extravasation von Lungenkrebszellen durch Kanalblockade ICAM-1-abhängig reduziert. Es wurde die Hypothese aufgestellt, dass KCa3.1-Kanäle auch in den Mitochondrien von Lungenkarzinom- und Endothelzellen exprimiert werden. Durch Kanalinhibition wird demnach das mitochondriale Membranpotenzial (MMP) hyperpolarisiert, die ROS-Produktion gesteigert, und vermehrt ICAM-1 an den Zelloberflächen präsentiert. Mittels Western Blot und Immunfluoreszenz konnte in dieser Arbeit die Expression von mitoKCa3.1-Kanälen in zwei Lungenkrebszelllinien aufgewiesen, und für eine Endothelzelllinie nahegelegt werden. Durch den KCa3.1-Inhibitor TRAM-34 wurde in Lungenkrebszellen eine Hyperpolarisation des MMP hervorgerufen. Das Vorkommen funktionaler KCa3.1-Kanäle in lungenkarzinomatösen Mitochondrien steht im Einklang mit der Hypothese. Dieser Kanal könnte zukünftig also in der Krebstherapie anvisiert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Lungenkrebs</topic>
+                        <topic>KCa3.1</topic>
+                        <topic>Mitochondrien</topic>
+                        <topic>Reactive Oxygen Species</topic>
+                        <topic>A549-Zellen</topic>
+                        <topic>TRAM-34</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-80129597612</identifier>
+                    <identifier type="sys">HT020564105</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_272ea0b4-25bc-427d-a692-7e22d8313ad2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_272ea0b4-25bc-427d-a692-7e22d8313ad2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/272ea0b4-25bc-427d-a692-7e22d8313ad2/diss_rieke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_272ea0b4-25bc-427d-a692-7e22d8313ad2" DMDID="DMD_272ea0b4-25bc-427d-a692-7e22d8313ad2">
+            <mets:fptr FILEID="FILE_272ea0b4-25bc-427d-a692-7e22d8313ad2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

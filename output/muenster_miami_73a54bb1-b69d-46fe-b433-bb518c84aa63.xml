@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_73a54bb1-b69d-46fe-b433-bb518c84aa63">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Time-resolved photoelectron spectroscopy of low energy excitations of 4x4 C60 / Cu(111)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/138901007">
+                        <displayForm>Rosenfeldt, Arne Christian</displayForm>
+                        <namePart type="given">Arne Christian</namePart>
+                        <namePart type="family">Rosenfeldt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zacharias, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Zacharias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-07-22</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-06-15</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Dissertation wird die zeitaufgelöste 2-Photonen Photoemission mit deutlich verschiedenen Verzögerungen auf mehreren Monolagen Fullerite auf Kupfer-Substrat angewendet. Die Messergebnisse wurden mit einer Kombination aus Schnitten und der Singulärwertzerlegung analysiert, wobei bis zu 3 Zustände isoliert werden konnten. Eine Simulation der Ratengleichung wurde anschließend an die Zustands-Dynamik angepasst und Lebenszeiten von bis zu 200 µs für das Triplett Exziton ermittelt. Erhöhte Anregungsfluenz reduziert die Lebensdauer des Singlett-Exzitons. Erhöhte Probentemperatur zur Zeit der Messung oder ein dünner Film reduzieren die Lebenszeit des Triplett-Exzitons. Der Temperaturverlauf während der Proben-Präparation beeinflusst die Messergebnisse stark. Die Variation der Anregungsphotonen-Energie im Bereich zwischen 2.9 bis 3.3 eV beeinflusst die Messergebnisse nicht merklich.</abstract>
+                    <subject lang="ger">
+                        <topic>Fullerite</topic>
+                        <topic>Frenkel-Exziton</topic>
+                        <topic>Kupfer</topic>
+                        <topic>winkelaufgelöstes Photoelektronenspektrum</topic>
+                        <topic>zeitaufgelöste 2-Photonen Photoemission</topic>
+                        <topic>Singulärwertzerlegung</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-00599558746</identifier>
+                    <identifier type="sys">HT016109280</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_73a54bb1-b69d-46fe-b433-bb518c84aa63</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_73a54bb1-b69d-46fe-b433-bb518c84aa63_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/73a54bb1-b69d-46fe-b433-bb518c84aa63/diss_rosenfeldt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_73a54bb1-b69d-46fe-b433-bb518c84aa63" DMDID="DMD_73a54bb1-b69d-46fe-b433-bb518c84aa63">
+            <mets:fptr FILEID="FILE_73a54bb1-b69d-46fe-b433-bb518c84aa63_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

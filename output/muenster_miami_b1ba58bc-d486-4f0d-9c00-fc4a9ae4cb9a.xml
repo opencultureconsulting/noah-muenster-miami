@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b1ba58bc-d486-4f0d-9c00-fc4a9ae4cb9a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>mRNA-Associated Processes and Their Influence on Exon-Intron Structure in Drosophila melanogaster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1129474674">
+                        <displayForm>Lepennetier, Gildas</displayForm>
+                        <namePart type="given">Gildas</namePart>
+                        <namePart type="family">Lepennetier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1096897474">
+                        <displayForm>Catania, Francesco</displayForm>
+                        <namePart type="given">Francesco</namePart>
+                        <namePart type="family">Catania</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-03-28</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-12-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">mRNA-associated processes and gene structure in eukaryotes are typically treated as separate research subjects. Here, we bridge this separation and leverage the extensive multidisciplinary work on Drosophila melanogaster to examine the roles that capping, splicing, cleavage/polyadenylation, and telescripting (i.e., the protection of nascent transcripts from premature cleavage/polyadenylation by the splicing factor U1) might play in shaping exon-intron architecture in protein-coding genes. Our findings suggest that the distance between subsequent internal 5′ splice sites (5′ss) in Drosophila genes is constrained such that telescripting effects are maximized, in theory, and thus nascent transcripts are less vulnerable to premature termination. Exceptionally weak 5′ss and constraints on intron-exon size at the gene 5′ end also indicate that capping might enhance the recruitment of U1 and, in turn, promote telescripting at this location. Finally, a positive correlation between last exon length and last 5′ss strength suggests that optimal donor splice sites in the proximity of the pre-mRNA tail may inhibit the processing of downstream polyadenylation signals more than weak donor splice sites do. These findings corroborate and build upon previous experimental and computational studies on Drosophila genes. They support the possibility, hitherto scantly explored, that mRNA-associated processes impose significant constraints on the evolution of eukaryotic gene structure.</abstract>
+                    <note type="citation/reference">G3: Genes, Genomes, Genetics 6 (2016) 6, 1617-1626</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2015/2016 der Westfälischen Wilhelms-Universität Münster (WWU Münster)</note>
+                    <subject lang="eng">
+                        <topic>gene structure</topic>
+                        <topic>capping</topic>
+                        <topic>elescripting</topic>
+                        <topic>cleavage and polyadenylation</topic>
+                        <topic>Drosophila</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93269615631</identifier>
+                    <identifier type="doi">10.1534/g3.116.029231</identifier>
+                    <identifier type="issn">2160-1836</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b1ba58bc-d486-4f0d-9c00-fc4a9ae4cb9a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b1ba58bc-d486-4f0d-9c00-fc4a9ae4cb9a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b1ba58bc-d486-4f0d-9c00-fc4a9ae4cb9a/1617.full.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b1ba58bc-d486-4f0d-9c00-fc4a9ae4cb9a" DMDID="DMD_b1ba58bc-d486-4f0d-9c00-fc4a9ae4cb9a">
+            <mets:fptr FILEID="FILE_b1ba58bc-d486-4f0d-9c00-fc4a9ae4cb9a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_67bc30ae-c37f-4fa0-9cbb-a9b1f96f4670">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Identitätsmanagement</title>
+                        <subTitle>Workshop c3m-II</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130546143">
+                        <displayForm>Dietz, Gunnar</displayForm>
+                        <namePart type="given">Gunnar</namePart>
+                        <namePart type="family">Dietz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-06-28</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-07-08</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-07-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, gehalten auf dem 2. gemeinsamen Workshop cHL-hybrid, MIRO, MOVE, MIAMI (c3m II) am 28.06.2006 an der Westfälischen Wilhelms-Universität Münster</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68539551289</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_67bc30ae-c37f-4fa0-9cbb-a9b1f96f4670</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_67bc30ae-c37f-4fa0-9cbb-a9b1f96f4670_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/67bc30ae-c37f-4fa0-9cbb-a9b1f96f4670/2006-06-28_c3m-II_IdMgmt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_67bc30ae-c37f-4fa0-9cbb-a9b1f96f4670" DMDID="DMD_67bc30ae-c37f-4fa0-9cbb-a9b1f96f4670">
+            <mets:fptr FILEID="FILE_67bc30ae-c37f-4fa0-9cbb-a9b1f96f4670_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

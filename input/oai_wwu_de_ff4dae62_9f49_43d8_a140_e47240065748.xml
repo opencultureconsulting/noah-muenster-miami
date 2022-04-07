@@ -1,0 +1,168 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:ff4dae62-9f49-43d8-a140-e47240065748" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:38:04">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_ff4dae62-9f49-43d8-a140-e47240065748">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Dirac operators for coadjoint orbits of compact Lie groups</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/172661862" altRepGroup="0">
+                    <mods:namePart type="given">Marc A.</mods:namePart>
+                    <mods:namePart type="family">Rieffel</mods:namePart>
+                    <mods:namePart type="date">1937-</mods:namePart>
+                    <mods:displayForm>Rieffel, Marc A.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/172661862" altRepGroup="0">
+                    <mods:namePart type="given">Marc Aristide</mods:namePart>
+                    <mods:namePart type="family">Rieffel</mods:namePart>
+                    <mods:namePart type="date">1937-</mods:namePart>
+                    <mods:displayForm>Rieffel, Marc Aristide</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2009</mods:dateIssued>
+                    <mods:dateOther keyDate="yes" encoding="w3cdtf">2009-11-17</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2009-08-20</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-05-11</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>265-298</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">The coadjoint orbits of compact Lie groups carry many Kähler structures, which include a Riemannian metric and a complex structure. We provide a fairly explicit formula for the Levi-Civita connection of the Riemannian metric, and we use the complex structure to give a fairly explicit construction of a canonical Dirac operator for the Riemannian metric, in a way that avoids use of the spinc groups. Substantial parts of our results apply to compact almost-Hermitian homogeneous spaces, and to other connections besides the Levi-Civita connection. For these other connections we give a criterion that is both necessary and sufficient for their Dirac operator to be formally self-adjoint. &lt;br&gt;We hope to use the detailed results given here to clarify statements in the literature of high-eneregy physics concerning “Dirac operators” for matrix algebras that converge to coadjoint orbits. To facilitate this we employ here only global methods—we never use local coordinate charts, and we use the cross-section modules of vector bundles.</mods:abstract>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:relatedItem type="host">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Münster Journal of Mathematics</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="issue">
+                      <mods:detail>
+                        <mods:number>2 (2009)</mods:number>
+                      </mods:detail>
+                      <mods:extent unit="pages">
+                        <mods:start>265</mods:start>
+                        <mods:end>298</mods:end>
+                      </mods:extent>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:ce76fa65-011b-4fc1-b02f-d08ca31bf0ad</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-10569448769</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/ff4dae62-9f49-43d8-a140-e47240065748</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:ff4dae62-9f49-43d8-a140-e47240065748</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_ff4dae62-9f49-43d8-a140-e47240065748">
+            <mets:rightsMD ID="RIGHTSMD_ff4dae62-9f49-43d8-a140-e47240065748">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_ff4dae62-9f49-43d8-a140-e47240065748">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/ff4dae62-9f49-43d8-a140-e47240065748</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="bd1dab465094abf95a97a5360c8e3ff9947f79de648dfdd7776c86eef2f1f6b7" CREATED="2015-05-11T10:39:33" CHECKSUMTYPE="SHA-256" SIZE="343496" ID="ID_FIL_mjm_vol_2_12.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ff4dae62-9f49-43d8-a140-e47240065748/mjm_vol_2_12.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWff4dae62-9f49-43d8-a140-e47240065748">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/ff4dae62-9f49-43d8-a140-e47240065748" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_ff4dae62-9f49-43d8-a140-e47240065748" TYPE="physSequence">
+              <mets:div ID="ID_PHY_mjm_vol_2_12.pdf">
+                <mets:fptr FILEID="ID_FIL_mjm_vol_2_12.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_ff4dae62-9f49-43d8-a140-e47240065748" DMDID="DMD_ff4dae62-9f49-43d8-a140-e47240065748" ID="ID_LOG_ff4dae62-9f49-43d8-a140-e47240065748" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_mjm_vol_2_12.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_ff4dae62-9f49-43d8-a140-e47240065748" xlink:to="ID_PHY_ff4dae62-9f49-43d8-a140-e47240065748"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_mjm_vol_2_12.pdf" xlink:to="ID_PHY_mjm_vol_2_12.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bed002f9-b6ef-4a80-a605-dcd56521e4f9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Approximation, Reduktion und Regelextraktion</title>
+                        <subTitle>Semantikbeschreibung für neuronale Netze</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129720852">
+                        <displayForm>Baeumle-Courth, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Baeumle-Courth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129720852">
+                        <displayForm>Courth, Peter  Baeumle-</displayForm>
+                        <namePart type="given">Peter  Baeumle-</namePart>
+                        <namePart type="family">Courth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129720852">
+                        <displayForm>Baeumle, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Baeumle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1045682977">
+                        <displayForm>Lippe, Wolfram-Manfred</displayForm>
+                        <namePart type="given">Wolfram-Manfred</namePart>
+                        <namePart type="family">Lippe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-01-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-01-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Dissertation befasst sich mit der Problemstellung, aus einem mehrschichtigen Neuronalen Feedforward-Netz, das für die Außenwelt als Black Box wirkt, eine semantische Beschreibung zu extrahieren. Als Form dieser Beschreibung des Netz-Verhaltens dient die Struktur einer Regelbasis bestehend aus IF-THEN-Regeln. Hierbei steht das Ziel im Vordergrund, eine möglichst allgemeine Methodik der Regelextraktion zu entwickeln, so dass die resultierenden Verfahren flexibel eingesetzt werden können. Diese zentralen Aspekte der Arbeit sind die Approximation der Sigmoiden durch die Rampenfunktion, die Reduktion der Neuronenanzahl in der verborgenen Schicht (bei dreischichtigen Feedforward-Netzen) sowie die Extraktion von Regeln aus einem Neuronalen Netz. Diese drei Bausteine - die Approximation, die Reduktion und die Regelextraktion - können nun verschiedentlich miteinander kombiniert werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Neuronale Netze</topic>
+                        <topic>Feedforward-Netze</topic>
+                        <topic>Backpropagation</topic>
+                        <topic>Reduktion der Neuronenanzahl</topic>
+                        <topic>Regelextraktion</topic>
+                        <topic>Semantikbeschreibung von Neuronalen Netzen</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-47639543013</identifier>
+                    <identifier type="sys">HT014315428</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bed002f9-b6ef-4a80-a605-dcd56521e4f9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bed002f9-b6ef-4a80-a605-dcd56521e4f9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bed002f9-b6ef-4a80-a605-dcd56521e4f9/diss_baeumle_courth.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bed002f9-b6ef-4a80-a605-dcd56521e4f9" DMDID="DMD_bed002f9-b6ef-4a80-a605-dcd56521e4f9">
+            <mets:fptr FILEID="FILE_bed002f9-b6ef-4a80-a605-dcd56521e4f9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

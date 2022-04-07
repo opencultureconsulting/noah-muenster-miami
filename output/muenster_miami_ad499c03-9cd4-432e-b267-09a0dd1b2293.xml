@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ad499c03-9cd4-432e-b267-09a0dd1b2293">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Quadcopters or Linguistic Corpora</title>
+                        <subTitle>Establishing RDM Services for Small-Scale Data Producers at Big Universities</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voß, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voss, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hamrin, Göran</displayForm>
+                        <namePart type="given">Göran</namePart>
+                        <namePart type="family">Hamrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-08</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">During an international library conference in 2017 the authors had many productive exchanges about similarities and differences in Swedish and German higher-education libraries. Since research data management (RDM) is an emerging topic on both sides of the Baltic Sea, we find it valuable to compare strategies, services, and workflows to learn from each other’s practices. AIM: In this paper, we aim to compare the practices and needs of small-scale data producers in engineering and the humanities. In particular, we try to answer the following research questions: What kind of data do the small-scale data producers produce? What do these producers need in terms of RDM support? What then can we librarians help them with? HYPOTHESIS: Our research hypothesis is that small-scale data producers have similar needs in engineering and the humanities. This hypothesis is based on the similarities in demands from funding agencies on (open) research data and on the assumption that research in different subjects often creates results which are different in content but similar in structure. METHOD: We study the current strategies, practices, and services of our respective universities (KTH Royal Institute of Technology Stockholm and Westfälische Wilhelms-Universität Münster). We also study the work and initiatives done on a more advanced level by universities, libraries, and other organisations in Sweden and Germany. RESULTS: The paper will give an overview of how we did the groundwork for the initial services provided by our libraries. We focus on what we are doing and why we are doing it. We find that we are following in the leading footsteps of other university libraries. The experiences shared by colleagues help us to adapt their best practices to our local demands, making them better practices for KTH and WWU researchers. LIMITATION: We restrict ourselves to studying only researchers who create data on a small scale, since the large-scale data producers handle the RDM on their own.</abstract>
+                    <note type="citation/reference">LIBER Quarterly 28 (2018) 1, 1-58</note>
+                    <note>The talk that goes with this paper can be found here: https://nbn-resolving.org/urn:nbn:de:hbz:6-48129543470</note>
+                    <subject lang="eng">
+                        <topic>research data management</topic>
+                        <topic>academic support services</topic>
+                        <topic>university libraries</topic>
+                        <topic>Sweden</topic>
+                        <topic>Germany</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-56179693098</identifier>
+                    <identifier type="doi">10.18352/lq.10255</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ad499c03-9cd4-432e-b267-09a0dd1b2293</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ad499c03-9cd4-432e-b267-09a0dd1b2293_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ad499c03-9cd4-432e-b267-09a0dd1b2293/artikel_voss_2018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ad499c03-9cd4-432e-b267-09a0dd1b2293" DMDID="DMD_ad499c03-9cd4-432e-b267-09a0dd1b2293">
+            <mets:fptr FILEID="FILE_ad499c03-9cd4-432e-b267-09a0dd1b2293_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

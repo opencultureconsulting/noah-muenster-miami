@@ -1,0 +1,98 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_00e0755f-25c5-4db6-a4ac-6902e8ca3768">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Effect of Head Model Simplification on Beamformer Source Localization</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neugebauer, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Neugebauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124378323">
+                        <displayForm>Möddel, Gabriel</displayForm>
+                        <namePart type="given">Gabriel</namePart>
+                        <namePart type="family">Möddel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132623072">
+                        <displayForm>Rampp, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Rampp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124921124">
+                        <displayForm>Wolters, Carsten H.</displayForm>
+                        <namePart type="given">Carsten H.</namePart>
+                        <namePart type="family">Wolters</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-11-09</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-03-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Beamformers are a widely-used tool in brain analysis with magnetoencephalography (MEG) and electroencephalography (EEG). For the construction of the beamformer filters realistic head volume conductor modeling is necessary for accurately computing the EEG and MEG leadfields, i.e., for solving the EEG and MEG forward problem. In this work, we investigate the influence of including realistic head tissue compartments into a finite element method (FEM) model on the beamformer&apos;s localization ability. Specifically, we investigate the effect of including cerebrospinal fluid, gray matter, and white matter distinction, as well as segmenting the skull bone into compacta and spongiosa, and modeling white matter anisotropy. We simulate an interictal epileptic measurement with white sensor noise. Beamformer filters are constructed with unit gain, unit array gain, and unit noise gain constraint. Beamformer source positions are determined by evaluating power and excess sample kurtosis (g2) of the source-waveforms at all source space nodes. For both modalities, we see a strong effect of modeling the cerebrospinal fluid and white and gray matter. Depending on the source position, both effects can each be in the magnitude of centimeters, rendering their modeling necessary for successful localization. Precise skull modeling mainly effected the EEG up to a few millimeters, while both modalities could profit from modeling white matter anisotropy to a smaller extent of 5–10 mm. The unit noise gain or neural activity index beamformer behaves similarly to the array gain beamformer when noise strength is sufficiently high. Variance localization seems more robust against modeling errors than kurtosis.</abstract>
+                    <note>Frontiers in Neuroscience 11 (2017) 625, 1-15</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2017 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>EEG</topic>
+                        <topic>MEG</topic>
+                        <topic>source analysis</topic>
+                        <topic>beamformer</topic>
+                        <topic>realistic volume conductor modeling</topic>
+                        <topic>finite element method</topic>
+                        <topic>epilepsy</topic>
+                        <topic>kurtosis</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85169531245</identifier>
+                    <identifier type="doi">10.3389/fnins.2017.00625</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_00e0755f-25c5-4db6-a4ac-6902e8ca3768</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_00e0755f-25c5-4db6-a4ac-6902e8ca3768_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/00e0755f-25c5-4db6-a4ac-6902e8ca3768/artikel_wolters_2017.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_00e0755f-25c5-4db6-a4ac-6902e8ca3768" DMDID="DMD_00e0755f-25c5-4db6-a4ac-6902e8ca3768">
+            <mets:fptr FILEID="FILE_00e0755f-25c5-4db6-a4ac-6902e8ca3768_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

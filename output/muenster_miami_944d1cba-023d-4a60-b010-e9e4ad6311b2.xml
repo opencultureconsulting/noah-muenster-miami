@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_944d1cba-023d-4a60-b010-e9e4ad6311b2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Suchbewegungen</title>
+                        <subTitle>Eine Analyse der Webseite klaus-hemmerle.de</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Auditor, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Auditor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-09-18</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-09-19</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Klaus Hemmerle</topic>
+                        <topic>Webanalyse</topic>
+                    </subject>
+                    <classification authority="ddc">200</classification>
+                    <classification authority="ddc">230</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-39339578481</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_944d1cba-023d-4a60-b010-e9e4ad6311b2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_944d1cba-023d-4a60-b010-e9e4ad6311b2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/944d1cba-023d-4a60-b010-e9e4ad6311b2/examensarbeit_auditor.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_944d1cba-023d-4a60-b010-e9e4ad6311b2" DMDID="DMD_944d1cba-023d-4a60-b010-e9e4ad6311b2">
+            <mets:fptr FILEID="FILE_944d1cba-023d-4a60-b010-e9e4ad6311b2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

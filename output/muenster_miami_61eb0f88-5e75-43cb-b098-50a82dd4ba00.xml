@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_61eb0f88-5e75-43cb-b098-50a82dd4ba00">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>prospektive Untersuchung der Körpertemperatur präklinisch reanimierter Patienten und der zugehörigen Umgebungstemperaturen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133983617">
+                        <displayForm>Rotermund, Jan</displayForm>
+                        <namePart type="given">Jan</namePart>
+                        <namePart type="family">Rotermund</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1035389797">
+                        <displayForm>Weber, Thomas P.</displayForm>
+                        <namePart type="given">Thomas P.</namePart>
+                        <namePart type="family">Weber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1035389797">
+                        <displayForm>Weber, Thomas Peter</displayForm>
+                        <namePart type="given">Thomas Peter</namePart>
+                        <namePart type="family">Weber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-02-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-01-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es handelt sich um eine prospektive Untersuchung der Körpertemperatur präklinisch reanimierter Patienten und die zugehörige Umgebungstemperatur im Rettungsdienst der Stadt Münster (Westf.). Die aktuellen Leitlinien des European Resuciation Council (ERC) empfehlen eine therapeutische Kühlung aller frisch reanimierten Patienten. Die Körper- und Umgebungstemperaturen aller reanimierter Patienten wurde im Zeitraum von einem Jahr mit einem Infrarotohrthermometer gemessen. Eine Antizipierung der Körpertemperatur anhand der Umgebungstemperatur ist nicht möglich, weswegen bei jedem präklinisch reanimierten Patienten vor einer therapeutischen Kühlung die Körpertemperatur gemessen werden muss.</abstract>
+                    <subject lang="ger">
+                        <topic>Rettungsdienst</topic>
+                        <topic>Reanimation</topic>
+                        <topic>Hypothermie</topic>
+                        <topic>Postresuciation Syndrom</topic>
+                        <topic>Körpertemperatur</topic>
+                        <topic>Umgebungstemperatur</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-56519679859</identifier>
+                    <identifier type="sys">HT015492513</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_61eb0f88-5e75-43cb-b098-50a82dd4ba00</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_61eb0f88-5e75-43cb-b098-50a82dd4ba00_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/61eb0f88-5e75-43cb-b098-50a82dd4ba00/diss_rotermund.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_61eb0f88-5e75-43cb-b098-50a82dd4ba00" DMDID="DMD_61eb0f88-5e75-43cb-b098-50a82dd4ba00">
+            <mets:fptr FILEID="FILE_61eb0f88-5e75-43cb-b098-50a82dd4ba00_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

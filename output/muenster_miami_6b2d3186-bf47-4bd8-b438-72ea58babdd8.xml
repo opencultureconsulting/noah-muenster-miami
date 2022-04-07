@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6b2d3186-bf47-4bd8-b438-72ea58babdd8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Height pairings in the Iwasawa theory of abelian varieties</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1013768965">
+                        <displayForm>Schneider, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1982</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-12-04</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-12-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note type="citation/reference">Séminaire de théorie des nombres, Paris 1980/81. Boston : Birkhäuser, 1982, S. 309-319</note>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68359452080</identifier>
+                    <identifier type="isbn">3-7643-3066-X</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6b2d3186-bf47-4bd8-b438-72ea58babdd8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6b2d3186-bf47-4bd8-b438-72ea58babdd8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6b2d3186-bf47-4bd8-b438-72ea58babdd8/1981_schne_heigh.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6b2d3186-bf47-4bd8-b438-72ea58babdd8" DMDID="DMD_6b2d3186-bf47-4bd8-b438-72ea58babdd8">
+            <mets:fptr FILEID="FILE_6b2d3186-bf47-4bd8-b438-72ea58babdd8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

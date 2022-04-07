@@ -1,0 +1,170 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:97fb402e-d8b8-4b96-afde-cc627ce30c57" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:44:59">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_97fb402e-d8b8-4b96-afde-cc627ce30c57">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Rapid development of applications for the interactive visual analysis of multimodal medical data</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1038466571">
+                    <mods:namePart type="given">Stefan</mods:namePart>
+                    <mods:namePart type="family">Diepenbrock</mods:namePart>
+                    <mods:namePart type="date">1983-</mods:namePart>
+                    <mods:displayForm>Diepenbrock, Stefan</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Klaus H.</mods:namePart>
+                    <mods:namePart type="family">Hinrichs</mods:namePart>
+                    <mods:displayForm>Hinrichs, Klaus H.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2013</mods:dateIssued>
+                    <mods:dateOther encoding="w3cdtf">2013-07-05</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2013-07-23</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2016-06-13</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Multimodale medizinische Volumendaten gewinnen zunehmend an Verbreitung. &#13;
+Wir diskutieren verschiedene interaktive Applikationen welche den Nutzer bei der Analyse dieser Daten unterstützen. &#13;
+Alle Applikationen basieren auf Erweiterungen des Voreen Frameworks, welche ebenfalls in dieser Dissertation diskutiert werden. &lt;br/&gt;</mods:abstract>
+                  <mods:abstract lang="eng">With multimodal volumetric medical data sets becoming more common due to&#13;
+ the increasing availability of scanning hardware, software for the &#13;
+visualization and analysis of such data sets needs to become more &#13;
+efficient as well in order to prevent overloading the user with data.&#13;
+This dissertation presents several interactive techniques for the visual&#13;
+ analysis of medical volume data. &#13;
+All applications are based on extensions to the Voreen volume rendering &#13;
+framework, which we will discuss first. &#13;
+Since visual analysis applications are interactive by definition, we &#13;
+propose a general-purpose navigation technique for volume data. &#13;
+Next, we discuss our concepts for the interactive planning of brain &#13;
+tumor resections. &#13;
+Finally, we present two systems designed to work with images of &#13;
+vasculature. &#13;
+First, we discuss an interactive vessel segmentation system enabling an &#13;
+efficient, visually supported workflow. &#13;
+Second, we propose an application for the visual analysis of PET tracer &#13;
+uptake along vessels.</mods:abstract>
+                  <mods:subject>
+                    <mods:topic lang="ger">Visualisierung; Medizinisch; Multimodal; RAD; Visual Analysis</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">610</mods:classification>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-56329458606</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/97fb402e-d8b8-4b96-afde-cc627ce30c57</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:97fb402e-d8b8-4b96-afde-cc627ce30c57</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_97fb402e-d8b8-4b96-afde-cc627ce30c57">
+            <mets:rightsMD ID="RIGHTSMD_97fb402e-d8b8-4b96-afde-cc627ce30c57">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_97fb402e-d8b8-4b96-afde-cc627ce30c57">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/97fb402e-d8b8-4b96-afde-cc627ce30c57</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="4ce51d00bee662879761687210334d4c2af9913852a73685b539515b8e3d5784" CREATED="2016-06-13T15:09:50" CHECKSUMTYPE="SHA-256" SIZE="16355377" ID="ID_FIL_diss_diepenbrock.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/97fb402e-d8b8-4b96-afde-cc627ce30c57/diss_diepenbrock.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW97fb402e-d8b8-4b96-afde-cc627ce30c57">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/97fb402e-d8b8-4b96-afde-cc627ce30c57" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_97fb402e-d8b8-4b96-afde-cc627ce30c57" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_diepenbrock.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_diepenbrock.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_97fb402e-d8b8-4b96-afde-cc627ce30c57" DMDID="DMD_97fb402e-d8b8-4b96-afde-cc627ce30c57" ID="ID_LOG_97fb402e-d8b8-4b96-afde-cc627ce30c57" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_diepenbrock.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_97fb402e-d8b8-4b96-afde-cc627ce30c57" xlink:to="ID_PHY_97fb402e-d8b8-4b96-afde-cc627ce30c57"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_diepenbrock.pdf" xlink:to="ID_PHY_diss_diepenbrock.pdf"/>
+          </mets:structLink>
+        </mets:mets>

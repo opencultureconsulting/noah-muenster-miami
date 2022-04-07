@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_93c0b1d2-2254-4deb-9d8f-47bd33065407">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestimmung der Auflösungsgrenze in Elementverteilungsaufnahmen von Schichtsystemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heil, Tobias</displayForm>
+                        <namePart type="given">Tobias</namePart>
+                        <namePart type="family">Heil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137715617">
+                        <displayForm>Kohl, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Kohl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir konnten in dieser Arbeit zeigen, dass mit Elementverteilungsbildern des Transmissionselektronenmikroskops (TEM) Fe/Cr-Schichtsysteme bis auf wenige Ångström genau untersucht werden können. Um diese Genauigkeit mit dem TEM zu erreichen, wurde von uns eine Aufnahmeprozedur entwickelt, die statt langzeitig belichteten Bildern eine Anzahl von kurzzeitig belichteten Bildern aufnimmt und diese räumlich driftkorrigiert aufsummiert. Durch diese Reduktion des Drifteffekts können Strukturen schärfer und somit genauer abgebildet werden. Diese Prozedur ermöglicht insbesondere die Untersuchung der ca. 1 nm breiten Übergangsschichten des Schichtsystems. Deren Signal ist in konventionellen Aufnahmen normalerweise nicht von dem Drifteffekt unterscheidbar. Hierfür musste auch der Abbildungsprozess im TEM in die Berechnungen mit einbezogen werden. Zur Überprüfung der Ergebnisse wurden sie mit Messungen einer Tomographischen Atomsonde verglichen.</abstract>
+                    <subject lang="ger">
+                        <topic>Elektronenmikroskopie</topic>
+                        <topic>EFTEM</topic>
+                        <topic>Elementverteilungsaufnahmen</topic>
+                        <topic>Driftkorrektur</topic>
+                        <topic>Schichtsysteme</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-87419495737</identifier>
+                    <identifier type="sys">HT016550009</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_93c0b1d2-2254-4deb-9d8f-47bd33065407</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_93c0b1d2-2254-4deb-9d8f-47bd33065407_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/93c0b1d2-2254-4deb-9d8f-47bd33065407/diss_heil.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_93c0b1d2-2254-4deb-9d8f-47bd33065407" DMDID="DMD_93c0b1d2-2254-4deb-9d8f-47bd33065407">
+            <mets:fptr FILEID="FILE_93c0b1d2-2254-4deb-9d8f-47bd33065407_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

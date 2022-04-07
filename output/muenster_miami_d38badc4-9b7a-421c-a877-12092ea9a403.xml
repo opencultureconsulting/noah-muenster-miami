@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d38badc4-9b7a-421c-a877-12092ea9a403">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>universelle beschränkte Derivation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Puschnigg, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Puschnigg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-08-20</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-11-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="eng">We introduce and study the universal unbounded derivation of a Fréchet algebra with fixed dense domain of definition. As an application we construct new examples of holomorphically closed subalgebras of the reduced C*-algebra of a nonabelian free group. Every trace on the group ring which is supported in finitely many conjugacy classes extends to a bounded trace on these algebras.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>253</start>
+                                <end>264</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10569451172</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d38badc4-9b7a-421c-a877-12092ea9a403</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d38badc4-9b7a-421c-a877-12092ea9a403_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d38badc4-9b7a-421c-a877-12092ea9a403/mjm_vol_2_11.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d38badc4-9b7a-421c-a877-12092ea9a403" DMDID="DMD_d38badc4-9b7a-421c-a877-12092ea9a403">
+            <mets:fptr FILEID="FILE_d38badc4-9b7a-421c-a877-12092ea9a403_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

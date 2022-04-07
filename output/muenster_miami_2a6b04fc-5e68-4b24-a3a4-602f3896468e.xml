@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2a6b04fc-5e68-4b24-a3a4-602f3896468e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachwort</title>
+                        <subTitle>in: &quot;Andreas Hartknopf: Eine Allegorie. Andreas Hartknopfs Predigerjahre&quot;</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Moritz, Karl Philipp: Andreas Hartknopf : Eine Allegorie. Andreas Hartknopfs Predigerjahre / hrsg. von Martina Wagner-Egelhaaf. Stuttgart : Reclam, 2001, ISBN 3-15-018120-8, S. 245-284</note>
+                    <note type="ownership">Druckausgabe 2001. Digitale Publikation mit Genehmigung des Reclam-Verlages</note>
+                    <subject lang="ger">
+                        <topic>Karl Philipp Moritz</topic>
+                        <topic>Andreas Hartknopf</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24399500219</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2a6b04fc-5e68-4b24-a3a4-602f3896468e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2a6b04fc-5e68-4b24-a3a4-602f3896468e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2a6b04fc-5e68-4b24-a3a4-602f3896468e/Nachwort_Karl_Philipp_Moritz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2a6b04fc-5e68-4b24-a3a4-602f3896468e" DMDID="DMD_2a6b04fc-5e68-4b24-a3a4-602f3896468e">
+            <mets:fptr FILEID="FILE_2a6b04fc-5e68-4b24-a3a4-602f3896468e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

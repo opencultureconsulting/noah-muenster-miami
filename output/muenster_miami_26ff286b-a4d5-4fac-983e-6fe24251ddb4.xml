@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_26ff286b-a4d5-4fac-983e-6fe24251ddb4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Identification of Antiprotozoal Compounds from Buxus sempervirens L. by PLS-Prediction</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Szabó, Lara U.</displayForm>
+                        <namePart type="given">Lara U.</namePart>
+                        <namePart type="family">Szabó</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaiser, Marcel</displayForm>
+                        <namePart type="given">Marcel</namePart>
+                        <namePart type="family">Kaiser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173300901">
+                        <displayForm>Mäser, Pascal</displayForm>
+                        <namePart type="given">Pascal</namePart>
+                        <namePart type="family">Mäser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1089933096">
+                        <displayForm>Schmidt, Thomas J.</displayForm>
+                        <namePart type="given">Thomas J.</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-10-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Various nor-triterpene alkaloids of Buxus (B.) sempervirens L. have shown remarkable in vitro activity against the causative agents of tropical malaria and East African sleeping sickness. To identify further antiprotozoal compounds of this plant, 20 different fractions of B. sempervirens L., exhibiting a wide range of in vitro bioactivity, were analyzed by UHPLC/+ESI-QqTOF-MS/MS. The analytical profiles were investigated by partial least squares regression (PLS) for correlations between the intensity of LC/MS signals, bioactivity and cytotoxicity. The resulting models highlighted several compounds as mainly responsible for the antiprotozoal activity and thus, worthwhile for subsequent isolation. These compounds were dereplicated based on their mass spectra in comparison with isolated compounds recently reported by us and with literature data. Moreover, an estimation of the cytotoxicity of the highlighted compounds was derived from an additional PLS model in order to identify plant constituents with strong selectivity. In conclusion, high levels of antitrypanosomal and antiplasmodial activity were predicted for eight and four compounds, respectively. These include three hitherto unknown constituents of B. sempervirens L., presumably new natural products.</abstract>
+                    <note type="citation/reference">Molecules 26 (2021) 20, 6181, 1-13</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Buxus sempervirens L.</topic>
+                        <topic>nor-cycloartane alkaloids</topic>
+                        <topic>antiprotozoal activity</topic>
+                        <topic>multivariate data analysis</topic>
+                        <topic>partial least squares regression</topic>
+                        <topic>mass spectrometry</topic>
+                        <topic>fragmentation pattern</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-26009512497</identifier>
+                    <identifier type="doi">10.3390/molecules26206181</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_26ff286b-a4d5-4fac-983e-6fe24251ddb4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_26ff286b-a4d5-4fac-983e-6fe24251ddb4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/26ff286b-a4d5-4fac-983e-6fe24251ddb4/10.3390_molecules26206181.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_26ff286b-a4d5-4fac-983e-6fe24251ddb4" DMDID="DMD_26ff286b-a4d5-4fac-983e-6fe24251ddb4">
+            <mets:fptr FILEID="FILE_26ff286b-a4d5-4fac-983e-6fe24251ddb4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

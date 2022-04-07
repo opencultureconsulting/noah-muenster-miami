@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_245f1995-cf59-417e-84db-41352dca318c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Branching within branching in random environment</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1215043643">
+                        <displayForm>Eick, Ernst Christopher</displayForm>
+                        <namePart type="given">Ernst Christopher</namePart>
+                        <namePart type="family">Eick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, Gerold</displayForm>
+                        <namePart type="given">Gerold</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-08-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-06-09</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ein branching within branching Prozess (BwBP) besteht aus zwei Verzweigungsprozessen, wobei sich die Individuen des einen (häufig Parasiten genannt) innerhalb der Individuen (Zellen) des anderen entwickeln. Es eignet sich zur Beschreibung von Host-Parasit Modellen. Wir erweitern das ursprüngliche Modell eines BwBP indem wir eine generationsweise Zufallsumgebung hinzufügen, die die Entwicklung der Parasiten innerhalb der Zellen bestimmt. Wir untersuchen den Prozess der infizierten Zellen und den Prozess der Parasiten. Unter anderem zeigen wir für den Grenzwert des normierten Prozesses der Parasiten ein Kesten-Stigum Resultat, das Auskunft über die Nichtdegeneriertheit des Grenzwerts gibt. Abschließend schauen wir uns noch zwei Beispiele an, bei denen die bedingte Parasitenverteilung gebrochen-rational ist.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2020</note>
+                    <subject lang="ger">
+                        <topic>Branching within branching Prozesse</topic>
+                        <topic>Verzweigungsprozesse</topic>
+                        <topic>Zufallsumgebung</topic>
+                        <topic>Zellpopulation</topic>
+                        <topic>Host-Parasit Modelle</topic>
+                        <topic>(ZlogZ)-Bedingung</topic>
+                        <topic>gebrochen-rationale Reproduktionsverteilung</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-10159746488</identifier>
+                    <identifier type="sys">HT020545076</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_245f1995-cf59-417e-84db-41352dca318c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_245f1995-cf59-417e-84db-41352dca318c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/245f1995-cf59-417e-84db-41352dca318c/diss_eick.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_245f1995-cf59-417e-84db-41352dca318c" DMDID="DMD_245f1995-cf59-417e-84db-41352dca318c">
+            <mets:fptr FILEID="FILE_245f1995-cf59-417e-84db-41352dca318c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

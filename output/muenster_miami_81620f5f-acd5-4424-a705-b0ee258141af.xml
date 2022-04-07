@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_81620f5f-acd5-4424-a705-b0ee258141af">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gesetzliche Alters-und Gesundheitssicherungssysteme</title>
+                        <subTitle>Zur Lage der Renten- und Krankenversicherungen: Welche Reformen sind erforderlich, welche Reformhemmnisse existieren</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129052051">
+                        <displayForm>Grossekettler, Heinz</displayForm>
+                        <namePart type="given">Heinz</namePart>
+                        <namePart type="family">Grossekettler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-11-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-11-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Akademie Aktuell (2004), S. 16-23</note>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24659547925</identifier>
+                    <identifier type="issn">1431-0813</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_81620f5f-acd5-4424-a705-b0ee258141af</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_81620f5f-acd5-4424-a705-b0ee258141af_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/81620f5f-acd5-4424-a705-b0ee258141af/AkademieDerWissenschaften.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_81620f5f-acd5-4424-a705-b0ee258141af" DMDID="DMD_81620f5f-acd5-4424-a705-b0ee258141af">
+            <mets:fptr FILEID="FILE_81620f5f-acd5-4424-a705-b0ee258141af_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

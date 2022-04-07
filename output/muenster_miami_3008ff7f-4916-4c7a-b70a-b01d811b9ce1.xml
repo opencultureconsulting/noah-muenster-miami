@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3008ff7f-4916-4c7a-b70a-b01d811b9ce1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Philipp-Scheidemann-Sammlung</title>
+                        <subTitle>III. Band. [Dänische] Erinnerungen eines ausgewiesenen Staatsmannes</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124766412">
+                        <displayForm>Gellinek, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Gellinek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-03-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Nach Hitlers Machtergreifung erarbeitete Scheidemann von 1936 bis 1939 Ergänzungen und eine Revision zu seinen Memoiren, hier gesammelt in einem Text, der nach dem authentischen Kopenhagener Nachlasstyposkript gesetzt ist. Er beruht auf Scheidemanns Diktaten dieser Periode, dessen Skripten vor dem Einmarsch der deutschen Truppen nach Dänemark sicher vergraben wurden und von Frau Friedel Thieme 1947 abermals abgetippt und, durch Kopenhagens Oberbürgermeister beglaubigt, der Tochter Luise Scheidemann nachgelassen wurden. Der letzte Anti-Hitler Aufsatz Scheidemanns von 1933 im Zürcher „Volksrecht“, den er vor seinem Exil noch unter eigenem Namen veröffentlichen konnte, wird zu Vergleichszwecken beigefügt.</abstract>
+                    <abstract lang="eng">Contains a typescript revision to his memoirs roughly ten short years later (1936-39), as dictated by Scheidemann, by then an anonymous exile in Copenhagen to his typist, Miss Friedel Thieme. These pages were buried before German troops and the Gestapo invaded Denmark in 1940. This authentically transcribed text, certified by the same typist and Kopenhagen’s Lord Mayor in 1947, was handed over to Scheidemann’s daughter Luise, and brought to Germany. An anti-Hitler newspaper article of 1933 is added for the sake of clairvoyant comparisons.</abstract>
+                    <subject lang="ger">
+                        <topic>Memoirenschriftsteller</topic>
+                        <topic>Mitglied des Reichstags Berlin (bis 1928)</topic>
+                        <topic>Redner</topic>
+                        <topic>Reichstagsreden</topic>
+                        <topic>Friedensarbeit</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">320</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98459494419</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3008ff7f-4916-4c7a-b70a-b01d811b9ce1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3008ff7f-4916-4c7a-b70a-b01d811b9ce1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3008ff7f-4916-4c7a-b70a-b01d811b9ce1/Band-3_Sammelmappe.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3008ff7f-4916-4c7a-b70a-b01d811b9ce1" DMDID="DMD_3008ff7f-4916-4c7a-b70a-b01d811b9ce1">
+            <mets:fptr FILEID="FILE_3008ff7f-4916-4c7a-b70a-b01d811b9ce1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

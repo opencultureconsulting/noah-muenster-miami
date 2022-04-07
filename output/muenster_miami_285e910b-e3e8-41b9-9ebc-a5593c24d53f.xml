@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_285e910b-e3e8-41b9-9ebc-a5593c24d53f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Abbildung der High Outlier im G-DRG-System 2004</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12854421X">
+                        <displayForm>Bunzemeier, Jan Holger</displayForm>
+                        <namePart type="given">Jan Holger</namePart>
+                        <namePart type="family">Bunzemeier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124936911">
+                        <displayForm>Roeder, Norbert</displayForm>
+                        <namePart type="given">Norbert</namePart>
+                        <namePart type="family">Roeder</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-11-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-10-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die verbindliche Einführung des vollpauschalierenden Abrechnungssystems G-DRGs stellt einen Paradigmawechsel für die Krankenhausfinanzierung in Deutschland dar. Die Vergütung stationärer Behandlungsfälle soll weitestgehend unabhängig von der Verweildauer pauschal erfolgen. Nur bei Über- oder Unterschreitung der Regelverweildauergrenzen einer DRG werden tagesbezogene Zu- oder Abschläge vorgenommen. Diese werden individuell für jede DRG festgelegt. Im Rahmen der Diskussion um die G-DRG-Einführung wurden viele medizinische Bereiche benannt, die unter der vollpauschalierenden Vergütung nicht leistungsgerecht abgebildet werden. Häufig wird im Rahmen dieser Diskussion die Abbildung einzelner Leistungen betrachtet. Mit dieser Arbeit wird systematisch die Abbildung der High Outlier, der Behandlungsfälle, die länger als die DRG-spezifische Regelverweildauer im Krankenhaus behandelt werden, analysiert. Grundlage für diese Analyse ist eine Fallkostenkalkulation stationär behandelter Patienten.</abstract>
+                    <subject lang="ger">
+                        <topic>DRG</topic>
+                        <topic>DRGs</topic>
+                        <topic>Krankenhausfinanzierung</topic>
+                        <topic>Diagnosis Related Groups</topic>
+                        <topic>High Outlier</topic>
+                        <topic>Fallkostenkalkulation</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-08619401864</identifier>
+                    <identifier type="sys">HT014226512</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_285e910b-e3e8-41b9-9ebc-a5593c24d53f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_285e910b-e3e8-41b9-9ebc-a5593c24d53f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/285e910b-e3e8-41b9-9ebc-a5593c24d53f/diss_bunzemeier.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_285e910b-e3e8-41b9-9ebc-a5593c24d53f" DMDID="DMD_285e910b-e3e8-41b9-9ebc-a5593c24d53f">
+            <mets:fptr FILEID="FILE_285e910b-e3e8-41b9-9ebc-a5593c24d53f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5d741158-8e73-4a30-a329-b999ea4f88dd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Parabelwerkstatt</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108443892">
+                        <displayForm>Stachniss-Carp, Sibylle</displayForm>
+                        <namePart type="given">Sibylle</namePart>
+                        <namePart type="family">Stachniss-Carp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-05-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-05-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Workshopbeitrag zur 3. T³-Regionaltagung &quot;Computer im Mathematikunterricht. Wie verändert neue Technologie den Unterricht?&quot; an der Universität Mainz (3./4. März 2006)</abstract>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <subject lang="ger">
+                        <topic>Parabeln</topic>
+                        <topic>Stationenlernen</topic>
+                        <topic>neue Medien</topic>
+                        <topic>Taschenrechner</topic>
+                        <topic>Computer</topic>
+                        <topic>DGS</topic>
+                        <topic>Excel</topic>
+                        <topic>CAS</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62649415560</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5d741158-8e73-4a30-a329-b999ea4f88dd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5d741158-8e73-4a30-a329-b999ea4f88dd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5d741158-8e73-4a30-a329-b999ea4f88dd/Stachniss_Parabelwerkstatt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5d741158-8e73-4a30-a329-b999ea4f88dd" DMDID="DMD_5d741158-8e73-4a30-a329-b999ea4f88dd">
+            <mets:fptr FILEID="FILE_5d741158-8e73-4a30-a329-b999ea4f88dd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

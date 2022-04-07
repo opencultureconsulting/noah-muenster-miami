@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_85d63704-8d84-49c7-a545-603c5fc25d7b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Optimistic concurrency control revisited</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1063138698">
+                        <displayForm>Unland, Rainer</displayForm>
+                        <namePart type="given">Rainer</namePart>
+                        <namePart type="family">Unland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Several years ago optimistic concurrency control gained much attention in the database community. However, two-phase locking was already well established, especially in the relational database market. Concerning traditional database systems most developers felt that pessimistic concurrency control might not be the best solution for concurrency control, but, a well-known and accepted one. With the work on new generation database systems, however, there has been a revival of optimistic concurrency control (at least a partial one). This paper will reconsider optimistic concurrency control. It will lay bare the shortcomings of the original approach and present some major improvements. Moreover, several techniques will be presented which especially support read transactions with the consequence that the number of backups can be decreased substantially. Finally, a general solution for the starvation problem is presented. The solution is perfectly consistent with the underlying optimistic approach.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43599560068</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_85d63704-8d84-49c7-a545-603c5fc25d7b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_85d63704-8d84-49c7-a545-603c5fc25d7b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/85d63704-8d84-49c7-a545-603c5fc25d7b/030_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_85d63704-8d84-49c7-a545-603c5fc25d7b" DMDID="DMD_85d63704-8d84-49c7-a545-603c5fc25d7b">
+            <mets:fptr FILEID="FILE_85d63704-8d84-49c7-a545-603c5fc25d7b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

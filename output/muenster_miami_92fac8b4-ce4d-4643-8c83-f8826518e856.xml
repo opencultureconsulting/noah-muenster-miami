@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_92fac8b4-ce4d-4643-8c83-f8826518e856">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Über den Shor-Algorithmus und Quantencomputer</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>About Shor&apos;s algorithm and quantum computers</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1142153177">
+                        <displayForm>Mandrysch, Jan</displayForm>
+                        <namePart type="given">Jan</namePart>
+                        <namePart type="family">Mandrysch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118016326">
+                        <displayForm>Wulkenhaar, Raimar</displayForm>
+                        <namePart type="given">Raimar</namePart>
+                        <namePart type="family">Wulkenhaar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-08-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-05-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Bachelorarbeit dient der Erläuterung des Shor-Algorithmus mit besonderem Augenmerk auf seine nicht-klassischen Bestandteile. Sie beinhaltet einen einführenden Teil zu theoretischer Informatik und Quantum Computing, eine detaillierte Darstellung des Algorithmus mit seinen Konstituenten wie Quantenphasenschätzung und Quantenfouriertransformation sowie eine Herleitung einer Abschätzung für die Laufzeitkomplexität des Algorithmus und einem kurzen Teil über die Schwierigkeiten bei der praktischen Umsetzung des Algorithmus, das heißt der Konstruktion von Quantencomputern.</abstract>
+                    <abstract lang="eng">This Bachelor’s thesis focuses on the explanation of Shor’s algorithm, especially the quantum part. It encompasses an introductory part on theoretical computer science and quantum computing giving the necessary knowledge for understanding Shor’s algorithm, a detailed presentation of the algorithm itself with its constituent parts like quantum phase approximation and the quantum fourier transform, as well as a derivation of the algorithm’s running time complexity and a short part on the difficulties of constructing quantum computers that could implement Shor’s algorithm.</abstract>
+                    <subject lang="ger">
+                        <topic>Shor-Algorithmus</topic>
+                        <topic>Primfaktorzerlegung</topic>
+                        <topic>Laufzeitkomplexität</topic>
+                        <topic>Quantenalgorithmus</topic>
+                        <topic>Quantencomputer</topic>
+                        <topic>Quantenphasenschätzung</topic>
+                        <topic>Quantenfouriertransformation</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Shor&apos;s algorithm</topic>
+                        <topic>prime factorization</topic>
+                        <topic>time complexity</topic>
+                        <topic>quantum algorithm</topic>
+                        <topic>quantum computer</topic>
+                        <topic>quantum phase approximation</topic>
+                        <topic>quantum Fourier transform</topic>
+                    </subject>
+                    <classification authority="ddc">539</classification>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-42239542367</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/3.0/de/">CC BY-SA 3.0  DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_92fac8b4-ce4d-4643-8c83-f8826518e856</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_92fac8b4-ce4d-4643-8c83-f8826518e856_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/92fac8b4-ce4d-4643-8c83-f8826518e856/bachelor_mandrysch_2017.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_92fac8b4-ce4d-4643-8c83-f8826518e856" DMDID="DMD_92fac8b4-ce4d-4643-8c83-f8826518e856">
+            <mets:fptr FILEID="FILE_92fac8b4-ce4d-4643-8c83-f8826518e856_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

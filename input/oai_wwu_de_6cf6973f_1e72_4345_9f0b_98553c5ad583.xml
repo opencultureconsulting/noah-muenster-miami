@@ -1,0 +1,188 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:6cf6973f-1e72-4345-9f0b-98553c5ad583" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:56">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_6cf6973f-1e72-4345-9f0b-98553c5ad583">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">On the storage capacity of generalized Hopfield models</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1205670661">
+                    <mods:namePart type="given">Sven</mods:namePart>
+                    <mods:namePart type="family">Upgang</mods:namePart>
+                    <mods:namePart type="date">1989-</mods:namePart>
+                    <mods:displayForm>Upgang, Sven</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/133460967">
+                    <mods:namePart type="given">Matthias</mods:namePart>
+                    <mods:namePart type="family">Löwe</mods:namePart>
+                    <mods:namePart type="date">1964-</mods:namePart>
+                    <mods:displayForm>Löwe, Matthias</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2019</mods:dateIssued>
+                    <mods:dateOther>2020-02-11</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2020-03-02</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2020-03-04</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>vi, 126</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Das Hopfield Modell ist ein neuronales Netzwerk und kann als assoziativer Speicher genutzt werden. In dieser Dissertation wird die Dynamik des Hopfield Modells modifiziert, sodass eine höhere Speicherkapazität erreicht werden kann. Neben Mustern mit unabhängigen Einträgen werden auch Muster mit korrelierten Einträgen verwendet. Die Arbeit leitet Ergebnisse für eine polynomielle und für eine exponentielle Dynamik her. Des Weiteren wird ein inhomogenes Hopfield Modell definiert. Hierbei führt ein größerer Abstand zwischen Neuronen zu einer verminderten Signalstärke. In diesem Modell wird die Speicherkapazität für einen regulären Graphen, einen Gittergraphen sowie einen Galton-Watson Baum berechnet.</mods:abstract>
+                  <mods:tableOfContents lang="eng">1. Introduction to the standard Hopfield model 1&#13;
+1.1. Storage capacity of the standard Hopfield model for a perfect retrieval . . . 3&#13;
+1.2. The standard Hopfield model as a spin glass model . . . . . . . . . . . . . 7&#13;
+2. Generalized Hopfield model with i.i.d. patterns 11&#13;
+2.1. Generalized dynamics with a polynomial interaction function . . . . . . . . 14&#13;
+2.2. Generalized dynamics with an exponential interaction function . . . . . . . 22&#13;
+3. Generalized Hopfield model with Curie-Weiss patterns 37&#13;
+3.1. Introduction to the Curie-Weiss model . . . . . . . . . . . . . . . . . . . . 37&#13;
+3.2. Results about the Curie-Weiss model . . . . . . . . . . . . . . . . . . . . . 38&#13;
+3.2.1. Central Limit Theorem for the magnetization . . . . . . . . . . . . 39&#13;
+3.2.2. The Gibbs measure of a Curie-Weiss model as a de Finetti type&#13;
+measure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44&#13;
+3.2.3. Laplace's method and the correlation of spins . . . . . . . . . . . . 49&#13;
+3.2.4. Central Limit Theorem for the overlap of spins . . . . . . . . . . . . 58&#13;
+3.3. Main Result for Curie-Weiss patterns and the polynomial dynamics . . . . 62&#13;
+3.4. Conclusions about the polynomial dynamics . . . . . . . . . . . . . . . . . 72&#13;
+4. Generalized Hopfield model with weights 73&#13;
+4.1. The hierarchical Hopfield model . . . . . . . . . . . . . . . . . . . . . . . . 73&#13;
+4.2. The inhomogeneous Hopfield model . . . . . . . . . . . . . . . . . . . . . . 76&#13;
+4.3. The Hopfield model with weights on a deterministic graph . . . . . . . . . 80&#13;
+4.3.1. Lattice structure on a torus . . . . . . . . . . . . . . . . . . . . . . 80&#13;
+4.3.2. Regular tree graph . . . . . . . . . . . . . . . . . . . . . . . . . . . 89&#13;
+4.4. Conclusions about the inhomogeneous Hopfield model on a deterministic&#13;
+graph . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100&#13;
+4.5. The Hopfield model with weights on a random graph . . . . . . . . . . . . 100&#13;
+4.5.1. General results about the Galton-Watson process . . . . . . . . . . 100&#13;
+4.5.2. The inhomogeneous Hopfield model on a Galton-Watson tree . . . . 105&#13;
+4.6. Conclusions about the inhomogeneous Hopfield model on a Galton-Watson&#13;
+tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108&#13;
+Appendices 109&#13;
+References 119&#13;
+List of symbols 125</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="thesis">Zugl. Münster (Westfalen), Univ., Diss., 2020</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="ger">Neuronale Netzwerke; Assoziativer Speicher; Hopfield Modell; Exponentielle Ungleichungen; Wahrscheinlichkeitstheorie</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-62109652885</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/6cf6973f-1e72-4345-9f0b-98553c5ad583</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY-NC 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by-nc/4.0</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:6cf6973f-1e72-4345-9f0b-98553c5ad583</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_6cf6973f-1e72-4345-9f0b-98553c5ad583">
+            <mets:rightsMD ID="RIGHTSMD_6cf6973f-1e72-4345-9f0b-98553c5ad583">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_6cf6973f-1e72-4345-9f0b-98553c5ad583">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/6cf6973f-1e72-4345-9f0b-98553c5ad583</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="6cac51b5d5692af4496a97f7495102564740ae3ef0a07911b166283c1b1a733c" CREATED="2020-03-04T08:16:19" CHECKSUMTYPE="SHA-256" SIZE="1343060" ID="ID_FIL_diss_upgang.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6cf6973f-1e72-4345-9f0b-98553c5ad583/diss_upgang.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW6cf6973f-1e72-4345-9f0b-98553c5ad583">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/6cf6973f-1e72-4345-9f0b-98553c5ad583" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_6cf6973f-1e72-4345-9f0b-98553c5ad583" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_upgang.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_upgang.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_6cf6973f-1e72-4345-9f0b-98553c5ad583" DMDID="DMD_6cf6973f-1e72-4345-9f0b-98553c5ad583" ID="ID_LOG_6cf6973f-1e72-4345-9f0b-98553c5ad583" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_upgang.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_6cf6973f-1e72-4345-9f0b-98553c5ad583" xlink:to="ID_PHY_6cf6973f-1e72-4345-9f0b-98553c5ad583"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_upgang.pdf" xlink:to="ID_PHY_diss_upgang.pdf"/>
+          </mets:structLink>
+        </mets:mets>

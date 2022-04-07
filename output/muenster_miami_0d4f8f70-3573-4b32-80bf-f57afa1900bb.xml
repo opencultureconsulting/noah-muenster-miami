@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0d4f8f70-3573-4b32-80bf-f57afa1900bb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>pH-Taxis: Grundlagen und Versuche mit MV3-Zellen</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="alternative">
+                        <title>pH-Taxis: Grundlagen und Versuche mit MV3 Zellen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1069408328">
+                        <displayForm>Bartel, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Bartel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stock, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Stock</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-04-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-03-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Migration menschlicher Melanomzellen (MV3) ist mit einer Maximalgeschwindigkeit bei pH=7,0 vom extrazellulären pH-Wert abhängig. Weiterhin bilden MV3 Zellen während der Migration ihr eigenes pH-Nanomilieu aus. Daneben herrscht in soliden Tumoren ein saurerer pH-Wert vor als im umgebenden Gewebe, wodurch sich zwischen dem Tumorzentrum und der –peripherie ein pH-Gradient bildet. Hier wird die Etablierung eines in vitro Modellsystems zur Untersuchung von Zellmigration in extrazellulären pH-Gradienten (entsprechend dem Milieu eines soliden Tumors) dargelegt. Weiterhin wird gezeigt, dass MV3 Zellen in diesem System eine gerichtete Migration (genannt „pH-Taxis“) zu einer relativ sauren Umgebung hin zeigen. Ferner wird die Expression der pH-sensitiven G-Protein gekoppelten Rezeptoren OGR1, GPR4 und TDAG8 sowie ein intrazelluläres Kalziumsignal als Reaktion auf extrazelluläre Ansäuerung nachgewiesen.</abstract>
+                    <subject lang="ger">
+                        <topic>Melanomzellen</topic>
+                        <topic>MV3</topic>
+                        <topic>Zellmigration</topic>
+                        <topic>pH-Gradient</topic>
+                        <topic>Tumor</topic>
+                        <topic>Physiologie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99299421474</identifier>
+                    <identifier type="sys">HT018603428</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0d4f8f70-3573-4b32-80bf-f57afa1900bb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0d4f8f70-3573-4b32-80bf-f57afa1900bb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0d4f8f70-3573-4b32-80bf-f57afa1900bb/diss_bartel_peter.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0d4f8f70-3573-4b32-80bf-f57afa1900bb" DMDID="DMD_0d4f8f70-3573-4b32-80bf-f57afa1900bb">
+            <mets:fptr FILEID="FILE_0d4f8f70-3573-4b32-80bf-f57afa1900bb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

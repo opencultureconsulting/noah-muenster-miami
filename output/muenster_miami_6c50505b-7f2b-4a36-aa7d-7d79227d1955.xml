@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6c50505b-7f2b-4a36-aa7d-7d79227d1955">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Vorteilsausgleichung im Rahmen der Geschäftsführerinnenhaftung aus § 43 Abs. 2 GmbHG</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1184494479">
+                        <displayForm>Müller, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Müller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Saenger, Ingo</displayForm>
+                        <namePart type="given">Ingo</namePart>
+                        <namePart type="family">Saenger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-04-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-10-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Verletzt ein Geschäftsführer schuldhaft Pflichten gegenüber der GmbH, ist er zum Schadensersatz verpflichtet. Entstehen der Gesellschaft zugleich Vorteile, ist anerkannt, dass diese aufgrund des Bereicherungsverbots über das Rechtsinstitut der Vorteilsausgleichung schadensmindernd anzurechnen sind. Diese Arbeit zeigt, dass dabei grundsätzlich alle äquivalent auf dem schädingenden Ereignis basierenden Vorteile anzurechnen sind. Dies gilt nicht bei abweichender gesetzlicher Wertung, etwa bei überobligatorischen Anstrengungen des Geschädigten, Leistungen Dritter an den Geschädigten oder Legalzessionen. Weitere Anforderungen für eine Anrechenbarkeit, etwa Adäquanz, bestehen nicht. Auch im Rahmen der Geschäftsführerhaftung ist die Vorteilsausgleichung gleichermaßen anwendbar. Sie ist weder aus Präventionsgründen einzuschränken noch auf nicht äquivalente Vorteile auszuweiten, bei gravierenden Kompetenzverletzungen jedoch ausgeschlossen.</abstract>
+                    <subject lang="ger">
+                        <topic>Organhaftung</topic>
+                        <topic>Vorteilsausgleichung</topic>
+                        <topic>Geschäftsführer</topic>
+                        <topic>GmbH</topic>
+                        <topic>§ 43 GmbHG</topic>
+                        <topic>Geschäftsführerinnenhaftung</topic>
+                    </subject>
+                    <classification authority="ddc">340</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45119522339</identifier>
+                    <identifier type="sys">HT020040611</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6c50505b-7f2b-4a36-aa7d-7d79227d1955</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6c50505b-7f2b-4a36-aa7d-7d79227d1955_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6c50505b-7f2b-4a36-aa7d-7d79227d1955/diss_mueller.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6c50505b-7f2b-4a36-aa7d-7d79227d1955" DMDID="DMD_6c50505b-7f2b-4a36-aa7d-7d79227d1955">
+            <mets:fptr FILEID="FILE_6c50505b-7f2b-4a36-aa7d-7d79227d1955_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

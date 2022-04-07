@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2fc43ee1-70e1-409a-aadc-3c53b2478ea7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Turtle-Grafik und Fraktale Geometrie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/140350217">
+                        <displayForm>Bichler, Ewald</displayForm>
+                        <namePart type="given">Ewald</namePart>
+                        <namePart type="family">Bichler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-04-12</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Fraktale Gebilde ziehen sogar mathematisch weniger Interessierte in Ihren Bann. Ihnen eilt der Ruf voraus, etwas Geheimnisvolles, fast Mystisches zu sein. Begriffe wie Chaos und Nichtlinearität tauchen hier auf. Einerseits fasziniert den Mathematiker die Einfachheit und klare Denkstruktur, die hinter der Konstruktion von Fraktalen verborgen liegt. So klar und einfach, dass es Schülerinnen und Schülern am Gymnasium im Rahmen des Mathematikunterrichts vermittelt werden kann. Andererseits haben sicherlich die Schönheit und Symmetrie der Strukturen und das schier unglaubliche Phänomen der Selbstähnlichkeit Anteil an der Begeisterung für diese recht jungen geometrischen Objekte. Die Fraktale bieten eine einzigartige Möglichkeit, &quot;althergebrachte&quot; Geometrie mit dem verglichen mit der Geometrie sehr jungem Werkzeug Computer zu verquicken. Auf diese Weise ziehen den interessierten Menschen die Fraktale immer weiter in ihren Bann. Dieses Skript möchte einen Beitrag zur Verbreitung der Fraktale im Unterricht des Gymnasiums liefern, indem es dazu Handreichung und Erläuterung gibt. In einen ersten Schritt wird das Konzept der Turtle-Grafik eingeführt, das zu Konstruktion von Fraktalen sehr nützlich und vor allen Dingen leicht verständlich ist. Dieses Turtle-Konzept, das es in vielen Programmiersprachen gibt, wird auf dem TI Voyage 200 (bzw. TI 92plus) umgesetzt, so dass dort ein kleiner Satz an Befehlen zur Verfügung steht, mit dem Turtle-Grafik betrieben werden kann. Schließlich finden sich einige Beispiele von Fraktalen mit den zugehörigen Programmanweisungen und einigen Tipps zur Einführung im Unterricht. Diese Programme können jederzeit auch leicht unabhängig vom TI eingesetzt werden, da sie auf dem Turtle-Konzept aufbauen und daher mit anderen Turtle-Grafik-Systemen benutzt werden können.</abstract>
+                    <note type="ownership">erstmalig erschienen in TI-Nachrichten 01/2004</note>
+                    <note type="citation/reference">TI-Nachrichten 1/2004</note>
+                    <subject lang="ger">
+                        <topic>Mathematikunterricht</topic>
+                        <topic>neue Medien</topic>
+                        <topic>Mathematikdidaktik</topic>
+                        <topic>Taschenrechner</topic>
+                        <topic>Taschencomputer</topic>
+                        <topic>Turtle-Grafik</topic>
+                        <topic>Fraktale</topic>
+                        <topic>Programmieren</topic>
+                        <topic>Programmiersprache</topic>
+                        <topic>Voyage 200</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659525456</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2fc43ee1-70e1-409a-aadc-3c53b2478ea7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2fc43ee1-70e1-409a-aadc-3c53b2478ea7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2fc43ee1-70e1-409a-aadc-3c53b2478ea7/Fraktale.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2fc43ee1-70e1-409a-aadc-3c53b2478ea7" DMDID="DMD_2fc43ee1-70e1-409a-aadc-3c53b2478ea7">
+            <mets:fptr FILEID="FILE_2fc43ee1-70e1-409a-aadc-3c53b2478ea7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

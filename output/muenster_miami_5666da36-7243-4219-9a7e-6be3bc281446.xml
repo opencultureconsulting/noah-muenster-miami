@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5666da36-7243-4219-9a7e-6be3bc281446">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neue Interaktionen des IQGAP1-Proteins</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/142383562">
+                        <displayForm>Heil, Annika</displayForm>
+                        <namePart type="given">Annika</namePart>
+                        <namePart type="family">Heil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/111048907">
+                        <displayForm>Gerke, Volker</displayForm>
+                        <namePart type="given">Volker</namePart>
+                        <namePart type="family">Gerke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-07-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-07-08</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ca2+-bindende Proteine der S100-Familie sind wichtige Komponenten bei der Umwandlung transienter Ca2+-Signale in zelluläre Antworten. Als ein Ca2+-abhängiger Bindungspartner des S100P Proteins konnte das Multidomänenprotein IQGAP1, das an vielen zellulären Prozessen wie z.B. dem MAPK-Signalweg beteiligt ist, identifiziert werden. In der vorliegenden Arbeit wurden die für die Interaktion relevanten Bindungssmotive identifiziert und eine Dissoziationskonstante von 0,08 µM ermittelt. Überexpressionsstudien konnten einen negativen Einfluss der S100P-Bindung auf die Funktion des IQGAP1 Proteins bei der B-Raf/MEK/ERK-Signaltransduktion zu Tage fördern. Zudem wurde eine direkte Interaktion von IQGAP1 und Ezrin, einem Membran/Aktinzytoskelett-verbindenden Protein und bekannten Bindungspartner von S100P, dokumentiert. Diese Wechselwirkung wird innerhalb des Ezrin Proteins über einen Bereich der N-terminalen Domäne vermittelt, der nur in der geöffneten Konformation des Proteins zugänglich ist.</abstract>
+                    <subject lang="ger">
+                        <topic>IQGAP1</topic>
+                        <topic>S100 Proteine</topic>
+                        <topic>S100P</topic>
+                        <topic>Calcium</topic>
+                        <topic>MAPK-Signalweg</topic>
+                        <topic>ERM Proteine</topic>
+                        <topic>Ezrin</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27439543405</identifier>
+                    <identifier type="sys">HT016522088</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5666da36-7243-4219-9a7e-6be3bc281446</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5666da36-7243-4219-9a7e-6be3bc281446_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5666da36-7243-4219-9a7e-6be3bc281446/diss_heil.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5666da36-7243-4219-9a7e-6be3bc281446" DMDID="DMD_5666da36-7243-4219-9a7e-6be3bc281446">
+            <mets:fptr FILEID="FILE_5666da36-7243-4219-9a7e-6be3bc281446_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

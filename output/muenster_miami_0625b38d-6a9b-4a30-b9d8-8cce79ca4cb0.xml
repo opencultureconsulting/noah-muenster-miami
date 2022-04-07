@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0625b38d-6a9b-4a30-b9d8-8cce79ca4cb0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Deutsche Kaiserchronik</title>
+                        <subTitle>Erzähltechnik und Kritik</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124766412">
+                        <displayForm>Gellinek, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Gellinek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1971</dateIssued>
+                        <dateIssued encoding="w3cdtf">2017-04-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Druckausgabe: Gellinek, Christian: Die Deutsche Kaiserchronik : Erzähltechnik und Kritik. Frankfurt/Main : Athenäum-Verl., 1971</note>
+                    <note type="ownership">Digitalisierte Veröffentlichung mit freundlicher Genehmigung des Autors.</note>
+                    <note>Zugl.: Basel, Univ., Habil., 17.01.1975</note>
+                    <subject lang="ger">
+                        <topic>Kaiserchronik</topic>
+                        <topic>Epos</topic>
+                        <topic>Mittelalter</topic>
+                        <topic>Literatur</topic>
+                    </subject>
+                    <classification authority="ddc">400</classification>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ddc">809</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-52269465160</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0625b38d-6a9b-4a30-b9d8-8cce79ca4cb0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0625b38d-6a9b-4a30-b9d8-8cce79ca4cb0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0625b38d-6a9b-4a30-b9d8-8cce79ca4cb0/gellinek_1971_kaiserchronik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0625b38d-6a9b-4a30-b9d8-8cce79ca4cb0" DMDID="DMD_0625b38d-6a9b-4a30-b9d8-8cce79ca4cb0">
+            <mets:fptr FILEID="FILE_0625b38d-6a9b-4a30-b9d8-8cce79ca4cb0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

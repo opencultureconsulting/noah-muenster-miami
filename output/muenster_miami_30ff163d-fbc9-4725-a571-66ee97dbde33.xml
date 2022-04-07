@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_30ff163d-fbc9-4725-a571-66ee97dbde33">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Integration of Task and Data Parallel Skeletons</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuchen, Herbert</displayForm>
+                        <namePart type="given">Herbert</namePart>
+                        <namePart type="family">Kuchen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cole, Murray</displayForm>
+                        <namePart type="given">Murray</namePart>
+                        <namePart type="family">Cole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-08-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-08-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We describe a skeletal parallel programming library which integrates task and data parallel constructs within an API for C++. Traditional skeletal requirements for higher orderness and polymorphism are achieved through exploitation of operator overloading and templates, while the underlying parallelism is provided by MPI. We present a case study describing two algorithms for the travelling salesman problem.</abstract>
+                    <note type="citation/reference">Auch erschienen in: Parallel Processing Letters 12 (2002) 2, 141-155</note>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659523850</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_30ff163d-fbc9-4725-a571-66ee97dbde33</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_30ff163d-fbc9-4725-a571-66ee97dbde33_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/30ff163d-fbc9-4725-a571-66ee97dbde33/CMPP02.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_30ff163d-fbc9-4725-a571-66ee97dbde33" DMDID="DMD_30ff163d-fbc9-4725-a571-66ee97dbde33">
+            <mets:fptr FILEID="FILE_30ff163d-fbc9-4725-a571-66ee97dbde33_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

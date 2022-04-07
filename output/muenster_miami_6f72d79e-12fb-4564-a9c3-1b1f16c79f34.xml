@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_6f72d79e-12fb-4564-a9c3-1b1f16c79f34">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stimmen im Neuen Hörspiel</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128769211">
+                        <displayForm>Kottkamp, Ingo</displayForm>
+                        <namePart type="given">Ingo</namePart>
+                        <namePart type="family">Kottkamp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Geulen, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Geulen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-02-16</dateIssued>
+                        <dateOther encoding="w3cdtf">2002-02-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei der Arbeit handelt es sich um eine detaillierte Analyse dreier Hörwerke aus dem Jahr 1969, die prägend für das &quot;Neue Hörspiel&quot; waren: One Two Two von Ferdinand Kriwet, Häuser von Jürgen Becker in der Realisation von Raoul Wolfgang Schnell und Alea von Paul Pörtner. Die intensive auditive Auseinandersetzung benennt und überprüft Montage-, Schnitt und Kompositionsverfahren experimenteller Hörspiele und Hörstücke. Es zeigt sich, dass jeder der drei Autoren dass Hören selbst thematisiert und bemüht ist, Hörkonventionen zu überschreiten. Die Analysen versuchen Handreichungen zu geben, sich dieser Herausforderung zu stellen.</abstract>
+                    <subject lang="ger">
+                        <topic>Neues Hörspiel</topic>
+                        <topic>Jürgen Becker</topic>
+                        <topic>Paul Pörtner</topic>
+                        <topic>Ferdinand Kriwet</topic>
+                        <topic>Experimentelles Hörspiel</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659526182</identifier>
+                    <identifier type="sys">HT013972604</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_6f72d79e-12fb-4564-a9c3-1b1f16c79f34</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_6f72d79e-12fb-4564-a9c3-1b1f16c79f34_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6f72d79e-12fb-4564-a9c3-1b1f16c79f34/Dissertation_Kottkamp.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_6f72d79e-12fb-4564-a9c3-1b1f16c79f34" DMDID="DMD_6f72d79e-12fb-4564-a9c3-1b1f16c79f34">
+            <mets:fptr FILEID="FILE_6f72d79e-12fb-4564-a9c3-1b1f16c79f34_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

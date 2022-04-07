@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f23436fb-3075-4bd8-9769-a80b0dc705b5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>HyperLAB – das Hypermediale Labor</title>
+                        <subTitle>Didaktisches Konzept einer hypermedialen Lern- und Arbeitsumgebung für den Biologieunterricht</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1139247670">
+                        <displayForm>Hölzenbein, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Hölzenbein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1996</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-11-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2004-04-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Am Institut für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster wird derzeit u.a. im Auftrag des Landesinstituts für Schule und Weiterbildung in Soest eine hypermediale Lern- und Arbeitsumgebung für den Biologieunterricht der Oberstufe, die studentische Ausbildung, Lehrerfortbildung sowie die Unterrichtsvorbereitung entwickelt. Das HyperLAB ist für das Internet konzipiert und wird als ein Arbeitsbereich in den NRWBildungsserver integriert. Die didaktischen Grundlagen des HyperLABs werden vorgestellt und beispielhaft konkretisiert, ohne an dieser Stelle auf spezifisch mediendidaktische Aspekte einzugehen.</abstract>
+                    <subject lang="ger">
+                        <topic>Biologie</topic>
+                        <topic>Didaktik</topic>
+                        <topic>Lehrerausbildung</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>103</start>
+                                <end>105</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659541498</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f23436fb-3075-4bd8-9769-a80b0dc705b5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f23436fb-3075-4bd8-9769-a80b0dc705b5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f23436fb-3075-4bd8-9769-a80b0dc705b5/Hoelzenbein56.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f23436fb-3075-4bd8-9769-a80b0dc705b5" DMDID="DMD_f23436fb-3075-4bd8-9769-a80b0dc705b5">
+            <mets:fptr FILEID="FILE_f23436fb-3075-4bd8-9769-a80b0dc705b5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

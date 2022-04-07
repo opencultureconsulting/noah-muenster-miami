@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2cbe7dac-5921-4bc5-897c-af8de4683e93">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>letzte Wolf in Westfalen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341142">
+                        <displayForm>Ruwe, Kathrin</displayForm>
+                        <namePart type="given">Kathrin</namePart>
+                        <namePart type="family">Ruwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1138341150">
+                        <displayForm>Vielhauer, Dominique</displayForm>
+                        <namePart type="given">Dominique</namePart>
+                        <namePart type="family">Vielhauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143573926">
+                        <displayForm>Winter, Christina</displayForm>
+                        <namePart type="given">Christina</namePart>
+                        <namePart type="family">Winter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-05-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>Wolf</topic>
+                        <topic>Münsterland</topic>
+                        <topic>Jagd</topic>
+                        <topic>Museum</topic>
+                        <topic>Denkmal</topic>
+                        <topic>Schülerarbeit</topic>
+                        <topic></topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">570</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Berichte des Institutes für Didaktik der Biologie der Westfälischen Wilhelms-Universität Münster</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>112</start>
+                                <end>115</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09269559624</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2cbe7dac-5921-4bc5-897c-af8de4683e93</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2cbe7dac-5921-4bc5-897c-af8de4683e93_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2cbe7dac-5921-4bc5-897c-af8de4683e93/idb_2001_suppl_1_112-115.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2cbe7dac-5921-4bc5-897c-af8de4683e93" DMDID="DMD_2cbe7dac-5921-4bc5-897c-af8de4683e93">
+            <mets:fptr FILEID="FILE_2cbe7dac-5921-4bc5-897c-af8de4683e93_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

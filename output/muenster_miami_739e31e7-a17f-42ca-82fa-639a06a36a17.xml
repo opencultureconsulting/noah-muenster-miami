@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_739e31e7-a17f-42ca-82fa-639a06a36a17">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Proteinexpressionsmuster in phylloiden Tumoren der weiblichen Brust</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137363052">
+                        <displayForm>Ibrahimsadeh, Abdullah</displayForm>
+                        <namePart type="given">Abdullah</namePart>
+                        <namePart type="family">Ibrahimsadeh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1096842041">
+                        <displayForm>Lellé, Ralph J.</displayForm>
+                        <namePart type="given">Ralph J.</namePart>
+                        <namePart type="family">Lellé</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-01-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-12-01</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die vorliegende Arbeit befasst sich mit einer Serie von immunhistochemischen Untersuchungen, welche von einer gemeinsamen Forschungsgruppe im Institut für Pathologie (Westfälische Wilhelms-Universität Münster, Deutschland) und Department für Pathologie (Universität Utrecht, Niederlande) durchgeführt wurde. Es wurden 58 phylloide Tumoren (40 benigne, 10 borderline und 8 malige) jeweils mit 15 Antikörpern immunhistochemisch untersucht. Es handelte sich hierbei um folgende Antikörper: c-Kit, SMA, S100, Desmin, EMA, p53, Ki-67, EGFR, p16, p21, p27, Cyklin A, Cyklin D1, Cyklin E und c-Myc. Die Immunreaktionen auf zahlreiche Proteine (p53, c-Kit, EGFR, MIB1, Cyklin E und Cyklin A) zeigten signifikante Korrelationen mit dem Malignitätsgrad der phylloiden Tumore. Diese Ergebnisse weisen auf eine diagnostische und biologische Bedeutung der genannten Proteine hin.</abstract>
+                    <subject lang="ger">
+                        <topic>Brusttumor</topic>
+                        <topic>phylloider Tumor</topic>
+                        <topic>Immunhistochemie</topic>
+                        <topic>Proteinexpressionsmuster</topic>
+                        <topic>EGFR</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-72569642176</identifier>
+                    <identifier type="sys">HT015853922</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_739e31e7-a17f-42ca-82fa-639a06a36a17</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_739e31e7-a17f-42ca-82fa-639a06a36a17_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/739e31e7-a17f-42ca-82fa-639a06a36a17/diss_ibrahimsadeh.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_739e31e7-a17f-42ca-82fa-639a06a36a17" DMDID="DMD_739e31e7-a17f-42ca-82fa-639a06a36a17">
+            <mets:fptr FILEID="FILE_739e31e7-a17f-42ca-82fa-639a06a36a17_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

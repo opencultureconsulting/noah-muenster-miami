@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fce7b34f-a017-4387-a00d-1c7b89975259">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Chern Characters for Topological Groups</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Marcus</displayForm>
+                        <namePart type="given">Marcus</namePart>
+                        <namePart type="family">Meyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133867072">
+                        <displayForm>Lück, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Lück</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-01-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-01-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Für äquivariante K-Theorie und Borelkonstruktion wird untersucht, inwieweit diese mit Ihrer Bredonhomologie übereinstimmen. Für proendliche und für halbeinfache p-adische Gruppen wird gezeigt, dass diese rational wirklich übereinstimmen. Der kohomologische Fall wird analog zum homologischen mitbehandelt, allerdings tritt dort zusätzlich ein Hindernis auf. Ferner werden diese Konstruktion und einige vorher bekannte Konstruktionen miteinander verglichen.</abstract>
+                    <abstract lang="eng">We study to what extend the Borel construction and equivariant K-theory coincide with their Bredon homology. For profinite groups and for semisimple p-adic groups, we can show that they coincide rationally. The cohomological case can be studied analogously. However, additionally an obstruction comes into play. Furthermore, we compare this construction and several ones which were known before with each other. It turns out that those constructions coincide if they exist.</abstract>
+                    <subject lang="ger">
+                        <topic>Chern-Charakter</topic>
+                        <topic>K-Theorie</topic>
+                        <topic>p-adische Gruppen</topic>
+                        <topic>Borelkonstruktion</topic>
+                        <topic>Baum-Connes-Vermutung</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79599662241</identifier>
+                    <identifier type="sys">HT015021561</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fce7b34f-a017-4387-a00d-1c7b89975259</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fce7b34f-a017-4387-a00d-1c7b89975259_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fce7b34f-a017-4387-a00d-1c7b89975259/diss_meyer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fce7b34f-a017-4387-a00d-1c7b89975259" DMDID="DMD_fce7b34f-a017-4387-a00d-1c7b89975259">
+            <mets:fptr FILEID="FILE_fce7b34f-a017-4387-a00d-1c7b89975259_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

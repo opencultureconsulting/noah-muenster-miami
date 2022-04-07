@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9ddb6dbe-870e-4051-ba2c-7583eb7b1318">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Optimizing the prediction process: from statistical concepts to the case study of soccer</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1026658160">
+                        <displayForm>Heuer, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Heuer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121371441">
+                        <displayForm>Rubner, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Rubner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-09-08</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We present a systematic approach for prediction purposes based on panel data, involving information about different interacting subjects and different times (here: two). The corresponding bivariate regression problem can be solved analytically for the final statistical estimation error. Furthermore, this expression is simplified for the special case that the subjects do not change their properties between the last measurement and the prediction period. This statistical framework is applied to the prediction of soccer matches, based on information from the previous and the present season. It is determined how well the outcome of soccer matches can be predicted theoretically. This optimum limit is compared with the actual quality of the prediction, taking the German premier league as an example. As a key step for the actual prediction process one has to identify appropriate observables which reflect the strength of the individual teams as close as possible. A criterion to distinguish different observables is presented. Surprisingly, chances for goals turn out to be much better suited than the goals themselves to characterize the strength of a team. Routes towards further improvement of the prediction are indicated. Finally, two specific applications are discussed.</abstract>
+                    <note type="citation/reference">PLoS ONE 9 ( 2014) 9, 1-9, e104647</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2014/2015 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">310</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-31339424119</identifier>
+                    <identifier type="doi">doi:10.1371/journal.pone.0104647</identifier>
+                    <identifier type="issn">1932-6203</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9ddb6dbe-870e-4051-ba2c-7583eb7b1318</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9ddb6dbe-870e-4051-ba2c-7583eb7b1318_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9ddb6dbe-870e-4051-ba2c-7583eb7b1318/journal.pone.0104647.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9ddb6dbe-870e-4051-ba2c-7583eb7b1318" DMDID="DMD_9ddb6dbe-870e-4051-ba2c-7583eb7b1318">
+            <mets:fptr FILEID="FILE_9ddb6dbe-870e-4051-ba2c-7583eb7b1318_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

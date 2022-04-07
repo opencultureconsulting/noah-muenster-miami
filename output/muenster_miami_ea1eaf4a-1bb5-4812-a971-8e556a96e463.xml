@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ea1eaf4a-1bb5-4812-a971-8e556a96e463">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Crystal growth patterns in solid solution systems</title>
+                        <subTitle>case studies on oscillatory zoning and mineral replacement reactions</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132560615">
+                        <displayForm>Pollok, Kilian</displayForm>
+                        <namePart type="given">Kilian</namePart>
+                        <namePart type="family">Pollok</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/152009558">
+                        <displayForm>Putnis, Andrew</displayForm>
+                        <namePart type="given">Andrew</namePart>
+                        <namePart type="family">Putnis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-01-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-01-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Oszillierende Zonierung und Mineralverdrängungsreaktionen sind Beispiele für Kristallwachstumsmuster in Mischkristallsystemen. Beide Themenbereiche wurden mit hochauflösender Mikroanalytik und thermodynamischer Modellierung behandelt. Oszillierend zonierte Granate der Grossular-Andradit-Reihe wurden mit der analytischen Transmissions-Elektronenmikroskopie (ATEM) untersucht und der Maßstab und die Grenzflächen in der Bedeutung für die Wachstumsdynamik diskutiert. Mit Molekularsimulationen wurden die thermodynamischen Mischungseigenschaften und die Grenzflächenstabilität berechnet und in Bezug zu den natürlichen Proben gesetzt. Mineralverdrängungsmuster metamorpher Granate eines teilweise eklogitisierten Gesteins wurden mikroanalytisch mittels ATEM untersucht und in Bezug zu Reaktionsmechanismen gesetzt. Die Volumenänderung (Porosität) bei Verdrängungsreaktionen von Mischkristallen in wässriger Lösung wird als Modell vorgestellt und auf das System KBr-KCl-H2O angewandt.</abstract>
+                    <subject lang="ger">
+                        <topic>Kristallwachstum</topic>
+                        <topic>Mischkristallsysteme</topic>
+                        <topic>Analytische TEM</topic>
+                        <topic>Thermodynamische Modellierung</topic>
+                        <topic>oszillierende Zonierung</topic>
+                        <topic>Mineralverdrängungsreaktion</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-79599611758</identifier>
+                    <identifier type="sys">HT014990591</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ea1eaf4a-1bb5-4812-a971-8e556a96e463</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ea1eaf4a-1bb5-4812-a971-8e556a96e463_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ea1eaf4a-1bb5-4812-a971-8e556a96e463/diss_pollok.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ea1eaf4a-1bb5-4812-a971-8e556a96e463" DMDID="DMD_ea1eaf4a-1bb5-4812-a971-8e556a96e463">
+            <mets:fptr FILEID="FILE_ea1eaf4a-1bb5-4812-a971-8e556a96e463_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

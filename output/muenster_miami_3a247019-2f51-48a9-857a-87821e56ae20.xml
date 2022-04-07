@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3a247019-2f51-48a9-857a-87821e56ae20">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spatial and temporal resolution of sensor observations</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1068422122">
+                        <displayForm>Degbelo, Auriol</displayForm>
+                        <namePart type="given">Auriol</namePart>
+                        <namePart type="family">Degbelo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136212816">
+                        <displayForm>Kuhn, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Kuhn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-03-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-09-30</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Beobachtung ist ein Kernkonzept der Geoinformatik. Beobachtungen dienen bei Phänomenen wie Klimawandel, Massenbewegungen (z. B. Hangbewegungen) und demographischer Wandel zur Überwachung, Entwicklung von Modellen und Simulation dieser Erscheinungen. Auflösung ist eine zentrale Eigenschaft von Beobachtungen. Der Gebrauch von Beobachtungen unterschiedlicher Auflösung führt zu (potenziell) unterschiedlichen Entscheidungen, da die Auflösung der Beobachtungen das Erkennen von Strukturen während der Phase der Datenanalyse beeinflusst. Der Hauptbeitrag dieser Arbeit ist eine entwickelte Theorie der raum- und zeitlichen Auflösung von Beobachtungen, die sowohl auf technische Sensoren (z. B. Fotoapparat) als auch auf menschliche Sensoren anwendbar ist. Die Konsistenz der Theorie wurde anhand der Sprache Haskell evaluiert, und ihre praktische Anwendbarkeit wurde unter Einsatz von Beobachtungen des Webportals Flickr illustriert.</abstract>
+                    <subject lang="ger">
+                        <topic>Beobachtung</topic>
+                        <topic>Räumliche Auflösung</topic>
+                        <topic>Zeitliche Auflösung</topic>
+                        <topic>Ontologie</topic>
+                        <topic>Haskell</topic>
+                        <topic>Forschungsmethode</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-60329345641</identifier>
+                    <identifier type="sys">HT018580418</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3a247019-2f51-48a9-857a-87821e56ae20</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3a247019-2f51-48a9-857a-87821e56ae20_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3a247019-2f51-48a9-857a-87821e56ae20/diss_degbelo.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3a247019-2f51-48a9-857a-87821e56ae20" DMDID="DMD_3a247019-2f51-48a9-857a-87821e56ae20">
+            <mets:fptr FILEID="FILE_3a247019-2f51-48a9-857a-87821e56ae20_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

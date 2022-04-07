@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4e4092d4-abc2-4d8b-9775-f349a9772590">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Sentinel-Lymphknoten-Biopsie bei malignen Melanomen in der Kopf-Hals-Region</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1017967431">
+                        <displayForm>Osinga, Johannes</displayForm>
+                        <namePart type="given">Johannes</namePart>
+                        <namePart type="family">Osinga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1119936004">
+                        <displayForm>Sunderkötter, Cord</displayForm>
+                        <namePart type="given">Cord</namePart>
+                        <namePart type="family">Sunderkötter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-12-11</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-10-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Methodik der Sentinel-Lymphknoten-Biopsie (SLNB) wurde bei 106 Patienten mit einem malignen Melanom in der Kopf-Halsregion untersucht. Mittlerer Nachbeobachtungszeitraum 35 (8-60) Monate. Ergebnisse: Detektionsrate 70% (172/246 SLN), Mittelwert 1,8 SLN pro Patient entfernt, ?1 SLN bei 89% der Patienten entfernt. Tumorpositive SLN bei 17 Patienten (19 Mikrometastasen, 3 Makrometastasen). Auftreten von regionären Lymphknotenmetastasen im Nachbeobachtungszeitraum trotz nodal negativen SLN-Status bei 4 Patienten (Falsch-Negativ-Ereignis), unvollständige SLN-Diagnostik aufgrund mangelnder intraoperativer Radioaktivität in 3 der 4 Falsch-Negativ-Fälle, Sensitivität der Methodik 81%, Falsch-Negativ-Rate 19%. Fazit: Die Sentinel-Lymphknoten-Biopsie ist eine vielversprechende minimal-invasive Staging-untersuchung der regionären Lymphknoten. Eine Optimierung der präoperativen SLN-Markierung und Lokalisationsbestimmung erscheint sinnvoll.</abstract>
+                    <subject lang="ger">
+                        <topic>Melanom</topic>
+                        <topic>Kopf</topic>
+                        <topic>Hals</topic>
+                        <topic>sentinel</topic>
+                        <topic>Lymphknoten</topic>
+                        <topic>Biopsie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62419432538</identifier>
+                    <identifier type="sys">HT017068474</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4e4092d4-abc2-4d8b-9775-f349a9772590</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4e4092d4-abc2-4d8b-9775-f349a9772590_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4e4092d4-abc2-4d8b-9775-f349a9772590/diss_osinga.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4e4092d4-abc2-4d8b-9775-f349a9772590" DMDID="DMD_4e4092d4-abc2-4d8b-9775-f349a9772590">
+            <mets:fptr FILEID="FILE_4e4092d4-abc2-4d8b-9775-f349a9772590_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

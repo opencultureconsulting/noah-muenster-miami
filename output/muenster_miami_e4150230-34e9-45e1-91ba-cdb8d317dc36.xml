@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e4150230-34e9-45e1-91ba-cdb8d317dc36">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Abcg2 an der porcinen Blut-Hirn-Schranke</title>
+                        <subTitle>(Methoden zur funktionellen Charakterisierung)</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137513577">
+                        <displayForm>Seidl, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Seidl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1145392083">
+                        <displayForm>Galla, Hans-Joachim</displayForm>
+                        <namePart type="given">Hans-Joachim</namePart>
+                        <namePart type="family">Galla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-02-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-07-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Einen wichtigen Beitrag zum Schutz des Gehirns vor Fremdstoffen vermitteln die in den Kapillarendothelzellen exprimierten multidrug resistance Transporter aus der Familie der ABC-Transporter. Diese Gruppe von Proteinen transportiert eine breite Palette xenobiotischer Substanzen. Während diese Transporter durch den Export zelltoxischer Substanzen einen wichtigen Beitrag zum Schutz des Gehirns leisten, können sie bei der pharmakologischen Behandlung von Erkrankungen des zentralen Nervensystems ein Problem darstellen, indem sie den Zugang therapeutisch eingesetzter Arzneistoffe zum Gehirn erschweren. Einer dieser Transporter ist das so genannte ABCG2. In der vorliegenden Arbeit gelang es die Regulation des Transporters an der porcinen Blut-Hirn-Schranke näher zu beschreiben und verschiedene stabil ABCG2 exprimierende Zelllinien zu generieren, die eine funktionelle Charakterisierung des Transporters ermöglichen.</abstract>
+                    <subject lang="ger">
+                        <topic>ABCG2</topic>
+                        <topic>Blut-Hirn-Schranke</topic>
+                        <topic>ABC-Transporter</topic>
+                        <topic>multidrug resistance</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-72539565844</identifier>
+                    <identifier type="sys">HT015883713</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e4150230-34e9-45e1-91ba-cdb8d317dc36</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e4150230-34e9-45e1-91ba-cdb8d317dc36_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e4150230-34e9-45e1-91ba-cdb8d317dc36/diss_seidl.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e4150230-34e9-45e1-91ba-cdb8d317dc36" DMDID="DMD_e4150230-34e9-45e1-91ba-cdb8d317dc36">
+            <mets:fptr FILEID="FILE_e4150230-34e9-45e1-91ba-cdb8d317dc36_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

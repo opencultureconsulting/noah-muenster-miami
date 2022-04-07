@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b439479b-267b-4e25-92f7-63b9623716ce">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Katalog der Collectio Erhard</title>
+                        <subTitle>in der Universitäts- und Landesbibliothek Münster</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173032346">
+                        <displayForm>Pophanken, Elke</displayForm>
+                        <namePart type="given">Elke</namePart>
+                        <namePart type="family">Pophanken</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173032346">
+                        <displayForm>Pophanken, Elke Anke</displayForm>
+                        <namePart type="given">Elke Anke</namePart>
+                        <namePart type="family">Pophanken</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-12</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-01-22</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-01-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Collectio Erhard – eine Sammlung von Schriften Luthers, seiner Freunde und Gegner – stammt zum großen Teil aus dem Nachlass des Münsterschen Archivars Heinrich August Erhard (1793-1851). Der Katalog dokumentiert die gegenwärtige Aufstellung der &quot;Collectio Erhard&quot; im Rara-Magazin der Universitäts- und Landesbibliothek Münster.</abstract>
+                    <note>Stand: Dezember 2012</note>
+                    <note>Informationen zur Sammlung: https://www.ulb.uni-muenster.de/sammlungen/historisch/erhard.html</note>
+                    <note>Digitalisate der Sammlung im Portal &quot;Kulturgut digital&quot;: https://sammlungen.ulb.uni-muenster.de/nav/classification/628083</note>
+                    <subject lang="ger">
+                        <topic>Katalog</topic>
+                        <topic>Verzeichnis</topic>
+                        <topic>Sammlung</topic>
+                        <topic>Collectio Erhard</topic>
+                    </subject>
+                    <classification authority="ddc">010</classification>
+                    <classification authority="ddc">090</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-78309690892</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b439479b-267b-4e25-92f7-63b9623716ce</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b439479b-267b-4e25-92f7-63b9623716ce_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b439479b-267b-4e25-92f7-63b9623716ce/katalog-collectio-erhard.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b439479b-267b-4e25-92f7-63b9623716ce" DMDID="DMD_b439479b-267b-4e25-92f7-63b9623716ce">
+            <mets:fptr FILEID="FILE_b439479b-267b-4e25-92f7-63b9623716ce_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

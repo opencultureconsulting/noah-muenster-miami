@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d5171d8f-5aeb-4c88-a2d9-8a3f40c0aedb">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Prophylaxe und Werkstoffkunde</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1043677615">
+                        <displayForm>Meiners, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Meiners</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1985</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-08-23</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2011-08-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Das Deutsche Zahnärzteblatt 94 (1985) 10, 792–798</note>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-63429642486</identifier>
+                    <identifier type="issn">0044-166X</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d5171d8f-5aeb-4c88-a2d9-8a3f40c0aedb</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d5171d8f-5aeb-4c88-a2d9-8a3f40c0aedb_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d5171d8f-5aeb-4c88-a2d9-8a3f40c0aedb/1985_meine_proph.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d5171d8f-5aeb-4c88-a2d9-8a3f40c0aedb" DMDID="DMD_d5171d8f-5aeb-4c88-a2d9-8a3f40c0aedb">
+            <mets:fptr FILEID="FILE_d5171d8f-5aeb-4c88-a2d9-8a3f40c0aedb_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

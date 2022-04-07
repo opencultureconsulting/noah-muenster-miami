@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b3635c35-3969-4d6d-82d3-0407f643c081">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Integration issues of information ingineering based I-CASE tools</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109054415">
+                        <displayForm>Kurbel, Karl</displayForm>
+                        <namePart type="given">Karl</namePart>
+                        <namePart type="family">Kurbel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109054415">
+                        <displayForm>Kurbel, K.</displayForm>
+                        <namePart type="given">K.</namePart>
+                        <namePart type="family">Kurbel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/109054415">
+                        <displayForm>Kurbel, Karl E.</displayForm>
+                        <namePart type="given">Karl E.</namePart>
+                        <namePart type="family">Kurbel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/103512856X">
+                        <displayForm>Schnieder, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Schnieder</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1994-09</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Problems and requirements regarding integration of methods and tools across phases of the software-development life cycle are discussed. Information engineering (IE) methodology and I-CASE (integrated CASE) tools supporting IE claim to have an integrated view across major stages of enterprise-wide information-system development: information strategy planning, business area analysis, system design, and construction. In the main part of this paper, two comprehensive I-CASE tools, ADW (Application Development Workbench) and IEF (Information Engineering Facility), are analyzed and compared with regard to integration issues.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43599539706</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b3635c35-3969-4d6d-82d3-0407f643c081</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b3635c35-3969-4d6d-82d3-0407f643c081_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b3635c35-3969-4d6d-82d3-0407f643c081/033_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b3635c35-3969-4d6d-82d3-0407f643c081" DMDID="DMD_b3635c35-3969-4d6d-82d3-0407f643c081">
+            <mets:fptr FILEID="FILE_b3635c35-3969-4d6d-82d3-0407f643c081_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

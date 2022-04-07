@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_4eb4b388-1f89-4241-85c5-839a61cc1728">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Optimization of spike and wave discharge prediction</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1232365432">
+                        <displayForm>Budde, Björn</displayForm>
+                        <namePart type="given">Björn</namePart>
+                        <namePart type="family">Budde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1232367044">
+                        <displayForm>Seidenbecher, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Seidenbecher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-05-20</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-02-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Childhood absence epilepsy betrifft ungefähr 10-17% aller Kinder die mit Epilepsie diagnostiziert wurden, jedoch ist diese neurologische Krankheit nicht in jedem Fall gut behandelbar. Durch die Detektion von einem precursor vor einem Anfall wird die Früherkennung ermöglicht, die bisher hohe Fehlerraten aufwies. Diese Arbeit wendet mehrere Strategien an um die Anfallsfrüherkennung zu verbessern. Erstens, wurde der Einfluss von verschiedenen EEG Messregionen verglichen. Zweitens wurden unterschiede der zwei Tiermodelle (GAERS, WAG/Rij) aufgezeigt, wobei GAERS höhere Vorhersagewahrscheinlichkeiten aufzeigte. Drittens wurde der bisherige Algorithmus mit einem Random-forest weiter optimiert wobei hier richtig und falsch detektierte precursor signifikant weiter klassifiziert werden konnte (73.1%). Abschließend wurde losgelöst von bisherigen Ansätzen, ein Deep-Learning Algorithmus erfolgreich verwendet, der Roh EEG Daten analysiert und hierdurch selbstständig die Anfälle vorhersagt (75.1%).</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2021</note>
+                    <subject lang="eng">
+                        <topic>Absence Seizure</topic>
+                        <topic>SWD</topic>
+                        <topic>Prediction</topic>
+                        <topic>Machine Learning</topic>
+                        <topic>Deep Learning</topic>
+                        <topic>Random forest</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27069526626</identifier>
+                    <identifier type="sys">HT020931261</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_4eb4b388-1f89-4241-85c5-839a61cc1728</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_4eb4b388-1f89-4241-85c5-839a61cc1728_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4eb4b388-1f89-4241-85c5-839a61cc1728/diss_budde.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_4eb4b388-1f89-4241-85c5-839a61cc1728" DMDID="DMD_4eb4b388-1f89-4241-85c5-839a61cc1728">
+            <mets:fptr FILEID="FILE_4eb4b388-1f89-4241-85c5-839a61cc1728_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

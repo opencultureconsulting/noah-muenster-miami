@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7b3f3b98-d4ef-41e5-bab9-0d971b36ae12">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Integrating personalized medical test contents with XML and XSL-FO</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136419976">
+                        <displayForm>Toddenroth, Dennis</displayForm>
+                        <namePart type="given">Dennis</namePart>
+                        <namePart type="family">Toddenroth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130164607">
+                        <displayForm>Dugas, Ch.</displayForm>
+                        <namePart type="given">Ch.</namePart>
+                        <namePart type="family">Dugas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120103486">
+                        <displayForm>Frankewitsch, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Frankewitsch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-03-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-02-12</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-02-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: In 2004 the adoption of a modular curriculum at the medical faculty in Muenster led to the introduction of centralized examinations based on multiple-choice questions (MCQs). We report on how organizational challenges of realizing faculty-wide personalized tests were addressed by implementation of a specialized software module to automatically generate test sheets from individual test registrations and MCQ contents. Methods: Key steps of the presented method for preparing personalized test sheets are (1) the compilation of relevant item contents and graphical media from a relational database with database queries, (2) the creation of Extensible Markup Language (XML) intermediates, and (3) the transformation into paginated documents. Results: The software module by use of an open source print formatter consistently produced high-quality test sheets, while the blending of vectorized textual contents and pixel graphics resulted in efficient output file sizes. Concomitantly the module permitted an individual randomization of item sequences to prevent illicit collusion. Conclusions: The automatic generation of personalized MCQ test sheets is feasible using freely available open source software libraries, and can be efficiently deployed on a faculty-wide scale.</abstract>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2011/2012 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <note type="citation/reference">BMC Medical Education 11 (2011) 8</note>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-67389605693</identifier>
+                    <identifier type="doi">doi:10.1186/1472-6920-11-8</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/2.0/">CC BY 2.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7b3f3b98-d4ef-41e5-bab9-0d971b36ae12</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7b3f3b98-d4ef-41e5-bab9-0d971b36ae12_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7b3f3b98-d4ef-41e5-bab9-0d971b36ae12/1472-6920-11-8.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7b3f3b98-d4ef-41e5-bab9-0d971b36ae12" DMDID="DMD_7b3f3b98-d4ef-41e5-bab9-0d971b36ae12">
+            <mets:fptr FILEID="FILE_7b3f3b98-d4ef-41e5-bab9-0d971b36ae12_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

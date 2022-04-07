@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_227c799a-dd54-4d97-a5eb-2222eb351da4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sozialethik und Sozialphilosophie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132996251">
+                        <displayForm>Frühbauer, Johannes J.</displayForm>
+                        <namePart type="given">Johannes J.</namePart>
+                        <namePart type="family">Frühbauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-04-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">In: Heimbach-Steins, Marianne; Becka, Michelle; Frühbauer, Johannes J.; Kruip, Gerhard (Hrsg.): Christliche Sozialethik. Grundlagen – Kontexte – Themen. Ein Lehr- und Studienbuch. Regensburg : Friedrich Pustet Verlag, 2022. ISBN 978-3-7917-7389-6, S. 47-61</note>
+                    <note type="ownership">Die Veröffentlichung erfolgt mit freundlicher Genehmigung des Verlages F. Pustet.</note>
+                    <subject lang="ger">
+                        <topic>Christliche Sozialethik</topic>
+                        <topic>Frieden</topic>
+                        <topic>Gesundheit</topic>
+                        <topic>Lebensformen</topic>
+                        <topic>Migration</topic>
+                        <topic>Ökologie</topic>
+                        <topic>Weltarmut</topic>
+                    </subject>
+                    <classification authority="ddc">230</classification>
+                    <classification authority="ddc">241</classification>
+                    <classification authority="ddc">300</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Christliche Sozialethik</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Christliche Sozialethik</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>47</start>
+                                <end>61</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55069707771</identifier>
+                    <identifier type="doi">10.17879/55069707446</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_227c799a-dd54-4d97-a5eb-2222eb351da4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_227c799a-dd54-4d97-a5eb-2222eb351da4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/227c799a-dd54-4d97-a5eb-2222eb351da4/10.17879_55069707446.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_227c799a-dd54-4d97-a5eb-2222eb351da4" DMDID="DMD_227c799a-dd54-4d97-a5eb-2222eb351da4">
+            <mets:fptr FILEID="FILE_227c799a-dd54-4d97-a5eb-2222eb351da4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

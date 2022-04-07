@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reconstruction using local sparsity</title>
+                        <subTitle>a novel regularization technique and an asymptotic analysis of spatial sparsity priors</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1066598452">
+                        <displayForm>Heins, Pia</displayForm>
+                        <namePart type="given">Pia</namePart>
+                        <namePart type="family">Heins</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-02-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-01-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Gebiet der inversen Probleme, wobei die Unbekannte neben ihrer örtlichen Dimension mindestens noch eine zusätzliche Dimension enthält, ist bedeutend für viele Anwendungen wie z.B. Bildgebung, Naturwissenschaften und Medizin. Es hat sich durchgesetzt dünnbesetzte Matrizen (Sparsity) als Lösungen zu fördern. Diese Arbeit beschäftigt sich mit einer speziellen Art der Dünnbesetztheit, welche eine gewisse Struktur in der Lösungsmatrix favorisiert. Wir präsentieren und analysieren eine neue Regularisierung, welche lokale Dünnbesetztheit fördert, indem die l^{1,inf}-Norm in einem Variationsansatz minimiert wird. Zusätzlich analysieren wir die Asymptotik verschiedener Regularisierungsfunktionale, welche Dünngesetztheit fördern. Wir betrachten diskrete Funktionale, welche dünnbesetzte Lösungen bevorzugen, und analysieren ihr Verhalten für feiner werdende Diskretisierungen. Hierbei erhalten wir einige Gamma-Grenzwerte. Wir betrachten nicht nur l^p-Normen für p ≥ 1 sondern auch die l^0-“Norm”.</abstract>
+                    <abstract lang="eng">The specific field of inverse problems, where the unknown obtains apart from its spatial dimensions at least one additional dimension, is of major interest for many applications in imaging, natural sciences and medicine. Enforcing certain sparsity priors on such unknowns, which can be written as a matrix, has thus become current state of research. This thesis deals with a special type of sparsity prior, which enforces a certain structure on the unknown matrix. We present and analyze a novel regularization technique promoting so-called local sparsity by minimizing the l^{1,inf}-norm as a regularization functional in a variational approach. Furthermore, we theoretically analyze the asymptotics of spatial sparsity priors. We consider discrete sparsity promoting functionals and analyze their behavior as the discretization becomes finer. In so doing, we are able to compute some gamma-limits. We not only consider usual l^p-norms for p ≥ 1, but also analyze the asymptotics of the l^0-“norm”.</abstract>
+                    <subject lang="ger">
+                        <topic>Lokale Sparsity</topic>
+                        <topic>Inverse Probleme</topic>
+                        <topic>Regularisierung</topic>
+                        <topic>Variationsmethoden</topic>
+                        <topic>Bildgebung</topic>
+                        <topic>Asymptotische Sparsity</topic>
+                        <topic>Radon-Maße</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Local Sparsity</topic>
+                        <topic>Inverse Problems</topic>
+                        <topic>Compressed Sensing</topic>
+                        <topic>Regularization Theory</topic>
+                        <topic>Imaging</topic>
+                        <topic>Asymptotic Sparsity</topic>
+                        <topic>Radon Measures</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-40359656702</identifier>
+                    <identifier type="sys">HT018542619</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/5d10bea9-0633-4b6f-a83a-b2be1f4b37d6/diss_heins.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6" DMDID="DMD_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6">
+            <mets:fptr FILEID="FILE_5d10bea9-0633-4b6f-a83a-b2be1f4b37d6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

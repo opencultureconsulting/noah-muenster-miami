@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1d017153-47d0-480c-af05-b3b04186fb6e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>DNA-Ploidie, Proliferation und Prognose bei Anal-Karzinomen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128418796">
+                        <displayForm>Terlau, Meinolf</displayForm>
+                        <namePart type="given">Meinolf</namePart>
+                        <namePart type="family">Terlau</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128418796">
+                        <displayForm>Tomczak, Meinolf</displayForm>
+                        <namePart type="given">Meinolf</namePart>
+                        <namePart type="family">Tomczak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Herbst, Hermann</displayForm>
+                        <namePart type="given">Hermann</namePart>
+                        <namePart type="family">Herbst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-10-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-10-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Retrospektive Studie zur Ermittlung der DNA-Ploidie und der immunhistologischen Wachstumsfraktion von 56 Analkarzinomen der Jahre 1987-1996 an paraffineingebettetem Gewebsmaterial mittels Feulgenbildzytometrie und des monoklonalen Antikörpers MIB-1. Es ergaben sich höhere Proloferationsraten bei Zunahme der Entdifferenzierung und unter kloakogenen Karzinomen. Hyperdipoide Tumoeren zeigten eine höhere Fernmetastasierung und Rezidivneigung. Bei der partiellen Korrelation eignen sich die DNA-Ploidie und die MIB-1-Immunhistologie nicht im Einzelfall zur Risikoabschätzung.</abstract>
+                    <subject lang="ger">
+                        <topic>MIB-1</topic>
+                        <topic>DNA-Ploidie</topic>
+                        <topic>Analkarzinome</topic>
+                        <topic>Immunhistologie</topic>
+                        <topic>Feulgenbildzytometrie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659542458</identifier>
+                    <identifier type="sys">HT013866633</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1d017153-47d0-480c-af05-b3b04186fb6e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1d017153-47d0-480c-af05-b3b04186fb6e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1d017153-47d0-480c-af05-b3b04186fb6e/diss_terlau_meinolf.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1d017153-47d0-480c-af05-b3b04186fb6e" DMDID="DMD_1d017153-47d0-480c-af05-b3b04186fb6e">
+            <mets:fptr FILEID="FILE_1d017153-47d0-480c-af05-b3b04186fb6e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,149 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:30ff163d-fbc9-4725-a571-66ee97dbde33" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:46:34">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_30ff163d-fbc9-4725-a571-66ee97dbde33">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">The Integration of Task and Data Parallel Skeletons</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Herbert</mods:namePart>
+                    <mods:namePart type="family">Kuchen</mods:namePart>
+                    <mods:displayForm>Kuchen, Herbert</mods:displayForm>
+                    <mods:affiliation>FB 04: Wirtschaftswissenschaftliche Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Murray</mods:namePart>
+                    <mods:namePart type="family">Cole</mods:namePart>
+                    <mods:displayForm>Cole, Murray</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes" qualifier="inferred">2002</mods:dateIssued>
+                    <mods:dateOther keyDate="yes" encoding="w3cdtf">2004-08-03</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2004-08-01</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-01-22</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>13</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">We describe a skeletal parallel programming library which integrates task and data parallel constructs within an API for C++. Traditional skeletal requirements for higher orderness and polymorphism are achieved through exploitation of operator overloading and templates, while the underlying parallelism is provided by MPI. We present a case study describing two algorithms for the travelling salesman problem.</mods:abstract>
+                  <mods:note type="citation/reference">Auch erschienen in: Parallel Processing Letters 12 (2002) 2, 141-155</mods:note>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-85659523850</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/30ff163d-fbc9-4725-a571-66ee97dbde33</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:30ff163d-fbc9-4725-a571-66ee97dbde33</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_30ff163d-fbc9-4725-a571-66ee97dbde33">
+            <mets:rightsMD ID="RIGHTSMD_30ff163d-fbc9-4725-a571-66ee97dbde33">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_30ff163d-fbc9-4725-a571-66ee97dbde33">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/30ff163d-fbc9-4725-a571-66ee97dbde33</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="bce338e4e4c828f673c3305d52a5b2e2f189d139396289bd24c333e0c8e22f0b" CREATED="2015-01-22T11:47:50" CHECKSUMTYPE="SHA-256" SIZE="231797" ID="ID_FIL_CMPP02.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/30ff163d-fbc9-4725-a571-66ee97dbde33/CMPP02.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW30ff163d-fbc9-4725-a571-66ee97dbde33">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/30ff163d-fbc9-4725-a571-66ee97dbde33" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_30ff163d-fbc9-4725-a571-66ee97dbde33" TYPE="physSequence">
+              <mets:div ID="ID_PHY_CMPP02.pdf">
+                <mets:fptr FILEID="ID_FIL_CMPP02.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_30ff163d-fbc9-4725-a571-66ee97dbde33" DMDID="DMD_30ff163d-fbc9-4725-a571-66ee97dbde33" ID="ID_LOG_30ff163d-fbc9-4725-a571-66ee97dbde33" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_CMPP02.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_30ff163d-fbc9-4725-a571-66ee97dbde33" xlink:to="ID_PHY_30ff163d-fbc9-4725-a571-66ee97dbde33"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_CMPP02.pdf" xlink:to="ID_PHY_CMPP02.pdf"/>
+          </mets:structLink>
+        </mets:mets>

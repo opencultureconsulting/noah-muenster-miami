@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_9395ff1e-5493-4f02-887a-93e88d1641c6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Modell für Zeitfenster</title>
+                        <subTitle>zur Überschneidungsverringerung im Lehramtsstudium in Hamburg</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1011233940">
+                        <displayForm>Jungwirth, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Jungwirth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-04-13</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-04-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Vortrag auf dem 3. Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung am 2. und 3. März 2009 in Hamburg</note>
+                    <subject lang="ger">
+                        <topic>Studienorganisation</topic>
+                        <topic>Zentren für Lehrerbildung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Bundestreffen der Geschäftsführer/-innen der Zentren für Lehrerbildung</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-01599437570</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_9395ff1e-5493-4f02-887a-93e88d1641c6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_9395ff1e-5493-4f02-887a-93e88d1641c6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9395ff1e-5493-4f02-887a-93e88d1641c6/Zeitfenstermodell.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_9395ff1e-5493-4f02-887a-93e88d1641c6" DMDID="DMD_9395ff1e-5493-4f02-887a-93e88d1641c6">
+            <mets:fptr FILEID="FILE_9395ff1e-5493-4f02-887a-93e88d1641c6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

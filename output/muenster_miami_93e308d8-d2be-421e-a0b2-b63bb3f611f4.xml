@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_93e308d8-d2be-421e-a0b2-b63bb3f611f4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Decomposing nuclear maps</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Carrión, José R.</displayForm>
+                        <namePart type="given">José R.</namePart>
+                        <namePart type="family">Carrión</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schafhauser, Christopher</displayForm>
+                        <namePart type="given">Christopher</namePart>
+                        <namePart type="family">Schafhauser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-03-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We show that the strengthened version of the completely positive approximation property of Brown, Carri´on, and White—where the downward maps are asymptotically order zero and the upward maps are convex combinations of order zero maps—is enjoyed by every nuclear order zero map.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>197</start>
+                                <end>204</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-32109551628</identifier>
+                    <identifier type="doi">10.17879/32109551420</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_93e308d8-d2be-421e-a0b2-b63bb3f611f4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_93e308d8-d2be-421e-a0b2-b63bb3f611f4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/93e308d8-d2be-421e-a0b2-b63bb3f611f4/mjm_2020_13_197-204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_93e308d8-d2be-421e-a0b2-b63bb3f611f4" DMDID="DMD_93e308d8-d2be-421e-a0b2-b63bb3f611f4">
+            <mets:fptr FILEID="FILE_93e308d8-d2be-421e-a0b2-b63bb3f611f4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

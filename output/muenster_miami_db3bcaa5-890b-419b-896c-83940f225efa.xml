@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_db3bcaa5-890b-419b-896c-83940f225efa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Funktionsabhängige Volumenveränderung des dreidimensionalen humanen Kiefergelenkspaltes</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/136156908">
+                        <displayForm>Föcking, Christof</displayForm>
+                        <namePart type="given">Christof</namePart>
+                        <namePart type="family">Föcking</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/108551067">
+                        <displayForm>Stamm, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Stamm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-08-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-07-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Schon lange versucht man in der Kiefergelenkdiagnostik eine Gesetzmäßigkeit in der Lagebeziehung und ein vorhersehbares Verhalten der ossären Strukturen zu erlangen. Für diese Studie wurden CT-Bilder von 226 Patienten herangezogen, d.h.anhand von 451 Gelenken (ein Gelenk war nicht auswertbar) wurde das Spaltvolumen und die dazugehörige Volumenfraktion berechnet. Das Patientenkollektiv wurde vier Gruppen zugeordnet, wobei die mundgeöffnete (moG) und mundgeschlossene (mgG) zur Kontrollgruppe, die Resorptions- (RESG) und die Sklerosierungsgruppe (SKLG) zur pathologischen Gruppe zählen. Die ermittelten Voluminae wurden gruppenspezifisch und untereinander hinsichtlich Alter, Größe,Geschlecht und Gelenkseite untersucht und analysiert. Anhand des Patientenkollektivs konnte eine funktionsabhängige Volumenveränderung nachgewiesen werden. Die Ergebnisse bestätigen Studien, die anhand von Versuchen an Mensch und Tier ein hohes Adaptionspotential der ossären Gelenkstrukturen nachweisen konnten.</abstract>
+                    <subject lang="ger">
+                        <topic>Kiefergelenk</topic>
+                        <topic>Kiefergelenkspaltvolumen</topic>
+                        <topic>Kiefergelenkspaltvolumenberechnung</topic>
+                        <topic>Adaptionspotential</topic>
+                        <topic>Pneumatisationsqualität</topic>
+                        <topic>Fossa mandibularis</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44539536197</identifier>
+                    <identifier type="sys">HT015678496</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_db3bcaa5-890b-419b-896c-83940f225efa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_db3bcaa5-890b-419b-896c-83940f225efa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/db3bcaa5-890b-419b-896c-83940f225efa/diss_foecking.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_db3bcaa5-890b-419b-896c-83940f225efa" DMDID="DMD_db3bcaa5-890b-419b-896c-83940f225efa">
+            <mets:fptr FILEID="FILE_db3bcaa5-890b-419b-896c-83940f225efa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

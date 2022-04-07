@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e9077a86-37a4-4d44-9914-8a5fa2431d0f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dispersive effects in quantum kinetic equations</title>
+                        <subTitle>The Wigner-Poisson-Fokker-Planck system</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129530182">
+                        <displayForm>Dhamo, Elidon</displayForm>
+                        <namePart type="given">Elidon</namePart>
+                        <namePart type="family">Dhamo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Arnold, Anton</displayForm>
+                        <namePart type="given">Anton</namePart>
+                        <namePart type="family">Arnold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-06-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-05-29</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Durch seine kinetische Beschreibung der Quantenmechanik hat der Wigner-Formalismus beträchtliche Aufmerksamkeit auf sich gezogen und die Bildung von anwendbaren Modellen für Simulationen von Halbleiterbauelementen, der Quanten-Brownschen Bewegung und der Quantenoptik ermöglicht. Diese Arbeit behandelt das Wigner-Poisson-Fokker-Planck (WPFP) System, eine kinetische Evolutionsgleichung eines offenen Quantensystems mit einem nicht linearen Hartree Potential. Es werden Existenz, Eindeutigkeit und Regularität einer zeitglobalen Lösung in 3D gezeigt. Das Ausschlaggebende dieser rein kinetischen Analysis ist die Verwendung der dispersiven Effekte des freien Transportes und der parabolischen Regularisierung, um die Wohldefiniertheit der Partikeldichte zu umgehen, was ein zentrales Problem in der quantenkinetischen Theorie ist. Zur numerischen Approximation des 1D-WPFP Systems mit periodischen Randbedingungen wird eine Zeitdiskretisierung mit einem Operator-Splitting Verfahren verwendet.</abstract>
+                    <abstract lang="eng">Providing a kinetic description of quantum mechanics the Wigner formalism has attracted considerable attention of physicists for constituting valuable models for simulations in semiconductor devices, for quantum Brownian motion and quantum optics. This work is concerned with the Wigner-Poisson-Fokker-Planck (WPFP) system, a kinetic evolution equation for an open quantum system with a non-linear Hartree potential. Existence, uniqueness and regularity of global-in-time solutions to the Cauchy problem in 3D are established. The crucial novel tool of this purely kinetic analysis is to exploit the dispersive effects of the free transport equation and the parabolic regularization to circumvent the lacking of definition of the particle density, which is a central problem in the quantum kinetic context. Considering the 1D-WPFP system with periodic boundary conditions, a first-order approximation in time through an operator splitting method is studied and illustrated by numerical simulations.</abstract>
+                    <subject lang="ger">
+                        <topic>Offene Quantensysteme</topic>
+                        <topic>Wigner-Funktion</topic>
+                        <topic>Poisson-Potential</topic>
+                        <topic>dissipativer Quanten-Fokker-Planck-Operator</topic>
+                        <topic>dispersive Regularisierung</topic>
+                        <topic>Operator-Splitting</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22639571700</identifier>
+                    <identifier type="sys">HT014759567</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e9077a86-37a4-4d44-9914-8a5fa2431d0f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e9077a86-37a4-4d44-9914-8a5fa2431d0f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e9077a86-37a4-4d44-9914-8a5fa2431d0f/diss_dhamo.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e9077a86-37a4-4d44-9914-8a5fa2431d0f" DMDID="DMD_e9077a86-37a4-4d44-9914-8a5fa2431d0f">
+            <mets:fptr FILEID="FILE_e9077a86-37a4-4d44-9914-8a5fa2431d0f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

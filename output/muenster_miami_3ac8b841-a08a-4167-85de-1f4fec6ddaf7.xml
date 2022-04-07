@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3ac8b841-a08a-4167-85de-1f4fec6ddaf7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dynamik gekoppelter Microchip-Laser</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/128606762">
+                        <displayForm>Forsmann, Bernd</displayForm>
+                        <namePart type="given">Bernd</namePart>
+                        <namePart type="family">Forsmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172235391">
+                        <displayForm>Lange, Wulfhard</displayForm>
+                        <namePart type="given">Wulfhard</namePart>
+                        <namePart type="family">Lange</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
+                        <dateIssued encoding="w3cdtf">2003-12-15</dateIssued>
+                        <dateOther encoding="w3cdtf">2003-12-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wurde eine Intensitätsinstabilität in einem System zweier räumlich transversal gekoppelter neodymdotierter Yttrium-Orthovanadat(Nd:YVO4)-Microchip-Laser untersucht. Der einzelne, ungekoppelte Laser ist als einmodiger Klasse-B-Laser beschreibbar und zeigt nur transiente Dynamik in Form von Relaxationsschwingungen bei Störungen. In Abhängigkeit von den Systemparametern der Kopplungsstärke, die durch den lateralen Abstand der beiden Laser bestimmt wird, und der Differenz der optischen Laser-Schwingungsfrequenzen lassen sich verschiedene Formen von Oszillationen in den Laserintensitäten beobachten. Dazu gehören u.a. synchrone Pulse, Übermodulationen und irreguläres Pulsverhalten. Typische Phänomene der nichtlinearen Dynamik, wie Periodenverdopplung bzw. -vervielfachungen konnten gezeigt werden. Aufgrund der ausgewählten Präparation der Laser, existiert eine Austauschsymmetrie zwischen den beiden Lasern. Es ließen sich erstmals experimentell Formen der Instabilität finden, die diese Symmetrie brechen (&apos;Lokalisierte Oszillationen&apos;).</abstract>
+                    <subject lang="ger">
+                        <topic>gekoppelte Laser</topic>
+                        <topic>Laserdynamik</topic>
+                        <topic>lokalisierte Oszillationen</topic>
+                        <topic>Microchip-Laser</topic>
+                        <topic>Laserinstabilität</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659527395</identifier>
+                    <identifier type="sys">HT013926513</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3ac8b841-a08a-4167-85de-1f4fec6ddaf7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3ac8b841-a08a-4167-85de-1f4fec6ddaf7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3ac8b841-a08a-4167-85de-1f4fec6ddaf7/Forsmann_Bernd_Diss.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3ac8b841-a08a-4167-85de-1f4fec6ddaf7" DMDID="DMD_3ac8b841-a08a-4167-85de-1f4fec6ddaf7">
+            <mets:fptr FILEID="FILE_3ac8b841-a08a-4167-85de-1f4fec6ddaf7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

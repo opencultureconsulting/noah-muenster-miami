@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0334b2eb-0cd8-48dc-972c-3023e36264a1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fortsetzung von Familien Fuchs&apos;scher Differenzialgleichungen bei Kompaktifizierungen ihrer Parameterräume</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130026468">
+                        <displayForm>Hille, Björn</displayForm>
+                        <namePart type="given">Björn</namePart>
+                        <namePart type="family">Hille</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1183169620">
+                        <displayForm>Hamm, Helmut A.</displayForm>
+                        <namePart type="given">Helmut A.</namePart>
+                        <namePart type="family">Hamm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-05-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-04-27</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Ziel dieser Arbeit ist es, den Parameterraum einer gegebenen Familie Fuchs&apos;scher Differenzialgleichungen zu kompaktifizieren und die Familie fortzusetzen. Hierzu wird der Parameterraum formal erweitert, indem der Familie ein Graph in einem affinen Raum zugeordnet und im kartesischen Produkt zweier gewichtet-projektiver Räume abgeschlossen wird. Durch Projektion dieser bi-quasi-homogenen Varietät lassen sich die über dem unendlich fernen Teil des Parameterraums entstehenden Differenzialgleichungen ermitteln. Ein wesentliches Hilfsmittel bei der Berechnung sind Gröbner-Basen von Idealen. Unter anderem wird gezeigt, wie mit Hilfe solcher Gröbner-Basen Ideale bi-quasi-homogenisiert werden können. Unter Einsatz des Computer-Algebra-Programms &quot;Singular&quot; wird das beschriebene Verfahren exemplarisch auf die (transformierte) hypergeometrische Differenzialgleichung sowie auf die volle Familie Fuchs&apos;scher Differenzialgleichungen zweiter Ordnung mit zwei endlichen Singularitäten angewendet.</abstract>
+                    <subject lang="ger">
+                        <topic>gewöhnliche Differentialgleichungen mit Parametern</topic>
+                        <topic>Fuchs&apos;sche Differentialgleichungen</topic>
+                        <topic>Gröbner-Basen</topic>
+                        <topic>konfluente hypergeometrische Differentialgleichung</topic>
+                        <topic>Kompaktifizierung</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-46619461888</identifier>
+                    <identifier type="sys">HT014464905</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0334b2eb-0cd8-48dc-972c-3023e36264a1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0334b2eb-0cd8-48dc-972c-3023e36264a1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0334b2eb-0cd8-48dc-972c-3023e36264a1/dis_hille.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0334b2eb-0cd8-48dc-972c-3023e36264a1" DMDID="DMD_0334b2eb-0cd8-48dc-972c-3023e36264a1">
+            <mets:fptr FILEID="FILE_0334b2eb-0cd8-48dc-972c-3023e36264a1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_265b8283-850a-44a8-845d-f902ff1ca0fa">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Thinning Operators and Pi 4 -Reflection</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/135645867">
+                        <displayForm>Duchhardt, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Duchhardt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1089378688">
+                        <displayForm>Pohlers, Wolfram</displayForm>
+                        <namePart type="given">Wolfram</namePart>
+                        <namePart type="family">Pohlers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-05-06</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-04-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Erweitert man das Axiomensystem der Kripke-Platek-Mengenlehre um ein Reflexionsschema für \Pi_4-Formeln, so erhält man das System der \Pi_4-Reflexion. Einen anschaulichen beweistheoretischen Zugang zu diesem bietet die Technik der Ausdünnhierarchien. Diese basiert auf der transfiniten Iteration von Ausdünnoperatoren, welche durch Verkleinern von Klassen von Modellkandidaten gewährleisten, daß im Kollabierungsverfahren Reflexionsregeln eliminiert werden können. Durch Untersuchung von speziellen Herleitungen läßt sich mit diesem Ansatz eine Ordinalzahlanalyse durchführen.</abstract>
+                    <subject lang="ger">
+                        <topic>Mathematische Logik</topic>
+                        <topic>Beweistheorie</topic>
+                        <topic>Ordinalzahlanalyse</topic>
+                        <topic>Kripke-Platek-Mengenlehre</topic>
+                        <topic>Reflexionsschema</topic>
+                        <topic>Schnittelimination</topic>
+                        <topic>imprädikativ</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-25539471621</identifier>
+                    <identifier type="sys">HT015592434</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_265b8283-850a-44a8-845d-f902ff1ca0fa</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_265b8283-850a-44a8-845d-f902ff1ca0fa_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/265b8283-850a-44a8-845d-f902ff1ca0fa/diss_duchhardt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_265b8283-850a-44a8-845d-f902ff1ca0fa" DMDID="DMD_265b8283-850a-44a8-845d-f902ff1ca0fa">
+            <mets:fptr FILEID="FILE_265b8283-850a-44a8-845d-f902ff1ca0fa_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0bea04ca-6861-4c19-a402-f0f96fe2be08">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Planbarkeit des Bildungswesens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böttcher, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Böttcher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1990</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-04-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-04-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Klemm, Klaus (Hrsg.): Bildungsgesamtplan ´90. Weinheim : Juventa-Verl., 1990, S. 21-34</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-37329467525</identifier>
+                    <identifier type="isbn">3-7799-0813-1</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0bea04ca-6861-4c19-a402-f0f96fe2be08</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0bea04ca-6861-4c19-a402-f0f96fe2be08_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0bea04ca-6861-4c19-a402-f0f96fe2be08/1990_boett_planb.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0bea04ca-6861-4c19-a402-f0f96fe2be08" DMDID="DMD_0bea04ca-6861-4c19-a402-f0f96fe2be08">
+            <mets:fptr FILEID="FILE_0bea04ca-6861-4c19-a402-f0f96fe2be08_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

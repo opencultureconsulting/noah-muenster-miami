@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a7fbc9ae-93d5-43a2-9811-5e63baa52c4e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>RNA interference (RNAi) as a tool for testing the role of heat shock protein 90 (HSP90) as an evolutionary capacitor in the model insect Tribolium castaneum (Coleoptera: Tenebrionidae)</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1171265948">
+                        <displayForm>Aboelsoud, Rasha Samy Elsayed</displayForm>
+                        <namePart type="given">Rasha Samy Elsayed</namePart>
+                        <namePart type="family">Aboelsoud</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/113880758">
+                        <displayForm>Kurtz, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Kurtz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-11-13</dateIssued>
+                        <dateOther encoding="w3cdtf">2018-09-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The molecular chaperone heat shock protein 90 (HSP90) mediates the storage and release of such cryptic genetic variation and was thus described as an evolutionary capacitor. However, the fitness benefits of HSP90-regulated phenotypes and also the mechanism by which these are produced are still under debate. Here, we show that experimentally impairing HSP90 by two independent methods, RNA interference and chemical inhibition, revealed the same reduced-eye phenotype in the important model insect Tribolium castaneum. This phenotype was persistent over successive generations, even without further HSP90 inhibition. Penetrance and fitness of this trait increased under ambient light stress. Moreover, our initial investigation of potential mechanisms suggests that HSP90 might regulate trait expression via an epigenetic process (histone acetylation), while transposon activity, which has been suggested as an alternative mechanism, does not seem to play a role in our case.</abstract>
+                    <subject lang="eng">
+                        <topic>HSP90</topic>
+                        <topic>Evolution</topic>
+                        <topic>capacitor</topic>
+                        <topic>Adaptation</topic>
+                        <topic>Fitness</topic>
+                        <topic>Tribolium castaneum</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-36189503926</identifier>
+                    <identifier type="sys">HT019869374</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a7fbc9ae-93d5-43a2-9811-5e63baa52c4e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a7fbc9ae-93d5-43a2-9811-5e63baa52c4e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a7fbc9ae-93d5-43a2-9811-5e63baa52c4e/diss_aboelsoud.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a7fbc9ae-93d5-43a2-9811-5e63baa52c4e" DMDID="DMD_a7fbc9ae-93d5-43a2-9811-5e63baa52c4e">
+            <mets:fptr FILEID="FILE_a7fbc9ae-93d5-43a2-9811-5e63baa52c4e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

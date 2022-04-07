@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_65871d2e-820f-43c0-9853-006ed213cdb5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>EKG-Veränderungen bei Patienten mit Brugada-Syndrom</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1021419737">
+                        <displayForm>Pech, Eva Maria</displayForm>
+                        <namePart type="given">Eva Maria</namePart>
+                        <namePart type="family">Pech</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120248107">
+                        <displayForm>Schulze-Bahr, Eric</displayForm>
+                        <namePart type="given">Eric</namePart>
+                        <namePart type="family">Schulze-Bahr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120248107">
+                        <displayForm>Bahr, Eric Schulze-</displayForm>
+                        <namePart type="given">Eric Schulze-</namePart>
+                        <namePart type="family">Bahr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-04-03</dateIssued>
+                        <dateOther encoding="w3cdtf">2012-03-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Brugada-Syndrom ist eine angeborene, arrhythmogene Ionenkanal-Erkrankung, die durch spezifische EKG-Veränderungen charakterisiert ist und mit einem erhöhten Risiko für den plötzlichen Herztod durch Kammerflimmern einhergeht. In der vorliegenden Arbeit wurden 12-Kanal-EKGs von insgesamt 78 Patienten mit Brugada-Syndrom computer-gestützt vermessen. Pro Patient wurden 52 EKG-Parameter erhoben und weitere 39 berechnet. Schwerpunkte in der Analyse der EKG-Veränderungen lagen in der Ermittlung von Genotyp-Phänotyp-Beziehungen sowie in der Verwendbarkeit nicht-invasiver (EKG-)Parameter zur Risikostratifizierung. Insbesondere stand auch die QT-Zeit im Mittelpunkt des Interesses, da Fälle mit einem phänotypischen Overlap von Brugada- und Short-QT-Syndrom beschrieben wurden. Patienten mit einer Anamnese für lebensbedrohliche Arrhythmien wiesen ein signifikant längeres Tpeak-Tend-Intervall (p = 0,017) und einen signifikant längeren Tpeak-Tend/QT-Quotienten (p = 0,018) in Ableitung V1 auf.</abstract>
+                    <subject lang="ger">
+                        <topic>Brugada-Syndrom</topic>
+                        <topic>nicht-invasive Risikostratifizierung</topic>
+                        <topic>Tpeak-Tend-Intervall</topic>
+                        <topic>Tpeak-Tend/QT-Quotient</topic>
+                        <topic>EKG-Parameter-Analyse</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-11409371290</identifier>
+                    <identifier type="sys">HT017194019</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_65871d2e-820f-43c0-9853-006ed213cdb5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_65871d2e-820f-43c0-9853-006ed213cdb5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/65871d2e-820f-43c0-9853-006ed213cdb5/diss_pech.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_65871d2e-820f-43c0-9853-006ed213cdb5" DMDID="DMD_65871d2e-820f-43c0-9853-006ed213cdb5">
+            <mets:fptr FILEID="FILE_65871d2e-820f-43c0-9853-006ed213cdb5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

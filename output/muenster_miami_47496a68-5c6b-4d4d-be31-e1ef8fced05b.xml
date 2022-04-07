@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_47496a68-5c6b-4d4d-be31-e1ef8fced05b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Für Beruf und Erbauung: Bücher aus dem Besitz der Familie</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172073197">
+                        <displayForm>Feldmann, Reinhard</displayForm>
+                        <namePart type="given">Reinhard</namePart>
+                        <namePart type="family">Feldmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2005-06-16</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-06-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Erschienen in: Baumeier, Stefan (Hrsg.): Goldene Zeiten. (Schriften des Westfälischen Freilichtmuseums Detmold - Landesmuseum für Volkskunde; 20). Essen 2001, S. 154-161, 361</note>
+                    <identifier type="urn">urn:nbn:de:hbz:6-85659520304</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_47496a68-5c6b-4d4d-be31-e1ef8fced05b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_47496a68-5c6b-4d4d-be31-e1ef8fced05b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/47496a68-5c6b-4d4d-be31-e1ef8fced05b/feldmann_2001-beruf.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_47496a68-5c6b-4d4d-be31-e1ef8fced05b" DMDID="DMD_47496a68-5c6b-4d4d-be31-e1ef8fced05b">
+            <mets:fptr FILEID="FILE_47496a68-5c6b-4d4d-be31-e1ef8fced05b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

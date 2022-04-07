@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f08da16f-733c-4295-b920-7eb313c8e33f">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Geospatial Metadata for Discovery in Scholarly Publishing</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Niers, Tom</displayForm>
+                        <namePart type="given">Tom</namePart>
+                        <namePart type="family">Niers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-12-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2020-10-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Many scientific articles are related to specific regions of the Earth. The connection is often implicit, although geospatial metadata has been shown to have positive effects, such as detecting biases in research coverage or enhancing discovery of research. Scholarly communication platforms lack an explicit modeling of geospatial metadata. In this work, we report a novel approach to integrate well-defined geospatial metadata into Open Journal Systems (OJS). Authors can create complex geometries to represent the related location(s) or region(s) for their submission and define the relevant time period. They are assisted by an interactive map and a gazetteer to capture high quality coordinates as well as a matching textual description with high usability. The geospatial metadata is published within the article pages using semantic tags, integrated in standardized publication metadata, and shown on maps. Thereby, the geoOJS plugin facilitates indexing by search engines, can improve accessibility, and provides a foundation for more powerful map-based discovery of research articles across journals.</abstract>
+                    <abstract lang="ger">Eine Vielzahl von wissenschaftlichen Artikeln bezieht sich auf bestimmte Regionen der Erde. Die Verbindung ist oftmals implizit, obwohl raum-zeitliche Metadaten erwiesenermaßen positive Auswirkungen haben, wie z.B. das Aufdecken von Verzerrungen in der Forschungslandschaft, oder die Verbesserung der Suche nach Forschungsarbeiten. Wissenschaftlichen Kommunikationsplattformen fehlt eine explizite Modellerierung von raum-zeitlichen Metadaten. In dieser Arbeit, berichten wir über einen neuartigen Ansatz zur Integration wohldefinierter raum-zeitlicher Metadaten in Open Journal Systems (OJS). Autoren haben die Möglichkeit, komplexe geometrische Formen zu erstellen, um den/die entsprechenden Ort(e) oder Region(en) für ihre Einreichung darzustellen und den relevanten Zeitraum zu definieren. Sie werden durch eine interaktive Karte und einen Gazetteer unterstützt, um Koordinaten von hoher Qualität sowie eine passende textliche Beschreibung von hoher Nutzbarkeit zu erfassen. Die räum-zeitlichen Metadaten werden innerhalb der Artikelseite mittels semantischer Tags veröffentlicht, standarisiert in die Publikations Metadaten integriert und auf einer Karte dargestellt. Auf diese Weise erleichtert das geoOJS Plugin Indizierung durch Suchmaschienen, kann die Zugänglichkeit verbessern und bietet die Grundlage für eine leistungsfähigere kartenbasierte Suche nach wissenschaftlichen Artikeln Zeitschrift übergreifend.</abstract>
+                    <subject lang="ger">
+                        <topic>Barrierefreiheit</topic>
+                        <topic>wissenschaftliches Publizieren</topic>
+                        <topic>raum-zeitliche Daten</topic>
+                        <topic>OJS</topic>
+                        <topic>Metadaten</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>accessibility</topic>
+                        <topic>scholarly publishing</topic>
+                        <topic>discovery</topic>
+                        <topic>geospatial</topic>
+                        <topic>OJS</topic>
+                        <topic>metadata</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">020</classification>
+                    <classification authority="ddc">500</classification>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-69029469735</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f08da16f-733c-4295-b920-7eb313c8e33f</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f08da16f-733c-4295-b920-7eb313c8e33f_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f08da16f-733c-4295-b920-7eb313c8e33f/bachelor_niers_2020.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f08da16f-733c-4295-b920-7eb313c8e33f" DMDID="DMD_f08da16f-733c-4295-b920-7eb313c8e33f">
+            <mets:fptr FILEID="FILE_f08da16f-733c-4295-b920-7eb313c8e33f_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

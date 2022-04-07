@@ -1,0 +1,202 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:1d014452-c751-4180-83b3-f6a4fb41d0e1" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:43:53">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_1d014452-c751-4180-83b3-f6a4fb41d0e1">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Online surface reconstruction from unorganized point clouds with integrated texture mapping</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1079798595">
+                    <mods:namePart type="given">Thomas</mods:namePart>
+                    <mods:namePart type="family">Vierjahn</mods:namePart>
+                    <mods:namePart type="date">1981-</mods:namePart>
+                    <mods:displayForm>Vierjahn, Thomas</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Klaus H.</mods:namePart>
+                    <mods:namePart type="family">Hinrichs</mods:namePart>
+                    <mods:displayForm>Hinrichs, Klaus H.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>doctoralThesis</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2015</mods:dateIssued>
+                    <mods:dateOther>2015-11-11</mods:dateOther>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2015-12-07</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-12-07</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Surface-reconstructing growing neural gas (Sgng) konstruiert iterativ aus Sample-Punkten von einer Objektoberfläche ein Dreiecksnetz, das diese Oberfläche repräsentiert: Zunächst wird eine Approximation erstellt, die nach und nach verfeinert wird. Sgng berücksichtigt dabei jegliche Änderungen an den Eingabedaten während der Ausführung. Wenn geeignete Bilder vorliegen, weist Sgng diese automatisch den Dreiecken als Texturen zu. Dabei wird die Anzahl der wahrnehmbaren Verdeckungsfehler auf ein Minimum reduziert, indem Sgng Sichtbarkeitsinformationen aus den Eingabedaten lernt. Sgng basiert auf einer Familie eng verwandter neuronaler Netze, die mittels Pseudocode und Beispielen detailliert vorgestellt werden. Sgng wird anhand von Erkenntnissen aus einer genauen Analyse früherer Ansätze hergeleitet. Die Ergebnisse ausgiebiger Evaluationen legen nahe, dass Sgng signifikant bessere Ergebnisse liefert als frühere Ansätze und es sich mit State-of-the-Art-Verfahren messen kann.</mods:abstract>
+                  <mods:abstract lang="eng">Surface-reconstructing growing neural gas (sgng) takes a set of sample points lying on an object’s surface as an input and iteratively constructs a triangle mesh representing the original object’s surface. It starts with an initial approximation that gets continuously refined. At any time, sgng instantly incorporates any modifications of the input data into the reconstruction. If registered images are available, sgng assigns suitable textures to the constructed triangles. The number of noticeable occlusion artifacts is reduced to a minimum by learning visibility from the input data. Sgng is based on a family of closely related artificial neural networks that are presented in detail and illustrated by pseudocode and examples. Sgng is derived according to a careful analysis of these prior approaches. Results of an extensive evaluation indicate that sgng improves significantly upon its predecessors and that it can compete with other state-of-the-art reconstruction algorithms</mods:abstract>
+                  <mods:tableOfContents lang="eng">Preface 1&#13;
+1 Introduction 3&#13;
+1.1 Motivation 3&#13;
+1.2 How to Read This Dissertation 5&#13;
+1.3 Related Work 9&#13;
+1.4 Scientific Publications 18&#13;
+2 Fundamental artificial neural networks 19&#13;
+2.1 History and Taxonomy 19&#13;
+2.2 The Basic Reconstruction Algorithm 21&#13;
+2.3 Self-Organizing Map 22&#13;
+2.4 Neural Gas with Subsequent Chl 28&#13;
+2.5 Topology Representing Network 35&#13;
+2.6 Growing Cell Structures 37&#13;
+2.7 Growing Neural Gas 46&#13;
+2.8 Growing Self-Reconstruction Map 51&#13;
+3 GCS learn progressive meshes 59&#13;
+3.1 Progressive Meshes 59&#13;
+3.2 Problem Statement 64&#13;
+3.3 An Intuitive Approach 64&#13;
+3.4 Split Tree 66&#13;
+3.5 The Optimized Approach 66&#13;
+3.6 Simulated Reversal 69&#13;
+3.7 Implicit Bounding Volume Hierarchy 71&#13;
+3.8 Results 74&#13;
+3.9 Discussion 77&#13;
+4 Surface-reconstructing growing neural gas 79&#13;
+4.1 Analysis of Prior Art 79&#13;
+4.2 Requirements and Features 87&#13;
+4.3 The Sgng Reconstruction Algorithm 89&#13;
+4.3.1 Boundary Fitting 90&#13;
+4.3.2 Topology: Create Edges, Triangles 91&#13;
+4.3.3 Topology: Delete Edges, Triangles 94&#13;
+4.3.4 Density: Add, Delete Vertices 96&#13;
+4.4 Examples for Sgng Learning 98&#13;
+4.5 Implementation Details 99&#13;
+4.6 Experiments and Results 104&#13;
+4.7 Discussion 127&#13;
+5 Learning the texture assignment 133&#13;
+5.1 Problem Statement 133&#13;
+5.2 Learning Vertex Colors and Texture Coordinates 135&#13;
+5.3 Assigning Suitable Textures 137&#13;
+5.4 Results 139&#13;
+5.5 Discussion 149&#13;
+6 Conclusion and future work 151</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="ger">Geometrische Algorithmen; Oberflächenrekonstruktion; Shading und Textur; Neuronale Netze; Machinelles Lernen</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">geometric algorithms; surface fitting; shading and texture; neural nets; machine learning</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:classification authority="ddc">510</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-77259613790</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/1d014452-c751-4180-83b3-f6a4fb41d0e1</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:1d014452-c751-4180-83b3-f6a4fb41d0e1</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_1d014452-c751-4180-83b3-f6a4fb41d0e1">
+            <mets:rightsMD ID="RIGHTSMD_1d014452-c751-4180-83b3-f6a4fb41d0e1">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_1d014452-c751-4180-83b3-f6a4fb41d0e1">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/1d014452-c751-4180-83b3-f6a4fb41d0e1</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="dd73b1346f55fddfbdd3a4f468c69effdfef92247ca7b276070d587ebaf87ab1" CREATED="2015-12-07T10:43:40" CHECKSUMTYPE="SHA-256" SIZE="10025944" ID="ID_FIL_diss_vierjahn.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1d014452-c751-4180-83b3-f6a4fb41d0e1/diss_vierjahn.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW1d014452-c751-4180-83b3-f6a4fb41d0e1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/1d014452-c751-4180-83b3-f6a4fb41d0e1" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_1d014452-c751-4180-83b3-f6a4fb41d0e1" TYPE="physSequence">
+              <mets:div ID="ID_PHY_diss_vierjahn.pdf">
+                <mets:fptr FILEID="ID_FIL_diss_vierjahn.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_1d014452-c751-4180-83b3-f6a4fb41d0e1" DMDID="DMD_1d014452-c751-4180-83b3-f6a4fb41d0e1" ID="ID_LOG_1d014452-c751-4180-83b3-f6a4fb41d0e1" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_diss_vierjahn.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_1d014452-c751-4180-83b3-f6a4fb41d0e1" xlink:to="ID_PHY_1d014452-c751-4180-83b3-f6a4fb41d0e1"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_diss_vierjahn.pdf" xlink:to="ID_PHY_diss_vierjahn.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_25835d43-a2c0-43d2-bdfb-10f10c89bde7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vergleich der allgemeinen Klassifikationssysteme Apache II und SAPS zur prognostischen Beurteilung von Patienten mit Sepsis oder akutem Nierenversagen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/12973523X">
+                        <displayForm>Brockmann, Hans-Heinrich</displayForm>
+                        <namePart type="given">Hans-Heinrich</namePart>
+                        <namePart type="family">Brockmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133948978">
+                        <displayForm>Berendes, Elmar</displayForm>
+                        <namePart type="given">Elmar</namePart>
+                        <namePart type="family">Berendes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133948978">
+                        <displayForm>Berendes, E.</displayForm>
+                        <namePart type="given">E.</namePart>
+                        <namePart type="family">Berendes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-01-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-04-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Sepsis und Akutes Nierenversagen sind Komplikationen in der Therapie von Intensivpatienten, Schweregradklassifikationssysteme wie SAPS und APACHE II dienen der Beschreibung des klinischen Zustandes eines Patienten mittels einer Punktsumme und erlauben prognostische Aussagen. Lässt sich ein rating der Scores festlegen? 16 Sepsispatienten sowie 28 Patienten im Nierenversagen wurden anhand der Scores untersucht, eine Klassifizierung vorgenommen und Receiver Operating Characteristic Curves verglichen. Es besteht ein Zusammenhang zwischen steigender Punktsumme und steigender Mortalität, anhand der ROC-Kurve ist bezüglich Vorhersagegenauigkeit in der Gruppe der Patienten mit ANV der SAPS mit 58.9% dem APACHE II mit 57.05% überlegen, in der Gruppe der Sepsispatienten rangiert der SAPS mit 44.76% vor dem APACHE II mit 43.24%. Der SAPS ist das in der Anwendung vorzuziehende Schweregradklassifikationssystem.</abstract>
+                    <subject lang="ger">
+                        <topic>APACHE II</topic>
+                        <topic>SAPS</topic>
+                        <topic>Sepsis</topic>
+                        <topic>akutes Nierenversagen</topic>
+                        <topic>ROC-Kurve</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17639453997</identifier>
+                    <identifier type="sys">HT014316552</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_25835d43-a2c0-43d2-bdfb-10f10c89bde7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_25835d43-a2c0-43d2-bdfb-10f10c89bde7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/25835d43-a2c0-43d2-bdfb-10f10c89bde7/brockmann_diss.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_25835d43-a2c0-43d2-bdfb-10f10c89bde7" DMDID="DMD_25835d43-a2c0-43d2-bdfb-10f10c89bde7">
+            <mets:fptr FILEID="FILE_25835d43-a2c0-43d2-bdfb-10f10c89bde7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

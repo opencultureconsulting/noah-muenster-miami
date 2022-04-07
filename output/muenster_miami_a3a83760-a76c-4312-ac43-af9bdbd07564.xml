@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a3a83760-a76c-4312-ac43-af9bdbd07564">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selektive Kariesentfernung durch drehmomentbegrenztes Exkavieren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/132340577">
+                        <displayForm>Alhorn, Sören</displayForm>
+                        <namePart type="given">Sören</namePart>
+                        <namePart type="family">Alhorn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10806218X">
+                        <displayForm>Bollmann, Friedhelm</displayForm>
+                        <namePart type="given">Friedhelm</namePart>
+                        <namePart type="family">Bollmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-12-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2006-11-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Aufgabe der Arbeit war es, ein Verfahren zur selektiven Kariesentfernung in vitro zu entwickeln und mit anderen Methoden zu vergleichen. Durch das Einstellen von verschiedenen Drehmomenten/Antriebskräften an einem Winkelstück bei der Kariesentfernung sollte ein Bereich herausgefunden werden, an dem der Bohrer bei Übergang von kariöser zu gesunder Zahnhartsubstanz anhält. Für fünf Bohrergrößen wurden an Kunststoffplatten und Dentin extrahierter Zähne Anhaltedrehmomente ermittelt sowie Dentinhärten gemessen. Als Ergebnis der Versuche fand sich eine korrelierende Zunahme der ermittelten Anhaltedrehmomentbereiche bei zunehmender Bohrergröße. Die Ausgleichsgerade der Meßwerte ermöglicht das Ablesen von Anhaltedrehmomenten weiterer Bohrergrößen. Die Anwendung der Anhaltedrehmomente mit Bohrergrößen 014/018/023 zeigte, daß mittlere Bohrergrößen am verwendeten Versuchsaufbau Ergebnisse mit der höchsten Reproduzierbarkeit liefern.</abstract>
+                    <subject lang="ger">
+                        <topic>Drehmoment</topic>
+                        <topic>Kariesentfernung</topic>
+                        <topic>Exkavieren</topic>
+                        <topic>Dentinhärte</topic>
+                        <topic>Bohrergröße</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-30659395803</identifier>
+                    <identifier type="sys">HT014935118</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a3a83760-a76c-4312-ac43-af9bdbd07564</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a3a83760-a76c-4312-ac43-af9bdbd07564_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a3a83760-a76c-4312-ac43-af9bdbd07564/diss_alhorn.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a3a83760-a76c-4312-ac43-af9bdbd07564" DMDID="DMD_a3a83760-a76c-4312-ac43-af9bdbd07564">
+            <mets:fptr FILEID="FILE_a3a83760-a76c-4312-ac43-af9bdbd07564_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

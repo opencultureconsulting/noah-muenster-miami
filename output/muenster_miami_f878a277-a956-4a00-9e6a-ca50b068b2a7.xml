@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_f878a277-a956-4a00-9e6a-ca50b068b2a7">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Oper und Fantastik</title>
+                        <subTitle>Überlegungen zum Operatic Imperative: Look at Me!</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118138197">
+                        <displayForm>Coelsch-Foisner, Sabine</displayForm>
+                        <namePart type="given">Sabine</namePart>
+                        <namePart type="family">Coelsch-Foisner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020</dateIssued>
+                        <dateIssued encoding="w3cdtf">2020-07-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In diesem Beitrag soll erklärt werden, warum es lohnt, sich der Oper aus dem Geist der Fantastik zu nähern. Anhand rezenter Opernproduktionen zeigt Coelsch-Foisner auf, wie fantastische Parameter zum Gattungsverständnis der Oper beitragen können und, umgekehrt, wie die Oper Modelle für die Fantastikforschung bieten kann. Das Erkenntnisinteresse richtet sich dabei auf Produktionen sowie auf die Art und Weise, in der sich das, was Coelsch-Foisner als »operatic imperative« bezeichnet, auf der Bühne ereignet, und unter welchen Voraussetzungen dies geschieht. Zu diesem Zweck werden Daten und Materialien aus Coelsch-Foisners Projekt »PLUS Kultur« an der Universität Salzburg analysiert, im Rahmen dessen sie seit mehr als einem Jahrzehnt anlässlich aktueller kultureller, vorwiegend theatraler Produktionen öffentliche Veranstaltungen unter dem Titel »Atelier Gespräche« abhält.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-51159636196</identifier>
+                    <identifier type="doi">10.17879/51159635908</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_f878a277-a956-4a00-9e6a-ca50b068b2a7</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_f878a277-a956-4a00-9e6a-ca50b068b2a7_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f878a277-a956-4a00-9e6a-ca50b068b2a7/textpraxis_2020_s4_coelsch-foisner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_f878a277-a956-4a00-9e6a-ca50b068b2a7" DMDID="DMD_f878a277-a956-4a00-9e6a-ca50b068b2a7">
+            <mets:fptr FILEID="FILE_f878a277-a956-4a00-9e6a-ca50b068b2a7_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

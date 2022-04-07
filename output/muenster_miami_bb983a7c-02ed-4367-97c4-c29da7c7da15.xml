@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_bb983a7c-02ed-4367-97c4-c29da7c7da15">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Deligne-Lusztig characters associated with Galois representations and their reductions mod p</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1074145968">
+                        <displayForm>Bornmann, Marten</displayForm>
+                        <namePart type="given">Marten</namePart>
+                        <namePart type="family">Bornmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1013768965">
+                        <displayForm>Schneider, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-07-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-07-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Sei p eine Primzahl und L eine endliche Erweiterung des Körpers der p-adischen Zahlen mit Restklassenkörper k. Jeder glatten n-dimensionalen irreduziblen Darstellung der absoluten Galoisgruppe von L über einem algebraischen Abschluss von k ordnen wir einen Deligne-Lusztig Charakter der Gruppe GL_n(k) über einem algebraischen Abschluss von L zu, welchen wir zu einer virtuellen Darstellung der Gruppe GL_n(k) über einem algebraischen Abschluss von k reduzieren. Aus dieser virtuellen Darstellung konstruieren wir einen virtuellen Modul über der pro-p Iwahori Hecke Algebra von GL_n(L). Im Falle k=F_p und n=2 erhalten wir so eine Bijektion zwischen den Isomorphieklassen der glatten irreduziblen 2-dimensionalen Galoisdarstellungen und den Isomorphieklassen von einfachen supersingulären 2-dimensionalen Moduln über der pro-p Iwahori Hecke Algebra von GL_n(L)</abstract>
+                    <subject lang="ger">
+                        <topic>Iwahori-Hecke-Algebra</topic>
+                        <topic>Galoisdarstellungen</topic>
+                        <topic>Deligne-Lusztig-Charaktere</topic>
+                        <topic>Langlands-Programm</topic>
+                        <topic>supersinguläre Moduln</topic>
+                        <topic>reduktive Gruppen</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-68299657910</identifier>
+                    <identifier type="sys">HT018704384</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_bb983a7c-02ed-4367-97c4-c29da7c7da15</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_bb983a7c-02ed-4367-97c4-c29da7c7da15_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/bb983a7c-02ed-4367-97c4-c29da7c7da15/diss_bornmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_bb983a7c-02ed-4367-97c4-c29da7c7da15" DMDID="DMD_bb983a7c-02ed-4367-97c4-c29da7c7da15">
+            <mets:fptr FILEID="FILE_bb983a7c-02ed-4367-97c4-c29da7c7da15_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

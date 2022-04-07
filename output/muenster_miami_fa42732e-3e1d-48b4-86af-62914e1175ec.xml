@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fa42732e-3e1d-48b4-86af-62914e1175ec">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Webanwendungsentwicklung mit XML-Techniken</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1052655637">
+                        <displayForm>Forster, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Forster</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, Gottfried</displayForm>
+                        <namePart type="given">Gottfried</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-07-31</dateIssued>
+                        <dateOther encoding="w3cdtf">2014-04-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Webanwendungen machen einen großen Teil der gegenwärtig entwickelten betrieblichen Software aus. Sie werden oft nach dem Schichtenmodell entwickelt, bei dem die einzelnen Schichten mit der isoliert betrachtet jeweils vorteilhaftesten Technik implementiert werden. Beim Datentransfer zwischen den Schichten entstehen durch inkompatible Datenmodelle Brüche, die durch zusätzliche Technik überbrückt werden müssen. Zur Vermeidung dieser Brüche beschreibt die Arbeit einen Softwareentwurf auf Basis von XML-Techniken, der beginnend mit XML-Netzen in Analyse- und Entwurfsphase eine Webanwendung implementiert, die XML-Datenbanken zur Datenhaltung verwendet, Geschäftslogik in XQuery realisiert und XForms zur Präsentation verwendet. Die Architektur wird anhand eines Anwendungsbeispiels entwickelt. Es wird eine domänenübergreifende Abstraktion der Softwarearchitektur vorgestellt und Hinweise auf weitere Anwendungsmöglichkeiten werden gegeben.</abstract>
+                    <subject lang="ger">
+                        <topic>XML</topic>
+                        <topic>Webanwendung</topic>
+                        <topic>Impedance Mismatch</topic>
+                        <topic>Single Source</topic>
+                        <topic>Softwarearchitektur</topic>
+                        <topic>Softwareentwicklung</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22369579741</identifier>
+                    <identifier type="sys">HT018332985</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fa42732e-3e1d-48b4-86af-62914e1175ec</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fa42732e-3e1d-48b4-86af-62914e1175ec_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fa42732e-3e1d-48b4-86af-62914e1175ec/diss_forster.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fa42732e-3e1d-48b4-86af-62914e1175ec" DMDID="DMD_fa42732e-3e1d-48b4-86af-62914e1175ec">
+            <mets:fptr FILEID="FILE_fa42732e-3e1d-48b4-86af-62914e1175ec_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

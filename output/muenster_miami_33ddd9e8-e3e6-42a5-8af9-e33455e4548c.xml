@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_33ddd9e8-e3e6-42a5-8af9-e33455e4548c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Annotating Predicate-Argument Structure for a Parallel Treebank</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cyrus, Lea</displayForm>
+                        <namePart type="given">Lea</namePart>
+                        <namePart type="family">Cyrus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Feddes, Hendrik</displayForm>
+                        <namePart type="given">Hendrik</namePart>
+                        <namePart type="family">Feddes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schumacher, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Schumacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-06-21</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-06-22</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We report on a recently initiated project which aims at building a multi-layered parallel treebank of English and German. Particular attention is devoted to a dedicated predicate-argument layer which is used for aligning translationally equivalent sentences of the two languages. We describe both our conceptual decisions and aspects of their technical realisation. We discuss some selected problems and conclude with a few remarks on how this project relates to similar projects in the ﬁeld.</abstract>
+                    <note type="citation/reference">Proc. LREC 2004 Workshop on Building Lexical Resources from Semantically Annotated Corpora. Lisbon, May 30 (2004), S. 39-46</note>
+                    <subject lang="ger">
+                        <topic>Korpuslinguistik</topic>
+                        <topic>Computerlinguistik</topic>
+                        <topic>syntaktische Annotation</topic>
+                        <topic>semantische Annotation</topic>
+                    </subject>
+                    <classification authority="ddc">400</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-92619510902</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_33ddd9e8-e3e6-42a5-8af9-e33455e4548c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_33ddd9e8-e3e6-42a5-8af9-e33455e4548c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/33ddd9e8-e3e6-42a5-8af9-e33455e4548c/0405_lrec.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_33ddd9e8-e3e6-42a5-8af9-e33455e4548c" DMDID="DMD_33ddd9e8-e3e6-42a5-8af9-e33455e4548c">
+            <mets:fptr FILEID="FILE_33ddd9e8-e3e6-42a5-8af9-e33455e4548c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

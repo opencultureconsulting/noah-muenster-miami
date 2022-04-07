@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8446ec89-34de-44f6-973d-5eebd7469c73">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Recent trends in policing in Europe</title>
+                        <subTitle>reports from Denmark, the Netherlands and the UK</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kohl, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Kohl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-09</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-09-11</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2012-09-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">This paper is part of the research project &quot;Cooperative security policy inthe city&quot; (KoSiPol) financed by the Federal Ministry of Education and Research (BMBF) in Germany, which has been carried out from 2010 to 2012. Within this project the different partners have – from a social sciences perspective - looked at multiagency policing concepts in selected fields of local security and tried to identify the conditions under which cooperative work is successfull. Another aim was to improve the cooperation between the main public actors in this policy field – the local police forces, the local administration, social services, local business and other societal groups.</abstract>
+                    <subject lang="ger">
+                        <topic>KoSiPol</topic>
+                    </subject>
+                    <classification authority="ddc">320</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Kooperative Sicherheitspolitik in der Stadt</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Kooperative Sicherheitspolitik in der Stadt</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-09349520000</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8446ec89-34de-44f6-973d-5eebd7469c73</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8446ec89-34de-44f6-973d-5eebd7469c73_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8446ec89-34de-44f6-973d-5eebd7469c73/wp11_Kohl%28Ed.%29__2012.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8446ec89-34de-44f6-973d-5eebd7469c73" DMDID="DMD_8446ec89-34de-44f6-973d-5eebd7469c73">
+            <mets:fptr FILEID="FILE_8446ec89-34de-44f6-973d-5eebd7469c73_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

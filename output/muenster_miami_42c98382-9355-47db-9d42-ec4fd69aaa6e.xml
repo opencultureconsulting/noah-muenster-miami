@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_42c98382-9355-47db-9d42-ec4fd69aaa6e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anwendung moderner Methoden in der forensischen Molekulargenetik</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133883221">
+                        <displayForm>Hoppe, Karolin</displayForm>
+                        <namePart type="given">Karolin</namePart>
+                        <namePart type="family">Hoppe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112167985">
+                        <displayForm>Weber, Wolf-Michael</displayForm>
+                        <namePart type="given">Wolf-Michael</namePart>
+                        <namePart type="family">Weber</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-01-08</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-12-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Rahmen dieser Promotion wurden mehrere Projekte aus dem Bereich humaner autosomaler, Y-chromosomaler und mitochondrialer DNA-Marker bearbeitet. U.a. wurde eine Meiosenstudie für das bislang kaum eingesetzte autosomale short tandem repeat (STR) System D10S2325 in einer deutschen und kurdischen Population durchgeführt. Dieses Pentanukleotid-System erwies sich als nützlicher Marker für die Verwandtschaftsanalyse. Mittels der Sublocus-spezifischen Amplifikation konnte die Individualisierungseffizienz des Y-STR-Systems DYS385 gesteigert und ein Mutationsfall mit einer sehr seltenen 3-Schritt-Mutation aufgeklärt werden. Außerdem konnten zwei neuartige real-time PCR-Assays zur Quantifizierung von Zellkern und mitochondrialer DNA entwickelt werden. Diese Assays zeichnen sich durch eine duale Nutzung aus: sie erlauben neben der Quantifizierung eine direkt anschließende Genotypisierung mittels Amplikonlängenbestimmung bzw. direkter Sequenzierung.</abstract>
+                    <subject lang="ger">
+                        <topic>D10S2325</topic>
+                        <topic>DYS385</topic>
+                        <topic>Sublocus-spezifische Amplifikation</topic>
+                        <topic>3-Schritt-Mutation</topic>
+                        <topic>real-time PCR</topic>
+                        <topic>Quantifizierung</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-16559561521</identifier>
+                    <identifier type="sys">HT015465232</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_42c98382-9355-47db-9d42-ec4fd69aaa6e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_42c98382-9355-47db-9d42-ec4fd69aaa6e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/42c98382-9355-47db-9d42-ec4fd69aaa6e/diss_hoppe.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_42c98382-9355-47db-9d42-ec4fd69aaa6e" DMDID="DMD_42c98382-9355-47db-9d42-ec4fd69aaa6e">
+            <mets:fptr FILEID="FILE_42c98382-9355-47db-9d42-ec4fd69aaa6e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

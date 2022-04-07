@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3e121896-7c98-42a9-971e-6a9f3a409f5b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Josef Pieper</title>
+                        <subTitle>Lehrveranstaltungen an der Westfälischen Wilhelms-Universität Münster (WS 1946/47 – SS 1996); Lehrveranstaltungen an der Pädagogischen Akademie Essen (SS 1946 – WS 1971/72)</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2008-08-12</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-08-13</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausg.: Münster: Universitäts- und Landesbibliothek Münster, 2004</note>
+                    <subject lang="ger">
+                        <topic>Pieper</topic>
+                        <topic>Josef</topic>
+                        <topic>Lehrveranstaltungen Münster 1946-1996</topic>
+                        <topic>Lehrveranstaltungen Essen / Pädagogische Hochschule Ruhr 1946-1972</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44539578108</identifier>
+                    <identifier type="sys">HT019450378</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3e121896-7c98-42a9-971e-6a9f3a409f5b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3e121896-7c98-42a9-971e-6a9f3a409f5b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3e121896-7c98-42a9-971e-6a9f3a409f5b/pieper_lehrveranstaltungen_2004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3e121896-7c98-42a9-971e-6a9f3a409f5b" DMDID="DMD_3e121896-7c98-42a9-971e-6a9f3a409f5b">
+            <mets:fptr FILEID="FILE_3e121896-7c98-42a9-971e-6a9f3a409f5b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

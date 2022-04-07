@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ee5dff0f-661f-4f09-a70c-db6f8cf59092">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Workshop &quot;c3m-II&quot; cHL-hybrid, MIRO, MOVE &amp; MIAMI</title>
+                        <subTitle>Agenda</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stracke, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Stracke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-06-28</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-07-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2007-07-04</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Vortrag, gehalten auf dem 2. gemeinsamen Workshop cHL-hybrid, MIRO, MOVE, MIAMI (c3m II) am 28.06.2006 an der Westfälischen Wilhelms-Universität Münster</note>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-18549509508</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ee5dff0f-661f-4f09-a70c-db6f8cf59092</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ee5dff0f-661f-4f09-a70c-db6f8cf59092_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ee5dff0f-661f-4f09-a70c-db6f8cf59092/2006-06-28_Workshop_c3m-II_Agenda.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ee5dff0f-661f-4f09-a70c-db6f8cf59092" DMDID="DMD_ee5dff0f-661f-4f09-a70c-db6f8cf59092">
+            <mets:fptr FILEID="FILE_ee5dff0f-661f-4f09-a70c-db6f8cf59092_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

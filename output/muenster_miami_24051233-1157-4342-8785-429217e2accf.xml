@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_24051233-1157-4342-8785-429217e2accf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Populäre Vermittlungswege mittelhochdeutscher Texte</title>
+                        <subTitle>Kriemhild und das Nibelungenmuseum in Worms</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1034295950">
+                        <displayForm>Tomasek, Stefan</displayForm>
+                        <namePart type="given">Stefan</namePart>
+                        <namePart type="family">Tomasek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-11-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Am Beispiel des Nibelungenmuseums in Worms wird die museale Darstellung des Nibelungenlieds untersucht. Dem Artikel liegt die Beobachtung zugrunde, dass für das Wissen vom mittelhochdeutschen Text populäre Vermittlungsinstanzen wirksamer sind, als es die tatsächliche Textlektüre ist. These ist, dass im Wormser Museum eine Überschreibung des Nibelungenliedes als Text in einen dreidimensionalen Raum stattfindet. Relevant sind dabei das räumliches Arrangement von Exponaten, die didaktische Steuerung der Rezipient_innen und die Vermittlung von Textwissen. Diskutiert wird, welche Teile des Nibelungenlieds museal (wieder/neu) erzählt werden und wie sich das Verhältnis des neu erzählten Textes zur mittelalterlichen Textüberlieferung gestaltet, ferner wie und auf welchen Vermittlungsebenen der (neue) Text im Museum präsentiert wird.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-35139767043</identifier>
+                    <identifier type="doi">10.17879/35139765597</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_24051233-1157-4342-8785-429217e2accf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_24051233-1157-4342-8785-429217e2accf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/24051233-1157-4342-8785-429217e2accf/textpraxis_2019_16_tomasek.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_24051233-1157-4342-8785-429217e2accf" DMDID="DMD_24051233-1157-4342-8785-429217e2accf">
+            <mets:fptr FILEID="FILE_24051233-1157-4342-8785-429217e2accf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

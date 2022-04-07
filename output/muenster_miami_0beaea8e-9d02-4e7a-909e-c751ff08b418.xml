@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_0beaea8e-9d02-4e7a-909e-c751ff08b418">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Single-Nucleotide-Polymorphism-(SNP)-Analyse im Kerngenom der HUSEC-Kollektion</title>
+                        <subTitle>ein phylogenetisches Porträt</subTitle>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="alternative">
+                        <title>Single Nucleotide Polymorphism (SNP)-Analyse im Kerngenom der HUSEC-Kollektion</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1046198920">
+                        <displayForm>Meyer, Jodokus</displayForm>
+                        <namePart type="given">Jodokus</namePart>
+                        <namePart type="family">Meyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1046198920">
+                        <displayForm>Meyer, Gregor Jodokus</displayForm>
+                        <namePart type="given">Gregor Jodokus</namePart>
+                        <namePart type="family">Meyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173556833">
+                        <displayForm>Mellmann, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Mellmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014-01-10</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2013-11-20</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Es wurde die phylogenetische Entwicklung und genetische Struktur der 42 Stämme umfassenden HUSEC-Kollektion anhand von 90 Zielgenen aus dem Kerngenom von EHEC O157:H7/H- untersucht. Hierbei wurden Abschnitte mit einer Länge von 492-618 bp untersucht. Nur 70 konnten in allen Stämmen nachgewiesen werden. In diesen konnten an 3034 Positionen SNPs detektiert werden. Es wurden in allen Zielgenen Varianten detektiert, jedoch nirgends eine signifikant erhöhte Mutationsrate. Für die wichtigsten Serogruppen konnten spezifische Varianten nachgewiesen werden. Auf Basis der SNPs wurden Phylogramme erstellt und mit MLST und Serotypisierung verglichen. Mittels MLST können 30 unterschiedliche Sequenztypen bestimmt werden, der SNP-basierte Ansatz differenziert 5 weitere Stämme. So können phylogenetische Bäume mit höheren „bootstrap-consensus“-Werten korrigiert werden. Auch mit dem kleineren Ansatz der MLST wurde eine gute Abbildung der Verwandtschaftsverhältnisse erreicht.</abstract>
+                    <subject lang="ger">
+                        <topic>SNP</topic>
+                        <topic>HEC</topic>
+                        <topic>Phylogenie</topic>
+                        <topic>Husec-Kollektion</topic>
+                        <topic>Kerngenom</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44359461343</identifier>
+                    <identifier type="sys">HT018127013</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_0beaea8e-9d02-4e7a-909e-c751ff08b418</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_0beaea8e-9d02-4e7a-909e-c751ff08b418_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0beaea8e-9d02-4e7a-909e-c751ff08b418/diss_meyer_jodokus.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_0beaea8e-9d02-4e7a-909e-c751ff08b418" DMDID="DMD_0beaea8e-9d02-4e7a-909e-c751ff08b418">
+            <mets:fptr FILEID="FILE_0beaea8e-9d02-4e7a-909e-c751ff08b418_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

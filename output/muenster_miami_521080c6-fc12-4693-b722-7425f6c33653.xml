@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_521080c6-fc12-4693-b722-7425f6c33653">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung zur Hüftreifungsstörung bei Neugeborenen aus Beckenendlage</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133590305">
+                        <displayForm>Kelm, Marcus</displayForm>
+                        <namePart type="given">Marcus</namePart>
+                        <namePart type="family">Kelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Filler, Timm</displayForm>
+                        <namePart type="given">Timm</namePart>
+                        <namePart type="family">Filler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-10-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-09-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Beckenendlage erhöht das Risiko einer Hüftreifungsstörung. Dabei ist der Einfluss des Geschlechtes nicht so groß, wie bei Kindern aus Hinterhauptslage und die reine Steisslage ist nicht die einzige Beckenendlage, die mit einem erhöhten Risiko einhergeht. Bei vaginaler Entbindung erhöht sich das Risiko einer Hüftreifungsstörung nicht. Damit scheint ein Geburtstrauma keine Rolle zu spielen. Ebenso erhöht die räumliche Enge im Uterus bei Mehrlingsschwangerschaften und bei Erstgebärenden das Risiko nicht. Somit scheinen die knöchernen Strukturen, wie Beckenring und Wirbelsäule der Mutter, die Hüftreifung mehr zu beeinflussen, als die Weichteilstrukturen des Uterus.</abstract>
+                    <subject lang="ger">
+                        <topic>Hüftreifungsstörung</topic>
+                        <topic>Beckenendlage</topic>
+                        <topic>Entbindungsart</topic>
+                        <topic>Geburtenfolge</topic>
+                        <topic>Mehrlingsschwangerschaft</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77529472003</identifier>
+                    <identifier type="sys">HT015354491</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_521080c6-fc12-4693-b722-7425f6c33653</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_521080c6-fc12-4693-b722-7425f6c33653_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/521080c6-fc12-4693-b722-7425f6c33653/diss_kelm.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_521080c6-fc12-4693-b722-7425f6c33653" DMDID="DMD_521080c6-fc12-4693-b722-7425f6c33653">
+            <mets:fptr FILEID="FILE_521080c6-fc12-4693-b722-7425f6c33653_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

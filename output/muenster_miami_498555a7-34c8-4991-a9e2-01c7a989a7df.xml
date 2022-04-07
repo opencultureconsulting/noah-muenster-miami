@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_498555a7-34c8-4991-a9e2-01c7a989a7df">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Lock sensitive analysis of parallel programs</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173888577">
+                        <displayForm>Lammich, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Lammich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1059144441">
+                        <displayForm>Müller-Olm, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Müller-Olm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1059144441">
+                        <displayForm>Olm, Markus Müller-</displayForm>
+                        <namePart type="given">Markus Müller-</namePart>
+                        <namePart type="family">Olm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-07-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-06-28</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">&quot;Lock sensitive analysis of parallel programs&quot; (Lock-Sensitive Analyse nebenläufiger Programme) Diese Dissertation behandelt einen Modellprüfungsalgorithmus für dynamische Pushdown-Netzwerke mit Monitoren (Monitor-DPNs). Monitor-DPNs sind ein Modell für parallele Programme mit rekursiven Prozeduren, Thread-Erzeugung, und wechselweisem Ausschluss durch Monitore. Betrachtet werden Vorgängermengenberechnungen, mit denen man viele interessante Eigenschaften ausdrücken kann, unter Anderem Race-Conditions, Bitvektoranalysen und das (EF,EX)-Fragment der branching-time Logik CTL.</abstract>
+                    <subject lang="ger">
+                        <topic>Model-Checking</topic>
+                        <topic>Programmanalyse</topic>
+                        <topic>Nebenläufigkeit</topic>
+                        <topic>Monitore</topic>
+                        <topic>dynamische Pushdown-Netzwerke</topic>
+                        <topic>Vorgängermengen</topic>
+                    </subject>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43459441169</identifier>
+                    <identifier type="sys">HT016908721</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_498555a7-34c8-4991-a9e2-01c7a989a7df</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_498555a7-34c8-4991-a9e2-01c7a989a7df_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/498555a7-34c8-4991-a9e2-01c7a989a7df/diss_lammich.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_498555a7-34c8-4991-a9e2-01c7a989a7df" DMDID="DMD_498555a7-34c8-4991-a9e2-01c7a989a7df">
+            <mets:fptr FILEID="FILE_498555a7-34c8-4991-a9e2-01c7a989a7df_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

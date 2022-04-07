@@ -1,0 +1,153 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:05441253-092a-49be-9240-8227eac982c4" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:34:33">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_05441253-092a-49be-9240-8227eac982c4">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Analyzing Visual Perception and Predicting Locomotion using Virtual Reality and Eye Tracking</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1188746987">
+                    <mods:namePart type="given">Niklas</mods:namePart>
+                    <mods:namePart type="family">Stein</mods:namePart>
+                    <mods:displayForm>Stein, Niklas</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2021-05-06</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2021-11-25</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2021-11-25</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>2</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">Locomotion and vison are closely linked. When users explore virtual environments by walking they rely on stable visible landmarks to plan and execute their next movement. In my research I am developing novel methods to predict locomotion paths of human subjects for the immediate future, i.e. the next few seconds. I aim to connect different types of behavioral data (eye, hand, feet and head tracking) and test their reliability and validity for predicting walking behavior in virtual reality. Such a prediction will be very valuable for natural interaction, for example in redirected walking schemes. My approach begins with an evaluation of the quality of data gathered with current tracking methods. Informative experimental conditions need to be developed to find meaningful patterns in natural walking. Next, raw tracked data of different modalities need to be connected with each other and aggregated in a useful way. Thereafter, possible valid predictors need to be developed and compared to already functioning predicting algorithms (e.g. [2, 6, 12]). As a final goal, all valid predictors shall be used to create a prediction algorithm returning the most likely future path when exploring virtual environments.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="citation/reference">2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2021. ISBN 978-1-6654-1166-0, pp. 727-728</mods:note>
+                  <mods:note xml:lang="de" type="funding">Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 274361309</mods:note>
+                  <mods:note xml:lang="en" type="funding">Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 274361309</mods:note>
+                  <mods:note xml:lang="de" type="funding">Förderer: European Commission / Projektnummer: 734227</mods:note>
+                  <mods:note xml:lang="en" type="funding">Funding organisation: European Commission / Project number: 734227</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="eng">Virtual Reality; Locomotion; Path Prediction; Eye Tracking; Latency</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">100</mods:classification>
+                  <mods:classification authority="ddc">150</mods:classification>
+                  <mods:classification authority="ddc">152</mods:classification>
+                  <mods:relatedItem otherType="IsPreviousVersionOf" otherTypeAuth="datacite">
+                    <mods:identifier type="doi">10.1109/VRW52623.2021.00246</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-35079486659</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/05441253-092a-49be-9240-8227eac982c4</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:05441253-092a-49be-9240-8227eac982c4</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_05441253-092a-49be-9240-8227eac982c4">
+            <mets:rightsMD ID="RIGHTSMD_05441253-092a-49be-9240-8227eac982c4">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_05441253-092a-49be-9240-8227eac982c4">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/05441253-092a-49be-9240-8227eac982c4</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="bed6ea1ca07f359b6e1ece09b1798039b908dd37e09b73bc77c653e6b404f01e" CREATED="2021-11-25T14:28:06" CHECKSUMTYPE="SHA-256" SIZE="655628" ID="ID_FIL_10.1109_vrw52623.2021.00246.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/05441253-092a-49be-9240-8227eac982c4/10.1109_vrw52623.2021.00246.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW05441253-092a-49be-9240-8227eac982c4">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/05441253-092a-49be-9240-8227eac982c4" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_05441253-092a-49be-9240-8227eac982c4" TYPE="physSequence">
+              <mets:div ID="ID_PHY_10.1109_vrw52623.2021.00246.pdf">
+                <mets:fptr FILEID="ID_FIL_10.1109_vrw52623.2021.00246.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_05441253-092a-49be-9240-8227eac982c4" DMDID="DMD_05441253-092a-49be-9240-8227eac982c4" ID="ID_LOG_05441253-092a-49be-9240-8227eac982c4" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_10.1109_vrw52623.2021.00246.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_05441253-092a-49be-9240-8227eac982c4" xlink:to="ID_PHY_05441253-092a-49be-9240-8227eac982c4"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_10.1109_vrw52623.2021.00246.pdf" xlink:to="ID_PHY_10.1109_vrw52623.2021.00246.pdf"/>
+          </mets:structLink>
+        </mets:mets>

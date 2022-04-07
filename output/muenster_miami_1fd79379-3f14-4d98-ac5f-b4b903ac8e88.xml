@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1fd79379-3f14-4d98-ac5f-b4b903ac8e88">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>description of the Jacobson topology on the spectrum of transformation group C*-algebras by proper actions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neumann, Katharina</displayForm>
+                        <namePart type="given">Katharina</namePart>
+                        <namePart type="family">Neumann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/112466982">
+                        <displayForm>Echterhoff, Siegfried</displayForm>
+                        <namePart type="given">Siegfried</namePart>
+                        <namePart type="family">Echterhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-10-26</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-07-07</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Arbeit liefert eine Beschreibung der Jacobson-Topologie auf dem Spektrum von Transformationsgruppen-C*-Algebren für eigentliche G-Räume X vermittels des Raums Stab(X)^={(x,G_x,sigma) | x in X, sigma in (G_x)^}. Es wird gezeigt, daß auf Stab(X)^ eine Topologie und eine G-Wirkung derart definiert werden können, daß die aus dem Satz von Mackey-Rieffel-Green bekannte Bijektion zwischen dem Bahnenraum G\Stab(X)^ und dem Spektrum des verschränkten Produkts C_0(X)xG ein Homöomorphismus ist. Wir diskutieren verschiedene Ansätze zur Topologisierung des Raums Stab(X)^ und zeigen, daß sie dieselbe Topologie liefern.</abstract>
+                    <subject lang="ger">
+                        <topic>Transformationsgruppen-C*-Algebren</topic>
+                        <topic>Spektrum</topic>
+                        <topic>Jacobson-Topologie</topic>
+                        <topic>Operatortheorie</topic>
+                        <topic>dynamische Systeme</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22469643849</identifier>
+                    <identifier type="sys">HT017032440</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1fd79379-3f14-4d98-ac5f-b4b903ac8e88</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1fd79379-3f14-4d98-ac5f-b4b903ac8e88_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1fd79379-3f14-4d98-ac5f-b4b903ac8e88/diss_neumann_katharina.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1fd79379-3f14-4d98-ac5f-b4b903ac8e88" DMDID="DMD_1fd79379-3f14-4d98-ac5f-b4b903ac8e88">
+            <mets:fptr FILEID="FILE_1fd79379-3f14-4d98-ac5f-b4b903ac8e88_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

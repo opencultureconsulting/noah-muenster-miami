@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_a9eaa958-107d-45b5-87d6-2a42e40e30bd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekularbiologisch-genetische Charakterisierung des RhoA-Promotors bezüglich kardiovaskulärer Erkrankungen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/14372634X">
+                        <displayForm>Schröer, Bianca</displayForm>
+                        <namePart type="given">Bianca</namePart>
+                        <namePart type="family">Schröer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172624924">
+                        <displayForm>Prüfer, Dirk</displayForm>
+                        <namePart type="given">Dirk</namePart>
+                        <namePart type="family">Prüfer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-01-10</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-12-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die kleine GTPase RhoA stellt aufgrund ihrer Beteiligung an zellulären, atherosklerotische Ereignisse begünstigenden Prozessen ein Kandidatengen für CVD dar. Das RhoA-Gen ist auf Chr. 3p21 lokalisiert und durch 112 bp Promotorregion von dem in divergenter Orientierung angeordneten TCTA-Gen getrennt. Beide Gene werden in EA.hy926-Zellen synchron transkribiert. In der von beiden Genen eingerahmten, bidirektional aktiven Promotorregion liegt der SNP -112T&gt;C [rs940045], der eine der zwei in dieser Region lokalisierten TATA-Boxen verändert und die transkriptionelle Aktivität von 5`-Promotordeletionskonstrukten signifikant reduziert. Durch Mutation/Deletion der TATA-Box Motive, Veränderung des TATA-Box Spacings/der TATA-Box flankierenden Regionen und EMSA-Analysen konnte gezeigt werden, dass für die transkriptionelle Aktivierung des RhoA der Bereich zwischen RhoA und TCTA in unveränderter Sequenz vorliegen muss.</abstract>
+                    <subject lang="ger">
+                        <topic>CVD</topic>
+                        <topic>divergente Gene</topic>
+                        <topic>bidirektionaler Promotor</topic>
+                        <topic>SNP</topic>
+                        <topic>TATA-Box</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15459441143</identifier>
+                    <identifier type="sys">HT016737438</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_a9eaa958-107d-45b5-87d6-2a42e40e30bd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_a9eaa958-107d-45b5-87d6-2a42e40e30bd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a9eaa958-107d-45b5-87d6-2a42e40e30bd/diss_schroeer_bianca.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_a9eaa958-107d-45b5-87d6-2a42e40e30bd" DMDID="DMD_a9eaa958-107d-45b5-87d6-2a42e40e30bd">
+            <mets:fptr FILEID="FILE_a9eaa958-107d-45b5-87d6-2a42e40e30bd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

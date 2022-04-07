@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b7ada3bd-bd9f-4cb4-9242-3475e9f27493">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung zur Bedeutung der Expression von Vimentin im invasiven Mammakarzinom</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137827806">
+                        <displayForm>Brunsing, Oliver</displayForm>
+                        <namePart type="given">Oliver</namePart>
+                        <namePart type="family">Brunsing</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122342402">
+                        <displayForm>Fillies, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Fillies</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-03-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2009-02-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Vorhandensein von Vimentin in invasiven Mammakarzinomen wird meistens durch zwei Theorien erklärt: durch eine epithelial-mesenchymale Transition (EMT) oder durch eine direkte Entstehung aus myoepithelialen Zellen. Im Rahmen dieser Arbeit wurden 366 Mammabiopsien mit invasiven Tumorkomponenten auf die Expression von Vimentin und von 15 weiteren Markern untersucht. Die Expression von Vimentin korrelierte signifikant mit dem Tumorgrad sowie mit der Expression von SMA, p53, EGFR, CK5, CD10 und Mib-1. Die dargestellten Ergebnisse zeigen, dass eine Vimentin-Expression in einem invasiven Mammakarzinom nicht allein mit einer EMT oder einer myoepithelialen Histogenese erklärt werden kann. Es muss daher angenommen werden, dass noch ein weiterer Entstehungsweg dieser Vimentin-positiven Mammakarzinome existiert. Denkbar wäre hier die alternative Theorie, dass Vimentin-exprimierende Brusttumore aus Progenitorzellen mit bilinearem Differenzierungspotential entstehen könnten.</abstract>
+                    <subject lang="ger">
+                        <topic>Vimentin</topic>
+                        <topic>Mammakarzinom</topic>
+                        <topic>Progenitorzellen</topic>
+                        <topic>epithelial-mesenchymale Transition</topic>
+                        <topic>Histogenese</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22529668520</identifier>
+                    <identifier type="sys">HT015899143</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b7ada3bd-bd9f-4cb4-9242-3475e9f27493</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b7ada3bd-bd9f-4cb4-9242-3475e9f27493_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b7ada3bd-bd9f-4cb4-9242-3475e9f27493/diss_brunsing.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b7ada3bd-bd9f-4cb4-9242-3475e9f27493" DMDID="DMD_b7ada3bd-bd9f-4cb4-9242-3475e9f27493">
+            <mets:fptr FILEID="FILE_b7ada3bd-bd9f-4cb4-9242-3475e9f27493_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

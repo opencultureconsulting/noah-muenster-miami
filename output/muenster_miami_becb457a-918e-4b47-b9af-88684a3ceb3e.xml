@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_becb457a-918e-4b47-b9af-88684a3ceb3e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Generelle Aussagekraft und Effektivität von OP-Kennzahlen</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1031766553">
+                        <displayForm>Schmitz, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Schmitz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122318005">
+                        <displayForm>Ellger, Björn</displayForm>
+                        <namePart type="given">Björn</namePart>
+                        <namePart type="family">Ellger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-02-27</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-02-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Aussagekraft der OP-Kennzahlen 1. Schnittzeit, Wechselzeit und Auslastung ist eingeschränkt. Sie sind multifaktoriell beeinflusst. Sie unterliegen neben den Störungen im Prozessgefüge zusätzlich statistischen und unbewussten Einflüssen. Bei der Verwendung dieser Kennzahlen sollten diese Faktoren nicht nur bekannt, sondern auch bewusst sein. Die drei beschriebenen Kennzahlen können zur Überwachung von Reorganisationsprozessen im OP genutzt werden. Sie unterstützen den Optimierungsprozess und eignen sich für ein Reporting an die Verantwortlichen, beziehungsweise für ein Benchmarking mehrerer OP-Abteilungen, die aber strukturell und vom OP-Spektrum her vergleichbar sein sollten. Bei starken Schwankungen müssen weitere Kennzahlen temporär zur Analyse hinzu generiert werden. Die Stärke der untersuchten Kennzahlen liegt hauptsächlich in der Verlaufskontrolle.</abstract>
+                    <subject lang="ger">
+                        <topic>OP-Kennzahlen</topic>
+                        <topic>Aussagekraft</topic>
+                        <topic>1. Schnitt-Zeit</topic>
+                        <topic>Wechselzeit</topic>
+                        <topic>OP-Auslastung</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17379686221</identifier>
+                    <identifier type="sys">HT017561331</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_becb457a-918e-4b47-b9af-88684a3ceb3e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_becb457a-918e-4b47-b9af-88684a3ceb3e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/becb457a-918e-4b47-b9af-88684a3ceb3e/diss_schmitz_markus.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_becb457a-918e-4b47-b9af-88684a3ceb3e" DMDID="DMD_becb457a-918e-4b47-b9af-88684a3ceb3e">
+            <mets:fptr FILEID="FILE_becb457a-918e-4b47-b9af-88684a3ceb3e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

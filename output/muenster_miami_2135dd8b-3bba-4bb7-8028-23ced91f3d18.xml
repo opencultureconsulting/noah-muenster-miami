@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2135dd8b-3bba-4bb7-8028-23ced91f3d18">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Wert von Worten</title>
+                        <subTitle>Michael Serrer aus dem Literaturbüro Düsseldorf im Interview mit der Textpraxis-Redaktion</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122470427">
+                        <displayForm>Serrer, Michael</displayForm>
+                        <namePart type="given">Michael</namePart>
+                        <namePart type="family">Serrer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
+                        <dateIssued encoding="w3cdtf">2014-11-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Textpraxis-Redaktion unterhält sich mit Michael Serrer über Literaturvermittlung in Zeiten der Digitalisierung, über Kanonisierung und die Rolle der Literatur in der Gesellschaft. Michael Serrer ist Leiter des Literaturbüros NRW und Feuilletonist.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-11369614209</identifier>
+                    <identifier type="doi">10.17879/27289459337</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2135dd8b-3bba-4bb7-8028-23ced91f3d18</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2135dd8b-3bba-4bb7-8028-23ced91f3d18_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2135dd8b-3bba-4bb7-8028-23ced91f3d18/textpraxis_2014_9_serrer.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2135dd8b-3bba-4bb7-8028-23ced91f3d18" DMDID="DMD_2135dd8b-3bba-4bb7-8028-23ced91f3d18">
+            <mets:fptr FILEID="FILE_2135dd8b-3bba-4bb7-8028-23ced91f3d18_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

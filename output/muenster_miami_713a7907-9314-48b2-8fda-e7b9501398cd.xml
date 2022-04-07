@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_713a7907-9314-48b2-8fda-e7b9501398cd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Peter Bootsma, Coalitievorming. Een vergelijking tussen Duitsland en Nederland</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122237943">
+                        <displayForm>Wielenga, Friso</displayForm>
+                        <namePart type="given">Friso</namePart>
+                        <namePart type="family">Wielenga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">rev</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">review</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2018-09-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Unruhige Zeiten</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Unruhige Zeiten</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>224</start>
+                                <end>227</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-27139635732</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_713a7907-9314-48b2-8fda-e7b9501398cd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>review</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_713a7907-9314-48b2-8fda-e7b9501398cd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/713a7907-9314-48b2-8fda-e7b9501398cd/nl-schriften_band-003_224-227.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_713a7907-9314-48b2-8fda-e7b9501398cd" DMDID="DMD_713a7907-9314-48b2-8fda-e7b9501398cd">
+            <mets:fptr FILEID="FILE_713a7907-9314-48b2-8fda-e7b9501398cd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

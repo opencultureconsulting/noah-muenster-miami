@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c788696c-1441-412d-a67c-a9ffd549f3ad">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>falsch vermessene Kunstwerk</title>
+                        <subTitle>zur kunstgeographischen Bestimmung stilistischer Stetigkeit im zeitlichen Wandel, wissenschaftsgeschichtlich nach den Quellen dargestellt</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1012082415">
+                        <displayForm>Bormann, Ralf</displayForm>
+                        <namePart type="given">Ralf</namePart>
+                        <namePart type="family">Bormann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123522668">
+                        <displayForm>Jacobsen, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Jacobsen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2011-05-23</dateIssued>
+                        <dateOther encoding="w3cdtf">2011-05-06</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Kunstgeographie hat derzeit in der deutschen Kunsthistoriographie einen schweren Stand. Ihre methodologische Annahme eines Raumstiles machte sie vordergründig mit den nationalsozialistischen Raumphantasien gemein. Diese bis in die Gegenwart anhaltende Perhorreszenz freilich verkennt, daß die Vorstellung eines Zusammenspiels landschaftlichen Wesens und eines daraus emergierenden sittlichen wie künstlerischen Geschehens, die Vorstellung mithin einer „Daseinsursprünglichkeit überindividueller Zusammenhänge“ (Thomas Mann) auf die Antike zurückgeht und sich bis in die Moderne durchgehalten hat. Vor allem die Fundamentalontologie Martin Heideggers erweist die deutsche kunstgeographische Forschung der 1920er und 30er Jahre (Dagobert Frey, Paul Pieper, Hans Erich Kubach u.v.m.) als eine phänomenologisch-hermeneutische Wissenschaft, der es um die Aufzeigung einer sich in den Kunstwerken aussprechenden „Gleichzeitigkeit des Ungleichzeitigen“ (Wilhelm Pinder) im Kunstgeschehen angelegen ist.</abstract>
+                    <subject lang="ger">
+                        <topic>Kunstgeographie</topic>
+                        <topic>Kunstlandschaft</topic>
+                        <topic>Kunsthistoriographie</topic>
+                        <topic>Heidegger</topic>
+                        <topic>Ontologie</topic>
+                        <topic>Habitus</topic>
+                        <topic>Raumstil</topic>
+                    </subject>
+                    <classification authority="ddc">700</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-84419581679</identifier>
+                    <identifier type="sys">HT016829368</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c788696c-1441-412d-a67c-a9ffd549f3ad</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c788696c-1441-412d-a67c-a9ffd549f3ad_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c788696c-1441-412d-a67c-a9ffd549f3ad/diss_bormann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c788696c-1441-412d-a67c-a9ffd549f3ad" DMDID="DMD_c788696c-1441-412d-a67c-a9ffd549f3ad">
+            <mets:fptr FILEID="FILE_c788696c-1441-412d-a67c-a9ffd549f3ad_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

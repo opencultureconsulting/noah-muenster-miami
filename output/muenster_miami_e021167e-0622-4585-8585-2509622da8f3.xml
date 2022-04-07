@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e021167e-0622-4585-8585-2509622da8f3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entdecken von Gesetzen – Kurvenanpassung an Meßdaten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidt, Günter</displayForm>
+                        <namePart type="given">Günter</namePart>
+                        <namePart type="family">Schmidt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-01</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2005-08-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Darstellung zweidimensionaler Daten im Streudiagramm führt in vielen Fällen zu Vermutungen über funktionale Abhängigkeiten. An drei für den Mathematikunterricht geeigneten fächerübergreifenden Beispielen wird die Behandlung eines forschend-entwickelnden Verfahrens mit Hilfe empirisch gewonnener Daten aufgezeigt.</abstract>
+                    <note type="ownership">Copyright by T³ Deutschland, für unterrichtliche Zwecke freigegeben</note>
+                    <subject lang="ger">
+                        <topic>Potenzfunktionen</topic>
+                        <topic>Exponentialfunktionen</topic>
+                        <topic>Hyperbelfunktion</topic>
+                        <topic>Kurvenanpassung</topic>
+                        <topic>Streudiagramme</topic>
+                        <topic>TI-92</topic>
+                        <topic>V-200</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-45649549565</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e021167e-0622-4585-8585-2509622da8f3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e021167e-0622-4585-8585-2509622da8f3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e021167e-0622-4585-8585-2509622da8f3/Guenter_Schmidt_Kurvenanpassung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e021167e-0622-4585-8585-2509622da8f3" DMDID="DMD_e021167e-0622-4585-8585-2509622da8f3">
+            <mets:fptr FILEID="FILE_e021167e-0622-4585-8585-2509622da8f3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

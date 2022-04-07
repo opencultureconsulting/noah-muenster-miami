@@ -1,0 +1,194 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:1e55d22d-bf51-4696-b7f1-4dd1273e79cf" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:35:00">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_1e55d22d-bf51-4696-b7f1-4dd1273e79cf">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Automated and Feature-Based Problem Characterization and Algorithm Selection Through Machine Learning</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1149935359">
+                    <mods:namePart type="given">Pascal</mods:namePart>
+                    <mods:namePart type="family">Kerschke</mods:namePart>
+                    <mods:namePart type="date">1986-</mods:namePart>
+                    <mods:displayForm>Kerschke, Pascal</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>ULB Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Landesbibliothek Münster / Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>report</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2017</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2018-02-06</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2018-02-06</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>ii, 54</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="ger">Heutzutage sind zahlreiche Abläufe strukturiert, wodurch sich diese zunächst modellieren und anschliessend sogar optimieren lassen. Selbst Probleme, die nicht durch ein mathematisches Modell repräsentiert werden können (sogenannte "Black-Box Probleme") können optimiert werden.  &lt;br&gt;Leider treffen Menschen hierbei tendenziell schlechte Entscheidungen, da diese oftmals auf Versuchs-und-Irrtums-Experimenten oder schlichtweg auf dem "Bauchgefuehl" der Entscheider beruhen. Sinnvoller wäre es jedoch stattdessen Optimierungsalgorithmen zu verwenden. Allerdings gibt es hiervon sehr viele, sodass sich die Frage stellt, welcher Algorithmus am besten für die Optimierung des vorliegenden Problems geeignet ist.  &lt;br&gt;Im Rahmen dieser kumulativen Dissertation werden einerseits automatisch berechenbare Kennzahlen zur Charakterisierung der globalen Struktur kontinuierlicher Optimierungsprobleme, und andererseits experimentelle Studien, die die Vorzüge automatisierter, sowie feature-basierter Algorithmenselektion aufzeigen, vorgestellt.</mods:abstract>
+                  <mods:abstract lang="eng">Nowadays, numerous real-world workflows become more and more formalized and structured. One of the advantages of such formal processes is their accessibility for optimization. Even problems without an exact mathematical representation, i.e., so-called black-box problems, can be optimized.  &lt;br&gt;Unfortunately, people tend to make rather poor decisions when optimizing problems: most of the decisions are either based on numerous trial-and-error experiments or on "gut-decisions". Instead of these manual approaches, one could make use of computational power and execute an optimization algorithm. However, the plethora of optimizers leaves the user with the task of making a sophisticated guess on which of the available algorithms is best for the application at hand.  &lt;br&gt;Within this cumulative dissertation, a set of automatically computable features, which extracts information on the global structure of continuous optimization problems, as well as experimental studies, showing the benefits of automated and feature-based algorithm selection, are presented.</mods:abstract>
+                  <mods:tableOfContents lang="eng">Acknowledgements ..... i&#13;
+Abstract ..... ii&#13;
+1 Introduction ..... 1&#13;
+1.1 Benchmarking ..... 3&#13;
+1.2 Exploratory Landscape Analysis ..... 4&#13;
+1.3 Algorithm Selection ..... 5&#13;
+2 Characterizing the Global Structure of Continuous Black-Box Problems ..... 7&#13;
+2.1 Contributed Material ..... 7&#13;
+2.2 Cell Mapping Techniques for Exploratory Landscape Analysis ..... 7&#13;
+2.3 Detecting Funnel Structures by Means of Exploratory Landscape Analysis ..... 9&#13;
+2.4 Low-Budget Exploratory Landscape Analysis on Multiple Peaks Models ..... 11&#13;
+3 Flacco – A Toolbox for Exploratory Landscape Analysis with R ..... 13&#13;
+3.1 Contributed Material ..... 13&#13;
+3.2 The R-Package FLACCO for Exploratory Landscape Analysis with Applications to Multi-Objective Optimization Problems ..... 13&#13;
+3.3 flaccogui: Exploratory Landscape Analysis for Everyone ..... 15&#13;
+3.4 Comprehensive Feature-Based Landscape Analysis of Continuous and Constrained Optimization Problems Using the R-Package flacco ..... 17&#13;
+4 Feature-Based Algorithm Selection from Optimizer Portfolios ..... 18&#13;
+4.1 Contributed Material ..... 18&#13;
+4.2 Improving the State of the Art in Inexact TSP Solving using Per-Instance Algorithm Selection ..... 18&#13;
+4.3 Leveraging TSP Solver Complementarity through Machine Learning ..... 20&#13;
+4.4 Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning ..... 22&#13;
+5 Platforms for Collaborative Research on Algorithm Selection and Machine Learning ..... 26&#13;
+5.1 Contributed Material ..... 26&#13;
+5.2 ASlib: A Benchmark Library for Algorithm Selection ..... 26&#13;
+5.3 OpenML: An R Package to Connect to the Machine Learning Platform OpenML ..... 28&#13;
+6 Summary and Outlook ..... 30&#13;
+Bibliography ..... 33&#13;
+Appendix: Contributed Publications&#13;
+A Characterizing the Global Structure of Continuous Black-Box Problems ..... 42&#13;
+A.1 Cell Mapping Techniques for Exploratory Landscape Analysis ..... 42&#13;
+A.2 Detecting Funnel Structures By Means of Exploratory Landscape Analysis ..... 44&#13;
+A.3 Low-Budget Exploratory Landscape Analysis on Multiple Peaks Models ..... 45&#13;
+B Flacco – A Toolbox for Exploratory Landscape Analysis with R ..... 46&#13;
+B.1 The R-Package FLACCO for Exploratory Landscape Analysis with Applications to Multi-Objective Optimization Problems ..... 46&#13;
+B.2 flaccogui: Exploratory Landscape Analysis for Everyone ..... 47&#13;
+B.3 Comprehensive Feature-Based Landscape Analysis of Continuous and Constrained Optimization Problems Using the R-Package flacco ..... 48&#13;
+C Feature-Based Algorithm Selection from Optimizer Portfolios ..... 49&#13;
+C.1 Improving the State of the Art in Inexact TSP Solving Using Per-Instance Algorithm Selection ..... 49&#13;
+C.2 Leveraging TSP Solver Complementarity through Machine Learning ..... 50&#13;
+C.3 Automated Algorithm Selection on Continuous Black-Box Problems By Combining Exploratory Landscape Analysis and Machine Learning ..... 51&#13;
+D Platforms for Collaborative Research on Algorithm Selection and Machine Learning ..... 52&#13;
+D.1 ASlib: A Benchmark Library for Algorithm Selection ..... 52&#13;
+D.2 OpenML: An R Package to Connect to the Machine Learning Platform OpenML ..... 54</mods:tableOfContents>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="citation/reference">Teilw. zugl.: Münster (Westfalen), Univ., kum. Diss., 2017</mods:note>
+                  <mods:note type="content">Vollständige Druckausgabe der kumulativen Dissertation: Kerschke, Pascal: Automated and feature-based problem characterization and algorithm selection through machine learning. (kumulative Dissertation, Westfälische Wilhelms-Universität Münster, 2017) Münster, 2017, S. iii, 227 Seiten</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="ger">Algorithm Selection; Black-Box Optimierung; Exploratory Landscape Analysis; Maschinelles Lernen; einkriterielle Optimierung; Travelling Salesperson Problem; Funnel Detection</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="eng">Algorithm Selection; Black-Box Optimization; Exploratory Landscape Analysis; Machine Learning; Single-Objective Optimization; Travelling Salesperson Problem; Funnel Detection</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:classification authority="ddc">500</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-39169612241</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/1e55d22d-bf51-4696-b7f1-4dd1273e79cf</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY-SA 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by-sa/4.0</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:1e55d22d-bf51-4696-b7f1-4dd1273e79cf</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_1e55d22d-bf51-4696-b7f1-4dd1273e79cf">
+            <mets:rightsMD ID="RIGHTSMD_1e55d22d-bf51-4696-b7f1-4dd1273e79cf">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_1e55d22d-bf51-4696-b7f1-4dd1273e79cf">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/1e55d22d-bf51-4696-b7f1-4dd1273e79cf</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="03553496eb668c194b21adcc59386e95233d6d3f5d86d3c161516651f5b087c2" CREATED="2018-02-06T10:46:15" CHECKSUMTYPE="SHA-256" SIZE="4107020" ID="ID_FIL_kerschke_2017.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1e55d22d-bf51-4696-b7f1-4dd1273e79cf/kerschke_2017.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW1e55d22d-bf51-4696-b7f1-4dd1273e79cf">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/1e55d22d-bf51-4696-b7f1-4dd1273e79cf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_1e55d22d-bf51-4696-b7f1-4dd1273e79cf" TYPE="physSequence">
+              <mets:div ID="ID_PHY_kerschke_2017.pdf">
+                <mets:fptr FILEID="ID_FIL_kerschke_2017.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_1e55d22d-bf51-4696-b7f1-4dd1273e79cf" DMDID="DMD_1e55d22d-bf51-4696-b7f1-4dd1273e79cf" ID="ID_LOG_1e55d22d-bf51-4696-b7f1-4dd1273e79cf" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_kerschke_2017.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_1e55d22d-bf51-4696-b7f1-4dd1273e79cf" xlink:to="ID_PHY_1e55d22d-bf51-4696-b7f1-4dd1273e79cf"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_kerschke_2017.pdf" xlink:to="ID_PHY_kerschke_2017.pdf"/>
+          </mets:structLink>
+        </mets:mets>

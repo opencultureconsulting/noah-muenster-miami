@@ -1,0 +1,179 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:4a519e83-0e40-4343-a5f3-056b5bb221ce" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:35:51">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_4a519e83-0e40-4343-a5f3-056b5bb221ce">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Conceptual models as basis for integrated information warehouse development</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/121064727">
+                    <mods:namePart type="given">Roland</mods:namePart>
+                    <mods:namePart type="family">Holten</mods:namePart>
+                    <mods:displayForm>Holten, Roland</mods:displayForm>
+                    <mods:affiliation>FB 04: Wirtschaftswissenschaftliche Fakultät</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="1">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>workingPaper</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2001-10</mods:dateIssued>
+                    <mods:dateOther keyDate="yes" encoding="w3cdtf">2008-10-22</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2008-10-21</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2015-03-25</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>56</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">Research in the field of information warehousing mostly focuses technical aspects. Only recently some contributions are found dealing with methodical aspects of information warehouse development processes. With respect to the central role information warehouses play for the management a development method is presented which strictly concentrates on management views. Language concepts are developed which allow the specification of information warehouses out of the managements perspective and a representation formalism supporting this language is presented. Methodically the language construction is based on constructive philosophy. Conceptual models are used as meta information in later development phases and it is shown how meta data of etl and olap tools available on the market can be generated out of the conceptual models. The approach presented has been verified by means of a prototype.&lt;br/&gt;</mods:abstract>
+                  <mods:tableOfContents lang="eng">1 Introduction ..... 1&#13;
+2 Information Warehouse Development Framework ..... 4&#13;
+2.1 Organizing Model and Abstraction Levels ..... 4&#13;
+2.2 Organizing Development Phases ..... 7&#13;
+2.3 Combining the Dimensions: IWH Development Framework ..... 9&#13;
+3 Conceptual Specification of Management’s Information Requirements: Meta Information Creation ..... 11&#13;
+3.1 Scientific Background and Methodology ..... 11&#13;
+Background ..... 11&#13;
+Methodology ..... 13&#13;
+3.2 Language and Meta Model for IWH Concepts..... 14&#13;
+3.3 Representation and Technique for IWH Concepts ..... 18&#13;
+3.4 Method for IWH Concepts: Creating IWH Meta Information..... 20&#13;
+4 Horizontal Integration of Information Warehouse Development: Meta Information Use ..... 23&#13;
+4.1 Enlargement of Language and Meta Model ..... 23&#13;
+4.2 Meta Information Repository and Development Tool..... 25&#13;
+4.3 Using Meta Information ..... 27&#13;
+4.3.1 Data Warehouse Parameters ..... 28&#13;
+Definition of fact table attributes ..... 29&#13;
+Definition of the bottom level for every dimension ..... 30&#13;
+Definition of hierarchical levels and foreign key relations within the dimensions ..... 31&#13;
+4.3.2 Etl and Olap Parameters ..... 32&#13;
+5 Related Work and Discussion ..... 38&#13;
+6 Conclusion..... 40&#13;
+References ..... 41&#13;
+Appendix ..... 45</mods:tableOfContents>
+                  <mods:classification authority="ddc">004</mods:classification>
+                  <mods:classification authority="ddc">330</mods:classification>
+                  <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Arbeitsberichte des Instituts für Wirtschaftsinformatik</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="volume" order="81">
+                      <mods:detail>
+                        <mods:number>81</mods:number>
+                      </mods:detail>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:a57d7c1d-0d16-4175-b01a-3d70239638dd</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-43569563488</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/4a519e83-0e40-4343-a5f3-056b5bb221ce</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:4a519e83-0e40-4343-a5f3-056b5bb221ce</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_4a519e83-0e40-4343-a5f3-056b5bb221ce">
+            <mets:rightsMD ID="RIGHTSMD_4a519e83-0e40-4343-a5f3-056b5bb221ce">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_4a519e83-0e40-4343-a5f3-056b5bb221ce">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/4a519e83-0e40-4343-a5f3-056b5bb221ce</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="38c0dba108af62be95a6eeca8c10df8b7ac7d0a6cded7962370b92459560da4a" CREATED="2015-03-25T12:03:12" CHECKSUMTYPE="SHA-256" SIZE="475195" ID="ID_FIL_081_arbeitsberichte_wirtschaftsinformatik.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/4a519e83-0e40-4343-a5f3-056b5bb221ce/081_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW4a519e83-0e40-4343-a5f3-056b5bb221ce">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/4a519e83-0e40-4343-a5f3-056b5bb221ce" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_4a519e83-0e40-4343-a5f3-056b5bb221ce" TYPE="physSequence">
+              <mets:div ID="ID_PHY_081_arbeitsberichte_wirtschaftsinformatik.pdf">
+                <mets:fptr FILEID="ID_FIL_081_arbeitsberichte_wirtschaftsinformatik.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_4a519e83-0e40-4343-a5f3-056b5bb221ce" DMDID="DMD_4a519e83-0e40-4343-a5f3-056b5bb221ce" ID="ID_LOG_4a519e83-0e40-4343-a5f3-056b5bb221ce" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_081_arbeitsberichte_wirtschaftsinformatik.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_4a519e83-0e40-4343-a5f3-056b5bb221ce" xlink:to="ID_PHY_4a519e83-0e40-4343-a5f3-056b5bb221ce"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_081_arbeitsberichte_wirtschaftsinformatik.pdf" xlink:to="ID_PHY_081_arbeitsberichte_wirtschaftsinformatik.pdf"/>
+          </mets:structLink>
+        </mets:mets>

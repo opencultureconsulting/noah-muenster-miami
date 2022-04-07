@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3a9420cd-f58e-4801-96a4-568183a830c6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ungleichheit im Bildungswesen</title>
+                        <subTitle>Ein Plädoyer für eine schichtspezifisch und handlungstheoretisch orientierte Soziologie der Erziehung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böttcher, Wolfgang</displayForm>
+                        <namePart type="given">Wolfgang</namePart>
+                        <namePart type="family">Böttcher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1985</dateIssued>
+                        <dateIssued encoding="w3cdtf">2012-02-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Druckausg.erschienen bei: Ulrich Schallwig Verlag, Bochum, 1985, 306 Seiten, ISBN 3-925222-00-6</note>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-81439592209</identifier>
+                    <identifier type="sys">HT017602327</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3a9420cd-f58e-4801-96a4-568183a830c6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3a9420cd-f58e-4801-96a4-568183a830c6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3a9420cd-f58e-4801-96a4-568183a830c6/1985_boett_ungle.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3a9420cd-f58e-4801-96a4-568183a830c6" DMDID="DMD_3a9420cd-f58e-4801-96a4-568183a830c6">
+            <mets:fptr FILEID="FILE_3a9420cd-f58e-4801-96a4-568183a830c6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_36d0945c-0825-4ea7-b582-91b125374760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optische Erfassung und numerische Analyse von Kontakten in der dynamischen Okklusion mittels digitalisierter Situationsmodelle</title>
+                        <subTitle>Einflussgrößen bei der numerischen Kontaktbestimmung am Beispiel des ATOS-3D-Oberflächenerfassungssystems und des String-Condylocomp LR3</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129629197">
+                        <displayForm>Böröcz, Zoltán Kálmán</displayForm>
+                        <namePart type="given">Zoltán Kálmán</namePart>
+                        <namePart type="family">Böröcz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/10806218X">
+                        <displayForm>Bollmann, Friedhelm</displayForm>
+                        <namePart type="given">Friedhelm</namePart>
+                        <namePart type="family">Bollmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
+                        <dateIssued encoding="w3cdtf">2004-12-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2004-11-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird ein Verfahren zur numerischen Analyse von Okklusionskontakten anhand optisch vermessener Kiefermodelle vorgestellt. Die Grundlage bilden mittels der Streifenprojektionstechnik dreidimensional erfasste, digitalisierte und schädelorientierte Situationsmodelle sowie mit der elektronischen Achsiografie aufgezeichnete Bewegungsbahnen der Kondylen. Neben der Untersuchung zu den bei der Digitalisierung von Situationsmodellen auftretenden Messunsicherheiten werden die entwickelten Programme zur Darstellung der Okklusion und zur Berechnung von Öffnungswinkelkurven vorgestellt. Der Vergleich der Okklusion an einem mechanischen Artikulator und der des virtuellen Artikulators zeigt zum Teil gute Übereinstimmungen. Die Abweichungen lassen sich zum einen auf die ungenaue Wiedergabe der Unterkieferbewegungen in einem teiladjustierbaren mechanischen Artikulator zum anderen auf die zuvor bestimmten Messunsicherheiten in Verbindung mit der Anatomie des Kauapparates zurückführen.</abstract>
+                    <subject lang="ger">
+                        <topic>Virtueller Artikulator</topic>
+                        <topic>Okklusion</topic>
+                        <topic>Öffnungswinkel</topic>
+                        <topic>Streifenprojektion</topic>
+                        <topic>elektronische Achsiografie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-97679470996</identifier>
+                    <identifier type="sys">HT014259368</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_36d0945c-0825-4ea7-b582-91b125374760</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_36d0945c-0825-4ea7-b582-91b125374760_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/36d0945c-0825-4ea7-b582-91b125374760/diss_boeroecz.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_36d0945c-0825-4ea7-b582-91b125374760" DMDID="DMD_36d0945c-0825-4ea7-b582-91b125374760">
+            <mets:fptr FILEID="FILE_36d0945c-0825-4ea7-b582-91b125374760_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

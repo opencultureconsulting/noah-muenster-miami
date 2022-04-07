@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_22eaa02a-ce93-4baa-adc3-034b2c5d3062">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gehgeschwindigkeit von einseitig oberschenkelamputierten Prothesenträgern</title>
+                        <subTitle>retrospektive Analyse zur Normwertdefinition</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schön, Lena</displayForm>
+                        <namePart type="given">Lena</namePart>
+                        <namePart type="family">Schön</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123754887">
+                        <displayForm>Wetz, Hans Henning</displayForm>
+                        <namePart type="given">Hans Henning</namePart>
+                        <namePart type="family">Wetz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123754887">
+                        <displayForm>Wetz, H. H.</displayForm>
+                        <namePart type="given">H. H.</namePart>
+                        <namePart type="family">Wetz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014-03-10</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2014-02-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei der vorliegenden Arbeit handelt es sich um eine retrospektive Auswertung von Patientendaten, die in der Klinik für Technische Orthopädie und Rehabilitation der WWU Münster erhoben worden waren. Das betrachtete Patientenkollektiv besteht aus 58 einseitig Oberschenkelamputierten, bei denen mittels GaitRite System verschiedene Gangparameter gemessen wurden. Ziel dieser Arbeit ist die Erhebung von Normwerten für die durchschnittliche selbstgewählte sowie maximale Gehgeschwindigkeit von einseitig oberschenkelamputierten Patienten. Diese wurden für das gesamte Patientenkollektiv wie auch in Abhängigkeit von Alter, Geschlecht, Amputationsursache, -höhe und prothetischer Versorgung ermittelt. Im Durchschnitt liefen die Probanden mit einer normalen Gehgeschwindigkeit von 86 cm/s und einer maximalen Geschwindigkeit von 113 cm/s. Das Alter, die Amputationsursache, -höhe und die Kniepassteilversorgung wirkten sich signifikant auf die Gehgeschwindigkeit aus.</abstract>
+                    <subject lang="ger">
+                        <topic>Oberschenkelamputation</topic>
+                        <topic>Oberschenkelprothese</topic>
+                        <topic>Gehgeschwindigkeit</topic>
+                        <topic>Normwerte</topic>
+                        <topic>Gangparameter</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-53399396491</identifier>
+                    <identifier type="sys">HT018193716</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_22eaa02a-ce93-4baa-adc3-034b2c5d3062</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_22eaa02a-ce93-4baa-adc3-034b2c5d3062_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/22eaa02a-ce93-4baa-adc3-034b2c5d3062/diss_schoen_lena.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_22eaa02a-ce93-4baa-adc3-034b2c5d3062" DMDID="DMD_22eaa02a-ce93-4baa-adc3-034b2c5d3062">
+            <mets:fptr FILEID="FILE_22eaa02a-ce93-4baa-adc3-034b2c5d3062_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

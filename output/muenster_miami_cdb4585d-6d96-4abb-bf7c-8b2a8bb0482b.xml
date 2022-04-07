@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_cdb4585d-6d96-4abb-bf7c-8b2a8bb0482b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Translational control of virulence-associated traits of Yersinia pseudotuberculosis</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1236305329">
+                        <displayForm>Volk, Marcel</displayForm>
+                        <namePart type="given">Marcel</namePart>
+                        <namePart type="family">Volk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dersch, Petra</displayForm>
+                        <namePart type="given">Petra</namePart>
+                        <namePart type="family">Dersch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2021-06-30</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-05-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das gastrointestinale Pathogen Yersinia pseudotuberculosis verwendet ein Typ 3 Sekretionssystem um Effektoren zur Immunabwehr in Immunzellen zu translozieren. Auf transkriptioneller und post-transkriptioneller Ebene wird dieses System von verschiedenen Faktoren reguliert. In dieser Studie wurde der Einfluss der Translation auf dieses System analysiert, wofuer die Ribo-Seq Methode in Y. pseudotuberculosis etabliert wurde. Es zeigte sich, dass die T3SS, yop und yadA Transkripte eine hohe Translationseffizienz aufweisen, mit besonderer Betonung bei den yop und yadA Transkripten. Darueber hinaus liegt eine translationale Regulation unter Bedingungen vor, unter denen das T3SS exprimiert aber inaktiv ist, die durch YopD vermittelt werden koennte. Die yop und yadA Transkripte weisen relativ kurze 5&apos; UTR mit hohem AU-Gehalt und Konsensus naher Ribosomenbindungsstelle auf, welche eine hohe Translationseffizienz beguenstigen. Auch der tRNA-Pool zeigt eine Optimierung zugunsten der yop und yadA Translation.</abstract>
+                    <subject lang="ger">
+                        <topic>Yersinia pseudotuberculosis</topic>
+                        <topic>Ribo-Seq</topic>
+                        <topic>Translation</topic>
+                        <topic>Typ 3 Sekretionssystem (T3SS)</topic>
+                        <topic>Yersinia outer proteins (Yops)</topic>
+                        <topic>5&apos; UTR</topic>
+                        <topic>tRNA</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-17029473780</identifier>
+                    <identifier type="sys">HT020975962</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_cdb4585d-6d96-4abb-bf7c-8b2a8bb0482b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_cdb4585d-6d96-4abb-bf7c-8b2a8bb0482b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/cdb4585d-6d96-4abb-bf7c-8b2a8bb0482b/diss_volk.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_cdb4585d-6d96-4abb-bf7c-8b2a8bb0482b" DMDID="DMD_cdb4585d-6d96-4abb-bf7c-8b2a8bb0482b">
+            <mets:fptr FILEID="FILE_cdb4585d-6d96-4abb-bf7c-8b2a8bb0482b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

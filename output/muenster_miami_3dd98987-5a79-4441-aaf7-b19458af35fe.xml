@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3dd98987-5a79-4441-aaf7-b19458af35fe">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einführung in DERIVE anhand von Beispielen aus der Sekundarstufe I</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grasse, Matthias</displayForm>
+                        <namePart type="given">Matthias</namePart>
+                        <namePart type="family">Grasse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006</dateIssued>
+                        <dateIssued encoding="w3cdtf">2006-05-24</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2006-05-25</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="ownership">Copyright beim Autor</note>
+                    <note type="citation/reference">Workshopbeitrag zur 3. T³-Regionaltagung &quot;Computer im Mathematikunterricht. Wie verändert neue Technologie den Unterricht?&quot; an der Universität Mainz (3./4. März 2006)</note>
+                    <subject lang="ger">
+                        <topic>Terme</topic>
+                        <topic>Gleichungen</topic>
+                        <topic>Gleichungssysteme</topic>
+                        <topic>Funktionen</topic>
+                        <topic>Graphen</topic>
+                        <topic>Schieberegler</topic>
+                        <topic>abschnittsweise definierte Funktionen</topic>
+                        <topic>Funktionsanpassung</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-72649561774</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3dd98987-5a79-4441-aaf7-b19458af35fe</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3dd98987-5a79-4441-aaf7-b19458af35fe_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3dd98987-5a79-4441-aaf7-b19458af35fe/Grasse_Derive_SI.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3dd98987-5a79-4441-aaf7-b19458af35fe" DMDID="DMD_3dd98987-5a79-4441-aaf7-b19458af35fe">
+            <mets:fptr FILEID="FILE_3dd98987-5a79-4441-aaf7-b19458af35fe_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

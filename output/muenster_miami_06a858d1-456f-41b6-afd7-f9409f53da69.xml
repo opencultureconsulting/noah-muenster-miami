@@ -1,0 +1,93 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_06a858d1-456f-41b6-afd7-f9409f53da69">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Web Service Discovery – Reality Check 2.0</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129691518">
+                        <displayForm>Hagemann, Stephan</displayForm>
+                        <namePart type="given">Stephan</namePart>
+                        <namePart type="family">Hagemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173513204">
+                        <displayForm>Letz, Carolin</displayForm>
+                        <namePart type="given">Carolin</namePart>
+                        <namePart type="family">Letz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173513204">
+                        <displayForm>Letz, Carolin Hedwig Helene</displayForm>
+                        <namePart type="given">Carolin Hedwig Helene</namePart>
+                        <namePart type="family">Letz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, Gottfried</displayForm>
+                        <namePart type="given">Gottfried</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-07</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-08-25</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-08-26</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In practice the ability to find the right Web service decides between a functionality being implemented anew and at least the possibility of executing it via a service. This report evaluates existing public portals for Web service discovery with respect to their characteristics and their acceptance by developers. For this, we distinguish different possible settings and use cases and evaluate how these are supported in practice. Only few of the publicly available Web service registries are growing in size and importance, with the use case best supported being the pre-programming phase of evaluation of the service landscape.</abstract>
+                    <subject lang="eng">
+                        <topic>Web services</topic>
+                        <topic>Web service discovery</topic>
+                        <topic>UDDI</topic>
+                        <topic>public service directories</topic>
+                        <topic>Web 2.0</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">004</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-14529514594</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_06a858d1-456f-41b6-afd7-f9409f53da69</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_06a858d1-456f-41b6-afd7-f9409f53da69_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/06a858d1-456f-41b6-afd7-f9409f53da69/05_working_paper_ercis.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_06a858d1-456f-41b6-afd7-f9409f53da69" DMDID="DMD_06a858d1-456f-41b6-afd7-f9409f53da69">
+            <mets:fptr FILEID="FILE_06a858d1-456f-41b6-afd7-f9409f53da69_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

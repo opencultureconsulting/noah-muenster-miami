@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_35627bba-c960-4b9d-881e-b21e17e0c549">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Quantifizierung und Bewertung von Ausgasung bei Erwärmung von Flüssigkeiten mit verschiedenen Infusionswärmern</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1179955137">
+                        <displayForm>Heine, Daniel</displayForm>
+                        <namePart type="given">Daniel</namePart>
+                        <namePart type="family">Heine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110491343">
+                        <displayForm>Prien, Thomas</displayForm>
+                        <namePart type="given">Thomas</namePart>
+                        <namePart type="family">Prien</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-04-09</dateIssued>
+                        <dateOther encoding="w3cdtf">2019-01-02</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Bei der Erwärmung von Flüssigkeiten kommt es zu Gasbildung, die sich durch das Herabsetzen der Bindungskapazität der Flüssigkeit erklären lässt. Wenig ist bisher über die Mengen der im Rahmen der Infusionswärmung gebildeten Gasblasen, die tatsächlich zum Patienten gelangen, bekannt. Eine Messanordnung zur Quantifizierung des potentiell intravenös applizierten Gasvolumens (GASin) wurde entwickelt. In einer Laborsimulation wurden sowohl verschiedene Flüssigkeitswärmer als auch verschiedene Infusionsflüssigkeiten untersucht. GASin beträgt pro 500 ml Infusionslösung zwischen minimal 0,1 ± 0,07 ml und maximal 0,88 ± 0,15 ml. Es zeigte sich ein Vorteil für Geräte, welche über ein internes Luftabscheidesystem verfügen. Als Nebenbefund fiel auf, dass ein Infusionssystem selbst nur mit großer Sorgfalt abzudichten ist und im klinischen Alltag eine nicht unerhebliche Gefahr besteht, Patienten akzidentell kleine Luftvolumina zuzuführen. Die gemessenen Gasmengen betrugen im Schnitt 0,41 ± 0,25 ml.</abstract>
+                    <subject lang="ger">
+                        <topic>Infusionswärmer</topic>
+                        <topic>Gasbildung</topic>
+                        <topic>Ausgasung</topic>
+                        <topic>Luftembolie</topic>
+                        <topic>Mikroblasen</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-55139713714</identifier>
+                    <identifier type="sys">HT020027462</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_35627bba-c960-4b9d-881e-b21e17e0c549</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_35627bba-c960-4b9d-881e-b21e17e0c549_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/35627bba-c960-4b9d-881e-b21e17e0c549/diss_heine.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_35627bba-c960-4b9d-881e-b21e17e0c549" DMDID="DMD_35627bba-c960-4b9d-881e-b21e17e0c549">
+            <mets:fptr FILEID="FILE_35627bba-c960-4b9d-881e-b21e17e0c549_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

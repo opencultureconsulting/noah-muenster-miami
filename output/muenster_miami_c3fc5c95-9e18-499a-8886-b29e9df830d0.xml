@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c3fc5c95-9e18-499a-8886-b29e9df830d0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Festkörperlaser mit resonatorinterner Kompensation von Aberrationen durch adaptive Spiegel</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/137359705">
+                        <displayForm>Welp, Petra</displayForm>
+                        <namePart type="given">Petra</namePart>
+                        <namePart type="family">Welp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zacharias, Helmut</displayForm>
+                        <namePart type="given">Helmut</namePart>
+                        <namePart type="family">Zacharias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-01-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2008-07-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Eines der Hauptprobleme bei der Entwicklung von Laserresonatoren hoher Ausgangsleistung bei gleichzeitig guter Strahlqualität ist die während des Pumpprozesses im Verstärkermedium deponierte Wärmeleistung. Temperaturgradienten führen zur Ausbildung einer aberrationsbehafteten thermischen Linse und damit zu einer Verminderung der Strahlqualität des Lasers. Der Inhalt dieser Arbeit war der Aufbau eines Regelkreises aus evolutionärem Algorithmus und einem in den Laserresonator integrierten deformierbaren Spiegel zur Aberrationskompensation und damit zur Verbesserung der Laserstrahlqualität. Durch die erzielte Strahlqualitätsverbesserung bei konstanter Laserleistung konnte eine Optimierung der Brillanz um den Faktor 9 gezeigt werden.</abstract>
+                    <subject lang="ger">
+                        <topic>Aberrationskompensation</topic>
+                        <topic>Adaptive Optik</topic>
+                        <topic>Festkörperlaser</topic>
+                        <topic>Laser</topic>
+                        <topic>Thermische Effekte</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-22579645238</identifier>
+                    <identifier type="sys">HT015846850</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c3fc5c95-9e18-499a-8886-b29e9df830d0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c3fc5c95-9e18-499a-8886-b29e9df830d0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c3fc5c95-9e18-499a-8886-b29e9df830d0/diss_welp.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c3fc5c95-9e18-499a-8886-b29e9df830d0" DMDID="DMD_c3fc5c95-9e18-499a-8886-b29e9df830d0">
+            <mets:fptr FILEID="FILE_c3fc5c95-9e18-499a-8886-b29e9df830d0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

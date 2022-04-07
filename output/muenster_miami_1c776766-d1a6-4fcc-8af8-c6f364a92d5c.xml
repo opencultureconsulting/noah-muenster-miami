@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1c776766-d1a6-4fcc-8af8-c6f364a92d5c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Domain similarity based orthology detection</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1121583997">
+                        <displayForm>Bitard-Feildel, Tristan</displayForm>
+                        <namePart type="given">Tristan</namePart>
+                        <namePart type="family">Bitard-Feildel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1121584004">
+                        <displayForm>Kemena, Carsten</displayForm>
+                        <namePart type="given">Carsten</namePart>
+                        <namePart type="family">Kemena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1121584012">
+                        <displayForm>Greenwood, Jenny M.</displayForm>
+                        <namePart type="given">Jenny M.</namePart>
+                        <namePart type="family">Greenwood</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bornberg-Bauer, Erich</displayForm>
+                        <namePart type="given">Erich</namePart>
+                        <namePart type="family">Bornberg-Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bornberg-Bauer, E.</displayForm>
+                        <namePart type="given">E.</namePart>
+                        <namePart type="family">Bornberg-Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121413535">
+                        <displayForm>Bauer, Erich Bornberg-</displayForm>
+                        <namePart type="given">Erich Bornberg-</namePart>
+                        <namePart type="family">Bauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-13</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: Orthologous protein detection software mostly uses pairwise comparisons of amino-acid sequences to assert whether two proteins are orthologous or not. Accordingly, when the number of sequences for comparison increases, the number of comparisons to compute grows in a quadratic order. A current challenge of bioinformatic research, especially when taking into account the increasing number of sequenced organisms available, is to make this ever-growing number of comparisons computationally feasible in a reasonable amount of time. We propose to speed up the detection of orthologous proteins by using strings of domains to characterize the proteins. Results: We present two new protein similarity measures, a cosine and a maximal weight matching score based on domain content similarity, and new software, named porthoDom. The qualities of the cosine and the maximal weight matching similarity measures are compared against curated datasets. The measures show that domain content similarities are able to correctly group proteins into their families. Accordingly, the cosine similarity measure is used inside porthoDom, the wrapper developed for proteinortho. porthoDom makes use of domain content similarity measures to group proteins together before searching for orthologs. By using domains instead of amino acid sequences, the reduction of the search space decreases the computational complexity of an all-against-all sequence comparison. Conclusion: We demonstrate that representing and comparing proteins as strings of discrete domains, i.e. as a concatenation of their unique identifiers, allows a drastic simplification of search space. porthoDom has the advantage of speeding up orthology detection while maintaining a degree of accuracy similar to proteinortho. The implementation of porthoDom is released using python and C++ languages and is available under the GNU GPL licence 3 at http://www.bornberglab.org/pages/porthoda.</abstract>
+                    <note type="citation/reference">BMC Bioinformatics 16 (2015) 154, 1-11</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2015/2016 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Domain</topic>
+                        <topic>Domain similarity</topic>
+                        <topic>Orthology</topic>
+                        <topic>Similarity</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-99229524256</identifier>
+                    <identifier type="doi">10.1186/s12859-015-0570-8</identifier>
+                    <identifier type="issn">1471-2105</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/2.0/">CC BY 2.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1c776766-d1a6-4fcc-8af8-c6f364a92d5c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1c776766-d1a6-4fcc-8af8-c6f364a92d5c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1c776766-d1a6-4fcc-8af8-c6f364a92d5c/s12859-015-0570-8.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1c776766-d1a6-4fcc-8af8-c6f364a92d5c" DMDID="DMD_1c776766-d1a6-4fcc-8af8-c6f364a92d5c">
+            <mets:fptr FILEID="FILE_1c776766-d1a6-4fcc-8af8-c6f364a92d5c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

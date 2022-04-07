@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e58f0cc3-4717-4299-bd04-655071066553">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Variational methods for joint motion estimation and image reconstruction</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1073275159">
+                        <displayForm>Dirks, Hendrik</displayForm>
+                        <namePart type="given">Hendrik</namePart>
+                        <namePart type="family">Dirks</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1073275159">
+                        <displayForm>Dirks, Hendrik Meinert</displayForm>
+                        <namePart type="given">Hendrik Meinert</namePart>
+                        <namePart type="family">Dirks</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burger, Martin</displayForm>
+                        <namePart type="given">Martin</namePart>
+                        <namePart type="family">Burger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-07-02</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-06-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Dissertation werden verschiedene Techniken zur Bewegungsschätzung aus Bildsequenzen vorgestellt und mit Methoden zur Bildrekonstruktion verbunden. Die Arbeit gliedert sich in zwei Modellierungsteile und einen Anwendungsteil. Im ersten Modellierungsteil werden Variationsmethoden für die Bewegungsschätzung hergeleitet. Wir illustrieren hier sowohl Modellierung als auch numerische Implementierung basierend auf einem primal-dualen Modell. Alle vorgestellten Modelle werden numerisch evaluiert. Darauf aufbauend werden im zweiten Teil der Arbeit Modelle zur gleichzeitigen Bewegungsschätzung und Bildrekonstruktion entwickelt. Neben einem Beweis für die Existenz eines Minimierers gehen wir ausführlich auf die numerische Implementierung ein. Der Anwendungsteil der Arbeit teilt sich in ein Kapitel über Bildsegmentierung und ein weiteres zur Anwendung der neu erarbeiteten Modelle.</abstract>
+                    <abstract lang="eng">In this thesis we present different techniques for motion estimation from image sequences and combine them with image reconstruction. The main body of this work is divided in two modeling and one application part. The first model is a variational approach for motion estimation from image sequences. Mathematical background as well as different models for motion estimation are presented. We illustrate the numerical realization based on a primal-dual framework and evaluate our model towards different types of motion. In the second main part we connect the field of motion estimation to the task of image reconstruction. We deduce variational models for joint motion estimation and image reconstruction, prove existence of minimizers and present primal-dual schemes for the numerical implementation. The application part divides into chapters about image segmentation and application of our joint models to denoise image sequences and estimate their underlying motion simultaneously.</abstract>
+                    <subject lang="ger">
+                        <topic>Bildverarbeitung</topic>
+                        <topic>Inverse Probleme</topic>
+                        <topic>Variationsmethoden</topic>
+                        <topic>Bewegungsschätzung</topic>
+                        <topic>Bildrekonstruktion</topic>
+                        <topic>Bildsegmentierung</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Image processing</topic>
+                        <topic>Inverse problems</topic>
+                        <topic>Variational methods</topic>
+                        <topic>Motion estimation</topic>
+                        <topic>Image reconstruction</topic>
+                        <topic>Image segmentation</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-59219499925</identifier>
+                    <identifier type="sys">HT018690250</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e58f0cc3-4717-4299-bd04-655071066553</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e58f0cc3-4717-4299-bd04-655071066553_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e58f0cc3-4717-4299-bd04-655071066553/diss_dirks_hendrik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e58f0cc3-4717-4299-bd04-655071066553" DMDID="DMD_e58f0cc3-4717-4299-bd04-655071066553">
+            <mets:fptr FILEID="FILE_e58f0cc3-4717-4299-bd04-655071066553_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

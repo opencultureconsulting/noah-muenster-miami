@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_45a83bea-e1d8-42e9-be36-c1d80999a85a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>GERoMe-a Method for Evaluating Stability of Graph Extraction Algorithms Without Ground Truth</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Drees, Dominik</displayForm>
+                        <namePart type="given">Dominik</namePart>
+                        <namePart type="family">Drees</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1159923523">
+                        <displayForm>Scherzinger, Aaron</displayForm>
+                        <namePart type="given">Aaron</namePart>
+                        <namePart type="family">Scherzinger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang, Xiaoyi</displayForm>
+                        <namePart type="given">Xiaoyi</namePart>
+                        <namePart type="family">Jiang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Xiaoyi, Jiang</displayForm>
+                        <namePart type="given">Jiang</namePart>
+                        <namePart type="family">Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1079282491">
+                        <displayForm>Jiang Xiaoyi</displayForm>
+                        <namePart type="family">Jiang Xiaoyi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-15</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The extraction of graph structures in Euclidean vector space is a topic of interest with applications in many fields, such as the analysis of vascular networks in the biomedical domain. While a number of approaches have been proposed to tackle the problem of graph extraction, a quantitative evaluation of those algorithms remains a challenging task: In many cases, manual generation of ground truth for real-world data is time-consuming, error-prone, and thus not feasible. While tools for generating synthetic datasets with corresponding ground truth exist, the resulting data often does not reflect the complexity that real-world scenarios show in morphology and topology. As a complementary or even alternative approach, we propose GERoMe, the graph extraction robustness measure, which provides a means of quantifying the stability of algorithms that extract (multi-)graphs with associated node positions from non-graph structures. Our method takes edge-associated properties into consideration and does not necessarily require ground truth data, although available ground truth information can be incorporated to additionally evaluate the correctness of the graph extraction algorithm. We evaluate the behavior of the proposed graph similarity measure and demonstrate the usefulness and applicability of our method in an exemplary study on both synthetic and real-world data.</abstract>
+                    <note type="citation/reference">IEEE Access 7 (2019), 21744-21755</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Evaluation</topic>
+                        <topic>graph extraction</topic>
+                        <topic>robustness</topic>
+                        <topic>stability</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-02189575613</identifier>
+                    <identifier type="doi">10.1109/ACCESS.2019.2898754</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_45a83bea-e1d8-42e9-be36-c1d80999a85a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_45a83bea-e1d8-42e9-be36-c1d80999a85a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/45a83bea-e1d8-42e9-be36-c1d80999a85a/artikel_jiang_2019.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_45a83bea-e1d8-42e9-be36-c1d80999a85a" DMDID="DMD_45a83bea-e1d8-42e9-be36-c1d80999a85a">
+            <mets:fptr FILEID="FILE_45a83bea-e1d8-42e9-be36-c1d80999a85a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

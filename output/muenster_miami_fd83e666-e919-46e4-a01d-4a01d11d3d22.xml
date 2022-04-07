@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_fd83e666-e919-46e4-a01d-4a01d11d3d22">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Branching with branching</title>
+                        <subTitle>a stochastic description of host-parasite populations</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1037718038">
+                        <displayForm>Gröttrup, Sören</displayForm>
+                        <namePart type="given">Sören</namePart>
+                        <namePart type="family">Gröttrup</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, Gerold</displayForm>
+                        <namePart type="given">Gerold</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121528677">
+                        <displayForm>Alsmeyer, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Alsmeyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013</dateIssued>
+                        <dateIssued encoding="w3cdtf">2013-07-21</dateIssued>
+                        <dateOther encoding="w3cdtf">2013-06-12</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In dieser Arbeit wird ein stochastisches Parasit-Wirt Populationsmodell studiert. Die Wirtpopulation (Zellen) bildet dabei einen Galton-Watson Prozess (GWP), bei dem jede Zelle wiederum sich vermehrende Parasiten enthält, deren Nachkommen sich zufällig auf die Nachkommen der Zelle verteilen. Hergeleitet wird ein Zusammenhang zwischen dem asymptotischen Verhalten dieses Prozesses und einem GWP in zufällig variierender Umgebung, mit dessen Hilfe und in Abhängigkeit von dessen Verhalten für die Anzahl infizierter Zellen und Parasiten Analoga zu den klassischen Grenzwertsätzen für GWPe bewiesen werden. Des Weiteren werden die Verteilung der Parasiten auf die Zellen und ihr Grenzverhalten untersucht. Zum Schluss wird die erarbeitete Theorie benutzt, um eine Parasit-Zell Population mit zwei unterschiedlichen Zelltypen A und B zu untersuchen. Hierbei steht das Verhältnis von infizierten Typ-A Zellen zu den infizierten Typ-B Zellen und die Ermittlung seines Grenzwertes im Vordergrund.</abstract>
+                    <subject lang="ger">
+                        <topic>Parasit-Wirt Population</topic>
+                        <topic>Galton-Watson Prozess</topic>
+                        <topic>Galton-Watson Prozess in zufällig variierender Umgebung</topic>
+                        <topic>Galton-Watson Prozess in zufällig variierender Umgebung mit Immigration</topic>
+                        <topic>Grenzwertsätze</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-76329383449</identifier>
+                    <identifier type="sys">HT017721391</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_fd83e666-e919-46e4-a01d-4a01d11d3d22</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_fd83e666-e919-46e4-a01d-4a01d11d3d22_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fd83e666-e919-46e4-a01d-4a01d11d3d22/diss_groettrup.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_fd83e666-e919-46e4-a01d-4a01d11d3d22" DMDID="DMD_fd83e666-e919-46e4-a01d-4a01d11d3d22">
+            <mets:fptr FILEID="FILE_fd83e666-e919-46e4-a01d-4a01d11d3d22_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

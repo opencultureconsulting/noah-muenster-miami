@@ -1,0 +1,116 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_351865ff-fd12-4ffc-af38-ec455155b3f6">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Security through safety</title>
+                        <subTitle>an approach to information flow control based on derivation of safety properties from a characterisation of insecure behaviour</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1254106189">
+                        <displayForm>Nordhoff, Benedikt</displayForm>
+                        <namePart type="given">Benedikt</namePart>
+                        <namePart type="family">Nordhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1254106189">
+                        <displayForm>Nordhoff, Benedikt Heinrich Josef</displayForm>
+                        <namePart type="given">Benedikt Heinrich Josef</namePart>
+                        <namePart type="family">Nordhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1254106189">
+                        <displayForm>Nordhoff, Heinrich Josef</displayForm>
+                        <namePart type="given">Heinrich Josef</namePart>
+                        <namePart type="family">Nordhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1254106189">
+                        <displayForm>Nordhoff, Josef</displayForm>
+                        <namePart type="given">Josef</namePart>
+                        <namePart type="family">Nordhoff</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1059144441">
+                        <displayForm>Müller-Olm, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Müller-Olm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1059144441">
+                        <displayForm>Olm, Markus Müller-</displayForm>
+                        <namePart type="given">Markus Müller-</namePart>
+                        <namePart type="family">Olm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-03-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2022-01-21</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Gebiet der Informationsfluskontrolle beschaeftigt sich mit dem Problem sicherzustellen, dass ein Programm das vertrauliche Daten verarbeitet keine Informationen ueber diese Daten an nicht vertrauenswuerdige Kanaele preisgibt. Diese Arbeit praesentiert einen Ansatz zur statischen Informationsflusskontrolle, der es ermoeglicht die Praezision moderner Programmanalysen, die auf die Verifikation von Erreichbarkeitseigenschaften spezialisiert sind, zur Verifikation von Informationsflusssicherheit zu nutzen. Der Ansatz basiert auf einer Charakterisierung von Paaren von Ausfuehrungen eines gegebenen Programms, die eine Informationsflusssicherheitseigenschaft verletzten. Aus dieser Charakterisierung werden approximierende Erreichbarkeitseigenschaften abgeleitet, welche die Informationsflusssicherheit des Programms implizieren und mit Hilfe existierender Programmanalysen verifiziert werden koennen. Die Korrektheit des Ansatzes wird formal bewiesen und an mehreren Anwendungen illustriert.</abstract>
+                    <abstract lang="eng">Information flow control is concerned with ensuring that a program which receives confidential input does not leak information about this input to untrusted channels. We present a novel approach for static information flow control that can harness the power of modern safety analyses. The approach is based on a characterisation of pairs of executions which break a security property. From the characterisation approximating safety properties are derived which ensure the security of the program. The development utilises a simple yet versatile program model that is not limited to finite control or data and targets a semantic security property which is termination insensitive but still gives some guarantees for non-terminating executions by allowing for observations throughout the execution of a program. We provide rigorous soundness proofs that have also been machine checked and describe multiple instantiations of the approach including a fixed point-based approach targeting abstract interpretation-like safety analyses and a regular approximation that is the basis for a prototypical implementation.</abstract>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2022</note>
+                    <subject lang="ger">
+                        <topic>Informationsfluss</topic>
+                        <topic>Programmanalyse</topic>
+                        <topic>Formale Methoden</topic>
+                        <topic>Informationsflusssicherheit</topic>
+                        <topic>Abstrakte Interpretation</topic>
+                        <topic>PDG</topic>
+                        <topic>Verifikation</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>information flow</topic>
+                        <topic>program analysis</topic>
+                        <topic>formal methods</topic>
+                        <topic>information flow security</topic>
+                        <topic>abstract-interpretation</topic>
+                        <topic>pdg</topic>
+                        <topic>program verification</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24059372566</identifier>
+                    <identifier type="doi">10.17879/24059374585</identifier>
+                    <identifier type="sys">HT021297651</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_351865ff-fd12-4ffc-af38-ec455155b3f6</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_351865ff-fd12-4ffc-af38-ec455155b3f6_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/351865ff-fd12-4ffc-af38-ec455155b3f6/diss_nordhoff.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_351865ff-fd12-4ffc-af38-ec455155b3f6" DMDID="DMD_351865ff-fd12-4ffc-af38-ec455155b3f6">
+            <mets:fptr FILEID="FILE_351865ff-fd12-4ffc-af38-ec455155b3f6_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

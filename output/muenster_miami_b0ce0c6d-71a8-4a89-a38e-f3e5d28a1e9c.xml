@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_b0ce0c6d-71a8-4a89-a38e-f3e5d28a1e9c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Regulation der Adipophilin-Expression</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/130409138">
+                        <displayForm>Eisenberg, Monika</displayForm>
+                        <namePart type="given">Monika</namePart>
+                        <namePart type="family">Eisenberg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cullen, Paul</displayForm>
+                        <namePart type="given">Paul</namePart>
+                        <namePart type="family">Cullen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+                        <dateIssued encoding="w3cdtf">2005-08-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2005-08-23</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Adipophilin ist ein Protein des zellulären Lipid-Stoffwechsels. Es ist an Transport und Lagerung von Lipiden in der Zelle beteiligt. Adipophilin ist möglicherweise durch Schaumzellbildung an der Entstehung der Arteriosklerose beteiligt. Es wurde an THP1-Makrophagen untersucht, welche Transkriptionsfaktoren die Expression von Adipophilin-mRNA regulieren. Alle untersuchten Transkriptionsfaktoren bilden Heterodimere mit RXR. Von diesen wurden außer durch PPAR gamma, welches bekanntermaßen Adipophilin reguliert, durch RAR und durch RXR selber Änderungen in der Expression des Adipophilin-Gens verursacht. Es wurde gezeigt, dass die Regulation der Adipophilin-Expression durch RXR und durch RAR konzentrationsabhängig war. Die zelluläre Lokalisation von Adipophilin wurde durch die indirekte Immunfluoreszenz sowie die elektronenmikroskopische Gefrierbruch-Immunzytochemie untersucht. Offensichtlich ist Adipophilin sowohl an der äußeren Schicht als auch im Inneren der Lipid-Tropfen lokalisiert.</abstract>
+                    <subject lang="ger">
+                        <topic>Lipid-Stoffwechsel</topic>
+                        <topic>Schaumzellbildung</topic>
+                        <topic>Arteriosklerose</topic>
+                        <topic>Transkriptionsfaktor</topic>
+                        <topic>zelluläre Lokalisation</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-05629583352</identifier>
+                    <identifier type="sys">HT014518456</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_b0ce0c6d-71a8-4a89-a38e-f3e5d28a1e9c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_b0ce0c6d-71a8-4a89-a38e-f3e5d28a1e9c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b0ce0c6d-71a8-4a89-a38e-f3e5d28a1e9c/diss_eisenberg.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_b0ce0c6d-71a8-4a89-a38e-f3e5d28a1e9c" DMDID="DMD_b0ce0c6d-71a8-4a89-a38e-f3e5d28a1e9c">
+            <mets:fptr FILEID="FILE_b0ce0c6d-71a8-4a89-a38e-f3e5d28a1e9c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

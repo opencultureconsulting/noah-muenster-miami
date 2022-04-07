@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_96677472-0664-4d0a-b372-3d0e83879a96">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Linking autoimmunity to the origin of the adaptive immune system</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bayersdorf, Robert</displayForm>
+                        <namePart type="given">Robert</namePart>
+                        <namePart type="family">Bayersdorf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1033582697">
+                        <displayForm>Fruscalzo, Arrigo</displayForm>
+                        <namePart type="given">Arrigo</namePart>
+                        <namePart type="family">Fruscalzo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1096897474">
+                        <displayForm>Catania, Francesco</displayForm>
+                        <namePart type="given">Francesco</namePart>
+                        <namePart type="family">Catania</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-12</dateIssued>
+                        <dateIssued encoding="w3cdtf">2019-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In jawed vertebrates, the adaptive immune system (AIS) cooperates with the innate immune system (IIS) to protect hosts from infections. Although targeting non-self-components, the AIS also generates self-reactive antibodies which, when inadequately counter-selected, can give rise to autoimmune diseases (ADs). ADs are on the rise in western countries. Why haven’t ADs been eliminated during the evolution of a ∼500 million-year old system? And why have they become more frequent in recent decades? Self-recognition is an attribute of the phylogenetically more ancient IIS and empirical data compellingly show that some self-reactive antibodies, which are classifiable as elements of the IIS rather then the AIS, may protect from (rather than cause) ADs. Here, we propose that the IIS’s self-recognition system originally fathered the AIS and, as a consequence of this relationship, its activity is dampened in hygienic environments. Rather than a mere breakdown or failure of the mechanisms of self-tolerance, ADs might thus arise from architectural constraints.</abstract>
+                    <note>Evolution, Medicine, and Public Health 2018 (2018) 1, 2-12</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2018 der Deutschen Forschungsgemeinschaft (DFG) und der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>adaptive immune system</topic>
+                        <topic>innate immune system</topic>
+                        <topic>natural autoantibodies</topic>
+                        <topic>self-recognition</topic>
+                        <topic>pregnancy</topic>
+                        <topic>immune tolerance</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-15169570498</identifier>
+                    <identifier type="doi">10.1093/emph/eoy001</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_96677472-0664-4d0a-b372-3d0e83879a96</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_96677472-0664-4d0a-b372-3d0e83879a96_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/96677472-0664-4d0a-b372-3d0e83879a96/artikel_catania_2018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_96677472-0664-4d0a-b372-3d0e83879a96" DMDID="DMD_96677472-0664-4d0a-b372-3d0e83879a96">
+            <mets:fptr FILEID="FILE_96677472-0664-4d0a-b372-3d0e83879a96_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

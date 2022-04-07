@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_15ddcf9f-9710-458f-9921-00bbab2d36b5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biographisches Portal NRW</title>
+                        <subTitle>ein Angebot der Universitäts- und Landesbibliothek Münster zur landeskundlichen Personenrecherche in Nordrhein-Westfalen ; Präsentation mit einem Abstract als Anhang</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/114585369">
+                        <displayForm>Flachmann, Holger</displayForm>
+                        <namePart type="given">Holger</namePart>
+                        <namePart type="family">Flachmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">conferenceObject</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-05-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In ihrer Eigenschaft als nordrhein-westfälische Landesbibliothek entwickelt die Universitäts- und Landesbibliothek Münster ein digitales Werkzeug, das Personen aus und mit Bedeutung für Nordrhein-Westfalen, seine Regionen und Orte nachweist. Das bis April 2016 unter dem Projektnamen „Biographischer Thesaurus NRW“ betriebene neue landesbibliothekarische Angebot kann bereits in einer in Entwicklung begriffenen Beta-Version für die landeskundliche Personenrecherche genutzt werden. Das Biographische Portal NRW (http://ulb.uni-muenster.de/labs/biographie-nrw) macht insbesondere die große Zahl Personendatensätze mit ihren differenzierten biographischen Informationen nutzbar, die im Rahmen der Literaturverzeichnung in der Nordrhein-Westfälischen Bibliographie (NWBib, https://nwbib.de/) erstellt werden. Hierfür wurden eine Menü- und eine moderne Kartensuche eingerichtet. Als Sucheinstiege lassen sich Personenname, Beruf, Geburts-, Sterbe- und Wirkungsorte, Lebensdaten und Epochen sowie frei wählbare Kartensegmente wählen. Innovativ ist auch, dem Nutzer Links auf Einträge zu den ermittelten Personen in frei zugänglichen bibliothekarischen, landeskundlichen und biographischen Informationsmitteln im Netz anzubieten, Links auf Titel aus der NWBib und dem nordrhein-westfälischen Verbundkatalog beim Hochschulbibliothekszentrum (hbz) in Köln, auf Artikel aus Biographien und Lexika oder auf die Personendatensätze im Katalog der Deutschen Nationalbibliothek und die entsprechenden Personenartikel in der Wikipedia. Die weitere Entwicklung zielt darauf ab, die Datenbasis abzurunden, mit der bibliothekarischen Online-Datenhaltung automatisch zu verknüpfen sowie die Suche und die Präsentation zu optimieren.</abstract>
+                    <subject lang="ger">
+                        <topic>Nordrhein-Westfalen</topic>
+                        <topic>Biographie</topic>
+                        <topic>Person</topic>
+                        <topic>Recherche</topic>
+                        <topic>Landeskunde</topic>
+                        <topic>Portal</topic>
+                        <topic>Internet</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-76209447336</identifier>
+                    <identifier type="sys">HT018971732</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_15ddcf9f-9710-458f-9921-00bbab2d36b5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>conference_object</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_15ddcf9f-9710-458f-9921-00bbab2d36b5_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/15ddcf9f-9710-458f-9921-00bbab2d36b5/vortrag_flachmann_biograph-portal-nrw_2016.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_15ddcf9f-9710-458f-9921-00bbab2d36b5" DMDID="DMD_15ddcf9f-9710-458f-9921-00bbab2d36b5">
+            <mets:fptr FILEID="FILE_15ddcf9f-9710-458f-9921-00bbab2d36b5_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

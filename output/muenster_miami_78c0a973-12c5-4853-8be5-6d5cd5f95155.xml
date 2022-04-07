@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_78c0a973-12c5-4853-8be5-6d5cd5f95155">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Rokhlin dimension and topological dynamics</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1074417410">
+                        <displayForm>Szabó, Gábor</displayForm>
+                        <namePart type="given">Gábor</namePart>
+                        <namePart type="family">Szabó</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122275047">
+                        <displayForm>Winter, Wilhelm</displayForm>
+                        <namePart type="given">Wilhelm</namePart>
+                        <namePart type="family">Winter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015</dateIssued>
+                        <dateIssued encoding="w3cdtf">2015-07-28</dateIssued>
+                        <dateOther encoding="w3cdtf">2015-07-10</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir studieren und verallgemeinern das Konzept der Rokhlin-Dimension (nach Hirshberg, Winter und Zacharias) von Gruppenwirkungen auf C-Stern-Algebren. Die Betrachtung von topologischen, freien Gruppenwirkungen ist dabei das Hauptanwendungsfeld. Als Hauptresultat zeigen wir, dass freie Z m-Wirkungen auf endlich-dimensionalen, kompakten metrischen Räumen stets endliche Rokhlin-Dimension haben. Insbesondere haben die zugeordneten Transformationsgruppen-C-Stern-Algebren automatisch endliche nukleare Dimension. Der Ansatz benutzt eine breite Verallgemeinerung von Gutmans Marker-Eigenschaft auf den Fall freier Gruppenwirkungen, welche im Fall von Z m eine besonders starke Variante zulässt, die die endliche Rokhlin-Dimension der Wirkung impliziert. Ein ähnliches Resultat wird auch für freie Wirkungen unendlicher, endlich erzeugter und nilpotenter Gruppen gezeigt.</abstract>
+                    <subject lang="ger">
+                        <topic>Dynamische Systeme</topic>
+                        <topic>C-Stern-Algebren</topic>
+                        <topic>Gruppenwirkungen</topic>
+                        <topic>Elliott-Programm</topic>
+                        <topic>nukleare Dimension</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Dynamical systems</topic>
+                        <topic>C star algebras</topic>
+                        <topic>group actions</topic>
+                        <topic>Elliott program</topic>
+                        <topic>nuclear dimension</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-98289638538</identifier>
+                    <identifier type="sys">HT018714115</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_78c0a973-12c5-4853-8be5-6d5cd5f95155</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_78c0a973-12c5-4853-8be5-6d5cd5f95155_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/78c0a973-12c5-4853-8be5-6d5cd5f95155/diss_szabo.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_78c0a973-12c5-4853-8be5-6d5cd5f95155" DMDID="DMD_78c0a973-12c5-4853-8be5-6d5cd5f95155">
+            <mets:fptr FILEID="FILE_78c0a973-12c5-4853-8be5-6d5cd5f95155_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

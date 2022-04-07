@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e1fd1f53-88a1-4266-b914-360661490615">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Epigallocatechin-3-gallat (EGCG), ein Catechin des grünen Tees, als Therapeutikum im DSS-Kolitis-Modell der Maus</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/143233041">
+                        <displayForm>Brückner, Markus Georg</displayForm>
+                        <namePart type="given">Markus Georg</namePart>
+                        <namePart type="family">Brückner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/122312651">
+                        <displayForm>Lügering, Andreas</displayForm>
+                        <namePart type="given">Andreas</namePart>
+                        <namePart type="family">Lügering</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010</dateIssued>
+                        <dateIssued encoding="w3cdtf">2010-12-07</dateIssued>
+                        <dateOther encoding="w3cdtf">2010-11-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Gewebecharkteristika chronisch entzündlicher Darmerkrankungen (Morbus Crohn oder Colitis Ulcerosa) sind vermehrte Leukozyteninfiltration und oxidativer Stress durch verstärktes Auftreten reaktiver Sauerstoffspezies. Ein Catechin der Spezies Camellia, (2R,3R)-2-(3,4,5-Trihydroxyphenyl)-3,4-dihydro-1(2H)-benzopyran-3,5,7-triol-3-(3,4,5-trihydroxybenzoat), Epigallocatechin-3-gallat (EGCG), zeigt antientzündliche und antioxidative Eigenschaften. Ziel dieser Studie war die Evaluation der therapeutischen Effekte des EGCG in einem murinen DSS-Kolitismodell. Die tägliche Gabe umfasste 6.9 mg/kg Körpergewicht EGCG. Behandelte Mäuse zeigten eine signifikante Gewichtsstabilisierung, Verlängerung des Überlebens und Reduktion proinflammatorischer Zytokine. Außerdem waren die Gewebekonzentrationen von Malondialdehyd, Endprodukt der Lipidperoxidation signifikant reduziert, während antioxidativ wirkende Gewebeenzyme eine verstärkte Aktivität aufwiesen.</abstract>
+                    <subject lang="ger">
+                        <topic>Epigallocatechin-3-gallat (EGCG)</topic>
+                        <topic>Morbus Crohn</topic>
+                        <topic>Colitis Ulcerosa</topic>
+                        <topic>Radikale Sauerstoffsepsis (ROS)</topic>
+                        <topic>Grüner Tee</topic>
+                        <topic>DSS-Colitis</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-65489610067</identifier>
+                    <identifier type="sys">HT016656704</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e1fd1f53-88a1-4266-b914-360661490615</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e1fd1f53-88a1-4266-b914-360661490615_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e1fd1f53-88a1-4266-b914-360661490615/diss_brueckner.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e1fd1f53-88a1-4266-b914-360661490615" DMDID="DMD_e1fd1f53-88a1-4266-b914-360661490615">
+            <mets:fptr FILEID="FILE_e1fd1f53-88a1-4266-b914-360661490615_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

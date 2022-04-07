@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_29ad7087-569f-4744-9910-5576f1616a54">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>neue Haus der Universitätsbibliothek Münster</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118572725">
+                        <displayForm>Liebers, Gerhard</displayForm>
+                        <namePart type="given">Gerhard</namePart>
+                        <namePart type="family">Liebers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1976</dateIssued>
+                        <dateIssued encoding="w3cdtf">2009-03-04</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2009-03-18</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Sonderheft zum 66. Deutschen Bibliothekartag 1976 in Münster</abstract>
+                    <note type="citation/reference">DFW 24 (1976) Sonderheft, 3-10</note>
+                    <subject lang="ger">
+                        <topic>Universtätsbibliothek Münster</topic>
+                        <topic>Neubau 1976</topic>
+                    </subject>
+                    <classification authority="ddc">020</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-02539552298</identifier>
+                    <identifier type="sys">HT019453959</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_29ad7087-569f-4744-9910-5576f1616a54</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_29ad7087-569f-4744-9910-5576f1616a54_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/29ad7087-569f-4744-9910-5576f1616a54/01_dfw_liebers.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_29ad7087-569f-4744-9910-5576f1616a54" DMDID="DMD_29ad7087-569f-4744-9910-5576f1616a54">
+            <mets:fptr FILEID="FILE_29ad7087-569f-4744-9910-5576f1616a54_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

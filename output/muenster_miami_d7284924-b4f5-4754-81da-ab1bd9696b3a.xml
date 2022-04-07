@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_d7284924-b4f5-4754-81da-ab1bd9696b3a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Phylogenetischer Vergleich von chromosomal- und plasmid-kodierten Genabschnitten in enterohämorrhagischen Escherichia coli</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1050056272">
+                        <displayForm>Waldmann, Karsten</displayForm>
+                        <namePart type="given">Karsten</namePart>
+                        <namePart type="family">Waldmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173556833">
+                        <displayForm>Mellmann, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Mellmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014-04-17</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2014-04-03</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In einem repräsentativen Kollektiv HUS-assoziierter EHEC wurde untersucht, in welchem Verhältnis sich das Plasmid und das Chromosom zueinander entwickelt haben. Dazu wurden 41 Stämme hinsichtlich der plasmid-kodierten Gene EHEC-hlyA und espP untersucht und sequenziert. Diese plasmidalen Sequenzen sowie die konkatenierten Sequenzen der sieben chromosomalen Haushaltsgene aus dem E. coli-MLST-Schema wurden auf ihre Phylogenie untersucht um einen Vergleich der Entwicklung durchzuführen. Von den 42 untersuchten HUSEC-Stämmen waren 23 EHEC-hlyA-positiv und 14 espP-positiv, darunter 12 sowohl EHEC-hlyA als auch espP-positiv. Der Vergleich der phylogenetischen Bäume ergab, dass die Struktur der plasmidalen Sequenzen gegenüber den chromosomalen Sequenzen keine signifikanten Übereinstimmungen aufweisen. Zusammenfassend haben sich somit die chromosomalen Gene unabhängig von den plasmidalen Genen entwickelt.</abstract>
+                    <subject lang="ger">
+                        <topic>Escherichia coli</topic>
+                        <topic>EHEC-hlyA</topic>
+                        <topic>espP</topic>
+                        <topic>Chromosom</topic>
+                        <topic>Plasmid</topic>
+                        <topic>Phylogenie</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-73359418156</identifier>
+                    <identifier type="sys">HT018237656</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_d7284924-b4f5-4754-81da-ab1bd9696b3a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_d7284924-b4f5-4754-81da-ab1bd9696b3a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d7284924-b4f5-4754-81da-ab1bd9696b3a/diss_waldmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_d7284924-b4f5-4754-81da-ab1bd9696b3a" DMDID="DMD_d7284924-b4f5-4754-81da-ab1bd9696b3a">
+            <mets:fptr FILEID="FILE_d7284924-b4f5-4754-81da-ab1bd9696b3a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

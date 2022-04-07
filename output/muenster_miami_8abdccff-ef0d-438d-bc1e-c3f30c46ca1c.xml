@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8abdccff-ef0d-438d-bc1e-c3f30c46ca1c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>neoadjuvante Chemotherapie des Mammakarzinoms</title>
+                        <subTitle>Behandlungserfolg  und Tumorregression</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13367925X">
+                        <displayForm>Laisiepen, Elena</displayForm>
+                        <namePart type="given">Elena</namePart>
+                        <namePart type="family">Laisiepen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/13367925X">
+                        <displayForm>Stavreva, Elena</displayForm>
+                        <namePart type="given">Elena</namePart>
+                        <namePart type="family">Stavreva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwering, Hans</displayForm>
+                        <namePart type="given">Hans</namePart>
+                        <namePart type="family">Schwering</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
+                        <dateIssued encoding="w3cdtf">2007-11-14</dateIssued>
+                        <dateOther encoding="w3cdtf">2007-11-05</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die neoadjuvante Chemotherapie (PST) stellt die Alternative zu einer adjuvanten Behandlung im Therapiekonzept des Mammakarzinoms dar. Zwischen 2000 und 2005 wurde im Marienhospital Euskirchen bei 118 Patientinnen ein Mammakarzinom diagnostiziert. Anschließend wurden sie einer PST und einer operativen Sanierung unterzogen. Ein Pathologe ermittelte zwei anerkannte Regressionsgradings, nach Miller/Payne und nach Sinn. Die BET-Rate lag bei 75,4%, die komplette pathologische Komplettremission bei 15,25%. Hochsignifikant häufiger waren diese Tumore hormonrezeptornegativ und in der Bildgebung nach der PST kleiner gemessen worden. Die höchsten Regressionsraten wurden unter dem Anthrazyclin Epirubicin erreicht. Die Tumorzellreduktion war am höchsten bei den G3-Tumoren, bei den taxanhaltigen Chemotherapien und bei den rezeptornegativen Tumoren. Das Regressionsgrading nach Miller/Payne spiegelt tendenziell die Regression im Tumorgewebe genauer wider.</abstract>
+                    <subject lang="ger">
+                        <topic>Mammakarzinom</topic>
+                        <topic>neoadjuvante Chemotherapie</topic>
+                        <topic>Tumorregression</topic>
+                        <topic>Regressionsgrading</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-77509561680</identifier>
+                    <identifier type="sys">HT015396170</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8abdccff-ef0d-438d-bc1e-c3f30c46ca1c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8abdccff-ef0d-438d-bc1e-c3f30c46ca1c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8abdccff-ef0d-438d-bc1e-c3f30c46ca1c/diss_laisiepen.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8abdccff-ef0d-438d-bc1e-c3f30c46ca1c" DMDID="DMD_8abdccff-ef0d-438d-bc1e-c3f30c46ca1c">
+            <mets:fptr FILEID="FILE_8abdccff-ef0d-438d-bc1e-c3f30c46ca1c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

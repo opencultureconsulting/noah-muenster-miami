@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_be784b4f-f80f-4d8a-aa65-c7e225e2603c">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung des Phospholipase-C-γ-2-Gens auf genetische Variabilität</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1047069954">
+                        <displayForm>Quindt, Eduard</displayForm>
+                        <namePart type="given">Eduard</namePart>
+                        <namePart type="family">Quindt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1027044093">
+                        <displayForm>Brand, Stefan-Martin</displayForm>
+                        <namePart type="given">Stefan-Martin</namePart>
+                        <namePart type="family">Brand</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf">2014-02-03</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2014-01-24</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Wir untersuchten die PLCgamma2 in 95 Patienten der ECTIM-Studie mittels SSCP und Sequenzierung auf genetische Varianten. Es wurden 58 genetische Varianten identifiziert, 26 im Promotorbereich, 14 in Exons und 18 in Introns. Die SNPs A80369511G und T80369776C verändern die Vorhersage für TFBS der NF-kappaB-Familie. Die Varianten A80370272G und C80370273G liegen im PLCgamma2-Promotorbereich mit hoher Aktivität. In der Nähe einer AP-1- und NF-kappaB-TFBS befinden sich die Varianten T80368661G, G80368898C, C80369484A, G80369737A und A80369893G. In den kodierenden Bereichen wurden die genetischen Varianten A80377177T, A80480282T, C80480314T und C80510742T als Missensevarianten identifiziert. Die Varianten A80480282T und C80480314T befinden sich in der EF-hand-like-Domäne der PLCgamma2 und könnten zu einer veränderten Kalziumionenaffinität des Proteins führen. Diese Ergebnisse sollen als Grundlage für weitere molekular- und zellbiologische Analysen im PLCgamma2-Gen dienen.</abstract>
+                    <subject lang="ger">
+                        <topic>Phospholipase C gamma 2</topic>
+                        <topic>Akutes Koronarsyndrom</topic>
+                        <topic>Thrombozytenaggregation</topic>
+                        <topic>Thrombozytenadhäsion</topic>
+                        <topic>AP-1</topic>
+                        <topic>NF-kappaB</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04339571140</identifier>
+                    <identifier type="sys">HT018155067</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_be784b4f-f80f-4d8a-aa65-c7e225e2603c</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_be784b4f-f80f-4d8a-aa65-c7e225e2603c_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/be784b4f-f80f-4d8a-aa65-c7e225e2603c/diss_quindt.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_be784b4f-f80f-4d8a-aa65-c7e225e2603c" DMDID="DMD_be784b4f-f80f-4d8a-aa65-c7e225e2603c">
+            <mets:fptr FILEID="FILE_be784b4f-f80f-4d8a-aa65-c7e225e2603c_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

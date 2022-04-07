@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e9ba0f95-f223-4982-ad5b-ab81891c8bb8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="fre">
+                        <title>Réflexion moraliste chez les Rhétoriqueurs</title>
+                        <subTitle>Les actes du langage chez Deschamp</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzki, Ch.</displayForm>
+                        <namePart type="given">Ch.</namePart>
+                        <namePart type="family">Strosetzki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/139859691">
+                        <displayForm>Strosetzky, Christoph</displayForm>
+                        <namePart type="given">Christoph</namePart>
+                        <namePart type="family">Strosetzky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1982</dateIssued>
+                        <dateIssued encoding="w3cdtf">2016-01-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+                    </language>
+                    <note type="citation/reference">Wunderli, Peter (Hrsg.): Du mot au texte : actes du IIIème Colloque International sur le Moyen Francais, Düsseldorf, 17 - 19 septembre 1980. Tübingen : Narr, 1982, S. 241-252, ISBN: 3-87808-998-8</note>
+                    <note type="ownership">Druckausgabe 1982. Digitale Publikation mit Genehmigung der Narr Francke Attempto Verlag GmbH + Co. KG</note>
+                    <classification authority="ddc">840</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-07229719558</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e9ba0f95-f223-4982-ad5b-ab81891c8bb8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e9ba0f95-f223-4982-ad5b-ab81891c8bb8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e9ba0f95-f223-4982-ad5b-ab81891c8bb8/strosetzki_1982_reflexion.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e9ba0f95-f223-4982-ad5b-ab81891c8bb8" DMDID="DMD_e9ba0f95-f223-4982-ad5b-ab81891c8bb8">
+            <mets:fptr FILEID="FILE_e9ba0f95-f223-4982-ad5b-ab81891c8bb8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

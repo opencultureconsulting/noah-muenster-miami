@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_40b0fab1-32d6-49f6-a654-e715b1ea2155">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>KVD2 – Ein integriertes wissensbasiertes Modul zur Bemessung von Krankenhausverweildauern</title>
+                        <subTitle>Problemstellung, Konzeption und Realisierung</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/179212591">
+                        <displayForm>Erkelenz, Florian</displayForm>
+                        <namePart type="given">Florian</namePart>
+                        <namePart type="family">Erkelenz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1992-12</dateIssued>
+                        <dateIssued encoding="w3cdtf">2008-09-15</dateIssued>
+                        <dateOther encoding="w3cdtf" keyDate="yes">2008-09-16</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In einem Kooperationsprojekt zwischen dem Institut für Wirtschaftsinformatik der Westfälischen Wilhelms-Universität Münster und der Betriebskrankenkasse der Hoesch AG, Dortmund, wurde ein operationales Expertensystem zur Entscheidungsunterstützung realisiert. Das System hat die Aufgabe, die Sachbearbeiter der Krankenkasse bei der Befristung von Krankenhausverweildauern zu unterstützen. Durch eine angemessene Begrenzung sollen die medizinisch nicht begründbaren Verweildaueranteile reduziert und auf diesem Weg eine Kostensenkung im Krankenhaussektor erzielt werden. Das Expertensystem wurde als Modul in das Informationssystem KINFOSH (KrankenkassenINFOrmationsSystem Hoesch) integriert. Die Systementwicklung erfolgte mit der Shell ESE (Expert System Environment). Zur Ergänzung der Wissensrepräsentationsmechanismen von ESE wurde das relationale Datenbanksystem DB2 eingesetzt. Das Anwendungssystem KINFOSH basiert auf dem hierarchischen Datenbanksystem IMS.</abstract>
+                    <classification authority="ddc">004</classification>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-04509550189</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_40b0fab1-32d6-49f6-a654-e715b1ea2155</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_40b0fab1-32d6-49f6-a654-e715b1ea2155_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/40b0fab1-32d6-49f6-a654-e715b1ea2155/014_arbeitsberichte_wirtschaftsinformatik.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_40b0fab1-32d6-49f6-a654-e715b1ea2155" DMDID="DMD_40b0fab1-32d6-49f6-a654-e715b1ea2155">
+            <mets:fptr FILEID="FILE_40b0fab1-32d6-49f6-a654-e715b1ea2155_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
