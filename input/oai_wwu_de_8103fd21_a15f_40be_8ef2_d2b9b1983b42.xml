@@ -1,0 +1,181 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:8103fd21-a15f-40be-8ef2-d2b9b1983b42" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T09:46:19">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_8103fd21-a15f-40be-8ef2-d2b9b1983b42">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Target analysis for the Cys-cluster tryptic peptide of acylated transglutaminase 1</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Simone</mods:namePart>
+                    <mods:namePart type="family">König</mods:namePart>
+                    <mods:displayForm>König, Simone</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1203653883">
+                    <mods:namePart type="given">Malte</mods:namePart>
+                    <mods:namePart type="family">Bayer</mods:namePart>
+                    <mods:namePart type="date">1984-</mods:namePart>
+                    <mods:displayForm>Bayer, Malte</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1188475347">
+                    <mods:namePart type="given">Henning</mods:namePart>
+                    <mods:namePart type="family">Wiegmann</mods:namePart>
+                    <mods:displayForm>Wiegmann, Henning</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2019-12</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2019-12-19</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2022-03-23</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>1-5</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">Transglutaminase 1 (TGase1) is modified by myristoylation and palmitoylation supposedly in its cysteine cluster region. In order to monitor acylation in protein expression we developed a target mass spectrometry method using synthetic peptide SFWARCPalmCamGCamCamSCamR as a standard. It is palmitoylated at Cys6 and carbamidomethylated on the remaining cysteines to enable its use as surrogate peptide for the tryptically generated peptide from TGase1. The method allows the specific detection of the peptide based on its retention time in reversed-phase chromatography and its gas phase fragmentation pattern. In addition, the presence of a myristoyl group and of the peptide with no missed cleavages was programmed.</mods:abstract>
+                  <mods:abstract lang="ger">Transglutaminase 1 (TGase1) wird vermutlich in seiner Cystein-Cluster-Region myristoyliert und palmitoyliert. Eine massenspektrometrische Targetanalyse unter Verwendung des synthetischen Peptides SFWARCPalmCamGCamCamSCamR wurde entwickelt, um die Protein-Acylierung zu messen. Das Peptid ist palmitoyliert an Cys6 und carbamidomethyliert an den restlichen Cysteinen, um es als Standard für das tryptische Peptid von TGase1 verwenden zu können. Die Method erlaubt die spezifische Bestimmung des Peptides basierend auf seiner chromatographischen Retentionszeit und seinen Gasphasen-Fragmentionen. Die Anwesenheit einer Myristoylgruppe sowie das bei vollständiger tryptischer Spaltung entstehend Peptid wurden ebenfalls programmiert.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:subject>
+                    <mods:topic lang="eng">Transglutaminase 1; ichthyosis; palmitoylation; myristoylation; MRM</mods:topic>
+                  </mods:subject>
+                  <mods:subject>
+                    <mods:topic lang="ger">Transglutaminase 1; Ichthyose; Palmitoylierung; Myristoylierung; MRM</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">572</mods:classification>
+                  <mods:relatedItem type="host">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Mercator Journal of Biomolecular Analysis</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="issue" order="2">
+                      <mods:detail>
+                        <mods:number>3 (2019) 2</mods:number>
+                      </mods:detail>
+                      <mods:extent unit="pages">
+                        <mods:start>1</mods:start>
+                        <mods:end>5</mods:end>
+                      </mods:extent>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:550225b9-b848-45d8-bec1-96a452c75b4b</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-12189607442</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/8103fd21-a15f-40be-8ef2-d2b9b1983b42</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY-SA 3.0  DE</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by-sa/3.0/de/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:8103fd21-a15f-40be-8ef2-d2b9b1983b42</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_8103fd21-a15f-40be-8ef2-d2b9b1983b42">
+            <mets:rightsMD ID="RIGHTSMD_8103fd21-a15f-40be-8ef2-d2b9b1983b42">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_8103fd21-a15f-40be-8ef2-d2b9b1983b42">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/8103fd21-a15f-40be-8ef2-d2b9b1983b42</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="7d1dafcda4c8d5f5874dac659e5fb99a580e83e87759c4acbd54e0cb9d1b13a0" CREATED="2022-03-23T16:17:29" CHECKSUMTYPE="SHA-256" SIZE="656741" ID="ID_FIL_mercator_journal_2019_3_2_1-5.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8103fd21-a15f-40be-8ef2-d2b9b1983b42/mercator_journal_2019_3_2_1-5.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW8103fd21-a15f-40be-8ef2-d2b9b1983b42">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/8103fd21-a15f-40be-8ef2-d2b9b1983b42" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_8103fd21-a15f-40be-8ef2-d2b9b1983b42" TYPE="physSequence">
+              <mets:div ID="ID_PHY_mercator_journal_2019_3_2_1-5.pdf">
+                <mets:fptr FILEID="ID_FIL_mercator_journal_2019_3_2_1-5.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_8103fd21-a15f-40be-8ef2-d2b9b1983b42" DMDID="DMD_8103fd21-a15f-40be-8ef2-d2b9b1983b42" ID="ID_LOG_8103fd21-a15f-40be-8ef2-d2b9b1983b42" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_mercator_journal_2019_3_2_1-5.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_8103fd21-a15f-40be-8ef2-d2b9b1983b42" xlink:to="ID_PHY_8103fd21-a15f-40be-8ef2-d2b9b1983b42"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_mercator_journal_2019_3_2_1-5.pdf" xlink:to="ID_PHY_mercator_journal_2019_3_2_1-5.pdf"/>
+          </mets:structLink>
+        </mets:mets>
