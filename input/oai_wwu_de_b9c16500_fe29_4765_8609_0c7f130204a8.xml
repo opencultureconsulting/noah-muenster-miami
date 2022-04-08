@@ -1,0 +1,163 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:b9c16500-fe29-4765-8609-0c7f130204a8" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-04-07T17:51:21">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_b9c16500-fe29-4765-8609-0c7f130204a8">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">FuSe - a Multi-Layered Parallel Treebank</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Lea</mods:namePart>
+                    <mods:namePart type="family">Cyrus</mods:namePart>
+                    <mods:displayForm>Cyrus, Lea</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Hendrik</mods:namePart>
+                    <mods:namePart type="family">Feddes</mods:namePart>
+                    <mods:displayForm>Feddes, Hendrik</mods:displayForm>
+                    <mods:affiliation>FB 09: Philologie</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Frank</mods:namePart>
+                    <mods:namePart type="family">Schumacher</mods:namePart>
+                    <mods:displayForm>Schumacher, Frank</mods:displayForm>
+                    <mods:affiliation>IKM-Service</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2003</mods:dateIssued>
+                    <mods:dateOther keyDate="yes" encoding="w3cdtf">2004-07-28</mods:dateOther>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2004-07-27</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2022-04-06</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>213-216</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">While there exist a number of bi- and even multilingual corpora, syntactically analyzed parallel corpora are rare. At Münster University, we have initiated a treebank project with the aim of closing this gap. Our goal is to build a multi-layered treebank of aligned parallel texts in English and German. While we conﬁne ourselves to annotating only one language pair, the design will be such that additional languages can be added, provided there exist appropriate translations. Our working title for the treebank is FuSe, which stands for functional semantic annotation and connotes that two or more languages are fused with each other. Although our main motivation is to contribute to linguistic research rather than to develop a corpus which is tailor-made for a particular N L P-application, we believe that the corpus will prove useful for research in several ﬁelds of application, the most obvious one being machine translation.&#13;
+&#13;
+&lt;br&gt;The linguistic annotation of the FuSe corpus will contain the following layers: POS tags, constituent structure, functional relations, predicate-argument structure, and alignment information. The alignment layer is the only one which is deﬁned for a language pair rather than for a single language. Apart from this layer, the subcorpora are complete monolingual resources in their own right. In the following we will concentrate on the predicate-argument structure and on the representation of alignment information.</mods:abstract>
+                  <mods:note type="citation/reference">Proc. Second Workshop on Treebanks and Linguistic Theories (14-15 November 2003), 213-216</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="ger">Korpuslinguistik; Computerlinguistik; syntaktische Annotation; semantische Annotation</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">400</mods:classification>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-85659523905</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/b9c16500-fe29-4765-8609-0c7f130204a8</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:b9c16500-fe29-4765-8609-0c7f130204a8</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_b9c16500-fe29-4765-8609-0c7f130204a8">
+            <mets:rightsMD ID="RIGHTSMD_b9c16500-fe29-4765-8609-0c7f130204a8">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_b9c16500-fe29-4765-8609-0c7f130204a8">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/b9c16500-fe29-4765-8609-0c7f130204a8</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d8acf5c0cd25091cae929e7bd7a878cb1a31a9b03208c89fa760acd2bd52ac63" CREATED="2022-04-06T13:14:47" CHECKSUMTYPE="SHA-256" SIZE="37880" ID="ID_FIL_0311_tlt.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b9c16500-fe29-4765-8609-0c7f130204a8/0311_tlt.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOWb9c16500-fe29-4765-8609-0c7f130204a8">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/b9c16500-fe29-4765-8609-0c7f130204a8" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_b9c16500-fe29-4765-8609-0c7f130204a8" TYPE="physSequence">
+              <mets:div ID="ID_PHY_0311_tlt.pdf">
+                <mets:fptr FILEID="ID_FIL_0311_tlt.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_b9c16500-fe29-4765-8609-0c7f130204a8" DMDID="DMD_b9c16500-fe29-4765-8609-0c7f130204a8" ID="ID_LOG_b9c16500-fe29-4765-8609-0c7f130204a8" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_0311_tlt.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_b9c16500-fe29-4765-8609-0c7f130204a8" xlink:to="ID_PHY_b9c16500-fe29-4765-8609-0c7f130204a8"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_0311_tlt.pdf" xlink:to="ID_PHY_0311_tlt.pdf"/>
+          </mets:structLink>
+        </mets:mets>
