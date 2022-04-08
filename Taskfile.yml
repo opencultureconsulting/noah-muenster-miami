@@ -66,7 +66,7 @@ tasks:
         php .vufindharvest/bin/harvest_oai.php --ini config/harvest.ini
       - | # rename harvested files
         (cd input &&
-        find . -name '*_*.xml' |
+        find . -name '1*_*.xml' |
         while IFS= read -r path; do
             f="${path##*/}"
             d="${path%/*}"
@@ -75,7 +75,7 @@ tasks:
         done)
       - | # handle deleted records
         (cd input &&
-        find . -name '*.delete' |
+        find . -name '1*.delete' |
         while IFS= read -r path; do
             f="${path##*/}"
             d="${path%/*}"
@@ -85,7 +85,7 @@ tasks:
             rm "$path"
         done)
       - | # check results
-        minimum="1"
+        minimum="8200"
         count="$(find input -name '*.xml' | wc -l)"
         if [ "$minimum" -le "$count" ]; then
           echo "Download enthält $count Datensätze"
@@ -184,7 +184,7 @@ tasks:
           echo 1>&2 "This task needs xmllint"; exit 1
         fi
       - | # check results
-        minimum="1"
+        minimum="6900"
         count="$(find output -name '*.xml' | wc -l)"
         if [ "$minimum" -le "$count" ]; then
           echo "Es wurden $count Datensätze generiert"
