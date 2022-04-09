@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:351865ff-fd12-4ffc-af38-ec455155b3f6" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-08T08:13:43">
+          <mets:metsHdr CREATEDATE="2022-04-09T03:39:36">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -9,8 +9,7 @@
               <mets:xmlData>
                 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
                   <mods:titleInfo type="uniform" lang="eng">
-                    <mods:title script="Latn">Security through safety</mods:title>
-                    <mods:subTitle>an approach to information flow control based on derivation of safety properties from a characterisation of insecure behaviour</mods:subTitle>
+                    <mods:title script="Latn">Security Through Safety - An Approach to Information Flow Control Based on Derivation of Safety Properties from a Characterisation of Insecure Behaviour</mods:title>
                   </mods:titleInfo>
                   <mods:name type="personal" valueURI="http://d-nb.info/gnd/1254106189" altRepGroup="0">
                     <mods:namePart type="given">Benedikt</mods:namePart>
@@ -99,7 +98,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2022-03-25</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2022-03-25</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-04-08</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -112,7 +111,7 @@
                     <mods:extent>ix, 121</mods:extent>
                     <mods:digitalOrigin>born digital</mods:digitalOrigin>
                   </mods:physicalDescription>
-                  <mods:abstract lang="ger">Das Gebiet der Informationsfluskontrolle beschaeftigt sich mit dem Problem sicherzustellen, dass ein Programm das vertrauliche Daten verarbeitet keine Informationen ueber diese Daten an nicht vertrauenswuerdige Kanaele preisgibt. Diese Arbeit praesentiert einen Ansatz zur statischen Informationsflusskontrolle, der es ermoeglicht die Praezision moderner Programmanalysen, die auf die Verifikation von Erreichbarkeitseigenschaften spezialisiert sind, zur Verifikation von Informationsflusssicherheit zu nutzen. Der Ansatz basiert auf einer Charakterisierung von Paaren von Ausfuehrungen eines gegebenen Programms, die eine Informationsflusssicherheitseigenschaft verletzten. Aus dieser Charakterisierung werden approximierende Erreichbarkeitseigenschaften abgeleitet, welche die Informationsflusssicherheit des Programms implizieren und mit Hilfe existierender Programmanalysen verifiziert werden koennen. Die Korrektheit des Ansatzes wird formal bewiesen und an mehreren Anwendungen illustriert.</mods:abstract>
+                  <mods:abstract lang="ger">Das Gebiet der Informationsflusskontrolle beschaeftigt sich mit dem Problem sicherzustellen, dass ein Programm das vertrauliche Daten verarbeitet keine Informationen ueber diese Daten an nicht vertrauenswuerdige Kanaele preisgibt. Diese Arbeit praesentiert einen Ansatz zur statischen Informationsflusskontrolle, der es ermoeglicht die Praezision moderner Programmanalysen, die auf die Verifikation von Erreichbarkeitseigenschaften spezialisiert sind, zur Verifikation von Informationsflusssicherheit zu nutzen. Der Ansatz basiert auf einer Charakterisierung von Paaren von Ausfuehrungen eines gegebenen Programms, die eine Informationsflusssicherheitseigenschaft verletzten. Aus dieser Charakterisierung werden approximierende Erreichbarkeitseigenschaften abgeleitet, welche die Informationsflusssicherheit des Programms implizieren und mit Hilfe existierender Programmanalysen verifiziert werden koennen. Die Korrektheit des Ansatzes wird formal bewiesen und an mehreren Anwendungen illustriert.</mods:abstract>
                   <mods:abstract lang="eng">Information flow control is concerned with ensuring that a program which receives confidential input does not leak information about this input to untrusted channels. We present a novel approach for static information flow control that can harness the power of modern safety analyses. The approach is based on a characterisation of pairs of executions which break a security property. From the characterisation approximating safety properties are derived which ensure the security of the program. The development utilises a simple yet versatile program model that is not limited to finite control or data and targets a semantic security property which is termination insensitive but still gives some guarantees for non-terminating executions by allowing for observations throughout the execution of a program. We provide rigorous soundness proofs that have also been machine checked and describe multiple instantiations of the approach including a fixed point-based approach targeting abstract interpretation-like safety analyses and a regular approximation that is the basis for a prototypical implementation.</mods:abstract>
                   <mods:tableOfContents lang="eng">1 Introduction 1&#13;
 2 Related Work 5&#13;
@@ -194,7 +193,7 @@ Bibliography 113</mods:tableOfContents>
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="d92c77b8196235d6d98dea5b562bd7c4f4c015e7966d1279385c1d4adb0c5ba0" CREATED="2022-03-25T17:25:46" CHECKSUMTYPE="SHA-256" SIZE="1030680" ID="ID_FIL_diss_nordhoff.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d92c77b8196235d6d98dea5b562bd7c4f4c015e7966d1279385c1d4adb0c5ba0" CREATED="2022-04-08T08:13:53" CHECKSUMTYPE="SHA-256" SIZE="1030680" ID="ID_FIL_diss_nordhoff.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/351865ff-fd12-4ffc-af38-ec455155b3f6/diss_nordhoff.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>
