@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:929d61b5-fd75-48c3-a8de-a0216917b006" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-08T08:13:45">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:02:22">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -11,9 +11,10 @@
                   <mods:titleInfo type="uniform" lang="eng">
                     <mods:title script="Latn">Structural Insights into Escherichia coli Shiga Toxin (Stx) Glycosphingolipid Receptors of Porcine Renal Epithelial Cells and Inhibition of Stx-Mediated Cellular Injury Using Neoglycolipid-Spiked Glycovesicles</mods:title>
                   </mods:titleInfo>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1257181963">
                     <mods:namePart type="given">Johanna</mods:namePart>
                     <mods:namePart type="family">Detzner</mods:namePart>
+                    <mods:namePart type="date">1992-</mods:namePart>
                     <mods:displayForm>Detzner, Johanna</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
@@ -63,11 +64,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/110186516">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Helge</mods:namePart>
                     <mods:namePart type="family">Karch</mods:namePart>
                     <mods:displayForm>Karch, Helge</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -112,7 +112,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2019-12-06</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2022-02-11</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-09-06</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -184,10 +184,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="43f2239fa9a95c9e0dc09dd5c29bd863519b55b71405c5a9cc8ca7aa24efe4fd" CREATED="2022-02-11T15:37:27" CHECKSUMTYPE="SHA-256" SIZE="1742656" ID="ID_FIL_artikel_muething_2019.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="43f2239fa9a95c9e0dc09dd5c29bd863519b55b71405c5a9cc8ca7aa24efe4fd" CREATED="2022-09-06T09:47:37" CHECKSUMTYPE="SHA-256" SIZE="1742656" ID="ID_FIL_artikel_muething_2019.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/929d61b5-fd75-48c3-a8de-a0216917b006/artikel_muething_2019.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="96d8769d52377d8b0d48ff4c1a9786c8cb5256fc6cef765f6b64c59fd5bca4c9" CREATED="2022-02-11T15:37:27" CHECKSUMTYPE="SHA-256" SIZE="323703" ID="ID_FIL_zusatzmaterial_muething_2019.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="96d8769d52377d8b0d48ff4c1a9786c8cb5256fc6cef765f6b64c59fd5bca4c9" CREATED="2022-09-06T09:47:37" CHECKSUMTYPE="SHA-256" SIZE="323703" ID="ID_FIL_zusatzmaterial_muething_2019.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/929d61b5-fd75-48c3-a8de-a0216917b006/zusatzmaterial_muething_2019.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

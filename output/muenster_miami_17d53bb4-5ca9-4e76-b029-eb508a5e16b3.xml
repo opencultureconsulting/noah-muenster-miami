@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_17d53bb4-5ca9-4e76-b029-eb508a5e16b3">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Eye Tracking-based LSTM for Locomotion Prediction in VR</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1188746987">
+                        <displayForm>Stein, Niklas</displayForm>
+                        <namePart type="given">Niklas</namePart>
+                        <namePart type="family">Stein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bremer, Gianni</displayForm>
+                        <namePart type="given">Gianni</namePart>
+                        <namePart type="family">Bremer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/172579074">
+                        <displayForm>Lappe, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Lappe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-04-20</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-04-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Virtual Reality (VR) allows users to perform natural movements such as hand movements, turning the head and natural walking in virtual environments. While such movements enable seamless natural interaction, they come with the need for a large tracking space, particularly in the case of walking. To optimise use of the available physical space, prediction models for upcoming behavior are helpful. In this study, we examined whether a user’s eye movements tracked by current VR hardware can improve such predictions. Eighteen participants walked through a virtual environment while performing different tasks, including walking in curved paths, avoiding or approaching objects, and conducting a search. The recorded position, orientation and eye-tracking features from 2.5 s segments of the data were used to train an LSTM model to predict the user’s position 2.5 s into the future. We found that future positions can be predicted with an average error of 65 cm. The benefit of eye movement data depended on the task and environment. In particular, situations with changes in walking speed benefited from the inclusion of eye data. We conclude that a model utilizing eye tracking data can improve VR applications in which path predictions are helpful.</abstract>
+                    <note type="citation/reference">2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2022, 493-503</note>
+                    <note>Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 274361309</note>
+                    <note>Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 274361309</note>
+                    <note>Förderer: European Commission / Projektnummer: 951910</note>
+                    <note>Funding organisation: European Commission / Project number: 951910</note>
+                    <subject lang="eng">
+                        <topic>Virtual Reality</topic>
+                        <topic>Eye Tracking</topic>
+                        <topic>Locomotion</topic>
+                        <topic>LSTM</topic>
+                        <topic>Path Prediction</topic>
+                        <topic>Machine Learning</topic>
+                        <topic>Gaze</topic>
+                    </subject>
+                    <classification authority="ddc">006</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-74019498937</identifier>
+                    <identifier type="doi">10.17879/74019503057</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_17d53bb4-5ca9-4e76-b029-eb508a5e16b3</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_17d53bb4-5ca9-4e76-b029-eb508a5e16b3_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/17d53bb4-5ca9-4e76-b029-eb508a5e16b3/10.1109_VR51125.2022.00069.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_17d53bb4-5ca9-4e76-b029-eb508a5e16b3" DMDID="DMD_17d53bb4-5ca9-4e76-b029-eb508a5e16b3">
+            <mets:fptr FILEID="FILE_17d53bb4-5ca9-4e76-b029-eb508a5e16b3_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

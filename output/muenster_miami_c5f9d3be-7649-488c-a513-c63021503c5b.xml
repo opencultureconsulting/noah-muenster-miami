@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c5f9d3be-7649-488c-a513-c63021503c5b">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vorwort und Einführung</title>
+                        <subTitle>in: Sich selbst erzählen : Autobiographie - Autofiktion - Autorschaft</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Wagner-Egelhaaf, Martina</displayForm>
+                        <namePart type="given">Martina</namePart>
+                        <namePart type="family">Wagner-Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/115649824">
+                        <displayForm>Egelhaaf, Martina Wagner-</displayForm>
+                        <namePart type="given">Martina Wagner-</namePart>
+                        <namePart type="family">Egelhaaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">bookPart</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-07-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note type="citation/reference">Arnold, Sonja; Catani, Stephanie; Gröger, Anita; Jürgensen, Christoph; Schenk, Klaus; Wagner-Egelhaaf, Martina (Hrsg.): Sich selbst erzählen : Autobiographie - Autofiktion - Autorschaft. (Geist &amp; Wissen ; 31) Kiel : Ludwig, 2018. ISBN 978-3-86935-321-0, S.  9-18</note>
+                    <note type="ownership">Mit freundlicher Genehmigung des Verlag Ludwig.</note>
+                    <subject lang="ger">
+                        <topic>Autobiographie</topic>
+                        <topic>Autofiktion</topic>
+                        <topic>Narratologie</topic>
+                        <topic>Autorschaft</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Autobiography</topic>
+                        <topic>Autofiction</topic>
+                        <topic>Narratology</topic>
+                        <topic>Autorship</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-43049523969</identifier>
+                    <identifier type="doi">10.17879/43049526291</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c5f9d3be-7649-488c-a513-c63021503c5b</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBookPart</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c5f9d3be-7649-488c-a513-c63021503c5b_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c5f9d3be-7649-488c-a513-c63021503c5b/wagner-egelhaaf_2018_vorwort-einfuehrung.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c5f9d3be-7649-488c-a513-c63021503c5b" DMDID="DMD_c5f9d3be-7649-488c-a513-c63021503c5b">
+            <mets:fptr FILEID="FILE_c5f9d3be-7649-488c-a513-c63021503c5b_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

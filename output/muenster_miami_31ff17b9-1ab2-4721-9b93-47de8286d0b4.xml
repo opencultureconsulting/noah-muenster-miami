@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_31ff17b9-1ab2-4721-9b93-47de8286d0b4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hortulus animae (niederdt.)</title>
+                        <subTitle>Hortulus anime tho duede selen wuertgarden genant mit velen schonen gebeden unde figuren (Ausgabe für die nordischen Länder)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Anonymus</displayForm>
+                        <namePart type="family">Anonymus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1518</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-09-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Druck: Nürnberg : Friedrich Peypus für Johann Koberger 1518
+Borchling/Claussen, Nr. 615</note>
+                    <note type="citation/reference">Exemplar: Kungliga Biblioteket Stockholm - National Library of Sweden, Signatur: 173 R Hortulus animae</note>
+                    <note type="ownership">Digitalisat angefertigt mit der freundlichen Genehmigung der Kungliga Biblioteket Stockholm in Kooperation mit dem Projekt &quot;Mittelniederdeutsche Frühdrucke digital&quot;.</note>
+                    <subject lang="ger">
+                        <topic>MNFD</topic>
+                        <topic>Frühdruck</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12089762941</identifier>
+                    <identifier type="doi">10.17879/82089743907</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_31ff17b9-1ab2-4721-9b93-47de8286d0b4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_31ff17b9-1ab2-4721-9b93-47de8286d0b4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/31ff17b9-1ab2-4721-9b93-47de8286d0b4/mnfd-bc-615.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_31ff17b9-1ab2-4721-9b93-47de8286d0b4" DMDID="DMD_31ff17b9-1ab2-4721-9b93-47de8286d0b4">
+            <mets:fptr FILEID="FILE_31ff17b9-1ab2-4721-9b93-47de8286d0b4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

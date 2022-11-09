@@ -1,0 +1,95 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_af54279a-6775-4269-b070-0c4dd9c31d47">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Parallel Acquisition of Plasma Membrane Ultrastructure and Cytosolic Protein Localisation in Cultured Cells via Correlated Immunogold SEM</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/118314444X">
+                        <displayForm>Begemann, Isabell</displayForm>
+                        <namePart type="given">Isabell</namePart>
+                        <namePart type="family">Begemann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Keller, Ulrike</displayForm>
+                        <namePart type="given">Ulrike</namePart>
+                        <namePart type="family">Keller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nüsse, Harald</displayForm>
+                        <namePart type="given">Harald</namePart>
+                        <namePart type="family">Nüsse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/123649722">
+                        <displayForm>Klingauf, Jürgen</displayForm>
+                        <namePart type="given">Jürgen</namePart>
+                        <namePart type="family">Klingauf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Galic, Milos</displayForm>
+                        <namePart type="given">Milos</namePart>
+                        <namePart type="family">Galic</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-26</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-05-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Scanning electron microscopy (SEM) takes advantage of distinct detectors to visualise secondary and back-scattering electrons. Here, we report an integrated approach that relies on these two detection methods to simultaneously acquire correlated information on plasma membrane topography and curvature-sensitive cytosolic protein localization in intact cell samples. We further provide detailed preparation and staining protocols, as well as a thorough example-based discussion for imaging optimisation. Collectively, the presented method enables rapid and precise analysis of cytosolic proteins adjacent to cellular membranes with a resolution of ~100 nm, without time-consuming preparations or errors induced by sequential visualisation present in fluorescence-based correlative approaches.</abstract>
+                    <note type="citation/reference">Cells 9 (2020) 6, 1329, 1-12</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>scanning electron microscopy</topic>
+                        <topic>SE/BSE</topic>
+                        <topic>CLEM</topic>
+                        <topic>immunogold labelling</topic>
+                        <topic>curvature-sensitive protein</topic>
+                        <topic>BAR domain</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-73099677857</identifier>
+                    <identifier type="doi">10.17879/14019536445</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_af54279a-6775-4269-b070-0c4dd9c31d47</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_af54279a-6775-4269-b070-0c4dd9c31d47_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/af54279a-6775-4269-b070-0c4dd9c31d47/10.3390_cells9061329.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_af54279a-6775-4269-b070-0c4dd9c31d47" DMDID="DMD_af54279a-6775-4269-b070-0c4dd9c31d47">
+            <mets:fptr FILEID="FILE_af54279a-6775-4269-b070-0c4dd9c31d47_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

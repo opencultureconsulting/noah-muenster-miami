@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:6a7b24b5-1d04-4be2-8135-c834db21abdd" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:34:46">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:50:09">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -61,7 +61,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2020-12-08</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2020-12-08</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-05-30</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -84,8 +84,11 @@
                   <mods:relatedItem otherType="IsIdenticalTo" otherTypeAuth="datacite">
                     <mods:identifier type="doi">10.3389/fams.2020.570036</mods:identifier>
                   </mods:relatedItem>
+                  <mods:relatedItem otherType="IsSupplementedBy" otherTypeAuth="datacite">
+                    <mods:identifier type="uri">https://www.frontiersin.org/articles/10.3389/fams.2020.570036/full#supplementary-material</mods:identifier>
+                  </mods:relatedItem>
                   <mods:identifier type="urn">urn:nbn:de:hbz:6-59029563893</mods:identifier>
-                  <mods:identifier type="doi">10.3389/fams.2020.570036</mods:identifier>
+                  <mods:identifier type="doi">10.17879/63089480948</mods:identifier>
                   <mods:location>
                     <mods:url access="object in context">https://miami.uni-muenster.de/Record/6a7b24b5-1d04-4be2-8135-c834db21abdd</mods:url>
                   </mods:location>
@@ -129,10 +132,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="fe0f57091b59eb3f44d26eaef06234dcafc661ffaf2fd1c18e3e7f620c3eebb7" CREATED="2020-12-08T12:06:50" CHECKSUMTYPE="SHA-256" SIZE="2495910" ID="ID_FIL_10.3389_fams.2020.570036_artikel.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="fe0f57091b59eb3f44d26eaef06234dcafc661ffaf2fd1c18e3e7f620c3eebb7" CREATED="2022-05-30T14:25:19" CHECKSUMTYPE="SHA-256" SIZE="2495910" ID="ID_FIL_10.3389_fams.2020.570036_artikel.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6a7b24b5-1d04-4be2-8135-c834db21abdd/10.3389_fams.2020.570036_artikel.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="467d0e4fe756e3b0741d132ebaa70d255ead2cf677d1fb0765323750304783f8" CREATED="2020-12-08T12:06:50" CHECKSUMTYPE="SHA-256" SIZE="493803" ID="ID_FIL_10.3389_fams.2020.570036_zusatzmaterial.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="467d0e4fe756e3b0741d132ebaa70d255ead2cf677d1fb0765323750304783f8" CREATED="2022-05-30T14:25:19" CHECKSUMTYPE="SHA-256" SIZE="493803" ID="ID_FIL_10.3389_fams.2020.570036_zusatzmaterial.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6a7b24b5-1d04-4be2-8135-c834db21abdd/10.3389_fams.2020.570036_zusatzmaterial.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

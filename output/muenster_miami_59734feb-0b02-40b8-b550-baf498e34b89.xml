@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_59734feb-0b02-40b8-b550-baf498e34b89">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On extension of rigid analytic objects</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/124615163">
+                        <displayForm>Lütkebohmert, Werner</displayForm>
+                        <namePart type="given">Werner</namePart>
+                        <namePart type="family">Lütkebohmert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-08-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The identity principle for analytic functions predicts the value of an analytic function on a connected open subset at any point if the germ of the function is known at one given point. Therefore, in higher dimension, it can happen that the domain of definition of analytic functions on a connected open subset G of a polydisc Dn is larger than the given G. It depends on the geometry of G. For example, if G is the periphery of a 2-dimensional polydisc, then every analytic function on G is actually defined on the whole polydisc. Such a property is true for many other objects which are analytically defined, such as meromorphic functions, closed analytic subsets, vector bundles or coherent sheaves. The property of continuity depends on different parameters. The concavity of G inside a polydisc in relation to the dimension of the surrounding space plays an important role. The extension property of analytic objects depends on the balance between concavity on the one hand and on parameters of the analytic object such as the dimension of the closed analytic subset or the homological dimension of a coherent sheaf on the other hand. In complex analysis, these subjects were studied by Siu and Trautmann; for a systematic account, see [32]. In rigid geometry, John Tate has introduced a topology such that the identity principle holds for rigid analytic functions. Therefore, one can expect that statements on continuity are true in rigid geometry as well. In the first section, § 1, we present all the extension properties precisely and describe the shape of concavity for the different problems. The hape of a domain G inside a polydisc were suggested by Hans Grauert who advised W. Bartenwerfer around 1970 to study the problem for meromorphic functions. In complex analysis, these geometric constellations were well-known; cp. the thesis of Riemenschneider [29]. Then Bartenwerfer published a series of papers concerning such problems. Later on, the author contributed to these questions also. The hardest part is the extension problem for vector bundles which was solved in [27] by the author. In an unpublished paper, the author completed the picture by showing the continuity for coherent sheaves. The intention of this paper is to present a single organized treatment of the extension properties of analytic objects. Some results are known but spread across the literature and mostly hard to access, especially the results on extension of meromorphic functions and of analytic subsets. In this paper, we provide simplifications and improvements of their proofs. The results in Sections 5 and 7 are due to the author and published many years ago. Since they are so central, they should not be omitted in this treatment. The results in Section 8 are partly new. The appendix is certainly of more general interest since the given proofs bring the real arguments to light.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>83</start>
+                                <end>166</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23049550389</identifier>
+                    <identifier type="doi">10.17879/23049549564</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_59734feb-0b02-40b8-b550-baf498e34b89</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_59734feb-0b02-40b8-b550-baf498e34b89_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/59734feb-0b02-40b8-b550-baf498e34b89/mjm_2022_15_83-166.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_59734feb-0b02-40b8-b550-baf498e34b89" DMDID="DMD_59734feb-0b02-40b8-b550-baf498e34b89">
+            <mets:fptr FILEID="FILE_59734feb-0b02-40b8-b550-baf498e34b89_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

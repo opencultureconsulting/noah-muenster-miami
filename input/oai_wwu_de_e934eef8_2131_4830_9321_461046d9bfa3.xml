@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:e934eef8-2131-4830-9321-461046d9bfa3" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:44:17">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:00:19">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -47,7 +47,7 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1138340928">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Anika</mods:namePart>
                     <mods:namePart type="family">Witten</mods:namePart>
                     <mods:displayForm>Witten, Anika</mods:displayForm>
@@ -56,9 +56,9 @@
                     </mods:role>
                   </mods:name>
                   <mods:name type="personal" valueURI="http://d-nb.info/gnd/1110900899">
-                    <mods:namePart type="given">Hermann</mods:namePart>
+                    <mods:namePart type="given">Hermann-Joseph</mods:namePart>
                     <mods:namePart type="family">Pavenstädt</mods:namePart>
-                    <mods:displayForm>Pavenstädt, Hermann</mods:displayForm>
+                    <mods:displayForm>Pavenstädt, Hermann-Joseph</mods:displayForm>
                     <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
@@ -126,7 +126,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2020-07-03</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2020-07-03</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-07-26</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -195,10 +195,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="d49cce8071d4a9667e4a13853e3fa21cc01350649e81c4aaa662de9ac95c84c2" CREATED="2020-07-03T12:09:17" CHECKSUMTYPE="SHA-256" SIZE="2024429" ID="ID_FIL_artikel_reuter_2019.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d49cce8071d4a9667e4a13853e3fa21cc01350649e81c4aaa662de9ac95c84c2" CREATED="2022-07-26T09:55:21" CHECKSUMTYPE="SHA-256" SIZE="2024429" ID="ID_FIL_artikel_reuter_2019.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e934eef8-2131-4830-9321-461046d9bfa3/artikel_reuter_2019.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="fe477c7df1421d74f7f014d378f42429cc09ac59a05b67bd070aa9a21a065ba3" CREATED="2020-07-03T12:09:17" CHECKSUMTYPE="SHA-256" SIZE="592297" ID="ID_FIL_zusatzmaterial_reuter_2019.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="fe477c7df1421d74f7f014d378f42429cc09ac59a05b67bd070aa9a21a065ba3" CREATED="2022-07-26T09:55:21" CHECKSUMTYPE="SHA-256" SIZE="592297" ID="ID_FIL_zusatzmaterial_reuter_2019.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e934eef8-2131-4830-9321-461046d9bfa3/zusatzmaterial_reuter_2019.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

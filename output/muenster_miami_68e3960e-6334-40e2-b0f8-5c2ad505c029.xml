@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_68e3960e-6334-40e2-b0f8-5c2ad505c029">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Shaping caustics into propagation-invariant light</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1190654059">
+                        <displayForm>Zannotti, Alessandro</displayForm>
+                        <namePart type="given">Alessandro</namePart>
+                        <namePart type="family">Zannotti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120038129">
+                        <displayForm>Denz, Cornelia</displayForm>
+                        <namePart type="given">Cornelia</namePart>
+                        <namePart type="family">Denz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Alonso, Miguel A.</displayForm>
+                        <namePart type="given">Miguel A.</namePart>
+                        <namePart type="family">Alonso</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dennis, Mark R.</displayForm>
+                        <namePart type="given">Mark R.</namePart>
+                        <namePart type="family">Dennis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-17</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-04-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Structured light has revolutionized optical particle manipulation, nano-scaled material processing, and high-resolution imaging. In particular, propagation-invariant light fields such as Bessel, Airy, or Mathieu beams show high robustness and have a self-healing nature. To generalize such beneficial features, these light fields can be understood in terms of caustics. However, only simple caustics have found applications in material processing, optical trapping, or cell microscopy. Thus, these technologies would greatly benefit from methods to engineer arbitrary intensity shapes well beyond the standard families of caustics. We introduce a general approach to arbitrarily shape propagation-invariant beams by smart beam design based on caustics. We develop two complementary methods, and demonstrate various propagation-invariant beams experimentally, ranging from simple geometric shapes to complex image configurations such as words. Our approach generalizes caustic light from the currently known small subset to a complete set of tailored propagation-invariant caustics with intensities concentrated around any desired curve.</abstract>
+                    <note type="citation/reference">Nature Communications 11 (2020), 3597, 1-7</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Optical materials and structures</topic>
+                        <topic>Optical physics</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-24039494337</identifier>
+                    <identifier type="doi">10.17879/44039509534</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_68e3960e-6334-40e2-b0f8-5c2ad505c029</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_68e3960e-6334-40e2-b0f8-5c2ad505c029_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/68e3960e-6334-40e2-b0f8-5c2ad505c029/10.1038_s41467-020-17439-3.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_68e3960e-6334-40e2-b0f8-5c2ad505c029" DMDID="DMD_68e3960e-6334-40e2-b0f8-5c2ad505c029">
+            <mets:fptr FILEID="FILE_68e3960e-6334-40e2-b0f8-5c2ad505c029_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

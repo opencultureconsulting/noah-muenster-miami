@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_05dfc2cf-c2a8-4f77-b805-b5ccb89945b9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konzeptionierung des Publikationsservice der WWU Münster</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fellermann, Wibke</displayForm>
+                        <namePart type="given">Wibke</namePart>
+                        <namePart type="family">Fellermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">workingPaper</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Seit 2002 betreibt die Universitäts- und Landesbibliothek Münster (ULB Münster) den Dokumentenserver &quot;miami&quot;, auf dem die unterschiedlichsten Dokumente von Angehörigen der WWU Münster publiziert werden. Derzeit wird ein Repositorium für Forschungsdaten geplant. Für den Zertifikatskurs &quot;Forschungsdatenmanagement&quot; (2021-2022) des ZBIW Köln wurde ein Konzept für den zukünftigen Publikationsservice für WWU-Angehörige erstellt. Folgende Fragen wurden hierfür näher beleuchtet: Soll das Publizieren von Forschungsdaten als eigenständiger Service angeboten werden? Wie handhaben andere Universitäten das Veröffentlichen von z. B. Artikeln und Forschungsdaten? Welches Serviceangebot ist aus Sicht des Forschenden und des Bibliothekpersonals am zielführendsten und benutzerfreundlichsten?</abstract>
+                    <abstract lang="eng">Since 2002, Munster University and State Library (ULB Munster) has been operating the document server &quot;miami&quot;, on which a wide variety of documents from WWU members are published. Currently, a repository for research data is being planned. For the certificate course &quot;Research Data Management&quot; (2021-2022) of the ZBIW Cologne, a concept for the future publication service for WWU members was created. The following questions were examined in more detail for this purpose: Should the publishing of research data be offered as an independent service? How do other universities handle the publishing of, e.g. articles and research data? Which service is the most effective and user-friendly from the point of view of researchers and library staff?</abstract>
+                    <subject lang="ger">
+                        <topic>Repositorium</topic>
+                        <topic>WWU Münster</topic>
+                        <topic>ULB Münster</topic>
+                        <topic>Zertifikatskurs Forschungsdatenmanagement</topic>
+                        <topic>Dokumentenserver</topic>
+                        <topic>Publikationsservice</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Repository</topic>
+                        <topic>WWU Munster</topic>
+                        <topic>ULB Munster</topic>
+                        <topic>Certificate Course Research Data Management</topic>
+                        <topic>Document Server</topic>
+                        <topic>Publication Service</topic>
+                    </subject>
+                    <classification authority="ddc">025</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-63079584224</identifier>
+                    <identifier type="doi">10.17879/63079583384</identifier>
+                    <identifier type="sys">HT021447098</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_05dfc2cf-c2a8-4f77-b805-b5ccb89945b9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>working_paper</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_05dfc2cf-c2a8-4f77-b805-b5ccb89945b9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/05dfc2cf-c2a8-4f77-b805-b5ccb89945b9/10.17879_63079583384.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_05dfc2cf-c2a8-4f77-b805-b5ccb89945b9" DMDID="DMD_05dfc2cf-c2a8-4f77-b805-b5ccb89945b9">
+            <mets:fptr FILEID="FILE_05dfc2cf-c2a8-4f77-b805-b5ccb89945b9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

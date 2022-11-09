@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_95a8b836-f2c5-4b58-84e2-389639cacbed">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the Distance Between Traditional and DH-Based Genre Theory</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1041237715">
+                        <displayForm>Gittel, Benjamin</displayForm>
+                        <namePart type="given">Benjamin</namePart>
+                        <namePart type="family">Gittel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1035537850">
+                        <displayForm>Köppe, Tilmann</displayForm>
+                        <namePart type="given">Tilmann</namePart>
+                        <namePart type="family">Köppe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">›Distant Reading‹-Ansätze zur Erforschung literarischer Gattungen sind relativ neu, kommen jedoch vielfach zum Einsatz. Erforscht werden nicht nur neue Methoden, sondern es wird auch angenommen, dass einige Probleme, die die Literaturwissenschaft schon länger beschäftigen, mit diesen neuen Methoden produktiv behandelt werden können. In diesem Beitrag werden zwei einflussreiche Studien, die DH-Methoden (›Distant Reading‹) auf die Gattungstheorie bzw. Gattungsgeschichte anwenden, näher betrachtet: Andrew Pipers »Fictionality« (2016) und Ted Underwoods »The Life Cycles of Genres« (2016). Wir hinterfragen die Ziele und Ergebnisse dieser Studien, indem wir folgende drei Fragen stellen: (1) Welches ist das traditionelle Forschungsthema, das behandelt wird, und was genau soll innerhalb des Themas erklärt werden? (2) Welche Erklärungsstrategien werden verfolgt, und welche Ergebnisse werden erreicht? Und schließlich (3) Antworten die Studien tatsächlich auf die traditionellen Fragen, die sie (explizit) zu beantworten versuchen, und tun sie dies mit Erfolg? Indem wir diese Fragen stellen, hoffen wir, allgemeinere Aussagen über die Potenziale von DH-Methoden im Hinblick auf die (traditionelle) Gattungstheorie herauszuarbeiten.</abstract>
+                    <subject lang="eng">
+                        <topic>Genre theory</topic>
+                        <topic>digital humanities</topic>
+                    </subject>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64059432001</identifier>
+                    <identifier type="doi">10.17879/64059431694</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_95a8b836-f2c5-4b58-84e2-389639cacbed</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_95a8b836-f2c5-4b58-84e2-389639cacbed_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/95a8b836-f2c5-4b58-84e2-389639cacbed/textpraxis_2022_s6_gittel.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_95a8b836-f2c5-4b58-84e2-389639cacbed" DMDID="DMD_95a8b836-f2c5-4b58-84e2-389639cacbed">
+            <mets:fptr FILEID="FILE_95a8b836-f2c5-4b58-84e2-389639cacbed_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

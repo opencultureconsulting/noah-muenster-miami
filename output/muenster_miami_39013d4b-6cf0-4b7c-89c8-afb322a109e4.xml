@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_39013d4b-6cf0-4b7c-89c8-afb322a109e4">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Plenarium (niederdt.)</title>
+                        <subTitle>Boek der prophecien leccien epistolen unde ewangelien</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Anonymus</displayForm>
+                        <namePart type="family">Anonymus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1492</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-10-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Druck: Lübeck : [Mohnkopfdruckerei] 1492
+Borchling/Claussen, Nr. 205</note>
+                    <note type="citation/reference">Exemplar: The Morgan Library and Museum New York, Location: Incunable Collection Oversize ChL 518, Record ID: 134225, Accession Number: PML 31166, Checklist Number: ChL 518</note>
+                    <note type="ownership">Digitalisat angefertigt mit der freundlichen Genehmigung der Morgan Library in Kooperation mit dem Projekt &quot;Mittelniederdeutsche Frühdrucke digital&quot;.</note>
+                    <subject lang="ger">
+                        <topic>MNFD</topic>
+                        <topic>Inkunabel</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62059535518</identifier>
+                    <identifier type="doi">10.17879/62059538750</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_39013d4b-6cf0-4b7c-89c8-afb322a109e4</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_39013d4b-6cf0-4b7c-89c8-afb322a109e4_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/39013d4b-6cf0-4b7c-89c8-afb322a109e4/mnfd-bc-205.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_39013d4b-6cf0-4b7c-89c8-afb322a109e4" DMDID="DMD_39013d4b-6cf0-4b7c-89c8-afb322a109e4">
+            <mets:fptr FILEID="FILE_39013d4b-6cf0-4b7c-89c8-afb322a109e4_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

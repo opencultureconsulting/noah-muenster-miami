@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:50e13ef4-e447-4f9a-94bc-69a14f49d04f" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:37:00">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:52:32">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -11,7 +11,16 @@
                   <mods:titleInfo type="uniform" lang="ger">
                     <mods:title script="Latn">Didaktik und Methodik der Mathematik und Informatik</mods:title>
                   </mods:titleInfo>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1083043749">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1083043749" altRepGroup="1">
+                    <mods:namePart type="given">Karl</mods:namePart>
+                    <mods:namePart type="family">Fuchs</mods:namePart>
+                    <mods:namePart type="date">1957-</mods:namePart>
+                    <mods:displayForm>Fuchs, Karl</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1083043749" altRepGroup="1">
                     <mods:namePart type="given">Karl Josef</mods:namePart>
                     <mods:namePart type="family">Fuchs</mods:namePart>
                     <mods:namePart type="date">1957-</mods:namePart>
@@ -61,7 +70,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2021-10-20</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2021-10-20</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-10-21</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -192,7 +201,7 @@ LITERATURVERZEICHNIS ..... 227</mods:tableOfContents>
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="4bc65c8fa11ae292fe23c6f07aa76339bee8834b55f24637a99299b307dcfa8e" CREATED="2021-10-20T13:24:59" CHECKSUMTYPE="SHA-256" SIZE="7400097" ID="ID_FIL_wtm_isbn-978-3-95987-198-3.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="4bc65c8fa11ae292fe23c6f07aa76339bee8834b55f24637a99299b307dcfa8e" CREATED="2022-10-21T10:24:14" CHECKSUMTYPE="SHA-256" SIZE="7400097" ID="ID_FIL_wtm_isbn-978-3-95987-198-3.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/50e13ef4-e447-4f9a-94bc-69a14f49d04f/wtm_isbn-978-3-95987-198-3.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

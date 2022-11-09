@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7a18643d-4441-46f8-a1d6-ae2bd4a2f5b0">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Binding partners of the neuroexophilin-neurexin complex identified in Nxph1-GFP tg/- and Nxph3-GFP tg/- mice</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1267856084">
+                        <displayForm>Frasoński, Mikołaj</displayForm>
+                        <namePart type="given">Mikołaj</namePart>
+                        <namePart type="family">Frasoński</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Missler, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Missler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-09-12</dateIssued>
+                        <dateOther encoding="w3cdtf">2022-06-17</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In meiner Doktorarbeit konzentriere ich mich auf Neurexophiline, spezifische a-Neurexine-Liganden. Neurexophiline werden von vier Genen codiert (nxph1-4), und trotzdem, dass sie seit über 30 Jahren untersucht werden, ist ihre Funktion weiterhin unbekannt. In dieser Arbeit konnte ich nachweisen, dass Neurexophiline zwar in verschiedenen Teilen des Gehirns exprimiert werden, sich aber dennoch ähnlich verhalten, indem sie dasselbe Epitop der LNS2-Nrxn1a-Domäne binden. Ich habe die Funktion von Neurexophilinen untersucht, indem ich Pulldown-Screenings von transgenen Mausgehirnen durchgeführt habe, die Nxph1-GFP und Nxph3-GFP überexprimieren. In meiner Arbeit fand ich heraus, dass der Nrxn-Nxph-Komplex in einer altersabhängigen Weise an NMDA-, GABAB-, mGluR3- und mGluR5-Rezeptoren bindet. Schliesslich konnte ich auch nachweisen, dass die GluN1-Domäne des NMDA-Rezeptors direkt an die LNS6/bNrxn-Domänen von Neurexinen bindet.</abstract>
+                    <note type="thesis statement">Münster, Univ., Diss., 2022</note>
+                    <subject lang="ger">
+                        <topic>Neurexine, Neurexophiline</topic>
+                        <topic>NMDAR</topic>
+                        <topic>GABAAR</topic>
+                        <topic>GABABR, Synapse</topic>
+                    </subject>
+                    <classification authority="ddc">570</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12089659268</identifier>
+                    <identifier type="doi">10.17879/12089660702</identifier>
+                    <identifier type="sys">HT021477069</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7a18643d-4441-46f8-a1d6-ae2bd4a2f5b0</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7a18643d-4441-46f8-a1d6-ae2bd4a2f5b0_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7a18643d-4441-46f8-a1d6-ae2bd4a2f5b0/diss_frasonski.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7a18643d-4441-46f8-a1d6-ae2bd4a2f5b0" DMDID="DMD_7a18643d-4441-46f8-a1d6-ae2bd4a2f5b0">
+            <mets:fptr FILEID="FILE_7a18643d-4441-46f8-a1d6-ae2bd4a2f5b0_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

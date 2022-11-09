@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:8c382a51-5d08-488e-b81d-3384777fcff0" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:40:44">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:56:33">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -20,7 +20,7 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1138232130">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Malte</mods:namePart>
                     <mods:namePart type="family">Fritsche</mods:namePart>
                     <mods:displayForm>Fritsche, Malte</mods:displayForm>
@@ -28,10 +28,18 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
-                    <mods:namePart type="given">Maximilian</mods:namePart>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1020798785" altRepGroup="2">
+                    <mods:namePart type="given">Jan-Timm</mods:namePart>
                     <mods:namePart type="family">Kuhr</mods:namePart>
-                    <mods:displayForm>Kuhr, Maximilian</mods:displayForm>
+                    <mods:displayForm>Kuhr, Jan-Timm</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1020798785" altRepGroup="2">
+                    <mods:namePart type="given">Jan-Timm Eike Dieter Maximilian</mods:namePart>
+                    <mods:namePart type="family">Kuhr</mods:namePart>
+                    <mods:displayForm>Kuhr, Jan-Timm Eike Dieter Maximilian</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -92,7 +100,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2015-05-13</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2015-06-03</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-04-26</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -172,7 +180,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="8bac8b8a10da8b4a01b5338bd024946315ac1194986a1215bdda512dc5a7617b" CREATED="2015-06-03T12:54:03" CHECKSUMTYPE="SHA-256" SIZE="485012" ID="ID_FIL_idb_2001_suppl_1_75-79.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="8bac8b8a10da8b4a01b5338bd024946315ac1194986a1215bdda512dc5a7617b" CREATED="2022-04-26T10:25:19" CHECKSUMTYPE="SHA-256" SIZE="485012" ID="ID_FIL_idb_2001_suppl_1_75-79.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8c382a51-5d08-488e-b81d-3384777fcff0/idb_2001_suppl_1_75-79.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

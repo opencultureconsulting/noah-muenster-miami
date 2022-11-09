@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c473dbcd-9695-4d17-8360-62dd73f7f1b8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Single-shot all-digital approach for measuring the orbital angular momentum spectrum of light</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1188747266">
+                        <displayForm>Otte, Eileen</displayForm>
+                        <namePart type="given">Eileen</namePart>
+                        <namePart type="family">Otte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bobkova, Valeriia</displayForm>
+                        <namePart type="given">Valeriia</namePart>
+                        <namePart type="family">Bobkova</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1188744518">
+                        <displayForm>Trinschek, Sarah Christine</displayForm>
+                        <namePart type="given">Sarah Christine</namePart>
+                        <namePart type="family">Trinschek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rosales-Guzmán, C.</displayForm>
+                        <namePart type="given">C.</namePart>
+                        <namePart type="family">Rosales-Guzmán</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120038129">
+                        <displayForm>Denz, Cornelia</displayForm>
+                        <namePart type="given">Cornelia</namePart>
+                        <namePart type="family">Denz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-08-26</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Light fields carrying orbital angular momentum (OAM) offer a broad variety of applications in which especially an accurate determination of the respective OAM spectrum, i.e., unraveling the content of OAM by its topological charge ℓ, has become a main subject. Even though various techniques have been proposed to measure the OAM spectrum of such modes, many of them fail if optical vortices have to be considered in perturbed or dynamically changing experimental systems. Here, we put forward a novel technique capable of determining the OAM spectrum of light by a single measurement shot, which specifically applies to those fields that have been distorted. Experimentally, our technique only requires to interfere the perturbed light field with a reference field. From the resulting intensity pattern, the accurate OAM spectrum is determined in an all-digital way. We demonstrate our novel approach by numerical simulations and a proof-of-concept experiment employing a model ball lens as an exemplary disturbing object.</abstract>
+                    <note type="citation/reference">APL Photonics 7 (2022) 8, 1-12</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-62089496457</identifier>
+                    <identifier type="doi">10.17879/62089498448</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c473dbcd-9695-4d17-8360-62dd73f7f1b8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c473dbcd-9695-4d17-8360-62dd73f7f1b8_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c473dbcd-9695-4d17-8360-62dd73f7f1b8/10.1063_5.0086536.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c473dbcd-9695-4d17-8360-62dd73f7f1b8" DMDID="DMD_c473dbcd-9695-4d17-8360-62dd73f7f1b8">
+            <mets:fptr FILEID="FILE_c473dbcd-9695-4d17-8360-62dd73f7f1b8_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

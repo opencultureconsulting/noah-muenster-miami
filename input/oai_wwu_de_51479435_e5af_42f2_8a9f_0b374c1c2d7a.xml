@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:51479435-e5af-42f2-8a9f-0b374c1c2d7a" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:45:09">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:01:17">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -21,20 +21,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/110688686" altRepGroup="1">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Gerhard</mods:namePart>
                     <mods:namePart type="family">Brodner</mods:namePart>
                     <mods:displayForm>Brodner, Gerhard</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
-                    <mods:role>
-                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
-                    </mods:role>
-                  </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/110688686" altRepGroup="1">
-                    <mods:namePart type="given">G.</mods:namePart>
-                    <mods:namePart type="family">Brodner</mods:namePart>
-                    <mods:displayForm>Brodner, G.</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
                     </mods:role>
@@ -71,7 +61,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2011-11-17</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2016-06-01</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-06-03</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -129,7 +119,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="2676937e344c6baf7c753a1b4dc9685597a3d8dd9f0a9d5ebd7709225dbc5d79" CREATED="2016-06-01T16:16:17" CHECKSUMTYPE="SHA-256" SIZE="733276" ID="ID_FIL_diss_kampmann.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="2676937e344c6baf7c753a1b4dc9685597a3d8dd9f0a9d5ebd7709225dbc5d79" CREATED="2022-06-03T12:51:31" CHECKSUMTYPE="SHA-256" SIZE="733276" ID="ID_FIL_diss_kampmann.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/51479435-e5af-42f2-8a9f-0b374c1c2d7a/diss_kampmann.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

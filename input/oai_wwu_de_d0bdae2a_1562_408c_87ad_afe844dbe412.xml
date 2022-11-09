@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:d0bdae2a-1562-408c-87ad-afe844dbe412" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:42:15">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:58:08">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -11,7 +11,7 @@
                   <mods:titleInfo type="uniform" lang="ger">
                     <mods:title>Kosmologische Metaphysik – Zur Philosophie F. W. J. Schellings und A. N. Whiteheads</mods:title>
                   </mods:titleInfo>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1153751399">
                     <mods:namePart type="given">Tim</mods:namePart>
                     <mods:namePart type="family">Grafe</mods:namePart>
                     <mods:displayForm>Grafe, Tim</mods:displayForm>
@@ -63,7 +63,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2018-02-28</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2018-02-28</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-11-08</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -129,7 +129,9 @@ Schriften F. W. J. Schellings ..... 191&#13;
 Schriften A. N. Whiteheads ..... 192&#13;
 Werke weiterer Philosophen und Forschungsliteratur ..... 193</mods:tableOfContents>
                   <mods:targetAudience>specialized</mods:targetAudience>
-                  <mods:note type="content">Auch im Buchhandel erhältlich: Kosmologische Metaphysik – Zur Philosophie F. W. J. Schellings und A. N. Whiteheads / Tim Grafe. – Münster : Münsterscher Verlag für Wissenschaft, 2018. – II, 203 S. (Wissenschaftliche Schriften der WWU Münster : Reihe XI ; Bd. 7), ISBN 978-3-8405-0171-5, Preis: 19,90 EUR</mods:note>
+                  <mods:note type="additional physical form">Erstveröffentlichung: Kosmologische Metaphysik – Zur Philosophie F. W. J. Schellings und A. N. Whiteheads / Tim Grafe. – Münster : Münsterscher Verlag für Wissenschaft, 2018. – II, 203 S. (Wissenschaftliche Schriften der WWU Münster : Reihe XI ; Bd. 7), ISBN 978-3-8405-0171-5, Preis: 19,90 EUR</mods:note>
+                  <mods:note type="additional physical form">Nachdruck im Buchhandel erhältlich: Kosmologische Metaphysik – Zur Philosophie F. W. J. Schellings und A. N. Whiteheads / Tim Grafe. – Hildesheim : Georg Olms Verlag, 2022. – II, 203 S. (Wissenschaftliche Schriften der WWU Münster : Reihe XI ; Bd. 7), ISBN 978-3-487-16303-1, Preis: 34,00 EUR</mods:note>
+                  <mods:note type="thesis">Münster (Westfalen), Univ., Diss., 2017</mods:note>
                   <mods:subject>
                     <mods:topic lang="ger">F. W. J. Schelling; A. N. Whitehead; objektiver Idealismus; Metaphysik; Naturbegriff; Panentheismus; Religionsphilosophie</mods:topic>
                   </mods:subject>
@@ -148,6 +150,7 @@ Werke weiterer Philosophen und Forschungsliteratur ..... 193</mods:tableOfConten
                     </mods:recordInfo>
                   </mods:relatedItem>
                   <mods:identifier type="urn">urn:nbn:de:hbz:6-20249433528</mods:identifier>
+                  <mods:identifier type="doi">10.17879/42029567327</mods:identifier>
                   <mods:identifier type="isbn">978-3-8405-0171-5</mods:identifier>
                   <mods:location>
                     <mods:url access="object in context">https://miami.uni-muenster.de/Record/d0bdae2a-1562-408c-87ad-afe844dbe412</mods:url>
@@ -192,7 +195,7 @@ Werke weiterer Philosophen und Forschungsliteratur ..... 193</mods:tableOfConten
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="d08a2ec6da8cc40f1eec8a5335e88c05cf455fe54661fbc655d1282f00cae7d8" CREATED="2018-02-28T10:16:32" CHECKSUMTYPE="SHA-256" SIZE="2738413" ID="ID_FIL_diss_grafe_buchblock.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d08a2ec6da8cc40f1eec8a5335e88c05cf455fe54661fbc655d1282f00cae7d8" CREATED="2022-11-08T12:01:10" CHECKSUMTYPE="SHA-256" SIZE="2738413" ID="ID_FIL_diss_grafe_buchblock.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d0bdae2a-1562-408c-87ad-afe844dbe412/diss_grafe_buchblock.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

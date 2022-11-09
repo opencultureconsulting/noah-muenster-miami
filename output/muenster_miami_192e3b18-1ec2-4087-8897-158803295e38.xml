@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_192e3b18-1ec2-4087-8897-158803295e38">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Staunen der Vernunft</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/119190044">
+                        <displayForm>Pareyson, Luigi</displayForm>
+                        <namePart type="given">Luigi</namePart>
+                        <namePart type="family">Pareyson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1044732865">
+                        <displayForm>De Candia, Gianluca</displayForm>
+                        <namePart type="given">Gianluca</namePart>
+                        <namePart type="family">De Candia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">edt</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Luigi Pareyson ist bislang im deutschsprachigen Raum wenig bekannt, obwohl seine Werke in viele Sprachen übersetzt wurden, da er zweifellos neben H.-G. Gadamer und P. Ricoeur zu den Begründern der modernen philosophischen Hermeneutik gehört. Aufgrund seiner intellektuellen Vielfältigkeit hat er viele seiner Schüler, zu denen Umberto Eco und Gianni Vattimo gehören, inspiriert und ihnen ein breites Spektrum eröffnet, das von idealistischen Ansätzen über die Hermeneutik bis zur ästhetischen Theorie reicht. Der Band liefert eine vielfältige, zugleich aber in sich kohärente Skizze wichtiger Motive seiner Philosophie: die Hauptzüge seiner Fichte- und Schelling-Interpretation, die Grundlagen seiner &quot;Ontologie der Freiheit&quot;, seine philosophische Hermeneutik der religiösen Erfahrung, die Grundlinien seiner Ästhetik und schließlich Überlegungen, die die soziale Funktion betreffen, die der Philosophie zukäme. Wie ein roter Faden zieht sich durch alle diese Beiträge eine intellektuelle Haltung des Staunens. Es ist die Haltung eines Nicht-völlständig-Begreifens angesichts des menschlichen Daseins und seiner Freiheit, des Bösen in der Geschichte, des Phänomens der überschwänglichen Schönheit, der Deutungskraft des Mythos, der unvermeidbaren Andersheit des Anderen und des Ichs selbst. Und es ist genau dieses Staunen, das die Menschen – seit den Anfängen bis heute – zum Philosophieren veranlasst. »Mit diesem Werk hat Gianluca De Candia seiner wertvollen Vermittlungsarbeit zwischen der italienischen und deutschen Philosophie einen weiteren Baustein hinzufügt.« (Gianni Vattimo)</abstract>
+                    <note>Luigi Pareyson ; hrsg. und eingeleitet von Gianluca De Candia : Vom Staunen der Vernunft. Münster : Aschendorff, 2021., ISBN 978-3-402-24763-1, L, 158 S.</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds 2021 der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ddc">200</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-33019448868</identifier>
+                    <identifier type="doi">10.17879/33019451547</identifier>
+                    <identifier type="isbn">978-3-402-24764-8</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_192e3b18-1ec2-4087-8897-158803295e38</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_192e3b18-1ec2-4087-8897-158803295e38_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/192e3b18-1ec2-4087-8897-158803295e38/10.17438_978-3-402-21815-0.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_192e3b18-1ec2-4087-8897-158803295e38" DMDID="DMD_192e3b18-1ec2-4087-8897-158803295e38">
+            <mets:fptr FILEID="FILE_192e3b18-1ec2-4087-8897-158803295e38_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

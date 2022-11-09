@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:0733e00f-fa2f-4aef-a9b2-8dccb7793993" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:35:04">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:50:29">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -21,11 +21,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/112940366">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Norbert</mods:namePart>
                     <mods:namePart type="family">Lügering</mods:namePart>
                     <mods:displayForm>Lügering, Norbert</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
                     </mods:role>
@@ -62,7 +61,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2004-08-08</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2016-02-03</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-05-02</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -120,10 +119,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="b960b7e4d48fe64c89cd3da07d1ca1276c7c4aa2874522c6057d0364b72a1488" CREATED="2016-02-03T12:50:05" CHECKSUMTYPE="SHA-256" SIZE="91876" ID="ID_FIL_Dr_Arbeit_Stefan_Schoeppner_Teil_1.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="b960b7e4d48fe64c89cd3da07d1ca1276c7c4aa2874522c6057d0364b72a1488" CREATED="2022-05-02T10:20:59" CHECKSUMTYPE="SHA-256" SIZE="91876" ID="ID_FIL_Dr_Arbeit_Stefan_Schoeppner_Teil_1.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0733e00f-fa2f-4aef-a9b2-8dccb7793993/Dr_Arbeit_Stefan_Schoeppner_Teil_1.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="31021a19faac537fda9837937c0d6a13291c84820d15713c253de907ee2fea69" CREATED="2016-02-03T12:50:05" CHECKSUMTYPE="SHA-256" SIZE="950910" ID="ID_FIL_Dr_Arbeit_Stefan_Schoeppner_Teil_2.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="31021a19faac537fda9837937c0d6a13291c84820d15713c253de907ee2fea69" CREATED="2022-05-02T10:20:59" CHECKSUMTYPE="SHA-256" SIZE="950910" ID="ID_FIL_Dr_Arbeit_Stefan_Schoeppner_Teil_2.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0733e00f-fa2f-4aef-a9b2-8dccb7793993/Dr_Arbeit_Stefan_Schoeppner_Teil_2.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

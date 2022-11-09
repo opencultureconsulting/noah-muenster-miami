@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:04496f70-ca14-4b69-a8e9-c8b9dc2b5bee" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:44:55">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:01:01">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -34,9 +34,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1264827520">
                     <mods:namePart type="given">Göran</mods:namePart>
                     <mods:namePart type="family">Hamrin</mods:namePart>
+                    <mods:namePart type="date">1970-</mods:namePart>
                     <mods:displayForm>Hamrin, Göran</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
@@ -74,7 +75,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2018-06-25</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2018-11-21</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-08-08</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -138,10 +139,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="9f130d3e3815ef3529c1ca41c8a011e52eba7d80b64a13aa8e81e8e1c4aaf427" CREATED="2018-11-21T08:41:39" CHECKSUMTYPE="SHA-256" SIZE="677732" ID="ID_FIL_IATUL2018_Hamrin-Voss_presentation.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="9f130d3e3815ef3529c1ca41c8a011e52eba7d80b64a13aa8e81e8e1c4aaf427" CREATED="2022-08-08T12:43:19" CHECKSUMTYPE="SHA-256" SIZE="677732" ID="ID_FIL_IATUL2018_Hamrin-Voss_presentation.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/04496f70-ca14-4b69-a8e9-c8b9dc2b5bee/IATUL2018_Hamrin-Voss_presentation.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="a60a1d4185736d524f59c05d68c2730d4a774aa324b51b72ad2649a4533a56b0" CREATED="2018-11-21T08:41:39" CHECKSUMTYPE="SHA-256" SIZE="167421" ID="ID_FIL_IATUL2018_Hamrin-Voss_talk-notes.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="a60a1d4185736d524f59c05d68c2730d4a774aa324b51b72ad2649a4533a56b0" CREATED="2022-08-08T12:43:19" CHECKSUMTYPE="SHA-256" SIZE="167421" ID="ID_FIL_IATUL2018_Hamrin-Voss_talk-notes.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/04496f70-ca14-4b69-a8e9-c8b9dc2b5bee/IATUL2018_Hamrin-Voss_talk-notes.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:a08e15e4-d344-453d-8a8d-c2c70a42dee3" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:42:11">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:58:05">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -20,9 +20,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/133111458">
                     <mods:namePart type="given">Sabine</mods:namePart>
                     <mods:namePart type="family">Schlacke</mods:namePart>
+                    <mods:namePart type="date">1968-</mods:namePart>
                     <mods:displayForm>Schlacke, Sabine</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
@@ -61,7 +62,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2021-07-09</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2021-07-09</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-08-22</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -381,7 +382,7 @@ Verzeichnis der verwendeten Literatur 807</mods:tableOfContents>
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="d7ceebda46eeb7ec49db055e72d31af1f69de9bad77644447f1e9fcd03fda8e4" CREATED="2021-07-09T09:35:03" CHECKSUMTYPE="SHA-256" SIZE="5956281" ID="ID_FIL_diss_meitz.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d7ceebda46eeb7ec49db055e72d31af1f69de9bad77644447f1e9fcd03fda8e4" CREATED="2022-08-22T14:08:23" CHECKSUMTYPE="SHA-256" SIZE="5956281" ID="ID_FIL_diss_meitz.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a08e15e4-d344-453d-8a8d-c2c70a42dee3/diss_meitz.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

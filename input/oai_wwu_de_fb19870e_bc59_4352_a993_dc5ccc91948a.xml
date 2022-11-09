@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:fb19870e-bc59-4352-a993-dc5ccc91948a" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:39:57">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:55:42">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -12,11 +12,29 @@
                     <mods:title script="Latn">Frömmigkeit und Wissen</mods:title>
                     <mods:subTitle>Rheinisch-Westfälische Bibliotheken der Kapuziner vor der Säkularisation</mods:subTitle>
                   </mods:titleInfo>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/15789097X">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/123872510" altRepGroup="0">
                     <mods:namePart type="given">Leonhard</mods:namePart>
                     <mods:namePart type="family">Lehmann</mods:namePart>
+                    <mods:namePart type="date">1947-</mods:namePart>
                     <mods:displayForm>Lehmann, Leonhard</mods:displayForm>
-                    <mods:affiliation>Einrichtungen außerhalb der WWU</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/123872510" altRepGroup="0">
+                    <mods:namePart type="given">Leonard</mods:namePart>
+                    <mods:namePart type="family">Lehmann</mods:namePart>
+                    <mods:namePart type="date">1947-</mods:namePart>
+                    <mods:displayForm>Lehmann, Leonard</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/123872510" altRepGroup="0">
+                    <mods:namePart type="given">Leonardo</mods:namePart>
+                    <mods:namePart type="family">Lehmann</mods:namePart>
+                    <mods:namePart type="date">1947-</mods:namePart>
+                    <mods:displayForm>Lehmann, Leonardo</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -53,7 +71,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2003-06-15</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2015-11-26</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-10-28</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -111,7 +129,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="be4f14ad3e072cc36fe3e0143e90e3fad47858a69dd99dc8e5e3379465f21aa2" CREATED="2015-11-26T15:44:24" CHECKSUMTYPE="SHA-256" SIZE="180200" ID="ID_FIL_froemmigkeitundwissen.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="be4f14ad3e072cc36fe3e0143e90e3fad47858a69dd99dc8e5e3379465f21aa2" CREATED="2022-10-28T15:05:28" CHECKSUMTYPE="SHA-256" SIZE="180200" ID="ID_FIL_froemmigkeitundwissen.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/fb19870e-bc59-4352-a993-dc5ccc91948a/froemmigkeitundwissen.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_16ecc6fd-2f91-41c4-a211-8a78d61c30ee">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Wireless-Signal-Based Vehicle Counting and Classification in Different Road Environments</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kanschat, Raoul</displayForm>
+                        <namePart type="given">Raoul</namePart>
+                        <namePart type="family">Kanschat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1191784940">
+                        <displayForm>Gupta, Shivam</displayForm>
+                        <namePart type="given">Shivam</namePart>
+                        <namePart type="family">Gupta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1068422122">
+                        <displayForm>Degbelo, Auriol</displayForm>
+                        <namePart type="given">Auriol</namePart>
+                        <namePart type="family">Degbelo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-31</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-05-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Traffic monitoring is key to modern city planning. However, the costs associated with monitoring devices limit the large-scale deployment of existing traffic monitoring systems. In this article, we propose and evaluate an algorithm to automatically count the number of vehicles that have passed through a low-cost system for traffic monitoring. The system uses deviations in the Wi-Fi signals strength to predict the presence of a vehicle on the road and its type (car, bus). The study further systematically compares six analytical techniques for the classification of detected vehicles. The methods were tested with data from three road scenarios in the city of Münster, Germany. Vehicle classification accuracy ranged from 83% up to 100% in our study. We also observed that a higher Wi-Fi frequency (5 GHz) was superior to the 2.4 GHz for improving the overall vehicle detection and the results of the classification algorithms. The results suggest that the Wi-Fi-based techniques proposed in this study are promising for cost-efficient traffic monitoring in cities in a privacy-preserving manner.</abstract>
+                    <note type="citation/reference">IEEE Open Journal of Intelligent Transportation Systems 3 (2022), 236-250</note>
+                    <subject lang="eng">
+                        <topic>Low-cost</topic>
+                        <topic>machine learning</topic>
+                        <topic>road traffic monitoring</topic>
+                        <topic>smart cities</topic>
+                        <topic>vehicle classification</topic>
+                        <topic>vehicle counting</topic>
+                        <topic>Wi-Fi.</topic>
+                    </subject>
+                    <classification authority="ddc">550</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-63089698717</identifier>
+                    <identifier type="doi">10.17879/63089699862</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_16ecc6fd-2f91-41c4-a211-8a78d61c30ee</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_16ecc6fd-2f91-41c4-a211-8a78d61c30ee_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/16ecc6fd-2f91-41c4-a211-8a78d61c30ee/10.1109_OJITS.2022.3160934.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_16ecc6fd-2f91-41c4-a211-8a78d61c30ee" DMDID="DMD_16ecc6fd-2f91-41c4-a211-8a78d61c30ee">
+            <mets:fptr FILEID="FILE_16ecc6fd-2f91-41c4-a211-8a78d61c30ee_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

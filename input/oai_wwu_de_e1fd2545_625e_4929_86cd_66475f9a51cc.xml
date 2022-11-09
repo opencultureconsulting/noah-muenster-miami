@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:e1fd2545-625e-4929-86cd-66475f9a51cc" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:45:21">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:01:32">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -21,20 +21,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/113950632" altRepGroup="1">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Boulos</mods:namePart>
                     <mods:namePart type="family">Asfour</mods:namePart>
                     <mods:displayForm>Asfour, Boulos</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
-                    <mods:role>
-                      <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
-                    </mods:role>
-                  </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/113950632" altRepGroup="1">
-                    <mods:namePart type="given">B.</mods:namePart>
-                    <mods:namePart type="family">Asfour</mods:namePart>
-                    <mods:displayForm>Asfour, B.</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
                     </mods:role>
@@ -71,7 +61,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2006-02-07</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2016-02-25</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-04-14</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -129,10 +119,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="d6a6bb542e914d3bf79642a65f8b194644e0aa907e6475221fade767944c9974" CREATED="2016-02-25T15:52:16" CHECKSUMTYPE="SHA-256" SIZE="95173" ID="ID_FIL_01_diss_feist.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="d6a6bb542e914d3bf79642a65f8b194644e0aa907e6475221fade767944c9974" CREATED="2022-04-14T07:16:07" CHECKSUMTYPE="SHA-256" SIZE="95173" ID="ID_FIL_01_diss_feist.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e1fd2545-625e-4929-86cd-66475f9a51cc/01_diss_feist.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="9bdf0921613995f6d62f9d98fe7be6b85b3dc30a2cbe11d0d610377a07000c22" CREATED="2016-02-25T15:52:16" CHECKSUMTYPE="SHA-256" SIZE="1290494" ID="ID_FIL_02_diss_feist.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="9bdf0921613995f6d62f9d98fe7be6b85b3dc30a2cbe11d0d610377a07000c22" CREATED="2022-04-14T07:16:07" CHECKSUMTYPE="SHA-256" SIZE="1290494" ID="ID_FIL_02_diss_feist.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e1fd2545-625e-4929-86cd-66475f9a51cc/02_diss_feist.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

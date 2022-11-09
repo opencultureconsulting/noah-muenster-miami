@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:b9c07baa-2d98-4527-a1ca-f9f28e69b432" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:45:57">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:02:14">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -21,11 +21,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/109380606">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Karin</mods:namePart>
                     <mods:namePart type="family">Hengst</mods:namePart>
                     <mods:displayForm>Hengst, Karin</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
                     </mods:role>
@@ -62,7 +61,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2004-08-16</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2016-02-03</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-05-27</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -120,10 +119,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="e9f571dab16954b276370f7a87292e4307b49bf820027124c05d5c0b56b89ae5" CREATED="2016-02-03T13:05:16" CHECKSUMTYPE="SHA-256" SIZE="2415607" ID="ID_FIL_Dissertation_Pia_Dornseifer_2000.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="e9f571dab16954b276370f7a87292e4307b49bf820027124c05d5c0b56b89ae5" CREATED="2022-05-27T13:08:37" CHECKSUMTYPE="SHA-256" SIZE="2415607" ID="ID_FIL_Dissertation_Pia_Dornseifer_2000.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b9c07baa-2d98-4527-a1ca-f9f28e69b432/Dissertation_Pia_Dornseifer_2000.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="4c339a7bacc735564557178ec62cd8666ad808788dfc1a2e86a1ee7a4c8345b7" CREATED="2016-02-03T13:05:16" CHECKSUMTYPE="SHA-256" SIZE="8829" ID="ID_FIL_Gedruckt_mit_Genehmigung.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="4c339a7bacc735564557178ec62cd8666ad808788dfc1a2e86a1ee7a4c8345b7" CREATED="2022-05-27T13:08:37" CHECKSUMTYPE="SHA-256" SIZE="8829" ID="ID_FIL_Gedruckt_mit_Genehmigung.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b9c07baa-2d98-4527-a1ca-f9f28e69b432/Gedruckt_mit_Genehmigung.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

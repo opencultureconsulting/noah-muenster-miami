@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:a94e2f75-e1f7-422a-9632-b86ec088cf7b" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:41:24">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:57:17">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -20,11 +20,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/109695575X">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Juliette</mods:namePart>
                     <mods:namePart type="family">de Meaux</mods:namePart>
                     <mods:displayForm>de Meaux, Juliette</mods:displayForm>
-                    <mods:affiliation>FB 13: Biologie</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
                     </mods:role>
@@ -62,7 +61,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2015-04-08</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2015-04-08</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-05-02</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -155,10 +154,10 @@ Lebenslauf .....................................................................
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="e6e9eecab43a5414358d572dd09e461954f3aed899cdd03956daecb36f45d054" CREATED="2015-04-08T13:43:06" CHECKSUMTYPE="SHA-256" SIZE="2446900" ID="ID_FIL_diss_glander_01.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="e6e9eecab43a5414358d572dd09e461954f3aed899cdd03956daecb36f45d054" CREATED="2022-05-02T08:48:10" CHECKSUMTYPE="SHA-256" SIZE="2446900" ID="ID_FIL_diss_glander_01.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a94e2f75-e1f7-422a-9632-b86ec088cf7b/diss_glander_01.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="7ac2801f7f1add3456c0d9c22c04d8b4c9aecd9b8f2d51e2c77b7868adf0adc0" CREATED="2015-04-08T13:43:06" CHECKSUMTYPE="SHA-256" SIZE="11034892" ID="ID_FIL_diss_glander_02_anhang.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="7ac2801f7f1add3456c0d9c22c04d8b4c9aecd9b8f2d51e2c77b7868adf0adc0" CREATED="2022-05-02T08:48:10" CHECKSUMTYPE="SHA-256" SIZE="11034892" ID="ID_FIL_diss_glander_02_anhang.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/a94e2f75-e1f7-422a-9632-b86ec088cf7b/diss_glander_02_anhang.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

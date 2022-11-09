@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:599a766f-8d43-412e-bcc4-64d346f80397" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:44:12">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:00:13">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -11,9 +11,10 @@
                   <mods:titleInfo type="uniform" lang="eng">
                     <mods:title script="Latn">Perception of urban subdivisions in pedestrian movement simulation</mods:title>
                   </mods:titleInfo>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1249979188">
                     <mods:namePart type="given">Gabriele</mods:namePart>
                     <mods:namePart type="family">Filomena</mods:namePart>
+                    <mods:namePart type="date">1988-</mods:namePart>
                     <mods:displayForm>Filomena, Gabriele</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
@@ -27,10 +28,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
-                    <mods:namePart type="given">Judith A.</mods:namePart>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1247548805">
+                    <mods:namePart type="given">Judith</mods:namePart>
                     <mods:namePart type="family">Verstegen</mods:namePart>
-                    <mods:displayForm>Verstegen, Judith A.</mods:displayForm>
+                    <mods:displayForm>Verstegen, Judith</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -67,7 +68,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2021-01-25</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2021-01-25</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-09-09</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -83,12 +84,23 @@
                   <mods:abstract lang="eng">The perception of urban subdivisions, deriving from regionalisation processes and the identification of separating elements (barriers), has proven to dynamically shape peoples’ cognitive representations of space and route choice behaviour in cities. However, existing Agent-Based Models (ABMs) for pedestrian simulation have not accounted for these particular cognitive mapping processes. The aim of this paper is to explore the behaviour of pedestrian agents endowed with knowledge about urban subdivisions. Drawing from literature in spatial cognition, we adapted a region-based route choice model, which contemplates a high- and a local planning level, and advanced a barrier-based route choice model, wherein the influence of separating elements is manipulated. Finally, we combined these two approaches in a region-barrier based model. The patterns emerging from the movement of agents employing such approaches were examined in the city centres of London and Paris. The introduction of regions in the routing mechanisms reduced the unbalanced concentration of agents across the street network brought up by the widely employed least cumulative angular change model (-.08 Gini coefficient). The inclusion of barriers further raised the dispersal of the agents through secondary roads, while leading agents to walk along waterfronts and across parks; it also yielded a more regular usage of pedestrian roads. Moreover, the region- and the region-barrier based routes showed deviation ratio values from the road distance shortest path (region-based: 1.18 London, 1.16 Paris, region-barrier based: 1.43 London, 1.33 Paris) consistent with empirical observations from pedestrian behaviour research. A further evaluation of the model with macro-level observational data may enhance the understanding of pedestrian dynamics and help tuning the interplay amongst urban salient elements at the agent level. Yet, we consider the movement flows arising from our current implementation insightful for assessing the distribution of pedestrians and testing possible interventions for the design of legible and walkable spaces.</mods:abstract>
                   <mods:targetAudience>specialized</mods:targetAudience>
                   <mods:note type="citation/reference">PLoS ONE 15 (2020) 12, e0244099, 1-27</mods:note>
-                  <mods:classification authority="ddc">550</mods:classification>
+                  <mods:note type="funding">Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="eng">Decision making; Cities; Roads; Urban environments; Behavior; Cognition; Rivers; Walking</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:classification authority="ddc">910</mods:classification>
                   <mods:relatedItem otherType="IsIdenticalTo" otherTypeAuth="datacite">
                     <mods:identifier type="doi">10.1371/journal.pone.0244099</mods:identifier>
                   </mods:relatedItem>
+                  <mods:relatedItem otherType="IsSupplementedBy" otherTypeAuth="datacite">
+                    <mods:identifier type="doi">10.5281/zenodo.4318971</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:relatedItem otherType="IsSupplementedBy" otherTypeAuth="datacite">
+                    <mods:identifier type="doi">10.5281/zenodo.4318920</mods:identifier>
+                  </mods:relatedItem>
                   <mods:identifier type="urn">urn:nbn:de:hbz:6-78079629532</mods:identifier>
-                  <mods:identifier type="doi">10.1371/journal.pone.0244099</mods:identifier>
+                  <mods:identifier type="doi">10.17879/52099607452</mods:identifier>
                   <mods:location>
                     <mods:url access="object in context">https://miami.uni-muenster.de/Record/599a766f-8d43-412e-bcc4-64d346f80397</mods:url>
                   </mods:location>
@@ -132,7 +144,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="5a00dae98c42e99b25a2a3899c76be236ba2ea3903044143bcfddf7b75195d06" CREATED="2021-01-25T10:17:26" CHECKSUMTYPE="SHA-256" SIZE="12124195" ID="ID_FIL_10.1371_journal.pone.0244099.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="5a00dae98c42e99b25a2a3899c76be236ba2ea3903044143bcfddf7b75195d06" CREATED="2022-09-09T13:21:25" CHECKSUMTYPE="SHA-256" SIZE="12124195" ID="ID_FIL_10.1371_journal.pone.0244099.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/599a766f-8d43-412e-bcc4-64d346f80397/10.1371_journal.pone.0244099.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

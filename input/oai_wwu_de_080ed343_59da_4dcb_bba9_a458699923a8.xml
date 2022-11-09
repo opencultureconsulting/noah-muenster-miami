@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:080ed343-59da-4dcb-bba9-a458699923a8" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:46:31">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:02:54">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -53,9 +53,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1049317211">
                     <mods:namePart type="given">Philipp</mods:namePart>
                     <mods:namePart type="family">Michel</mods:namePart>
+                    <mods:namePart type="date">1987-</mods:namePart>
                     <mods:displayForm>Michel, Philipp</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
@@ -101,7 +102,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2021-11-10</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2022-01-06</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-05-03</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -165,7 +166,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="ccedc684d906693dafc630dffd5f43a7c1b90d03fdcfaa5910d95288cc52e4a4" CREATED="2022-01-06T16:38:41" CHECKSUMTYPE="SHA-256" SIZE="1420581" ID="ID_FIL_10.1016_j.asmr.2021.08.007.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="ccedc684d906693dafc630dffd5f43a7c1b90d03fdcfaa5910d95288cc52e4a4" CREATED="2022-05-03T11:48:09" CHECKSUMTYPE="SHA-256" SIZE="1420581" ID="ID_FIL_10.1016_j.asmr.2021.08.007.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/080ed343-59da-4dcb-bba9-a458699923a8/10.1016_j.asmr.2021.08.007.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_637c136c-ad69-4fc2-a6fc-df836a267009">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einleitung</title>
+                        <subTitle>In: Digitale Verfahren in der Literaturwissenschaft</subTitle>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1162231785">
+                        <displayForm>Horstmann, Jan</displayForm>
+                        <namePart type="given">Jan</namePart>
+                        <namePart type="family">Horstmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fischer, Frank</displayForm>
+                        <namePart type="given">Frank</namePart>
+                        <namePart type="family">Fischer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Verhältnis zwischen Literaturwissenschaft und Digital Humanities ist nicht nur dadurch geprägt, dass es mit den Digital (bzw. Computational) Literary Studies mittlerweile eine Subdisziplin gibt, die sich erkenntnistheoretisch aus beiden Supradisziplinen speist. Auch die Literaturwissenschaft selbst ist so digital geworden, dass entsprechende Verfahren ihren bestehenden Methodenstamm langfristig bereichern. Aus der Perspektive der Digital Humanities erscheint die Binnendifferenzierung in die Spielarten ›digitized humanities‹, ›numerical humanities‹ und ›humanities of the digital‹ instruktiv, welche sich den Bereichen Digitale Edition, Computationelle Methoden sowie Digitales Lesen/Social Media zuordnen lassen, die den vorliegenden Sonderband strukturieren.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64059433947</identifier>
+                    <identifier type="doi">10.17879/64059433528</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_637c136c-ad69-4fc2-a6fc-df836a267009</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_637c136c-ad69-4fc2-a6fc-df836a267009_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/637c136c-ad69-4fc2-a6fc-df836a267009/textpraxis_2022_s6_horstmann.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_637c136c-ad69-4fc2-a6fc-df836a267009" DMDID="DMD_637c136c-ad69-4fc2-a6fc-df836a267009">
+            <mets:fptr FILEID="FILE_637c136c-ad69-4fc2-a6fc-df836a267009_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

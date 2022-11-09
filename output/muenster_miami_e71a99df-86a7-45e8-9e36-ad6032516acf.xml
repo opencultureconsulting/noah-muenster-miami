@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_e71a99df-86a7-45e8-9e36-ad6032516acf">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dual projectile beams</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Boumeddine, Ouis Chouaib</displayForm>
+                        <namePart type="given">Ouis Chouaib</namePart>
+                        <namePart type="family">Boumeddine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1190654059">
+                        <displayForm>Zannotti, Alessandro</displayForm>
+                        <namePart type="given">Alessandro</namePart>
+                        <namePart type="family">Zannotti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abdelhalim, Bencheikh</displayForm>
+                        <namePart type="given">Bencheikh</namePart>
+                        <namePart type="family">Abdelhalim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/120038129">
+                        <displayForm>Denz, Cornelia</displayForm>
+                        <namePart type="given">Cornelia</namePart>
+                        <namePart type="family">Denz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-12</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Accelerating beams, of which the Airy beam is an important representative, are characterized by intensity maxima that propagate along curved trajectories. In this work we present a simple approach to directly generate accelerating beams with controllable trajectories by means of binary phase structures that consist of only a π phase step modulation in comparison to previous studies where two-dimensional cubic phase modulations for example are required, and which have practical limitations due to their challenging fabrication with phase plates or diffractive optical elements (DOEs), or the spatially extended system needed for their generation at the Fourier plane. In our approach, two intensity maxima are formed that propagate along root parabolic trajectories in contrast to Airy and higher order caustic beams that propagate along a parabolic curve, hence we call these beams Dual Projectile Beams (DPBs). By tailoring a step or slit phase patterns with additional Fresnel lenses, we either generate hollow-core or abruptly focusing beams and control their curvatures. Moreover, using DPBs as a simpler complement to complex structured light fields, we demonstrate their versatility at the example of their interaction with nonlinear matter, namely the formation of a spatial soliton in a photorefractive material. We show that the formed solitary state propagates almost unchanged for a distance of several Rayleigh lengths. This light matter interaction can be regarded as a light beam deceleration. The simplicity of this approach makes these beams suitable for integrated optics and high-power laser applications using DOEs or meta-surfaces.</abstract>
+                    <note type="citation/reference">Optics Express 30 (2022) 11, 18471-18480</note>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23089449153</identifier>
+                    <identifier type="doi">10.17879/23089449877</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_e71a99df-86a7-45e8-9e36-ad6032516acf</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_e71a99df-86a7-45e8-9e36-ad6032516acf_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/e71a99df-86a7-45e8-9e36-ad6032516acf/10.1364_OE.453593.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_e71a99df-86a7-45e8-9e36-ad6032516acf" DMDID="DMD_e71a99df-86a7-45e8-9e36-ad6032516acf">
+            <mets:fptr FILEID="FILE_e71a99df-86a7-45e8-9e36-ad6032516acf_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

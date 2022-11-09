@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:ed09480b-d869-41a5-9049-734e98ea66c5" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:42:18">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:58:10">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -11,20 +11,30 @@
                   <mods:titleInfo type="uniform" lang="eng">
                     <mods:title script="Latn">K-theory of Leavitt path algebras</mods:title>
                   </mods:titleInfo>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/12401688X" altRepGroup="0">
                     <mods:namePart type="given">Pere</mods:namePart>
                     <mods:namePart type="family">Ara</mods:namePart>
+                    <mods:namePart type="date">1959-</mods:namePart>
                     <mods:displayForm>Ara, Pere</mods:displayForm>
                     <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1138154911">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/12401688X" altRepGroup="0">
+                    <mods:namePart type="given">P.</mods:namePart>
+                    <mods:namePart type="family">Ara</mods:namePart>
+                    <mods:namePart type="date">1959-</mods:namePart>
+                    <mods:displayForm>Ara, P.</mods:displayForm>
+                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
                     <mods:namePart type="given">Miquel</mods:namePart>
                     <mods:namePart type="family">Brustenga</mods:namePart>
                     <mods:displayForm>Brustenga, Miquel</mods:displayForm>
-                    <mods:affiliation>FB 10: Mathematik und Informatik</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -79,7 +89,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2009-08-20</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2015-04-17</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-06-03</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -154,7 +164,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="69aae655c78270113df1bc5077b542f985a84e258fed1545c7bef3f729d43cb7" CREATED="2015-04-17T08:24:35" CHECKSUMTYPE="SHA-256" SIZE="332424" ID="ID_FIL_mjm_vol_2_02.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="69aae655c78270113df1bc5077b542f985a84e258fed1545c7bef3f729d43cb7" CREATED="2022-06-03T13:21:06" CHECKSUMTYPE="SHA-256" SIZE="332424" ID="ID_FIL_mjm_vol_2_02.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ed09480b-d869-41a5-9049-734e98ea66c5/mjm_vol_2_02.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

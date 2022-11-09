@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_400bbbec-040b-486e-8759-b082c418ede9">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reducibility of low-dimensional Poincaré duality spaces</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1031539433">
+                        <displayForm>Land, Markus</displayForm>
+                        <namePart type="given">Markus</namePart>
+                        <namePart type="family">Land</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-08-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We discuss Poincaré duality complexes X and the question whether or not their Spivak normal fibration admits a reduction to a vector bundle in the case where the dimension of X is at most 4. We show that in dimensions less than 4 such a reduction always exists, and in dimension 4 such a reduction exists provided X is orientable. In the non-orientable case, there are counterexamples to reducibility by Hambleton–Milgram.</abstract>
+                    <note>Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: CRC 1085</note>
+                    <note>Funding organisation: Deutsche Forschungsgemeinschaft / Project number: CRC 1085</note>
+                    <note>Förderer: Danish National Research Foundation / Projektnummer: DNRF151</note>
+                    <note>Funding organisation: Danish National Research Foundation / Project number: DNRF151</note>
+                    <classification authority="ddc">510</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münster Journal of Mathematics</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Münster Journal of Mathematics</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>47</start>
+                                <end>81</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-23049551583</identifier>
+                    <identifier type="doi">10.17879/23049551069</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_400bbbec-040b-486e-8759-b082c418ede9</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_400bbbec-040b-486e-8759-b082c418ede9_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/400bbbec-040b-486e-8759-b082c418ede9/mjm_2022_15_47-81.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_400bbbec-040b-486e-8759-b082c418ede9" DMDID="DMD_400bbbec-040b-486e-8759-b082c418ede9">
+            <mets:fptr FILEID="FILE_400bbbec-040b-486e-8759-b082c418ede9_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

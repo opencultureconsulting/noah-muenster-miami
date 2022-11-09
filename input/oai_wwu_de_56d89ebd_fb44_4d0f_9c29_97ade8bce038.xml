@@ -1,0 +1,164 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:56d89ebd-fb44-4d0f-9c29-97ade8bce038" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:59:10">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_56d89ebd-fb44-4d0f-9c29-97ade8bce038">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Mobilome of Apicomplexa Parasites</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Matias</mods:namePart>
+                    <mods:namePart type="family">Rodriguez</mods:namePart>
+                    <mods:displayForm>Rodriguez, Matias</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Wojciech</mods:namePart>
+                    <mods:namePart type="family">Makałowski</mods:namePart>
+                    <mods:displayForm>Makałowski, Wojciech</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="2">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2022-05-16</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2022-06-27</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2022-06-27</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>1-14</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">Transposable elements (TEs) are mobile genetic elements found in the majority of eukaryotic genomes. Genomic studies of protozoan parasites from the phylum Apicomplexa have only reported a handful of TEs in some species and a complete absence in others. Here, we studied sixty-four Apicomplexa genomes available in public databases, using a ‘de novo’ approach to build candidate TE models and multiple strategies from known TE sequence databases, pattern recognition of TEs, and protein domain databases, to identify possible TEs. We offer an insight into the distribution and the type of TEs that are present in these genomes, aiming to shed some light on the process of gains and losses of TEs in this phylum. We found that TEs comprise a very small portion in these genomes compared to other organisms, and in many cases, there are no apparent traces of TEs. We were able to build and classify 151 models from the TE consensus sequences obtained with RepeatModeler, 96 LTR TEs with LTRpred, and 44 LINE TEs with MGEScan. We found LTR Gypsy-like TEs in Eimeria, Gregarines, Haemoproteus, and Plasmodium genera. Additionally, we described LINE-like TEs in some species from the genera Babesia and Theileria. Finally, we confirmed the absence of TEs in the genus Cryptosporidium. Interestingly, Apicomplexa seem to be devoid of Class II transposons.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="citation/reference">Genes 13 (2022) 5, 887, 1-14</mods:note>
+                  <mods:note type="funding">Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="eng">transposons; Apicomplexa; bioinformatics; mobile elements</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">610</mods:classification>
+                  <mods:classification authority="ddc">000</mods:classification>
+                  <mods:relatedItem otherType="IsIdenticalTo" otherTypeAuth="datacite">
+                    <mods:identifier type="doi">10.3390/genes13050887</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:relatedItem otherType="IsSupplementedBy" otherTypeAuth="datacite">
+                    <mods:identifier type="uri">https://www.mdpi.com/article/10.3390/genes13050887/s1</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:relatedItem otherType="IsSupplementedBy" otherTypeAuth="datacite">
+                    <mods:identifier type="uri">https://github.com/IOB-Muenster/TEs_in_Apicomplexa</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-83059424028</mods:identifier>
+                  <mods:identifier type="doi">10.17879/83059424847</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/56d89ebd-fb44-4d0f-9c29-97ade8bce038</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>CC BY 4.0</ma:displayLabel>
+                          <ma:targetUrl>http://creativecommons.org/licenses/by/4.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:56d89ebd-fb44-4d0f-9c29-97ade8bce038</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_56d89ebd-fb44-4d0f-9c29-97ade8bce038">
+            <mets:rightsMD ID="RIGHTSMD_56d89ebd-fb44-4d0f-9c29-97ade8bce038">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_56d89ebd-fb44-4d0f-9c29-97ade8bce038">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/56d89ebd-fb44-4d0f-9c29-97ade8bce038</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="6e5052ac6109a66b1abd4cbd3c845f70efa8a2ca52341d9cfc7f8eb30cd29a51" CREATED="2022-06-27T15:59:59" CHECKSUMTYPE="SHA-256" SIZE="1243520" ID="ID_FIL_10.3390_genes13050887.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/56d89ebd-fb44-4d0f-9c29-97ade8bce038/10.3390_genes13050887.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW56d89ebd-fb44-4d0f-9c29-97ade8bce038">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/56d89ebd-fb44-4d0f-9c29-97ade8bce038" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_56d89ebd-fb44-4d0f-9c29-97ade8bce038" TYPE="physSequence">
+              <mets:div ID="ID_PHY_10.3390_genes13050887.pdf">
+                <mets:fptr FILEID="ID_FIL_10.3390_genes13050887.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_56d89ebd-fb44-4d0f-9c29-97ade8bce038" DMDID="DMD_56d89ebd-fb44-4d0f-9c29-97ade8bce038" ID="ID_LOG_56d89ebd-fb44-4d0f-9c29-97ade8bce038" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_10.3390_genes13050887.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_56d89ebd-fb44-4d0f-9c29-97ade8bce038" xlink:to="ID_PHY_56d89ebd-fb44-4d0f-9c29-97ade8bce038"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_10.3390_genes13050887.pdf" xlink:to="ID_PHY_10.3390_genes13050887.pdf"/>
+          </mets:structLink>
+        </mets:mets>

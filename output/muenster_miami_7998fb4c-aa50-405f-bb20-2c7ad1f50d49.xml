@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_7998fb4c-aa50-405f-bb20-2c7ad1f50d49">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>frequency gradient of human resting-state brain oscillations follows cortical hierarchies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mahjoory, Keyvan</displayForm>
+                        <namePart type="given">Keyvan</namePart>
+                        <namePart type="family">Mahjoory</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schoffelen, Jan-Mathijs</displayForm>
+                        <namePart type="given">Jan-Mathijs</namePart>
+                        <namePart type="family">Schoffelen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1050053869">
+                        <displayForm>Keitel, Anne</displayForm>
+                        <namePart type="given">Anne</namePart>
+                        <namePart type="family">Keitel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gross, Joachim</displayForm>
+                        <namePart type="given">Joachim</namePart>
+                        <namePart type="family">Gross</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-21</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-05-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The human cortex is characterized by local morphological features such as cortical thickness, myelin content, and gene expression that change along the posterior-anterior axis. We investigated if some of these structural gradients are associated with a similar gradient in a prominent feature of brain activity - namely the frequency of oscillations. In resting-state MEG recordings from healthy participants (N = 187) using mixed effect models, we found that the dominant peak frequency in a brain area decreases significantly along the posterior-anterior axis following the global hierarchy from early sensory to higher order areas. This spatial gradient of peak frequency was significantly anticorrelated with that of cortical thickness, representing a proxy of the cortical hierarchical level. This result indicates that the dominant frequency changes systematically and globally along the spatial and hierarchical gradients and establishes a new structure-function relationship pertaining to brain oscillations as a core organization that may underlie hierarchical specialization in the brain.</abstract>
+                    <note type="citation/reference">eLife 9 (2020), e53715, 1-18</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>Research Article</topic>
+                        <topic>Neuroscience</topic>
+                        <topic>brain oscillations</topic>
+                        <topic>peak frequency</topic>
+                        <topic>MEG</topic>
+                        <topic>structure-function relationship in brain</topic>
+                        <topic>cortical hierarchy</topic>
+                        <topic>cortical thickness</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-44019490353</identifier>
+                    <identifier type="doi">10.17879/14029477916</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_7998fb4c-aa50-405f-bb20-2c7ad1f50d49</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_7998fb4c-aa50-405f-bb20-2c7ad1f50d49_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/7998fb4c-aa50-405f-bb20-2c7ad1f50d49/10.7554_eLife.53715.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_7998fb4c-aa50-405f-bb20-2c7ad1f50d49" DMDID="DMD_7998fb4c-aa50-405f-bb20-2c7ad1f50d49">
+            <mets:fptr FILEID="FILE_7998fb4c-aa50-405f-bb20-2c7ad1f50d49_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

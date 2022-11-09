@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_437b4f04-3cb8-4af5-9d6c-139ca3f3653a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Fundamental Data Mining Techniques for Declarative Process Mining</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grohmann, Nico</displayForm>
+                        <namePart type="given">Nico</namePart>
+                        <namePart type="family">Grohmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, Gottfried</displayForm>
+                        <namePart type="given">Gottfried</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121017168">
+                        <displayForm>Vossen, G.</displayForm>
+                        <namePart type="given">G.</namePart>
+                        <namePart type="family">Vossen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-04-25</dateIssued>
+                        <dateOther encoding="w3cdtf">2022-01-11</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Process mining is a Business Process Management (BPM) technique that uses execution data of business processes for their analysis. By transforming the data to so-called event logs, process mining tools generate process models that describe the executions as close as possible. Process discovery can result either in graph-based notations (e.g., Petri nets or BPMN) or declarative ones like Declare. One hypothesis in this work is that declarative constraint templates can support model understanding in case process mining results in large, confusing &quot;spaghetti&quot; diagrams. Overall, this work contributes an approach including a prototypical implementation for applying association rule and sequential pattern mining to event logs for discovering declarative process models. Preprocessing steps and the transformation of rules and patterns to constraints in Declare are addressed explicitly. In this way, analysts receive transparent insights into the basis of the overall declarative model.</abstract>
+                    <abstract lang="ger">Process Mining ist eine Technik des Geschäftsprozessmanagements, die Ausführungsdaten von Geschäftsprozessen zur Analyse verwendet. Durch eine Bereitstellung der Daten in sogenannten Event-Logs generieren Process Mining-Tools Prozessmodelle, die die Ausführungen möglichst präzise beschreiben. Dies kann entweder in graph-basierte Notationen wie Petri-Netze oder BPMN oder deklarative Notationen wie Declare resultieren. Eine Hypothese der Arbeit ist, dass deklarative Constraints die Verständlichkeit der Modelle erhöhen kann wenn Process Mining große, unübersichtliche &quot;Spaghetti-Diagramme&quot; produziert. Diese Arbeit präsentiert einen Ansatz inklusive prototypischer Implementierung um Assoziations- und Sequenzmusteranalyse auf Event-Logs anzuwenden, mit dem Ziel, deklarative Prozessmodelle zu erzeugen. Auf Preprocessing-Schritte und die Übersetzung der Regeln und Muster zu Declare-Constraints wird explizit eingegangen. Dadurch erhalten Analysten transparente Einblicke in die Basis des gesamten deklarativen Modells.</abstract>
+                    <note>Auch im Buchhandel erhältlich: Fundamental Data Mining Techniques for Declarative Process Mining / Nico Grohmann. – Hildesheim : Georg Olms Verlag, 2022. – XVII, 223 S. (Wissenschaftliche Schriften der WWU Münster : Reihe IV ; Bd. 21), ISBN 978-3-487-16155-6, Preis: 32,00 EUR</note>
+                    <note type="thesis statement">Münster (Westfalen), Univ., Diss., 2022</note>
+                    <subject lang="ger">
+                        <topic>Prozessmodellierung</topic>
+                        <topic>Prozessmodellgenerierung</topic>
+                        <topic>Assoziationsanalyse</topic>
+                        <topic>Sequenzmusteranalyse</topic>
+                    </subject>
+                    <subject lang="eng">
+                        <topic>Process Mining</topic>
+                        <topic>Data Mining</topic>
+                        <topic>Declarative Process Mining</topic>
+                        <topic>Process Discovery</topic>
+                        <topic>Association Rule Mining</topic>
+                        <topic>Sequential Pattern Mining</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-54059510537</identifier>
+                    <identifier type="doi">10.17879/54059509128</identifier>
+                    <identifier type="isbn">978-3-8405-0266-8</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_437b4f04-3cb8-4af5-9d6c-139ca3f3653a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_437b4f04-3cb8-4af5-9d6c-139ca3f3653a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/437b4f04-3cb8-4af5-9d6c-139ca3f3653a/978-3-8405-0266-8.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_437b4f04-3cb8-4af5-9d6c-139ca3f3653a" DMDID="DMD_437b4f04-3cb8-4af5-9d6c-139ca3f3653a">
+            <mets:fptr FILEID="FILE_437b4f04-3cb8-4af5-9d6c-139ca3f3653a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

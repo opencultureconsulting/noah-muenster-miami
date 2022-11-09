@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:78e60f12-a4ba-4b76-964e-6d4d6a063b1d" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:41:16">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:57:06">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -21,11 +21,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/114868581">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Stefan</mods:namePart>
                     <mods:namePart type="family">Könemann</mods:namePart>
                     <mods:displayForm>Könemann, Stefan</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
                     </mods:role>
@@ -62,7 +61,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2009-01-05</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2016-04-22</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-04-20</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -120,7 +119,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="b87b287549b6114deda055f1f5e126639a42aa12ad6602406dac3091dd343da5" CREATED="2016-04-22T09:35:59" CHECKSUMTYPE="SHA-256" SIZE="832310" ID="ID_FIL_diss_distelmaier.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="b87b287549b6114deda055f1f5e126639a42aa12ad6602406dac3091dd343da5" CREATED="2022-04-20T09:13:10" CHECKSUMTYPE="SHA-256" SIZE="832310" ID="ID_FIL_diss_distelmaier.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/78e60f12-a4ba-4b76-964e-6d4d6a063b1d/diss_distelmaier.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

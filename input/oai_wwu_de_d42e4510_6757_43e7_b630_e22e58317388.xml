@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:d42e4510-6757-43e7-b630-e22e58317388" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:35:50">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:51:18">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -11,7 +11,16 @@
                   <mods:titleInfo type="uniform" lang="ger">
                     <mods:title script="Latn">Computer Algebra Systeme in der Lehrer(innen)bildung</mods:title>
                   </mods:titleInfo>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1083043749">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1083043749" altRepGroup="1">
+                    <mods:namePart type="given">Karl</mods:namePart>
+                    <mods:namePart type="family">Fuchs</mods:namePart>
+                    <mods:namePart type="date">1957-</mods:namePart>
+                    <mods:displayForm>Fuchs, Karl</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1083043749" altRepGroup="1">
                     <mods:namePart type="given">Karl Josef</mods:namePart>
                     <mods:namePart type="family">Fuchs</mods:namePart>
                     <mods:namePart type="date">1957-</mods:namePart>
@@ -20,7 +29,7 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1156420628">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1175896047">
                     <mods:namePart type="given">Simon</mods:namePart>
                     <mods:namePart type="family">Plangg</mods:namePart>
                     <mods:displayForm>Plangg, Simon</mods:displayForm>
@@ -62,7 +71,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2020-11-03</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2020-11-06</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-10-21</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -177,7 +186,7 @@ LITERATURVERZEICHNIS ..... 106</mods:tableOfContents>
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="1280263ef340891741e66970c566ca53fde354f4cf56e57c2f034ea90f1eddf6" CREATED="2020-11-06T09:20:42" CHECKSUMTYPE="SHA-256" SIZE="6814555" ID="ID_FIL_wtm_isbn-978-3-95987-142-6.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="1280263ef340891741e66970c566ca53fde354f4cf56e57c2f034ea90f1eddf6" CREATED="2022-10-21T10:24:04" CHECKSUMTYPE="SHA-256" SIZE="6814555" ID="ID_FIL_wtm_isbn-978-3-95987-142-6.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/d42e4510-6757-43e7-b630-e22e58317388/wtm_isbn-978-3-95987-142-6.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

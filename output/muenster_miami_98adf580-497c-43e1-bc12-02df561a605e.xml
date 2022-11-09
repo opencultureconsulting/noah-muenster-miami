@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_98adf580-497c-43e1-bc12-02df561a605e">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Studien zur Gliederung von Gottfrieds von Straßburg &quot;Tristan und Isolde&quot; anhand der Heidelberger Handschrift Cpg 360</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schoonhoven, Andreas Heinz</displayForm>
+                        <namePart type="given">Andreas Heinz</namePart>
+                        <namePart type="family">Schoonhoven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/110823656">
+                        <displayForm>Tomasek, Tomas</displayForm>
+                        <namePart type="given">Tomas</namePart>
+                        <namePart type="family">Tomasek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ths</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">masterThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-08-04</dateIssued>
+                        <dateOther encoding="w3cdtf">2021-06-14</dateOther>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Diese Masterarbeit präsentiert eine Liste aller Gliederungselemente sämtlicher Handschriften von Gottfrieds von Straßburg &quot;Tristan und Isolde&quot;. Hierauf aufbauend wird die komplexe, fünfstufige Werkstruktur der Heidelberger Handschrift Cpg 360 stemmatologisch untersucht, ob sie sich bis zum Archetyp zurückverfolgen lässt, sowie auf die Platzierung, sprachlich-stilistische Merkmale und Funktion der Gliederungselemente. Bedeutsam ist hierbei die Entdeckung einer bislang unberücksichtigten Gliederungsebene der Heidelberger Handschrift: Initialen, die zusätzlich mit einem Kapitelzeichen hervorgehoben werden. An die Analyse der Werkstruktur schließt eine Untersuchung der Vortragsgliederung an, inwiefern diese unter Berücksichtigung anaphorischer sowie narratologischer Merkmale aus der Werkstruktur erwächst.</abstract>
+                    <subject lang="ger">
+                        <topic>Gottfried von Straßburg</topic>
+                        <topic>Tristan</topic>
+                        <topic>Mittelalter</topic>
+                        <topic>Literaturwissenschaft</topic>
+                        <topic>Handschrift</topic>
+                        <topic>Gliederung</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-03029584577</identifier>
+                    <identifier type="doi">10.17879/03029662885</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_98adf580-497c-43e1-bc12-02df561a605e</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaMasterThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_98adf580-497c-43e1-bc12-02df561a605e_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/98adf580-497c-43e1-bc12-02df561a605e/master_schoonhoven_2022.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_98adf580-497c-43e1-bc12-02df561a605e" DMDID="DMD_98adf580-497c-43e1-bc12-02df561a605e">
+            <mets:fptr FILEID="FILE_98adf580-497c-43e1-bc12-02df561a605e_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

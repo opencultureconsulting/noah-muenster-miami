@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_91f6d48d-cebb-45ed-aee6-c363343aa5d2">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Use of Long-Read Sequencing Technologies in Infection Control: Horizontal Transfer of a blaCTX-M-27 Containing lncFII Plasmid in a Patient Screening Sample</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1229951482">
+                        <displayForm>van Almsick, Vincent</displayForm>
+                        <namePart type="given">Vincent</namePart>
+                        <namePart type="family">van Almsick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schuler, Franziska</displayForm>
+                        <namePart type="given">Franziska</namePart>
+                        <namePart type="family">Schuler</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/173556833">
+                        <displayForm>Mellmann, Alexander</displayForm>
+                        <namePart type="given">Alexander</namePart>
+                        <namePart type="family">Mellmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/133245527">
+                        <displayForm>Schwierzeck, Vera</displayForm>
+                        <namePart type="given">Vera</namePart>
+                        <namePart type="family">Schwierzeck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-23</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Plasmid transfer is one important mechanism how antimicrobial resistance can spread between different species, contributing to the rise of multidrug resistant bacteria (MDRB) worldwide. Here were present whole genome sequencing (WGS) data of two MDRB isolates, an Escherichia coli and a Klebsiella quasipneumoniae, which were isolated from a single patient. Detailed analysis of long-read sequencing data identified an identical F2:A-:B- lncFII plasmid containing blaCTX-M-27 in both isolates, suggesting horizontal plasmid exchange between the two species. As the plasmid of the E. coli strain carried multiple copies of the resistance cassette, the genomic data correlated with the increased antimicrobial resistance (AMR) detected for this isolate. Our case report demonstrates how long-read sequencing data of MDRB can be used to investigate the role of plasmid mediate resistance in the healthcare setting and explain resistance phenotypes.</abstract>
+                    <note type="citation/reference">Microorganisms 10 (2022) 3, 491, 1-7</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>long-read sequencing</topic>
+                        <topic>blaCTX-M-27</topic>
+                        <topic>plasmid transfer</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-13069560420</identifier>
+                    <identifier type="doi">10.17879/13069561278</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_91f6d48d-cebb-45ed-aee6-c363343aa5d2</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_91f6d48d-cebb-45ed-aee6-c363343aa5d2_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/91f6d48d-cebb-45ed-aee6-c363343aa5d2/10.3390_microorganisms10030491.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_91f6d48d-cebb-45ed-aee6-c363343aa5d2" DMDID="DMD_91f6d48d-cebb-45ed-aee6-c363343aa5d2">
+            <mets:fptr FILEID="FILE_91f6d48d-cebb-45ed-aee6-c363343aa5d2_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

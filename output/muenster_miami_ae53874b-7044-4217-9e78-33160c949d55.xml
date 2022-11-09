@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_ae53874b-7044-4217-9e78-33160c949d55">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sendschreiben des Rates vom 30. August 1505 betr. die Begnadung der Stadt mit zwei Jahrmärkten durch König Maximilian I. nebst Bestätigung durch Herzog Heinrich d. Ä. von Braunschweig vom 29. August 1505</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Anonymus</displayForm>
+                        <namePart type="family">Anonymus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1505</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-09-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Druck: [Braunschweig] : [Hans Dorn] [1505]
+Borchling/Claussen, Nr. 387</note>
+                    <note type="citation/reference">Exemplar: Stadtbibliothek Braunschweig, Signatur: Einblattdruck 30</note>
+                    <note type="ownership">Digitalisat angefertigt mit der freundlichen Genehmigung der Stadtbibliothek Braunschweig in Kooperation mit dem Projekt &quot;Mittelniederdeutsche Frühdrucke digital&quot;.</note>
+                    <subject lang="ger">
+                        <topic>MNFD</topic>
+                        <topic>Frühdruck</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-42069774523</identifier>
+                    <identifier type="doi">10.17879/42079756992</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_ae53874b-7044-4217-9e78-33160c949d55</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_ae53874b-7044-4217-9e78-33160c949d55_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ae53874b-7044-4217-9e78-33160c949d55/mnfd-bc-387.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_ae53874b-7044-4217-9e78-33160c949d55" DMDID="DMD_ae53874b-7044-4217-9e78-33160c949d55">
+            <mets:fptr FILEID="FILE_ae53874b-7044-4217-9e78-33160c949d55_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

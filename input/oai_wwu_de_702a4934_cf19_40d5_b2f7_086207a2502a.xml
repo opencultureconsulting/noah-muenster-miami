@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:702a4934-cf19-40d5-b2f7-086207a2502a" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-08T08:13:28">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:51:29">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -29,10 +29,11 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
-                    <mods:namePart type="given">Marcel R.</mods:namePart>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1022749900">
+                    <mods:namePart type="given">Marcel</mods:namePart>
                     <mods:namePart type="family">Hanisch</mods:namePart>
-                    <mods:displayForm>Hanisch, Marcel R.</mods:displayForm>
+                    <mods:namePart type="date">1983-</mods:namePart>
+                    <mods:displayForm>Hanisch, Marcel</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -96,7 +97,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2018-04-03</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2022-03-31</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-05-31</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -161,7 +162,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="571f04304bb5cdc692cc6a3f49a0ecbedd5b578cf7562a15e2e3f2dc54be337b" CREATED="2022-03-31T15:54:38" CHECKSUMTYPE="SHA-256" SIZE="8667960" ID="ID_FIL_artikel_dammaschke_2018.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="571f04304bb5cdc692cc6a3f49a0ecbedd5b578cf7562a15e2e3f2dc54be337b" CREATED="2022-05-31T14:09:04" CHECKSUMTYPE="SHA-256" SIZE="8667960" ID="ID_FIL_artikel_dammaschke_2018.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/702a4934-cf19-40d5-b2f7-086207a2502a/artikel_dammaschke_2018.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

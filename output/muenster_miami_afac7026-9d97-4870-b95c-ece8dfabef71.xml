@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_afac7026-9d97-4870-b95c-ece8dfabef71">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mittelniederdeutsche Frühdrucke digital</title>
+                        <subTitle>Posterpräsentation beim Forschungstag des Fachbereichs 09 - Philologie, WWU Münster, 01.07.2022</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Johanna</displayForm>
+                        <namePart type="given">Johanna</namePart>
+                        <namePart type="family">Meyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/131741330">
+                        <displayForm>Fischer, Christian</displayForm>
+                        <namePart type="given">Christian</namePart>
+                        <namePart type="family">Fischer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voß, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/129295612">
+                        <displayForm>Voss, Viola</displayForm>
+                        <namePart type="given">Viola</namePart>
+                        <namePart type="family">Voss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">report</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-01</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-09-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                        <topic>MNFD</topic>
+                        <topic>Inkunabel</topic>
+                        <topic>Frühdruck</topic>
+                        <topic>Digitalisierung</topic>
+                        <topic>mittelniederdeutsch</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-02079549960</identifier>
+                    <identifier type="doi">10.17879/02079553715</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_afac7026-9d97-4870-b95c-ece8dfabef71</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBdArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_afac7026-9d97-4870-b95c-ece8dfabef71_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/afac7026-9d97-4870-b95c-ece8dfabef71/poster-mnfd.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_afac7026-9d97-4870-b95c-ece8dfabef71" DMDID="DMD_afac7026-9d97-4870-b95c-ece8dfabef71">
+            <mets:fptr FILEID="FILE_afac7026-9d97-4870-b95c-ece8dfabef71_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

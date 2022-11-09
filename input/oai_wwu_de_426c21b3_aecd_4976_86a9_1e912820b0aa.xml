@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:426c21b3-aecd-4976-86a9-1e912820b0aa" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:42:52">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:58:48">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -36,10 +36,20 @@
                       <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
-                    <mods:namePart type="given">Maria</mods:namePart>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1155860500" altRepGroup="2">
+                    <mods:namePart type="given">Maria Anna</mods:namePart>
                     <mods:namePart type="family">Beyerl</mods:namePart>
-                    <mods:displayForm>Beyerl, Maria</mods:displayForm>
+                    <mods:namePart type="date">1900-1989</mods:namePart>
+                    <mods:displayForm>Beyerl, Maria Anna</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">edt</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1155860500" altRepGroup="2">
+                    <mods:namePart type="given">Mia</mods:namePart>
+                    <mods:namePart type="family">Beyerl</mods:namePart>
+                    <mods:namePart type="date">1900-1989</mods:namePart>
+                    <mods:displayForm>Beyerl, Mia</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">edt</mods:roleTerm>
                     </mods:role>
@@ -60,7 +70,7 @@
                       <mods:roleTerm type="code" authority="marcrelator">edt</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1120780764">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Meike</mods:namePart>
                     <mods:namePart type="family">Ohlendorf</mods:namePart>
                     <mods:displayForm>Ohlendorf, Meike</mods:displayForm>
@@ -86,7 +96,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2018-01-09</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2018-01-09</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-08-31</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -176,7 +186,7 @@ Problemlösen und Beweisen im Mathematikstudium – eine Kategorisierung von Auf
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="901f3e8816bbddd6cb875f5c588b270f0d563be6b928a723aa9e7562139c462f" CREATED="2018-01-09T13:57:43" CHECKSUMTYPE="SHA-256" SIZE="2843688" ID="ID_FIL_wtm_isbn-978-3-95987-062-7.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="901f3e8816bbddd6cb875f5c588b270f0d563be6b928a723aa9e7562139c462f" CREATED="2022-08-31T14:21:55" CHECKSUMTYPE="SHA-256" SIZE="2843688" ID="ID_FIL_wtm_isbn-978-3-95987-062-7.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/426c21b3-aecd-4976-86a9-1e912820b0aa/wtm_isbn-978-3-95987-062-7.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

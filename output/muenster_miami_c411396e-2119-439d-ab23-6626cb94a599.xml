@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_c411396e-2119-439d-ab23-6626cb94a599">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Practica auf das Jahr 1519 (niederdt.)</title>
+                        <subTitle>Practica to dudesch up dat iaer unßes Heren M.CCCCC.XIX</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Anonymus</displayForm>
+                        <namePart type="family">Anonymus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1519</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-09-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Druck: Lübeck : Georg Richolff d. J. 1519
+Borchling/Claussen, Nr. 630</note>
+                    <note type="citation/reference">Exemplar: Kungliga Biblioteket Stockholm - National Library of Sweden, Signatur: Hs U387:42:10:5</note>
+                    <note type="ownership">Digitalisat angefertigt und zur Verfügung gestellt mit der freundlichen Genehmigung der Kungliga Biblioteket Stockholm in Kooperation mit dem Projekt &quot;Mittelniederdeutsche Frühdrucke digital&quot;.</note>
+                    <subject lang="ger">
+                        <topic>MNFD</topic>
+                        <topic>Frühdruck</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12089762212</identifier>
+                    <identifier type="doi">10.17879/82089728928</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_c411396e-2119-439d-ab23-6626cb94a599</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_c411396e-2119-439d-ab23-6626cb94a599_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/c411396e-2119-439d-ab23-6626cb94a599/mnfd-bc-630.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_c411396e-2119-439d-ab23-6626cb94a599" DMDID="DMD_c411396e-2119-439d-ab23-6626cb94a599">
+            <mets:fptr FILEID="FILE_c411396e-2119-439d-ab23-6626cb94a599_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

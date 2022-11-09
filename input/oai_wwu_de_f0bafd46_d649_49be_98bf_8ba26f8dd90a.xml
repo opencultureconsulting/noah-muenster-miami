@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:f0bafd46-d649-49be-98bf-8ba26f8dd90a" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:38:36">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:54:11">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -11,20 +11,10 @@
                   <mods:titleInfo type="uniform" lang="ger">
                     <mods:title script="Latn">Einführung der e-Funktion</mods:title>
                   </mods:titleInfo>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/183722795" altRepGroup="0">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Udo A. Th.</mods:namePart>
                     <mods:namePart type="family">Brinkmann</mods:namePart>
                     <mods:displayForm>Brinkmann, Udo A. Th.</mods:displayForm>
-                    <mods:affiliation>Zentrum für Lehrerbildung</mods:affiliation>
-                    <mods:role>
-                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
-                    </mods:role>
-                  </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/183722795" altRepGroup="0">
-                    <mods:namePart type="given">U. A. Th.</mods:namePart>
-                    <mods:namePart type="family">Brinkmann</mods:namePart>
-                    <mods:displayForm>Brinkmann, U. A. Th.</mods:displayForm>
-                    <mods:affiliation>Zentrum für Lehrerbildung</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -61,7 +51,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2005-10-08</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2015-11-30</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-10-27</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -116,16 +106,16 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/octet-stream" CHECKSUM="002e731ea28c4ac9880923fe0691fb13cbab0776d5e33320fa7b4bccdab84c8a" CREATED="2015-11-30T10:24:05" CHECKSUMTYPE="SHA-256" SIZE="2230" ID="ID_FIL_Kontinuierliche-Verzinsung.dyn_DEFAULT">
+              <mets:file MIMETYPE="application/octet-stream" CHECKSUM="002e731ea28c4ac9880923fe0691fb13cbab0776d5e33320fa7b4bccdab84c8a" CREATED="2022-10-27T14:15:25" CHECKSUMTYPE="SHA-256" SIZE="2230" ID="ID_FIL_Kontinuierliche-Verzinsung.dyn_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f0bafd46-d649-49be-98bf-8ba26f8dd90a/Workshop-Brinkmann/Kontinuierliche%20Verzinsung.dyn" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/vnd.ms-excel" CHECKSUM="d90840a62894a1ab0523be41d433ee70f8913f53039e1f17157952bbd4508372" CREATED="2015-11-30T10:24:05" CHECKSUMTYPE="SHA-256" SIZE="64512" ID="ID_FIL_e-Ermittlung.xls_DEFAULT">
+              <mets:file MIMETYPE="application/vnd.ms-excel" CHECKSUM="d90840a62894a1ab0523be41d433ee70f8913f53039e1f17157952bbd4508372" CREATED="2022-10-27T14:15:25" CHECKSUMTYPE="SHA-256" SIZE="64512" ID="ID_FIL_e-Ermittlung.xls_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f0bafd46-d649-49be-98bf-8ba26f8dd90a/Workshop-Brinkmann/e-Ermittlung.xls" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="28a1610890631dc6df0c4cbe81da2b85ddc8007f11c24346ccdc1199c5befad0" CREATED="2015-11-30T10:24:05" CHECKSUMTYPE="SHA-256" SIZE="482105" ID="ID_FIL_Workshop-Brinkmann.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="28a1610890631dc6df0c4cbe81da2b85ddc8007f11c24346ccdc1199c5befad0" CREATED="2022-10-27T14:15:25" CHECKSUMTYPE="SHA-256" SIZE="482105" ID="ID_FIL_Workshop-Brinkmann.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f0bafd46-d649-49be-98bf-8ba26f8dd90a/Workshop-Brinkmann/Workshop-Brinkmann.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/vnd.ms-excel" CHECKSUM="502815f883efcbe4b1b9699b718268eefcc8302ad4fc606cc6a16156087624b5" CREATED="2015-11-30T10:24:05" CHECKSUMTYPE="SHA-256" SIZE="896512" ID="ID_FIL_Kontinuierliche-Verzinsung.xls_DEFAULT">
+              <mets:file MIMETYPE="application/vnd.ms-excel" CHECKSUM="502815f883efcbe4b1b9699b718268eefcc8302ad4fc606cc6a16156087624b5" CREATED="2022-10-27T14:15:25" CHECKSUMTYPE="SHA-256" SIZE="896512" ID="ID_FIL_Kontinuierliche-Verzinsung.xls_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/f0bafd46-d649-49be-98bf-8ba26f8dd90a/Workshop-Brinkmann/Kontinuierliche%20Verzinsung.xls" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

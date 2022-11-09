@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_3c64bcd7-85af-4229-876a-cd7d7e2cd914">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mittelniederdeutsche Frühdrucke digital. Ein Projektbericht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Johanna</displayForm>
+                        <namePart type="given">Johanna</namePart>
+                        <namePart type="family">Meyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-09-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>In: Korrespondenzblatt des Vereins für niederdeutsche Sprachforschung 129 (2022) / herausgegeben im Auftrag des Vorstands des Vereins für niederdeutsche Sprachforschung. Husum: Husum Druck- und Verlagsgesellschaft, 2022, S. 75-81, ISBN 978-3-96717-109-9, ISSN 0342-0752</note>
+                    <note type="ownership">Die Zweitveröffentlichung erfolgt mit der freundlichen Genehmigung des Vereins für Niederdeutsche Sprachforschung.</note>
+                    <subject lang="ger">
+                        <topic>MNFD</topic>
+                        <topic>Inkunabel</topic>
+                        <topic>Frühdruck</topic>
+                        <topic>Digitalisierung</topic>
+                        <topic>mittelniederdeutsch</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-02079541659</identifier>
+                    <identifier type="doi">10.17879/02079545129</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_3c64bcd7-85af-4229-876a-cd7d7e2cd914</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_3c64bcd7-85af-4229-876a-cd7d7e2cd914_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/3c64bcd7-85af-4229-876a-cd7d7e2cd914/projektbericht-mnfd-meyer-2022.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_3c64bcd7-85af-4229-876a-cd7d7e2cd914" DMDID="DMD_3c64bcd7-85af-4229-876a-cd7d7e2cd914">
+            <mets:fptr FILEID="FILE_3c64bcd7-85af-4229-876a-cd7d7e2cd914_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

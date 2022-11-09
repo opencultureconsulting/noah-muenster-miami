@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_db6ea0c3-1567-48f5-998c-972d3985c959">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Comment on &quot;Water decreases displacive phase transition temperature in alkali feldspar&quot; by Liu et al. (2018)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kroll, Herbert</displayForm>
+                        <namePart type="given">Herbert</namePart>
+                        <namePart type="family">Kroll</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/121177394">
+                        <displayForm>Schmid-Beurmann, Peter</displayForm>
+                        <namePart type="given">Peter</namePart>
+                        <namePart type="family">Schmid-Beurmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-30</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-05-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <note type="citation/reference">European Journal of Mineralogy 32 (2020) 1, 167-170</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <classification authority="ddc">549</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-13099492597</identifier>
+                    <identifier type="doi">10.17879/83099535085</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_db6ea0c3-1567-48f5-998c-972d3985c959</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_db6ea0c3-1567-48f5-998c-972d3985c959_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/db6ea0c3-1567-48f5-998c-972d3985c959/10.5194_ejm-32-167-2020.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_db6ea0c3-1567-48f5-998c-972d3985c959" DMDID="DMD_db6ea0c3-1567-48f5-998c-972d3985c959">
+            <mets:fptr FILEID="FILE_db6ea0c3-1567-48f5-998c-972d3985c959_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

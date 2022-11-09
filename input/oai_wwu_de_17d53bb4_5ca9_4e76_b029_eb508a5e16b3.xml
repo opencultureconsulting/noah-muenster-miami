@@ -1,0 +1,170 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:17d53bb4-5ca9-4e76-b029-eb508a5e16b3" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:55:11">
+            <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
+              <mets:name>Memory Alpha</mets:name>
+            </mets:agent>
+          </mets:metsHdr>
+          <mets:dmdSec ID="DMD_17d53bb4-5ca9-4e76-b029-eb508a5e16b3">
+            <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+              <mets:xmlData>
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" version="3.7">
+                  <mods:titleInfo type="uniform" lang="eng">
+                    <mods:title script="Latn">Eye Tracking-based LSTM for Locomotion Prediction in VR</mods:title>
+                  </mods:titleInfo>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1188746987">
+                    <mods:namePart type="given">Niklas</mods:namePart>
+                    <mods:namePart type="family">Stein</mods:namePart>
+                    <mods:displayForm>Stein, Niklas</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal">
+                    <mods:namePart type="given">Gianni</mods:namePart>
+                    <mods:namePart type="family">Bremer</mods:namePart>
+                    <mods:displayForm>Bremer, Gianni</mods:displayForm>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/172579074">
+                    <mods:namePart type="given">Markus</mods:namePart>
+                    <mods:namePart type="family">Lappe</mods:namePart>
+                    <mods:namePart type="date">1963-</mods:namePart>
+                    <mods:displayForm>Lappe, Markus</mods:displayForm>
+                    <mods:affiliation>FB 07: Psychologie und Sportwissenschaft</mods:affiliation>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Universitäts- und Landesbibliothek Münster</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Münster, Westfalen / ULB</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Münster, Westfalen / Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:name type="corporate" valueURI="http://d-nb.info/gnd/5091030-9" altRepGroup="3">
+                    <mods:namePart>Westfalen / Universität Münster / Universitäts- und Landesbibliothek</mods:namePart>
+                    <mods:role>
+                      <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
+                    </mods:role>
+                  </mods:name>
+                  <mods:genre>article</mods:genre>
+                  <mods:genre authority="dct">Text</mods:genre>
+                  <mods:originInfo>
+                    <mods:dateIssued keyDate="yes">2022-04-20</mods:dateIssued>
+                    <mods:issuance>monographic</mods:issuance>
+                  </mods:originInfo>
+                  <mods:originInfo>
+                    <mods:dateIssued encoding="w3cdtf">2022-04-29</mods:dateIssued>
+                    <mods:dateModified encoding="w3cdtf">2022-04-29</mods:dateModified>
+                    <mods:edition>[Electronic ed.]</mods:edition>
+                  </mods:originInfo>
+                  <mods:language>
+                    <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+                  </mods:language>
+                  <mods:physicalDescription>
+                    <mods:form>electronic</mods:form>
+                    <mods:reformattingQuality>access</mods:reformattingQuality>
+                    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                    <mods:extent>11</mods:extent>
+                    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                  </mods:physicalDescription>
+                  <mods:abstract lang="eng">Virtual Reality (VR) allows users to perform natural movements such as hand movements, turning the head and natural walking in virtual environments. While such movements enable seamless natural interaction, they come with the need for a large tracking space, particularly in the case of walking. To optimise use of the available physical space, prediction models for upcoming behavior are helpful. In this study, we examined whether a user’s eye movements tracked by current VR hardware can improve such predictions. Eighteen participants walked through a virtual environment while performing different tasks, including walking in curved paths, avoiding or approaching objects, and conducting a search. The recorded position, orientation and eye-tracking features from 2.5 s segments of the data were used to train an LSTM model to predict the user’s position 2.5 s into the future. We found that future positions can be predicted with an average error of 65 cm. The benefit of eye movement data depended on the task and environment. In particular, situations with changes in walking speed benefited from the inclusion of eye data. We conclude that a model utilizing eye tracking data can improve VR applications in which path predictions are helpful.</mods:abstract>
+                  <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:note type="citation/reference">2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2022, 493-503</mods:note>
+                  <mods:note xml:lang="de" type="funding">Förderer: Deutsche Forschungsgemeinschaft / Projektnummer: 274361309</mods:note>
+                  <mods:note xml:lang="en" type="funding">Funding organisation: Deutsche Forschungsgemeinschaft / Project number: 274361309</mods:note>
+                  <mods:note xml:lang="de" type="funding">Förderer: European Commission / Projektnummer: 951910</mods:note>
+                  <mods:note xml:lang="en" type="funding">Funding organisation: European Commission / Project number: 951910</mods:note>
+                  <mods:subject>
+                    <mods:topic lang="eng">Virtual Reality; Eye Tracking; Locomotion; LSTM; Path Prediction; Machine Learning; Gaze</mods:topic>
+                  </mods:subject>
+                  <mods:classification authority="ddc">006</mods:classification>
+                  <mods:relatedItem otherType="IsIdenticalTo" otherTypeAuth="datacite">
+                    <mods:identifier type="doi">10.1109/VR51125.2022.00069</mods:identifier>
+                  </mods:relatedItem>
+                  <mods:identifier type="urn">urn:nbn:de:hbz:6-74019498937</mods:identifier>
+                  <mods:identifier type="doi">10.17879/74019503057</mods:identifier>
+                  <mods:location>
+                    <mods:url access="object in context">https://miami.uni-muenster.de/Record/17d53bb4-5ca9-4e76-b029-eb508a5e16b3</mods:url>
+                  </mods:location>
+                  <mods:accessCondition type="use and reproduction">
+                    <mods:extension>
+                      <ma:maWrap xmlns:ma="http://memoryalpha.ulb.uni-muenster.de">
+                        <ma:licence>
+                          <ma:displayLabel>InC 1.0</ma:displayLabel>
+                          <ma:targetUrl>https://rightsstatements.org/vocab/InC/1.0/</ma:targetUrl>
+                        </ma:licence>
+                      </ma:maWrap>
+                    </mods:extension>
+                  </mods:accessCondition>
+                  <mods:recordInfo>
+                    <mods:recordIdentifier>oai:wwu.de:17d53bb4-5ca9-4e76-b029-eb508a5e16b3</mods:recordIdentifier>
+                  </mods:recordInfo>
+                </mods:mods>
+              </mets:xmlData>
+            </mets:mdWrap>
+          </mets:dmdSec>
+          <mets:amdSec ID="AMD_17d53bb4-5ca9-4e76-b029-eb508a5e16b3">
+            <mets:rightsMD ID="RIGHTSMD_17d53bb4-5ca9-4e76-b029-eb508a5e16b3">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+                <mets:xmlData>
+                  <dv:rights xmlns:dv="http://dfg-viewer.de/">
+                    <dv:owner>Universitäts- und Landesbibliothek Münster</dv:owner>
+                  </dv:rights>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:rightsMD>
+            <mets:digiprovMD ID="DIGIPROVMD_17d53bb4-5ca9-4e76-b029-eb508a5e16b3">
+              <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVLINKS">
+                <mets:xmlData>
+                  <dv:links xmlns:dv="http://dfg-viewer.de/">
+                    <dv:reference>https://miami.uni-muenster.de/Record/17d53bb4-5ca9-4e76-b029-eb508a5e16b3</dv:reference>
+                    <dv:presentation/>
+                  </dv:links>
+                </mets:xmlData>
+              </mets:mdWrap>
+            </mets:digiprovMD>
+          </mets:amdSec>
+          <mets:fileSec>
+            <mets:fileGrp USE="DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="3c7b6e866d026664a79ded6910027f7f546313d0da535d0c58b293d116215eca" CREATED="2022-04-29T13:55:08" CHECKSUMTYPE="SHA-256" SIZE="11415348" ID="ID_FIL_10.1109_VR51125.2022.00069.pdf_DEFAULT">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/17d53bb4-5ca9-4e76-b029-eb508a5e16b3/10.1109_VR51125.2022.00069.pdf" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+            <mets:fileGrp USE="DOWNLOAD">
+              <mets:file MIMETYPE="application/pdf" ID="DOW17d53bb4-5ca9-4e76-b029-eb508a5e16b3">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/transfer/miami/17d53bb4-5ca9-4e76-b029-eb508a5e16b3" LOCTYPE="URL"/>
+              </mets:file>
+            </mets:fileGrp>
+          </mets:fileSec>
+          <mets:structMap TYPE="PHYSICAL">
+            <mets:div ID="ID_PHY_17d53bb4-5ca9-4e76-b029-eb508a5e16b3" TYPE="physSequence">
+              <mets:div ID="ID_PHY_10.1109_VR51125.2022.00069.pdf">
+                <mets:fptr FILEID="ID_FIL_10.1109_VR51125.2022.00069.pdf_DEFAULT"/>
+              </mets:div>
+            </mets:div>
+          </mets:structMap>
+          <mets:structMap TYPE="LOGICAL">
+            <mets:div ADMID="AMD_17d53bb4-5ca9-4e76-b029-eb508a5e16b3" DMDID="DMD_17d53bb4-5ca9-4e76-b029-eb508a5e16b3" ID="ID_LOG_17d53bb4-5ca9-4e76-b029-eb508a5e16b3" TYPE="Monograph">
+              <mets:div ID="ID_LOG_ID_PHY_10.1109_VR51125.2022.00069.pdf"/>
+            </mets:div>
+          </mets:structMap>
+          <mets:structLink>
+            <mets:smLink xlink:from="ID_LOG_17d53bb4-5ca9-4e76-b029-eb508a5e16b3" xlink:to="ID_PHY_17d53bb4-5ca9-4e76-b029-eb508a5e16b3"/>
+            <mets:smLink xlink:from="ID_LOG_ID_PHY_10.1109_VR51125.2022.00069.pdf" xlink:to="ID_PHY_10.1109_VR51125.2022.00069.pdf"/>
+          </mets:structLink>
+        </mets:mets>

@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_964f477a-07d0-498e-8215-2e96385b7cb1">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Literatur als Praxis. Neue Perspektiven auf Brief-Korrespondenzen durch digitale Verfahren</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1144368685">
+                        <displayForm>Nantke, Julia</displayForm>
+                        <namePart type="given">Julia</namePart>
+                        <namePart type="family">Nantke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bläß, Sandra</displayForm>
+                        <namePart type="given">Sandra</namePart>
+                        <namePart type="family">Bläß</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1245477153">
+                        <displayForm>Flüh, Marie</displayForm>
+                        <namePart type="given">Marie</namePart>
+                        <namePart type="family">Flüh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Beitrag zeigt, wie digitale Verfahren bei der Erschließung eines großen Briefkorpus eingesetzt werden können, um an der Schnittstelle von quantitativer Erfassung und qualitativer Kontextualisierung einen praxeologischen Zugang zu Literaturgeschichte zu schaffen. Mittels computationeller Verfahren wird es möglich, die Fokussierung auf kanonische Autor:innen zu überwinden und stattdessen die Perspektivenvielfalt künstlerischer und kultureller Arbeitszusammenhänge als polyphone Netzwerke sichtbar zu machen. Damit wird ein Beitrag zu einer Neujustierung der Literatur- und Kulturgeschichtsschreibung im Zuge der Digitalisierung kultureller Artefakte geleistet.</abstract>
+                    <subject lang="ger">
+                        <topic>Briefkorpus</topic>
+                        <topic>digitale Edition</topic>
+                        <topic>Liliencron</topic>
+                        <topic>digitale Literaturwissenschaft</topic>
+                    </subject>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64059432570</identifier>
+                    <identifier type="doi">10.17879/64059432335</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_964f477a-07d0-498e-8215-2e96385b7cb1</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_964f477a-07d0-498e-8215-2e96385b7cb1_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/964f477a-07d0-498e-8215-2e96385b7cb1/textpraxis_2022_s6_nantke.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_964f477a-07d0-498e-8215-2e96385b7cb1" DMDID="DMD_964f477a-07d0-498e-8215-2e96385b7cb1">
+            <mets:fptr FILEID="FILE_964f477a-07d0-498e-8215-2e96385b7cb1_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

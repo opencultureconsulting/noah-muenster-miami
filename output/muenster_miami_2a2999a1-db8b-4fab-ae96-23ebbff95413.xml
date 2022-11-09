@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_2a2999a1-db8b-4fab-ae96-23ebbff95413">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Combining Digital Scholarly Edition with Heritage Literature Representations: Learning from Garrettonline&apos;s Experience</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Boto, Sandra</displayForm>
+                        <namePart type="given">Sandra</namePart>
+                        <namePart type="family">Boto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="ger">In diesem Artikel werden einige der Probleme und Lösungen im Rahmen der Digitalen Philologie erörtert, die sich aus der Edition des &apos;Romanceiro&apos; – der ersten modernen iberischen Volksballadensammlung – des portugiesischen Schriftstellers Almeida Garrett (Porto, 1799 – Lissabon, 1854) ergeben. Wir analysieren in dieser Studie, inwieweit es angemessen ist, in ein digitales wissenschaftliches Umfeld zu wechseln, um unsere redaktionellen Anforderungen zu erfüllen. Darüber hinaus untersuchen wir methodische und workflowgesteuerte Aspekte, die wir während der Entwicklung des &apos;Garrettonline&apos;-Projekts im Hinblick auf die Beziehung zwischen einem Archiv und einer wissenschaftlichen Edition erörtert haben.</abstract>
+                    <subject lang="eng">
+                        <topic>Digital humanities</topic>
+                        <topic>digital scholarly edition</topic>
+                        <topic>heritage literature representation</topic>
+                        <topic>garrettonline</topic>
+                    </subject>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64059433249</identifier>
+                    <identifier type="doi">10.17879/64059432910</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_2a2999a1-db8b-4fab-ae96-23ebbff95413</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_2a2999a1-db8b-4fab-ae96-23ebbff95413_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2a2999a1-db8b-4fab-ae96-23ebbff95413/textpraxis_2022_s6_boto.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_2a2999a1-db8b-4fab-ae96-23ebbff95413" DMDID="DMD_2a2999a1-db8b-4fab-ae96-23ebbff95413">
+            <mets:fptr FILEID="FILE_2a2999a1-db8b-4fab-ae96-23ebbff95413_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:ad499c03-9cd4-432e-b267-09a0dd1b2293" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:44:55">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:01:01">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -34,9 +34,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1264827520">
                     <mods:namePart type="given">Göran</mods:namePart>
                     <mods:namePart type="family">Hamrin</mods:namePart>
+                    <mods:namePart type="date">1970-</mods:namePart>
                     <mods:displayForm>Hamrin, Göran</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
@@ -74,7 +75,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2018-11-21</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2019-04-16</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-08-08</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -140,7 +141,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="39ef647a10d2b57517f26fad85bef127b5b8aa60b3a4329c3020fb5f12e06f16" CREATED="2019-04-16T07:09:39" CHECKSUMTYPE="SHA-256" SIZE="523372" ID="ID_FIL_artikel_voss_2018.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="39ef647a10d2b57517f26fad85bef127b5b8aa60b3a4329c3020fb5f12e06f16" CREATED="2022-08-08T12:43:35" CHECKSUMTYPE="SHA-256" SIZE="523372" ID="ID_FIL_artikel_voss_2018.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ad499c03-9cd4-432e-b267-09a0dd1b2293/artikel_voss_2018.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

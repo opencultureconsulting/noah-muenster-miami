@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:0f5080ff-1032-40d7-a1fc-1a40c2587360" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:44:11">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:00:13">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -74,11 +74,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/156682532">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Alessandro</mods:namePart>
                     <mods:namePart type="family">Marra</mods:namePart>
                     <mods:displayForm>Marra, Alessandro</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -100,10 +99,11 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
-                    <mods:namePart type="given">Tilmann</mods:namePart>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/173526152">
+                    <mods:namePart type="given">Georg Tilmann</mods:namePart>
                     <mods:namePart type="family">Spieker</mods:namePart>
-                    <mods:displayForm>Spieker, Tilmann</mods:displayForm>
+                    <mods:namePart type="date">1967-</mods:namePart>
+                    <mods:displayForm>Spieker, Georg Tilmann</mods:displayForm>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -208,7 +208,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2015-12-04</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2019-04-16</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-06-22</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -272,7 +272,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="b946e9db78d6c161cb44027d6583d1d3ef64c0826de02ba4dd36b6792a5a7847" CREATED="2019-04-16T07:09:29" CHECKSUMTYPE="SHA-256" SIZE="2055414" ID="ID_FIL_journal.pone.0136023.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="b946e9db78d6c161cb44027d6583d1d3ef64c0826de02ba4dd36b6792a5a7847" CREATED="2022-06-22T14:57:17" CHECKSUMTYPE="SHA-256" SIZE="2055414" ID="ID_FIL_journal.pone.0136023.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/0f5080ff-1032-40d7-a1fc-1a40c2587360/journal.pone.0136023.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

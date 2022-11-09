@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:612fdef7-4561-4de6-b186-5be7bb44e881" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:39:30">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:55:10">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -44,11 +44,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/1117886956">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Hans</mods:namePart>
                     <mods:namePart type="family">Oberleithner</mods:namePart>
                     <mods:displayForm>Oberleithner, Hans</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -62,10 +61,11 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
-                    <mods:namePart type="given">Albrecht</mods:namePart>
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/139144536">
+                    <mods:namePart type="given">Jan Tilman</mods:namePart>
                     <mods:namePart type="family">Schwab</mods:namePart>
-                    <mods:displayForm>Schwab, Albrecht</mods:displayForm>
+                    <mods:namePart type="date">1970-</mods:namePart>
+                    <mods:displayForm>Schwab, Jan Tilman</mods:displayForm>
                     <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
@@ -103,7 +103,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2018-03-16</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2019-04-16</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-08-31</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -166,7 +166,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="99ed4b78729feb2ae03f5b1fa4df79ccc2e9653a1cb370b4dd0121e008835102" CREATED="2019-04-16T07:08:18" CHECKSUMTYPE="SHA-256" SIZE="5730459" ID="ID_FIL_srep42369.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="99ed4b78729feb2ae03f5b1fa4df79ccc2e9653a1cb370b4dd0121e008835102" CREATED="2022-08-31T14:18:52" CHECKSUMTYPE="SHA-256" SIZE="5730459" ID="ID_FIL_srep42369.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/612fdef7-4561-4de6-b186-5be7bb44e881/srep42369.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

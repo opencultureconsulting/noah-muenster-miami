@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_56d89ebd-fb44-4d0f-9c29-97ade8bce038">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Mobilome of Apicomplexa Parasites</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rodriguez, Matias</displayForm>
+                        <namePart type="given">Matias</namePart>
+                        <namePart type="family">Rodriguez</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Makałowski, Wojciech</displayForm>
+                        <namePart type="given">Wojciech</namePart>
+                        <namePart type="family">Makałowski</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-16</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Transposable elements (TEs) are mobile genetic elements found in the majority of eukaryotic genomes. Genomic studies of protozoan parasites from the phylum Apicomplexa have only reported a handful of TEs in some species and a complete absence in others. Here, we studied sixty-four Apicomplexa genomes available in public databases, using a ‘de novo’ approach to build candidate TE models and multiple strategies from known TE sequence databases, pattern recognition of TEs, and protein domain databases, to identify possible TEs. We offer an insight into the distribution and the type of TEs that are present in these genomes, aiming to shed some light on the process of gains and losses of TEs in this phylum. We found that TEs comprise a very small portion in these genomes compared to other organisms, and in many cases, there are no apparent traces of TEs. We were able to build and classify 151 models from the TE consensus sequences obtained with RepeatModeler, 96 LTR TEs with LTRpred, and 44 LINE TEs with MGEScan. We found LTR Gypsy-like TEs in Eimeria, Gregarines, Haemoproteus, and Plasmodium genera. Additionally, we described LINE-like TEs in some species from the genera Babesia and Theileria. Finally, we confirmed the absence of TEs in the genus Cryptosporidium. Interestingly, Apicomplexa seem to be devoid of Class II transposons.</abstract>
+                    <note type="citation/reference">Genes 13 (2022) 5, 887, 1-14</note>
+                    <note>Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</note>
+                    <subject lang="eng">
+                        <topic>transposons</topic>
+                        <topic>Apicomplexa</topic>
+                        <topic>bioinformatics</topic>
+                        <topic>mobile elements</topic>
+                    </subject>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-83059424028</identifier>
+                    <identifier type="doi">10.17879/83059424847</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_56d89ebd-fb44-4d0f-9c29-97ade8bce038</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_56d89ebd-fb44-4d0f-9c29-97ade8bce038_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/56d89ebd-fb44-4d0f-9c29-97ade8bce038/10.3390_genes13050887.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_56d89ebd-fb44-4d0f-9c29-97ade8bce038" DMDID="DMD_56d89ebd-fb44-4d0f-9c29-97ade8bce038">
+            <mets:fptr FILEID="FILE_56d89ebd-fb44-4d0f-9c29-97ade8bce038_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

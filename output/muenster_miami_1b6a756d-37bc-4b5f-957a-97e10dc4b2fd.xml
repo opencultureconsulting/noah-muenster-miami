@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_1b6a756d-37bc-4b5f-957a-97e10dc4b2fd">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Film ab! Materialien und Checklisten für Lehrkräfte zur Produktion von Erklärvideos mit Schüler*innen im Unterricht</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1253808678">
+                        <displayForm>Fehrmann, Raphael</displayForm>
+                        <namePart type="given">Raphael</namePart>
+                        <namePart type="family">Fehrmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wieczorek, Lisa</displayForm>
+                        <namePart type="given">Lisa</namePart>
+                        <namePart type="family">Wieczorek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">CourseMaterial</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-07-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Dieser Leitfaden soll einen Überblick über ausgewählte Leitfragen zur Produktion von Erklärvideos mit Schüler*innen im Unterricht liefern und praktische Hinweise sowie Checklisten und Vorlagen für den unmittelbaren Einsatz in der Unterrichtsplanung und -durchführung bereitstellen.</abstract>
+                    <note>Der Leitfaden bildet den digitalen Anhang zum Artikel: Wieczorek, L. &amp; Fehrmann, R. (2022). Film ab! Erklärvideos mit Schülerinnen und Schülern im Unterricht produzieren. Schulmagazin 5-10, 7-8/2022, S. 40-47.</note>
+                    <subject lang="ger">
+                        <topic>Stop Motion</topic>
+                        <topic>Legetrick</topic>
+                        <topic>Schule</topic>
+                        <topic>Unterricht</topic>
+                        <topic>Mediendidaktik</topic>
+                        <topic>Erklärvideo</topic>
+                        <topic>digitale Kompetenz</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ddc">550</classification>
+                    <classification authority="ddc">372</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-93029481106</identifier>
+                    <identifier type="doi">10.17879/93029482345</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_1b6a756d-37bc-4b5f-957a-97e10dc4b2fd</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>course_material</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_1b6a756d-37bc-4b5f-957a-97e10dc4b2fd_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/1b6a756d-37bc-4b5f-957a-97e10dc4b2fd/artikel_fehrmann_wieczorek_2022.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_1b6a756d-37bc-4b5f-957a-97e10dc4b2fd" DMDID="DMD_1b6a756d-37bc-4b5f-957a-97e10dc4b2fd">
+            <mets:fptr FILEID="FILE_1b6a756d-37bc-4b5f-957a-97e10dc4b2fd_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_8353ba4e-e8f2-469b-8ade-ad76de8dd32d">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von der literaturwissenschaftlichen Theorie zur maschinellen Erkennung: Operationalisierung von Raumentitäten und Settings</title>
+                    </titleInfo>
+                    <name type="personal" authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="http://d-nb.info/gnd/1228353344">
+                        <displayForm>Barth, Florian</displayForm>
+                        <namePart type="given">Florian</namePart>
+                        <namePart type="family">Barth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-06-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Auseinandersetzung mit Raumtheorien in der Literaturwissenschaft ist nicht zuletzt seit dem Spatial Turn vielschichtig geprägt. Insbesondere narratologisch-textuelle Raumkonzepte liefern dabei die Grundlage für eine Operationalisierung und computationelle Modellierung. Basierend auf einschlägigen Publikationen von Katrin Dennerlein und Barbara Piatti werden in diesem Beitrag annotierbare Kategorien für die Grundkategorie der literarischen Raumentität sowie deren Klassifikation im Hinblick auf den Status als Handlungsort (Setting) entwickelt und in einer Pilotannotation qualitativ und mittels ›Inter-Annotator-Agreement‹ evaluiert. Dabei werden textuelle Marker für die Klassifikation des Setting-Status herausgearbeitet, die in einem maschinellen ›Classifier‹ Verwendung finden.</abstract>
+                    <subject lang="ger">
+                        <topic>Digital Humanities</topic>
+                        <topic>Spatial Turn</topic>
+                        <topic>Narratologie</topic>
+                    </subject>
+                    <classification authority="ddc">800</classification>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Textpraxis</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="issue">
+                                <number>Textpraxis</number>
+                            </detail>
+                            <extent unit="page">
+                                <start></start>
+                                <end></end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6-64059430178</identifier>
+                    <identifier type="doi">10.17879/64059429732</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_8353ba4e-e8f2-469b-8ade-ad76de8dd32d</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_8353ba4e-e8f2-469b-8ade-ad76de8dd32d_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/8353ba4e-e8f2-469b-8ade-ad76de8dd32d/textpraxis_2022_s6_barth.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_8353ba4e-e8f2-469b-8ade-ad76de8dd32d" DMDID="DMD_8353ba4e-e8f2-469b-8ade-ad76de8dd32d">
+            <mets:fptr FILEID="FILE_8353ba4e-e8f2-469b-8ade-ad76de8dd32d_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

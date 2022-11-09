@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:6c5b78a9-5058-4c7a-96e5-b0fe8fcfc755" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:46:41">
+          <mets:metsHdr CREATEDATE="2022-11-09T15:03:06">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -20,7 +20,7 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal">
+                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/114879817X">
                     <mods:namePart type="given">Clemens</mods:namePart>
                     <mods:namePart type="family">Stolpe</mods:namePart>
                     <mods:displayForm>Stolpe, Clemens</mods:displayForm>
@@ -45,11 +45,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/113880758">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Joachim</mods:namePart>
                     <mods:namePart type="family">Kurtz</mods:namePart>
                     <mods:displayForm>Kurtz, Joachim</mods:displayForm>
-                    <mods:affiliation>FB 13: Biologie</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
@@ -86,7 +85,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2014-02-12</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2020-01-24</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-09-02</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -149,7 +148,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="11041a350a3bfb0cb5ce21dca9d23160f9aeffef31decde8ecd74f46217f1505" CREATED="2020-01-24T11:08:30" CHECKSUMTYPE="SHA-256" SIZE="1549680" ID="ID_FIL_journal.pone.0064638.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="11041a350a3bfb0cb5ce21dca9d23160f9aeffef31decde8ecd74f46217f1505" CREATED="2022-09-02T12:26:58" CHECKSUMTYPE="SHA-256" SIZE="1549680" ID="ID_FIL_journal.pone.0064638.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/6c5b78a9-5058-4c7a-96e5-b0fe8fcfc755/journal.pone.0064638.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

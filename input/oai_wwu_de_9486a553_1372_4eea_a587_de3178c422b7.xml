@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:9486a553-1372-4eea-a587-de3178c422b7" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:39:06">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:54:45">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -21,11 +21,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/107993767">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Winfried</mods:namePart>
                     <mods:namePart type="family">Winkelmann</mods:namePart>
                     <mods:displayForm>Winkelmann, Winfried</mods:displayForm>
-                    <mods:affiliation>FB 05: Medizinische Fakultät</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">ths</mods:roleTerm>
                     </mods:role>
@@ -62,7 +61,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2004-05-26</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2016-01-28</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-10-27</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -120,10 +119,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="963dbbafb6ae5710559c4323b5f86d5eef9d89d77a4ed35929c996aa6c0c2c4d" CREATED="2016-01-28T13:52:39" CHECKSUMTYPE="SHA-256" SIZE="10195158" ID="ID_FIL_dissertation.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="963dbbafb6ae5710559c4323b5f86d5eef9d89d77a4ed35929c996aa6c0c2c4d" CREATED="2022-10-27T14:58:07" CHECKSUMTYPE="SHA-256" SIZE="10195158" ID="ID_FIL_dissertation.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9486a553-1372-4eea-a587-de3178c422b7/dissertation.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="e5daf6f9453f552c603048b639e9dbd19cca5bd665ea4bcfdcfc5a39193520f4" CREATED="2016-01-28T13:52:39" CHECKSUMTYPE="SHA-256" SIZE="6131" ID="ID_FIL_druckgenehmigung.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="e5daf6f9453f552c603048b639e9dbd19cca5bd665ea4bcfdcfc5a39193520f4" CREATED="2022-10-27T14:58:07" CHECKSUMTYPE="SHA-256" SIZE="6131" ID="ID_FIL_druckgenehmigung.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/9486a553-1372-4eea-a587-de3178c422b7/druckgenehmigung.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

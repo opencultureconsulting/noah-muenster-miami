@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:2283eae3-f767-4402-a645-643158f5eee0" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:38:21">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:53:56">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -79,7 +79,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2021-05-19</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2021-05-19</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-10-21</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -95,6 +95,7 @@
                   <mods:abstract lang="eng">Recent studies have implied that environmental toxins, such as mycotoxins, are risk factors for neurodegenerative diseases. To act directly as neurotoxins, mycotoxins need to penetrate or affect the integrity of the blood-brain barrier, which protects the mammalian brain from potentially harmful substances. As common food and feed contaminants of fungal origin, the interest in the potential neurotoxicity of ochratoxin A, citrinin and their metabolites has recently increased. Primary porcine brain capillary endothelial cells were used to investigate cytotoxic or barrier-weakening effects of ochratoxin A, ochratoxin α, citrinin and dihydrocitrinone. The transfer and transport properties of the mycotoxins across the barrier formed by porcine brain capillary endothelial cell monolayers were analysed using HPLC-MS/MS. High levels of Ochratoxin A caused cytotoxic and barrier-weakening effects, whereas ochratoxin α, citrinin and dihydrocitrinone showed no adverse effects up to 10 µM. Likely due to efflux transporter proteins, the transfer to the brain compartment was much slower than expected from their high lipophilicity. Due to their slow transfer across the blood-brain barrier, cerebral exposure of ochratoxin A, ochratoxin α, citrinin and dihydrocitrinone is low and neurotoxicity is likely to play a subordinate role in their toxicity at common physiological concentrations.</mods:abstract>
                   <mods:targetAudience>specialized</mods:targetAudience>
                   <mods:note type="citation/reference">Toxins 13 (2021) 5, 327, 1-17</mods:note>
+                  <mods:note type="funding">Finanziert durch den Open-Access-Publikationsfonds der Westfälischen Wilhelms-Universität Münster (WWU Münster).</mods:note>
                   <mods:subject>
                     <mods:topic lang="eng">blood-brain barrier; mycotoxins; ochratoxin A; ochratoxin α; citrinin; dihydrocitrinone; probenecid; efflux transporter; HPLC-MS/MS; porcine brain capillary endothelial cells</mods:topic>
                   </mods:subject>
@@ -102,8 +103,11 @@
                   <mods:relatedItem otherType="IsIdenticalTo" otherTypeAuth="datacite">
                     <mods:identifier type="doi">10.3390/toxins13050327</mods:identifier>
                   </mods:relatedItem>
+                  <mods:relatedItem otherType="IsSupplementedBy" otherTypeAuth="datacite">
+                    <mods:identifier type="uri">https://www.mdpi.com/article/10.3390/toxins13050327/s1</mods:identifier>
+                  </mods:relatedItem>
                   <mods:identifier type="urn">urn:nbn:de:hbz:6-37069451436</mods:identifier>
-                  <mods:identifier type="doi">10.3390/toxins13050327</mods:identifier>
+                  <mods:identifier type="doi">10.17879/22049477790</mods:identifier>
                   <mods:location>
                     <mods:url access="object in context">https://miami.uni-muenster.de/Record/2283eae3-f767-4402-a645-643158f5eee0</mods:url>
                   </mods:location>
@@ -147,10 +151,10 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="3321f87095471e7b19bc0155995051a4983595a65b9f7b78fc851fdf6fd5cd79" CREATED="2021-05-19T15:14:16" CHECKSUMTYPE="SHA-256" SIZE="1705492" ID="ID_FIL_10.3390_toxins13050327.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="3321f87095471e7b19bc0155995051a4983595a65b9f7b78fc851fdf6fd5cd79" CREATED="2022-10-21T14:32:37" CHECKSUMTYPE="SHA-256" SIZE="1705492" ID="ID_FIL_10.3390_toxins13050327.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2283eae3-f767-4402-a645-643158f5eee0/10.3390_toxins13050327.pdf" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="344a8473c12190b650a9daf580ff0212a826fbc8c3d8c9937134af9eea9ef7cc" CREATED="2021-05-19T15:14:16" CHECKSUMTYPE="SHA-256" SIZE="1074971" ID="ID_FIL_10.3390_toxins13050327_supplementary.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="344a8473c12190b650a9daf580ff0212a826fbc8c3d8c9937134af9eea9ef7cc" CREATED="2022-10-21T14:32:37" CHECKSUMTYPE="SHA-256" SIZE="1074971" ID="ID_FIL_10.3390_toxins13050327_supplementary.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/2283eae3-f767-4402-a645-643158f5eee0/10.3390_toxins13050327_supplementary.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

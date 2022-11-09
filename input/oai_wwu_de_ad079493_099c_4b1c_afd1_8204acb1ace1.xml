@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:ad079493-099c-4b1c-afd1-8204acb1ace1" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:40:26">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:56:13">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -36,11 +36,10 @@
                       <mods:roleTerm type="code" authority="marcrelator">own</mods:roleTerm>
                     </mods:role>
                   </mods:name>
-                  <mods:name type="personal" valueURI="http://d-nb.info/gnd/123406366">
+                  <mods:name type="personal">
                     <mods:namePart type="given">Andreas</mods:namePart>
                     <mods:namePart type="family">Hohenstein</mods:namePart>
                     <mods:displayForm>Hohenstein, Andreas</mods:displayForm>
-                    <mods:affiliation>Einrichtungen außerhalb der WWU</mods:affiliation>
                     <mods:role>
                       <mods:roleTerm type="code" authority="marcrelator">edt</mods:roleTerm>
                     </mods:role>
@@ -55,7 +54,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2005-07-06</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2015-11-16</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-09-01</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -113,10 +112,10 @@ ISBN 3-87156-298-X</mods:note>
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="text/plain" CHECKSUM="39422d68d2073e142763605e558af3151eae0f1a78dfb900ae80ba4c3db8ea7d" CREATED="2015-11-16T10:06:03" CHECKSUMTYPE="SHA-256" SIZE="399" ID="ID_FIL_eLearning.pdx_DEFAULT">
+              <mets:file MIMETYPE="text/plain" CHECKSUM="39422d68d2073e142763605e558af3151eae0f1a78dfb900ae80ba4c3db8ea7d" CREATED="2022-09-01T14:17:42" CHECKSUMTYPE="SHA-256" SIZE="399" ID="ID_FIL_eLearning.pdx_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ad079493-099c-4b1c-afd1-8204acb1ace1/eLearning.pdx" LOCTYPE="URL"/>
               </mets:file>
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="eb35f1f621be6ef5a11ce24d6f063a0533a17227858f40dd927b3f53450b32c4" CREATED="2015-11-16T10:06:03" CHECKSUMTYPE="SHA-256" SIZE="48235604" ID="ID_FIL_eLearning.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="eb35f1f621be6ef5a11ce24d6f063a0533a17227858f40dd927b3f53450b32c4" CREATED="2022-09-01T14:17:42" CHECKSUMTYPE="SHA-256" SIZE="48235604" ID="ID_FIL_eLearning.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/ad079493-099c-4b1c-afd1-8204acb1ace1/eLearning.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>

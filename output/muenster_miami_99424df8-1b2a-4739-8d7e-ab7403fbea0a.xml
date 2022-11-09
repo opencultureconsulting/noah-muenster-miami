@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_99424df8-1b2a-4739-8d7e-ab7403fbea0a">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Practica auf das Jahr 1517 (niederdt.)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Anonymus</displayForm>
+                        <namePart type="family">Anonymus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">book</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1517</dateIssued>
+                        <dateIssued encoding="w3cdtf">2022-09-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <note>Druck: Lübeck : Anna Richolff 1517
+Borchling/Claussen, Nr. 602</note>
+                    <note type="citation/reference">Exemplar: Kungliga Biblioteket Stockholm - National Library of Sweden, Signatur: 288 Et 1 III:19</note>
+                    <note type="ownership">Digitalisat angefertigt mit der freundlichen Genehmigung der Kungliga Biblioteket Stockholm in Kooperation mit dem Projekt &quot;Mittelniederdeutsche Frühdrucke digital&quot;.</note>
+                    <subject lang="ger">
+                        <topic>MNFD</topic>
+                        <topic>Frühdruck</topic>
+                    </subject>
+                    <classification authority="ddc">830</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:6-12089769900</identifier>
+                    <identifier type="doi">10.17879/82089759707</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC/1.0/">Urheberrechtsschutz</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>muenster_miami_99424df8-1b2a-4739-8d7e-ab7403fbea0a</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaBook</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_99424df8-1b2a-4739-8d7e-ab7403fbea0a_1">
+                <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/99424df8-1b2a-4739-8d7e-ab7403fbea0a/mnfd-bc-602.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="muenster_miami_99424df8-1b2a-4739-8d7e-ab7403fbea0a" DMDID="DMD_99424df8-1b2a-4739-8d7e-ab7403fbea0a">
+            <mets:fptr FILEID="FILE_99424df8-1b2a-4739-8d7e-ab7403fbea0a_1"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

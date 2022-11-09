@@ -1,5 +1,5 @@
 <mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ https://www.loc.gov/standards/mets/mets.xsd" OBJID="oai:wwu.de:b0929d00-bb63-4853-9aee-77ace8db865d" LABEL="University of Muenster, Institutional Repository MIAMI"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <mets:metsHdr CREATEDATE="2022-04-07T09:39:50">
+          <mets:metsHdr CREATEDATE="2022-11-09T14:55:39">
             <mets:agent TYPE="OTHER" ROLE="OTHER" OTHERTYPE="SOFTWARE">
               <mets:name>Memory Alpha</mets:name>
             </mets:agent>
@@ -49,7 +49,7 @@
                   </mods:originInfo>
                   <mods:originInfo>
                     <mods:dateIssued encoding="w3cdtf">2013-11-19</mods:dateIssued>
-                    <mods:dateModified encoding="w3cdtf">2015-07-27</mods:dateModified>
+                    <mods:dateModified encoding="w3cdtf">2022-05-05</mods:dateModified>
                     <mods:edition>[Electronic ed.]</mods:edition>
                   </mods:originInfo>
                   <mods:language>
@@ -59,6 +59,19 @@
                     <mods:internetMediaType>application/pdf</mods:internetMediaType>
                   </mods:physicalDescription>
                   <mods:targetAudience>specialized</mods:targetAudience>
+                  <mods:relatedItem type="host">
+                    <mods:titleInfo>
+                      <mods:title script="Latn">Freiburger Rundbrief</mods:title>
+                    </mods:titleInfo>
+                    <mods:part type="issue" order="1">
+                      <mods:detail>
+                        <mods:number>13 (2006) 1</mods:number>
+                      </mods:detail>
+                    </mods:part>
+                    <mods:recordInfo>
+                      <mods:recordIdentifier>oai:wwu.de:3be75cf3-8168-45fa-9d97-fb7814738569</mods:recordIdentifier>
+                    </mods:recordInfo>
+                  </mods:relatedItem>
                   <mods:identifier type="urn">urn:nbn:de:hbz:6-75309428602</mods:identifier>
                   <mods:location>
                     <mods:url access="object in context">https://miami.uni-muenster.de/Record/b0929d00-bb63-4853-9aee-77ace8db865d</mods:url>
@@ -103,7 +116,7 @@
           </mets:amdSec>
           <mets:fileSec>
             <mets:fileGrp USE="DEFAULT">
-              <mets:file MIMETYPE="application/pdf" CHECKSUM="7f887fbd2d71ed845c8e6e20f18ef4f3ac00636a4ef755158d8c40c4c87f808c" CREATED="2015-07-27T07:14:34" CHECKSUMTYPE="SHA-256" SIZE="499003" ID="ID_FIL_FrRu_2006_1.pdf_DEFAULT">
+              <mets:file MIMETYPE="application/pdf" CHECKSUM="7f887fbd2d71ed845c8e6e20f18ef4f3ac00636a4ef755158d8c40c4c87f808c" CREATED="2022-05-05T05:30:45" CHECKSUMTYPE="SHA-256" SIZE="499003" ID="ID_FIL_FrRu_2006_1.pdf_DEFAULT">
                 <mets:FLocat xlink:href="https://repositorium.uni-muenster.de/document/miami/b0929d00-bb63-4853-9aee-77ace8db865d/FrRu_2006_1.pdf" LOCTYPE="URL"/>
               </mets:file>
             </mets:fileGrp>
